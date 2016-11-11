@@ -1,7 +1,7 @@
 {
 	"id": 1,
-	"topic": "School Life",
-	"title": "Buying Textbooks",
+	"topic": "Jobs",
+	"title": "Choosing a Job",
 	"sentences": [
 		{
 			"id": 1,
