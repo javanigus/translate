@@ -7,7 +7,7 @@
 			"id": 1,
 			"Speaker": "A",
 			"English": "Hey, you're in my English class!",
-			"Egyptian Arabic": "هاى, انت معايا فكورس الانجليزى",
+			"Egyptian Arabic": "",
 			"Standard Arabic": "",
 			"Egyptian Arabic Audio": "eca-1-1.mp3",
 			"Standard Arabic Audio": "msa-1-1.mp3"
