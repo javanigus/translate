@@ -6,8 +6,8 @@
 		{
 			"id": 1,
 			"Speaker": "A",
-			"English": "Hey, you're in my English class!",
-			"Egyptian Arabic": "",
+			"English": " I have a problem.",
+			"Egyptian Arabic": "انا عندى مشكلة",
 			"Standard Arabic": "",
 			"Egyptian Arabic Audio": "eca-1-1.mp3",
 			"Standard Arabic Audio": "msa-1-1.mp3"
