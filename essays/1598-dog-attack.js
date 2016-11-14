@@ -1,0 +1,206 @@
+{
+	"id": "1598",
+	"title": "Dog Attack (2)",
+	"Word Count": 152,
+	"Sentence Count": 22,
+	"sentences": [
+		{
+			"id": 1,
+			"English": "James didn't say anything to the man about his dog.",
+			"Word Count": 10,
+			"Egyptian Arabic": "",
+			"Standard Arabic": "",
+			"Egyptian Arabic Audio": "eca-1598-1.mp3",
+			"Standard Arabic Audio": "msa-1598-1.mp3"
+		},
+		{
+			"id": 2,
+			"English": "They walked another 100 feet.",
+			"Word Count": 5,
+			"Egyptian Arabic": "",
+			"Standard Arabic": "",
+			"Egyptian Arabic Audio": "eca-1598-2.mp3",
+			"Standard Arabic Audio": "msa-1598-2.mp3"
+		},
+		{
+			"id": 3,
+			"English": "They heard a scream.",
+			"Word Count": 4,
+			"Egyptian Arabic": "",
+			"Standard Arabic": "",
+			"Egyptian Arabic Audio": "eca-1598-3.mp3",
+			"Standard Arabic Audio": "msa-1598-3.mp3"
+		},
+		{
+			"id": 4,
+			"English": "They turned around.",
+			"Word Count": 3,
+			"Egyptian Arabic": "",
+			"Standard Arabic": "",
+			"Egyptian Arabic Audio": "eca-1598-4.mp3",
+			"Standard Arabic Audio": "msa-1598-4.mp3"
+		},
+		{
+			"id": 5,
+			"English": "The pit bull was pulling on a little girl's foot.",
+			"Word Count": 10,
+			"Egyptian Arabic": "",
+			"Standard Arabic": "",
+			"Egyptian Arabic Audio": "eca-1598-5.mp3",
+			"Standard Arabic Audio": "msa-1598-5.mp3"
+		},
+		{
+			"id": 6,
+			"English": "The girl was lying on a blanket.",
+			"Word Count": 7,
+			"Egyptian Arabic": "",
+			"Standard Arabic": "",
+			"Egyptian Arabic Audio": "eca-1598-6.mp3",
+			"Standard Arabic Audio": "msa-1598-6.mp3"
+		},
+		{
+			"id": 7,
+			"English": "The dog was trying to drag her off the blanket.",
+			"Word Count": 10,
+			"Egyptian Arabic": "",
+			"Standard Arabic": "",
+			"Egyptian Arabic Audio": "eca-1598-7.mp3",
+			"Standard Arabic Audio": "msa-1598-7.mp3"
+		},
+		{
+			"id": 8,
+			"English": "Her father yelled at the dog.",
+			"Word Count": 6,
+			"Egyptian Arabic": "",
+			"Standard Arabic": "",
+			"Egyptian Arabic Audio": "eca-1598-8.mp3",
+			"Standard Arabic Audio": "msa-1598-8.mp3"
+		},
+		{
+			"id": 9,
+			"English": "The owner yelled at the dog.",
+			"Word Count": 6,
+			"Egyptian Arabic": "",
+			"Standard Arabic": "",
+			"Egyptian Arabic Audio": "eca-1598-9.mp3",
+			"Standard Arabic Audio": "msa-1598-9.mp3"
+		},
+		{
+			"id": 10,
+			"English": "The dog ran to the owner.",
+			"Word Count": 6,
+			"Egyptian Arabic": "",
+			"Standard Arabic": "",
+			"Egyptian Arabic Audio": "eca-1598-10.mp3",
+			"Standard Arabic Audio": "msa-1598-10.mp3"
+		},
+		{
+			"id": 11,
+			"English": "The little girl was bawling.",
+			"Word Count": 5,
+			"Egyptian Arabic": "",
+			"Standard Arabic": "",
+			"Egyptian Arabic Audio": "eca-1598-11.mp3",
+			"Standard Arabic Audio": "msa-1598-11.mp3"
+		},
+		{
+			"id": 12,
+			"English": "Her father picked her up and held her in his arms.",
+			"Word Count": 11,
+			"Egyptian Arabic": "",
+			"Standard Arabic": "",
+			"Egyptian Arabic Audio": "eca-1598-12.mp3",
+			"Standard Arabic Audio": "msa-1598-12.mp3"
+		},
+		{
+			"id": 13,
+			"English": "They should throw all pit bulls into the ocean, James thought.",
+			"Word Count": 11,
+			"Egyptian Arabic": "",
+			"Standard Arabic": "",
+			"Egyptian Arabic Audio": "eca-1598-13.mp3",
+			"Standard Arabic Audio": "msa-1598-13.mp3"
+		},
+		{
+			"id": 14,
+			"English": "They walked into a park building.",
+			"Word Count": 6,
+			"Egyptian Arabic": "",
+			"Standard Arabic": "",
+			"Egyptian Arabic Audio": "eca-1598-14.mp3",
+			"Standard Arabic Audio": "msa-1598-14.mp3"
+		},
+		{
+			"id": 15,
+			"English": "James told an employee inside about the attack.",
+			"Word Count": 8,
+			"Egyptian Arabic": "",
+			"Standard Arabic": "",
+			"Egyptian Arabic Audio": "eca-1598-15.mp3",
+			"Standard Arabic Audio": "msa-1598-15.mp3"
+		},
+		{
+			"id": 16,
+			"English": "\"Really?\" he said.",
+			"Word Count": 3,
+			"Egyptian Arabic": "",
+			"Standard Arabic": "",
+			"Egyptian Arabic Audio": "eca-1598-16.mp3",
+			"Standard Arabic Audio": "msa-1598-16.mp3"
+		},
+		{
+			"id": 17,
+			"English": "\"That's too bad.",
+			"Word Count": 3,
+			"Egyptian Arabic": "",
+			"Standard Arabic": "",
+			"Egyptian Arabic Audio": "eca-1598-17.mp3",
+			"Standard Arabic Audio": "msa-1598-17.mp3"
+		},
+		{
+			"id": 18,
+			"English": "I hope she's all right.",
+			"Word Count": 5,
+			"Egyptian Arabic": "",
+			"Standard Arabic": "",
+			"Egyptian Arabic Audio": "eca-1598-18.mp3",
+			"Standard Arabic Audio": "msa-1598-18.mp3"
+		},
+		{
+			"id": 19,
+			"English": "\" He didn't say anything about calling the park police.",
+			"Word Count": 10,
+			"Egyptian Arabic": "",
+			"Standard Arabic": "",
+			"Egyptian Arabic Audio": "eca-1598-19.mp3",
+			"Standard Arabic Audio": "msa-1598-19.mp3"
+		},
+		{
+			"id": 20,
+			"English": "They walked back outside.",
+			"Word Count": 4,
+			"Egyptian Arabic": "",
+			"Standard Arabic": "",
+			"Egyptian Arabic Audio": "eca-1598-20.mp3",
+			"Standard Arabic Audio": "msa-1598-20.mp3"
+		},
+		{
+			"id": 21,
+			"English": "The little girl was still bawling in her father's arms.",
+			"Word Count": 10,
+			"Egyptian Arabic": "",
+			"Standard Arabic": "",
+			"Egyptian Arabic Audio": "eca-1598-21.mp3",
+			"Standard Arabic Audio": "msa-1598-21.mp3"
+		},
+		{
+			"id": 22,
+			"English": "The pit bull was now on a leash.",
+			"Word Count": 8,
+			"Egyptian Arabic": "",
+			"Standard Arabic": "",
+			"Egyptian Arabic Audio": "eca-1598-22.mp3",
+			"Standard Arabic Audio": "msa-1598-22.mp3"
+		}
+	]
+}

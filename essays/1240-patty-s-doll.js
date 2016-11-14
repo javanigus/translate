@@ -1,0 +1,197 @@
+{
+	"id": "1240",
+	"title": "Patty's Doll",
+	"Word Count": 111,
+	"Sentence Count": 21,
+	"sentences": [
+		{
+			"id": 1,
+			"English": "Patty got a doll for Christmas.",
+			"Word Count": 6,
+			"Egyptian Arabic": "",
+			"Standard Arabic": "",
+			"Egyptian Arabic Audio": "eca-1240-1.mp3",
+			"Standard Arabic Audio": "msa-1240-1.mp3"
+		},
+		{
+			"id": 2,
+			"English": "It is her favorite doll.",
+			"Word Count": 5,
+			"Egyptian Arabic": "",
+			"Standard Arabic": "",
+			"Egyptian Arabic Audio": "eca-1240-2.mp3",
+			"Standard Arabic Audio": "msa-1240-2.mp3"
+		},
+		{
+			"id": 3,
+			"English": "It is a rag doll.",
+			"Word Count": 5,
+			"Egyptian Arabic": "",
+			"Standard Arabic": "",
+			"Egyptian Arabic Audio": "eca-1240-3.mp3",
+			"Standard Arabic Audio": "msa-1240-3.mp3"
+		},
+		{
+			"id": 4,
+			"English": "It has a yellow dress.",
+			"Word Count": 5,
+			"Egyptian Arabic": "",
+			"Standard Arabic": "",
+			"Egyptian Arabic Audio": "eca-1240-4.mp3",
+			"Standard Arabic Audio": "msa-1240-4.mp3"
+		},
+		{
+			"id": 5,
+			"English": "It has a blue blouse.",
+			"Word Count": 5,
+			"Egyptian Arabic": "",
+			"Standard Arabic": "",
+			"Egyptian Arabic Audio": "eca-1240-5.mp3",
+			"Standard Arabic Audio": "msa-1240-5.mp3"
+		},
+		{
+			"id": 6,
+			"English": "The name of the doll is Molly.",
+			"Word Count": 7,
+			"Egyptian Arabic": "",
+			"Standard Arabic": "",
+			"Egyptian Arabic Audio": "eca-1240-6.mp3",
+			"Standard Arabic Audio": "msa-1240-6.mp3"
+		},
+		{
+			"id": 7,
+			"English": "Molly has bright red hair.",
+			"Word Count": 5,
+			"Egyptian Arabic": "",
+			"Standard Arabic": "",
+			"Egyptian Arabic Audio": "eca-1240-7.mp3",
+			"Standard Arabic Audio": "msa-1240-7.mp3"
+		},
+		{
+			"id": 8,
+			"English": "She has red lips.",
+			"Word Count": 4,
+			"Egyptian Arabic": "",
+			"Standard Arabic": "",
+			"Egyptian Arabic Audio": "eca-1240-8.mp3",
+			"Standard Arabic Audio": "msa-1240-8.mp3"
+		},
+		{
+			"id": 9,
+			"English": "She has blue eyes.",
+			"Word Count": 4,
+			"Egyptian Arabic": "",
+			"Standard Arabic": "",
+			"Egyptian Arabic Audio": "eca-1240-9.mp3",
+			"Standard Arabic Audio": "msa-1240-9.mp3"
+		},
+		{
+			"id": 10,
+			"English": "She has a pink ribbon in her hair.",
+			"Word Count": 8,
+			"Egyptian Arabic": "",
+			"Standard Arabic": "",
+			"Egyptian Arabic Audio": "eca-1240-10.mp3",
+			"Standard Arabic Audio": "msa-1240-10.mp3"
+		},
+		{
+			"id": 11,
+			"English": "Molly is wearing red shoes.",
+			"Word Count": 5,
+			"Egyptian Arabic": "",
+			"Standard Arabic": "",
+			"Egyptian Arabic Audio": "eca-1240-11.mp3",
+			"Standard Arabic Audio": "msa-1240-11.mp3"
+		},
+		{
+			"id": 12,
+			"English": "She's wearing white socks.",
+			"Word Count": 4,
+			"Egyptian Arabic": "",
+			"Standard Arabic": "",
+			"Egyptian Arabic Audio": "eca-1240-12.mp3",
+			"Standard Arabic Audio": "msa-1240-12.mp3"
+		},
+		{
+			"id": 13,
+			"English": "Molly has a purse.",
+			"Word Count": 4,
+			"Egyptian Arabic": "",
+			"Standard Arabic": "",
+			"Egyptian Arabic Audio": "eca-1240-13.mp3",
+			"Standard Arabic Audio": "msa-1240-13.mp3"
+		},
+		{
+			"id": 14,
+			"English": "Her purse is pink.",
+			"Word Count": 4,
+			"Egyptian Arabic": "",
+			"Standard Arabic": "",
+			"Egyptian Arabic Audio": "eca-1240-14.mp3",
+			"Standard Arabic Audio": "msa-1240-14.mp3"
+		},
+		{
+			"id": 15,
+			"English": "The purse is empty.",
+			"Word Count": 4,
+			"Egyptian Arabic": "",
+			"Standard Arabic": "",
+			"Egyptian Arabic Audio": "eca-1240-15.mp3",
+			"Standard Arabic Audio": "msa-1240-15.mp3"
+		},
+		{
+			"id": 16,
+			"English": "There is nothing in the purse.",
+			"Word Count": 6,
+			"Egyptian Arabic": "",
+			"Standard Arabic": "",
+			"Egyptian Arabic Audio": "eca-1240-16.mp3",
+			"Standard Arabic Audio": "msa-1240-16.mp3"
+		},
+		{
+			"id": 17,
+			"English": "There was a little mirror in the purse.",
+			"Word Count": 8,
+			"Egyptian Arabic": "",
+			"Standard Arabic": "",
+			"Egyptian Arabic Audio": "eca-1240-17.mp3",
+			"Standard Arabic Audio": "msa-1240-17.mp3"
+		},
+		{
+			"id": 18,
+			"English": "But Patty lost the mirror.",
+			"Word Count": 5,
+			"Egyptian Arabic": "",
+			"Standard Arabic": "",
+			"Egyptian Arabic Audio": "eca-1240-18.mp3",
+			"Standard Arabic Audio": "msa-1240-18.mp3"
+		},
+		{
+			"id": 19,
+			"English": "When she lost the mirror, she said, \"I'm sorry, Molly.",
+			"Word Count": 10,
+			"Egyptian Arabic": "",
+			"Standard Arabic": "",
+			"Egyptian Arabic Audio": "eca-1240-19.mp3",
+			"Standard Arabic Audio": "msa-1240-19.mp3"
+		},
+		{
+			"id": 20,
+			"English": "I will get you another mirror.",
+			"Word Count": 6,
+			"Egyptian Arabic": "",
+			"Standard Arabic": "",
+			"Egyptian Arabic Audio": "eca-1240-20.mp3",
+			"Standard Arabic Audio": "msa-1240-20.mp3"
+		},
+		{
+			"id": 21,
+			"English": "\".",
+			"Word Count": 1,
+			"Egyptian Arabic": "",
+			"Standard Arabic": "",
+			"Egyptian Arabic Audio": "eca-1240-21.mp3",
+			"Standard Arabic Audio": "msa-1240-21.mp3"
+		}
+	]
+}

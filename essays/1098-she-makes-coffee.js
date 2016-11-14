@@ -1,0 +1,80 @@
+{
+	"id": "1098",
+	"title": "She Makes Coffee",
+	"Word Count": 54,
+	"Sentence Count": 8,
+	"sentences": [
+		{
+			"id": 1,
+			"English": "She opens the bag of coffee beans.",
+			"Word Count": 7,
+			"Egyptian Arabic": "",
+			"Standard Arabic": "",
+			"Egyptian Arabic Audio": "eca-1098-1.mp3",
+			"Standard Arabic Audio": "msa-1098-1.mp3"
+		},
+		{
+			"id": 2,
+			"English": "She pours some beans into the grinder.",
+			"Word Count": 7,
+			"Egyptian Arabic": "",
+			"Standard Arabic": "",
+			"Egyptian Arabic Audio": "eca-1098-2.mp3",
+			"Standard Arabic Audio": "msa-1098-2.mp3"
+		},
+		{
+			"id": 3,
+			"English": "She puts the lid back on top of the grinder.",
+			"Word Count": 10,
+			"Egyptian Arabic": "",
+			"Standard Arabic": "",
+			"Egyptian Arabic Audio": "eca-1098-3.mp3",
+			"Standard Arabic Audio": "msa-1098-3.mp3"
+		},
+		{
+			"id": 4,
+			"English": "She turns on the grinder.",
+			"Word Count": 5,
+			"Egyptian Arabic": "",
+			"Standard Arabic": "",
+			"Egyptian Arabic Audio": "eca-1098-4.mp3",
+			"Standard Arabic Audio": "msa-1098-4.mp3"
+		},
+		{
+			"id": 5,
+			"English": "She grinds the beans for 10 seconds.",
+			"Word Count": 7,
+			"Egyptian Arabic": "",
+			"Standard Arabic": "",
+			"Egyptian Arabic Audio": "eca-1098-5.mp3",
+			"Standard Arabic Audio": "msa-1098-5.mp3"
+		},
+		{
+			"id": 6,
+			"English": "She removes the lid.",
+			"Word Count": 4,
+			"Egyptian Arabic": "",
+			"Standard Arabic": "",
+			"Egyptian Arabic Audio": "eca-1098-6.mp3",
+			"Standard Arabic Audio": "msa-1098-6.mp3"
+		},
+		{
+			"id": 7,
+			"English": "She pours the ground beans into a paper filter.",
+			"Word Count": 9,
+			"Egyptian Arabic": "",
+			"Standard Arabic": "",
+			"Egyptian Arabic Audio": "eca-1098-7.mp3",
+			"Standard Arabic Audio": "msa-1098-7.mp3"
+		},
+		{
+			"id": 8,
+			"English": "She boils some water.",
+			"Word Count": 4,
+			"Egyptian Arabic": "",
+			"Standard Arabic": "",
+			"Egyptian Arabic Audio": "eca-1098-8.mp3",
+			"Standard Arabic Audio": "msa-1098-8.mp3"
+		}
+	]
+}
