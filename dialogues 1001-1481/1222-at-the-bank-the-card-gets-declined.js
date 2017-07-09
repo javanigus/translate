@@ -11,7 +11,7 @@
 			"English": "Your total comes to $36.78.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "مجموع الخاص بك إلى 36.78 $.",
 			"Egyptian Arabic Audio": "eca-1222-1.mp3",
 			"Standard Arabic Audio": "msa-1222-1.mp3"
 		},
@@ -21,7 +21,7 @@
 			"English": "Put it on my VISA.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أضفه على الفيزا خاصتي.",
 			"Egyptian Arabic Audio": "eca-1222-2.mp3",
 			"Standard Arabic Audio": "msa-1222-2.mp3"
 		},
@@ -31,7 +31,7 @@
 			"English": "There's a problem with your card.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هناك مشكلة في بطاقتك.",
 			"Egyptian Arabic Audio": "eca-1222-3.mp3",
 			"Standard Arabic Audio": "msa-1222-3.mp3"
 		},
@@ -41,7 +41,7 @@
 			"English": "What's wrong with it?",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ما الخطأ فى ذلك؟",
 			"Egyptian Arabic Audio": "eca-1222-4.mp3",
 			"Standard Arabic Audio": "msa-1222-4.mp3"
 		},
@@ -51,7 +51,7 @@
 			"English": "I believe it was declined.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وأعتقد أنه رفض.",
 			"Egyptian Arabic Audio": "eca-1222-5.mp3",
 			"Standard Arabic Audio": "msa-1222-5.mp3"
 		},
@@ -61,7 +61,7 @@
 			"English": "You're kidding me!",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنت تمزح معي!",
 			"Egyptian Arabic Audio": "eca-1222-6.mp3",
 			"Standard Arabic Audio": "msa-1222-6.mp3"
 		},
@@ -71,7 +71,7 @@
 			"English": "Do you have another card I could try?",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هل لديك بطاقة أخرى يمكنني تجربتها؟",
 			"Egyptian Arabic Audio": "eca-1222-7.mp3",
 			"Standard Arabic Audio": "msa-1222-7.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "I only have one card.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ليس لدي سوى بطاقة واحدة.",
 			"Egyptian Arabic Audio": "eca-1222-8.mp3",
 			"Standard Arabic Audio": "msa-1222-8.mp3"
 		},
@@ -91,7 +91,7 @@
 			"English": "Do you have cash, perhaps?",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هل لديك نقد، ربما؟",
 			"Egyptian Arabic Audio": "eca-1222-9.mp3",
 			"Standard Arabic Audio": "msa-1222-9.mp3"
 		},
@@ -101,7 +101,7 @@
 			"English": "I don't have any cash on me.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ليس لدي أي نقود علي.",
 			"Egyptian Arabic Audio": "eca-1222-10.mp3",
 			"Standard Arabic Audio": "msa-1222-10.mp3"
 		},
@@ -111,7 +111,7 @@
 			"English": "You're not going to be able to take these items today.",
 			"Word Count": 11,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنت لن تكون قادرة على اتخاذ هذه العناصر اليوم.",
 			"Egyptian Arabic Audio": "eca-1222-11.mp3",
 			"Standard Arabic Audio": "msa-1222-11.mp3"
 		},
@@ -121,7 +121,7 @@
 			"English": "I'll be back tomorrow.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "سأعود غدا.",
 			"Egyptian Arabic Audio": "eca-1222-12.mp3",
 			"Standard Arabic Audio": "msa-1222-12.mp3"
 		},
@@ -131,7 +131,7 @@
 			"English": "The total for all these items comes to $36.78.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ويصل مجموع هذه البنود إلى 36.78 دولار.",
 			"Egyptian Arabic Audio": "eca-1222-13.mp3",
 			"Standard Arabic Audio": "msa-1222-13.mp3"
 		},
@@ -141,7 +141,7 @@
 			"English": "Take my VISA.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "خذ فيزا.",
 			"Egyptian Arabic Audio": "eca-1222-14.mp3",
 			"Standard Arabic Audio": "msa-1222-14.mp3"
 		},
@@ -151,7 +151,7 @@
 			"English": "There is something wrong with your card.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هناك خطأ ما في بطاقتك.",
 			"Egyptian Arabic Audio": "eca-1222-15.mp3",
 			"Standard Arabic Audio": "msa-1222-15.mp3"
 		},
@@ -161,7 +161,7 @@
 			"English": "What's going on?",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ماذا يحدث هنا؟",
 			"Egyptian Arabic Audio": "eca-1222-16.mp3",
 			"Standard Arabic Audio": "msa-1222-16.mp3"
 		},
@@ -171,7 +171,7 @@
 			"English": "Your card was declined.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "تم رفض بطاقتك.",
 			"Egyptian Arabic Audio": "eca-1222-17.mp3",
 			"Standard Arabic Audio": "msa-1222-17.mp3"
 		},
@@ -181,7 +181,7 @@
 			"English": "That can't be right!",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هذا لا يمكن أن يكون على حق!",
 			"Egyptian Arabic Audio": "eca-1222-18.mp3",
 			"Standard Arabic Audio": "msa-1222-18.mp3"
 		},
@@ -191,7 +191,7 @@
 			"English": "Would you like me to try another card?",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هل تريد مني تجربة بطاقة أخرى؟",
 			"Egyptian Arabic Audio": "eca-1222-19.mp3",
 			"Standard Arabic Audio": "msa-1222-19.mp3"
 		},
@@ -201,7 +201,7 @@
 			"English": "I don't have another one.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ليس لدي واحد آخر.",
 			"Egyptian Arabic Audio": "eca-1222-20.mp3",
 			"Standard Arabic Audio": "msa-1222-20.mp3"
 		},
@@ -211,7 +211,7 @@
 			"English": "What about cash?",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ماذا عن النقد؟",
 			"Egyptian Arabic Audio": "eca-1222-21.mp3",
 			"Standard Arabic Audio": "msa-1222-21.mp3"
 		},
@@ -221,7 +221,7 @@
 			"English": "I didn't bring cash with me today.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لم أحضر نقدا معي اليوم.",
 			"Egyptian Arabic Audio": "eca-1222-22.mp3",
 			"Standard Arabic Audio": "msa-1222-22.mp3"
 		},
@@ -231,7 +231,7 @@
 			"English": "I'm sorry, but you can't take the items until you can buy them.",
 			"Word Count": 13,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنا آسف، ولكن لا يمكنك أخذ العناصر حتى يمكنك شرائها.",
 			"Egyptian Arabic Audio": "eca-1222-23.mp3",
 			"Standard Arabic Audio": "msa-1222-23.mp3"
 		},
@@ -241,7 +241,7 @@
 			"English": "I'll come back for them tomorrow.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "سأعود لهم غدا.",
 			"Egyptian Arabic Audio": "eca-1222-24.mp3",
 			"Standard Arabic Audio": "msa-1222-24.mp3"
 		},
@@ -251,7 +251,7 @@
 			"English": "You owe $36.78.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنت مدين 36.78 دولار.",
 			"Egyptian Arabic Audio": "eca-1222-25.mp3",
 			"Standard Arabic Audio": "msa-1222-25.mp3"
 		},
@@ -261,7 +261,7 @@
 			"English": "Here's my VISA card.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "إليك بطاقة فيسا الخاصة بي.",
 			"Egyptian Arabic Audio": "eca-1222-26.mp3",
 			"Standard Arabic Audio": "msa-1222-26.mp3"
 		},
@@ -271,7 +271,7 @@
 			"English": "I'm sorry, but your card isn't working.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنا آسف، ولكن بطاقتك لا تعمل.",
 			"Egyptian Arabic Audio": "eca-1222-27.mp3",
 			"Standard Arabic Audio": "msa-1222-27.mp3"
 		},
@@ -281,7 +281,7 @@
 			"English": "What's the problem?",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ما هي المشكلة؟",
 			"Egyptian Arabic Audio": "eca-1222-28.mp3",
 			"Standard Arabic Audio": "msa-1222-28.mp3"
 		},
@@ -291,7 +291,7 @@
 			"English": "The machine says your card was declined.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "تقول الآلة إنه تم رفض بطاقتك.",
 			"Egyptian Arabic Audio": "eca-1222-29.mp3",
 			"Standard Arabic Audio": "msa-1222-29.mp3"
 		},
@@ -301,7 +301,7 @@
 			"English": "It was?",
 			"Word Count": 2,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كان؟",
 			"Egyptian Arabic Audio": "eca-1222-30.mp3",
 			"Standard Arabic Audio": "msa-1222-30.mp3"
 		},
@@ -311,7 +311,7 @@
 			"English": "Do you have another card?",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هل لديك بطاقة أخرى؟",
 			"Egyptian Arabic Audio": "eca-1222-31.mp3",
 			"Standard Arabic Audio": "msa-1222-31.mp3"
 		},
@@ -321,7 +321,7 @@
 			"English": "That's my only one.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هذا هو بلدي الوحيد.",
 			"Egyptian Arabic Audio": "eca-1222-32.mp3",
 			"Standard Arabic Audio": "msa-1222-32.mp3"
 		},
@@ -331,7 +331,7 @@
 			"English": "Maybe you can just pay in cash?",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ربما يمكنك فقط دفع نقدا؟",
 			"Egyptian Arabic Audio": "eca-1222-33.mp3",
 			"Standard Arabic Audio": "msa-1222-33.mp3"
 		},
@@ -341,7 +341,7 @@
 			"English": "No cash today.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لا نقدا اليوم.",
 			"Egyptian Arabic Audio": "eca-1222-34.mp3",
 			"Standard Arabic Audio": "msa-1222-34.mp3"
 		},
@@ -351,7 +351,7 @@
 			"English": "I guess you won't be able to purchase these items today.",
 			"Word Count": 11,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أعتقد أنك لن تكون قادرة على شراء هذه العناصر اليوم.",
 			"Egyptian Arabic Audio": "eca-1222-35.mp3",
 			"Standard Arabic Audio": "msa-1222-35.mp3"
 		},
@@ -361,7 +361,7 @@
 			"English": "I'll come tomorrow with cash.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "سأأتي غدا نقدا.",
 			"Egyptian Arabic Audio": "eca-1222-36.mp3",
 			"Standard Arabic Audio": "msa-1222-36.mp3"
 		}

@@ -9,7 +9,7 @@
 			"English": "He waits for his package.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انه ينتظر لحزمته.",
 			"Egyptian Arabic Audio": "eca-0089-1.mp3",
 			"Standard Arabic Audio": "msa-0089-1.mp3"
 		},
@@ -18,7 +18,7 @@
 			"English": "He is excited.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هو متحمس.",
 			"Egyptian Arabic Audio": "eca-0089-2.mp3",
 			"Standard Arabic Audio": "msa-0089-2.mp3"
 		},
@@ -27,7 +27,7 @@
 			"English": "He will finally get his t-shirt today.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وقال انه في النهاية الحصول على قميصه اليوم.",
 			"Egyptian Arabic Audio": "eca-0089-3.mp3",
 			"Standard Arabic Audio": "msa-0089-3.mp3"
 		},
@@ -36,7 +36,7 @@
 			"English": "He waits outside his house.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ينتظر خارج منزله.",
 			"Egyptian Arabic Audio": "eca-0089-4.mp3",
 			"Standard Arabic Audio": "msa-0089-4.mp3"
 		},
@@ -45,7 +45,7 @@
 			"English": "The mail carrier gives him the package.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "الناقل البريد يعطيه الحزمة.",
 			"Egyptian Arabic Audio": "eca-0089-5.mp3",
 			"Standard Arabic Audio": "msa-0089-5.mp3"
 		},
@@ -54,7 +54,7 @@
 			"English": "He opens it.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انه يفتح.",
 			"Egyptian Arabic Audio": "eca-0089-6.mp3",
 			"Standard Arabic Audio": "msa-0089-6.mp3"
 		},
@@ -63,7 +63,7 @@
 			"English": "The t-shirt is red.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "القميص أحمر.",
 			"Egyptian Arabic Audio": "eca-0089-7.mp3",
 			"Standard Arabic Audio": "msa-0089-7.mp3"
 		},
@@ -72,7 +72,7 @@
 			"English": "He ordered the blue one.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أمر واحد الأزرق.",
 			"Egyptian Arabic Audio": "eca-0089-8.mp3",
 			"Standard Arabic Audio": "msa-0089-8.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "He is upset.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انه مستاء.",
 			"Egyptian Arabic Audio": "eca-0089-9.mp3",
 			"Standard Arabic Audio": "msa-0089-9.mp3"
 		},
@@ -90,7 +90,7 @@
 			"English": "He calls the company.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ويدعو الشركة.",
 			"Egyptian Arabic Audio": "eca-0089-10.mp3",
 			"Standard Arabic Audio": "msa-0089-10.mp3"
 		},
@@ -99,7 +99,7 @@
 			"English": "The manager apologizes.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "المدير يعتذر.",
 			"Egyptian Arabic Audio": "eca-0089-11.mp3",
 			"Standard Arabic Audio": "msa-0089-11.mp3"
 		},
@@ -108,7 +108,7 @@
 			"English": "He will send the blue t-shirt for free.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وقال انه سوف ترسل الأزرق تي شيرت مجانا.",
 			"Egyptian Arabic Audio": "eca-0089-12.mp3",
 			"Standard Arabic Audio": "msa-0089-12.mp3"
 		}

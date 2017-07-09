@@ -9,7 +9,7 @@
 			"English": "He woke up.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "استيقظ.",
 			"Egyptian Arabic Audio": "eca-0630-1.mp3",
 			"Standard Arabic Audio": "msa-0630-1.mp3"
 		},
@@ -18,7 +18,7 @@
 			"English": "He got out of bed.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "خرج من السرير.",
 			"Egyptian Arabic Audio": "eca-0630-2.mp3",
 			"Standard Arabic Audio": "msa-0630-2.mp3"
 		},
@@ -27,7 +27,7 @@
 			"English": "He went to the restroom and took a shower.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ذهب إلى الحمام واستغرق الاستحمام.",
 			"Egyptian Arabic Audio": "eca-0630-3.mp3",
 			"Standard Arabic Audio": "msa-0630-3.mp3"
 		},
@@ -36,7 +36,7 @@
 			"English": "The water was cold at first.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كان الماء باردا في البداية.",
 			"Egyptian Arabic Audio": "eca-0630-4.mp3",
 			"Standard Arabic Audio": "msa-0630-4.mp3"
 		},
@@ -45,7 +45,7 @@
 			"English": "He made it warm.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "جعله دافئا.",
 			"Egyptian Arabic Audio": "eca-0630-5.mp3",
 			"Standard Arabic Audio": "msa-0630-5.mp3"
 		},
@@ -54,7 +54,7 @@
 			"English": "He took ten minutes to shower.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "استغرق عشر دقائق للاستحمام.",
 			"Egyptian Arabic Audio": "eca-0630-6.mp3",
 			"Standard Arabic Audio": "msa-0630-6.mp3"
 		},
@@ -63,7 +63,7 @@
 			"English": "He stepped out of the shower.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "خرج من الحمام.",
 			"Egyptian Arabic Audio": "eca-0630-7.mp3",
 			"Standard Arabic Audio": "msa-0630-7.mp3"
 		},
@@ -72,7 +72,7 @@
 			"English": "The floor became wet.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أصبحت الأرض رطبة.",
 			"Egyptian Arabic Audio": "eca-0630-8.mp3",
 			"Standard Arabic Audio": "msa-0630-8.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "He grabbed a towel.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أمسك منشفة.",
 			"Egyptian Arabic Audio": "eca-0630-9.mp3",
 			"Standard Arabic Audio": "msa-0630-9.mp3"
 		},
@@ -90,7 +90,7 @@
 			"English": "He wrapped it all around him.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كان يلفها حوله.",
 			"Egyptian Arabic Audio": "eca-0630-10.mp3",
 			"Standard Arabic Audio": "msa-0630-10.mp3"
 		},
@@ -99,7 +99,7 @@
 			"English": "He went to his bathroom mirror.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ذهب إلى مرآة الحمام له.",
 			"Egyptian Arabic Audio": "eca-0630-11.mp3",
 			"Standard Arabic Audio": "msa-0630-11.mp3"
 		},
@@ -108,7 +108,7 @@
 			"English": "He saw his reflection.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "رأى تأمله.",
 			"Egyptian Arabic Audio": "eca-0630-12.mp3",
 			"Standard Arabic Audio": "msa-0630-12.mp3"
 		},
@@ -117,7 +117,7 @@
 			"English": "He looked handsome.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "بدا وسيم.",
 			"Egyptian Arabic Audio": "eca-0630-13.mp3",
 			"Standard Arabic Audio": "msa-0630-13.mp3"
 		},
@@ -126,7 +126,7 @@
 			"English": "He had grown facial hair.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كان قد نمت شعر الوجه.",
 			"Egyptian Arabic Audio": "eca-0630-14.mp3",
 			"Standard Arabic Audio": "msa-0630-14.mp3"
 		},
@@ -135,7 +135,7 @@
 			"English": "It was time for him to shave it.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لقد حان الوقت له أن يحلق.",
 			"Egyptian Arabic Audio": "eca-0630-15.mp3",
 			"Standard Arabic Audio": "msa-0630-15.mp3"
 		},
@@ -144,7 +144,7 @@
 			"English": "He grabbed the shaving cream and poured some in his hand.",
 			"Word Count": 11,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أمسك كريم الحلاقة وسكب بعض في يده.",
 			"Egyptian Arabic Audio": "eca-0630-16.mp3",
 			"Standard Arabic Audio": "msa-0630-16.mp3"
 		},
@@ -153,7 +153,7 @@
 			"English": "He spread the shaving cream around his face.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انه انتشر كريم الحلاقة حول وجهه.",
 			"Egyptian Arabic Audio": "eca-0630-17.mp3",
 			"Standard Arabic Audio": "msa-0630-17.mp3"
 		},
@@ -162,7 +162,7 @@
 			"English": "He grabbed the razor and started shaving.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أمسك الحلاقة وبدأ الحلاقة.",
 			"Egyptian Arabic Audio": "eca-0630-18.mp3",
 			"Standard Arabic Audio": "msa-0630-18.mp3"
 		},
@@ -171,7 +171,7 @@
 			"English": "He cut himself by accident.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انه قطع نفسه عن طريق الصدفة.",
 			"Egyptian Arabic Audio": "eca-0630-19.mp3",
 			"Standard Arabic Audio": "msa-0630-19.mp3"
 		},
@@ -180,7 +180,7 @@
 			"English": "It started bleeding.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "بدأت النزيف.",
 			"Egyptian Arabic Audio": "eca-0630-20.mp3",
 			"Standard Arabic Audio": "msa-0630-20.mp3"
 		},
@@ -189,7 +189,7 @@
 			"English": "He was not hurt.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لم يصب.",
 			"Egyptian Arabic Audio": "eca-0630-21.mp3",
 			"Standard Arabic Audio": "msa-0630-21.mp3"
 		},
@@ -198,7 +198,7 @@
 			"English": "He washed his face and applied aftershave.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "الوجه الصفع غسل وجهه وتطبيقها بعد الحلاقة.",
 			"Egyptian Arabic Audio": "eca-0630-22.mp3",
 			"Standard Arabic Audio": "msa-0630-22.mp3"
 		},
@@ -207,7 +207,7 @@
 			"English": "He put a band-aid on his cut.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وضع مساعدة جماعية على قطعه.",
 			"Egyptian Arabic Audio": "eca-0630-23.mp3",
 			"Standard Arabic Audio": "msa-0630-23.mp3"
 		},
@@ -216,7 +216,7 @@
 			"English": "The cut stung him a little.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "قطعت له قليلا.",
 			"Egyptian Arabic Audio": "eca-0630-24.mp3",
 			"Standard Arabic Audio": "msa-0630-24.mp3"
 		},
@@ -225,7 +225,7 @@
 			"English": "He dried himself, and started getting ready for work.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "جفف نفسه، وبدأ يستعد للعمل.",
 			"Egyptian Arabic Audio": "eca-0630-25.mp3",
 			"Standard Arabic Audio": "msa-0630-25.mp3"
 		}

@@ -9,7 +9,7 @@
 			"English": "Neil said not to worry.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وقال نيل لا داعي للقلق.",
 			"Egyptian Arabic Audio": "eca-1814-1.mp3",
 			"Standard Arabic Audio": "msa-1814-1.mp3"
 		},
@@ -18,7 +18,7 @@
 			"English": "There was still plenty of time for him to figure out a way for the kids to have fun and still become happy millionaires.",
 			"Word Count": 24,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كان لا يزال هناك الكثير من الوقت بالنسبة له لمعرفة وسيلة للأطفال للحصول على المتعة، ولا تزال تصبح الملايين سعداء.",
 			"Egyptian Arabic Audio": "eca-1814-2.mp3",
 			"Standard Arabic Audio": "msa-1814-2.mp3"
 		}

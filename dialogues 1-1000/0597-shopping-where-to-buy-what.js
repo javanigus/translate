@@ -11,7 +11,7 @@
 			"English": "Do you want to come with me to Walmart?",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هل تريد أن تأتي معي إلى وول مارت؟",
 			"Egyptian Arabic Audio": "eca-0597-1.mp3",
 			"Standard Arabic Audio": "msa-0597-1.mp3"
 		},
@@ -21,7 +21,7 @@
 			"English": "What do you need to buy?",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ماذا كنت بحاجة لشراء؟",
 			"Egyptian Arabic Audio": "eca-0597-2.mp3",
 			"Standard Arabic Audio": "msa-0597-2.mp3"
 		},
@@ -31,7 +31,7 @@
 			"English": "I'm out of groceries.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنا من محلات البقالة.",
 			"Egyptian Arabic Audio": "eca-0597-3.mp3",
 			"Standard Arabic Audio": "msa-0597-3.mp3"
 		},
@@ -41,7 +41,7 @@
 			"English": "Groceries are expensive at Walmart!",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "البقالة غالية الثمن في وول مارت!",
 			"Egyptian Arabic Audio": "eca-0597-4.mp3",
 			"Standard Arabic Audio": "msa-0597-4.mp3"
 		},
@@ -51,7 +51,7 @@
 			"English": "You really think so?",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كنت حقا أعتقد ذلك؟",
 			"Egyptian Arabic Audio": "eca-0597-5.mp3",
 			"Standard Arabic Audio": "msa-0597-5.mp3"
 		},
@@ -61,7 +61,7 @@
 			"English": "Yes! You should buy groceries at the market.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "نعم فعلا! يجب عليك شراء البقالة في السوق.",
 			"Egyptian Arabic Audio": "eca-0597-6.mp3",
 			"Standard Arabic Audio": "msa-0597-6.mp3"
 		},
@@ -71,7 +71,7 @@
 			"English": "I also need some new blankets.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كما أنني بحاجة إلى بعض البطانيات الجديدة.",
 			"Egyptian Arabic Audio": "eca-0597-7.mp3",
 			"Standard Arabic Audio": "msa-0597-7.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "Well, you'd buy that at Walmart.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "حسنا، يمكنك شراء ذلك في وول مارت.",
 			"Egyptian Arabic Audio": "eca-0597-8.mp3",
 			"Standard Arabic Audio": "msa-0597-8.mp3"
 		},
@@ -91,7 +91,7 @@
 			"English": "If Walmart sells both, why go to different stores?",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "إذا بيعت وول مارت، لماذا تذهب إلى مخازن مختلفة؟",
 			"Egyptian Arabic Audio": "eca-0597-9.mp3",
 			"Standard Arabic Audio": "msa-0597-9.mp3"
 		},
@@ -101,7 +101,7 @@
 			"English": "You'll save money if you do.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "عليك توفير المال إذا كنت تفعل.",
 			"Egyptian Arabic Audio": "eca-0597-10.mp3",
 			"Standard Arabic Audio": "msa-0597-10.mp3"
 		},
@@ -111,7 +111,7 @@
 			"English": "Why will I save money by going to different stores?",
 			"Word Count": 10,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لماذا سأوفر المال عن طريق الذهاب إلى مخازن مختلفة؟",
 			"Egyptian Arabic Audio": "eca-0597-11.mp3",
 			"Standard Arabic Audio": "msa-0597-11.mp3"
 		},
@@ -121,7 +121,7 @@
 			"English": "Stores have different prices for different things.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "المتاجر لديها أسعار مختلفة لأشياء مختلفة.",
 			"Egyptian Arabic Audio": "eca-0597-12.mp3",
 			"Standard Arabic Audio": "msa-0597-12.mp3"
 		}

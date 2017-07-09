@@ -9,7 +9,7 @@
 			"English": "At the end of the class, Aria told the teacher she was dropping.",
 			"Word Count": 13,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "في نهاية الصف، قالت أريا للمعلمة أنها تنخفض.",
 			"Egyptian Arabic Audio": "eca-1037-1.mp3",
 			"Standard Arabic Audio": "msa-1037-1.mp3"
 		},
@@ -18,7 +18,7 @@
 			"English": "Ms Sanchez said, \"Don't drop, because then you're proving them right.",
 			"Word Count": 11,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وقالت السيدة سانشيز: &quot;لا تسقط، لأنه بعد ذلك كنت تثبت لهم الحق.",
 			"Egyptian Arabic Audio": "eca-1037-2.mp3",
 			"Standard Arabic Audio": "msa-1037-2.mp3"
 		},
@@ -27,7 +27,7 @@
 			"English": "Show them you're capable of using your brain.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "تبين لهم كنت قادرا على استخدام عقلك.",
 			"Egyptian Arabic Audio": "eca-1037-3.mp3",
 			"Standard Arabic Audio": "msa-1037-3.mp3"
 		},
@@ -36,7 +36,7 @@
 			"English": "Share your thoughts out loud in class, and work on getting As on your essays.",
 			"Word Count": 15,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "تبادل أفكارك بصوت عال في الصف، والعمل على الحصول على كما في مقالاتك.",
 			"Egyptian Arabic Audio": "eca-1037-4.mp3",
 			"Standard Arabic Audio": "msa-1037-4.mp3"
 		},
@@ -45,7 +45,7 @@
 			"English": "\" Ms.",
 			"Word Count": 2,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "&quot; الآنسة.",
 			"Egyptian Arabic Audio": "eca-1037-5.mp3",
 			"Standard Arabic Audio": "msa-1037-5.mp3"
 		},
@@ -54,7 +54,7 @@
 			"English": "Sanchez was right.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كان سانشيز على حق.",
 			"Egyptian Arabic Audio": "eca-1037-6.mp3",
 			"Standard Arabic Audio": "msa-1037-6.mp3"
 		},
@@ -63,7 +63,7 @@
 			"English": "She would never get rid of her \"dumb\" reputation if she dropped the class.",
 			"Word Count": 14,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وقالت انها لن تتخلص من سمعتها &quot;البكم&quot; إذا أسقطت الطبقة.",
 			"Egyptian Arabic Audio": "eca-1037-7.mp3",
 			"Standard Arabic Audio": "msa-1037-7.mp3"
 		}

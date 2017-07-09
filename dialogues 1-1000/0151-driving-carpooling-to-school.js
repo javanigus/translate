@@ -11,7 +11,7 @@
 			"English": "Driving is so bad for the environment.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "القيادة سيئة للغاية للبيئة.",
 			"Egyptian Arabic Audio": "eca-0151-1.mp3",
 			"Standard Arabic Audio": "msa-0151-1.mp3"
 		},
@@ -21,7 +21,7 @@
 			"English": "We should carpool.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يجب علينا مرافقي طريق.",
 			"Egyptian Arabic Audio": "eca-0151-2.mp3",
 			"Standard Arabic Audio": "msa-0151-2.mp3"
 		},
@@ -31,7 +31,7 @@
 			"English": "That is a smart idea!",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هذا هو فكرة ذكية!",
 			"Egyptian Arabic Audio": "eca-0151-3.mp3",
 			"Standard Arabic Audio": "msa-0151-3.mp3"
 		},
@@ -41,7 +41,7 @@
 			"English": "Where do you live?",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أين تعيش؟",
 			"Egyptian Arabic Audio": "eca-0151-4.mp3",
 			"Standard Arabic Audio": "msa-0151-4.mp3"
 		},
@@ -51,7 +51,7 @@
 			"English": "I live on Broadway in Los Angeles.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أعيش على برودواي في لوس انجليس.",
 			"Egyptian Arabic Audio": "eca-0151-5.mp3",
 			"Standard Arabic Audio": "msa-0151-5.mp3"
 		},
@@ -61,7 +61,7 @@
 			"English": "Perfect! I live two streets down.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "في احسن الاحوال! أعيش شوارع.",
 			"Egyptian Arabic Audio": "eca-0151-6.mp3",
 			"Standard Arabic Audio": "msa-0151-6.mp3"
 		},
@@ -71,7 +71,7 @@
 			"English": "I can drive on Mondays and Tuesdays.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يمكنني القيادة يوم الاثنين والثلاثاء.",
 			"Egyptian Arabic Audio": "eca-0151-7.mp3",
 			"Standard Arabic Audio": "msa-0151-7.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "I'll drive for the rest of the week then.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "سوف أقود بقية الأسبوع.",
 			"Egyptian Arabic Audio": "eca-0151-8.mp3",
 			"Standard Arabic Audio": "msa-0151-8.mp3"
 		},
@@ -91,7 +91,7 @@
 			"English": "Can we start tomorrow?",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هل يمكننا أن نبدأ غدا؟",
 			"Egyptian Arabic Audio": "eca-0151-9.mp3",
 			"Standard Arabic Audio": "msa-0151-9.mp3"
 		},
@@ -101,7 +101,7 @@
 			"English": "Sure, I'll pick you up at 8 a.m.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "بالتأكيد، سوف يقلك في الساعة 8 صباحا",
 			"Egyptian Arabic Audio": "eca-0151-10.mp3",
 			"Standard Arabic Audio": "msa-0151-10.mp3"
 		},
@@ -111,7 +111,7 @@
 			"English": "What color is your car?",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ما هو لون سيارتك؟",
 			"Egyptian Arabic Audio": "eca-0151-11.mp3",
 			"Standard Arabic Audio": "msa-0151-11.mp3"
 		},
@@ -121,7 +121,7 @@
 			"English": "You can't miss it. It's green.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لن تخطئها. إنه أخضر.",
 			"Egyptian Arabic Audio": "eca-0151-12.mp3",
 			"Standard Arabic Audio": "msa-0151-12.mp3"
 		}

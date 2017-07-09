@@ -11,7 +11,7 @@
 			"English": "Hello, is this the Smith residence?",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "مرحبا، هل هذا هو سكن سميث؟",
 			"Egyptian Arabic Audio": "eca-0460-1.mp3",
 			"Standard Arabic Audio": "msa-0460-1.mp3"
 		},
@@ -21,7 +21,7 @@
 			"English": "Yes it is, may I ask who is calling?",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "نعم هو، هل لي أن أسأل من هو الدعوة؟",
 			"Egyptian Arabic Audio": "eca-0460-2.mp3",
 			"Standard Arabic Audio": "msa-0460-2.mp3"
 		},
@@ -31,7 +31,7 @@
 			"English": "This is your bank calling in regards to an overcharge on your credit card.",
 			"Word Count": 14,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هذا هو الاتصال المصرفي الخاص بك فيما يتعلق فاحش على بطاقة الائتمان الخاصة بك.",
 			"Egyptian Arabic Audio": "eca-0460-3.mp3",
 			"Standard Arabic Audio": "msa-0460-3.mp3"
 		},
@@ -41,7 +41,7 @@
 			"English": "I'm sorry, there must be some mistake.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنا آسف، يجب أن يكون هناك بعض الخطأ.",
 			"Egyptian Arabic Audio": "eca-0460-4.mp3",
 			"Standard Arabic Audio": "msa-0460-4.mp3"
 		},
@@ -51,7 +51,7 @@
 			"English": "It says here that you charged over $500 on it yesterday.",
 			"Word Count": 11,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وتقول هنا أنك اتهمت أكثر من 500 دولار على ذلك أمس.",
 			"Egyptian Arabic Audio": "eca-0460-5.mp3",
 			"Standard Arabic Audio": "msa-0460-5.mp3"
 		},
@@ -61,7 +61,7 @@
 			"English": "That can't be right; I have not used it in months!",
 			"Word Count": 11,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وهذا لا يمكن أن يكون صحيحا؛ أنا لم تستخدمه في أشهر!",
 			"Egyptian Arabic Audio": "eca-0460-6.mp3",
 			"Standard Arabic Audio": "msa-0460-6.mp3"
 		},
@@ -71,7 +71,7 @@
 			"English": "Are you saying you did not make that charge?",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هل تقول أنك لم تجعل هذه التهمة؟",
 			"Egyptian Arabic Audio": "eca-0460-7.mp3",
 			"Standard Arabic Audio": "msa-0460-7.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "That's exactly what I am saying.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هذا بالضبط ما أقوله.",
 			"Egyptian Arabic Audio": "eca-0460-8.mp3",
 			"Standard Arabic Audio": "msa-0460-8.mp3"
 		},
@@ -91,7 +91,7 @@
 			"English": "Looking closer, this charge was made in a different city.",
 			"Word Count": 10,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وبالنظر إلى أقرب، كان هذا الاتهام في مدينة مختلفة.",
 			"Egyptian Arabic Audio": "eca-0460-9.mp3",
 			"Standard Arabic Audio": "msa-0460-9.mp3"
 		},
@@ -101,7 +101,7 @@
 			"English": "I am looking for my card now and I cannot find it.",
 			"Word Count": 12,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنا أبحث عن بطاقتي الآن وأنا لا يمكن العثور عليه.",
 			"Egyptian Arabic Audio": "eca-0460-10.mp3",
 			"Standard Arabic Audio": "msa-0460-10.mp3"
 		},
@@ -111,7 +111,7 @@
 			"English": "This calls for further investigation.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وهذا يتطلب مزيدا من التحقيق.",
 			"Egyptian Arabic Audio": "eca-0460-11.mp3",
 			"Standard Arabic Audio": "msa-0460-11.mp3"
 		},
@@ -121,7 +121,7 @@
 			"English": "I assure you I did not make the purchase.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أؤكد لكم أنني لم تجعل عملية الشراء.",
 			"Egyptian Arabic Audio": "eca-0460-12.mp3",
 			"Standard Arabic Audio": "msa-0460-12.mp3"
 		}

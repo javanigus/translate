@@ -11,7 +11,7 @@
 			"English": "How are you doing today?",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كيف حالك اليوم؟",
 			"Egyptian Arabic Audio": "eca-1213-1.mp3",
 			"Standard Arabic Audio": "msa-1213-1.mp3"
 		},
@@ -21,7 +21,7 @@
 			"English": "Great. Thanks.",
 			"Word Count": 2,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "عظيم. شكر.",
 			"Egyptian Arabic Audio": "eca-1213-2.mp3",
 			"Standard Arabic Audio": "msa-1213-2.mp3"
 		},
@@ -31,7 +31,7 @@
 			"English": "What can I do for you today?",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ماذا استطيع ان افعل لك اليوم؟",
 			"Egyptian Arabic Audio": "eca-1213-3.mp3",
 			"Standard Arabic Audio": "msa-1213-3.mp3"
 		},
@@ -41,7 +41,7 @@
 			"English": "I just have one question.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنا فقط لدي سؤال واحد.",
 			"Egyptian Arabic Audio": "eca-1213-4.mp3",
 			"Standard Arabic Audio": "msa-1213-4.mp3"
 		},
@@ -51,7 +51,7 @@
 			"English": "What's your question?",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ما هو سؤالك؟",
 			"Egyptian Arabic Audio": "eca-1213-5.mp3",
 			"Standard Arabic Audio": "msa-1213-5.mp3"
 		},
@@ -61,7 +61,7 @@
 			"English": "How do I order checks?",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كيف يمكنني طلب الشيكات؟",
 			"Egyptian Arabic Audio": "eca-1213-6.mp3",
 			"Standard Arabic Audio": "msa-1213-6.mp3"
 		},
@@ -71,7 +71,7 @@
 			"English": "You can order them right now, if you'd like.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يمكنك طلبها الآن، إذا كنت ترغب.",
 			"Egyptian Arabic Audio": "eca-1213-7.mp3",
 			"Standard Arabic Audio": "msa-1213-7.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "That would be great.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هذا سيكون رائع.",
 			"Egyptian Arabic Audio": "eca-1213-8.mp3",
 			"Standard Arabic Audio": "msa-1213-8.mp3"
 		},
@@ -91,7 +91,7 @@
 			"English": "Just fill out this application.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "مجرد ملء هذا التطبيق.",
 			"Egyptian Arabic Audio": "eca-1213-9.mp3",
 			"Standard Arabic Audio": "msa-1213-9.mp3"
 		},
@@ -101,7 +101,7 @@
 			"English": "Then what?",
 			"Word Count": 2,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ثم ماذا؟",
 			"Egyptian Arabic Audio": "eca-1213-10.mp3",
 			"Standard Arabic Audio": "msa-1213-10.mp3"
 		},
@@ -111,7 +111,7 @@
 			"English": "Give it about 5 to 7 business days, and you should receive them in the  \tmail.",
 			"Word Count": 16,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "إعطائها حوالي 5 إلى 7 أيام عمل، ويجب أن تتلقى لهم في البريد.",
 			"Egyptian Arabic Audio": "eca-1213-11.mp3",
 			"Standard Arabic Audio": "msa-1213-11.mp3"
 		},
@@ -121,7 +121,7 @@
 			"English": "Here's my application. Thanks for your help.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وهنا طلبي. شكرا لمساعدتك.",
 			"Egyptian Arabic Audio": "eca-1213-12.mp3",
 			"Standard Arabic Audio": "msa-1213-12.mp3"
 		},
@@ -131,7 +131,7 @@
 			"English": "How are you?",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كيف حالك؟",
 			"Egyptian Arabic Audio": "eca-1213-13.mp3",
 			"Standard Arabic Audio": "msa-1213-13.mp3"
 		},
@@ -141,7 +141,7 @@
 			"English": "I'm fantastic.",
 			"Word Count": 2,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنا رائع.",
 			"Egyptian Arabic Audio": "eca-1213-14.mp3",
 			"Standard Arabic Audio": "msa-1213-14.mp3"
 		},
@@ -151,7 +151,7 @@
 			"English": "What can I help you with?",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "بماذا يمكنني مساعدتك؟",
 			"Egyptian Arabic Audio": "eca-1213-15.mp3",
 			"Standard Arabic Audio": "msa-1213-15.mp3"
 		},
@@ -161,7 +161,7 @@
 			"English": "Could you answer a question for me?",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هل يمكن الإجابة على سؤال بالنسبة لي؟",
 			"Egyptian Arabic Audio": "eca-1213-16.mp3",
 			"Standard Arabic Audio": "msa-1213-16.mp3"
 		},
@@ -171,7 +171,7 @@
 			"English": "What would you like to know?",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ماذا تريد أن تعرف؟",
 			"Egyptian Arabic Audio": "eca-1213-17.mp3",
 			"Standard Arabic Audio": "msa-1213-17.mp3"
 		},
@@ -181,7 +181,7 @@
 			"English": "I need to order checks. How do I do that?",
 			"Word Count": 10,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنا بحاجة إلى طلب الشيكات. كيف يمكنني فعل ذلك؟",
 			"Egyptian Arabic Audio": "eca-1213-18.mp3",
 			"Standard Arabic Audio": "msa-1213-18.mp3"
 		},
@@ -191,7 +191,7 @@
 			"English": "You can do that right now, if you want to.",
 			"Word Count": 10,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يمكنك أن تفعل ذلك الآن، إذا كنت ترغب في ذلك.",
 			"Egyptian Arabic Audio": "eca-1213-19.mp3",
 			"Standard Arabic Audio": "msa-1213-19.mp3"
 		},
@@ -201,7 +201,7 @@
 			"English": "Let me do that now.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "واسمحوا لي أن أفعل ذلك الآن.",
 			"Egyptian Arabic Audio": "eca-1213-20.mp3",
 			"Standard Arabic Audio": "msa-1213-20.mp3"
 		},
@@ -211,7 +211,7 @@
 			"English": "I'm just going to need you to fill out this application.",
 			"Word Count": 11,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنا فقط سوف تحتاج إلى ملء هذا التطبيق.",
 			"Egyptian Arabic Audio": "eca-1213-21.mp3",
 			"Standard Arabic Audio": "msa-1213-21.mp3"
 		},
@@ -221,7 +221,7 @@
 			"English": "What do I do next?",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ماذا أفعل بعد ذلك؟",
 			"Egyptian Arabic Audio": "eca-1213-22.mp3",
 			"Standard Arabic Audio": "msa-1213-22.mp3"
 		},
@@ -231,7 +231,7 @@
 			"English": "You will receive your checks in the mail in about a week.",
 			"Word Count": 12,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "سوف تتلقى الشيكات الخاصة بك في البريد في حوالي أسبوع.",
 			"Egyptian Arabic Audio": "eca-1213-23.mp3",
 			"Standard Arabic Audio": "msa-1213-23.mp3"
 		},
@@ -241,7 +241,7 @@
 			"English": "I've finished my application. Thank you so much.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لقد انتهيت طلبي. شكرا جزيلا.",
 			"Egyptian Arabic Audio": "eca-1213-24.mp3",
 			"Standard Arabic Audio": "msa-1213-24.mp3"
 		},
@@ -251,7 +251,7 @@
 			"English": "How's it going?",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كيف تجري الامور؟",
 			"Egyptian Arabic Audio": "eca-1213-25.mp3",
 			"Standard Arabic Audio": "msa-1213-25.mp3"
 		},
@@ -261,7 +261,7 @@
 			"English": "I'm fine. Thank you.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنا بخير. شكرا.",
 			"Egyptian Arabic Audio": "eca-1213-26.mp3",
 			"Standard Arabic Audio": "msa-1213-26.mp3"
 		},
@@ -271,7 +271,7 @@
 			"English": "May I help you?",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هل لى أن أساعدك؟",
 			"Egyptian Arabic Audio": "eca-1213-27.mp3",
 			"Standard Arabic Audio": "msa-1213-27.mp3"
 		},
@@ -281,7 +281,7 @@
 			"English": "I have a question.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "عندي سؤال.",
 			"Egyptian Arabic Audio": "eca-1213-28.mp3",
 			"Standard Arabic Audio": "msa-1213-28.mp3"
 		},
@@ -291,7 +291,7 @@
 			"English": "Ask away.",
 			"Word Count": 2,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "نسأل بعيدا.",
 			"Egyptian Arabic Audio": "eca-1213-29.mp3",
 			"Standard Arabic Audio": "msa-1213-29.mp3"
 		},
@@ -301,7 +301,7 @@
 			"English": "How can I order new checks?",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كيف يمكنني ترتيب الشيكات الجديدة؟",
 			"Egyptian Arabic Audio": "eca-1213-30.mp3",
 			"Standard Arabic Audio": "msa-1213-30.mp3"
 		},
@@ -311,7 +311,7 @@
 			"English": "If you want, you can order some right now.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "إذا كنت تريد، يمكنك طلب بعض الآن.",
 			"Egyptian Arabic Audio": "eca-1213-31.mp3",
 			"Standard Arabic Audio": "msa-1213-31.mp3"
 		},
@@ -321,7 +321,7 @@
 			"English": "I would like to do that right now.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وأود أن أفعل ذلك الآن.",
 			"Egyptian Arabic Audio": "eca-1213-32.mp3",
 			"Standard Arabic Audio": "msa-1213-32.mp3"
 		},
@@ -331,7 +331,7 @@
 			"English": "First, you need to fill out this application.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أولا، تحتاج إلى ملء هذا التطبيق.",
 			"Egyptian Arabic Audio": "eca-1213-33.mp3",
 			"Standard Arabic Audio": "msa-1213-33.mp3"
 		},
@@ -341,7 +341,7 @@
 			"English": "What else do I have to do?",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ماذا يجب أن أفعل؟",
 			"Egyptian Arabic Audio": "eca-1213-34.mp3",
 			"Standard Arabic Audio": "msa-1213-34.mp3"
 		},
@@ -351,7 +351,7 @@
 			"English": "Give it about a week, and you should get your checks in the mail.",
 			"Word Count": 14,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "إعطائها حوالي أسبوع، ويجب أن تحصل على الشيكات الخاصة بك في البريد.",
 			"Egyptian Arabic Audio": "eca-1213-35.mp3",
 			"Standard Arabic Audio": "msa-1213-35.mp3"
 		},
@@ -361,7 +361,7 @@
 			"English": "I appreciate your help. Here's my application.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انا اقدر مساعدتك. وهنا طلبي.",
 			"Egyptian Arabic Audio": "eca-1213-36.mp3",
 			"Standard Arabic Audio": "msa-1213-36.mp3"
 		}

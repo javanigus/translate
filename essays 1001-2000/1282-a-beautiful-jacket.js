@@ -9,7 +9,7 @@
 			"English": "He loved his new jacket.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كان يحب سترة جديدة له.",
 			"Egyptian Arabic Audio": "eca-1282-1.mp3",
 			"Standard Arabic Audio": "msa-1282-1.mp3"
 		},
@@ -18,7 +18,7 @@
 			"English": "It was his favorite jacket.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كانت سترة المفضلة له.",
 			"Egyptian Arabic Audio": "eca-1282-2.mp3",
 			"Standard Arabic Audio": "msa-1282-2.mp3"
 		},
@@ -27,7 +27,7 @@
 			"English": "He loved the color.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كان يحب اللون.",
 			"Egyptian Arabic Audio": "eca-1282-3.mp3",
 			"Standard Arabic Audio": "msa-1282-3.mp3"
 		},
@@ -36,7 +36,7 @@
 			"English": "It was tan.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كان تان.",
 			"Egyptian Arabic Audio": "eca-1282-4.mp3",
 			"Standard Arabic Audio": "msa-1282-4.mp3"
 		},
@@ -45,7 +45,7 @@
 			"English": "He loved the weight.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كان يحب الوزن.",
 			"Egyptian Arabic Audio": "eca-1282-5.mp3",
 			"Standard Arabic Audio": "msa-1282-5.mp3"
 		},
@@ -54,7 +54,7 @@
 			"English": "It was medium weight.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كان متوسط ​​الوزن.",
 			"Egyptian Arabic Audio": "eca-1282-6.mp3",
 			"Standard Arabic Audio": "msa-1282-6.mp3"
 		},
@@ -63,7 +63,7 @@
 			"English": "It was not too light.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لم تكن خفيفة جدا.",
 			"Egyptian Arabic Audio": "eca-1282-7.mp3",
 			"Standard Arabic Audio": "msa-1282-7.mp3"
 		},
@@ -72,7 +72,7 @@
 			"English": "It was not too heavy.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لم تكن ثقيلة جدا.",
 			"Egyptian Arabic Audio": "eca-1282-8.mp3",
 			"Standard Arabic Audio": "msa-1282-8.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "He loved the fit.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كان يحب صالح.",
 			"Egyptian Arabic Audio": "eca-1282-9.mp3",
 			"Standard Arabic Audio": "msa-1282-9.mp3"
 		},
@@ -90,7 +90,7 @@
 			"English": "It fit him well.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انها تناسب له بشكل جيد.",
 			"Egyptian Arabic Audio": "eca-1282-10.mp3",
 			"Standard Arabic Audio": "msa-1282-10.mp3"
 		},
@@ -99,7 +99,7 @@
 			"English": "He put the jacket on.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وضع سترة على.",
 			"Egyptian Arabic Audio": "eca-1282-11.mp3",
 			"Standard Arabic Audio": "msa-1282-11.mp3"
 		},
@@ -108,7 +108,7 @@
 			"English": "He looked at the jacket in the mirror.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "نظر إلى سترة في المرآة.",
 			"Egyptian Arabic Audio": "eca-1282-12.mp3",
 			"Standard Arabic Audio": "msa-1282-12.mp3"
 		},
@@ -117,7 +117,7 @@
 			"English": "It looked good.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "بدا جيدا.",
 			"Egyptian Arabic Audio": "eca-1282-13.mp3",
 			"Standard Arabic Audio": "msa-1282-13.mp3"
 		},
@@ -126,7 +126,7 @@
 			"English": "What a good-looking jacket, he thought.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ما هو سترة جيدة المظهر، وقال انه يعتقد.",
 			"Egyptian Arabic Audio": "eca-1282-14.mp3",
 			"Standard Arabic Audio": "msa-1282-14.mp3"
 		},
@@ -135,7 +135,7 @@
 			"English": "He went to the doctor's office.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ذهب إلى مكتب الطبيب.",
 			"Egyptian Arabic Audio": "eca-1282-15.mp3",
 			"Standard Arabic Audio": "msa-1282-15.mp3"
 		},
@@ -144,7 +144,7 @@
 			"English": "The office was warm.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كان المكتب دافئا.",
 			"Egyptian Arabic Audio": "eca-1282-16.mp3",
 			"Standard Arabic Audio": "msa-1282-16.mp3"
 		},
@@ -153,7 +153,7 @@
 			"English": "He took his jacket off.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أخذ سترة له.",
 			"Egyptian Arabic Audio": "eca-1282-17.mp3",
 			"Standard Arabic Audio": "msa-1282-17.mp3"
 		},
@@ -162,7 +162,7 @@
 			"English": "He put it on the chair next to him.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وضعه على الكرسي المجاور له.",
 			"Egyptian Arabic Audio": "eca-1282-18.mp3",
 			"Standard Arabic Audio": "msa-1282-18.mp3"
 		},
@@ -171,7 +171,7 @@
 			"English": "A nurse called his name.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ممرضة تسمى اسمه.",
 			"Egyptian Arabic Audio": "eca-1282-19.mp3",
 			"Standard Arabic Audio": "msa-1282-19.mp3"
 		},
@@ -180,7 +180,7 @@
 			"English": "He stood up.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كان واقفا.",
 			"Egyptian Arabic Audio": "eca-1282-20.mp3",
 			"Standard Arabic Audio": "msa-1282-20.mp3"
 		},
@@ -189,7 +189,7 @@
 			"English": "He went to the examination room.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ذهب إلى غرفة الفحص.",
 			"Egyptian Arabic Audio": "eca-1282-21.mp3",
 			"Standard Arabic Audio": "msa-1282-21.mp3"
 		},
@@ -198,7 +198,7 @@
 			"English": "He forgot that his jacket was on the chair.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "نسي أن سترة له على الكرسي.",
 			"Egyptian Arabic Audio": "eca-1282-22.mp3",
 			"Standard Arabic Audio": "msa-1282-22.mp3"
 		},
@@ -207,7 +207,7 @@
 			"English": "But it wasn't on the chair for long.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ولكن لم يكن على كرسي لفترة طويلة.",
 			"Egyptian Arabic Audio": "eca-1282-23.mp3",
 			"Standard Arabic Audio": "msa-1282-23.mp3"
 		},
@@ -216,7 +216,7 @@
 			"English": "Another patient took it home.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أخذ مريض آخر المنزل.",
 			"Egyptian Arabic Audio": "eca-1282-24.mp3",
 			"Standard Arabic Audio": "msa-1282-24.mp3"
 		}

@@ -9,7 +9,7 @@
 			"English": "The book is in the library.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "الكتاب موجود في المكتبة.",
 			"Egyptian Arabic Audio": "eca-0532-1.mp3",
 			"Standard Arabic Audio": "msa-0532-1.mp3"
 		},
@@ -18,7 +18,7 @@
 			"English": "Jodi goes to the library.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يذهب جودي إلى المكتبة.",
 			"Egyptian Arabic Audio": "eca-0532-2.mp3",
 			"Standard Arabic Audio": "msa-0532-2.mp3"
 		},
@@ -27,7 +27,7 @@
 			"English": "She wants to borrow it.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "إنها تريد أن تقترضها.",
 			"Egyptian Arabic Audio": "eca-0532-3.mp3",
 			"Standard Arabic Audio": "msa-0532-3.mp3"
 		},
@@ -36,7 +36,7 @@
 			"English": "She uses her card to check it out.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وقالت انها تستخدم بطاقتها للتحقق من ذلك.",
 			"Egyptian Arabic Audio": "eca-0532-4.mp3",
 			"Standard Arabic Audio": "msa-0532-4.mp3"
 		},
@@ -45,7 +45,7 @@
 			"English": "She takes the book back home.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انها تأخذ الكتاب في الوطن.",
 			"Egyptian Arabic Audio": "eca-0532-5.mp3",
 			"Standard Arabic Audio": "msa-0532-5.mp3"
 		},
@@ -54,7 +54,7 @@
 			"English": "She sits on the couch.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وهي تجلس على الأريكة.",
 			"Egyptian Arabic Audio": "eca-0532-6.mp3",
 			"Standard Arabic Audio": "msa-0532-6.mp3"
 		},
@@ -63,7 +63,7 @@
 			"English": "She reads the first page.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "تقرأ الصفحة الأولى.",
 			"Egyptian Arabic Audio": "eca-0532-7.mp3",
 			"Standard Arabic Audio": "msa-0532-7.mp3"
 		},
@@ -72,7 +72,7 @@
 			"English": "It is good.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انه جيد.",
 			"Egyptian Arabic Audio": "eca-0532-8.mp3",
 			"Standard Arabic Audio": "msa-0532-8.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "She reads twenty more pages.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "تقرأ 20 صفحة أخرى.",
 			"Egyptian Arabic Audio": "eca-0532-9.mp3",
 			"Standard Arabic Audio": "msa-0532-9.mp3"
 		},
@@ -90,7 +90,7 @@
 			"English": "It is not that good anymore.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انها ليست جيدة بعد الآن.",
 			"Egyptian Arabic Audio": "eca-0532-10.mp3",
 			"Standard Arabic Audio": "msa-0532-10.mp3"
 		},
@@ -99,7 +99,7 @@
 			"English": "Jodi returns the book.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يعيد جودي الكتاب.",
 			"Egyptian Arabic Audio": "eca-0532-11.mp3",
 			"Standard Arabic Audio": "msa-0532-11.mp3"
 		}

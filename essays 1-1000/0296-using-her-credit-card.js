@@ -9,7 +9,7 @@
 			"English": "Abby's mom gave her a credit card.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أعطتها أمي آبي بطاقة ائتمان.",
 			"Egyptian Arabic Audio": "eca-0296-1.mp3",
 			"Standard Arabic Audio": "msa-0296-1.mp3"
 		},
@@ -18,7 +18,7 @@
 			"English": "The credit card is supposed to be for emergencies.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ومن المفترض أن تكون بطاقة الائتمان لحالات الطوارئ.",
 			"Egyptian Arabic Audio": "eca-0296-2.mp3",
 			"Standard Arabic Audio": "msa-0296-2.mp3"
 		},
@@ -27,7 +27,7 @@
 			"English": "Abby went to the mall with her friends.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ذهب آبي إلى المركز التجاري مع صديقاتها.",
 			"Egyptian Arabic Audio": "eca-0296-3.mp3",
 			"Standard Arabic Audio": "msa-0296-3.mp3"
 		},
@@ -36,7 +36,7 @@
 			"English": "She saw a pretty purse.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "رأت محفظة جميلة.",
 			"Egyptian Arabic Audio": "eca-0296-4.mp3",
 			"Standard Arabic Audio": "msa-0296-4.mp3"
 		},
@@ -45,7 +45,7 @@
 			"English": "It was black and shiny.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كان أسود وبراقة.",
 			"Egyptian Arabic Audio": "eca-0296-5.mp3",
 			"Standard Arabic Audio": "msa-0296-5.mp3"
 		},
@@ -54,7 +54,7 @@
 			"English": "She had to have it.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كان عليها أن يكون لها.",
 			"Egyptian Arabic Audio": "eca-0296-6.mp3",
 			"Standard Arabic Audio": "msa-0296-6.mp3"
 		},
@@ -63,7 +63,7 @@
 			"English": "She went inside the store.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ذهبت داخل المخزن.",
 			"Egyptian Arabic Audio": "eca-0296-7.mp3",
 			"Standard Arabic Audio": "msa-0296-7.mp3"
 		},
@@ -72,7 +72,7 @@
 			"English": "She looked at the price tag.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "نظرت إلى السعر.",
 			"Egyptian Arabic Audio": "eca-0296-8.mp3",
 			"Standard Arabic Audio": "msa-0296-8.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "The purse was $600.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وكان المحفظة 600 دولار.",
 			"Egyptian Arabic Audio": "eca-0296-9.mp3",
 			"Standard Arabic Audio": "msa-0296-9.mp3"
 		},
@@ -90,7 +90,7 @@
 			"English": "She really wanted it.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انها حقا تريد ذلك.",
 			"Egyptian Arabic Audio": "eca-0296-10.mp3",
 			"Standard Arabic Audio": "msa-0296-10.mp3"
 		},
@@ -99,7 +99,7 @@
 			"English": "She looked at her credit card.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "نظرت إلى بطاقة الائتمان الخاصة بها.",
 			"Egyptian Arabic Audio": "eca-0296-11.mp3",
 			"Standard Arabic Audio": "msa-0296-11.mp3"
 		},
@@ -108,7 +108,7 @@
 			"English": "She went up to the cashier.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ذهبت إلى أمين الصندوق.",
 			"Egyptian Arabic Audio": "eca-0296-12.mp3",
 			"Standard Arabic Audio": "msa-0296-12.mp3"
 		},
@@ -117,7 +117,7 @@
 			"English": "She handed the worker her credit card.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "سلمت العامل بطاقة ائتمانها.",
 			"Egyptian Arabic Audio": "eca-0296-13.mp3",
 			"Standard Arabic Audio": "msa-0296-13.mp3"
 		},
@@ -126,7 +126,7 @@
 			"English": "He swiped it.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انه تمريرها.",
 			"Egyptian Arabic Audio": "eca-0296-14.mp3",
 			"Standard Arabic Audio": "msa-0296-14.mp3"
 		},
@@ -135,7 +135,7 @@
 			"English": "She didn't realize that she had to pay for the purse later.",
 			"Word Count": 12,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لم تدرك أنها اضطرت لدفع ثمن المحفظة في وقت لاحق.",
 			"Egyptian Arabic Audio": "eca-0296-15.mp3",
 			"Standard Arabic Audio": "msa-0296-15.mp3"
 		},
@@ -144,7 +144,7 @@
 			"English": "The purse showed up on the bill a month later.",
 			"Word Count": 10,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وأظهرت محفظة على مشروع القانون بعد شهر.",
 			"Egyptian Arabic Audio": "eca-0296-16.mp3",
 			"Standard Arabic Audio": "msa-0296-16.mp3"
 		}

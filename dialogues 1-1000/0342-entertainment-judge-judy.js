@@ -11,7 +11,7 @@
 			"English": "I love to watch \"Judge Judy.\"",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أحب مشاهدة &quot;القاضي جودي&quot;.",
 			"Egyptian Arabic Audio": "eca-0342-1.mp3",
 			"Standard Arabic Audio": "msa-0342-1.mp3"
 		},
@@ -21,7 +21,7 @@
 			"English": "Is that a TV show?",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هل هذا برنامج تلفزيوني؟",
 			"Egyptian Arabic Audio": "eca-0342-2.mp3",
 			"Standard Arabic Audio": "msa-0342-2.mp3"
 		},
@@ -31,7 +31,7 @@
 			"English": "Yes. It's on every afternoon.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "نعم فعلا. انها في كل ظهر اليوم.",
 			"Egyptian Arabic Audio": "eca-0342-3.mp3",
 			"Standard Arabic Audio": "msa-0342-3.mp3"
 		},
@@ -41,7 +41,7 @@
 			"English": "What's so good about it?",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ما هو جيد جدا حول هذا الموضوع؟",
 			"Egyptian Arabic Audio": "eca-0342-4.mp3",
 			"Standard Arabic Audio": "msa-0342-4.mp3"
 		},
@@ -51,7 +51,7 @@
 			"English": "They have interesting lawsuits.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لديهم الدعاوى القضائية المثيرة للاهتمام.",
 			"Egyptian Arabic Audio": "eca-0342-5.mp3",
 			"Standard Arabic Audio": "msa-0342-5.mp3"
 		},
@@ -61,7 +61,7 @@
 			"English": "Such as?",
 			"Word Count": 2,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "مثل؟",
 			"Egyptian Arabic Audio": "eca-0342-6.mp3",
 			"Standard Arabic Audio": "msa-0342-6.mp3"
 		},
@@ -71,7 +71,7 @@
 			"English": "Yesterday, a woman complained about a cell phone she bought on eBay.",
 			"Word Count": 12,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يوم أمس، اشتكت امرأة عن الهاتف الخليوي الذي اشترته على موقع ئي باي.",
 			"Egyptian Arabic Audio": "eca-0342-7.mp3",
 			"Standard Arabic Audio": "msa-0342-7.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "Was something wrong with the phone?",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كان خطأ في الهاتف؟",
 			"Egyptian Arabic Audio": "eca-0342-8.mp3",
 			"Standard Arabic Audio": "msa-0342-8.mp3"
 		},
@@ -91,7 +91,7 @@
 			"English": "It works only in Canada.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يعمل فقط في كندا.",
 			"Egyptian Arabic Audio": "eca-0342-9.mp3",
 			"Standard Arabic Audio": "msa-0342-9.mp3"
 		},
@@ -101,7 +101,7 @@
 			"English": "Did the seller know that?",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هل عرف البائع ذلك؟",
 			"Egyptian Arabic Audio": "eca-0342-10.mp3",
 			"Standard Arabic Audio": "msa-0342-10.mp3"
 		},
@@ -111,7 +111,7 @@
 			"English": "Yes, and he didn't tell the buyer.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "نعم، وقال انه لم يقل المشتري.",
 			"Egyptian Arabic Audio": "eca-0342-11.mp3",
 			"Standard Arabic Audio": "msa-0342-11.mp3"
 		},
@@ -121,7 +121,7 @@
 			"English": "I hope Judge Judy made the seller take the phone back.",
 			"Word Count": 11,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "آمل أن القاضي القاضي جودي جعل البائع تأخذ الهاتف مرة أخرى.",
 			"Egyptian Arabic Audio": "eca-0342-12.mp3",
 			"Standard Arabic Audio": "msa-0342-12.mp3"
 		}

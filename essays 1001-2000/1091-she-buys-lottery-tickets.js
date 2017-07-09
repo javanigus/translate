@@ -9,7 +9,7 @@
 			"English": "She goes to the newsstand on the corner.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "تذهب إلى كشك بيع الصحف في الزاوية.",
 			"Egyptian Arabic Audio": "eca-1091-1.mp3",
 			"Standard Arabic Audio": "msa-1091-1.mp3"
 		},
@@ -18,7 +18,7 @@
 			"English": "She looks at the lottery sign.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انها تنظر في علامة اليانصيب.",
 			"Egyptian Arabic Audio": "eca-1091-2.mp3",
 			"Standard Arabic Audio": "msa-1091-2.mp3"
 		},
@@ -27,7 +27,7 @@
 			"English": "Powerball is now $99 million.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "بويربال الآن 99 مليون $.",
 			"Egyptian Arabic Audio": "eca-1091-3.mp3",
 			"Standard Arabic Audio": "msa-1091-3.mp3"
 		},
@@ -36,7 +36,7 @@
 			"English": "She wants to win some money.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "إنها تريد كسب بعض المال.",
 			"Egyptian Arabic Audio": "eca-1091-4.mp3",
 			"Standard Arabic Audio": "msa-1091-4.mp3"
 		},
@@ -45,7 +45,7 @@
 			"English": "She asks for 10 Powerball Quick Pick tickets.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انها تسأل عن 10 باوربال بيك تذاكر سريعة.",
 			"Egyptian Arabic Audio": "eca-1091-5.mp3",
 			"Standard Arabic Audio": "msa-1091-5.mp3"
 		},
@@ -54,7 +54,7 @@
 			"English": "The vendor prints them out.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يطبعها البائع.",
 			"Egyptian Arabic Audio": "eca-1091-6.mp3",
 			"Standard Arabic Audio": "msa-1091-6.mp3"
 		},
@@ -63,7 +63,7 @@
 			"English": "She hands him $10.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انها يديه 10 دولار.",
 			"Egyptian Arabic Audio": "eca-1091-7.mp3",
 			"Standard Arabic Audio": "msa-1091-7.mp3"
 		},
@@ -72,7 +72,7 @@
 			"English": "He hands her the tickets.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انه يسلم لها التذاكر.",
 			"Egyptian Arabic Audio": "eca-1091-8.mp3",
 			"Standard Arabic Audio": "msa-1091-8.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "He says Good Luck.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يقول حظا سعيدا.",
 			"Egyptian Arabic Audio": "eca-1091-9.mp3",
 			"Standard Arabic Audio": "msa-1091-9.mp3"
 		},
@@ -90,7 +90,7 @@
 			"English": "She thanks him.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وهي تشكره.",
 			"Egyptian Arabic Audio": "eca-1091-10.mp3",
 			"Standard Arabic Audio": "msa-1091-10.mp3"
 		}

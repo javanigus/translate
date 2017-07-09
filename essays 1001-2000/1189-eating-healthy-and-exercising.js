@@ -9,7 +9,7 @@
 			"English": "Mr Brown is a physical education teacher.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "السيد براون هو مدرس التربية البدنية.",
 			"Egyptian Arabic Audio": "eca-1189-1.mp3",
 			"Standard Arabic Audio": "msa-1189-1.mp3"
 		},
@@ -18,7 +18,7 @@
 			"English": "He used to be a professional gymnast.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "اعتاد أن يكون لاعب جمباز محترف.",
 			"Egyptian Arabic Audio": "eca-1189-2.mp3",
 			"Standard Arabic Audio": "msa-1189-2.mp3"
 		},
@@ -27,7 +27,7 @@
 			"English": "His students always ask him how to lose weight.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "طالبه دائما يسأله كيف لانقاص وزنه.",
 			"Egyptian Arabic Audio": "eca-1189-3.mp3",
 			"Standard Arabic Audio": "msa-1189-3.mp3"
 		},
@@ -36,7 +36,7 @@
 			"English": "Mr.",
 			"Word Count": 1,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "السيد",
 			"Egyptian Arabic Audio": "eca-1189-4.mp3",
 			"Standard Arabic Audio": "msa-1189-4.mp3"
 		},
@@ -45,7 +45,7 @@
 			"English": "Brown always says to eat healthy and exercise regularly.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يقول براون دائما لتناول الطعام الصحي وممارسة التمارين الرياضية بانتظام.",
 			"Egyptian Arabic Audio": "eca-1189-5.mp3",
 			"Standard Arabic Audio": "msa-1189-5.mp3"
 		},
@@ -54,7 +54,7 @@
 			"English": "That's it.",
 			"Word Count": 2,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هذا هو.",
 			"Egyptian Arabic Audio": "eca-1189-6.mp3",
 			"Standard Arabic Audio": "msa-1189-6.mp3"
 		},
@@ -63,7 +63,7 @@
 			"English": "He thinks that people know this, but they don't want to do it.",
 			"Word Count": 13,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ويعتقد أن الناس يعرفون ذلك، ولكنهم لا يريدون أن يفعلوا ذلك.",
 			"Egyptian Arabic Audio": "eca-1189-7.mp3",
 			"Standard Arabic Audio": "msa-1189-7.mp3"
 		},
@@ -72,7 +72,7 @@
 			"English": "People are lazy.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "الناس كسول.",
 			"Egyptian Arabic Audio": "eca-1189-8.mp3",
 			"Standard Arabic Audio": "msa-1189-8.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "They want to find easy ways out.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انهم يريدون ايجاد طرق سهلة للخروج.",
 			"Egyptian Arabic Audio": "eca-1189-9.mp3",
 			"Standard Arabic Audio": "msa-1189-9.mp3"
 		},
@@ -90,7 +90,7 @@
 			"English": "His students asks him about diet pills.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يسأله طلابه عن حبوب الحمية الغذائية.",
 			"Egyptian Arabic Audio": "eca-1189-10.mp3",
 			"Standard Arabic Audio": "msa-1189-10.mp3"
 		},
@@ -99,7 +99,7 @@
 			"English": "Mr.",
 			"Word Count": 1,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "السيد",
 			"Egyptian Arabic Audio": "eca-1189-11.mp3",
 			"Standard Arabic Audio": "msa-1189-11.mp3"
 		},
@@ -108,7 +108,7 @@
 			"English": "Brown says that diet pills have side effects.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يقول براون أن حبوب الحمية لها آثار جانبية.",
 			"Egyptian Arabic Audio": "eca-1189-12.mp3",
 			"Standard Arabic Audio": "msa-1189-12.mp3"
 		},
@@ -117,7 +117,7 @@
 			"English": "They are not as effective as exercise.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "فهي ليست فعالة مثل ممارسة الرياضة.",
 			"Egyptian Arabic Audio": "eca-1189-13.mp3",
 			"Standard Arabic Audio": "msa-1189-13.mp3"
 		},
@@ -126,7 +126,7 @@
 			"English": "\"Exercising is tiring, but it's the right way to lose weight.",
 			"Word Count": 11,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "&quot;ممارسة متعبة، ولكنها الطريقة الصحيحة لانقاص وزنه.",
 			"Egyptian Arabic Audio": "eca-1189-14.mp3",
 			"Standard Arabic Audio": "msa-1189-14.mp3"
 		},
@@ -135,7 +135,7 @@
 			"English": "\".",
 			"Word Count": 1,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "&quot;.",
 			"Egyptian Arabic Audio": "eca-1189-15.mp3",
 			"Standard Arabic Audio": "msa-1189-15.mp3"
 		}

@@ -11,7 +11,7 @@
 			"English": "How are you enjoying the party?",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كيف تستمتعون بالحزب؟",
 			"Egyptian Arabic Audio": "eca-0206-1.mp3",
 			"Standard Arabic Audio": "msa-0206-1.mp3"
 		},
@@ -21,7 +21,7 @@
 			"English": "Well, the food is good.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "حسنا، الطعام جيد.",
 			"Egyptian Arabic Audio": "eca-0206-2.mp3",
 			"Standard Arabic Audio": "msa-0206-2.mp3"
 		},
@@ -31,7 +31,7 @@
 			"English": "You don't sound very excited.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنت لا تبدو متحمس جدا.",
 			"Egyptian Arabic Audio": "eca-0206-3.mp3",
 			"Standard Arabic Audio": "msa-0206-3.mp3"
 		},
@@ -41,7 +41,7 @@
 			"English": "The party isn't very exciting.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "الحزب ليست مثيرة للغاية.",
 			"Egyptian Arabic Audio": "eca-0206-4.mp3",
 			"Standard Arabic Audio": "msa-0206-4.mp3"
 		},
@@ -51,7 +51,7 @@
 			"English": "It's only as exciting as you make it!",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انها فقط مثيرة كما يمكنك جعله!",
 			"Egyptian Arabic Audio": "eca-0206-5.mp3",
 			"Standard Arabic Audio": "msa-0206-5.mp3"
 		},
@@ -61,7 +61,7 @@
 			"English": "There's really nothing to do here.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لا يوجد شيء فعله هنا.",
 			"Egyptian Arabic Audio": "eca-0206-6.mp3",
 			"Standard Arabic Audio": "msa-0206-6.mp3"
 		},
@@ -71,7 +71,7 @@
 			"English": "The music will start in a while.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "سوف تبدأ الموسيقى في حين.",
 			"Egyptian Arabic Audio": "eca-0206-7.mp3",
 			"Standard Arabic Audio": "msa-0206-7.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "I don't really know how to dance",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنا لا أعرف حقا كيفية الرقص",
 			"Egyptian Arabic Audio": "eca-0206-8.mp3",
 			"Standard Arabic Audio": "msa-0206-8.mp3"
 		}

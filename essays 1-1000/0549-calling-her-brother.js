@@ -9,7 +9,7 @@
 			"English": "Karen lives in California.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كارين تعيش في كاليفورنيا.",
 			"Egyptian Arabic Audio": "eca-0549-1.mp3",
 			"Standard Arabic Audio": "msa-0549-1.mp3"
 		},
@@ -18,7 +18,7 @@
 			"English": "Her brother lives in Ohio.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يعيش شقيقها في أوهايو.",
 			"Egyptian Arabic Audio": "eca-0549-2.mp3",
 			"Standard Arabic Audio": "msa-0549-2.mp3"
 		},
@@ -27,7 +27,7 @@
 			"English": "They miss each other.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "فهم يفتقدون بعضهم البعض.",
 			"Egyptian Arabic Audio": "eca-0549-3.mp3",
 			"Standard Arabic Audio": "msa-0549-3.mp3"
 		},
@@ -36,7 +36,7 @@
 			"English": "They only see each other once a year.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انهم يرون فقط بعضهم البعض مرة واحدة في السنة.",
 			"Egyptian Arabic Audio": "eca-0549-4.mp3",
 			"Standard Arabic Audio": "msa-0549-4.mp3"
 		},
@@ -45,7 +45,7 @@
 			"English": "Karen calls him every day.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كارين يدعو له كل يوم.",
 			"Egyptian Arabic Audio": "eca-0549-5.mp3",
 			"Standard Arabic Audio": "msa-0549-5.mp3"
 		},
@@ -54,7 +54,7 @@
 			"English": "She talks about their parents.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "تتحدث عن والديهم.",
 			"Egyptian Arabic Audio": "eca-0549-6.mp3",
 			"Standard Arabic Audio": "msa-0549-6.mp3"
 		},
@@ -63,7 +63,7 @@
 			"English": "She also tells him about her day at school.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كما تخبره عن يومها في المدرسة.",
 			"Egyptian Arabic Audio": "eca-0549-7.mp3",
 			"Standard Arabic Audio": "msa-0549-7.mp3"
 		},
@@ -72,7 +72,7 @@
 			"English": "He tells her about his day at college.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يقول لها عن يومه في الكلية.",
 			"Egyptian Arabic Audio": "eca-0549-8.mp3",
 			"Standard Arabic Audio": "msa-0549-8.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "They never want to say goodbye to each other.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انهم لا يريدون ان نقول وداعا لبعضهم البعض.",
 			"Egyptian Arabic Audio": "eca-0549-9.mp3",
 			"Standard Arabic Audio": "msa-0549-9.mp3"
 		}

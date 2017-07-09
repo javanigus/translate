@@ -11,7 +11,7 @@
 			"English": "You know how to drive, right?",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنت تعرف كيفية القيادة، أليس كذلك؟",
 			"Egyptian Arabic Audio": "eca-1281-2.mp3",
 			"Standard Arabic Audio": "msa-1281-2.mp3"
 		},
@@ -21,7 +21,7 @@
 			"English": "I'm pretty good.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنا جيد جدا.",
 			"Egyptian Arabic Audio": "eca-1281-3.mp3",
 			"Standard Arabic Audio": "msa-1281-3.mp3"
 		},
@@ -31,7 +31,7 @@
 			"English": "Do you think you can teach me?",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هل تعتقد أنك يمكن أن يعلمني؟",
 			"Egyptian Arabic Audio": "eca-1281-4.mp3",
 			"Standard Arabic Audio": "msa-1281-4.mp3"
 		},
@@ -41,7 +41,7 @@
 			"English": "Did you get your learner's permit yet?",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هل حصلت على رخصة المتعلم بعد؟",
 			"Egyptian Arabic Audio": "eca-1281-5.mp3",
 			"Standard Arabic Audio": "msa-1281-5.mp3"
 		},
@@ -51,7 +51,7 @@
 			"English": "I have it already.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أملكه مسبقا.",
 			"Egyptian Arabic Audio": "eca-1281-6.mp3",
 			"Standard Arabic Audio": "msa-1281-6.mp3"
 		},
@@ -61,7 +61,7 @@
 			"English": "Do you have any experience driving a car?",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هل لديك أي تجربة قيادة السيارة؟",
 			"Egyptian Arabic Audio": "eca-1281-7.mp3",
 			"Standard Arabic Audio": "msa-1281-7.mp3"
 		},
@@ -71,7 +71,7 @@
 			"English": "I've only done it once.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لقد فعلت ذلك مرة واحدة فقط.",
 			"Egyptian Arabic Audio": "eca-1281-8.mp3",
 			"Standard Arabic Audio": "msa-1281-8.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "Do you know all the controls in the car?",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هل تعرف كل الضوابط في السيارة؟",
 			"Egyptian Arabic Audio": "eca-1281-9.mp3",
 			"Standard Arabic Audio": "msa-1281-9.mp3"
 		},
@@ -91,7 +91,7 @@
 			"English": "Yes, I am aware of them.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "نعم، أنا على علم بها.",
 			"Egyptian Arabic Audio": "eca-1281-10.mp3",
 			"Standard Arabic Audio": "msa-1281-10.mp3"
 		},
@@ -101,7 +101,7 @@
 			"English": "When do you want to start learning how to drive?",
 			"Word Count": 10,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "متى تريد البدء في تعلم كيفية القيادة؟",
 			"Egyptian Arabic Audio": "eca-1281-11.mp3",
 			"Standard Arabic Audio": "msa-1281-11.mp3"
 		},
@@ -111,7 +111,7 @@
 			"English": "Whenever you have time.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "عندما تمتلك الوقت.",
 			"Egyptian Arabic Audio": "eca-1281-12.mp3",
 			"Standard Arabic Audio": "msa-1281-12.mp3"
 		},
@@ -121,7 +121,7 @@
 			"English": "We can do it tomorrow; just call me.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يمكننا أن نفعل ذلك غدا. فقط اتصل بي.",
 			"Egyptian Arabic Audio": "eca-1281-13.mp3",
 			"Standard Arabic Audio": "msa-1281-13.mp3"
 		},
@@ -131,7 +131,7 @@
 			"English": "Do you know how to drive?",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هل تعرف كيفية القيادة؟",
 			"Egyptian Arabic Audio": "eca-1281-15.mp3",
 			"Standard Arabic Audio": "msa-1281-15.mp3"
 		},
@@ -141,7 +141,7 @@
 			"English": "I'm a great driver.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنا سائق عظيم.",
 			"Egyptian Arabic Audio": "eca-1281-16.mp3",
 			"Standard Arabic Audio": "msa-1281-16.mp3"
 		},
@@ -151,7 +151,7 @@
 			"English": "Could you teach me how to drive?",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هل يمكن أن تعلمني كيفية القيادة؟",
 			"Egyptian Arabic Audio": "eca-1281-17.mp3",
 			"Standard Arabic Audio": "msa-1281-17.mp3"
 		},
@@ -161,7 +161,7 @@
 			"English": "Have you gotten your learner's permit?",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هل حصلت على رخصة المتعلم؟",
 			"Egyptian Arabic Audio": "eca-1281-18.mp3",
 			"Standard Arabic Audio": "msa-1281-18.mp3"
 		},
@@ -171,7 +171,7 @@
 			"English": "Yes, I have my learner's permit.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "نعم، لدي تصريح المتعلم.",
 			"Egyptian Arabic Audio": "eca-1281-19.mp3",
 			"Standard Arabic Audio": "msa-1281-19.mp3"
 		},
@@ -181,7 +181,7 @@
 			"English": "Have you ever been behind the wheel?",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هل سبق لك أن كنت وراء عجلة القيادة؟",
 			"Egyptian Arabic Audio": "eca-1281-20.mp3",
 			"Standard Arabic Audio": "msa-1281-20.mp3"
 		},
@@ -191,7 +191,7 @@
 			"English": "I've only driven a car one time.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لقد دفعت سيارة واحدة فقط.",
 			"Egyptian Arabic Audio": "eca-1281-21.mp3",
 			"Standard Arabic Audio": "msa-1281-21.mp3"
 		},
@@ -201,7 +201,7 @@
 			"English": "You do know all the controls in the car, don't you?",
 			"Word Count": 11,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كنت تعرف كل الضوابط في السيارة، أليس كذلك؟",
 			"Egyptian Arabic Audio": "eca-1281-22.mp3",
 			"Standard Arabic Audio": "msa-1281-22.mp3"
 		},
@@ -211,7 +211,7 @@
 			"English": "I know them.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انا اعرفهم.",
 			"Egyptian Arabic Audio": "eca-1281-23.mp3",
 			"Standard Arabic Audio": "msa-1281-23.mp3"
 		},
@@ -221,7 +221,7 @@
 			"English": "Tell me when you want me to teach you.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "قل لي عندما تريد مني أن يعلمك.",
 			"Egyptian Arabic Audio": "eca-1281-24.mp3",
 			"Standard Arabic Audio": "msa-1281-24.mp3"
 		},
@@ -231,7 +231,7 @@
 			"English": "We can do it when you have some time.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يمكننا أن نفعل ذلك عندما يكون لديك بعض الوقت.",
 			"Egyptian Arabic Audio": "eca-1281-25.mp3",
 			"Standard Arabic Audio": "msa-1281-25.mp3"
 		},
@@ -241,7 +241,7 @@
 			"English": "I'm not busy tomorrow. Call me then.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لست مشغولا غدا. اتصل بي بعد ذلك.",
 			"Egyptian Arabic Audio": "eca-1281-26.mp3",
 			"Standard Arabic Audio": "msa-1281-26.mp3"
 		},
@@ -251,7 +251,7 @@
 			"English": "Are you a good driver?",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هل انت سائق جيد؟",
 			"Egyptian Arabic Audio": "eca-1281-28.mp3",
 			"Standard Arabic Audio": "msa-1281-28.mp3"
 		},
@@ -261,7 +261,7 @@
 			"English": "Yes, I'm rather good at driving.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "نعم، أنا جيدة في القيادة.",
 			"Egyptian Arabic Audio": "eca-1281-29.mp3",
 			"Standard Arabic Audio": "msa-1281-29.mp3"
 		},
@@ -271,7 +271,7 @@
 			"English": "I need you to teach me how to drive.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أحتاجك أن تعلمني كيفية القيادة.",
 			"Egyptian Arabic Audio": "eca-1281-30.mp3",
 			"Standard Arabic Audio": "msa-1281-30.mp3"
 		},
@@ -281,7 +281,7 @@
 			"English": "Yes, but do you have your learner's permit?",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "نعم، ولكن هل لديك تصريح المتعلم الخاص بك؟",
 			"Egyptian Arabic Audio": "eca-1281-31.mp3",
 			"Standard Arabic Audio": "msa-1281-31.mp3"
 		},
@@ -291,7 +291,7 @@
 			"English": "Yes, I have it.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "نعم لدي ذلك.",
 			"Egyptian Arabic Audio": "eca-1281-32.mp3",
 			"Standard Arabic Audio": "msa-1281-32.mp3"
 		},
@@ -301,7 +301,7 @@
 			"English": "Have you ever driven a car before?",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هل سبق لك أن دفعت سيارة من قبل؟",
 			"Egyptian Arabic Audio": "eca-1281-33.mp3",
 			"Standard Arabic Audio": "msa-1281-33.mp3"
 		},
@@ -311,7 +311,7 @@
 			"English": "I drove a car before, but only once.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "قادت سيارة من قبل، ولكن مرة واحدة فقط.",
 			"Egyptian Arabic Audio": "eca-1281-34.mp3",
 			"Standard Arabic Audio": "msa-1281-34.mp3"
 		},
@@ -321,7 +321,7 @@
 			"English": "Are you aware of all the controls in the car?",
 			"Word Count": 10,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هل أنت على علم بجميع الضوابط في السيارة؟",
 			"Egyptian Arabic Audio": "eca-1281-35.mp3",
 			"Standard Arabic Audio": "msa-1281-35.mp3"
 		},
@@ -331,7 +331,7 @@
 			"English": "I already know all of them.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنا أعرف كل منهم.",
 			"Egyptian Arabic Audio": "eca-1281-36.mp3",
 			"Standard Arabic Audio": "msa-1281-36.mp3"
 		},
@@ -341,7 +341,7 @@
 			"English": "When would you like me to start teaching you?",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "متى تريد أن تبدأ تعليمك؟",
 			"Egyptian Arabic Audio": "eca-1281-37.mp3",
 			"Standard Arabic Audio": "msa-1281-37.mp3"
 		},
@@ -351,7 +351,7 @@
 			"English": "When do you have time?",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "عندما يكون لديك الوقت؟",
 			"Egyptian Arabic Audio": "eca-1281-38.mp3",
 			"Standard Arabic Audio": "msa-1281-38.mp3"
 		},
@@ -361,7 +361,7 @@
 			"English": "Call me tomorrow, and we'll get started.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "اتصل بي غدا، وسنبدأ.",
 			"Egyptian Arabic Audio": "eca-1281-39.mp3",
 			"Standard Arabic Audio": "msa-1281-39.mp3"
 		}

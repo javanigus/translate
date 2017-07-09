@@ -9,7 +9,7 @@
 			"English": "She wants to make a peanut butter sandwich.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انها تريد أن تجعل شطيرة زبدة الفول السوداني.",
 			"Egyptian Arabic Audio": "eca-0596-1.mp3",
 			"Standard Arabic Audio": "msa-0596-1.mp3"
 		},
@@ -18,7 +18,7 @@
 			"English": "It is easy to make.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "فمن السهل أن تجعل.",
 			"Egyptian Arabic Audio": "eca-0596-2.mp3",
 			"Standard Arabic Audio": "msa-0596-2.mp3"
 		},
@@ -27,7 +27,7 @@
 			"English": "She goes to the market.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "تذهب إلى السوق.",
 			"Egyptian Arabic Audio": "eca-0596-3.mp3",
 			"Standard Arabic Audio": "msa-0596-3.mp3"
 		},
@@ -36,7 +36,7 @@
 			"English": "She buys what she needs.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "تشتري ما تحتاجه.",
 			"Egyptian Arabic Audio": "eca-0596-4.mp3",
 			"Standard Arabic Audio": "msa-0596-4.mp3"
 		},
@@ -45,7 +45,7 @@
 			"English": "She goes back home.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انها تعود الى الوطن.",
 			"Egyptian Arabic Audio": "eca-0596-5.mp3",
 			"Standard Arabic Audio": "msa-0596-5.mp3"
 		},
@@ -54,7 +54,7 @@
 			"English": "She goes to the kitchen.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "تذهب إلى المطبخ.",
 			"Egyptian Arabic Audio": "eca-0596-6.mp3",
 			"Standard Arabic Audio": "msa-0596-6.mp3"
 		},
@@ -63,7 +63,7 @@
 			"English": "She takes out a knife, and puts it in the peanut butter jar.",
 			"Word Count": 13,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انها تأخذ سكين، ويضعه في جرة زبدة الفول السوداني.",
 			"Egyptian Arabic Audio": "eca-0596-7.mp3",
 			"Standard Arabic Audio": "msa-0596-7.mp3"
 		},
@@ -72,7 +72,7 @@
 			"English": "She spreads the peanut butter on two slices of bread.",
 			"Word Count": 10,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وهي تنتشر زبدة الفول السوداني على شريحتين من الخبز.",
 			"Egyptian Arabic Audio": "eca-0596-8.mp3",
 			"Standard Arabic Audio": "msa-0596-8.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "She puts the slices together, and takes a bite.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انها تضع شرائح معا، ويأخذ لدغة.",
 			"Egyptian Arabic Audio": "eca-0596-9.mp3",
 			"Standard Arabic Audio": "msa-0596-9.mp3"
 		}

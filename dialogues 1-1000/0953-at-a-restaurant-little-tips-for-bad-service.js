@@ -11,7 +11,7 @@
 			"English": "Wow! Our order is sure taking long.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "نجاح باهر أمرنا هو التأكد من اتخاذ طويلة.",
 			"Egyptian Arabic Audio": "eca-0953-1.mp3",
 			"Standard Arabic Audio": "msa-0953-1.mp3"
 		},
@@ -21,7 +21,7 @@
 			"English": "Yes, it is. It's been nearly 45 minutes now.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "نعم إنه كذلك. لقد مضى ما يقرب من 45 دقيقة الآن.",
 			"Egyptian Arabic Audio": "eca-0953-2.mp3",
 			"Standard Arabic Audio": "msa-0953-2.mp3"
 		},
@@ -31,7 +31,7 @@
 			"English": "Well, maybe they're just very busy.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "حسنا، ربما انهم مشغولون جدا.",
 			"Egyptian Arabic Audio": "eca-0953-3.mp3",
 			"Standard Arabic Audio": "msa-0953-3.mp3"
 		},
@@ -41,7 +41,7 @@
 			"English": "I don't know, dear. I was watching our waiter.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنا لا أعرف، عزيزي. كنت أشاهد النادل لدينا.",
 			"Egyptian Arabic Audio": "eca-0953-4.mp3",
 			"Standard Arabic Audio": "msa-0953-4.mp3"
 		},
@@ -51,7 +51,7 @@
 			"English": "What did you see?",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ماذا رأيت؟",
 			"Egyptian Arabic Audio": "eca-0953-5.mp3",
 			"Standard Arabic Audio": "msa-0953-5.mp3"
 		},
@@ -61,7 +61,7 @@
 			"English": "He actually handed in orders for two tables before us.",
 			"Word Count": 10,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وسلم في الواقع أوامر لجدولين من قبلنا.",
 			"Egyptian Arabic Audio": "eca-0953-6.mp3",
 			"Standard Arabic Audio": "msa-0953-6.mp3"
 		},
@@ -71,7 +71,7 @@
 			"English": "You mean after he took our order.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "تقصد بعد أن أخذ النظام لدينا.",
 			"Egyptian Arabic Audio": "eca-0953-7.mp3",
 			"Standard Arabic Audio": "msa-0953-7.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "Yes. He was goofing off. I could see him from here.",
 			"Word Count": 11,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "نعم فعلا. كان ينزلق. أستطيع أن أراه من هنا.",
 			"Egyptian Arabic Audio": "eca-0953-8.mp3",
 			"Standard Arabic Audio": "msa-0953-8.mp3"
 		},
@@ -91,7 +91,7 @@
 			"English": "How do you know he did this.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كيف تعرف أنه فعل ذلك.",
 			"Egyptian Arabic Audio": "eca-0953-9.mp3",
 			"Standard Arabic Audio": "msa-0953-9.mp3"
 		},
@@ -101,7 +101,7 @@
 			"English": "Like I said, I was watching. He forgot our order.",
 			"Word Count": 10,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كما قلت، كنت أشاهد. لقد نسي نظامنا.",
 			"Egyptian Arabic Audio": "eca-0953-10.mp3",
 			"Standard Arabic Audio": "msa-0953-10.mp3"
 		},
@@ -111,7 +111,7 @@
 			"English": "That's terrible.",
 			"Word Count": 2,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هذا مريع.",
 			"Egyptian Arabic Audio": "eca-0953-11.mp3",
 			"Standard Arabic Audio": "msa-0953-11.mp3"
 		},
@@ -121,7 +121,7 @@
 			"English": "Yes, well he's not going to get a good tip from me.",
 			"Word Count": 12,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "نعم، حسنا انه لن يحصل على نصيحة جيدة من لي.",
 			"Egyptian Arabic Audio": "eca-0953-12.mp3",
 			"Standard Arabic Audio": "msa-0953-12.mp3"
 		}

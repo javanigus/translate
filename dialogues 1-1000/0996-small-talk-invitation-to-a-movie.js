@@ -11,7 +11,7 @@
 			"English": "What are you doing this weekend?",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ماذا ستفعل فى نهاية هذا الاسبوع؟",
 			"Egyptian Arabic Audio": "eca-0996-1.mp3",
 			"Standard Arabic Audio": "msa-0996-1.mp3"
 		},
@@ -21,7 +21,7 @@
 			"English": "I'm going to the movies with a friend. How about you?",
 			"Word Count": 11,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انا ذاهب الى السينما مع صديق. ماذا عنك؟",
 			"Egyptian Arabic Audio": "eca-0996-2.mp3",
 			"Standard Arabic Audio": "msa-0996-2.mp3"
 		},
@@ -31,7 +31,7 @@
 			"English": "I'm not sure yet.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لست متأكدا بعد.",
 			"Egyptian Arabic Audio": "eca-0996-3.mp3",
 			"Standard Arabic Audio": "msa-0996-3.mp3"
 		},
@@ -41,7 +41,7 @@
 			"English": "Well, did you want to go see a movie with me?",
 			"Word Count": 11,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "حسنا، هل تريد أن تذهب لرؤية فيلم معي؟",
 			"Egyptian Arabic Audio": "eca-0996-4.mp3",
 			"Standard Arabic Audio": "msa-0996-4.mp3"
 		},
@@ -51,7 +51,7 @@
 			"English": "What movie are you going to see?",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ما هو الفيلم الذي أنت ذاهب لرؤية؟",
 			"Egyptian Arabic Audio": "eca-0996-5.mp3",
 			"Standard Arabic Audio": "msa-0996-5.mp3"
 		},
@@ -61,7 +61,7 @@
 			"English": "I'm not sure yet. Is there something you want to see?",
 			"Word Count": 11,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لست متأكدا بعد. هل هناك شيء تريد أن ترى؟",
 			"Egyptian Arabic Audio": "eca-0996-6.mp3",
 			"Standard Arabic Audio": "msa-0996-6.mp3"
 		},
@@ -71,7 +71,7 @@
 			"English": "There's nothing I can think of.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لا يوجد شيء يمكن أن أفكر فيه.",
 			"Egyptian Arabic Audio": "eca-0996-7.mp3",
 			"Standard Arabic Audio": "msa-0996-7.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "So, did you want to go?",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لذلك، هل تريد أن تذهب؟",
 			"Egyptian Arabic Audio": "eca-0996-8.mp3",
 			"Standard Arabic Audio": "msa-0996-8.mp3"
 		},
@@ -91,7 +91,7 @@
 			"English": "No, thanks, maybe another time.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لا، شكرا، ربما مرة أخرى.",
 			"Egyptian Arabic Audio": "eca-0996-9.mp3",
 			"Standard Arabic Audio": "msa-0996-9.mp3"
 		},
@@ -101,7 +101,7 @@
 			"English": "Okay, sounds good.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "حسنا، يبدو جيدا.",
 			"Egyptian Arabic Audio": "eca-0996-10.mp3",
 			"Standard Arabic Audio": "msa-0996-10.mp3"
 		},
@@ -111,7 +111,7 @@
 			"English": "Do you know what you're going to do this weekend?",
 			"Word Count": 10,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هل تعرف ما الذي ستفعله في نهاية هذا الأسبوع؟",
 			"Egyptian Arabic Audio": "eca-0996-11.mp3",
 			"Standard Arabic Audio": "msa-0996-11.mp3"
 		},
@@ -121,7 +121,7 @@
 			"English": "I am going to see a movie with a friend of mine. What about you?",
 			"Word Count": 15,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انا ذاهب لرؤية فيلم مع صديق لي. ماذا عنك؟",
 			"Egyptian Arabic Audio": "eca-0996-12.mp3",
 			"Standard Arabic Audio": "msa-0996-12.mp3"
 		},
@@ -131,7 +131,7 @@
 			"English": "I don't know.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انا لا اعرف.",
 			"Egyptian Arabic Audio": "eca-0996-13.mp3",
 			"Standard Arabic Audio": "msa-0996-13.mp3"
 		},
@@ -141,7 +141,7 @@
 			"English": "Would you like to see a movie with me and my friend?",
 			"Word Count": 12,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هل تريد مشاهدة فيلم معي وصديقي؟",
 			"Egyptian Arabic Audio": "eca-0996-14.mp3",
 			"Standard Arabic Audio": "msa-0996-14.mp3"
 		},
@@ -151,7 +151,7 @@
 			"English": "Do you know what movie you're going to watch?",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هل تعرف ما هو الفيلم الذي تسير لمشاهدة؟",
 			"Egyptian Arabic Audio": "eca-0996-15.mp3",
 			"Standard Arabic Audio": "msa-0996-15.mp3"
 		},
@@ -161,7 +161,7 @@
 			"English": "I don't know, but was there a certain movie you wanted to see?",
 			"Word Count": 13,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنا لا أعرف، ولكن كان هناك فيلم معين كنت تريد أن ترى؟",
 			"Egyptian Arabic Audio": "eca-0996-16.mp3",
 			"Standard Arabic Audio": "msa-0996-16.mp3"
 		},
@@ -171,7 +171,7 @@
 			"English": "None that I can think of.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لا شيء يمكن أن أفكر فيه.",
 			"Egyptian Arabic Audio": "eca-0996-17.mp3",
 			"Standard Arabic Audio": "msa-0996-17.mp3"
 		},
@@ -181,7 +181,7 @@
 			"English": "Well, would you like to go?",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "حسنا، هل تريد أن تذهب؟",
 			"Egyptian Arabic Audio": "eca-0996-18.mp3",
 			"Standard Arabic Audio": "msa-0996-18.mp3"
 		},
@@ -191,7 +191,7 @@
 			"English": "Thank you for inviting me, but I think I'll pass.",
 			"Word Count": 10,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "شكرا للدعوة لي، ولكن أعتقد أنني سوف تمر.",
 			"Egyptian Arabic Audio": "eca-0996-19.mp3",
 			"Standard Arabic Audio": "msa-0996-19.mp3"
 		},
@@ -201,7 +201,7 @@
 			"English": "All right. Another time then.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "حسنا. مرة أخرى ثم.",
 			"Egyptian Arabic Audio": "eca-0996-20.mp3",
 			"Standard Arabic Audio": "msa-0996-20.mp3"
 		},
@@ -211,7 +211,7 @@
 			"English": "You have any ideas as to what you want to do this weekend?",
 			"Word Count": 13,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لديك أي أفكار حول ما تريد القيام به في نهاية هذا الاسبوع؟",
 			"Egyptian Arabic Audio": "eca-0996-21.mp3",
 			"Standard Arabic Audio": "msa-0996-21.mp3"
 		},
@@ -221,7 +221,7 @@
 			"English": "I'm going to the movie theater with my friend. What are you going to do?",
 			"Word Count": 15,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انا ذاهب الى السينما مع صديقى. ماالذي ستفعله؟",
 			"Egyptian Arabic Audio": "eca-0996-22.mp3",
 			"Standard Arabic Audio": "msa-0996-22.mp3"
 		},
@@ -231,7 +231,7 @@
 			"English": "I'm not quite sure yet.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنا لست متأكدا تماما حتى الآن.",
 			"Egyptian Arabic Audio": "eca-0996-23.mp3",
 			"Standard Arabic Audio": "msa-0996-23.mp3"
 		},
@@ -241,7 +241,7 @@
 			"English": "How about you see a movie with me and my friend?",
 			"Word Count": 11,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ماذا عن رؤية فيلم معي وصديقي؟",
 			"Egyptian Arabic Audio": "eca-0996-24.mp3",
 			"Standard Arabic Audio": "msa-0996-24.mp3"
 		},
@@ -251,7 +251,7 @@
 			"English": "What movie are you and your friend planning on watching?",
 			"Word Count": 10,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ما هو الفيلم الذي أنت وصديقك التخطيط على مشاهدة؟",
 			"Egyptian Arabic Audio": "eca-0996-25.mp3",
 			"Standard Arabic Audio": "msa-0996-25.mp3"
 		},
@@ -261,7 +261,7 @@
 			"English": "Not sure. Is there a movie out that catches your eye?",
 			"Word Count": 11,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "غير متأكد. هل هناك فيلم خارج أن يمسك عينيك؟",
 			"Egyptian Arabic Audio": "eca-0996-26.mp3",
 			"Standard Arabic Audio": "msa-0996-26.mp3"
 		},
@@ -271,7 +271,7 @@
 			"English": "No good movies come to mind.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لا توجد أفلام جيدة تتبادر إلى الذهن.",
 			"Egyptian Arabic Audio": "eca-0996-27.mp3",
 			"Standard Arabic Audio": "msa-0996-27.mp3"
 		},
@@ -281,7 +281,7 @@
 			"English": "Have you decided whether or not you would like to go?",
 			"Word Count": 11,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هل قررت ما إذا كنت ترغب في الذهاب؟",
 			"Egyptian Arabic Audio": "eca-0996-28.mp3",
 			"Standard Arabic Audio": "msa-0996-28.mp3"
 		},
@@ -291,7 +291,7 @@
 			"English": "No, thanks. Maybe another time.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لا شكرا. ربما في وقت أخر.",
 			"Egyptian Arabic Audio": "eca-0996-29.mp3",
 			"Standard Arabic Audio": "msa-0996-29.mp3"
 		},
@@ -301,7 +301,7 @@
 			"English": "For sure another day.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "بالتأكيد يوم آخر.",
 			"Egyptian Arabic Audio": "eca-0996-30.mp3",
 			"Standard Arabic Audio": "msa-0996-30.mp3"
 		}

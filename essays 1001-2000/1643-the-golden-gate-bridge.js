@@ -9,7 +9,7 @@
 			"English": "The bridge was completed later that year, and has been in use ever since.",
 			"Word Count": 14,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "تم الانتهاء من الجسر في وقت لاحق من ذلك العام، وكان قيد الاستخدام منذ ذلك الحين.",
 			"Egyptian Arabic Audio": "eca-1643-1.mp3",
 			"Standard Arabic Audio": "msa-1643-1.mp3"
 		},
@@ -18,7 +18,7 @@
 			"English": "It is one of California's great landmarks with people from all over the world drawn to see it.",
 			"Word Count": 18,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وهي واحدة من معالم كاليفورنيا الكبرى مع الناس من جميع أنحاء العالم رسمها لرؤيته.",
 			"Egyptian Arabic Audio": "eca-1643-2.mp3",
 			"Standard Arabic Audio": "msa-1643-2.mp3"
 		}

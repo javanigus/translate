@@ -9,7 +9,7 @@
 			"English": "However, Emma did have friends from her boxing class.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ومع ذلك، إيما لم أصدقاء من الطبقة الملاكمة لها.",
 			"Egyptian Arabic Audio": "eca-0971-1.mp3",
 			"Standard Arabic Audio": "msa-0971-1.mp3"
 		},
@@ -18,7 +18,7 @@
 			"English": "They were all female boxers.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كانوا جميعا الملاكمين الإناث.",
 			"Egyptian Arabic Audio": "eca-0971-2.mp3",
 			"Standard Arabic Audio": "msa-0971-2.mp3"
 		},
@@ -27,7 +27,7 @@
 			"English": "They understood what Emma was going through because they were in the same position.",
 			"Word Count": 14,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "فهموا ما كانت إيما تمر به لأنها في نفس الموقف.",
 			"Egyptian Arabic Audio": "eca-0971-3.mp3",
 			"Standard Arabic Audio": "msa-0971-3.mp3"
 		},
@@ -36,7 +36,7 @@
 			"English": "All they had was each other.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كل ما كان عليه كل منهما الآخر.",
 			"Egyptian Arabic Audio": "eca-0971-4.mp3",
 			"Standard Arabic Audio": "msa-0971-4.mp3"
 		},
@@ -45,7 +45,7 @@
 			"English": "They were a family.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كانوا عائلة.",
 			"Egyptian Arabic Audio": "eca-0971-5.mp3",
 			"Standard Arabic Audio": "msa-0971-5.mp3"
 		},
@@ -54,7 +54,7 @@
 			"English": "Because of this, Emma was always excited for boxing class.",
 			"Word Count": 10,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وبسبب هذا، كان إيما متحمسا دائما لفئة الملاكمة.",
 			"Egyptian Arabic Audio": "eca-0971-6.mp3",
 			"Standard Arabic Audio": "msa-0971-6.mp3"
 		},
@@ -63,7 +63,7 @@
 			"English": "One day, she was going to be a famous boxer.",
 			"Word Count": 10,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يوم واحد، وقالت انها ستكون ذاهبا الملاكم الشهير.",
 			"Egyptian Arabic Audio": "eca-0971-7.mp3",
 			"Standard Arabic Audio": "msa-0971-7.mp3"
 		},
@@ -72,7 +72,7 @@
 			"English": "Only then would everyone regret how they treated her.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وعندئذ فقط يأسف الجميع لكيفية معاملتها.",
 			"Egyptian Arabic Audio": "eca-0971-8.mp3",
 			"Standard Arabic Audio": "msa-0971-8.mp3"
 		}

@@ -9,7 +9,7 @@
 			"English": "She goes to the market.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "تذهب إلى السوق.",
 			"Egyptian Arabic Audio": "eca-0558-1.mp3",
 			"Standard Arabic Audio": "msa-0558-1.mp3"
 		},
@@ -18,7 +18,7 @@
 			"English": "She wants to buy blueberry muffins.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انها تريد شراء الكعك عنبية.",
 			"Egyptian Arabic Audio": "eca-0558-2.mp3",
 			"Standard Arabic Audio": "msa-0558-2.mp3"
 		},
@@ -27,7 +27,7 @@
 			"English": "She is not sure if it tastes good.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انها ليست متأكدا مما اذا كان الأذواق جيدة.",
 			"Egyptian Arabic Audio": "eca-0558-3.mp3",
 			"Standard Arabic Audio": "msa-0558-3.mp3"
 		},
@@ -36,7 +36,7 @@
 			"English": "She finds an employee, and asks for a sample.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وهي تجد موظفا، وتطلب عينة.",
 			"Egyptian Arabic Audio": "eca-0558-4.mp3",
 			"Standard Arabic Audio": "msa-0558-4.mp3"
 		},
@@ -45,7 +45,7 @@
 			"English": "The employee cuts a small piece, and gives it to her.",
 			"Word Count": 11,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "الموظف يقطع قطعة صغيرة، ويعطيها لها.",
 			"Egyptian Arabic Audio": "eca-0558-5.mp3",
 			"Standard Arabic Audio": "msa-0558-5.mp3"
 		},
@@ -54,7 +54,7 @@
 			"English": "She tries it.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انها تحاول ذلك.",
 			"Egyptian Arabic Audio": "eca-0558-6.mp3",
 			"Standard Arabic Audio": "msa-0558-6.mp3"
 		},
@@ -63,7 +63,7 @@
 			"English": "It is good.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انه جيد.",
 			"Egyptian Arabic Audio": "eca-0558-7.mp3",
 			"Standard Arabic Audio": "msa-0558-7.mp3"
 		},
@@ -72,7 +72,7 @@
 			"English": "She buys the pack of muffins.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "تشتري حزمة من الكعك.",
 			"Egyptian Arabic Audio": "eca-0558-8.mp3",
 			"Standard Arabic Audio": "msa-0558-8.mp3"
 		}

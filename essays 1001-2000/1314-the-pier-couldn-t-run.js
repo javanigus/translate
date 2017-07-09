@@ -9,7 +9,7 @@
 			"English": "Some people stood on the small pier.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وقفت بعض الناس على الرصيف الصغير.",
 			"Egyptian Arabic Audio": "eca-1314-1.mp3",
 			"Standard Arabic Audio": "msa-1314-1.mp3"
 		},
@@ -18,7 +18,7 @@
 			"English": "They saw a boat approach.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "رأوا نهج قارب.",
 			"Egyptian Arabic Audio": "eca-1314-2.mp3",
 			"Standard Arabic Audio": "msa-1314-2.mp3"
 		},
@@ -27,7 +27,7 @@
 			"English": "The boat was approaching fast.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وكان القارب يقترب بسرعة.",
 			"Egyptian Arabic Audio": "eca-1314-3.mp3",
 			"Standard Arabic Audio": "msa-1314-3.mp3"
 		},
@@ -36,7 +36,7 @@
 			"English": "The boat was approaching the small pier.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وكان القارب يقترب من الرصيف الصغير.",
 			"Egyptian Arabic Audio": "eca-1314-4.mp3",
 			"Standard Arabic Audio": "msa-1314-4.mp3"
 		},
@@ -45,7 +45,7 @@
 			"English": "Was the boat going to stop? People started running.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هل كان القارب سيتوقف؟ بدأ الأشخاص في التشغيل.",
 			"Egyptian Arabic Audio": "eca-1314-5.mp3",
 			"Standard Arabic Audio": "msa-1314-5.mp3"
 		},
@@ -54,7 +54,7 @@
 			"English": "They started running off the pier.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "بدأوا يركضون قبالة الرصيف.",
 			"Egyptian Arabic Audio": "eca-1314-6.mp3",
 			"Standard Arabic Audio": "msa-1314-6.mp3"
 		},
@@ -63,7 +63,7 @@
 			"English": "They were worried.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كانوا قلقين.",
 			"Egyptian Arabic Audio": "eca-1314-7.mp3",
 			"Standard Arabic Audio": "msa-1314-7.mp3"
 		},
@@ -72,7 +72,7 @@
 			"English": "They were worried about the boat.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كانوا قلقين بشأن القارب.",
 			"Egyptian Arabic Audio": "eca-1314-8.mp3",
 			"Standard Arabic Audio": "msa-1314-8.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "The boat kept coming.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "القارب أبقى القادمة.",
 			"Egyptian Arabic Audio": "eca-1314-9.mp3",
 			"Standard Arabic Audio": "msa-1314-9.mp3"
 		},
@@ -90,7 +90,7 @@
 			"English": "It didn't slow down.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لم يتباطأ.",
 			"Egyptian Arabic Audio": "eca-1314-10.mp3",
 			"Standard Arabic Audio": "msa-1314-10.mp3"
 		},
@@ -99,7 +99,7 @@
 			"English": "One man stood on the pier.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وقف رجل واحد على الرصيف.",
 			"Egyptian Arabic Audio": "eca-1314-11.mp3",
 			"Standard Arabic Audio": "msa-1314-11.mp3"
 		},
@@ -108,7 +108,7 @@
 			"English": "He didn't run.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لم يكن يعمل.",
 			"Egyptian Arabic Audio": "eca-1314-12.mp3",
 			"Standard Arabic Audio": "msa-1314-12.mp3"
 		},
@@ -117,7 +117,7 @@
 			"English": "He yelled at the boat.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "صاح في القارب.",
 			"Egyptian Arabic Audio": "eca-1314-13.mp3",
 			"Standard Arabic Audio": "msa-1314-13.mp3"
 		},
@@ -126,7 +126,7 @@
 			"English": "He waved his arms.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ولوح ذراعيه.",
 			"Egyptian Arabic Audio": "eca-1314-14.mp3",
 			"Standard Arabic Audio": "msa-1314-14.mp3"
 		},
@@ -135,7 +135,7 @@
 			"English": "He yelled, \"Stop! Stop! You're going to crash!\" But the boat didn't stop.",
 			"Word Count": 13,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "صاح، &quot;توقف! توقف! أنت ذاهب إلى تعطل!&quot; لكن القارب لم يتوقف.",
 			"Egyptian Arabic Audio": "eca-1314-15.mp3",
 			"Standard Arabic Audio": "msa-1314-15.mp3"
 		},
@@ -144,7 +144,7 @@
 			"English": "It kept coming.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أبقى القادمة.",
 			"Egyptian Arabic Audio": "eca-1314-16.mp3",
 			"Standard Arabic Audio": "msa-1314-16.mp3"
 		},
@@ -153,7 +153,7 @@
 			"English": "The man kept yelling.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وظل الرجل يصرخ.",
 			"Egyptian Arabic Audio": "eca-1314-17.mp3",
 			"Standard Arabic Audio": "msa-1314-17.mp3"
 		},
@@ -162,7 +162,7 @@
 			"English": "The boat kept coming.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "القارب أبقى القادمة.",
 			"Egyptian Arabic Audio": "eca-1314-18.mp3",
 			"Standard Arabic Audio": "msa-1314-18.mp3"
 		},
@@ -171,7 +171,7 @@
 			"English": "Is the driver drunk, the man wondered.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هو السائق في حالة سكر، وتساءل الرجل.",
 			"Egyptian Arabic Audio": "eca-1314-19.mp3",
 			"Standard Arabic Audio": "msa-1314-19.mp3"
 		},
@@ -180,7 +180,7 @@
 			"English": "He ran as fast as he could.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ركض بأسرع ما يمكن.",
 			"Egyptian Arabic Audio": "eca-1314-20.mp3",
 			"Standard Arabic Audio": "msa-1314-20.mp3"
 		},
@@ -189,7 +189,7 @@
 			"English": "He ran off the pier.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هرب من الرصيف.",
 			"Egyptian Arabic Audio": "eca-1314-21.mp3",
 			"Standard Arabic Audio": "msa-1314-21.mp3"
 		},
@@ -198,7 +198,7 @@
 			"English": "The boat crashed into the pier.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وتحطمت القارب في الرصيف.",
 			"Egyptian Arabic Audio": "eca-1314-22.mp3",
 			"Standard Arabic Audio": "msa-1314-22.mp3"
 		}

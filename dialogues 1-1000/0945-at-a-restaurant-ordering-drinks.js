@@ -11,7 +11,7 @@
 			"English": "Good Evening. I am Joseph, and I'll be your waiter tonight.",
 			"Word Count": 11,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "مساء الخير. أنا يوسف، وسأكون الليلة النادل الخاص بك.",
 			"Egyptian Arabic Audio": "eca-0945-1.mp3",
 			"Standard Arabic Audio": "msa-0945-1.mp3"
 		},
@@ -21,7 +21,7 @@
 			"English": "Hello, Joseph.",
 			"Word Count": 2,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "مرحبا، جوزيف.",
 			"Egyptian Arabic Audio": "eca-0945-2.mp3",
 			"Standard Arabic Audio": "msa-0945-2.mp3"
 		},
@@ -31,7 +31,7 @@
 			"English": "Can I start you off with some refreshments?",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يمكنني أن أبدأ لكم مع بعض المرطبات؟",
 			"Egyptian Arabic Audio": "eca-0945-3.mp3",
 			"Standard Arabic Audio": "msa-0945-3.mp3"
 		},
@@ -41,7 +41,7 @@
 			"English": "Yes, you can. I'll take a Long Island Iced Tea.",
 			"Word Count": 10,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "نعم، يمكنك. سأأخذ الشاي الطويل الآيس كريم.",
 			"Egyptian Arabic Audio": "eca-0945-4.mp3",
 			"Standard Arabic Audio": "msa-0945-4.mp3"
 		},
@@ -51,7 +51,7 @@
 			"English": "And for the lady?",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وبالنسبة للسيدة؟",
 			"Egyptian Arabic Audio": "eca-0945-5.mp3",
 			"Standard Arabic Audio": "msa-0945-5.mp3"
 		},
@@ -61,7 +61,7 @@
 			"English": "She will have a vodka martini.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وقالت انها سوف يكون المارتيني الفودكا.",
 			"Egyptian Arabic Audio": "eca-0945-6.mp3",
 			"Standard Arabic Audio": "msa-0945-6.mp3"
 		},
@@ -71,7 +71,7 @@
 			"English": "Those are excellent choices. How about the kids?",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "تلك هي خيارات ممتازة. ماذا عن الأطفال؟",
 			"Egyptian Arabic Audio": "eca-0945-7.mp3",
 			"Standard Arabic Audio": "msa-0945-7.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "They will take regular iced teas.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وسوف تأخذ الشاي المثلج العادية.",
 			"Egyptian Arabic Audio": "eca-0945-8.mp3",
 			"Standard Arabic Audio": "msa-0945-8.mp3"
 		},
@@ -91,7 +91,7 @@
 			"English": "Will there be anything else?",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هل سيكون هناك شيء أخر؟",
 			"Egyptian Arabic Audio": "eca-0945-9.mp3",
 			"Standard Arabic Audio": "msa-0945-9.mp3"
 		},
@@ -101,7 +101,7 @@
 			"English": "Yes, as a matter of fact. Can you bring me a beer chaser?",
 			"Word Count": 13,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "نعم، في واقع الأمر. يمكنك إحضار لي المطارد البيرة؟",
 			"Egyptian Arabic Audio": "eca-0945-10.mp3",
 			"Standard Arabic Audio": "msa-0945-10.mp3"
 		},
@@ -111,7 +111,7 @@
 			"English": "Certainly. What kind of beer would you like?",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "من المؤكد. أي نوع من البيرة تريد؟",
 			"Egyptian Arabic Audio": "eca-0945-11.mp3",
 			"Standard Arabic Audio": "msa-0945-11.mp3"
 		},
@@ -121,7 +121,7 @@
 			"English": "I want something imported. How about something from Mexico?",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أريد شيئا مستوردا. ماذا عن شيء من المكسيك؟",
 			"Egyptian Arabic Audio": "eca-0945-12.mp3",
 			"Standard Arabic Audio": "msa-0945-12.mp3"
 		}

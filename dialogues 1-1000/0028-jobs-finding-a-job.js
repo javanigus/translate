@@ -11,7 +11,7 @@
 			"English": "I'm trying to find a job to pay for college.",
 			"Word Count": 10,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أحاول العثور على وظيفة لدفع ثمن الكلية.",
 			"Egyptian Arabic Audio": "eca-0028-1.mp3",
 			"Standard Arabic Audio": "msa-0028-1.mp3"
 		},
@@ -21,7 +21,7 @@
 			"English": "Good for you!",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أمر طيب لك!",
 			"Egyptian Arabic Audio": "eca-0028-2.mp3",
 			"Standard Arabic Audio": "msa-0028-2.mp3"
 		},
@@ -31,7 +31,7 @@
 			"English": "Do you have a job right now?",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هل لديك وظيفة الآن؟",
 			"Egyptian Arabic Audio": "eca-0028-3.mp3",
 			"Standard Arabic Audio": "msa-0028-3.mp3"
 		},
@@ -41,7 +41,7 @@
 			"English": "Yes, I am a waitress.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "نعم، أنا نادلة.",
 			"Egyptian Arabic Audio": "eca-0028-4.mp3",
 			"Standard Arabic Audio": "msa-0028-4.mp3"
 		},
@@ -51,7 +51,7 @@
 			"English": "Any tips on finding a part-time job?",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أي نصائح حول إيجاد وظيفة بدوام جزئي؟",
 			"Egyptian Arabic Audio": "eca-0028-5.mp3",
 			"Standard Arabic Audio": "msa-0028-5.mp3"
 		},
@@ -61,7 +61,7 @@
 			"English": "Be friendly, offer your resume, and dress nicely.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "تكون ودية، وتقديم سيرتك الذاتية، واللباس لطيف.",
 			"Egyptian Arabic Audio": "eca-0028-6.mp3",
 			"Standard Arabic Audio": "msa-0028-6.mp3"
 		},
@@ -71,7 +71,7 @@
 			"English": "I've done that so many times.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لقد فعلت ذلك مرات عديدة.",
 			"Egyptian Arabic Audio": "eca-0028-7.mp3",
 			"Standard Arabic Audio": "msa-0028-7.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "Sometimes companies don't need any employees.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "في بعض الأحيان الشركات لا تحتاج إلى أي موظف.",
 			"Egyptian Arabic Audio": "eca-0028-8.mp3",
 			"Standard Arabic Audio": "msa-0028-8.mp3"
 		},
@@ -91,7 +91,7 @@
 			"English": "How did you get your job?",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كيف وجدت عملك؟",
 			"Egyptian Arabic Audio": "eca-0028-9.mp3",
 			"Standard Arabic Audio": "msa-0028-9.mp3"
 		},
@@ -101,7 +101,7 @@
 			"English": "Just send applications and hope someone calls.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "فقط أرسل التطبيقات وأمل شخص يدعو.",
 			"Egyptian Arabic Audio": "eca-0028-10.mp3",
 			"Standard Arabic Audio": "msa-0028-10.mp3"
 		},
@@ -111,7 +111,7 @@
 			"English": "So is it based on luck?",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "فهل هو قائم على الحظ؟",
 			"Egyptian Arabic Audio": "eca-0028-11.mp3",
 			"Standard Arabic Audio": "msa-0028-11.mp3"
 		},
@@ -121,7 +121,7 @@
 			"English": "A little bit luck helps!",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "قليلا الحظ يساعد!",
 			"Egyptian Arabic Audio": "eca-0028-12.mp3",
 			"Standard Arabic Audio": "msa-0028-12.mp3"
 		}

@@ -9,7 +9,7 @@
 			"English": "She looks at her phone.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "إنها تنظر إلى هاتفها.",
 			"Egyptian Arabic Audio": "eca-0581-1.mp3",
 			"Standard Arabic Audio": "msa-0581-1.mp3"
 		},
@@ -18,7 +18,7 @@
 			"English": "It is three inches long and two inches wide.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "فمن ثلاث بوصات طويلة وبوصة اثنين واسعة.",
 			"Egyptian Arabic Audio": "eca-0581-2.mp3",
 			"Standard Arabic Audio": "msa-0581-2.mp3"
 		},
@@ -27,7 +27,7 @@
 			"English": "She loves her phone.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "تحب هاتفها.",
 			"Egyptian Arabic Audio": "eca-0581-3.mp3",
 			"Standard Arabic Audio": "msa-0581-3.mp3"
 		},
@@ -36,7 +36,7 @@
 			"English": "She uses it all the time.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انها تستخدم في كل وقت.",
 			"Egyptian Arabic Audio": "eca-0581-4.mp3",
 			"Standard Arabic Audio": "msa-0581-4.mp3"
 		},
@@ -45,7 +45,7 @@
 			"English": "She brings it everywhere.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انها يجلب كل مكان.",
 			"Egyptian Arabic Audio": "eca-0581-5.mp3",
 			"Standard Arabic Audio": "msa-0581-5.mp3"
 		},
@@ -54,7 +54,7 @@
 			"English": "She talks to her friends on it.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وقالت إنها تتحدث إلى أصدقائها على ذلك.",
 			"Egyptian Arabic Audio": "eca-0581-6.mp3",
 			"Standard Arabic Audio": "msa-0581-6.mp3"
 		},
@@ -63,7 +63,7 @@
 			"English": "She plays games on it.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وقالت انها تلعب مباريات على ذلك.",
 			"Egyptian Arabic Audio": "eca-0581-7.mp3",
 			"Standard Arabic Audio": "msa-0581-7.mp3"
 		},
@@ -72,7 +72,7 @@
 			"English": "She plans her schedule on it.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وقالت انها تخطط جدولها على ذلك.",
 			"Egyptian Arabic Audio": "eca-0581-8.mp3",
 			"Standard Arabic Audio": "msa-0581-8.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "She checks her email on it.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انها تحقق البريد الإلكتروني لها على ذلك.",
 			"Egyptian Arabic Audio": "eca-0581-9.mp3",
 			"Standard Arabic Audio": "msa-0581-9.mp3"
 		}

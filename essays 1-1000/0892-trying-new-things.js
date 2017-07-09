@@ -9,7 +9,7 @@
 			"English": "\"You have to! My dad made it for you,\" she said.",
 			"Word Count": 11,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "قالت: &quot;عليك أن تفعل أبي لك&quot;.",
 			"Egyptian Arabic Audio": "eca-0892-1.mp3",
 			"Standard Arabic Audio": "msa-0892-1.mp3"
 		},
@@ -18,7 +18,7 @@
 			"English": "Shirley felt bad.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "شعرت شيرلي سيئة.",
 			"Egyptian Arabic Audio": "eca-0892-2.mp3",
 			"Standard Arabic Audio": "msa-0892-2.mp3"
 		},
@@ -27,7 +27,7 @@
 			"English": "She grabbed her fork.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أمسكت شوكة لها.",
 			"Egyptian Arabic Audio": "eca-0892-3.mp3",
 			"Standard Arabic Audio": "msa-0892-3.mp3"
 		},
@@ -36,7 +36,7 @@
 			"English": "She slowly stuck it into the food.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انها عالقة ببطء في الطعام.",
 			"Egyptian Arabic Audio": "eca-0892-4.mp3",
 			"Standard Arabic Audio": "msa-0892-4.mp3"
 		},
@@ -45,7 +45,7 @@
 			"English": "She ate it slowly.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أكلت ببطء.",
 			"Egyptian Arabic Audio": "eca-0892-5.mp3",
 			"Standard Arabic Audio": "msa-0892-5.mp3"
 		},
@@ -54,7 +54,7 @@
 			"English": "It was surprisingly good.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كان جيدا بشكل مدهش.",
 			"Egyptian Arabic Audio": "eca-0892-6.mp3",
 			"Standard Arabic Audio": "msa-0892-6.mp3"
 		},
@@ -63,7 +63,7 @@
 			"English": "She finished her food in five minutes.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انتهت من طعامها في خمس دقائق.",
 			"Egyptian Arabic Audio": "eca-0892-7.mp3",
 			"Standard Arabic Audio": "msa-0892-7.mp3"
 		},
@@ -72,7 +72,7 @@
 			"English": "\"Wow! I will get you another plate,\" her friends's dad said.",
 			"Word Count": 11,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "&quot;أتمنى أن أحصل على لوحة أخرى&quot;.",
 			"Egyptian Arabic Audio": "eca-0892-8.mp3",
 			"Standard Arabic Audio": "msa-0892-8.mp3"
 		}

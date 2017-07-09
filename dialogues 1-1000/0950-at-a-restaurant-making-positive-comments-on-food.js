@@ -11,7 +11,7 @@
 			"English": "Honey, this steak looks delicious.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "العسل، هذه شريحة لحم تبدو لذيذة.",
 			"Egyptian Arabic Audio": "eca-0950-1.mp3",
 			"Standard Arabic Audio": "msa-0950-1.mp3"
 		},
@@ -21,7 +21,7 @@
 			"English": "Yes, it does, Michael. It has a nice color.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "نعم، يفعل ذلك، مايكل. انها لطيفة اللون.",
 			"Egyptian Arabic Audio": "eca-0950-2.mp3",
 			"Standard Arabic Audio": "msa-0950-2.mp3"
 		},
@@ -31,7 +31,7 @@
 			"English": "Yum, and it's perfectly cooked.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يم، وانها مطبوخة تماما.",
 			"Egyptian Arabic Audio": "eca-0950-3.mp3",
 			"Standard Arabic Audio": "msa-0950-3.mp3"
 		},
@@ -41,7 +41,7 @@
 			"English": "It looks a bit rare. How did you order it?",
 			"Word Count": 10,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يبدو قليلا نادرة. كيف كنت امر بها؟",
 			"Egyptian Arabic Audio": "eca-0950-4.mp3",
 			"Standard Arabic Audio": "msa-0950-4.mp3"
 		},
@@ -51,7 +51,7 @@
 			"English": "Medium-rare, as always.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "متوسطة نادرة، كما هو الحال دائما.",
 			"Egyptian Arabic Audio": "eca-0950-5.mp3",
 			"Standard Arabic Audio": "msa-0950-5.mp3"
 		},
@@ -61,7 +61,7 @@
 			"English": "That looks rare to me, dear.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هذا يبدو نادرا بالنسبة لي، عزيزتي.",
 			"Egyptian Arabic Audio": "eca-0950-6.mp3",
 			"Standard Arabic Audio": "msa-0950-6.mp3"
 		},
@@ -71,7 +71,7 @@
 			"English": "It might be a bit pink on the inside, but I don't care. This is delicious.",
 			"Word Count": 16,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "قد يكون وردي قليلا في الداخل، ولكن لا يهمني. هذا شهي.",
 			"Egyptian Arabic Audio": "eca-0950-7.mp3",
 			"Standard Arabic Audio": "msa-0950-7.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "That's all that matters, dear.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هذا كل ما يهم، عزيزي.",
 			"Egyptian Arabic Audio": "eca-0950-8.mp3",
 			"Standard Arabic Audio": "msa-0950-8.mp3"
 		},
@@ -91,7 +91,7 @@
 			"English": "I have to tell the waiter to send my compliments to the chef.",
 			"Word Count": 13,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يجب أن أقول النادل لإرسال تحياتي إلى الشيف.",
 			"Egyptian Arabic Audio": "eca-0950-9.mp3",
 			"Standard Arabic Audio": "msa-0950-9.mp3"
 		},
@@ -101,7 +101,7 @@
 			"English": "That would be a nice gesture.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وسيكون ذلك لفتة لطيفة.",
 			"Egyptian Arabic Audio": "eca-0950-10.mp3",
 			"Standard Arabic Audio": "msa-0950-10.mp3"
 		},
@@ -111,7 +111,7 @@
 			"English": "The baked potato is also very tasty.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "البطاطا المخبوزة هي أيضا لذيذة جدا.",
 			"Egyptian Arabic Audio": "eca-0950-11.mp3",
 			"Standard Arabic Audio": "msa-0950-11.mp3"
 		},
@@ -121,7 +121,7 @@
 			"English": "Well, make sure you tell the chef that also.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "حسنا، تأكد من إخبار الطهاة أيضا.",
 			"Egyptian Arabic Audio": "eca-0950-12.mp3",
 			"Standard Arabic Audio": "msa-0950-12.mp3"
 		}

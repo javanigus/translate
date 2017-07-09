@@ -9,7 +9,7 @@
 			"English": "Johnny jumped over the dog.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "قفز جوني فوق الكلب.",
 			"Egyptian Arabic Audio": "eca-0404-1.mp3",
 			"Standard Arabic Audio": "msa-0404-1.mp3"
 		},
@@ -18,7 +18,7 @@
 			"English": "The dog was lying on the ground.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كان الكلب مستلقيا على الأرض.",
 			"Egyptian Arabic Audio": "eca-0404-2.mp3",
 			"Standard Arabic Audio": "msa-0404-2.mp3"
 		},
@@ -27,7 +27,7 @@
 			"English": "Johnny jumped over it.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "قفز جوني أكثر من ذلك.",
 			"Egyptian Arabic Audio": "eca-0404-3.mp3",
 			"Standard Arabic Audio": "msa-0404-3.mp3"
 		},
@@ -36,7 +36,7 @@
 			"English": "The dog saw Johnny jump over it.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "رأى الكلب جوني القفز فوقه.",
 			"Egyptian Arabic Audio": "eca-0404-4.mp3",
 			"Standard Arabic Audio": "msa-0404-4.mp3"
 		},
@@ -45,7 +45,7 @@
 			"English": "The dog got up.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "الكلب استيقظ.",
 			"Egyptian Arabic Audio": "eca-0404-5.mp3",
 			"Standard Arabic Audio": "msa-0404-5.mp3"
 		},
@@ -54,7 +54,7 @@
 			"English": "The dog got up and barked at Johnny.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "الكلب صعد و نباح في جوني.",
 			"Egyptian Arabic Audio": "eca-0404-6.mp3",
 			"Standard Arabic Audio": "msa-0404-6.mp3"
 		},
@@ -63,7 +63,7 @@
 			"English": "Johnny laughed.",
 			"Word Count": 2,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ضحك جوني.",
 			"Egyptian Arabic Audio": "eca-0404-7.mp3",
 			"Standard Arabic Audio": "msa-0404-7.mp3"
 		},
@@ -72,7 +72,7 @@
 			"English": "He laughed while the dog barked.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ضحك بينما نباح الكلب.",
 			"Egyptian Arabic Audio": "eca-0404-8.mp3",
 			"Standard Arabic Audio": "msa-0404-8.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "Johnny ran over to the fence.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ركض جوني إلى السياج.",
 			"Egyptian Arabic Audio": "eca-0404-9.mp3",
 			"Standard Arabic Audio": "msa-0404-9.mp3"
 		},
@@ -90,7 +90,7 @@
 			"English": "The dog chased him to the fence.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "طارده الكلب إلى السياج.",
 			"Egyptian Arabic Audio": "eca-0404-10.mp3",
 			"Standard Arabic Audio": "msa-0404-10.mp3"
 		},
@@ -99,7 +99,7 @@
 			"English": "Johnny jumped over the fence.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "جوني قفز فوق السياج.",
 			"Egyptian Arabic Audio": "eca-0404-11.mp3",
 			"Standard Arabic Audio": "msa-0404-11.mp3"
 		},
@@ -108,7 +108,7 @@
 			"English": "He turned around and looked at the dog.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "التفت ونظرت إلى الكلب.",
 			"Egyptian Arabic Audio": "eca-0404-12.mp3",
 			"Standard Arabic Audio": "msa-0404-12.mp3"
 		},
@@ -117,7 +117,7 @@
 			"English": "The dog stopped at the fence.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "توقف الكلب عند السياج.",
 			"Egyptian Arabic Audio": "eca-0404-13.mp3",
 			"Standard Arabic Audio": "msa-0404-13.mp3"
 		},
@@ -126,7 +126,7 @@
 			"English": "The dog could not jump over the fence.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "الكلب لا يمكن القفز فوق السياج.",
 			"Egyptian Arabic Audio": "eca-0404-14.mp3",
 			"Standard Arabic Audio": "msa-0404-14.mp3"
 		},
@@ -135,7 +135,7 @@
 			"English": "Johnny said, \"Jump, jump!\" The dog barked, but did not jump.",
 			"Word Count": 11,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وقال جوني، &quot;القفز، والقفز!&quot; الكلب نباح، ولكن لم يقفز.",
 			"Egyptian Arabic Audio": "eca-0404-15.mp3",
 			"Standard Arabic Audio": "msa-0404-15.mp3"
 		}

@@ -11,7 +11,7 @@
 			"English": "Did you hear about Joseph and Michelle?",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هل سمعت عن جوزيف وميشيل؟",
 			"Egyptian Arabic Audio": "eca-0500-1.mp3",
 			"Standard Arabic Audio": "msa-0500-1.mp3"
 		},
@@ -21,7 +21,7 @@
 			"English": "No, what happened? Did they have a divorce?",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لا، ماذا حدث؟ هل لديهم طلاق؟",
 			"Egyptian Arabic Audio": "eca-0500-2.mp3",
 			"Standard Arabic Audio": "msa-0500-2.mp3"
 		},
@@ -31,7 +31,7 @@
 			"English": "Oh, no. They are pregnant.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أوه، لا. هم حامل.",
 			"Egyptian Arabic Audio": "eca-0500-3.mp3",
 			"Standard Arabic Audio": "msa-0500-3.mp3"
 		},
@@ -41,7 +41,7 @@
 			"English": "Really? How far along is Michelle?",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هل حقا؟ إلى أي مدى هي ميشيل؟",
 			"Egyptian Arabic Audio": "eca-0500-4.mp3",
 			"Standard Arabic Audio": "msa-0500-4.mp3"
 		},
@@ -51,7 +51,7 @@
 			"English": "Joseph told me that she is four months.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "قالت لي جوزيف إنها أربعة أشهر.",
 			"Egyptian Arabic Audio": "eca-0500-5.mp3",
 			"Standard Arabic Audio": "msa-0500-5.mp3"
 		},
@@ -61,7 +61,7 @@
 			"English": "Oh, okay. How is he handling the news?",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "حسنا. كيف يتم التعامل مع الأخبار؟",
 			"Egyptian Arabic Audio": "eca-0500-6.mp3",
 			"Standard Arabic Audio": "msa-0500-6.mp3"
 		},
@@ -71,7 +71,7 @@
 			"English": "He was a mess the last time I saw him.",
 			"Word Count": 10,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كان فوضى في المرة الأخيرة التي رأيته.",
 			"Egyptian Arabic Audio": "eca-0500-7.mp3",
 			"Standard Arabic Audio": "msa-0500-7.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "How is he now? Is he still crazy?",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كيف هو الآن؟ هل ما زال مجنونا؟",
 			"Egyptian Arabic Audio": "eca-0500-8.mp3",
 			"Standard Arabic Audio": "msa-0500-8.mp3"
 		},
@@ -91,7 +91,7 @@
 			"English": "Actually, he seems relaxed and collected.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "في الواقع، وقال انه يبدو استرخاء وجمعها.",
 			"Egyptian Arabic Audio": "eca-0500-9.mp3",
 			"Standard Arabic Audio": "msa-0500-9.mp3"
 		},
@@ -101,7 +101,7 @@
 			"English": "I can't believe Joseph is going to be a father.",
 			"Word Count": 10,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لا أستطيع أن أصدق جوزيف سيكون أبا.",
 			"Egyptian Arabic Audio": "eca-0500-10.mp3",
 			"Standard Arabic Audio": "msa-0500-10.mp3"
 		},
@@ -111,7 +111,7 @@
 			"English": "It's trippy, huh? He is our age.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انها تريبي، هاه؟ إنه عصرنا.",
 			"Egyptian Arabic Audio": "eca-0500-11.mp3",
 			"Standard Arabic Audio": "msa-0500-11.mp3"
 		},
@@ -121,7 +121,7 @@
 			"English": "This is making me feel really old.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هذا يجعلني أشعر قديمة حقا.",
 			"Egyptian Arabic Audio": "eca-0500-12.mp3",
 			"Standard Arabic Audio": "msa-0500-12.mp3"
 		}

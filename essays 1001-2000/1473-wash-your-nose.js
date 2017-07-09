@@ -9,7 +9,7 @@
 			"English": "He wanted to wash his hands.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أراد أن يغسل يديه.",
 			"Egyptian Arabic Audio": "eca-1473-1.mp3",
 			"Standard Arabic Audio": "msa-1473-1.mp3"
 		},
@@ -18,7 +18,7 @@
 			"English": "His hands were dirty.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كانت يديه متسخة.",
 			"Egyptian Arabic Audio": "eca-1473-2.mp3",
 			"Standard Arabic Audio": "msa-1473-2.mp3"
 		},
@@ -27,7 +27,7 @@
 			"English": "They were dirty from the newspaper.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كانوا قذرين من الصحيفة.",
 			"Egyptian Arabic Audio": "eca-1473-3.mp3",
 			"Standard Arabic Audio": "msa-1473-3.mp3"
 		},
@@ -36,7 +36,7 @@
 			"English": "All newspapers have black ink.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "تحتوي جميع الصحف على حبر أسود.",
 			"Egyptian Arabic Audio": "eca-1473-4.mp3",
 			"Standard Arabic Audio": "msa-1473-4.mp3"
 		},
@@ -45,7 +45,7 @@
 			"English": "The black ink got on his hands.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وحصل الحبر الأسود على يديه.",
 			"Egyptian Arabic Audio": "eca-1473-5.mp3",
 			"Standard Arabic Audio": "msa-1473-5.mp3"
 		},
@@ -54,7 +54,7 @@
 			"English": "When he rubbed his nose, he put black ink on his nose.",
 			"Word Count": 12,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "عندما فرك أنفه، وضع الحبر الأسود على أنفه.",
 			"Egyptian Arabic Audio": "eca-1473-6.mp3",
 			"Standard Arabic Audio": "msa-1473-6.mp3"
 		},
@@ -63,7 +63,7 @@
 			"English": "His wife looked at him.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "نظرت إليه زوجته.",
 			"Egyptian Arabic Audio": "eca-1473-7.mp3",
 			"Standard Arabic Audio": "msa-1473-7.mp3"
 		},
@@ -72,7 +72,7 @@
 			"English": "She laughed.",
 			"Word Count": 2,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ضحكت.",
 			"Egyptian Arabic Audio": "eca-1473-8.mp3",
 			"Standard Arabic Audio": "msa-1473-8.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "\"Why are you laughing?\" he asked.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "&quot;لماذا تضحك؟&quot; سأل.",
 			"Egyptian Arabic Audio": "eca-1473-9.mp3",
 			"Standard Arabic Audio": "msa-1473-9.mp3"
 		},
@@ -90,7 +90,7 @@
 			"English": "She said his nose was black.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وقالت إن أنفه أسود.",
 			"Egyptian Arabic Audio": "eca-1473-10.mp3",
 			"Standard Arabic Audio": "msa-1473-10.mp3"
 		},
@@ -99,7 +99,7 @@
 			"English": "She handed him a mirror.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "سلمت له مرآة.",
 			"Egyptian Arabic Audio": "eca-1473-11.mp3",
 			"Standard Arabic Audio": "msa-1473-11.mp3"
 		},
@@ -108,7 +108,7 @@
 			"English": "He looked in the mirror.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "بدا في المرآة.",
 			"Egyptian Arabic Audio": "eca-1473-12.mp3",
 			"Standard Arabic Audio": "msa-1473-12.mp3"
 		},
@@ -117,7 +117,7 @@
 			"English": "He said, \"Yes, you're right.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "قال: &quot;نعم، أنت على حق.",
 			"Egyptian Arabic Audio": "eca-1473-13.mp3",
 			"Standard Arabic Audio": "msa-1473-13.mp3"
 		},
@@ -126,7 +126,7 @@
 			"English": "I have black ink on my nose.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لدي الحبر الأسود على أنفي.",
 			"Egyptian Arabic Audio": "eca-1473-14.mp3",
 			"Standard Arabic Audio": "msa-1473-14.mp3"
 		},
@@ -135,7 +135,7 @@
 			"English": "I look a little bit funny.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنا أنظر قليلا مضحك.",
 			"Egyptian Arabic Audio": "eca-1473-15.mp3",
 			"Standard Arabic Audio": "msa-1473-15.mp3"
 		},
@@ -144,7 +144,7 @@
 			"English": "\" \"No, you look very funny,\" his wife said.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وقالت زوجته: &quot;لا، أنت تبدو مضحكة جدا&quot;.",
 			"Egyptian Arabic Audio": "eca-1473-16.mp3",
 			"Standard Arabic Audio": "msa-1473-16.mp3"
 		},
@@ -153,7 +153,7 @@
 			"English": "She laughed again.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ضحكت مرة أخرى.",
 			"Egyptian Arabic Audio": "eca-1473-17.mp3",
 			"Standard Arabic Audio": "msa-1473-17.mp3"
 		},
@@ -162,7 +162,7 @@
 			"English": "He went into the bathroom.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ذهب إلى الحمام.",
 			"Egyptian Arabic Audio": "eca-1473-18.mp3",
 			"Standard Arabic Audio": "msa-1473-18.mp3"
 		},
@@ -171,7 +171,7 @@
 			"English": "He turned on the water.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وقال انه تحول على المياه.",
 			"Egyptian Arabic Audio": "eca-1473-19.mp3",
 			"Standard Arabic Audio": "msa-1473-19.mp3"
 		},
@@ -180,7 +180,7 @@
 			"English": "He picked up the bar of soap.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "التقط شريط الصابون.",
 			"Egyptian Arabic Audio": "eca-1473-20.mp3",
 			"Standard Arabic Audio": "msa-1473-20.mp3"
 		},
@@ -189,7 +189,7 @@
 			"English": "He rubbed the soap between his hands.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "فرك الصابون بين يديه.",
 			"Egyptian Arabic Audio": "eca-1473-21.mp3",
 			"Standard Arabic Audio": "msa-1473-21.mp3"
 		},
@@ -198,7 +198,7 @@
 			"English": "He washed his face.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "غسل وجهه.",
 			"Egyptian Arabic Audio": "eca-1473-22.mp3",
 			"Standard Arabic Audio": "msa-1473-22.mp3"
 		},
@@ -207,7 +207,7 @@
 			"English": "He rinsed his face with water.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وشطف وجهه بالماء.",
 			"Egyptian Arabic Audio": "eca-1473-23.mp3",
 			"Standard Arabic Audio": "msa-1473-23.mp3"
 		},
@@ -216,7 +216,7 @@
 			"English": "He looked in the bathroom mirror.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "بدا في مرآة الحمام.",
 			"Egyptian Arabic Audio": "eca-1473-24.mp3",
 			"Standard Arabic Audio": "msa-1473-24.mp3"
 		},
@@ -225,7 +225,7 @@
 			"English": "His nose was clean.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كان أنفه نظيفا.",
 			"Egyptian Arabic Audio": "eca-1473-25.mp3",
 			"Standard Arabic Audio": "msa-1473-25.mp3"
 		},
@@ -234,7 +234,7 @@
 			"English": "There was no ink on his nose.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لم يكن هناك حبر على أنفه.",
 			"Egyptian Arabic Audio": "eca-1473-26.mp3",
 			"Standard Arabic Audio": "msa-1473-26.mp3"
 		},
@@ -243,7 +243,7 @@
 			"English": "He walked out of the bathroom.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "خرج من الحمام.",
 			"Egyptian Arabic Audio": "eca-1473-27.mp3",
 			"Standard Arabic Audio": "msa-1473-27.mp3"
 		},
@@ -252,7 +252,7 @@
 			"English": "He wanted to show his wife his new nose.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أراد أن يظهر زوجته أنفه الجديد.",
 			"Egyptian Arabic Audio": "eca-1473-28.mp3",
 			"Standard Arabic Audio": "msa-1473-28.mp3"
 		}

@@ -9,7 +9,7 @@
 			"English": "The baby crawls on the floor.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "الطفل يزحف على الأرض.",
 			"Egyptian Arabic Audio": "eca-0313-1.mp3",
 			"Standard Arabic Audio": "msa-0313-1.mp3"
 		},
@@ -18,7 +18,7 @@
 			"English": "It stops.",
 			"Word Count": 2,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "توقف.",
 			"Egyptian Arabic Audio": "eca-0313-2.mp3",
 			"Standard Arabic Audio": "msa-0313-2.mp3"
 		},
@@ -27,7 +27,7 @@
 			"English": "Then it crawls some more.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ثم يزحف بعض أكثر.",
 			"Egyptian Arabic Audio": "eca-0313-3.mp3",
 			"Standard Arabic Audio": "msa-0313-3.mp3"
 		},
@@ -36,7 +36,7 @@
 			"English": "Then it stops again.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ثم يتوقف مرة أخرى.",
 			"Egyptian Arabic Audio": "eca-0313-4.mp3",
 			"Standard Arabic Audio": "msa-0313-4.mp3"
 		},
@@ -45,7 +45,7 @@
 			"English": "Mama looks at the baby.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ماما تنظر إلى الطفل.",
 			"Egyptian Arabic Audio": "eca-0313-5.mp3",
 			"Standard Arabic Audio": "msa-0313-5.mp3"
 		},
@@ -54,7 +54,7 @@
 			"English": "She picks up the baby.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انها تلتقط الطفل.",
 			"Egyptian Arabic Audio": "eca-0313-6.mp3",
 			"Standard Arabic Audio": "msa-0313-6.mp3"
 		},
@@ -63,7 +63,7 @@
 			"English": "She carries the baby to the crib.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انها تحمل الطفل إلى سرير.",
 			"Egyptian Arabic Audio": "eca-0313-7.mp3",
 			"Standard Arabic Audio": "msa-0313-7.mp3"
 		},
@@ -72,7 +72,7 @@
 			"English": "She puts the baby in the crib.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "إنها تضع الطفل في السرير.",
 			"Egyptian Arabic Audio": "eca-0313-8.mp3",
 			"Standard Arabic Audio": "msa-0313-8.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "She puts a blanket on the baby.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "إنها تضع بطانية على الطفل.",
 			"Egyptian Arabic Audio": "eca-0313-9.mp3",
 			"Standard Arabic Audio": "msa-0313-9.mp3"
 		},
@@ -90,7 +90,7 @@
 			"English": "The baby falls asleep.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "الطفل ينام.",
 			"Egyptian Arabic Audio": "eca-0313-10.mp3",
 			"Standard Arabic Audio": "msa-0313-10.mp3"
 		}

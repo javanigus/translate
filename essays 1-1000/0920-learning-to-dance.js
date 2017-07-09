@@ -9,7 +9,7 @@
 			"English": "Joey wanted to help.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "جوي أراد أن يساعد.",
 			"Egyptian Arabic Audio": "eca-0920-1.mp3",
 			"Standard Arabic Audio": "msa-0920-1.mp3"
 		},
@@ -18,7 +18,7 @@
 			"English": "He did not know how to dance though.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وقال انه لا يعرف كيفية الرقص على الرغم من.",
 			"Egyptian Arabic Audio": "eca-0920-2.mp3",
 			"Standard Arabic Audio": "msa-0920-2.mp3"
 		},
@@ -27,7 +27,7 @@
 			"English": "He was afraid of embarrassing himself.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كان يخشى من إحراج نفسه.",
 			"Egyptian Arabic Audio": "eca-0920-3.mp3",
 			"Standard Arabic Audio": "msa-0920-3.mp3"
 		},
@@ -36,7 +36,7 @@
 			"English": "He decided to watch videos.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "قرر مشاهدة أشرطة الفيديو.",
 			"Egyptian Arabic Audio": "eca-0920-4.mp3",
 			"Standard Arabic Audio": "msa-0920-4.mp3"
 		},
@@ -45,7 +45,7 @@
 			"English": "He tried to teach himself.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "حاول أن يعلم نفسه.",
 			"Egyptian Arabic Audio": "eca-0920-5.mp3",
 			"Standard Arabic Audio": "msa-0920-5.mp3"
 		},
@@ -54,7 +54,7 @@
 			"English": "He could not do it.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لم يستطع أن يفعل ذلك.",
 			"Egyptian Arabic Audio": "eca-0920-6.mp3",
 			"Standard Arabic Audio": "msa-0920-6.mp3"
 		},
@@ -63,7 +63,7 @@
 			"English": "He finally decided to ask his friend.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وأخيرا قرر أن يطلب من صديقه.",
 			"Egyptian Arabic Audio": "eca-0920-7.mp3",
 			"Standard Arabic Audio": "msa-0920-7.mp3"
 		},
@@ -72,7 +72,7 @@
 			"English": "His friend was an expert on dancing.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كان صديقه خبيرا في الرقص.",
 			"Egyptian Arabic Audio": "eca-0920-8.mp3",
 			"Standard Arabic Audio": "msa-0920-8.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "He taught him different dance moves.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "علمه مختلف حركات الرقص.",
 			"Egyptian Arabic Audio": "eca-0920-9.mp3",
 			"Standard Arabic Audio": "msa-0920-9.mp3"
 		},
@@ -90,7 +90,7 @@
 			"English": "After they practiced, Joey was ready.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "بعد أن مارسوا، كان جوي جاهزا.",
 			"Egyptian Arabic Audio": "eca-0920-10.mp3",
 			"Standard Arabic Audio": "msa-0920-10.mp3"
 		},
@@ -99,7 +99,7 @@
 			"English": "He was excited to help the cause.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وكان متحمسا للمساعدة في القضية.",
 			"Egyptian Arabic Audio": "eca-0920-11.mp3",
 			"Standard Arabic Audio": "msa-0920-11.mp3"
 		}

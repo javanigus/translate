@@ -11,7 +11,7 @@
 			"English": "What's for dinner?",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ماذا يوجد للعشاء؟",
 			"Egyptian Arabic Audio": "eca-0244-1.mp3",
 			"Standard Arabic Audio": "msa-0244-1.mp3"
 		},
@@ -21,7 +21,7 @@
 			"English": "I'm not sure.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لست متأكد.",
 			"Egyptian Arabic Audio": "eca-0244-2.mp3",
 			"Standard Arabic Audio": "msa-0244-2.mp3"
 		},
@@ -31,7 +31,7 @@
 			"English": "How about a pizza?",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ماذا عن البيتزا؟",
 			"Egyptian Arabic Audio": "eca-0244-3.mp3",
 			"Standard Arabic Audio": "msa-0244-3.mp3"
 		},
@@ -41,7 +41,7 @@
 			"English": "You had pizza for lunch.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كان لديك البيتزا لتناول طعام الغداء.",
 			"Egyptian Arabic Audio": "eca-0244-4.mp3",
 			"Standard Arabic Audio": "msa-0244-4.mp3"
 		},
@@ -51,7 +51,7 @@
 			"English": "But I love pizza.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ولكن أنا أحب البيتزا.",
 			"Egyptian Arabic Audio": "eca-0244-5.mp3",
 			"Standard Arabic Audio": "msa-0244-5.mp3"
 		},
@@ -61,7 +61,7 @@
 			"English": "Everybody loves pizza.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "الجميع يحب البيتزا.",
 			"Egyptian Arabic Audio": "eca-0244-6.mp3",
 			"Standard Arabic Audio": "msa-0244-6.mp3"
 		},
@@ -71,7 +71,7 @@
 			"English": "So why can't I have pizza for dinner?",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "فلماذا لا أستطيع الحصول على البيتزا لتناول العشاء؟",
 			"Egyptian Arabic Audio": "eca-0244-7.mp3",
 			"Standard Arabic Audio": "msa-0244-7.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "Because you need variety.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لأنك تحتاج متنوعة.",
 			"Egyptian Arabic Audio": "eca-0244-8.mp3",
 			"Standard Arabic Audio": "msa-0244-8.mp3"
 		},
@@ -91,7 +91,7 @@
 			"English": "What's \"variety?",
 			"Word Count": 2,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ما هو &quot;متنوعة؟",
 			"Egyptian Arabic Audio": "eca-0244-9.mp3",
 			"Standard Arabic Audio": "msa-0244-9.mp3"
 		},
@@ -101,7 +101,7 @@
 			"English": "Different things�not the same thing all the time",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أشياء مختلفة لا نفس الشيء في كل وقت",
 			"Egyptian Arabic Audio": "eca-0244-10.mp3",
 			"Standard Arabic Audio": "msa-0244-10.mp3"
 		}

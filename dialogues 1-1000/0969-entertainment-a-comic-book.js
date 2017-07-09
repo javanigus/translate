@@ -11,7 +11,7 @@
 			"English": "Have you read the new Batman comic issue?",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هل قرأت قضية باتمان المصورة الجديدة؟",
 			"Egyptian Arabic Audio": "eca-0969-1.mp3",
 			"Standard Arabic Audio": "msa-0969-1.mp3"
 		},
@@ -21,7 +21,7 @@
 			"English": "No. Is it out in stores already?",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لا هو في المتاجر بالفعل؟",
 			"Egyptian Arabic Audio": "eca-0969-2.mp3",
 			"Standard Arabic Audio": "msa-0969-2.mp3"
 		},
@@ -31,7 +31,7 @@
 			"English": "Yes. A new shipment arrived just yesterday.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "نعم فعلا. وصلت شحنة جديدة أمس فقط.",
 			"Egyptian Arabic Audio": "eca-0969-3.mp3",
 			"Standard Arabic Audio": "msa-0969-3.mp3"
 		},
@@ -41,7 +41,7 @@
 			"English": "I'll go get it as soon as my shift is over.",
 			"Word Count": 11,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "سأذهب الحصول عليه بمجرد تحول بلدي التحول.",
 			"Egyptian Arabic Audio": "eca-0969-4.mp3",
 			"Standard Arabic Audio": "msa-0969-4.mp3"
 		},
@@ -51,7 +51,7 @@
 			"English": "It's really amazing!",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انه حقا رائع!",
 			"Egyptian Arabic Audio": "eca-0969-5.mp3",
 			"Standard Arabic Audio": "msa-0969-5.mp3"
 		},
@@ -61,7 +61,7 @@
 			"English": "I love this series. The villains are so cool!",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنا أحب هذه السلسلة. الأشرار هي باردة جدا!",
 			"Egyptian Arabic Audio": "eca-0969-6.mp3",
 			"Standard Arabic Audio": "msa-0969-6.mp3"
 		},
@@ -71,7 +71,7 @@
 			"English": "I know what you mean. They have great backstories!",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنا أعرف ما تعنيه. لديهم باكستوريز كبيرة!",
 			"Egyptian Arabic Audio": "eca-0969-7.mp3",
 			"Standard Arabic Audio": "msa-0969-7.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "I never get tired of reading Batman.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنا أبدا تعبت من قراءة باتمان.",
 			"Egyptian Arabic Audio": "eca-0969-8.mp3",
 			"Standard Arabic Audio": "msa-0969-8.mp3"
 		},
@@ -91,7 +91,7 @@
 			"English": "I wonder if they will make another movie soon.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وأتساءل عما إذا كانوا سيجعلون فيلم آخر قريبا.",
 			"Egyptian Arabic Audio": "eca-0969-9.mp3",
 			"Standard Arabic Audio": "msa-0969-9.mp3"
 		},
@@ -101,7 +101,7 @@
 			"English": "I like the comics better than the movies, though.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أحب الكوميديا ​​أفضل من الأفلام.",
 			"Egyptian Arabic Audio": "eca-0969-10.mp3",
 			"Standard Arabic Audio": "msa-0969-10.mp3"
 		},
@@ -111,7 +111,7 @@
 			"English": "Me too, but comics don't have special effects!",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لي أيضا، ولكن كاريكاتير لا يكون المؤثرات الخاصة!",
 			"Egyptian Arabic Audio": "eca-0969-11.mp3",
 			"Standard Arabic Audio": "msa-0969-11.mp3"
 		},
@@ -121,7 +121,7 @@
 			"English": "I guess the movies have their perks, too.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أعتقد أن الأفلام لديها امتيازاتهم أيضا.",
 			"Egyptian Arabic Audio": "eca-0969-12.mp3",
 			"Standard Arabic Audio": "msa-0969-12.mp3"
 		}

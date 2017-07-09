@@ -9,7 +9,7 @@
 			"English": "He takes out a pen.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انه يأخذ القلم.",
 			"Egyptian Arabic Audio": "eca-0113-1.mp3",
 			"Standard Arabic Audio": "msa-0113-1.mp3"
 		},
@@ -18,7 +18,7 @@
 			"English": "He takes off the cap.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انه يأخذ الغطاء.",
 			"Egyptian Arabic Audio": "eca-0113-2.mp3",
 			"Standard Arabic Audio": "msa-0113-2.mp3"
 		},
@@ -27,7 +27,7 @@
 			"English": "He drops it.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انه يسقط.",
 			"Egyptian Arabic Audio": "eca-0113-3.mp3",
 			"Standard Arabic Audio": "msa-0113-3.mp3"
 		},
@@ -36,7 +36,7 @@
 			"English": "He looks down.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انه ينظر الى أسفل.",
 			"Egyptian Arabic Audio": "eca-0113-4.mp3",
 			"Standard Arabic Audio": "msa-0113-4.mp3"
 		},
@@ -45,7 +45,7 @@
 			"English": "He does not see the cap.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انه لا يرى الحد الأقصى.",
 			"Egyptian Arabic Audio": "eca-0113-5.mp3",
 			"Standard Arabic Audio": "msa-0113-5.mp3"
 		},
@@ -54,7 +54,7 @@
 			"English": "He looks around his desk.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انه ينظر حول مكتبه.",
 			"Egyptian Arabic Audio": "eca-0113-6.mp3",
 			"Standard Arabic Audio": "msa-0113-6.mp3"
 		},
@@ -63,7 +63,7 @@
 			"English": "He still does not see the cap.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وقال انه لا يزال لا يرى الحد الأقصى.",
 			"Egyptian Arabic Audio": "eca-0113-7.mp3",
 			"Standard Arabic Audio": "msa-0113-7.mp3"
 		},
@@ -72,7 +72,7 @@
 			"English": "Where could it be? He has to find it.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أين يمكن أن يكون؟ لديه للعثور عليه.",
 			"Egyptian Arabic Audio": "eca-0113-8.mp3",
 			"Standard Arabic Audio": "msa-0113-8.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "The pen will dry out without the cap.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "القلم سوف تجف دون سقف.",
 			"Egyptian Arabic Audio": "eca-0113-9.mp3",
 			"Standard Arabic Audio": "msa-0113-9.mp3"
 		},
@@ -90,7 +90,7 @@
 			"English": "He goes to the other side of the room.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يذهب إلى الجانب الآخر من الغرفة.",
 			"Egyptian Arabic Audio": "eca-0113-10.mp3",
 			"Standard Arabic Audio": "msa-0113-10.mp3"
 		},
@@ -99,7 +99,7 @@
 			"English": "He sees the cap.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يرى الغطاء.",
 			"Egyptian Arabic Audio": "eca-0113-11.mp3",
 			"Standard Arabic Audio": "msa-0113-11.mp3"
 		}

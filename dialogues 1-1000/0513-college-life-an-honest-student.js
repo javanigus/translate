@@ -11,7 +11,7 @@
 			"English": "I have to tell you something.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يجب أن أقول لك شيئا.",
 			"Egyptian Arabic Audio": "eca-0513-1.mp3",
 			"Standard Arabic Audio": "msa-0513-1.mp3"
 		},
@@ -21,7 +21,7 @@
 			"English": "What is it?",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ما هذا؟",
 			"Egyptian Arabic Audio": "eca-0513-2.mp3",
 			"Standard Arabic Audio": "msa-0513-2.mp3"
 		},
@@ -31,7 +31,7 @@
 			"English": "You graded my test incorrectly. I got this wrong, but you didn't mark it.",
 			"Word Count": 14,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لقد رتبت اختباري بشكل غير صحيح. حصلت على هذا الخطأ، ولكنك لم علامة عليه.",
 			"Egyptian Arabic Audio": "eca-0513-3.mp3",
 			"Standard Arabic Audio": "msa-0513-3.mp3"
 		},
@@ -41,7 +41,7 @@
 			"English": "Wow! I have never met a more honest student.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "نجاح باهر لقد التقيت أبدا طالب أكثر صادقة.",
 			"Egyptian Arabic Audio": "eca-0513-4.mp3",
 			"Standard Arabic Audio": "msa-0513-4.mp3"
 		},
@@ -51,7 +51,7 @@
 			"English": "I just felt wrong.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "شعرت فقط بالخطأ.",
 			"Egyptian Arabic Audio": "eca-0513-5.mp3",
 			"Standard Arabic Audio": "msa-0513-5.mp3"
 		},
@@ -61,7 +61,7 @@
 			"English": "Just keep the score you have.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "تبقي فقط النتيجة لديك.",
 			"Egyptian Arabic Audio": "eca-0513-6.mp3",
 			"Standard Arabic Audio": "msa-0513-6.mp3"
 		},
@@ -71,7 +71,7 @@
 			"English": "Really? That's awesome.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هل حقا؟ هذا رائع.",
 			"Egyptian Arabic Audio": "eca-0513-7.mp3",
 			"Standard Arabic Audio": "msa-0513-7.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "Yes. I have to ask, why did you decide to tell me?",
 			"Word Count": 12,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "نعم فعلا. يجب أن أسأل، لماذا قررت أن تقول لي؟",
 			"Egyptian Arabic Audio": "eca-0513-8.mp3",
 			"Standard Arabic Audio": "msa-0513-8.mp3"
 		},
@@ -91,7 +91,7 @@
 			"English": "I'm really bad at lying.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنا سيئة حقا في الكذب.",
 			"Egyptian Arabic Audio": "eca-0513-9.mp3",
 			"Standard Arabic Audio": "msa-0513-9.mp3"
 		},
@@ -101,7 +101,7 @@
 			"English": "That's a good thing! Your honesty is praiseworthy.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هذا امر جيد! صدقكم هو جدير بالثناء.",
 			"Egyptian Arabic Audio": "eca-0513-10.mp3",
 			"Standard Arabic Audio": "msa-0513-10.mp3"
 		},
@@ -111,7 +111,7 @@
 			"English": "Thanks. Want to give me extra credit?",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "شكر. تريد أن تعطيني ائتمان إضافي؟",
 			"Egyptian Arabic Audio": "eca-0513-11.mp3",
 			"Standard Arabic Audio": "msa-0513-11.mp3"
 		},
@@ -121,7 +121,7 @@
 			"English": "Don't push it.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لا تدفعه.",
 			"Egyptian Arabic Audio": "eca-0513-12.mp3",
 			"Standard Arabic Audio": "msa-0513-12.mp3"
 		}

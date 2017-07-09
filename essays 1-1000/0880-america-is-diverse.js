@@ -9,7 +9,7 @@
 			"English": "Los Angeles and Bakersfield are both in California.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لوس أنجلوس وبيكرسفيلد في كل من كاليفورنيا.",
 			"Egyptian Arabic Audio": "eca-0880-1.mp3",
 			"Standard Arabic Audio": "msa-0880-1.mp3"
 		},
@@ -18,7 +18,7 @@
 			"English": "Los Angeles is urban.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لوس انجليس هو الحضري.",
 			"Egyptian Arabic Audio": "eca-0880-2.mp3",
 			"Standard Arabic Audio": "msa-0880-2.mp3"
 		},
@@ -27,7 +27,7 @@
 			"English": "It is very busy.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هو مشغول جدا.",
 			"Egyptian Arabic Audio": "eca-0880-3.mp3",
 			"Standard Arabic Audio": "msa-0880-3.mp3"
 		},
@@ -36,7 +36,7 @@
 			"English": "There are a lot of shops.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هناك الكثير من المحلات التجارية.",
 			"Egyptian Arabic Audio": "eca-0880-4.mp3",
 			"Standard Arabic Audio": "msa-0880-4.mp3"
 		},
@@ -45,7 +45,7 @@
 			"English": "There are a lot of businesses.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هناك الكثير من الشركات.",
 			"Egyptian Arabic Audio": "eca-0880-5.mp3",
 			"Standard Arabic Audio": "msa-0880-5.mp3"
 		},
@@ -54,7 +54,7 @@
 			"English": "There is a lot to do in Los Angeles.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هناك الكثير للقيام به في لوس انجليس.",
 			"Egyptian Arabic Audio": "eca-0880-6.mp3",
 			"Standard Arabic Audio": "msa-0880-6.mp3"
 		},
@@ -63,7 +63,7 @@
 			"English": "Bakersfield is rural.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "بيكرسفيلد هو الريف.",
 			"Egyptian Arabic Audio": "eca-0880-7.mp3",
 			"Standard Arabic Audio": "msa-0880-7.mp3"
 		},
@@ -72,7 +72,7 @@
 			"English": "It is quiet.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "إنه هادئ.",
 			"Egyptian Arabic Audio": "eca-0880-8.mp3",
 			"Standard Arabic Audio": "msa-0880-8.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "There is not much to do.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لا يوجد الكثير لفعله.",
 			"Egyptian Arabic Audio": "eca-0880-9.mp3",
 			"Standard Arabic Audio": "msa-0880-9.mp3"
 		},
@@ -90,7 +90,7 @@
 			"English": "Houses are cheap there.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "منازل رخيصة هناك.",
 			"Egyptian Arabic Audio": "eca-0880-10.mp3",
 			"Standard Arabic Audio": "msa-0880-10.mp3"
 		},
@@ -99,7 +99,7 @@
 			"English": "America is very diverse.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أمريكا متنوعة جدا.",
 			"Egyptian Arabic Audio": "eca-0880-11.mp3",
 			"Standard Arabic Audio": "msa-0880-11.mp3"
 		}

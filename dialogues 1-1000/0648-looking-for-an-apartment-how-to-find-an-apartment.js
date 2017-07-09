@@ -11,7 +11,7 @@
 			"English": "I'm looking for an apartment. Have you seen any apartments for rent?",
 			"Word Count": 12,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أبحث عن شقة. هل رأيت أي شقق للإيجار؟",
 			"Egyptian Arabic Audio": "eca-0648-1.mp3",
 			"Standard Arabic Audio": "msa-0648-1.mp3"
 		},
@@ -21,7 +21,7 @@
 			"English": "No, I have not. I'll keep an eye out.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لا انا ليس لدى. أنا سوف ترقب.",
 			"Egyptian Arabic Audio": "eca-0648-2.mp3",
 			"Standard Arabic Audio": "msa-0648-2.mp3"
 		},
@@ -31,7 +31,7 @@
 			"English": "Thank you. That's very helpful of you.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "شكرا. هذا مفيد جدا لك.",
 			"Egyptian Arabic Audio": "eca-0648-3.mp3",
 			"Standard Arabic Audio": "msa-0648-3.mp3"
 		},
@@ -41,7 +41,7 @@
 			"English": "You're welcome. What kind of an apartment are you looking for?",
 			"Word Count": 11,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "على الرحب و السعة. ما نوع الشقة التي تبحث عنها؟",
 			"Egyptian Arabic Audio": "eca-0648-4.mp3",
 			"Standard Arabic Audio": "msa-0648-4.mp3"
 		},
@@ -51,7 +51,7 @@
 			"English": "An apartment with one bedroom.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": ". شقة مع غرفة نوم واحدة",
 			"Egyptian Arabic Audio": "eca-0648-5.mp3",
 			"Standard Arabic Audio": "msa-0648-5.mp3"
 		},
@@ -61,7 +61,7 @@
 			"English": "In what city?",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "في اي مدينة؟",
 			"Egyptian Arabic Audio": "eca-0648-6.mp3",
 			"Standard Arabic Audio": "msa-0648-6.mp3"
 		},
@@ -71,7 +71,7 @@
 			"English": "In the city of Pasadena.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "في مدينة باسادينا.",
 			"Egyptian Arabic Audio": "eca-0648-7.mp3",
 			"Standard Arabic Audio": "msa-0648-7.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "You should try looking in the local newspaper.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يجب أن تحاول البحث في صحيفة محلية.",
 			"Egyptian Arabic Audio": "eca-0648-8.mp3",
 			"Standard Arabic Audio": "msa-0648-8.mp3"
 		},
@@ -91,7 +91,7 @@
 			"English": "That's a good idea. I'll try that today.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "إنها فكرةجيدة. سأحاول ذلك اليوم.",
 			"Egyptian Arabic Audio": "eca-0648-9.mp3",
 			"Standard Arabic Audio": "msa-0648-9.mp3"
 		},
@@ -101,7 +101,7 @@
 			"English": "Let me know if you find any apartments.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "اسمحوا لي أن أعرف إذا وجدت أي شقق.",
 			"Egyptian Arabic Audio": "eca-0648-10.mp3",
 			"Standard Arabic Audio": "msa-0648-10.mp3"
 		},
@@ -111,7 +111,7 @@
 			"English": "Alright, I'll keep you in the loop.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "حسنا، سوف تبقى لكم في حلقة.",
 			"Egyptian Arabic Audio": "eca-0648-11.mp3",
 			"Standard Arabic Audio": "msa-0648-11.mp3"
 		},
@@ -121,7 +121,7 @@
 			"English": "Good luck in your search.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "نتمنى لك التوفيق في بحثك.",
 			"Egyptian Arabic Audio": "eca-0648-12.mp3",
 			"Standard Arabic Audio": "msa-0648-12.mp3"
 		}

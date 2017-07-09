@@ -11,7 +11,7 @@
 			"English": "Wow, you really look terrible.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "نجاح باهر، كنت حقا تبدو رهيب.",
 			"Egyptian Arabic Audio": "eca-0822-1.mp3",
 			"Standard Arabic Audio": "msa-0822-1.mp3"
 		},
@@ -21,7 +21,7 @@
 			"English": "Thanks a lot. I really feel awful.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "شكرا جزيلا. أشعر حقا فظيعة.",
 			"Egyptian Arabic Audio": "eca-0822-2.mp3",
 			"Standard Arabic Audio": "msa-0822-2.mp3"
 		},
@@ -31,7 +31,7 @@
 			"English": "I'm a nurse ,so you should tell me your symptoms.",
 			"Word Count": 10,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنا ممرضة، لذا يجب أن تخبرني بأعراضك.",
 			"Egyptian Arabic Audio": "eca-0822-3.mp3",
 			"Standard Arabic Audio": "msa-0822-3.mp3"
 		},
@@ -41,7 +41,7 @@
 			"English": "Well, to begin with, my whole body aches.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "حسنا، بادئ ذي بدء، آلام جسدي كله.",
 			"Egyptian Arabic Audio": "eca-0822-4.mp3",
 			"Standard Arabic Audio": "msa-0822-4.mp3"
 		},
@@ -51,7 +51,7 @@
 			"English": "Have you taken your temperature to see if you have a fever?",
 			"Word Count": 12,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هل اتخذت درجة الحرارة لمعرفة ما إذا كان لديك حمى؟",
 			"Egyptian Arabic Audio": "eca-0822-5.mp3",
 			"Standard Arabic Audio": "msa-0822-5.mp3"
 		},
@@ -61,7 +61,7 @@
 			"English": "I have, and I'm running a slight fever.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لدي، وأنا أشغل حمى طفيفة.",
 			"Egyptian Arabic Audio": "eca-0822-6.mp3",
 			"Standard Arabic Audio": "msa-0822-6.mp3"
 		},
@@ -71,7 +71,7 @@
 			"English": "Sounds like you may have the flu.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يبدو وكأنك قد يكون لديك الانفلونزا.",
 			"Egyptian Arabic Audio": "eca-0822-7.mp3",
 			"Standard Arabic Audio": "msa-0822-7.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "That's impossible because I got my flu shot.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هذا مستحيل لأنني حصلت على انفلونزا النار.",
 			"Egyptian Arabic Audio": "eca-0822-8.mp3",
 			"Standard Arabic Audio": "msa-0822-8.mp3"
 		},
@@ -91,7 +91,7 @@
 			"English": "You can still get the flu even if you get vaccinated.",
 			"Word Count": 11,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لا يزال بإمكانك الحصول على انفلونزا حتى إذا كنت تحصل على تطعيم.",
 			"Egyptian Arabic Audio": "eca-0822-9.mp3",
 			"Standard Arabic Audio": "msa-0822-9.mp3"
 		},
@@ -101,7 +101,7 @@
 			"English": "Well, that makes getting the vaccine pointless.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "حسنا، هذا يجعل الحصول على اللقاح بلا جدوى.",
 			"Egyptian Arabic Audio": "eca-0822-10.mp3",
 			"Standard Arabic Audio": "msa-0822-10.mp3"
 		},
@@ -111,7 +111,7 @@
 			"English": "Not really, because you will probably get over it quickly.",
 			"Word Count": 10,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ليس حقا، لأنك ربما تحصل على أكثر من ذلك بسرعة.",
 			"Egyptian Arabic Audio": "eca-0822-11.mp3",
 			"Standard Arabic Audio": "msa-0822-11.mp3"
 		},
@@ -121,7 +121,7 @@
 			"English": "I'm going to make some tea and lie down.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انا ذاهب الى جعل بعض الشاي والاستلقاء.",
 			"Egyptian Arabic Audio": "eca-0822-12.mp3",
 			"Standard Arabic Audio": "msa-0822-12.mp3"
 		}

@@ -9,7 +9,7 @@
 			"English": "He sits on the subway steps.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انه يجلس على خطوات المترو.",
 			"Egyptian Arabic Audio": "eca-1087-1.mp3",
 			"Standard Arabic Audio": "msa-1087-1.mp3"
 		},
@@ -18,7 +18,7 @@
 			"English": "He calls out to strangers.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ويدعو إلى الغرباء.",
 			"Egyptian Arabic Audio": "eca-1087-2.mp3",
 			"Standard Arabic Audio": "msa-1087-2.mp3"
 		},
@@ -27,7 +27,7 @@
 			"English": "He holds out his cap.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انه يحمل سقفه.",
 			"Egyptian Arabic Audio": "eca-1087-3.mp3",
 			"Standard Arabic Audio": "msa-1087-3.mp3"
 		},
@@ -36,7 +36,7 @@
 			"English": "He asks for help.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يطلب المساعدة.",
 			"Egyptian Arabic Audio": "eca-1087-4.mp3",
 			"Standard Arabic Audio": "msa-1087-4.mp3"
 		},
@@ -45,7 +45,7 @@
 			"English": "He asks for money.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يسأل عن المال.",
 			"Egyptian Arabic Audio": "eca-1087-5.mp3",
 			"Standard Arabic Audio": "msa-1087-5.mp3"
 		},
@@ -54,7 +54,7 @@
 			"English": "He asks for change.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يطالب بالتغيير.",
 			"Egyptian Arabic Audio": "eca-1087-6.mp3",
 			"Standard Arabic Audio": "msa-1087-6.mp3"
 		},
@@ -63,7 +63,7 @@
 			"English": "Some strangers stop.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "بعض الغرباء تتوقف.",
 			"Egyptian Arabic Audio": "eca-1087-7.mp3",
 			"Standard Arabic Audio": "msa-1087-7.mp3"
 		},
@@ -72,7 +72,7 @@
 			"English": "They hand him a quarter.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يسلمونه ربع.",
 			"Egyptian Arabic Audio": "eca-1087-8.mp3",
 			"Standard Arabic Audio": "msa-1087-8.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "They hand him a dollar.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وهم يسلمونه دولار.",
 			"Egyptian Arabic Audio": "eca-1087-9.mp3",
 			"Standard Arabic Audio": "msa-1087-9.mp3"
 		},
@@ -90,7 +90,7 @@
 			"English": "Most strangers pass by.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "معظم الغرباء يمر بها.",
 			"Egyptian Arabic Audio": "eca-1087-10.mp3",
 			"Standard Arabic Audio": "msa-1087-10.mp3"
 		},
@@ -99,7 +99,7 @@
 			"English": "They give him nothing.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنها لا تعطيه شيئا.",
 			"Egyptian Arabic Audio": "eca-1087-11.mp3",
 			"Standard Arabic Audio": "msa-1087-11.mp3"
 		},
@@ -108,7 +108,7 @@
 			"English": "They are in a hurry.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انهم في عجلة من امرهم.",
 			"Egyptian Arabic Audio": "eca-1087-12.mp3",
 			"Standard Arabic Audio": "msa-1087-12.mp3"
 		}

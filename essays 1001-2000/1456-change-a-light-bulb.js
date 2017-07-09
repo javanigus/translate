@@ -9,7 +9,7 @@
 			"English": "He turned on the light switch.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "شغل مفتاح الضوء.",
 			"Egyptian Arabic Audio": "eca-1456-1.mp3",
 			"Standard Arabic Audio": "msa-1456-1.mp3"
 		},
@@ -18,7 +18,7 @@
 			"English": "The hall light went on.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "استمر ضوء القاعة.",
 			"Egyptian Arabic Audio": "eca-1456-2.mp3",
 			"Standard Arabic Audio": "msa-1456-2.mp3"
 		},
@@ -27,7 +27,7 @@
 			"English": "Then he heard a popping sound because the light bulb blew out.",
 			"Word Count": 12,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ثم سمع صوت تفرقع بسبب انفجار المصباح الكهربائي.",
 			"Egyptian Arabic Audio": "eca-1456-3.mp3",
 			"Standard Arabic Audio": "msa-1456-3.mp3"
 		},
@@ -36,7 +36,7 @@
 			"English": "It was time to change the bulb.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لقد حان الوقت لتغيير لمبة.",
 			"Egyptian Arabic Audio": "eca-1456-4.mp3",
 			"Standard Arabic Audio": "msa-1456-4.mp3"
 		},
@@ -45,7 +45,7 @@
 			"English": "He went into the kitchen.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ذهب إلى المطبخ.",
 			"Egyptian Arabic Audio": "eca-1456-5.mp3",
 			"Standard Arabic Audio": "msa-1456-5.mp3"
 		},
@@ -54,7 +54,7 @@
 			"English": "He opened a kitchen cabinet.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "افتتح مجلس الوزراء المطبخ.",
 			"Egyptian Arabic Audio": "eca-1456-6.mp3",
 			"Standard Arabic Audio": "msa-1456-6.mp3"
 		},
@@ -63,7 +63,7 @@
 			"English": "He looked at five different light bulbs.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "نظر إلى خمسة مصابيح مختلفة.",
 			"Egyptian Arabic Audio": "eca-1456-7.mp3",
 			"Standard Arabic Audio": "msa-1456-7.mp3"
 		},
@@ -72,7 +72,7 @@
 			"English": "One of them was 100 watts.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "واحد منهم كان 100 واط.",
 			"Egyptian Arabic Audio": "eca-1456-8.mp3",
 			"Standard Arabic Audio": "msa-1456-8.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "That was the one he needed.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وكان ذلك هو الشخص الذي يحتاج إليه.",
 			"Egyptian Arabic Audio": "eca-1456-9.mp3",
 			"Standard Arabic Audio": "msa-1456-9.mp3"
 		},
@@ -90,7 +90,7 @@
 			"English": "He went back into the hall.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "عاد إلى القاعة.",
 			"Egyptian Arabic Audio": "eca-1456-10.mp3",
 			"Standard Arabic Audio": "msa-1456-10.mp3"
 		},
@@ -99,7 +99,7 @@
 			"English": "He unscrewed three screws.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انه فك ثلاثة مسامير.",
 			"Egyptian Arabic Audio": "eca-1456-11.mp3",
 			"Standard Arabic Audio": "msa-1456-11.mp3"
 		},
@@ -108,7 +108,7 @@
 			"English": "These screws held the glass globe in place.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "عقدت هذه البراغي العالم الزجاج في المكان.",
 			"Egyptian Arabic Audio": "eca-1456-12.mp3",
 			"Standard Arabic Audio": "msa-1456-12.mp3"
 		},
@@ -117,7 +117,7 @@
 			"English": "The globe protected the light bulb.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "العالم حماية المصباح الكهربائي.",
 			"Egyptian Arabic Audio": "eca-1456-13.mp3",
 			"Standard Arabic Audio": "msa-1456-13.mp3"
 		},
@@ -126,7 +126,7 @@
 			"English": "He removed the glass globe.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أزال الكرة الزجاجية.",
 			"Egyptian Arabic Audio": "eca-1456-14.mp3",
 			"Standard Arabic Audio": "msa-1456-14.mp3"
 		},
@@ -135,7 +135,7 @@
 			"English": "He looked into the bottom of it.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وقال انه ينظر في الجزء السفلي منه.",
 			"Egyptian Arabic Audio": "eca-1456-15.mp3",
 			"Standard Arabic Audio": "msa-1456-15.mp3"
 		},
@@ -144,7 +144,7 @@
 			"English": "A dead bug was in the bottom.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وكان علة ميتة في القاع.",
 			"Egyptian Arabic Audio": "eca-1456-16.mp3",
 			"Standard Arabic Audio": "msa-1456-16.mp3"
 		},
@@ -153,7 +153,7 @@
 			"English": "He put the bug into the trash.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وضع الخلل في سلة المهملات.",
 			"Egyptian Arabic Audio": "eca-1456-17.mp3",
 			"Standard Arabic Audio": "msa-1456-17.mp3"
 		},
@@ -162,7 +162,7 @@
 			"English": "He unscrewed the old light bulb.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انه فك المصباح القديم.",
 			"Egyptian Arabic Audio": "eca-1456-18.mp3",
 			"Standard Arabic Audio": "msa-1456-18.mp3"
 		},
@@ -171,7 +171,7 @@
 			"English": "He shook it.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هزها.",
 			"Egyptian Arabic Audio": "eca-1456-19.mp3",
 			"Standard Arabic Audio": "msa-1456-19.mp3"
 		},
@@ -180,7 +180,7 @@
 			"English": "It made a noise.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "جعلت من الضوضاء.",
 			"Egyptian Arabic Audio": "eca-1456-20.mp3",
 			"Standard Arabic Audio": "msa-1456-20.mp3"
 		},
@@ -189,7 +189,7 @@
 			"English": "He screwed in the new light bulb.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ثمل في المصباح الكهربائي الجديد.",
 			"Egyptian Arabic Audio": "eca-1456-21.mp3",
 			"Standard Arabic Audio": "msa-1456-21.mp3"
 		},
@@ -198,7 +198,7 @@
 			"English": "He replaced the globe.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "حل محل الكرة الأرضية.",
 			"Egyptian Arabic Audio": "eca-1456-22.mp3",
 			"Standard Arabic Audio": "msa-1456-22.mp3"
 		},
@@ -207,7 +207,7 @@
 			"English": "He screwed in the three screws.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ثمل في ثلاثة مسامير.",
 			"Egyptian Arabic Audio": "eca-1456-23.mp3",
 			"Standard Arabic Audio": "msa-1456-23.mp3"
 		},
@@ -216,7 +216,7 @@
 			"English": "The light went on.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "استمر الضوء.",
 			"Egyptian Arabic Audio": "eca-1456-24.mp3",
 			"Standard Arabic Audio": "msa-1456-24.mp3"
 		},
@@ -225,7 +225,7 @@
 			"English": "He threw out the old bulb.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ألقى المصباح القديم.",
 			"Egyptian Arabic Audio": "eca-1456-25.mp3",
 			"Standard Arabic Audio": "msa-1456-25.mp3"
 		}

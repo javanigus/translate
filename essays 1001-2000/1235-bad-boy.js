@@ -9,7 +9,7 @@
 			"English": "Deborah was angry at her son.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كانت ديبورا غاضبة من ابنها.",
 			"Egyptian Arabic Audio": "eca-1235-1.mp3",
 			"Standard Arabic Audio": "msa-1235-1.mp3"
 		},
@@ -18,7 +18,7 @@
 			"English": "Her son didn't listen to her.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ابنها لم يستمع لها.",
 			"Egyptian Arabic Audio": "eca-1235-2.mp3",
 			"Standard Arabic Audio": "msa-1235-2.mp3"
 		},
@@ -27,7 +27,7 @@
 			"English": "Her son was 16 years old.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كان ابنها يبلغ من العمر 16 عاما.",
 			"Egyptian Arabic Audio": "eca-1235-3.mp3",
 			"Standard Arabic Audio": "msa-1235-3.mp3"
 		},
@@ -36,7 +36,7 @@
 			"English": "Her son thought he knew everything.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كان ابنها يعتقد أنه يعرف كل شيء.",
 			"Egyptian Arabic Audio": "eca-1235-4.mp3",
 			"Standard Arabic Audio": "msa-1235-4.mp3"
 		},
@@ -45,7 +45,7 @@
 			"English": "Her son yelled at Deborah.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "صرخ ابنها في ديبورا.",
 			"Egyptian Arabic Audio": "eca-1235-5.mp3",
 			"Standard Arabic Audio": "msa-1235-5.mp3"
 		},
@@ -54,7 +54,7 @@
 			"English": "He told her he didn't have to do anything.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وقال لها انه لم يكن لديك للقيام بأي شيء.",
 			"Egyptian Arabic Audio": "eca-1235-6.mp3",
 			"Standard Arabic Audio": "msa-1235-6.mp3"
 		},
@@ -63,7 +63,7 @@
 			"English": "He didn't have to listen to her.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لم يكن عليه أن يستمع إليها.",
 			"Egyptian Arabic Audio": "eca-1235-7.mp3",
 			"Standard Arabic Audio": "msa-1235-7.mp3"
 		},
@@ -72,7 +72,7 @@
 			"English": "He didn't have to go to school.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لم يكن عليه الذهاب إلى المدرسة.",
 			"Egyptian Arabic Audio": "eca-1235-8.mp3",
 			"Standard Arabic Audio": "msa-1235-8.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "He didn't have to do his homework.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لم يكن عليه أن يقوم بواجبه المنزلي.",
 			"Egyptian Arabic Audio": "eca-1235-9.mp3",
 			"Standard Arabic Audio": "msa-1235-9.mp3"
 		},
@@ -90,7 +90,7 @@
 			"English": "He didn't have to study.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لم يكن لديه لدراسة.",
 			"Egyptian Arabic Audio": "eca-1235-10.mp3",
 			"Standard Arabic Audio": "msa-1235-10.mp3"
 		},
@@ -99,7 +99,7 @@
 			"English": "He was 16.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كان عمره 16 عاما.",
 			"Egyptian Arabic Audio": "eca-1235-11.mp3",
 			"Standard Arabic Audio": "msa-1235-11.mp3"
 		},
@@ -108,7 +108,7 @@
 			"English": "He could do anything he wanted to do.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وقال انه يمكن أن تفعل أي شيء يريد القيام به.",
 			"Egyptian Arabic Audio": "eca-1235-12.mp3",
 			"Standard Arabic Audio": "msa-1235-12.mp3"
 		},
@@ -117,7 +117,7 @@
 			"English": "What could Deborah do? She wasn't married.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ماذا يمكن أن تفعله ديبورا؟ لم تكن متزوجة.",
 			"Egyptian Arabic Audio": "eca-1235-13.mp3",
 			"Standard Arabic Audio": "msa-1235-13.mp3"
 		},
@@ -126,7 +126,7 @@
 			"English": "She was divorced.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كانت مطلقة.",
 			"Egyptian Arabic Audio": "eca-1235-14.mp3",
 			"Standard Arabic Audio": "msa-1235-14.mp3"
 		},
@@ -135,7 +135,7 @@
 			"English": "She could not control her son.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لم تتمكن من السيطرة على ابنها.",
 			"Egyptian Arabic Audio": "eca-1235-15.mp3",
 			"Standard Arabic Audio": "msa-1235-15.mp3"
 		},
@@ -144,7 +144,7 @@
 			"English": "He would listen to his father.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كان يستمع إلى والده.",
 			"Egyptian Arabic Audio": "eca-1235-16.mp3",
 			"Standard Arabic Audio": "msa-1235-16.mp3"
 		},
@@ -153,7 +153,7 @@
 			"English": "But his father was not there.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ولكن والده لم يكن هناك.",
 			"Egyptian Arabic Audio": "eca-1235-17.mp3",
 			"Standard Arabic Audio": "msa-1235-17.mp3"
 		},
@@ -162,7 +162,7 @@
 			"English": "His father lived in another city.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "عاش والده في مدينة أخرى.",
 			"Egyptian Arabic Audio": "eca-1235-18.mp3",
 			"Standard Arabic Audio": "msa-1235-18.mp3"
 		}

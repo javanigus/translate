@@ -11,7 +11,7 @@
 			"English": "I got my roommate today!",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "حصلت على رفيقتي اليوم!",
 			"Egyptian Arabic Audio": "eca-0598-1.mp3",
 			"Standard Arabic Audio": "msa-0598-1.mp3"
 		},
@@ -21,7 +21,7 @@
 			"English": "That's great! When do you move in?",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ذلك رائع! متى تنتقلون؟",
 			"Egyptian Arabic Audio": "eca-0598-2.mp3",
 			"Standard Arabic Audio": "msa-0598-2.mp3"
 		},
@@ -31,7 +31,7 @@
 			"English": "I move in next week.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أتحرك في الأسبوع المقبل.",
 			"Egyptian Arabic Audio": "eca-0598-3.mp3",
 			"Standard Arabic Audio": "msa-0598-3.mp3"
 		},
@@ -41,7 +41,7 @@
 			"English": "Is there anything you have to take?",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هل هناك أي شيء عليك أن تأخذه؟",
 			"Egyptian Arabic Audio": "eca-0598-4.mp3",
 			"Standard Arabic Audio": "msa-0598-4.mp3"
 		},
@@ -51,7 +51,7 @@
 			"English": "Yeah, there are a few things.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "نعم، هناك عدد قليل من الأشياء.",
 			"Egyptian Arabic Audio": "eca-0598-5.mp3",
 			"Standard Arabic Audio": "msa-0598-5.mp3"
 		},
@@ -61,7 +61,7 @@
 			"English": "Write down a list so we can go shopping.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كتابة قائمة حتى نتمكن من الذهاب للتسوق.",
 			"Egyptian Arabic Audio": "eca-0598-6.mp3",
 			"Standard Arabic Audio": "msa-0598-6.mp3"
 		},
@@ -71,7 +71,7 @@
 			"English": "Alright. Here you go, I'm all done!",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "حسنا. هنا تذهب، أنا فعلت كل شيء!",
 			"Egyptian Arabic Audio": "eca-0598-7.mp3",
 			"Standard Arabic Audio": "msa-0598-7.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "This is a pretty long list!",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هذه قائمة طويلة جدا!",
 			"Egyptian Arabic Audio": "eca-0598-8.mp3",
 			"Standard Arabic Audio": "msa-0598-8.mp3"
 		},
@@ -91,7 +91,7 @@
 			"English": "There's a lot of stuff I need.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هناك الكثير من الأشياء التي أحتاج إليها.",
 			"Egyptian Arabic Audio": "eca-0598-9.mp3",
 			"Standard Arabic Audio": "msa-0598-9.mp3"
 		},
@@ -101,7 +101,7 @@
 			"English": "I don't think you need a disco ball.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لا أعتقد أنك بحاجة إلى كرة الديسكو.",
 			"Egyptian Arabic Audio": "eca-0598-10.mp3",
 			"Standard Arabic Audio": "msa-0598-10.mp3"
 		},
@@ -111,7 +111,7 @@
 			"English": "Of course I do! It goes with the strobe light.",
 			"Word Count": 10,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "بالطبع افعل! وغني عن ضوء القوية.",
 			"Egyptian Arabic Audio": "eca-0598-11.mp3",
 			"Standard Arabic Audio": "msa-0598-11.mp3"
 		},
@@ -121,7 +121,7 @@
 			"English": "Please write a more practical list.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يرجى كتابة قائمة أكثر عملية.",
 			"Egyptian Arabic Audio": "eca-0598-12.mp3",
 			"Standard Arabic Audio": "msa-0598-12.mp3"
 		}

@@ -9,7 +9,7 @@
 			"English": "Oscar loves his shoes.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أوسكار يحب حذائه.",
 			"Egyptian Arabic Audio": "eca-0250-1.mp3",
 			"Standard Arabic Audio": "msa-0250-1.mp3"
 		},
@@ -18,7 +18,7 @@
 			"English": "He has had them for 5 years.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وقد كان لهم لمدة 5 سنوات.",
 			"Egyptian Arabic Audio": "eca-0250-2.mp3",
 			"Standard Arabic Audio": "msa-0250-2.mp3"
 		},
@@ -27,7 +27,7 @@
 			"English": "They still fit.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنها لا تزال صالحة.",
 			"Egyptian Arabic Audio": "eca-0250-3.mp3",
 			"Standard Arabic Audio": "msa-0250-3.mp3"
 		},
@@ -36,7 +36,7 @@
 			"English": "They look very old.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "تبدو قديمة جدا.",
 			"Egyptian Arabic Audio": "eca-0250-4.mp3",
 			"Standard Arabic Audio": "msa-0250-4.mp3"
 		},
@@ -45,7 +45,7 @@
 			"English": "They have holes in them.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لديهم ثقوب فيها.",
 			"Egyptian Arabic Audio": "eca-0250-5.mp3",
 			"Standard Arabic Audio": "msa-0250-5.mp3"
 		},
@@ -54,7 +54,7 @@
 			"English": "There are scratches on them, too.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هناك خدوش عليها أيضا.",
 			"Egyptian Arabic Audio": "eca-0250-6.mp3",
 			"Standard Arabic Audio": "msa-0250-6.mp3"
 		},
@@ -63,7 +63,7 @@
 			"English": "The bottom of the shoes are even worse.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "الجزء السفلي من الأحذية هي أسوأ من ذلك.",
 			"Egyptian Arabic Audio": "eca-0250-7.mp3",
 			"Standard Arabic Audio": "msa-0250-7.mp3"
 		},
@@ -72,7 +72,7 @@
 			"English": "\"Oscar, you need to get new shoes,\" his mom said.",
 			"Word Count": 10,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "&quot;أوسكار، تحتاج إلى الحصول على أحذية جديدة&quot;، وقال والدته.",
 			"Egyptian Arabic Audio": "eca-0250-8.mp3",
 			"Standard Arabic Audio": "msa-0250-8.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "\"No! I love my shoes,\" he said.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "&quot;لا أحب أحذيةي&quot;.",
 			"Egyptian Arabic Audio": "eca-0250-9.mp3",
 			"Standard Arabic Audio": "msa-0250-9.mp3"
 		},
@@ -90,7 +90,7 @@
 			"English": "\"You will get hurt if you keep wearing them,\" his mom said.",
 			"Word Count": 12,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "&quot;سوف تحصل على أذى إذا كنت تبقي يرتديها&quot;، وقال والدته.",
 			"Egyptian Arabic Audio": "eca-0250-10.mp3",
 			"Standard Arabic Audio": "msa-0250-10.mp3"
 		},
@@ -99,7 +99,7 @@
 			"English": "Oscar still said no.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أوسكار لا يزال قال لا.",
 			"Egyptian Arabic Audio": "eca-0250-11.mp3",
 			"Standard Arabic Audio": "msa-0250-11.mp3"
 		},
@@ -108,7 +108,7 @@
 			"English": "His mom decided to surprise him.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "قررت والدته مفاجأة له.",
 			"Egyptian Arabic Audio": "eca-0250-12.mp3",
 			"Standard Arabic Audio": "msa-0250-12.mp3"
 		},
@@ -117,7 +117,7 @@
 			"English": "She bought him a pair of Nikes.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وقالت انها اشترى له زوج من نيكيس.",
 			"Egyptian Arabic Audio": "eca-0250-13.mp3",
 			"Standard Arabic Audio": "msa-0250-13.mp3"
 		},
@@ -126,7 +126,7 @@
 			"English": "Oscar loved them.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أوسكار أحبهم.",
 			"Egyptian Arabic Audio": "eca-0250-14.mp3",
 			"Standard Arabic Audio": "msa-0250-14.mp3"
 		},
@@ -135,7 +135,7 @@
 			"English": "He felt bad that he wasn't going to wear his old shoes anymore.",
 			"Word Count": 13,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "شعر بسوء أنه لن يرتدي حذاءه القديم بعد الآن.",
 			"Egyptian Arabic Audio": "eca-0250-15.mp3",
 			"Standard Arabic Audio": "msa-0250-15.mp3"
 		},
@@ -144,7 +144,7 @@
 			"English": "He decided to keep them.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "قرر الاحتفاظ بها.",
 			"Egyptian Arabic Audio": "eca-0250-16.mp3",
 			"Standard Arabic Audio": "msa-0250-16.mp3"
 		},
@@ -153,7 +153,7 @@
 			"English": "He put his shoes in a glass case.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وضع حذائه في حالة من الزجاج.",
 			"Egyptian Arabic Audio": "eca-0250-17.mp3",
 			"Standard Arabic Audio": "msa-0250-17.mp3"
 		}

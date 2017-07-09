@@ -11,7 +11,7 @@
 			"English": "Plane tickets are so expensive!",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "تذاكر الطائرة مكلفة جدا!",
 			"Egyptian Arabic Audio": "eca-0090-1.mp3",
 			"Standard Arabic Audio": "msa-0090-1.mp3"
 		},
@@ -21,7 +21,7 @@
 			"English": "I can't afford to fly to San Francisco.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لا أستطيع السفر إلى سان فرانسيسكو.",
 			"Egyptian Arabic Audio": "eca-0090-2.mp3",
 			"Standard Arabic Audio": "msa-0090-2.mp3"
 		},
@@ -31,7 +31,7 @@
 			"English": "Well, we can always go by bus.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "حسنا، يمكننا دائما الذهاب بالحافلة.",
 			"Egyptian Arabic Audio": "eca-0090-3.mp3",
 			"Standard Arabic Audio": "msa-0090-3.mp3"
 		},
@@ -41,7 +41,7 @@
 			"English": "There's a bus that drives to San Francisco?",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هناك حافلة التي تدفع إلى سان فرانسيسكو؟",
 			"Egyptian Arabic Audio": "eca-0090-4.mp3",
 			"Standard Arabic Audio": "msa-0090-4.mp3"
 		},
@@ -51,7 +51,7 @@
 			"English": "There are buses that drive to any nearby state.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هناك حافلات التي تقود إلى أي دولة قريبة.",
 			"Egyptian Arabic Audio": "eca-0090-5.mp3",
 			"Standard Arabic Audio": "msa-0090-5.mp3"
 		},
@@ -61,7 +61,7 @@
 			"English": "That sounds perfect! How much is the fare?",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هذا يبدو مثاليا! كم هو الأجرة؟",
 			"Egyptian Arabic Audio": "eca-0090-6.mp3",
 			"Standard Arabic Audio": "msa-0090-6.mp3"
 		},
@@ -71,7 +71,7 @@
 			"English": "Usually one-fifth of what a plane ticket costs.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "عادة خمس ما تكلفة تذكرة الطائرة.",
 			"Egyptian Arabic Audio": "eca-0090-7.mp3",
 			"Standard Arabic Audio": "msa-0090-7.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "How do we buy tickets?",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كيف نشتري التذاكر؟",
 			"Egyptian Arabic Audio": "eca-0090-8.mp3",
 			"Standard Arabic Audio": "msa-0090-8.mp3"
 		},
@@ -91,7 +91,7 @@
 			"English": "If we buy them online, they're even cheaper.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "إذا اشتريناها عبر الإنترنت، فهي أرخص.",
 			"Egyptian Arabic Audio": "eca-0090-9.mp3",
 			"Standard Arabic Audio": "msa-0090-9.mp3"
 		},
@@ -101,7 +101,7 @@
 			"English": "What bus line do I search?",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ما خط الحافلات الذي أبحث عنه؟",
 			"Egyptian Arabic Audio": "eca-0090-10.mp3",
 			"Standard Arabic Audio": "msa-0090-10.mp3"
 		},
@@ -111,7 +111,7 @@
 			"English": "Greyhound buses are the most popular.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "الحافلات السلوقي هي الأكثر شعبية.",
 			"Egyptian Arabic Audio": "eca-0090-11.mp3",
 			"Standard Arabic Audio": "msa-0090-11.mp3"
 		},
@@ -121,7 +121,7 @@
 			"English": "I'm so glad we'll have a trip after all!",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنا سعيد جدا سيكون لدينا رحلة بعد كل شيء!",
 			"Egyptian Arabic Audio": "eca-0090-12.mp3",
 			"Standard Arabic Audio": "msa-0090-12.mp3"
 		}

@@ -11,7 +11,7 @@
 			"English": "Good morning. My name is Robert Stevens.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "صباح الخير. اسمي روبرت ستيفنز.",
 			"Egyptian Arabic Audio": "eca-0744-1.mp3",
 			"Standard Arabic Audio": "msa-0744-1.mp3"
 		},
@@ -21,7 +21,7 @@
 			"English": "Good morning, Mr. Stevens. My name is Richard Jones.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "صباح الخير، السيد ستيفنز. اسمي ريتشارد جونز.",
 			"Egyptian Arabic Audio": "eca-0744-2.mp3",
 			"Standard Arabic Audio": "msa-0744-2.mp3"
 		},
@@ -31,7 +31,7 @@
 			"English": "Please have a seat, and let's get started.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يرجى أن يكون مقعد، ودعونا نبدأ.",
 			"Egyptian Arabic Audio": "eca-0744-3.mp3",
 			"Standard Arabic Audio": "msa-0744-3.mp3"
 		},
@@ -41,7 +41,7 @@
 			"English": "Thank you, Mr. Stevens.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "شكرا لك، السيد ستيفنز.",
 			"Egyptian Arabic Audio": "eca-0744-4.mp3",
 			"Standard Arabic Audio": "msa-0744-4.mp3"
 		},
@@ -51,7 +51,7 @@
 			"English": "Please call me Robert, and I'll call you Richard. We are informal here.",
 			"Word Count": 13,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يرجى الاتصال بي روبرت، وسأتصل بك ريتشارد. نحن غير رسمي هنا.",
 			"Egyptian Arabic Audio": "eca-0744-5.mp3",
 			"Standard Arabic Audio": "msa-0744-5.mp3"
 		},
@@ -61,7 +61,7 @@
 			"English": "That's good to know, Robert. Thanks.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هذا أمر جيد أن نعرف، روبرت. شكر.",
 			"Egyptian Arabic Audio": "eca-0744-6.mp3",
 			"Standard Arabic Audio": "msa-0744-6.mp3"
 		},
@@ -71,7 +71,7 @@
 			"English": "I see you have two years experience. Can you tell me a little about that?",
 			"Word Count": 15,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أرى لديك سنتين خبرة. هل يمكن أن تخبرني قليلا عن ذلك؟",
 			"Egyptian Arabic Audio": "eca-0744-7.mp3",
 			"Standard Arabic Audio": "msa-0744-7.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "Oh, yes. I worked in the mailroom at Acme Corporation last year.",
 			"Word Count": 12,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "نعم بالتأكيد. عملت في غرفة البريد في شركة أسم العام الماضي.",
 			"Egyptian Arabic Audio": "eca-0744-8.mp3",
 			"Standard Arabic Audio": "msa-0744-8.mp3"
 		},
@@ -91,7 +91,7 @@
 			"English": "Go on, please.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ارجوك استمر.",
 			"Egyptian Arabic Audio": "eca-0744-9.mp3",
 			"Standard Arabic Audio": "msa-0744-9.mp3"
 		},
@@ -101,7 +101,7 @@
 			"English": "It was a temporary job, but I gained a lot of experience.",
 			"Word Count": 12,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كانت وظيفة مؤقتة، ولكنني اكتسبت الكثير من الخبرة.",
 			"Egyptian Arabic Audio": "eca-0744-10.mp3",
 			"Standard Arabic Audio": "msa-0744-10.mp3"
 		},
@@ -111,7 +111,7 @@
 			"English": "Excellent! We are always looking for someone with experience.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ممتاز! نحن نبحث دائما عن شخص مع الخبرة.",
 			"Egyptian Arabic Audio": "eca-0744-11.mp3",
 			"Standard Arabic Audio": "msa-0744-11.mp3"
 		},
@@ -121,7 +121,7 @@
 			"English": "I think this experience will help me blend into a job working here.",
 			"Word Count": 13,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وأعتقد أن هذه التجربة ستساعدني على الجمع بين وظيفة في العمل هنا.",
 			"Egyptian Arabic Audio": "eca-0744-12.mp3",
 			"Standard Arabic Audio": "msa-0744-12.mp3"
 		}

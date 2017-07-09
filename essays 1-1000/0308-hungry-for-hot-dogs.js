@@ -9,7 +9,7 @@
 			"English": "He opens the refrigerator.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يفتح الثلاجة.",
 			"Egyptian Arabic Audio": "eca-0308-1.mp3",
 			"Standard Arabic Audio": "msa-0308-1.mp3"
 		},
@@ -18,7 +18,7 @@
 			"English": "He looks inside the refrigerator.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يبدو داخل الثلاجة.",
 			"Egyptian Arabic Audio": "eca-0308-2.mp3",
 			"Standard Arabic Audio": "msa-0308-2.mp3"
 		},
@@ -27,7 +27,7 @@
 			"English": "He is hungry.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "إنه جائع.",
 			"Egyptian Arabic Audio": "eca-0308-3.mp3",
 			"Standard Arabic Audio": "msa-0308-3.mp3"
 		},
@@ -36,7 +36,7 @@
 			"English": "He wants something to eat.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يريد شيئا لتناول الطعام.",
 			"Egyptian Arabic Audio": "eca-0308-4.mp3",
 			"Standard Arabic Audio": "msa-0308-4.mp3"
 		},
@@ -45,7 +45,7 @@
 			"English": "He sees a package.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يرى حزمة.",
 			"Egyptian Arabic Audio": "eca-0308-5.mp3",
 			"Standard Arabic Audio": "msa-0308-5.mp3"
 		},
@@ -54,7 +54,7 @@
 			"English": "It is a package of hot dogs.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "بل هو حزمة من الكلاب الساخنة.",
 			"Egyptian Arabic Audio": "eca-0308-6.mp3",
 			"Standard Arabic Audio": "msa-0308-6.mp3"
 		},
@@ -63,7 +63,7 @@
 			"English": "Six hot dogs are in the package.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ستة من الكلاب الساخنة في الحزمة.",
 			"Egyptian Arabic Audio": "eca-0308-7.mp3",
 			"Standard Arabic Audio": "msa-0308-7.mp3"
 		},
@@ -72,7 +72,7 @@
 			"English": "He takes two hot dogs out of the package.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انه يأخذ اثنين من الكلاب الساخنة من الحزمة.",
 			"Egyptian Arabic Audio": "eca-0308-8.mp3",
 			"Standard Arabic Audio": "msa-0308-8.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "He closes the refrigerator.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يغلق الثلاجة.",
 			"Egyptian Arabic Audio": "eca-0308-9.mp3",
 			"Standard Arabic Audio": "msa-0308-9.mp3"
 		},
@@ -90,7 +90,7 @@
 			"English": "He puts the hot dogs on a plate.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يضع الكلاب الساخنة على طبق.",
 			"Egyptian Arabic Audio": "eca-0308-10.mp3",
 			"Standard Arabic Audio": "msa-0308-10.mp3"
 		}

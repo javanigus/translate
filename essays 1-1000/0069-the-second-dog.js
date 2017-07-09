@@ -9,7 +9,7 @@
 			"English": "She has one dog already.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لديها كلب واحد بالفعل.",
 			"Egyptian Arabic Audio": "eca-0069-1.mp3",
 			"Standard Arabic Audio": "msa-0069-1.mp3"
 		},
@@ -18,7 +18,7 @@
 			"English": "It has black fur.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "فقد الفراء الأسود.",
 			"Egyptian Arabic Audio": "eca-0069-2.mp3",
 			"Standard Arabic Audio": "msa-0069-2.mp3"
 		},
@@ -27,7 +27,7 @@
 			"English": "It is very big.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "إنها كبيرة جدا.",
 			"Egyptian Arabic Audio": "eca-0069-3.mp3",
 			"Standard Arabic Audio": "msa-0069-3.mp3"
 		},
@@ -36,7 +36,7 @@
 			"English": "She wants another one.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "تريد واحدة أخرى.",
 			"Egyptian Arabic Audio": "eca-0069-4.mp3",
 			"Standard Arabic Audio": "msa-0069-4.mp3"
 		},
@@ -45,7 +45,7 @@
 			"English": "She goes to the pet store.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "تذهب إلى متجر للحيوانات الاليفة.",
 			"Egyptian Arabic Audio": "eca-0069-5.mp3",
 			"Standard Arabic Audio": "msa-0069-5.mp3"
 		},
@@ -54,7 +54,7 @@
 			"English": "She buys another dog.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "تشتري كلبا آخر.",
 			"Egyptian Arabic Audio": "eca-0069-6.mp3",
 			"Standard Arabic Audio": "msa-0069-6.mp3"
 		},
@@ -63,7 +63,7 @@
 			"English": "It has brown fur.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "فقد الفراء البني.",
 			"Egyptian Arabic Audio": "eca-0069-7.mp3",
 			"Standard Arabic Audio": "msa-0069-7.mp3"
 		},
@@ -72,7 +72,7 @@
 			"English": "It is medium-sized.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وهي متوسطة الحجم.",
 			"Egyptian Arabic Audio": "eca-0069-8.mp3",
 			"Standard Arabic Audio": "msa-0069-8.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "She brings it home.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انها تجلب المنزل.",
 			"Egyptian Arabic Audio": "eca-0069-9.mp3",
 			"Standard Arabic Audio": "msa-0069-9.mp3"
 		},
@@ -90,7 +90,7 @@
 			"English": "She puts her two dogs together.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انها تضع اثنين من الكلاب معا.",
 			"Egyptian Arabic Audio": "eca-0069-10.mp3",
 			"Standard Arabic Audio": "msa-0069-10.mp3"
 		},
@@ -99,7 +99,7 @@
 			"English": "They run away from each other.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يهربون من بعضهم البعض.",
 			"Egyptian Arabic Audio": "eca-0069-11.mp3",
 			"Standard Arabic Audio": "msa-0069-11.mp3"
 		},
@@ -108,7 +108,7 @@
 			"English": "They do not like each other.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انهم لا يحبون بعضهم البعض.",
 			"Egyptian Arabic Audio": "eca-0069-12.mp3",
 			"Standard Arabic Audio": "msa-0069-12.mp3"
 		}

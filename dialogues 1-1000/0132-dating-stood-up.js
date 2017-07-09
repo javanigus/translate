@@ -11,7 +11,7 @@
 			"English": "I am never asking girls out again.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنا لا أطلب الفتيات من جديد.",
 			"Egyptian Arabic Audio": "eca-0132-1.mp3",
 			"Standard Arabic Audio": "msa-0132-1.mp3"
 		},
@@ -21,7 +21,7 @@
 			"English": "That's crazy talk.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هذا حديث مجنون.",
 			"Egyptian Arabic Audio": "eca-0132-2.mp3",
 			"Standard Arabic Audio": "msa-0132-2.mp3"
 		},
@@ -31,7 +31,7 @@
 			"English": "Sarah didn't meet up with me like we planned.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لم تجتمع سارة معي كما خططنا.",
 			"Egyptian Arabic Audio": "eca-0132-3.mp3",
 			"Standard Arabic Audio": "msa-0132-3.mp3"
 		},
@@ -41,7 +41,7 @@
 			"English": "So you got stood up?",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لذلك كنت حصلت وقفت؟",
 			"Egyptian Arabic Audio": "eca-0132-4.mp3",
 			"Standard Arabic Audio": "msa-0132-4.mp3"
 		},
@@ -51,7 +51,7 @@
 			"English": "Yeah, I feel pathetic.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "نعم، أشعر بالشفقة.",
 			"Egyptian Arabic Audio": "eca-0132-5.mp3",
 			"Standard Arabic Audio": "msa-0132-5.mp3"
 		},
@@ -61,7 +61,7 @@
 			"English": "Maybe she got the location wrong.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ربما حصلت على موقع خاطئ.",
 			"Egyptian Arabic Audio": "eca-0132-6.mp3",
 			"Standard Arabic Audio": "msa-0132-6.mp3"
 		},
@@ -71,7 +71,7 @@
 			"English": "No, she didn't. I asked her friends.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لا، لم تفعل ذلك. سألت أصدقائها.",
 			"Egyptian Arabic Audio": "eca-0132-7.mp3",
 			"Standard Arabic Audio": "msa-0132-7.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "What did they say?",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ماذا قالوا؟",
 			"Egyptian Arabic Audio": "eca-0132-8.mp3",
 			"Standard Arabic Audio": "msa-0132-8.mp3"
 		},
@@ -91,7 +91,7 @@
 			"English": "They said she never wanted to go out with me.",
 			"Word Count": 10,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "قالوا إنها لا تريد الخروج معي.",
 			"Egyptian Arabic Audio": "eca-0132-9.mp3",
 			"Standard Arabic Audio": "msa-0132-9.mp3"
 		},
@@ -101,7 +101,7 @@
 			"English": "That's harsh. I'm sorry to hear that.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هذا قاس. انا اسف لسماع ذلك.",
 			"Egyptian Arabic Audio": "eca-0132-10.mp3",
 			"Standard Arabic Audio": "msa-0132-10.mp3"
 		},
@@ -111,7 +111,7 @@
 			"English": "I'll never talk to her again.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنا لن أتحدث معها مرة أخرى.",
 			"Egyptian Arabic Audio": "eca-0132-11.mp3",
 			"Standard Arabic Audio": "msa-0132-11.mp3"
 		},
@@ -121,7 +121,7 @@
 			"English": "There are plenty of girls out there.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هناك الكثير من الفتيات هناك.",
 			"Egyptian Arabic Audio": "eca-0132-12.mp3",
 			"Standard Arabic Audio": "msa-0132-12.mp3"
 		}

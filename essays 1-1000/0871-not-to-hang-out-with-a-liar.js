@@ -9,7 +9,7 @@
 			"English": "Virginia went to IHOP with another friend.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ذهبت فيرجينيا إلى إيهوب مع صديق آخر.",
 			"Egyptian Arabic Audio": "eca-0871-1.mp3",
 			"Standard Arabic Audio": "msa-0871-1.mp3"
 		},
@@ -18,7 +18,7 @@
 			"English": "Before she went inside, she saw Claudia walk by.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "قبل أن تذهب إلى الداخل، رأت كلوديا سيرا على الأقدام.",
 			"Egyptian Arabic Audio": "eca-0871-2.mp3",
 			"Standard Arabic Audio": "msa-0871-2.mp3"
 		},
@@ -27,7 +27,7 @@
 			"English": "She was surprised.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "فوجئت.",
 			"Egyptian Arabic Audio": "eca-0871-3.mp3",
 			"Standard Arabic Audio": "msa-0871-3.mp3"
 		},
@@ -36,7 +36,7 @@
 			"English": "Claudia had lied to her.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كلوديا كذب عليها.",
 			"Egyptian Arabic Audio": "eca-0871-4.mp3",
 			"Standard Arabic Audio": "msa-0871-4.mp3"
 		},
@@ -45,7 +45,7 @@
 			"English": "\"I thought you had class,\" Virginia said.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وقالت فرجينيا: &quot;اعتقدت أن لديكم فصول دراسية.",
 			"Egyptian Arabic Audio": "eca-0871-5.mp3",
 			"Standard Arabic Audio": "msa-0871-5.mp3"
 		},
@@ -54,7 +54,7 @@
 			"English": "\"Uh.",
 			"Word Count": 1,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "&quot;اه.",
 			"Egyptian Arabic Audio": "eca-0871-6.mp3",
 			"Standard Arabic Audio": "msa-0871-6.mp3"
 		},
@@ -63,7 +63,7 @@
 			"English": "I.",
 			"Word Count": 1,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنا.",
 			"Egyptian Arabic Audio": "eca-0871-9.mp3",
 			"Standard Arabic Audio": "msa-0871-9.mp3"
 		},
@@ -72,7 +72,7 @@
 			"English": "did I say that?\" she said.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هل قلت ذلك؟ &quot;.",
 			"Egyptian Arabic Audio": "eca-0871-12.mp3",
 			"Standard Arabic Audio": "msa-0871-12.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "\"Forget it.",
 			"Word Count": 2,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "&quot;انسى ذلك.",
 			"Egyptian Arabic Audio": "eca-0871-13.mp3",
 			"Standard Arabic Audio": "msa-0871-13.mp3"
 		},
@@ -90,7 +90,7 @@
 			"English": "I would never want to hang out with a liar,\" Virginia said.",
 			"Word Count": 12,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لم أكن أريد أن أخرج مع كذاب &quot;.",
 			"Egyptian Arabic Audio": "eca-0871-14.mp3",
 			"Standard Arabic Audio": "msa-0871-14.mp3"
 		}

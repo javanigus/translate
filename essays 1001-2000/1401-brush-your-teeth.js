@@ -9,7 +9,7 @@
 			"English": "She walked into the bathroom.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "سارت في الحمام.",
 			"Egyptian Arabic Audio": "eca-1401-1.mp3",
 			"Standard Arabic Audio": "msa-1401-1.mp3"
 		},
@@ -18,7 +18,7 @@
 			"English": "She took the cap off the tube of toothpaste.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أخذت الغطاء قبالة أنبوب معجون الأسنان.",
 			"Egyptian Arabic Audio": "eca-1401-2.mp3",
 			"Standard Arabic Audio": "msa-1401-2.mp3"
 		},
@@ -27,7 +27,7 @@
 			"English": "She squeezed some toothpaste onto her toothbrush.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ضغطت بعض معجون الأسنان على فرشاة أسنانها.",
 			"Egyptian Arabic Audio": "eca-1401-3.mp3",
 			"Standard Arabic Audio": "msa-1401-3.mp3"
 		},
@@ -36,7 +36,7 @@
 			"English": "She turned on the cold water.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "الوجه الصفع وقالت انها تحولت على الماء البارد.",
 			"Egyptian Arabic Audio": "eca-1401-4.mp3",
 			"Standard Arabic Audio": "msa-1401-4.mp3"
 		},
@@ -45,7 +45,7 @@
 			"English": "She brushed her upper teeth and spit out some toothpaste.",
 			"Word Count": 10,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "الوجه الصفع وقالت انها نحى أسنانها العليا وتبصقون بعض معجون الأسنان.",
 			"Egyptian Arabic Audio": "eca-1401-5.mp3",
 			"Standard Arabic Audio": "msa-1401-5.mp3"
 		},
@@ -54,7 +54,7 @@
 			"English": "She brushed her lower teeth and spit out some more toothpaste.",
 			"Word Count": 11,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "الوجه الصفع وقالت انها نحى لها أسنان أقل وتبصقون بعض أكثر معجون الأسنان.",
 			"Egyptian Arabic Audio": "eca-1401-6.mp3",
 			"Standard Arabic Audio": "msa-1401-6.mp3"
 		},
@@ -63,7 +63,7 @@
 			"English": "She rinsed out her toothbrush.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "شطفت فرشاة أسنانها.",
 			"Egyptian Arabic Audio": "eca-1401-7.mp3",
 			"Standard Arabic Audio": "msa-1401-7.mp3"
 		},
@@ -72,7 +72,7 @@
 			"English": "She put the toothbrush back into the toothbrush holder.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وضعت فرشاة الأسنان مرة أخرى في حامل فرشاة الأسنان.",
 			"Egyptian Arabic Audio": "eca-1401-8.mp3",
 			"Standard Arabic Audio": "msa-1401-8.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "She put some water into a cup and rinsed out her mouth.",
 			"Word Count": 12,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وضعت بعض الماء في كوب وشطفت فمها.",
 			"Egyptian Arabic Audio": "eca-1401-9.mp3",
 			"Standard Arabic Audio": "msa-1401-9.mp3"
 		},
@@ -90,7 +90,7 @@
 			"English": "She spit out the water and walked out of the bathroom.",
 			"Word Count": 11,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "الوجه الصفع وقالت انها يبصقون من الماء وخرج من الحمام.",
 			"Egyptian Arabic Audio": "eca-1401-10.mp3",
 			"Standard Arabic Audio": "msa-1401-10.mp3"
 		}

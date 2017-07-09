@@ -9,7 +9,7 @@
 			"English": "The tree was full of red apples.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كانت الشجرة مليئة بالتفاح الأحمر.",
 			"Egyptian Arabic Audio": "eca-1453-1.mp3",
 			"Standard Arabic Audio": "msa-1453-1.mp3"
 		},
@@ -18,7 +18,7 @@
 			"English": "The farmer was riding his brown horse.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كان المزارع يركب حصانه البني.",
 			"Egyptian Arabic Audio": "eca-1453-2.mp3",
 			"Standard Arabic Audio": "msa-1453-2.mp3"
 		},
@@ -27,7 +27,7 @@
 			"English": "He stopped under the tree.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "توقف تحت الشجرة.",
 			"Egyptian Arabic Audio": "eca-1453-3.mp3",
 			"Standard Arabic Audio": "msa-1453-3.mp3"
 		},
@@ -36,7 +36,7 @@
 			"English": "He reached out and picked an apple off a branch.",
 			"Word Count": 10,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وصل إلى خارج واختارت تفاحة قبالة فرع.",
 			"Egyptian Arabic Audio": "eca-1453-4.mp3",
 			"Standard Arabic Audio": "msa-1453-4.mp3"
 		},
@@ -45,7 +45,7 @@
 			"English": "He bit into the raw apple.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انه قليلا في التفاح الخام.",
 			"Egyptian Arabic Audio": "eca-1453-5.mp3",
 			"Standard Arabic Audio": "msa-1453-5.mp3"
 		},
@@ -54,7 +54,7 @@
 			"English": "He enjoyed the apple.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كان يتمتع التفاح.",
 			"Egyptian Arabic Audio": "eca-1453-6.mp3",
 			"Standard Arabic Audio": "msa-1453-6.mp3"
 		},
@@ -63,7 +63,7 @@
 			"English": "His horse turned its head to look at him.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "تحول حصانه رأسه للنظر إليه.",
 			"Egyptian Arabic Audio": "eca-1453-7.mp3",
 			"Standard Arabic Audio": "msa-1453-7.mp3"
 		},
@@ -72,7 +72,7 @@
 			"English": "The farmer picked another apple off the tree.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "اختار المزارع تفاحة أخرى خارج الشجرة.",
 			"Egyptian Arabic Audio": "eca-1453-8.mp3",
 			"Standard Arabic Audio": "msa-1453-8.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "He gave it to the horse.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أعطاه للحصان.",
 			"Egyptian Arabic Audio": "eca-1453-9.mp3",
 			"Standard Arabic Audio": "msa-1453-9.mp3"
 		},
@@ -90,7 +90,7 @@
 			"English": "The horse ate the raw apple.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أكل الحصان التفاح الخام.",
 			"Egyptian Arabic Audio": "eca-1453-10.mp3",
 			"Standard Arabic Audio": "msa-1453-10.mp3"
 		},
@@ -99,7 +99,7 @@
 			"English": "The horse enjoyed the apple.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "الحصان يتمتع التفاح.",
 			"Egyptian Arabic Audio": "eca-1453-11.mp3",
 			"Standard Arabic Audio": "msa-1453-11.mp3"
 		},
@@ -108,7 +108,7 @@
 			"English": "The farmer put a dozen apples into a bag.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وضع المزارع عشرة تفاح في كيس.",
 			"Egyptian Arabic Audio": "eca-1453-12.mp3",
 			"Standard Arabic Audio": "msa-1453-12.mp3"
 		},
@@ -117,7 +117,7 @@
 			"English": "He rode the horse back home.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ركب الحصان إلى الوطن.",
 			"Egyptian Arabic Audio": "eca-1453-13.mp3",
 			"Standard Arabic Audio": "msa-1453-13.mp3"
 		},
@@ -126,7 +126,7 @@
 			"English": "He put the horse in the barn.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وضع الحصان في الحظيرة.",
 			"Egyptian Arabic Audio": "eca-1453-14.mp3",
 			"Standard Arabic Audio": "msa-1453-14.mp3"
 		},
@@ -135,7 +135,7 @@
 			"English": "He walked into his house.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "سافر إلى منزله.",
 			"Egyptian Arabic Audio": "eca-1453-15.mp3",
 			"Standard Arabic Audio": "msa-1453-15.mp3"
 		},
@@ -144,7 +144,7 @@
 			"English": "The cat rubbed up against his leg.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "القط يفرك ضد ساقه.",
 			"Egyptian Arabic Audio": "eca-1453-16.mp3",
 			"Standard Arabic Audio": "msa-1453-16.mp3"
 		},
@@ -153,7 +153,7 @@
 			"English": "He gave the cat a bowl of warm milk.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أعطى القط وعاء من الحليب الدافئ.",
 			"Egyptian Arabic Audio": "eca-1453-17.mp3",
 			"Standard Arabic Audio": "msa-1453-17.mp3"
 		},
@@ -162,7 +162,7 @@
 			"English": "He sat down on the sofa.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "جلس على الأريكة.",
 			"Egyptian Arabic Audio": "eca-1453-18.mp3",
 			"Standard Arabic Audio": "msa-1453-18.mp3"
 		},
@@ -171,7 +171,7 @@
 			"English": "He opened a book to read.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "فتح كتابا للقراءة.",
 			"Egyptian Arabic Audio": "eca-1453-19.mp3",
 			"Standard Arabic Audio": "msa-1453-19.mp3"
 		},
@@ -180,7 +180,7 @@
 			"English": "His wife came home.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وجاءت زوجته إلى البيت.",
 			"Egyptian Arabic Audio": "eca-1453-20.mp3",
 			"Standard Arabic Audio": "msa-1453-20.mp3"
 		},
@@ -189,7 +189,7 @@
 			"English": "She cooked the raw apples.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انها طهي التفاح الخام.",
 			"Egyptian Arabic Audio": "eca-1453-21.mp3",
 			"Standard Arabic Audio": "msa-1453-21.mp3"
 		},
@@ -198,7 +198,7 @@
 			"English": "She made an apple pie.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "جعلت فطيرة التفاح.",
 			"Egyptian Arabic Audio": "eca-1453-22.mp3",
 			"Standard Arabic Audio": "msa-1453-22.mp3"
 		},
@@ -207,7 +207,7 @@
 			"English": "They ate bread and hot soup for dinner.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أكلوا الخبز والحساء الساخن لتناول العشاء.",
 			"Egyptian Arabic Audio": "eca-1453-23.mp3",
 			"Standard Arabic Audio": "msa-1453-23.mp3"
 		},
@@ -216,7 +216,7 @@
 			"English": "They enjoyed the bread and soup.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كانوا يتمتعون الخبز والحساء.",
 			"Egyptian Arabic Audio": "eca-1453-24.mp3",
 			"Standard Arabic Audio": "msa-1453-24.mp3"
 		},
@@ -225,7 +225,7 @@
 			"English": "They had hot apple pie for dessert.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كان لديهم فطيرة التفاح الساخنة للحلوى.",
 			"Egyptian Arabic Audio": "eca-1453-25.mp3",
 			"Standard Arabic Audio": "msa-1453-25.mp3"
 		},
@@ -234,7 +234,7 @@
 			"English": "They both enjoyed the apple pie.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كلاهما يتمتع بفطيرة التفاح.",
 			"Egyptian Arabic Audio": "eca-1453-26.mp3",
 			"Standard Arabic Audio": "msa-1453-26.mp3"
 		}

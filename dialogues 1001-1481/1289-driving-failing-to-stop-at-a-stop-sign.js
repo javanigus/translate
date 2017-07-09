@@ -11,7 +11,7 @@
 			"English": "Is there a problem, officer?",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هل هناك مشكلة، ضابط؟",
 			"Egyptian Arabic Audio": "eca-1289-2.mp3",
 			"Standard Arabic Audio": "msa-1289-2.mp3"
 		},
@@ -21,7 +21,7 @@
 			"English": "Did you not notice that stop sign that you ran through?",
 			"Word Count": 11,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ألم تلاحظ أن علامة التوقف التي مرت بها؟",
 			"Egyptian Arabic Audio": "eca-1289-3.mp3",
 			"Standard Arabic Audio": "msa-1289-3.mp3"
 		},
@@ -31,7 +31,7 @@
 			"English": "I'm sorry, I didn't even notice it.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنا آسف، لم أكن حتى لاحظت ذلك.",
 			"Egyptian Arabic Audio": "eca-1289-4.mp3",
 			"Standard Arabic Audio": "msa-1289-4.mp3"
 		},
@@ -41,7 +41,7 @@
 			"English": "You didn't see it?",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كنت لا ترى ذلك؟",
 			"Egyptian Arabic Audio": "eca-1289-5.mp3",
 			"Standard Arabic Audio": "msa-1289-5.mp3"
 		},
@@ -51,7 +51,7 @@
 			"English": "I honestly couldn't see it because of the bushes growing over it.",
 			"Word Count": 12,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنا بصراحة لا يمكن أن نرى ذلك بسبب الشجيرات المتزايدة على ذلك.",
 			"Egyptian Arabic Audio": "eca-1289-6.mp3",
 			"Standard Arabic Audio": "msa-1289-6.mp3"
 		},
@@ -61,7 +61,7 @@
 			"English": "That's true. Those bushes are a problem.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هذا صحيح. هذه الشجيرات هي مشكلة.",
 			"Egyptian Arabic Audio": "eca-1289-7.mp3",
 			"Standard Arabic Audio": "msa-1289-7.mp3"
 		},
@@ -71,7 +71,7 @@
 			"English": "I swear that I didn't mean to run it.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أقسم أنني لم أقصد تشغيله.",
 			"Egyptian Arabic Audio": "eca-1289-8.mp3",
 			"Standard Arabic Audio": "msa-1289-8.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "I can understand why you didn't stop for it.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أستطيع أن أفهم لماذا لم تتوقف عن ذلك.",
 			"Egyptian Arabic Audio": "eca-1289-9.mp3",
 			"Standard Arabic Audio": "msa-1289-9.mp3"
 		},
@@ -91,7 +91,7 @@
 			"English": "Are you going to give me a ticket today, sir?",
 			"Word Count": 10,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هل ستعطيني تذكرة اليوم يا سيدي؟",
 			"Egyptian Arabic Audio": "eca-1289-10.mp3",
 			"Standard Arabic Audio": "msa-1289-10.mp3"
 		},
@@ -101,7 +101,7 @@
 			"English": "Under the circumstances, I think I'm just going to let you go with a warning.",
 			"Word Count": 15,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "في ظل هذه الظروف، وأعتقد أنني فقط سوف تتيح لك الذهاب مع تحذير.",
 			"Egyptian Arabic Audio": "eca-1289-11.mp3",
 			"Standard Arabic Audio": "msa-1289-11.mp3"
 		},
@@ -111,7 +111,7 @@
 			"English": "Thanks a lot.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "شكرا جزيلا.",
 			"Egyptian Arabic Audio": "eca-1289-12.mp3",
 			"Standard Arabic Audio": "msa-1289-12.mp3"
 		},
@@ -121,7 +121,7 @@
 			"English": "No problem. Next time, just pay closer attention.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ليس هناك أى مشكلة. في المرة القادمة، مجرد إيلاء اهتمام أوثق.",
 			"Egyptian Arabic Audio": "eca-1289-13.mp3",
 			"Standard Arabic Audio": "msa-1289-13.mp3"
 		},
@@ -131,7 +131,7 @@
 			"English": "What's the problem?",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ما هي المشكلة؟",
 			"Egyptian Arabic Audio": "eca-1289-15.mp3",
 			"Standard Arabic Audio": "msa-1289-15.mp3"
 		},
@@ -141,7 +141,7 @@
 			"English": "There was a stop sign back there that you didn't stop for.",
 			"Word Count": 12,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كان هناك علامة التوقف مرة أخرى هناك أنك لم تتوقف ل.",
 			"Egyptian Arabic Audio": "eca-1289-16.mp3",
 			"Standard Arabic Audio": "msa-1289-16.mp3"
 		},
@@ -151,7 +151,7 @@
 			"English": "I really didn't see it.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنا حقا لا أرى ذلك.",
 			"Egyptian Arabic Audio": "eca-1289-17.mp3",
 			"Standard Arabic Audio": "msa-1289-17.mp3"
 		},
@@ -161,7 +161,7 @@
 			"English": "How'd you miss it?",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كيف كنت تفوت؟",
 			"Egyptian Arabic Audio": "eca-1289-18.mp3",
 			"Standard Arabic Audio": "msa-1289-18.mp3"
 		},
@@ -171,7 +171,7 @@
 			"English": "I only saw bushes at the intersection.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "رأيت فقط الشجيرات عند التقاطع.",
 			"Egyptian Arabic Audio": "eca-1289-19.mp3",
 			"Standard Arabic Audio": "msa-1289-19.mp3"
 		},
@@ -181,7 +181,7 @@
 			"English": "Those bushes are covering the stop sign.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وتغطي هذه الشجيرات علامة التوقف.",
 			"Egyptian Arabic Audio": "eca-1289-20.mp3",
 			"Standard Arabic Audio": "msa-1289-20.mp3"
 		},
@@ -191,7 +191,7 @@
 			"English": "I really didn't mean to run it.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنا حقا لا يعني لتشغيله.",
 			"Egyptian Arabic Audio": "eca-1289-21.mp3",
 			"Standard Arabic Audio": "msa-1289-21.mp3"
 		},
@@ -201,7 +201,7 @@
 			"English": "I see why you didn't stop.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أرى لماذا لم تتوقف.",
 			"Egyptian Arabic Audio": "eca-1289-22.mp3",
 			"Standard Arabic Audio": "msa-1289-22.mp3"
 		},
@@ -211,7 +211,7 @@
 			"English": "Are you still going to write me a ticket?",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هل ما زلت مستمرة لكتابة لي تذكرة؟",
 			"Egyptian Arabic Audio": "eca-1289-23.mp3",
 			"Standard Arabic Audio": "msa-1289-23.mp3"
 		},
@@ -221,7 +221,7 @@
 			"English": "No, I'm just going to let you go.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لا، أنا فقط سوف تتيح لك الذهاب.",
 			"Egyptian Arabic Audio": "eca-1289-24.mp3",
 			"Standard Arabic Audio": "msa-1289-24.mp3"
 		},
@@ -231,7 +231,7 @@
 			"English": "Thanks for being so understanding.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "شكرا لكونك تفهم ذلك.",
 			"Egyptian Arabic Audio": "eca-1289-25.mp3",
 			"Standard Arabic Audio": "msa-1289-25.mp3"
 		},
@@ -241,7 +241,7 @@
 			"English": "That's all right. Make sure to look closely next time.",
 			"Word Count": 10,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لا بأس. تأكد من النظر عن كثب في المرة القادمة.",
 			"Egyptian Arabic Audio": "eca-1289-26.mp3",
 			"Standard Arabic Audio": "msa-1289-26.mp3"
 		},
@@ -251,7 +251,7 @@
 			"English": "What's up, officer?",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ما الأمر، ضابط؟",
 			"Egyptian Arabic Audio": "eca-1289-28.mp3",
 			"Standard Arabic Audio": "msa-1289-28.mp3"
 		},
@@ -261,7 +261,7 @@
 			"English": "Are you aware that you ran through that stop sign?",
 			"Word Count": 10,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هل أنت على علم بأنك اجتازت علامة التوقف هذه؟",
 			"Egyptian Arabic Audio": "eca-1289-29.mp3",
 			"Standard Arabic Audio": "msa-1289-29.mp3"
 		},
@@ -271,7 +271,7 @@
 			"English": "There was a stop sign?",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كان هناك علامة توقف؟",
 			"Egyptian Arabic Audio": "eca-1289-30.mp3",
 			"Standard Arabic Audio": "msa-1289-30.mp3"
 		},
@@ -281,7 +281,7 @@
 			"English": "How could you not notice it?",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كيف يمكن أن لا تلاحظ ذلك؟",
 			"Egyptian Arabic Audio": "eca-1289-31.mp3",
 			"Standard Arabic Audio": "msa-1289-31.mp3"
 		},
@@ -291,7 +291,7 @@
 			"English": "If there really was a stop sign, I couldn't see it because of the overgrown  bushes.",
 			"Word Count": 16,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "إذا كان هناك حقا علامة توقف، لم أستطع أن أرى ذلك بسبب الشجيرات متضخمة.",
 			"Egyptian Arabic Audio": "eca-1289-32.mp3",
 			"Standard Arabic Audio": "msa-1289-32.mp3"
 		},
@@ -301,7 +301,7 @@
 			"English": "You're right. The bushes are covering the sign.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنت على حق. الشجيرات تغطي علامة.",
 			"Egyptian Arabic Audio": "eca-1289-33.mp3",
 			"Standard Arabic Audio": "msa-1289-33.mp3"
 		},
@@ -311,7 +311,7 @@
 			"English": "If I saw the stop sign, I would've stopped for it.",
 			"Word Count": 11,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "إذا رأيت علامة التوقف، وكنت قد توقفت عن ذلك.",
 			"Egyptian Arabic Audio": "eca-1289-34.mp3",
 			"Standard Arabic Audio": "msa-1289-34.mp3"
 		},
@@ -321,7 +321,7 @@
 			"English": "Now that I think about it, I can see how you missed it.",
 			"Word Count": 13,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "الآن بعد أن أفكر في ذلك، أستطيع أن أرى كيف فاتك.",
 			"Egyptian Arabic Audio": "eca-1289-35.mp3",
 			"Standard Arabic Audio": "msa-1289-35.mp3"
 		},
@@ -331,7 +331,7 @@
 			"English": "Am I getting a ticket for this?",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنا الحصول على تذكرة لهذا؟",
 			"Egyptian Arabic Audio": "eca-1289-36.mp3",
 			"Standard Arabic Audio": "msa-1289-36.mp3"
 		},
@@ -341,7 +341,7 @@
 			"English": "I'll let you off with a warning.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "سوف أترك لكم مع تحذير.",
 			"Egyptian Arabic Audio": "eca-1289-37.mp3",
 			"Standard Arabic Audio": "msa-1289-37.mp3"
 		},
@@ -351,7 +351,7 @@
 			"English": "Thank you, I really do appreciate that.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "شكرا لك، أنا حقا نقدر ذلك.",
 			"Egyptian Arabic Audio": "eca-1289-38.mp3",
 			"Standard Arabic Audio": "msa-1289-38.mp3"
 		},
@@ -361,7 +361,7 @@
 			"English": "Don't worry about it. I need to have something done about those bushes.",
 			"Word Count": 13,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لا تقلق بشأن هذا أنا بحاجة إلى أن يكون هناك شيء القيام به حول تلك الشجيرات.",
 			"Egyptian Arabic Audio": "eca-1289-39.mp3",
 			"Standard Arabic Audio": "msa-1289-39.mp3"
 		}

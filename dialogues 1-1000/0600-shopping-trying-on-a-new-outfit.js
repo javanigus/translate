@@ -11,7 +11,7 @@
 			"English": "That is such a cute dress!",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هذا هو ثوب لطيف!",
 			"Egyptian Arabic Audio": "eca-0600-1.mp3",
 			"Standard Arabic Audio": "msa-0600-1.mp3"
 		},
@@ -21,7 +21,7 @@
 			"English": "Thanks! I bought it yesterday.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "شكر! اشتريتها أمس.",
 			"Egyptian Arabic Audio": "eca-0600-2.mp3",
 			"Standard Arabic Audio": "msa-0600-2.mp3"
 		},
@@ -31,7 +31,7 @@
 			"English": "Have you worn it yet?",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هل ترتديه حتى الآن؟",
 			"Egyptian Arabic Audio": "eca-0600-3.mp3",
 			"Standard Arabic Audio": "msa-0600-3.mp3"
 		},
@@ -41,7 +41,7 @@
 			"English": "No, I have to accessorize it first!",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لا، لا بد لي من أتسسوريز ذلك أولا!",
 			"Egyptian Arabic Audio": "eca-0600-4.mp3",
 			"Standard Arabic Audio": "msa-0600-4.mp3"
 		},
@@ -51,7 +51,7 @@
 			"English": "Did you buy everything you needed?",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هل اشتريت كل ما تحتاجه؟",
 			"Egyptian Arabic Audio": "eca-0600-5.mp3",
 			"Standard Arabic Audio": "msa-0600-5.mp3"
 		},
@@ -61,7 +61,7 @@
 			"English": "Yep! I have a matching belt, a purse, and shoes now!",
 			"Word Count": 11,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "نعم! لدي حزام مطابقة، محفظة، والأحذية الآن!",
 			"Egyptian Arabic Audio": "eca-0600-6.mp3",
 			"Standard Arabic Audio": "msa-0600-6.mp3"
 		},
@@ -71,7 +71,7 @@
 			"English": "Well, put it on so we can see it!",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "حسنا، وضعه على ذلك يمكننا أن نرى ذلك!",
 			"Egyptian Arabic Audio": "eca-0600-7.mp3",
 			"Standard Arabic Audio": "msa-0600-7.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "What do you think?",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ما رأيك؟",
 			"Egyptian Arabic Audio": "eca-0600-8.mp3",
 			"Standard Arabic Audio": "msa-0600-8.mp3"
 		},
@@ -91,7 +91,7 @@
 			"English": "It looks nice on you!",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يبدو لطيفا على لك!",
 			"Egyptian Arabic Audio": "eca-0600-9.mp3",
 			"Standard Arabic Audio": "msa-0600-9.mp3"
 		},
@@ -101,7 +101,7 @@
 			"English": "Are you sure it doesn't make me look fat?",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هل أنت متأكد من أنها لا تجعلني تبدو الدهون؟",
 			"Egyptian Arabic Audio": "eca-0600-10.mp3",
 			"Standard Arabic Audio": "msa-0600-10.mp3"
 		},
@@ -111,7 +111,7 @@
 			"English": "No way! It totally flatters your figure.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لا يمكن! فإنه يملأ تماما الرقم الخاص بك.",
 			"Egyptian Arabic Audio": "eca-0600-11.mp3",
 			"Standard Arabic Audio": "msa-0600-11.mp3"
 		},
@@ -121,7 +121,7 @@
 			"English": "Thanks! I hope my boyfriend likes it, too.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "شكر! آمل أن صديقي يحب ذلك أيضا.",
 			"Egyptian Arabic Audio": "eca-0600-12.mp3",
 			"Standard Arabic Audio": "msa-0600-12.mp3"
 		}

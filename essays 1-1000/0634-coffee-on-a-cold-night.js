@@ -9,7 +9,7 @@
 			"English": "It was a cold night.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كانت ليلة باردة.",
 			"Egyptian Arabic Audio": "eca-0634-1.mp3",
 			"Standard Arabic Audio": "msa-0634-1.mp3"
 		},
@@ -18,7 +18,7 @@
 			"English": "The moon was bright and round.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وكان القمر مشرق وجولة.",
 			"Egyptian Arabic Audio": "eca-0634-2.mp3",
 			"Standard Arabic Audio": "msa-0634-2.mp3"
 		},
@@ -27,7 +27,7 @@
 			"English": "The wind blew cold through the window.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "الرياح فجر الباردة من خلال النافذة.",
 			"Egyptian Arabic Audio": "eca-0634-3.mp3",
 			"Standard Arabic Audio": "msa-0634-3.mp3"
 		},
@@ -36,7 +36,7 @@
 			"English": "Jim got up from his couch and closed it.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "استيقظ جيم من أرائه وأغلقها.",
 			"Egyptian Arabic Audio": "eca-0634-4.mp3",
 			"Standard Arabic Audio": "msa-0634-4.mp3"
 		},
@@ -45,7 +45,7 @@
 			"English": "Jim was shivering because it was cold.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كان جيم يرتجف لأنه كان باردا.",
 			"Egyptian Arabic Audio": "eca-0634-5.mp3",
 			"Standard Arabic Audio": "msa-0634-5.mp3"
 		},
@@ -54,7 +54,7 @@
 			"English": "He rubbed his hands together.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "فرك يديه معا.",
 			"Egyptian Arabic Audio": "eca-0634-6.mp3",
 			"Standard Arabic Audio": "msa-0634-6.mp3"
 		},
@@ -63,7 +63,7 @@
 			"English": "Jim went to the kitchen.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ذهب جيم إلى المطبخ.",
 			"Egyptian Arabic Audio": "eca-0634-7.mp3",
 			"Standard Arabic Audio": "msa-0634-7.mp3"
 		},
@@ -72,7 +72,7 @@
 			"English": "He wanted to make coffee.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أراد أن يجعل القهوة.",
 			"Egyptian Arabic Audio": "eca-0634-8.mp3",
 			"Standard Arabic Audio": "msa-0634-8.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "He opened his cabinet.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وفتح حكومته.",
 			"Egyptian Arabic Audio": "eca-0634-9.mp3",
 			"Standard Arabic Audio": "msa-0634-9.mp3"
 		},
@@ -90,7 +90,7 @@
 			"English": "He grabbed the can of coffee beans.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أمسك علبة القهوة.",
 			"Egyptian Arabic Audio": "eca-0634-10.mp3",
 			"Standard Arabic Audio": "msa-0634-10.mp3"
 		},
@@ -99,7 +99,7 @@
 			"English": "He opened the lid.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "فتح الغطاء.",
 			"Egyptian Arabic Audio": "eca-0634-11.mp3",
 			"Standard Arabic Audio": "msa-0634-11.mp3"
 		},
@@ -108,7 +108,7 @@
 			"English": "He held the can up to his nose.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وقال انه عقد العلبة حتى أنفه.",
 			"Egyptian Arabic Audio": "eca-0634-12.mp3",
 			"Standard Arabic Audio": "msa-0634-12.mp3"
 		},
@@ -117,7 +117,7 @@
 			"English": "He took a deep breath.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أخذ نفسا عميقا.",
 			"Egyptian Arabic Audio": "eca-0634-13.mp3",
 			"Standard Arabic Audio": "msa-0634-13.mp3"
 		},
@@ -126,7 +126,7 @@
 			"English": "It smelled like fresh coffee beans.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انها رائحة مثل حبوب البن الطازجة.",
 			"Egyptian Arabic Audio": "eca-0634-14.mp3",
 			"Standard Arabic Audio": "msa-0634-14.mp3"
 		},
@@ -135,7 +135,7 @@
 			"English": "Jim loved the smell of coffee.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أحب جيم رائحة القهوة.",
 			"Egyptian Arabic Audio": "eca-0634-15.mp3",
 			"Standard Arabic Audio": "msa-0634-15.mp3"
 		},
@@ -144,7 +144,7 @@
 			"English": "He loved drinking coffee more.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كان يحب شرب القهوة أكثر.",
 			"Egyptian Arabic Audio": "eca-0634-16.mp3",
 			"Standard Arabic Audio": "msa-0634-16.mp3"
 		},
@@ -153,7 +153,7 @@
 			"English": "He poured the beans into the coffee maker.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "سكب الفاصوليا في صانع القهوة.",
 			"Egyptian Arabic Audio": "eca-0634-17.mp3",
 			"Standard Arabic Audio": "msa-0634-17.mp3"
 		},
@@ -162,7 +162,7 @@
 			"English": "He grabbed a pitcher and put it in under the machine.",
 			"Word Count": 11,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أمسك جرة ووضعها تحت الجهاز.",
 			"Egyptian Arabic Audio": "eca-0634-18.mp3",
 			"Standard Arabic Audio": "msa-0634-18.mp3"
 		},
@@ -171,7 +171,7 @@
 			"English": "He pressed a button and it started brewing.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ضغط على زر وبدأت تختمر.",
 			"Egyptian Arabic Audio": "eca-0634-19.mp3",
 			"Standard Arabic Audio": "msa-0634-19.mp3"
 		},
@@ -180,7 +180,7 @@
 			"English": "Jim started shivering again.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "بدأ جيم يرتجف مرة أخرى.",
 			"Egyptian Arabic Audio": "eca-0634-20.mp3",
 			"Standard Arabic Audio": "msa-0634-20.mp3"
 		},
@@ -189,7 +189,7 @@
 			"English": "He moved around to warm his body.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انتقل نحو تدفئة جسده.",
 			"Egyptian Arabic Audio": "eca-0634-21.mp3",
 			"Standard Arabic Audio": "msa-0634-21.mp3"
 		},
@@ -198,7 +198,7 @@
 			"English": "The machine took fifteen minutes to finish.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "استغرق الجهاز خمسة عشر دقيقة لإنهاء.",
 			"Egyptian Arabic Audio": "eca-0634-22.mp3",
 			"Standard Arabic Audio": "msa-0634-22.mp3"
 		},
@@ -207,7 +207,7 @@
 			"English": "Jim poured the coffee into a mug.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "جيم سكب القهوة في القدح.",
 			"Egyptian Arabic Audio": "eca-0634-23.mp3",
 			"Standard Arabic Audio": "msa-0634-23.mp3"
 		},
@@ -216,7 +216,7 @@
 			"English": "He drank it all.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "شرب كل شيء.",
 			"Egyptian Arabic Audio": "eca-0634-24.mp3",
 			"Standard Arabic Audio": "msa-0634-24.mp3"
 		},
@@ -225,7 +225,7 @@
 			"English": "The coffee warmed his body.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "قام البن بتجفيف جسده.",
 			"Egyptian Arabic Audio": "eca-0634-25.mp3",
 			"Standard Arabic Audio": "msa-0634-25.mp3"
 		},
@@ -234,7 +234,7 @@
 			"English": "He stopped shivering.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "توقف عن الارتجاف.",
 			"Egyptian Arabic Audio": "eca-0634-26.mp3",
 			"Standard Arabic Audio": "msa-0634-26.mp3"
 		}

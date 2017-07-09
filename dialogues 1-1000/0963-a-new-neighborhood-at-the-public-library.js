@@ -11,7 +11,7 @@
 			"English": "Hey, this is a nice library.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "مهلا، هذا هو مكتبة لطيفة.",
 			"Egyptian Arabic Audio": "eca-0963-1.mp3",
 			"Standard Arabic Audio": "msa-0963-1.mp3"
 		},
@@ -21,7 +21,7 @@
 			"English": "It is. I didn't expect this.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنه. لم أكن أتوقع هذا.",
 			"Egyptian Arabic Audio": "eca-0963-2.mp3",
 			"Standard Arabic Audio": "msa-0963-2.mp3"
 		},
@@ -31,7 +31,7 @@
 			"English": "It doesn't look like much from the outside.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انها لا تبدو مثل الكثير من الخارج.",
 			"Egyptian Arabic Audio": "eca-0963-3.mp3",
 			"Standard Arabic Audio": "msa-0963-3.mp3"
 		},
@@ -41,7 +41,7 @@
 			"English": "Didn't you know you can't tell a book by its cover?",
 			"Word Count": 11,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ألم تعلم أنك لا تستطيع أن تخبر كتابا بغطائه؟",
 			"Egyptian Arabic Audio": "eca-0963-4.mp3",
 			"Standard Arabic Audio": "msa-0963-4.mp3"
 		},
@@ -51,7 +51,7 @@
 			"English": "That's funny, babe.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هذا مضحك، فاتنة.",
 			"Egyptian Arabic Audio": "eca-0963-5.mp3",
 			"Standard Arabic Audio": "msa-0963-5.mp3"
 		},
@@ -61,7 +61,7 @@
 			"English": "Anyway, we're going to need to get new library cards.",
 			"Word Count": 10,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "على أي حال، سنحتاج إلى الحصول على بطاقات مكتبة جديدة.",
 			"Egyptian Arabic Audio": "eca-0963-6.mp3",
 			"Standard Arabic Audio": "msa-0963-6.mp3"
 		},
@@ -71,7 +71,7 @@
 			"English": "I'll go ask about it.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "سأذهب يسأل عن ذلك.",
 			"Egyptian Arabic Audio": "eca-0963-7.mp3",
 			"Standard Arabic Audio": "msa-0963-7.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "Okay, I'm going to check the place out.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "حسنا، أنا ذاهب للتحقق من مكان بها.",
 			"Egyptian Arabic Audio": "eca-0963-8.mp3",
 			"Standard Arabic Audio": "msa-0963-8.mp3"
 		},
@@ -91,7 +91,7 @@
 			"English": "I went ahead and applied for a card. You need to do the same.",
 			"Word Count": 14,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ذهبت قدما وتقدم بطلب للحصول على بطاقة. ما عليك القيام به هو نفسه.",
 			"Egyptian Arabic Audio": "eca-0963-9.mp3",
 			"Standard Arabic Audio": "msa-0963-9.mp3"
 		},
@@ -101,7 +101,7 @@
 			"English": "I will right now, but look at this exhibit.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنا الآن، ولكن ننظر في هذا المعرض.",
 			"Egyptian Arabic Audio": "eca-0963-10.mp3",
 			"Standard Arabic Audio": "msa-0963-10.mp3"
 		},
@@ -111,7 +111,7 @@
 			"English": "Wow, it's beautiful. What is it?",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "نجاح باهر، انها جميلة. ما هذا؟",
 			"Egyptian Arabic Audio": "eca-0963-11.mp3",
 			"Standard Arabic Audio": "msa-0963-11.mp3"
 		},
@@ -121,7 +121,7 @@
 			"English": "I'm not sure, but I'm going to find out.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لست متأكدا، ولكن أنا ذاهب لمعرفة ذلك.",
 			"Egyptian Arabic Audio": "eca-0963-12.mp3",
 			"Standard Arabic Audio": "msa-0963-12.mp3"
 		}

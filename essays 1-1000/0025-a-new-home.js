@@ -9,7 +9,7 @@
 			"English": "He moves to a new city.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انه ينتقل الى مدينة جديدة.",
 			"Egyptian Arabic Audio": "eca-0025-1.mp3",
 			"Standard Arabic Audio": "msa-0025-1.mp3"
 		},
@@ -18,7 +18,7 @@
 			"English": "There are many buildings.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هناك العديد من المباني.",
 			"Egyptian Arabic Audio": "eca-0025-2.mp3",
 			"Standard Arabic Audio": "msa-0025-2.mp3"
 		},
@@ -27,7 +27,7 @@
 			"English": "There are a lot of people walking.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هناك الكثير من الناس يسيرون.",
 			"Egyptian Arabic Audio": "eca-0025-3.mp3",
 			"Standard Arabic Audio": "msa-0025-3.mp3"
 		},
@@ -36,7 +36,7 @@
 			"English": "There are many taxis.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هناك العديد من سيارات الأجرة.",
 			"Egyptian Arabic Audio": "eca-0025-4.mp3",
 			"Standard Arabic Audio": "msa-0025-4.mp3"
 		},
@@ -45,7 +45,7 @@
 			"English": "He feels lonely.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انه يشعر بالوحدة.",
 			"Egyptian Arabic Audio": "eca-0025-5.mp3",
 			"Standard Arabic Audio": "msa-0025-5.mp3"
 		},
@@ -54,7 +54,7 @@
 			"English": "Everyone acts so different here.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كل شخص يعمل مختلفا هنا.",
 			"Egyptian Arabic Audio": "eca-0025-6.mp3",
 			"Standard Arabic Audio": "msa-0025-6.mp3"
 		},
@@ -63,7 +63,7 @@
 			"English": "He goes to his new school.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يذهب إلى مدرسته الجديدة.",
 			"Egyptian Arabic Audio": "eca-0025-7.mp3",
 			"Standard Arabic Audio": "msa-0025-7.mp3"
 		},
@@ -72,7 +72,7 @@
 			"English": "He sees a friendly looking person.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يرى شخص ودود يبحث.",
 			"Egyptian Arabic Audio": "eca-0025-8.mp3",
 			"Standard Arabic Audio": "msa-0025-8.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "He asks him to show him around.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ويطلب منه أن يراه.",
 			"Egyptian Arabic Audio": "eca-0025-9.mp3",
 			"Standard Arabic Audio": "msa-0025-9.mp3"
 		}

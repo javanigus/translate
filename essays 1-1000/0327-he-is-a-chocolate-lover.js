@@ -9,7 +9,7 @@
 			"English": "She loves chocolate.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "تحب الشوكولاته.",
 			"Egyptian Arabic Audio": "eca-0327-1.mp3",
 			"Standard Arabic Audio": "msa-0327-1.mp3"
 		},
@@ -18,7 +18,7 @@
 			"English": "She loves milk chocolate.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "تحب الشوكولاته الحليب.",
 			"Egyptian Arabic Audio": "eca-0327-2.mp3",
 			"Standard Arabic Audio": "msa-0327-2.mp3"
 		},
@@ -27,7 +27,7 @@
 			"English": "She loves dark chocolate.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "تحب الشوكولاته الداكنة.",
 			"Egyptian Arabic Audio": "eca-0327-3.mp3",
 			"Standard Arabic Audio": "msa-0327-3.mp3"
 		},
@@ -36,7 +36,7 @@
 			"English": "She eats chocolate candy bars.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انها تأكل الشوكولاته الحلوى الحانات.",
 			"Egyptian Arabic Audio": "eca-0327-4.mp3",
 			"Standard Arabic Audio": "msa-0327-4.mp3"
 		},
@@ -45,7 +45,7 @@
 			"English": "She eats chocolate fudge.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انها تأكل حلوى الشوكولاته.",
 			"Egyptian Arabic Audio": "eca-0327-5.mp3",
 			"Standard Arabic Audio": "msa-0327-5.mp3"
 		},
@@ -54,7 +54,7 @@
 			"English": "She eats chocolate chip cookies.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انها تأكل الكوكيز رقاقة الشوكولاته.",
 			"Egyptian Arabic Audio": "eca-0327-6.mp3",
 			"Standard Arabic Audio": "msa-0327-6.mp3"
 		},
@@ -63,7 +63,7 @@
 			"English": "She eats chocolate cake.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انها تأكل كعكة الشوكولاته.",
 			"Egyptian Arabic Audio": "eca-0327-7.mp3",
 			"Standard Arabic Audio": "msa-0327-7.mp3"
 		},
@@ -72,7 +72,7 @@
 			"English": "She eats chocolate cupcakes.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انها تأكل الكعك الشوكولاته.",
 			"Egyptian Arabic Audio": "eca-0327-8.mp3",
 			"Standard Arabic Audio": "msa-0327-8.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "She eats chocolate ice cream.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انها تأكل الشوكولاته الآيس كريم.",
 			"Egyptian Arabic Audio": "eca-0327-9.mp3",
 			"Standard Arabic Audio": "msa-0327-9.mp3"
 		},
@@ -90,7 +90,7 @@
 			"English": "She eats chocolate pudding.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انها تأكل الحلوى الشوكولاته.",
 			"Egyptian Arabic Audio": "eca-0327-10.mp3",
 			"Standard Arabic Audio": "msa-0327-10.mp3"
 		},
@@ -99,7 +99,7 @@
 			"English": "She drinks chocolate milk.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وهي تشرب حليب الشوكولاتة.",
 			"Egyptian Arabic Audio": "eca-0327-11.mp3",
 			"Standard Arabic Audio": "msa-0327-11.mp3"
 		},
@@ -108,7 +108,7 @@
 			"English": "She eats chocolate every day.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انها تأكل الشوكولاته كل يوم.",
 			"Egyptian Arabic Audio": "eca-0327-12.mp3",
 			"Standard Arabic Audio": "msa-0327-12.mp3"
 		},
@@ -117,7 +117,7 @@
 			"English": "Chocolate is the best!.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "الشوكولاته هو أفضل !.",
 			"Egyptian Arabic Audio": "eca-0327-13.mp3",
 			"Standard Arabic Audio": "msa-0327-13.mp3"
 		}

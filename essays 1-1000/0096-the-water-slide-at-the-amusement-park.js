@@ -9,7 +9,7 @@
 			"English": "Betty and Brian go to the amusement park.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "بيتي وبريان الذهاب إلى متنزه.",
 			"Egyptian Arabic Audio": "eca-0096-1.mp3",
 			"Standard Arabic Audio": "msa-0096-1.mp3"
 		},
@@ -18,7 +18,7 @@
 			"English": "It is hot and sunny.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "الجو حار ومشمس.",
 			"Egyptian Arabic Audio": "eca-0096-2.mp3",
 			"Standard Arabic Audio": "msa-0096-2.mp3"
 		},
@@ -27,7 +27,7 @@
 			"English": "They want to cool off.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انهم يريدون أن يبرد.",
 			"Egyptian Arabic Audio": "eca-0096-3.mp3",
 			"Standard Arabic Audio": "msa-0096-3.mp3"
 		},
@@ -36,7 +36,7 @@
 			"English": "They see a water slide.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انهم يرون انزلاق المياه.",
 			"Egyptian Arabic Audio": "eca-0096-4.mp3",
 			"Standard Arabic Audio": "msa-0096-4.mp3"
 		},
@@ -45,7 +45,7 @@
 			"English": "There is a long line.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هناك خط طويل.",
 			"Egyptian Arabic Audio": "eca-0096-5.mp3",
 			"Standard Arabic Audio": "msa-0096-5.mp3"
 		},
@@ -54,7 +54,7 @@
 			"English": "Everyone wants to get wet.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "الجميع يريد أن الرطب.",
 			"Egyptian Arabic Audio": "eca-0096-6.mp3",
 			"Standard Arabic Audio": "msa-0096-6.mp3"
 		},
@@ -63,7 +63,7 @@
 			"English": "Betty and Brian finally reach the front of the line.",
 			"Word Count": 10,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "بيتي وبريان تصل أخيرا إلى الأمام من الخط.",
 			"Egyptian Arabic Audio": "eca-0096-7.mp3",
 			"Standard Arabic Audio": "msa-0096-7.mp3"
 		},
@@ -72,7 +72,7 @@
 			"English": "They get into their bathing suits.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يدخلون إلى بدلات السباحة الخاصة بهم.",
 			"Egyptian Arabic Audio": "eca-0096-8.mp3",
 			"Standard Arabic Audio": "msa-0096-8.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "They go down the slide.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يذهبون إلى أسفل الشريحة.",
 			"Egyptian Arabic Audio": "eca-0096-9.mp3",
 			"Standard Arabic Audio": "msa-0096-9.mp3"
 		},
@@ -90,7 +90,7 @@
 			"English": "They are completely wet.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "فهي رطبة تماما.",
 			"Egyptian Arabic Audio": "eca-0096-10.mp3",
 			"Standard Arabic Audio": "msa-0096-10.mp3"
 		}

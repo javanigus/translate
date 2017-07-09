@@ -11,7 +11,7 @@
 			"English": "Is this a clean restaurant?",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هل هذا مطعم نظيف؟",
 			"Egyptian Arabic Audio": "eca-0364-1.mp3",
 			"Standard Arabic Audio": "msa-0364-1.mp3"
 		},
@@ -21,7 +21,7 @@
 			"English": "Well, the tables and chairs look okay.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "حسنا، الجداول والكراسي تبدو بخير.",
 			"Egyptian Arabic Audio": "eca-0364-2.mp3",
 			"Standard Arabic Audio": "msa-0364-2.mp3"
 		},
@@ -31,7 +31,7 @@
 			"English": "Okay, let's sit down.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "حسنا، دعونا نجلس.",
 			"Egyptian Arabic Audio": "eca-0364-3.mp3",
 			"Standard Arabic Audio": "msa-0364-3.mp3"
 		},
@@ -41,7 +41,7 @@
 			"English": "Check out the silverware.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "تحقق من الفضيات.",
 			"Egyptian Arabic Audio": "eca-0364-4.mp3",
 			"Standard Arabic Audio": "msa-0364-4.mp3"
 		},
@@ -51,7 +51,7 @@
 			"English": "It passes inspection.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "فإنه يمر التفتيش.",
 			"Egyptian Arabic Audio": "eca-0364-5.mp3",
 			"Standard Arabic Audio": "msa-0364-5.mp3"
 		},
@@ -61,7 +61,7 @@
 			"English": "Here comes the waiter. See if his hands and nails are clean.",
 			"Word Count": 12,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هنا يأتي النادل. معرفة ما إذا كان يديه والأظافر نظيفة.",
 			"Egyptian Arabic Audio": "eca-0364-6.mp3",
 			"Standard Arabic Audio": "msa-0364-6.mp3"
 		},
@@ -71,7 +71,7 @@
 			"English": "Well, the waiter looked clean, so I guess it's okay to eat here.",
 			"Word Count": 13,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "حسنا، بدا النادل نظيفة، لذلك أعتقد أنه من بخير لتناول الطعام هنا.",
 			"Egyptian Arabic Audio": "eca-0364-7.mp3",
 			"Standard Arabic Audio": "msa-0364-7.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "You're forgetting about the bathroom.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كنت ننسى حول الحمام.",
 			"Egyptian Arabic Audio": "eca-0364-8.mp3",
 			"Standard Arabic Audio": "msa-0364-8.mp3"
 		},
@@ -91,7 +91,7 @@
 			"English": "I'm going to just hope that the bathroom is clean.",
 			"Word Count": 10,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "سوف أتمنى أن يكون الحمام نظيفا.",
 			"Egyptian Arabic Audio": "eca-0364-9.mp3",
 			"Standard Arabic Audio": "msa-0364-9.mp3"
 		},
@@ -101,7 +101,7 @@
 			"English": "You're not going to examine it before we order dinner?",
 			"Word Count": 10,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنت لن تدرس ذلك قبل أن تأمر العشاء؟",
 			"Egyptian Arabic Audio": "eca-0364-10.mp3",
 			"Standard Arabic Audio": "msa-0364-10.mp3"
 		},
@@ -111,7 +111,7 @@
 			"English": "No, I'd rather not find out that it's dirty, because I'm pretty hungry right now.",
 			"Word Count": 15,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لا، أود أن لا أعرف أنه قذر، لأنني جائع جدا الآن.",
 			"Egyptian Arabic Audio": "eca-0364-11.mp3",
 			"Standard Arabic Audio": "msa-0364-11.mp3"
 		},
@@ -121,7 +121,7 @@
 			"English": "Me, too. Let's forget about germs and focus on food.",
 			"Word Count": 10,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنا أيضًا. دعونا ننسى الجراثيم والتركيز على الغذاء.",
 			"Egyptian Arabic Audio": "eca-0364-12.mp3",
 			"Standard Arabic Audio": "msa-0364-12.mp3"
 		}

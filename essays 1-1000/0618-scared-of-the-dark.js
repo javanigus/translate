@@ -9,7 +9,7 @@
 			"English": "He finishes watching a scary movie.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انه ينتهي مشاهدة فيلم مخيف.",
 			"Egyptian Arabic Audio": "eca-0618-1.mp3",
 			"Standard Arabic Audio": "msa-0618-1.mp3"
 		},
@@ -18,7 +18,7 @@
 			"English": "His parents tell him to go to sleep.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "والده يقول له أن يذهب إلى النوم.",
 			"Egyptian Arabic Audio": "eca-0618-2.mp3",
 			"Standard Arabic Audio": "msa-0618-2.mp3"
 		},
@@ -27,7 +27,7 @@
 			"English": "He goes into his bed.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يذهب إلى سريره.",
 			"Egyptian Arabic Audio": "eca-0618-3.mp3",
 			"Standard Arabic Audio": "msa-0618-3.mp3"
 		},
@@ -36,7 +36,7 @@
 			"English": "He turns off the lights.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انه يطفئ الأضواء.",
 			"Egyptian Arabic Audio": "eca-0618-4.mp3",
 			"Standard Arabic Audio": "msa-0618-4.mp3"
 		},
@@ -45,7 +45,7 @@
 			"English": "He cannot fall asleep.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وقال انه لا يمكن أن تغفو.",
 			"Egyptian Arabic Audio": "eca-0618-5.mp3",
 			"Standard Arabic Audio": "msa-0618-5.mp3"
 		},
@@ -54,7 +54,7 @@
 			"English": "He keeps thinking about the movie.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وقال انه يحتفظ التفكير في الفيلم.",
 			"Egyptian Arabic Audio": "eca-0618-6.mp3",
 			"Standard Arabic Audio": "msa-0618-6.mp3"
 		},
@@ -63,7 +63,7 @@
 			"English": "He is scared of the dark.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انه خائف من الظلام.",
 			"Egyptian Arabic Audio": "eca-0618-7.mp3",
 			"Standard Arabic Audio": "msa-0618-7.mp3"
 		},
@@ -72,7 +72,7 @@
 			"English": "What if a ghost attacks him? He goes to his parents' room.",
 			"Word Count": 12,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ماذا لو شبح له هجمات؟ يذهب إلى غرفة والديه.",
 			"Egyptian Arabic Audio": "eca-0618-8.mp3",
 			"Standard Arabic Audio": "msa-0618-8.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "He sleeps there.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ينام هناك.",
 			"Egyptian Arabic Audio": "eca-0618-9.mp3",
 			"Standard Arabic Audio": "msa-0618-9.mp3"
 		}

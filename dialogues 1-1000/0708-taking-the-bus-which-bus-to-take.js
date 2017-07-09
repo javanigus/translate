@@ -11,7 +11,7 @@
 			"English": "Excuse me, sir. Care to help me?",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "اعذرني سيدي. الرعاية لمساعدتي؟",
 			"Egyptian Arabic Audio": "eca-0708-1.mp3",
 			"Standard Arabic Audio": "msa-0708-1.mp3"
 		},
@@ -21,7 +21,7 @@
 			"English": "What can I do for you?",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ما الذي يمكنني أن أفعله من أجلك؟",
 			"Egyptian Arabic Audio": "eca-0708-2.mp3",
 			"Standard Arabic Audio": "msa-0708-2.mp3"
 		},
@@ -31,7 +31,7 @@
 			"English": "I'm trying to make way back home, and I'm not sure what bus to take.",
 			"Word Count": 15,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أحاول جعل الطريق إلى الوطن، وأنا لست متأكدا ما الحافلة لاتخاذ.",
 			"Egyptian Arabic Audio": "eca-0708-3.mp3",
 			"Standard Arabic Audio": "msa-0708-3.mp3"
 		},
@@ -41,7 +41,7 @@
 			"English": "Where do you live?",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أين تعيش؟",
 			"Egyptian Arabic Audio": "eca-0708-4.mp3",
 			"Standard Arabic Audio": "msa-0708-4.mp3"
 		},
@@ -51,7 +51,7 @@
 			"English": "I live in the city of Bell.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أعيش في مدينة بيل.",
 			"Egyptian Arabic Audio": "eca-0708-5.mp3",
 			"Standard Arabic Audio": "msa-0708-5.mp3"
 		},
@@ -61,7 +61,7 @@
 			"English": "I've never heard of that city.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لم أسمع أبدا عن تلك المدينة.",
 			"Egyptian Arabic Audio": "eca-0708-6.mp3",
 			"Standard Arabic Audio": "msa-0708-6.mp3"
 		},
@@ -71,7 +71,7 @@
 			"English": "I'm not surprised you haven't. It's not a big city.",
 			"Word Count": 10,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنا لست مندهشا لم يكن لديك. انها ليست مدينة كبيرة.",
 			"Egyptian Arabic Audio": "eca-0708-7.mp3",
 			"Standard Arabic Audio": "msa-0708-7.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "What are the surrounding cities?",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ما هي المدن المحيطة؟",
 			"Egyptian Arabic Audio": "eca-0708-8.mp3",
 			"Standard Arabic Audio": "msa-0708-8.mp3"
 		},
@@ -91,7 +91,7 @@
 			"English": "They're Maywood, Huntington Park, and Downey.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انهم مايوود، هنتنغتون بارك، و داوني.",
 			"Egyptian Arabic Audio": "eca-0708-9.mp3",
 			"Standard Arabic Audio": "msa-0708-9.mp3"
 		},
@@ -101,7 +101,7 @@
 			"English": "I'm familiar with the city of Downey.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنا على دراية مدينة داوني.",
 			"Egyptian Arabic Audio": "eca-0708-10.mp3",
 			"Standard Arabic Audio": "msa-0708-10.mp3"
 		},
@@ -111,7 +111,7 @@
 			"English": "Would you know how to get there by bus?",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هل تعرف كيفية الوصول إلى هناك عن طريق الحافلة؟",
 			"Egyptian Arabic Audio": "eca-0708-11.mp3",
 			"Standard Arabic Audio": "msa-0708-11.mp3"
 		},
@@ -121,7 +121,7 @@
 			"English": "Yes. Take 764 bus northbound.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "نعم فعلا. تأخذ 764 حافلة شمالا.",
 			"Egyptian Arabic Audio": "eca-0708-12.mp3",
 			"Standard Arabic Audio": "msa-0708-12.mp3"
 		},
@@ -131,7 +131,7 @@
 			"English": "Thank you. I'll find my home from there.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "شكرا. سأجد بيتي من هناك.",
 			"Egyptian Arabic Audio": "eca-0708-13.mp3",
 			"Standard Arabic Audio": "msa-0708-13.mp3"
 		},
@@ -141,7 +141,7 @@
 			"English": "You're welcome. Good luck, and take care.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "على الرحب و السعة. حظا سعيدا، ورعاية.",
 			"Egyptian Arabic Audio": "eca-0708-14.mp3",
 			"Standard Arabic Audio": "msa-0708-14.mp3"
 		}

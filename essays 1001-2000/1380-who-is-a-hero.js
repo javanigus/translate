@@ -9,7 +9,7 @@
 			"English": "Soldiers go to war.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "الجنود يذهبون إلى الحرب.",
 			"Egyptian Arabic Audio": "eca-1380-1.mp3",
 			"Standard Arabic Audio": "msa-1380-1.mp3"
 		},
@@ -18,7 +18,7 @@
 			"English": "They fight the enemy.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يقاتلون العدو.",
 			"Egyptian Arabic Audio": "eca-1380-2.mp3",
 			"Standard Arabic Audio": "msa-1380-2.mp3"
 		},
@@ -27,7 +27,7 @@
 			"English": "That is their job.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هذا هو عملهم.",
 			"Egyptian Arabic Audio": "eca-1380-3.mp3",
 			"Standard Arabic Audio": "msa-1380-3.mp3"
 		},
@@ -36,7 +36,7 @@
 			"English": "Firemen go to fires.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "رجال الاطفاء يذهبون الى الحرائق.",
 			"Egyptian Arabic Audio": "eca-1380-4.mp3",
 			"Standard Arabic Audio": "msa-1380-4.mp3"
 		},
@@ -45,7 +45,7 @@
 			"English": "They rescue people in burning buildings.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "إنقاذ الناس في حرق المباني.",
 			"Egyptian Arabic Audio": "eca-1380-5.mp3",
 			"Standard Arabic Audio": "msa-1380-5.mp3"
 		},
@@ -54,7 +54,7 @@
 			"English": "That is their job.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هذا هو عملهم.",
 			"Egyptian Arabic Audio": "eca-1380-6.mp3",
 			"Standard Arabic Audio": "msa-1380-6.mp3"
 		},
@@ -63,7 +63,7 @@
 			"English": "Policemen go after dangerous criminals.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "رجال الشرطة يذهبون بعد المجرمين الخطرين.",
 			"Egyptian Arabic Audio": "eca-1380-7.mp3",
 			"Standard Arabic Audio": "msa-1380-7.mp3"
 		},
@@ -72,7 +72,7 @@
 			"English": "They arrest dangerous criminals.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وهم يلقون القبض على المجرمين الخطرين.",
 			"Egyptian Arabic Audio": "eca-1380-8.mp3",
 			"Standard Arabic Audio": "msa-1380-8.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "That is their job.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هذا هو عملهم.",
 			"Egyptian Arabic Audio": "eca-1380-9.mp3",
 			"Standard Arabic Audio": "msa-1380-9.mp3"
 		},
@@ -90,7 +90,7 @@
 			"English": "Phil was driving home.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "فيل كان يقود المنزل.",
 			"Egyptian Arabic Audio": "eca-1380-10.mp3",
 			"Standard Arabic Audio": "msa-1380-10.mp3"
 		},
@@ -99,7 +99,7 @@
 			"English": "The car in front of him ran off the road.",
 			"Word Count": 10,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "السيارة أمامه ركض قبالة الطريق.",
 			"Egyptian Arabic Audio": "eca-1380-11.mp3",
 			"Standard Arabic Audio": "msa-1380-11.mp3"
 		},
@@ -108,7 +108,7 @@
 			"English": "Phil pulled over behind the car.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وسحب فيل خلف السيارة.",
 			"Egyptian Arabic Audio": "eca-1380-12.mp3",
 			"Standard Arabic Audio": "msa-1380-12.mp3"
 		},
@@ -117,7 +117,7 @@
 			"English": "He ran to the car.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ركض إلى السيارة.",
 			"Egyptian Arabic Audio": "eca-1380-13.mp3",
 			"Standard Arabic Audio": "msa-1380-13.mp3"
 		},
@@ -126,7 +126,7 @@
 			"English": "He smelled gasoline.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كان رائحة البنزين.",
 			"Egyptian Arabic Audio": "eca-1380-14.mp3",
 			"Standard Arabic Audio": "msa-1380-14.mp3"
 		},
@@ -135,7 +135,7 @@
 			"English": "He saw an old woman inside the car.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "رأى امرأة عجوز داخل السيارة.",
 			"Egyptian Arabic Audio": "eca-1380-15.mp3",
 			"Standard Arabic Audio": "msa-1380-15.mp3"
 		},
@@ -144,7 +144,7 @@
 			"English": "He pulled and pulled on the driver's door.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "سحب وسحب على باب السائق.",
 			"Egyptian Arabic Audio": "eca-1380-16.mp3",
 			"Standard Arabic Audio": "msa-1380-16.mp3"
 		},
@@ -153,7 +153,7 @@
 			"English": "It finally opened.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "افتتح أخيرا.",
 			"Egyptian Arabic Audio": "eca-1380-17.mp3",
 			"Standard Arabic Audio": "msa-1380-17.mp3"
 		},
@@ -162,7 +162,7 @@
 			"English": "He pulled her out of the car.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "سحبها من السيارة.",
 			"Egyptian Arabic Audio": "eca-1380-18.mp3",
 			"Standard Arabic Audio": "msa-1380-18.mp3"
 		},
@@ -171,7 +171,7 @@
 			"English": "He carried her toward his car.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "حملها نحو سيارته.",
 			"Egyptian Arabic Audio": "eca-1380-19.mp3",
 			"Standard Arabic Audio": "msa-1380-19.mp3"
 		},
@@ -180,7 +180,7 @@
 			"English": "Suddenly, her car exploded.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "فجأة انفجرت سيارتها.",
 			"Egyptian Arabic Audio": "eca-1380-20.mp3",
 			"Standard Arabic Audio": "msa-1380-20.mp3"
 		},
@@ -189,7 +189,7 @@
 			"English": "Metal flew through the air.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "حلقت المعادن عبر الهواء.",
 			"Egyptian Arabic Audio": "eca-1380-21.mp3",
 			"Standard Arabic Audio": "msa-1380-21.mp3"
 		},
@@ -198,7 +198,7 @@
 			"English": "Metal went into Phil's back.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ذهب المعدن إلى ظهر فيل.",
 			"Egyptian Arabic Audio": "eca-1380-22.mp3",
 			"Standard Arabic Audio": "msa-1380-22.mp3"
 		},
@@ -207,7 +207,7 @@
 			"English": "Phil fell to the ground.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "سقط فيل على الأرض.",
 			"Egyptian Arabic Audio": "eca-1380-23.mp3",
 			"Standard Arabic Audio": "msa-1380-23.mp3"
 		},
@@ -216,7 +216,7 @@
 			"English": "Ambulances took Phil and the old woman to the hospital.",
 			"Word Count": 10,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أخذت سيارات الإسعاف فيل والمرأة العجوز إلى المستشفى.",
 			"Egyptian Arabic Audio": "eca-1380-24.mp3",
 			"Standard Arabic Audio": "msa-1380-24.mp3"
 		},
@@ -225,7 +225,7 @@
 			"English": "Doctors operated on both of them.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يعمل الأطباء على كل منهما.",
 			"Egyptian Arabic Audio": "eca-1380-25.mp3",
 			"Standard Arabic Audio": "msa-1380-25.mp3"
 		},
@@ -234,7 +234,7 @@
 			"English": "They both survived.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كلاهما نجا.",
 			"Egyptian Arabic Audio": "eca-1380-26.mp3",
 			"Standard Arabic Audio": "msa-1380-26.mp3"
 		},
@@ -243,7 +243,7 @@
 			"English": "Phil said, \"I'm not a hero.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وقال فيل: &quot;لست بطلا.",
 			"Egyptian Arabic Audio": "eca-1380-27.mp3",
 			"Standard Arabic Audio": "msa-1380-27.mp3"
 		},
@@ -252,7 +252,7 @@
 			"English": "I did what anyone would do.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "فعلت ما يفعله أي شخص.",
 			"Egyptian Arabic Audio": "eca-1380-28.mp3",
 			"Standard Arabic Audio": "msa-1380-28.mp3"
 		},
@@ -261,7 +261,7 @@
 			"English": "\".",
 			"Word Count": 1,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "&quot;.",
 			"Egyptian Arabic Audio": "eca-1380-29.mp3",
 			"Standard Arabic Audio": "msa-1380-29.mp3"
 		}

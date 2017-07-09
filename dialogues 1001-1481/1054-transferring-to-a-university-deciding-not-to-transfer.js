@@ -11,7 +11,7 @@
 			"English": "Have you figured out where you want to transfer to?",
 			"Word Count": 10,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هل أحسبت المكان الذي تريد نقله إليه؟",
 			"Egyptian Arabic Audio": "eca-1054-1.mp3",
 			"Standard Arabic Audio": "msa-1054-1.mp3"
 		},
@@ -21,7 +21,7 @@
 			"English": "I can't think of where to go.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لا أستطيع التفكير في أين أذهب.",
 			"Egyptian Arabic Audio": "eca-1054-2.mp3",
 			"Standard Arabic Audio": "msa-1054-2.mp3"
 		},
@@ -31,7 +31,7 @@
 			"English": "Where would you like to go to school?",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أين تريد الذهاب إلى المدرسة؟",
 			"Egyptian Arabic Audio": "eca-1054-3.mp3",
 			"Standard Arabic Audio": "msa-1054-3.mp3"
 		},
@@ -41,7 +41,7 @@
 			"English": "I really don't know.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنا حقا لا أعرف.",
 			"Egyptian Arabic Audio": "eca-1054-4.mp3",
 			"Standard Arabic Audio": "msa-1054-4.mp3"
 		},
@@ -51,7 +51,7 @@
 			"English": "You can't think of anything?",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لا يمكنك التفكير في أي شيء؟",
 			"Egyptian Arabic Audio": "eca-1054-5.mp3",
 			"Standard Arabic Audio": "msa-1054-5.mp3"
 		},
@@ -61,7 +61,7 @@
 			"English": "I really like where I'm at now.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنا حقا أحب أين أنا الآن.",
 			"Egyptian Arabic Audio": "eca-1054-6.mp3",
 			"Standard Arabic Audio": "msa-1054-6.mp3"
 		},
@@ -71,7 +71,7 @@
 			"English": "So, why don't you just stay here?",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لذلك، لماذا لا مجرد البقاء هنا؟",
 			"Egyptian Arabic Audio": "eca-1054-7.mp3",
 			"Standard Arabic Audio": "msa-1054-7.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "That may be what I'm going to do.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "قد يكون هذا ما سأفعله.",
 			"Egyptian Arabic Audio": "eca-1054-8.mp3",
 			"Standard Arabic Audio": "msa-1054-8.mp3"
 		},
@@ -91,7 +91,7 @@
 			"English": "It's a perfectly good school.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انها مدرسة جيدة تماما.",
 			"Egyptian Arabic Audio": "eca-1054-9.mp3",
 			"Standard Arabic Audio": "msa-1054-9.mp3"
 		},
@@ -101,7 +101,7 @@
 			"English": "You're absolutely right.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنت محق تماما.",
 			"Egyptian Arabic Audio": "eca-1054-10.mp3",
 			"Standard Arabic Audio": "msa-1054-10.mp3"
 		},
@@ -111,7 +111,7 @@
 			"English": "Do you know what you're going to do now?",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هل تعرف ما الذي ستفعله الآن؟",
 			"Egyptian Arabic Audio": "eca-1054-11.mp3",
 			"Standard Arabic Audio": "msa-1054-11.mp3"
 		},
@@ -121,7 +121,7 @@
 			"English": "I'm just going to stay at PCC.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنا مجرد الذهاب إلى البقاء في يك.",
 			"Egyptian Arabic Audio": "eca-1054-12.mp3",
 			"Standard Arabic Audio": "msa-1054-12.mp3"
 		},
@@ -131,7 +131,7 @@
 			"English": "Do you know where you want to transfer to?",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هل تعرف أين تريد نقل إلى؟",
 			"Egyptian Arabic Audio": "eca-1054-14.mp3",
 			"Standard Arabic Audio": "msa-1054-14.mp3"
 		},
@@ -141,7 +141,7 @@
 			"English": "I don't have the slightest clue.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ليس لدي أدنى فكرة.",
 			"Egyptian Arabic Audio": "eca-1054-15.mp3",
 			"Standard Arabic Audio": "msa-1054-15.mp3"
 		},
@@ -151,7 +151,7 @@
 			"English": "What school would you like to go to?",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ما هي المدرسة التي تود الذهاب إليها؟",
 			"Egyptian Arabic Audio": "eca-1054-16.mp3",
 			"Standard Arabic Audio": "msa-1054-16.mp3"
 		},
@@ -161,7 +161,7 @@
 			"English": "I'm not sure.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لست متأكد.",
 			"Egyptian Arabic Audio": "eca-1054-17.mp3",
 			"Standard Arabic Audio": "msa-1054-17.mp3"
 		},
@@ -171,7 +171,7 @@
 			"English": "You honestly have no idea?",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لديك بصراحة أي فكرة؟",
 			"Egyptian Arabic Audio": "eca-1054-18.mp3",
 			"Standard Arabic Audio": "msa-1054-18.mp3"
 		},
@@ -181,7 +181,7 @@
 			"English": "PCC is perfectly fine for me.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يك هو على ما يرام تماما بالنسبة لي.",
 			"Egyptian Arabic Audio": "eca-1054-19.mp3",
 			"Standard Arabic Audio": "msa-1054-19.mp3"
 		},
@@ -191,7 +191,7 @@
 			"English": "You might as well stay here.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يمكنك أيضا البقاء هنا.",
 			"Egyptian Arabic Audio": "eca-1054-20.mp3",
 			"Standard Arabic Audio": "msa-1054-20.mp3"
 		},
@@ -201,7 +201,7 @@
 			"English": "That's not a bad idea.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هذه ليست فكرة سيئة.",
 			"Egyptian Arabic Audio": "eca-1054-21.mp3",
 			"Standard Arabic Audio": "msa-1054-21.mp3"
 		},
@@ -211,7 +211,7 @@
 			"English": "PCC is a wonderful institution.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يك هي مؤسسة رائعة.",
 			"Egyptian Arabic Audio": "eca-1054-22.mp3",
 			"Standard Arabic Audio": "msa-1054-22.mp3"
 		},
@@ -221,7 +221,7 @@
 			"English": "You have a point.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لديك نقطة.",
 			"Egyptian Arabic Audio": "eca-1054-23.mp3",
 			"Standard Arabic Audio": "msa-1054-23.mp3"
 		},
@@ -231,7 +231,7 @@
 			"English": "So, what are you going to do?",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ماذا ستفعل؟",
 			"Egyptian Arabic Audio": "eca-1054-24.mp3",
 			"Standard Arabic Audio": "msa-1054-24.mp3"
 		},
@@ -241,7 +241,7 @@
 			"English": "I'm just going to keep going to PCC.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنا فقط الذهاب إلى الذهاب إلى يك.",
 			"Egyptian Arabic Audio": "eca-1054-25.mp3",
 			"Standard Arabic Audio": "msa-1054-25.mp3"
 		},
@@ -251,7 +251,7 @@
 			"English": "Where are you planning on transferring to?",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أين تخططون للنقل؟",
 			"Egyptian Arabic Audio": "eca-1054-26.mp3",
 			"Standard Arabic Audio": "msa-1054-26.mp3"
 		},
@@ -261,7 +261,7 @@
 			"English": "I can't seem to make a decision.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لا يمكنني أن يبدو لاتخاذ قرار.",
 			"Egyptian Arabic Audio": "eca-1054-27.mp3",
 			"Standard Arabic Audio": "msa-1054-27.mp3"
 		},
@@ -271,7 +271,7 @@
 			"English": "Where do you want to go?",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أين تريد أن تذهب؟",
 			"Egyptian Arabic Audio": "eca-1054-28.mp3",
 			"Standard Arabic Audio": "msa-1054-28.mp3"
 		},
@@ -281,7 +281,7 @@
 			"English": "I honestly have no idea.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنا بصراحة ليس لدي فكرة.",
 			"Egyptian Arabic Audio": "eca-1054-29.mp3",
 			"Standard Arabic Audio": "msa-1054-29.mp3"
 		},
@@ -291,7 +291,7 @@
 			"English": "You haven't thought about it?",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لم تفكر في ذلك؟",
 			"Egyptian Arabic Audio": "eca-1054-30.mp3",
 			"Standard Arabic Audio": "msa-1054-30.mp3"
 		},
@@ -301,7 +301,7 @@
 			"English": "I like it here at PCC.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنا أحب ذلك هنا في يك.",
 			"Egyptian Arabic Audio": "eca-1054-31.mp3",
 			"Standard Arabic Audio": "msa-1054-31.mp3"
 		},
@@ -311,7 +311,7 @@
 			"English": "Why don't you just continue going to PCC?",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لماذا لا تستمر فقط في الذهاب إلى يك؟",
 			"Egyptian Arabic Audio": "eca-1054-32.mp3",
 			"Standard Arabic Audio": "msa-1054-32.mp3"
 		},
@@ -321,7 +321,7 @@
 			"English": "I like that idea.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أحب تلك الفكرة.",
 			"Egyptian Arabic Audio": "eca-1054-33.mp3",
 			"Standard Arabic Audio": "msa-1054-33.mp3"
 		},
@@ -331,7 +331,7 @@
 			"English": "It's a great school.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "إنها مدرسة رائعة.",
 			"Egyptian Arabic Audio": "eca-1054-34.mp3",
 			"Standard Arabic Audio": "msa-1054-34.mp3"
 		},
@@ -341,7 +341,7 @@
 			"English": "I completely agree.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنا أتفق تماما.",
 			"Egyptian Arabic Audio": "eca-1054-35.mp3",
 			"Standard Arabic Audio": "msa-1054-35.mp3"
 		},
@@ -351,7 +351,7 @@
 			"English": "So, have you made your decision yet?",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لذلك، هل اتخذت قرارك بعد؟",
 			"Egyptian Arabic Audio": "eca-1054-36.mp3",
 			"Standard Arabic Audio": "msa-1054-36.mp3"
 		},
@@ -361,7 +361,7 @@
 			"English": "I'm staying right where I'm at.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنا البقاء حيث أنا في.",
 			"Egyptian Arabic Audio": "eca-1054-37.mp3",
 			"Standard Arabic Audio": "msa-1054-37.mp3"
 		}

@@ -9,7 +9,7 @@
 			"English": "Brad was angry.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كان براد غاضبا.",
 			"Egyptian Arabic Audio": "eca-1305-1.mp3",
 			"Standard Arabic Audio": "msa-1305-1.mp3"
 		},
@@ -18,7 +18,7 @@
 			"English": "He was angry at the apartment building manager.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كان غاضبا في مدير مبنى الشقق.",
 			"Egyptian Arabic Audio": "eca-1305-2.mp3",
 			"Standard Arabic Audio": "msa-1305-2.mp3"
 		},
@@ -27,7 +27,7 @@
 			"English": "The apartment building manager had kicked him out.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وكان مدير مبنى الشقة قد طرده.",
 			"Egyptian Arabic Audio": "eca-1305-3.mp3",
 			"Standard Arabic Audio": "msa-1305-3.mp3"
 		},
@@ -36,7 +36,7 @@
 			"English": "\"If you can't pay the rent,\" the manager said, \"I have to kick you out.",
 			"Word Count": 15,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "&quot;إذا لم تتمكن من دفع الإيجار&quot;، قال المدير: &quot;يجب أن أركلك.",
 			"Egyptian Arabic Audio": "eca-1305-4.mp3",
 			"Standard Arabic Audio": "msa-1305-4.mp3"
 		},
@@ -45,7 +45,7 @@
 			"English": "\" \"But I always pay the rent on time,\" Brad said.",
 			"Word Count": 11,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "واضاف &quot;لكني دائما ادفع الايجار في الوقت المحدد&quot;.",
 			"Egyptian Arabic Audio": "eca-1305-5.mp3",
 			"Standard Arabic Audio": "msa-1305-5.mp3"
 		},
@@ -54,7 +54,7 @@
 			"English": "\"That's nice, but you're supposed to always pay the rent on time,\" said the manager.",
 			"Word Count": 15,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "&quot;هذا لطيف، ولكن من المفترض أن تدفع دائما الإيجار في الوقت المحدد&quot;، قال المدير.",
 			"Egyptian Arabic Audio": "eca-1305-6.mp3",
 			"Standard Arabic Audio": "msa-1305-6.mp3"
 		},
@@ -63,7 +63,7 @@
 			"English": "One evening Brad drove to the gas station.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "توجه أحد مسائي براد إلى محطة الوقود.",
 			"Egyptian Arabic Audio": "eca-1305-7.mp3",
 			"Standard Arabic Audio": "msa-1305-7.mp3"
 		},
@@ -72,7 +72,7 @@
 			"English": "He bought a gallon of gas.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "اشترى غالون من الغاز.",
 			"Egyptian Arabic Audio": "eca-1305-8.mp3",
 			"Standard Arabic Audio": "msa-1305-8.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "He put the gas into a gas can.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وضع الغاز في غاز يمكن.",
 			"Egyptian Arabic Audio": "eca-1305-9.mp3",
 			"Standard Arabic Audio": "msa-1305-9.mp3"
 		},
@@ -90,7 +90,7 @@
 			"English": "He waited until 11 p.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انتظر حتى 11 ص.",
 			"Egyptian Arabic Audio": "eca-1305-10.mp3",
 			"Standard Arabic Audio": "msa-1305-10.mp3"
 		},
@@ -99,7 +99,7 @@
 			"English": "m.",
 			"Word Count": 1,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "م.",
 			"Egyptian Arabic Audio": "eca-1305-11.mp3",
 			"Standard Arabic Audio": "msa-1305-11.mp3"
 		},
@@ -108,7 +108,7 @@
 			"English": "The manager lived in a corner apartment.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "عاش المدير في شقة الزاوية.",
 			"Egyptian Arabic Audio": "eca-1305-12.mp3",
 			"Standard Arabic Audio": "msa-1305-12.mp3"
 		},
@@ -117,7 +117,7 @@
 			"English": "His apartment was on the ground floor.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وكانت شقته في الطابق الأرضي.",
 			"Egyptian Arabic Audio": "eca-1305-13.mp3",
 			"Standard Arabic Audio": "msa-1305-13.mp3"
 		},
@@ -126,7 +126,7 @@
 			"English": "Brad waited until the manager's lights went out.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انتظر براد حتى خرجت أضواء المدير.",
 			"Egyptian Arabic Audio": "eca-1305-14.mp3",
 			"Standard Arabic Audio": "msa-1305-14.mp3"
 		},
@@ -135,7 +135,7 @@
 			"English": "He poured all the gas in the hall near the manager's door.",
 			"Word Count": 12,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وسكب كل الغاز في القاعة بالقرب من باب المدير.",
 			"Egyptian Arabic Audio": "eca-1305-15.mp3",
 			"Standard Arabic Audio": "msa-1305-15.mp3"
 		},
@@ -144,7 +144,7 @@
 			"English": "He lit a match.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أضاء مباراة.",
 			"Egyptian Arabic Audio": "eca-1305-16.mp3",
 			"Standard Arabic Audio": "msa-1305-16.mp3"
 		}

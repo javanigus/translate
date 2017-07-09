@@ -9,7 +9,7 @@
 			"English": "The teacher walked into the classroom.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "دخل المعلم إلى الفصول الدراسية.",
 			"Egyptian Arabic Audio": "eca-1440-1.mp3",
 			"Standard Arabic Audio": "msa-1440-1.mp3"
 		},
@@ -18,7 +18,7 @@
 			"English": "He said, \"Good evening, everybody.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وقال: &quot;مساء الخير، الجميع.",
 			"Egyptian Arabic Audio": "eca-1440-2.mp3",
 			"Standard Arabic Audio": "msa-1440-2.mp3"
 		},
@@ -27,7 +27,7 @@
 			"English": "\" The students said, \"Good evening, teacher.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "&quot;قال الطلاب،&quot; مساء الخير، المعلم.",
 			"Egyptian Arabic Audio": "eca-1440-3.mp3",
 			"Standard Arabic Audio": "msa-1440-3.mp3"
 		},
@@ -36,7 +36,7 @@
 			"English": "\" He walked over to his desk.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "&quot;مشى إلى مكتبه.",
 			"Egyptian Arabic Audio": "eca-1440-4.mp3",
 			"Standard Arabic Audio": "msa-1440-4.mp3"
 		},
@@ -45,7 +45,7 @@
 			"English": "He put his briefcase on his desk.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وضع حقيبة له على مكتبه.",
 			"Egyptian Arabic Audio": "eca-1440-5.mp3",
 			"Standard Arabic Audio": "msa-1440-5.mp3"
 		},
@@ -54,7 +54,7 @@
 			"English": "He opened his briefcase.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "فتح حقيبة.",
 			"Egyptian Arabic Audio": "eca-1440-6.mp3",
 			"Standard Arabic Audio": "msa-1440-6.mp3"
 		},
@@ -63,7 +63,7 @@
 			"English": "He took his notebook out of his briefcase.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أخذ دفتر ملاحظاته من حقيبة له.",
 			"Egyptian Arabic Audio": "eca-1440-7.mp3",
 			"Standard Arabic Audio": "msa-1440-7.mp3"
 		},
@@ -72,7 +72,7 @@
 			"English": "He took his books out of his briefcase.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أخذ كتبه من حقيبة يده.",
 			"Egyptian Arabic Audio": "eca-1440-8.mp3",
 			"Standard Arabic Audio": "msa-1440-8.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "Suddenly, he felt dizzy.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "فجأة، شعر بالدوار.",
 			"Egyptian Arabic Audio": "eca-1440-9.mp3",
 			"Standard Arabic Audio": "msa-1440-9.mp3"
 		},
@@ -90,7 +90,7 @@
 			"English": "The room was spinning.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كانت الغرفة تدور.",
 			"Egyptian Arabic Audio": "eca-1440-10.mp3",
 			"Standard Arabic Audio": "msa-1440-10.mp3"
 		},
@@ -99,7 +99,7 @@
 			"English": "He sat down.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لقد جلس.",
 			"Egyptian Arabic Audio": "eca-1440-11.mp3",
 			"Standard Arabic Audio": "msa-1440-11.mp3"
 		},
@@ -108,7 +108,7 @@
 			"English": "What was wrong with him? He put his hands on the desk.",
 			"Word Count": 12,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ما خطبه؟ وضع يديه على المكتب.",
 			"Egyptian Arabic Audio": "eca-1440-12.mp3",
 			"Standard Arabic Audio": "msa-1440-12.mp3"
 		},
@@ -117,7 +117,7 @@
 			"English": "The desk was spinning.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وكان المكتب الغزل.",
 			"Egyptian Arabic Audio": "eca-1440-13.mp3",
 			"Standard Arabic Audio": "msa-1440-13.mp3"
 		},
@@ -126,7 +126,7 @@
 			"English": "He closed his eyes.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أغلق عينيه.",
 			"Egyptian Arabic Audio": "eca-1440-14.mp3",
 			"Standard Arabic Audio": "msa-1440-14.mp3"
 		},
@@ -135,7 +135,7 @@
 			"English": "He opened his eyes.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "فتح عينيه.",
 			"Egyptian Arabic Audio": "eca-1440-15.mp3",
 			"Standard Arabic Audio": "msa-1440-15.mp3"
 		},
@@ -144,7 +144,7 @@
 			"English": "He didn't know what to do.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لم يكن يعرف ماذا يفعل.",
 			"Egyptian Arabic Audio": "eca-1440-16.mp3",
 			"Standard Arabic Audio": "msa-1440-16.mp3"
 		},
@@ -153,7 +153,7 @@
 			"English": "What was wrong? He was sitting in his chair.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ما هو الخطأ؟ كان جالسا على كرسيه.",
 			"Egyptian Arabic Audio": "eca-1440-17.mp3",
 			"Standard Arabic Audio": "msa-1440-17.mp3"
 		},
@@ -162,7 +162,7 @@
 			"English": "But he felt like he was floating in air.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لكنه شعر بأنه كان يطفو في الهواء.",
 			"Egyptian Arabic Audio": "eca-1440-18.mp3",
 			"Standard Arabic Audio": "msa-1440-18.mp3"
 		},
@@ -171,7 +171,7 @@
 			"English": "How could he be floating in air? He sat in his chair for another minute.",
 			"Word Count": 15,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كيف يمكن أن يكون العائمة في الهواء؟ جلس في كرسيه لدقيقة أخرى.",
 			"Egyptian Arabic Audio": "eca-1440-19.mp3",
 			"Standard Arabic Audio": "msa-1440-19.mp3"
 		},
@@ -180,7 +180,7 @@
 			"English": "His students were talking to one another.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كان طلابه يتحدثون مع بعضهم البعض.",
 			"Egyptian Arabic Audio": "eca-1440-20.mp3",
 			"Standard Arabic Audio": "msa-1440-20.mp3"
 		},
@@ -189,7 +189,7 @@
 			"English": "They did not know how he felt.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لم يعرفوا كيف شعر.",
 			"Egyptian Arabic Audio": "eca-1440-21.mp3",
 			"Standard Arabic Audio": "msa-1440-21.mp3"
 		},
@@ -198,7 +198,7 @@
 			"English": "But he didn't tell them how he felt.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لكنه لم يقل لهم كيف شعر.",
 			"Egyptian Arabic Audio": "eca-1440-22.mp3",
 			"Standard Arabic Audio": "msa-1440-22.mp3"
 		},
@@ -207,7 +207,7 @@
 			"English": "He didn't say anything.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لم يقل أي شيء.",
 			"Egyptian Arabic Audio": "eca-1440-23.mp3",
 			"Standard Arabic Audio": "msa-1440-23.mp3"
 		}

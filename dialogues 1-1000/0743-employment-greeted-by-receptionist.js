@@ -11,7 +11,7 @@
 			"English": "Good morning. Welcome to ABC Technologies.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "صباح الخير. مرحبا بكم في أبك تكنولوجيز.",
 			"Egyptian Arabic Audio": "eca-0743-1.mp3",
 			"Standard Arabic Audio": "msa-0743-1.mp3"
 		},
@@ -21,7 +21,7 @@
 			"English": "Hi, good morning.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "اهلا صباح الخير.",
 			"Egyptian Arabic Audio": "eca-0743-2.mp3",
 			"Standard Arabic Audio": "msa-0743-2.mp3"
 		},
@@ -31,7 +31,7 @@
 			"English": "How can I help you?",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كيف بإمكاني مساعدتك؟",
 			"Egyptian Arabic Audio": "eca-0743-3.mp3",
 			"Standard Arabic Audio": "msa-0743-3.mp3"
 		},
@@ -41,7 +41,7 @@
 			"English": "I have an appointment with Mr. Rogers today.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لدي موعد مع السيد روجرز اليوم.",
 			"Egyptian Arabic Audio": "eca-0743-4.mp3",
 			"Standard Arabic Audio": "msa-0743-4.mp3"
 		},
@@ -51,7 +51,7 @@
 			"English": "Oh, what time is that? I don't see it on his schedule.",
 			"Word Count": 12,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أوه، ما هو الوقت؟ أنا لا أرى ذلك على جدوله.",
 			"Egyptian Arabic Audio": "eca-0743-5.mp3",
 			"Standard Arabic Audio": "msa-0743-5.mp3"
 		},
@@ -61,7 +61,7 @@
 			"English": "Well there's no set time. I'm an old friend of his.",
 			"Word Count": 11,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "حسنا ليس هناك وقت محدد. أنا صديق قديم له.",
 			"Egyptian Arabic Audio": "eca-0743-6.mp3",
 			"Standard Arabic Audio": "msa-0743-6.mp3"
 		},
@@ -71,7 +71,7 @@
 			"English": "Okay, Let me call him. What is your name?",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "حسنا، دعوني أتصل به. ما اسمك؟",
 			"Egyptian Arabic Audio": "eca-0743-7.mp3",
 			"Standard Arabic Audio": "msa-0743-7.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "I'm Tom Williams. He will know me.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنا توم ويليامز. وقال انه سوف يعرف لي.",
 			"Egyptian Arabic Audio": "eca-0743-8.mp3",
 			"Standard Arabic Audio": "msa-0743-8.mp3"
 		},
@@ -91,7 +91,7 @@
 			"English": "Just a minute, sir. Please take a seat.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "دقيقة واحدة يا سيدي. رجاءا اجلس.",
 			"Egyptian Arabic Audio": "eca-0743-9.mp3",
 			"Standard Arabic Audio": "msa-0743-9.mp3"
 		},
@@ -101,7 +101,7 @@
 			"English": "Thank you.",
 			"Word Count": 2,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "شكرا.",
 			"Egyptian Arabic Audio": "eca-0743-10.mp3",
 			"Standard Arabic Audio": "msa-0743-10.mp3"
 		},
@@ -111,7 +111,7 @@
 			"English": "Yes, Mr. Williams. Mr. Rogers will see you soon.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "نعم، السيد وليامز. السيد روجرز سوف نراكم قريبا.",
 			"Egyptian Arabic Audio": "eca-0743-11.mp3",
 			"Standard Arabic Audio": "msa-0743-11.mp3"
 		},
@@ -121,7 +121,7 @@
 			"English": "That's wonderful. I know how busy he is. Thanks.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هذا رائع. أنا أعرف كيف مشغول هو. شكر.",
 			"Egyptian Arabic Audio": "eca-0743-12.mp3",
 			"Standard Arabic Audio": "msa-0743-12.mp3"
 		}

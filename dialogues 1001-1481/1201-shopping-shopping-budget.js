@@ -11,7 +11,7 @@
 			"English": "What are you working on?",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "مالذي تعمل عليه؟",
 			"Egyptian Arabic Audio": "eca-1201-1.mp3",
 			"Standard Arabic Audio": "msa-1201-1.mp3"
 		},
@@ -21,7 +21,7 @@
 			"English": "I'm figuring out my budget.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنا أعرف ميزانيتي.",
 			"Egyptian Arabic Audio": "eca-1201-2.mp3",
 			"Standard Arabic Audio": "msa-1201-2.mp3"
 		},
@@ -31,7 +31,7 @@
 			"English": "What budget?",
 			"Word Count": 2,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ما هي الميزانية؟",
 			"Egyptian Arabic Audio": "eca-1201-3.mp3",
 			"Standard Arabic Audio": "msa-1201-3.mp3"
 		},
@@ -41,7 +41,7 @@
 			"English": "I'm making a shopping budget, so that I don't spend too much money.",
 			"Word Count": 13,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنا جعل ميزانية التسوق، حتى أنني لا تنفق الكثير من المال.",
 			"Egyptian Arabic Audio": "eca-1201-4.mp3",
 			"Standard Arabic Audio": "msa-1201-4.mp3"
 		},
@@ -51,7 +51,7 @@
 			"English": "How much money can you spend?",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كم من المال يمكنك ان تنفق؟",
 			"Egyptian Arabic Audio": "eca-1201-5.mp3",
 			"Standard Arabic Audio": "msa-1201-5.mp3"
 		},
@@ -61,7 +61,7 @@
 			"English": "I can only spend $300 a month.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لا أستطيع أن أنفق سوى 300 $ في الشهر.",
 			"Egyptian Arabic Audio": "eca-1201-6.mp3",
 			"Standard Arabic Audio": "msa-1201-6.mp3"
 		},
@@ -71,7 +71,7 @@
 			"English": "Why only $300?",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لماذا فقط 300 $؟",
 			"Egyptian Arabic Audio": "eca-1201-7.mp3",
 			"Standard Arabic Audio": "msa-1201-7.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "I need to save the rest.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنا بحاجة إلى حفظ بقية.",
 			"Egyptian Arabic Audio": "eca-1201-8.mp3",
 			"Standard Arabic Audio": "msa-1201-8.mp3"
 		},
@@ -91,7 +91,7 @@
 			"English": "For what?",
 			"Word Count": 2,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "على ماذا؟",
 			"Egyptian Arabic Audio": "eca-1201-9.mp3",
 			"Standard Arabic Audio": "msa-1201-9.mp3"
 		},
@@ -101,7 +101,7 @@
 			"English": "I need to pay my bills.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنا بحاجة لدفع فواتيري.",
 			"Egyptian Arabic Audio": "eca-1201-10.mp3",
 			"Standard Arabic Audio": "msa-1201-10.mp3"
 		},
@@ -111,7 +111,7 @@
 			"English": "Your budget is a good idea.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ميزانيتك فكرة جيدة.",
 			"Egyptian Arabic Audio": "eca-1201-11.mp3",
 			"Standard Arabic Audio": "msa-1201-11.mp3"
 		},
@@ -121,7 +121,7 @@
 			"English": "I know. It's going to save me a lot of money, I hope.",
 			"Word Count": 13,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "اعرف. انها سوف تنقذني الكثير من المال، وآمل.",
 			"Egyptian Arabic Audio": "eca-1201-12.mp3",
 			"Standard Arabic Audio": "msa-1201-12.mp3"
 		},
@@ -131,7 +131,7 @@
 			"English": "What are you trying to do?",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ماذا تحاول أن تفعل؟",
 			"Egyptian Arabic Audio": "eca-1201-13.mp3",
 			"Standard Arabic Audio": "msa-1201-13.mp3"
 		},
@@ -141,7 +141,7 @@
 			"English": "I'm working on a budget.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنا أعمل على ميزانية.",
 			"Egyptian Arabic Audio": "eca-1201-14.mp3",
 			"Standard Arabic Audio": "msa-1201-14.mp3"
 		},
@@ -151,7 +151,7 @@
 			"English": "What kind of budget?",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ما هو نوع الميزانية؟",
 			"Egyptian Arabic Audio": "eca-1201-15.mp3",
 			"Standard Arabic Audio": "msa-1201-15.mp3"
 		},
@@ -161,7 +161,7 @@
 			"English": "I need to budget my shopping so that I don't spend all my money.",
 			"Word Count": 14,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أحتاج إلى ميزانية التسوق حتى لا تنفق كل أموالي.",
 			"Egyptian Arabic Audio": "eca-1201-16.mp3",
 			"Standard Arabic Audio": "msa-1201-16.mp3"
 		},
@@ -171,7 +171,7 @@
 			"English": "What's your budget?",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ما ميزانيتك؟",
 			"Egyptian Arabic Audio": "eca-1201-17.mp3",
 			"Standard Arabic Audio": "msa-1201-17.mp3"
 		},
@@ -181,7 +181,7 @@
 			"English": "I can spend about $300 per month.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أستطيع أن أنفق حوالي 300 دولار شهريا.",
 			"Egyptian Arabic Audio": "eca-1201-18.mp3",
 			"Standard Arabic Audio": "msa-1201-18.mp3"
 		},
@@ -191,7 +191,7 @@
 			"English": "Why so little?",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لماذا القليل جدا؟",
 			"Egyptian Arabic Audio": "eca-1201-19.mp3",
 			"Standard Arabic Audio": "msa-1201-19.mp3"
 		},
@@ -201,7 +201,7 @@
 			"English": "The rest of my money needs to be saved.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "بقية أموالي تحتاج إلى أن يتم حفظها.",
 			"Egyptian Arabic Audio": "eca-1201-20.mp3",
 			"Standard Arabic Audio": "msa-1201-20.mp3"
 		},
@@ -211,7 +211,7 @@
 			"English": "What do you need to save up for?",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ماذا تحتاج لانقاذ ما يصل؟",
 			"Egyptian Arabic Audio": "eca-1201-21.mp3",
 			"Standard Arabic Audio": "msa-1201-21.mp3"
 		},
@@ -221,7 +221,7 @@
 			"English": "I still need to pay my bills.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ما زلت بحاجة إلى دفع فواتيري.",
 			"Egyptian Arabic Audio": "eca-1201-22.mp3",
 			"Standard Arabic Audio": "msa-1201-22.mp3"
 		},
@@ -231,7 +231,7 @@
 			"English": "You're wise for saving your money.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كنت حكيما لتوفير المال الخاص بك.",
 			"Egyptian Arabic Audio": "eca-1201-23.mp3",
 			"Standard Arabic Audio": "msa-1201-23.mp3"
 		},
@@ -241,7 +241,7 @@
 			"English": "I think it's just common sense.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أعتقد أنه مجرد الحس السليم.",
 			"Egyptian Arabic Audio": "eca-1201-24.mp3",
 			"Standard Arabic Audio": "msa-1201-24.mp3"
 		},
@@ -251,7 +251,7 @@
 			"English": "What are you doing?",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ماذا تفعل؟",
 			"Egyptian Arabic Audio": "eca-1201-25.mp3",
 			"Standard Arabic Audio": "msa-1201-25.mp3"
 		},
@@ -261,7 +261,7 @@
 			"English": "I'm trying to figure out my budget.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أحاول معرفة ميزانيتي.",
 			"Egyptian Arabic Audio": "eca-1201-26.mp3",
 			"Standard Arabic Audio": "msa-1201-26.mp3"
 		},
@@ -271,7 +271,7 @@
 			"English": "What do you need a budget for?",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ماذا تحتاج إلى ميزانية؟",
 			"Egyptian Arabic Audio": "eca-1201-27.mp3",
 			"Standard Arabic Audio": "msa-1201-27.mp3"
 		},
@@ -281,7 +281,7 @@
 			"English": "I need to put a limit on my spending.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنا بحاجة إلى وضع حد على إنفاق بلدي.",
 			"Egyptian Arabic Audio": "eca-1201-28.mp3",
 			"Standard Arabic Audio": "msa-1201-28.mp3"
 		},
@@ -291,7 +291,7 @@
 			"English": "What's your spending limit?",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ما هو حد الإنفاق الخاص بك؟",
 			"Egyptian Arabic Audio": "eca-1201-29.mp3",
 			"Standard Arabic Audio": "msa-1201-29.mp3"
 		},
@@ -301,7 +301,7 @@
 			"English": "I'm only allowed to spend $300 each month.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يسمح لي فقط بإنفاق 300 دولار شهريا.",
 			"Egyptian Arabic Audio": "eca-1201-30.mp3",
 			"Standard Arabic Audio": "msa-1201-30.mp3"
 		},
@@ -311,7 +311,7 @@
 			"English": "That's not much.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هذا ليس كثيرا.",
 			"Egyptian Arabic Audio": "eca-1201-31.mp3",
 			"Standard Arabic Audio": "msa-1201-31.mp3"
 		},
@@ -321,7 +321,7 @@
 			"English": "Because, I need to save the rest of my money.",
 			"Word Count": 10,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لأن، أنا بحاجة لإنقاذ بقية أموالي.",
 			"Egyptian Arabic Audio": "eca-1201-32.mp3",
 			"Standard Arabic Audio": "msa-1201-32.mp3"
 		},
@@ -331,7 +331,7 @@
 			"English": "What are you saving for?",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ما الذي تقوم بحفظه؟",
 			"Egyptian Arabic Audio": "eca-1201-33.mp3",
 			"Standard Arabic Audio": "msa-1201-33.mp3"
 		},
@@ -341,7 +341,7 @@
 			"English": "I have bills to pay for too.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لدي فواتير لدفع ثمنها أيضا.",
 			"Egyptian Arabic Audio": "eca-1201-34.mp3",
 			"Standard Arabic Audio": "msa-1201-34.mp3"
 		},
@@ -351,7 +351,7 @@
 			"English": "It's good that you are being smart with your money.",
 			"Word Count": 10,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انها جيدة ان كنت ذكيا مع أموالك.",
 			"Egyptian Arabic Audio": "eca-1201-35.mp3",
 			"Standard Arabic Audio": "msa-1201-35.mp3"
 		},
@@ -361,7 +361,7 @@
 			"English": "It's about time that I started being smart.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "حان الوقت أن بدأت ذكية.",
 			"Egyptian Arabic Audio": "eca-1201-36.mp3",
 			"Standard Arabic Audio": "msa-1201-36.mp3"
 		}

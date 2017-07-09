@@ -9,7 +9,7 @@
 			"English": "She goes to the mall.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "تذهب إلى المركز التجاري.",
 			"Egyptian Arabic Audio": "eca-0125-1.mp3",
 			"Standard Arabic Audio": "msa-0125-1.mp3"
 		},
@@ -18,7 +18,7 @@
 			"English": "She goes inside a store.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "تذهب داخل متجر.",
 			"Egyptian Arabic Audio": "eca-0125-2.mp3",
 			"Standard Arabic Audio": "msa-0125-2.mp3"
 		},
@@ -27,7 +27,7 @@
 			"English": "She sees a nice skirt.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ترى تنورة لطيفة.",
 			"Egyptian Arabic Audio": "eca-0125-3.mp3",
 			"Standard Arabic Audio": "msa-0125-3.mp3"
 		},
@@ -36,7 +36,7 @@
 			"English": "She takes it off the rack.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انها تأخذ من الرف.",
 			"Egyptian Arabic Audio": "eca-0125-4.mp3",
 			"Standard Arabic Audio": "msa-0125-4.mp3"
 		},
@@ -45,7 +45,7 @@
 			"English": "She touches it.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انها تمس ذلك.",
 			"Egyptian Arabic Audio": "eca-0125-5.mp3",
 			"Standard Arabic Audio": "msa-0125-5.mp3"
 		},
@@ -54,7 +54,7 @@
 			"English": "She goes to the fitting-room.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "تذهب إلى غرفة المناسب.",
 			"Egyptian Arabic Audio": "eca-0125-6.mp3",
 			"Standard Arabic Audio": "msa-0125-6.mp3"
 		},
@@ -63,7 +63,7 @@
 			"English": "She tries it on.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انها تحاول ذلك.",
 			"Egyptian Arabic Audio": "eca-0125-7.mp3",
 			"Standard Arabic Audio": "msa-0125-7.mp3"
 		},
@@ -72,7 +72,7 @@
 			"English": "It fits perfectly.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "تناسبها تماما.",
 			"Egyptian Arabic Audio": "eca-0125-8.mp3",
 			"Standard Arabic Audio": "msa-0125-8.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "She goes to the cash register.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "تذهب إلى تسجيل النقدية.",
 			"Egyptian Arabic Audio": "eca-0125-9.mp3",
 			"Standard Arabic Audio": "msa-0125-9.mp3"
 		},
@@ -90,7 +90,7 @@
 			"English": "She hands the cashier $10.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وقالت انها يسلم أمين الصندوق 10 $.",
 			"Egyptian Arabic Audio": "eca-0125-10.mp3",
 			"Standard Arabic Audio": "msa-0125-10.mp3"
 		},
@@ -99,7 +99,7 @@
 			"English": "The cashier puts the skirt in a bag.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أمين الصندوق يضع تنورة في كيس.",
 			"Egyptian Arabic Audio": "eca-0125-11.mp3",
 			"Standard Arabic Audio": "msa-0125-11.mp3"
 		}

@@ -9,7 +9,7 @@
 			"English": "Ms Jackson got on the bus.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "حصلت السيدة جاكسون على الحافلة.",
 			"Egyptian Arabic Audio": "eca-0755-1.mp3",
 			"Standard Arabic Audio": "msa-0755-1.mp3"
 		},
@@ -18,7 +18,7 @@
 			"English": "It was not very scary.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لم يكن مخيفا جدا.",
 			"Egyptian Arabic Audio": "eca-0755-2.mp3",
 			"Standard Arabic Audio": "msa-0755-2.mp3"
 		},
@@ -27,7 +27,7 @@
 			"English": "She was actually very relaxed.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كانت في الواقع مرتاح جدا.",
 			"Egyptian Arabic Audio": "eca-0755-3.mp3",
 			"Standard Arabic Audio": "msa-0755-3.mp3"
 		},
@@ -36,7 +36,7 @@
 			"English": "She ended up falling asleep.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وانتهى الأمر إلى النوم.",
 			"Egyptian Arabic Audio": "eca-0755-4.mp3",
 			"Standard Arabic Audio": "msa-0755-4.mp3"
 		},
@@ -45,7 +45,7 @@
 			"English": "She missed her stop and was late to work.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وفوتت توقفها وتأخرت عن العمل.",
 			"Egyptian Arabic Audio": "eca-0755-5.mp3",
 			"Standard Arabic Audio": "msa-0755-5.mp3"
 		}

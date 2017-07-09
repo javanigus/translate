@@ -11,7 +11,7 @@
 			"English": "Why is there so much crime?",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لماذا هناك الكثير من الجريمة؟",
 			"Egyptian Arabic Audio": "eca-0380-1.mp3",
 			"Standard Arabic Audio": "msa-0380-1.mp3"
 		},
@@ -21,7 +21,7 @@
 			"English": "Because parents don't teach their kids right from wrong.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لأن الآباء لا يعلم أطفالهم الحق من الخطأ.",
 			"Egyptian Arabic Audio": "eca-0380-2.mp3",
 			"Standard Arabic Audio": "msa-0380-2.mp3"
 		},
@@ -31,7 +31,7 @@
 			"English": "Is that it?",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هل هاذا هو؟",
 			"Egyptian Arabic Audio": "eca-0380-3.mp3",
 			"Standard Arabic Audio": "msa-0380-3.mp3"
 		},
@@ -41,7 +41,7 @@
 			"English": "Also, there aren't enough police.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أيضا، ليس هناك ما يكفي من الشرطة.",
 			"Egyptian Arabic Audio": "eca-0380-4.mp3",
 			"Standard Arabic Audio": "msa-0380-4.mp3"
 		},
@@ -51,7 +51,7 @@
 			"English": "But there are a lot of police.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ولكن هناك الكثير من الشرطة.",
 			"Egyptian Arabic Audio": "eca-0380-5.mp3",
 			"Standard Arabic Audio": "msa-0380-5.mp3"
 		},
@@ -61,7 +61,7 @@
 			"English": "There's only one police officer per 100 criminals.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لا يوجد سوى ضابط شرطة واحد لكل 100 مجرم.",
 			"Egyptian Arabic Audio": "eca-0380-6.mp3",
 			"Standard Arabic Audio": "msa-0380-6.mp3"
 		},
@@ -71,7 +71,7 @@
 			"English": "Can't we hire more police?",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لا يمكننا توظيف المزيد من الشرطة؟",
 			"Egyptian Arabic Audio": "eca-0380-7.mp3",
 			"Standard Arabic Audio": "msa-0380-7.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "No. It costs too much money.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لا يكلف الكثير من المال.",
 			"Egyptian Arabic Audio": "eca-0380-8.mp3",
 			"Standard Arabic Audio": "msa-0380-8.mp3"
 		},
@@ -91,7 +91,7 @@
 			"English": "Doesn't crime cost more than police?",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أليس تكلفة الجريمة أكثر من الشرطة؟",
 			"Egyptian Arabic Audio": "eca-0380-9.mp3",
 			"Standard Arabic Audio": "msa-0380-9.mp3"
 		},
@@ -101,7 +101,7 @@
 			"English": "Yes, it does.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "نعم إنها كذلك.",
 			"Egyptian Arabic Audio": "eca-0380-10.mp3",
 			"Standard Arabic Audio": "msa-0380-10.mp3"
 		},
@@ -111,7 +111,7 @@
 			"English": "So it would be cheaper to hire more police?",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لذلك سيكون أرخص لاستئجار المزيد من الشرطة؟",
 			"Egyptian Arabic Audio": "eca-0380-11.mp3",
 			"Standard Arabic Audio": "msa-0380-11.mp3"
 		},
@@ -121,7 +121,7 @@
 			"English": "Yes, it would.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "نعم، سيكون.",
 			"Egyptian Arabic Audio": "eca-0380-12.mp3",
 			"Standard Arabic Audio": "msa-0380-12.mp3"
 		}

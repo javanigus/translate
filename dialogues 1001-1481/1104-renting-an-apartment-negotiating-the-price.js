@@ -11,7 +11,7 @@
 			"English": "I would love to rent out your apartment.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أحب أن أستأجر شقتك.",
 			"Egyptian Arabic Audio": "eca-1104-1.mp3",
 			"Standard Arabic Audio": "msa-1104-1.mp3"
 		},
@@ -21,7 +21,7 @@
 			"English": "That's great.",
 			"Word Count": 2,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ذلك رائع.",
 			"Egyptian Arabic Audio": "eca-1104-2.mp3",
 			"Standard Arabic Audio": "msa-1104-2.mp3"
 		},
@@ -31,7 +31,7 @@
 			"English": "How much is the rent?",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كم هو الإيجار؟",
 			"Egyptian Arabic Audio": "eca-1104-3.mp3",
 			"Standard Arabic Audio": "msa-1104-3.mp3"
 		},
@@ -41,7 +41,7 @@
 			"English": "The rent each month is $1050.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "الإيجار كل شهر هو 1050 $.",
 			"Egyptian Arabic Audio": "eca-1104-4.mp3",
 			"Standard Arabic Audio": "msa-1104-4.mp3"
 		},
@@ -51,7 +51,7 @@
 			"English": "That's a lot of money.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هذا الكثير من المال.",
 			"Egyptian Arabic Audio": "eca-1104-5.mp3",
 			"Standard Arabic Audio": "msa-1104-5.mp3"
 		},
@@ -61,7 +61,7 @@
 			"English": "Did you have a better price in mind?",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هل كان لديك سعر أفضل في الاعتبار؟",
 			"Egyptian Arabic Audio": "eca-1104-6.mp3",
 			"Standard Arabic Audio": "msa-1104-6.mp3"
 		},
@@ -71,7 +71,7 @@
 			"English": "What about $800?",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ماذا عن 800 دولار؟",
 			"Egyptian Arabic Audio": "eca-1104-7.mp3",
 			"Standard Arabic Audio": "msa-1104-7.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "That's way too low.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هذه الطريقة منخفضة جدا.",
 			"Egyptian Arabic Audio": "eca-1104-8.mp3",
 			"Standard Arabic Audio": "msa-1104-8.mp3"
 		},
@@ -91,7 +91,7 @@
 			"English": "I can't pay much more than that.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لا أستطيع أن أدفع أكثر من ذلك بكثير.",
 			"Egyptian Arabic Audio": "eca-1104-9.mp3",
 			"Standard Arabic Audio": "msa-1104-9.mp3"
 		},
@@ -101,7 +101,7 @@
 			"English": "How about $900 a month?",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ماذا عن $ 900 في الشهر؟",
 			"Egyptian Arabic Audio": "eca-1104-10.mp3",
 			"Standard Arabic Audio": "msa-1104-10.mp3"
 		},
@@ -111,7 +111,7 @@
 			"English": "That would be fine.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "سيكون هذا جيدا.",
 			"Egyptian Arabic Audio": "eca-1104-11.mp3",
 			"Standard Arabic Audio": "msa-1104-11.mp3"
 		},
@@ -121,7 +121,7 @@
 			"English": "Great. It was a pleasure doing business with you.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "عظيم. كان من دواعي سروري التعامل معكم.",
 			"Egyptian Arabic Audio": "eca-1104-12.mp3",
 			"Standard Arabic Audio": "msa-1104-12.mp3"
 		},
@@ -131,7 +131,7 @@
 			"English": "I think I may rent this apartment from you.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أعتقد أنني قد استئجار هذه الشقة منك.",
 			"Egyptian Arabic Audio": "eca-1104-13.mp3",
 			"Standard Arabic Audio": "msa-1104-13.mp3"
 		},
@@ -141,7 +141,7 @@
 			"English": "That would be wonderful.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "سيكون ذلك رائعا.",
 			"Egyptian Arabic Audio": "eca-1104-14.mp3",
 			"Standard Arabic Audio": "msa-1104-14.mp3"
 		},
@@ -151,7 +151,7 @@
 			"English": "Can you tell me how much I would have to pay for rent?",
 			"Word Count": 13,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هل يمكن أن تخبرني كم سيتعين علي دفع ثمن الإيجار؟",
 			"Egyptian Arabic Audio": "eca-1104-15.mp3",
 			"Standard Arabic Audio": "msa-1104-15.mp3"
 		},
@@ -161,7 +161,7 @@
 			"English": "The rent is $1050 every month.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "الإيجار هو 1050 $ كل شهر.",
 			"Egyptian Arabic Audio": "eca-1104-16.mp3",
 			"Standard Arabic Audio": "msa-1104-16.mp3"
 		},
@@ -171,7 +171,7 @@
 			"English": "That's way too much.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هذا هو الطريق كثيرا.",
 			"Egyptian Arabic Audio": "eca-1104-17.mp3",
 			"Standard Arabic Audio": "msa-1104-17.mp3"
 		},
@@ -181,7 +181,7 @@
 			"English": "What is good for you?",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ما هو جيد بالنسبة لك؟",
 			"Egyptian Arabic Audio": "eca-1104-18.mp3",
 			"Standard Arabic Audio": "msa-1104-18.mp3"
 		},
@@ -191,7 +191,7 @@
 			"English": "I can afford about $800 a month for rent.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أستطيع أن تحمل حوالي 800 $ شهريا للإيجار.",
 			"Egyptian Arabic Audio": "eca-1104-19.mp3",
 			"Standard Arabic Audio": "msa-1104-19.mp3"
 		},
@@ -201,7 +201,7 @@
 			"English": "That's not high enough.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هذا ليس عالي بما فيه الكفاية.",
 			"Egyptian Arabic Audio": "eca-1104-20.mp3",
 			"Standard Arabic Audio": "msa-1104-20.mp3"
 		},
@@ -211,7 +211,7 @@
 			"English": "How much more are you thinking?",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كم أكثر من تفكر؟",
 			"Egyptian Arabic Audio": "eca-1104-21.mp3",
 			"Standard Arabic Audio": "msa-1104-21.mp3"
 		},
@@ -221,7 +221,7 @@
 			"English": "I can let it go at $900 a month.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنا يمكن أن ندعه يذهب في 900 $ شهريا.",
 			"Egyptian Arabic Audio": "eca-1104-22.mp3",
 			"Standard Arabic Audio": "msa-1104-22.mp3"
 		},
@@ -231,7 +231,7 @@
 			"English": "That's almost perfect.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هذا تقريبا الكمال.",
 			"Egyptian Arabic Audio": "eca-1104-23.mp3",
 			"Standard Arabic Audio": "msa-1104-23.mp3"
 		},
@@ -241,7 +241,7 @@
 			"English": "I can live with that too.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أستطيع أن أعيش مع ذلك أيضا.",
 			"Egyptian Arabic Audio": "eca-1104-24.mp3",
 			"Standard Arabic Audio": "msa-1104-24.mp3"
 		},
@@ -251,7 +251,7 @@
 			"English": "I want to rent this apartment.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أريد استئجار هذه الشقة.",
 			"Egyptian Arabic Audio": "eca-1104-25.mp3",
 			"Standard Arabic Audio": "msa-1104-25.mp3"
 		},
@@ -261,7 +261,7 @@
 			"English": "I'm glad to hear that.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "سعيد لسماع ذلك.",
 			"Egyptian Arabic Audio": "eca-1104-26.mp3",
 			"Standard Arabic Audio": "msa-1104-26.mp3"
 		},
@@ -271,7 +271,7 @@
 			"English": "How much are you asking?",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كم مرة سألت؟",
 			"Egyptian Arabic Audio": "eca-1104-27.mp3",
 			"Standard Arabic Audio": "msa-1104-27.mp3"
 		},
@@ -281,7 +281,7 @@
 			"English": "You will have to pay $1050 every month.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "سيكون لديك لدفع 1050 $ كل شهر.",
 			"Egyptian Arabic Audio": "eca-1104-28.mp3",
 			"Standard Arabic Audio": "msa-1104-28.mp3"
 		},
@@ -291,7 +291,7 @@
 			"English": "I can't afford that.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لا أستطيع تحمل ذلك.",
 			"Egyptian Arabic Audio": "eca-1104-29.mp3",
 			"Standard Arabic Audio": "msa-1104-29.mp3"
 		},
@@ -301,7 +301,7 @@
 			"English": "What can you afford?",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ماذا يمكنك تحمل؟",
 			"Egyptian Arabic Audio": "eca-1104-30.mp3",
 			"Standard Arabic Audio": "msa-1104-30.mp3"
 		},
@@ -311,7 +311,7 @@
 			"English": "I was thinking $800 a month.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كنت أفكر 800 دولار في الشهر.",
 			"Egyptian Arabic Audio": "eca-1104-31.mp3",
 			"Standard Arabic Audio": "msa-1104-31.mp3"
 		},
@@ -321,7 +321,7 @@
 			"English": "I'll need you to pay more than that.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "سأحتاج منك أن تدفع أكثر من ذلك.",
 			"Egyptian Arabic Audio": "eca-1104-32.mp3",
 			"Standard Arabic Audio": "msa-1104-32.mp3"
 		},
@@ -331,7 +331,7 @@
 			"English": "How much more?",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كم تريد مزيدا؟",
 			"Egyptian Arabic Audio": "eca-1104-33.mp3",
 			"Standard Arabic Audio": "msa-1104-33.mp3"
 		},
@@ -341,7 +341,7 @@
 			"English": "How does $900 every month sound to you?",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كيف $ 900 كل شهر الصوت لك؟",
 			"Egyptian Arabic Audio": "eca-1104-34.mp3",
 			"Standard Arabic Audio": "msa-1104-34.mp3"
 		},
@@ -351,7 +351,7 @@
 			"English": "I can live with that.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أستطيع أن أعيش مع ذلك.",
 			"Egyptian Arabic Audio": "eca-1104-35.mp3",
 			"Standard Arabic Audio": "msa-1104-35.mp3"
 		},
@@ -361,7 +361,7 @@
 			"English": "We have a deal then.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لدينا صفقة ثم.",
 			"Egyptian Arabic Audio": "eca-1104-36.mp3",
 			"Standard Arabic Audio": "msa-1104-36.mp3"
 		}

@@ -11,7 +11,7 @@
 			"English": "Baseball is fun.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "البيسبول هو متعة.",
 			"Egyptian Arabic Audio": "eca-0371-1.mp3",
 			"Standard Arabic Audio": "msa-0371-1.mp3"
 		},
@@ -21,7 +21,7 @@
 			"English": "I like to hit the ball.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أحب أن ضرب الكرة.",
 			"Egyptian Arabic Audio": "eca-0371-2.mp3",
 			"Standard Arabic Audio": "msa-0371-2.mp3"
 		},
@@ -31,7 +31,7 @@
 			"English": "I like to run around the bases.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أحب تشغيل حول القواعد.",
 			"Egyptian Arabic Audio": "eca-0371-3.mp3",
 			"Standard Arabic Audio": "msa-0371-3.mp3"
 		},
@@ -41,7 +41,7 @@
 			"English": "I like to slide into the bases.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "احب الانزلاق الى القواعد.",
 			"Egyptian Arabic Audio": "eca-0371-4.mp3",
 			"Standard Arabic Audio": "msa-0371-4.mp3"
 		},
@@ -51,7 +51,7 @@
 			"English": "Yeah. It�s a lot of fun to slide",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "بلى. إيتسا الكثير من المرح إلى الشريحة",
 			"Egyptian Arabic Audio": "eca-0371-5.mp3",
 			"Standard Arabic Audio": "msa-0371-5.mp3"
 		}

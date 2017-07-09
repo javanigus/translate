@@ -9,7 +9,7 @@
 			"English": "Michael and his grandmother go to the park's playground.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "مايكل وجدته يذهبان إلى ملعب الحديقة.",
 			"Egyptian Arabic Audio": "eca-0051-1.mp3",
 			"Standard Arabic Audio": "msa-0051-1.mp3"
 		},
@@ -18,7 +18,7 @@
 			"English": "There are so many things to do.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هناك الكثير من الأشياء للقيام به.",
 			"Egyptian Arabic Audio": "eca-0051-2.mp3",
 			"Standard Arabic Audio": "msa-0051-2.mp3"
 		},
@@ -27,7 +27,7 @@
 			"English": "Michael runs over to the swing set.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يدير مايكل إلى مجموعة التأرجح.",
 			"Egyptian Arabic Audio": "eca-0051-3.mp3",
 			"Standard Arabic Audio": "msa-0051-3.mp3"
 		},
@@ -36,7 +36,7 @@
 			"English": "He sits on a swing.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انه يجلس على البديل.",
 			"Egyptian Arabic Audio": "eca-0051-4.mp3",
 			"Standard Arabic Audio": "msa-0051-4.mp3"
 		},
@@ -45,7 +45,7 @@
 			"English": "He kicks the ground.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انه يركض على الأرض.",
 			"Egyptian Arabic Audio": "eca-0051-5.mp3",
 			"Standard Arabic Audio": "msa-0051-5.mp3"
 		},
@@ -54,7 +54,7 @@
 			"English": "His legs are in the air.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ساقيه في الهواء.",
 			"Egyptian Arabic Audio": "eca-0051-6.mp3",
 			"Standard Arabic Audio": "msa-0051-6.mp3"
 		},
@@ -63,7 +63,7 @@
 			"English": "His grandmother pushes him.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "جدته يدفعه.",
 			"Egyptian Arabic Audio": "eca-0051-7.mp3",
 			"Standard Arabic Audio": "msa-0051-7.mp3"
 		},
@@ -72,7 +72,7 @@
 			"English": "He is even higher! He feels like he can touch the sky.",
 			"Word Count": 12,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انه أعلى من ذلك! انه يشعر وكأنه يمكن أن تلمس السماء.",
 			"Egyptian Arabic Audio": "eca-0051-8.mp3",
 			"Standard Arabic Audio": "msa-0051-8.mp3"
 		}

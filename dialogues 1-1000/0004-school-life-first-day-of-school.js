@@ -11,7 +11,7 @@
 			"English": "Are you excited for the first day of school?",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هل أنت متحمس لليوم الأول من المدرسة؟",
 			"Egyptian Arabic Audio": "eca-0004-1.mp3",
 			"Standard Arabic Audio": "msa-0004-1.mp3"
 		},
@@ -21,7 +21,7 @@
 			"English": "No. I am very afraid.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لا، أنا خائف جدا.",
 			"Egyptian Arabic Audio": "eca-0004-2.mp3",
 			"Standard Arabic Audio": "msa-0004-2.mp3"
 		},
@@ -31,7 +31,7 @@
 			"English": "What is to be afraid about?",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ما هو أن تخافوا؟",
 			"Egyptian Arabic Audio": "eca-0004-3.mp3",
 			"Standard Arabic Audio": "msa-0004-3.mp3"
 		},
@@ -41,7 +41,7 @@
 			"English": "I am afraid of the teacher.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أخشى المعلم.",
 			"Egyptian Arabic Audio": "eca-0004-4.mp3",
 			"Standard Arabic Audio": "msa-0004-4.mp3"
 		},
@@ -51,7 +51,7 @@
 			"English": "But you haven't even met her yet?",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ولكنك لم تقابلها حتى الآن؟",
 			"Egyptian Arabic Audio": "eca-0004-5.mp3",
 			"Standard Arabic Audio": "msa-0004-5.mp3"
 		},
@@ -61,7 +61,7 @@
 			"English": "I have heard bad things about her.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لقد سمعت أشياء سيئة عنها.",
 			"Egyptian Arabic Audio": "eca-0004-6.mp3",
 			"Standard Arabic Audio": "msa-0004-6.mp3"
 		},
@@ -71,7 +71,7 @@
 			"English": "What bad things?",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ما هي الأشياء السيئة؟",
 			"Egyptian Arabic Audio": "eca-0004-7.mp3",
 			"Standard Arabic Audio": "msa-0004-7.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "I heard that she doesn't let anyone laugh.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "سمعت أنها لا تدع أي شخص يضحك.",
 			"Egyptian Arabic Audio": "eca-0004-8.mp3",
 			"Standard Arabic Audio": "msa-0004-8.mp3"
 		},
@@ -91,7 +91,7 @@
 			"English": "That is ridiculous.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وهذا أمر مثير للسخرية.",
 			"Egyptian Arabic Audio": "eca-0004-9.mp3",
 			"Standard Arabic Audio": "msa-0004-9.mp3"
 		},
@@ -101,7 +101,7 @@
 			"English": "The older kids told me that.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "قال لي الأطفال الأكبر سنا ذلك.",
 			"Egyptian Arabic Audio": "eca-0004-10.mp3",
 			"Standard Arabic Audio": "msa-0004-10.mp3"
 		},
@@ -111,7 +111,7 @@
 			"English": "They're just trying to scare you.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انهم مجرد محاولة لتخويف لك.",
 			"Egyptian Arabic Audio": "eca-0004-11.mp3",
 			"Standard Arabic Audio": "msa-0004-11.mp3"
 		},
@@ -121,7 +121,7 @@
 			"English": "Oh, really? Thank goodness.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "حقا؟ شكرا لله.",
 			"Egyptian Arabic Audio": "eca-0004-12.mp3",
 			"Standard Arabic Audio": "msa-0004-12.mp3"
 		}

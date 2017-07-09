@@ -9,7 +9,7 @@
 			"English": "Later that night, Mildred got into an argument with her husband for something.",
 			"Word Count": 13,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "في وقت لاحق من تلك الليلة، دخلت ميلدريد في حجة مع زوجها لشيء ما.",
 			"Egyptian Arabic Audio": "eca-2356-1.mp3",
 			"Standard Arabic Audio": "msa-2356-1.mp3"
 		},
@@ -18,7 +18,7 @@
 			"English": "In the middle of the argument she slammed her hand on the kitchen counter.",
 			"Word Count": 14,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "في وسط الحجة أنها انتقدت يدها على عداد المطبخ.",
 			"Egyptian Arabic Audio": "eca-2356-2.mp3",
 			"Standard Arabic Audio": "msa-2356-2.mp3"
 		},
@@ -27,7 +27,7 @@
 			"English": "\"Mommy, you need a time-out,\" Bill said.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وقال بيل &quot;ان الام تحتاج الى مهلة&quot;.",
 			"Egyptian Arabic Audio": "eca-2356-3.mp3",
 			"Standard Arabic Audio": "msa-2356-3.mp3"
 		}

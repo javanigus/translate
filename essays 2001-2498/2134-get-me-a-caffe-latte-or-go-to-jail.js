@@ -9,7 +9,7 @@
 			"English": "Mantle was in jail because he had displeased Judge Brown.",
 			"Word Count": 10,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وكان عباءة في السجن لأنه استاء القاضي براون.",
 			"Egyptian Arabic Audio": "eca-2134-1.mp3",
 			"Standard Arabic Audio": "msa-2134-1.mp3"
 		},
@@ -18,7 +18,7 @@
 			"English": "Brown had asked Mantle to bring her a caffe latte from Moonbucks on Mantle's way back from lunch.",
 			"Word Count": 18,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وكان براون قد طلب من مانتل أن يجلب لها مقهى لاتيه من مونبوكس على طريق مانتل العودة من الغداء.",
 			"Egyptian Arabic Audio": "eca-2134-2.mp3",
 			"Standard Arabic Audio": "msa-2134-2.mp3"
 		},
@@ -27,7 +27,7 @@
 			"English": "Mantle had had previous run-ins with Brown.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وكان عباءة السابق تشغيل الإضافية مع براون.",
 			"Egyptian Arabic Audio": "eca-2134-3.mp3",
 			"Standard Arabic Audio": "msa-2134-3.mp3"
 		},
@@ -36,7 +36,7 @@
 			"English": "He didn't like Brown, and refused to be her errand boy.",
 			"Word Count": 11,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لم يكن مثل براون، ورفض أن يكون صبيها مهنة.",
 			"Egyptian Arabic Audio": "eca-2134-4.mp3",
 			"Standard Arabic Audio": "msa-2134-4.mp3"
 		},
@@ -45,7 +45,7 @@
 			"English": "When Mantle returned from lunch, she asked him where her coffee was.",
 			"Word Count": 12,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "عندما عادت مانتل من الغداء، سألته أين كانت القهوة.",
 			"Egyptian Arabic Audio": "eca-2134-5.mp3",
 			"Standard Arabic Audio": "msa-2134-5.mp3"
 		},
@@ -54,7 +54,7 @@
 			"English": "Mantle said, \"They ran out.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وقال مانتل، &quot;لقد نفدوا.",
 			"Egyptian Arabic Audio": "eca-2134-6.mp3",
 			"Standard Arabic Audio": "msa-2134-6.mp3"
 		},
@@ -63,7 +63,7 @@
 			"English": "They said to come back tomorrow.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وقالوا أن يعودوا غدا.",
 			"Egyptian Arabic Audio": "eca-2134-7.mp3",
 			"Standard Arabic Audio": "msa-2134-7.mp3"
 		},
@@ -72,7 +72,7 @@
 			"English": "\".",
 			"Word Count": 1,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "&quot;.",
 			"Egyptian Arabic Audio": "eca-2134-8.mp3",
 			"Standard Arabic Audio": "msa-2134-8.mp3"
 		}

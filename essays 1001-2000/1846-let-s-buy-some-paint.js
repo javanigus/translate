@@ -9,7 +9,7 @@
 			"English": "\"We don't need a stepladder.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "&quot;نحن لسنا بحاجة إلى ستيبلادر.",
 			"Egyptian Arabic Audio": "eca-1846-1.mp3",
 			"Standard Arabic Audio": "msa-1846-1.mp3"
 		},
@@ -18,7 +18,7 @@
 			"English": "I can sit on your shoulders,\" Elizabeth laughed.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أستطيع الجلوس على كتفيك &quot;، ضحك إليزابيث.",
 			"Egyptian Arabic Audio": "eca-1846-2.mp3",
 			"Standard Arabic Audio": "msa-1846-2.mp3"
 		},
@@ -27,7 +27,7 @@
 			"English": "They went back inside and bought a stepladder.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "عادوا إلى الداخل واشتروا ستيبلادر.",
 			"Egyptian Arabic Audio": "eca-1846-3.mp3",
 			"Standard Arabic Audio": "msa-1846-3.mp3"
 		}

@@ -11,7 +11,7 @@
 			"English": "There are holes in the wood in the garage.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هناك ثقوب في الخشب في المرآب.",
 			"Egyptian Arabic Audio": "eca-0055-1.mp3",
 			"Standard Arabic Audio": "msa-0055-1.mp3"
 		},
@@ -21,7 +21,7 @@
 			"English": "Are they big or little?",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هل هي كبيرة أم صغيرة؟",
 			"Egyptian Arabic Audio": "eca-0055-2.mp3",
 			"Standard Arabic Audio": "msa-0055-2.mp3"
 		},
@@ -31,7 +31,7 @@
 			"English": "They are actually quite tiny.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "فهي في الواقع صغيرة جدا.",
 			"Egyptian Arabic Audio": "eca-0055-3.mp3",
 			"Standard Arabic Audio": "msa-0055-3.mp3"
 		},
@@ -41,7 +41,7 @@
 			"English": "That is very worrisome.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وهذا أمر يبعث على القلق الشديد.",
 			"Egyptian Arabic Audio": "eca-0055-4.mp3",
 			"Standard Arabic Audio": "msa-0055-4.mp3"
 		},
@@ -51,7 +51,7 @@
 			"English": "Why do you say that?",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لماذا تقول هذا؟",
 			"Egyptian Arabic Audio": "eca-0055-5.mp3",
 			"Standard Arabic Audio": "msa-0055-5.mp3"
 		},
@@ -61,7 +61,7 @@
 			"English": "You could have termites, or carpenter ants.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هل يمكن أن يكون النمل الأبيض، أو النمل النجار.",
 			"Egyptian Arabic Audio": "eca-0055-6.mp3",
 			"Standard Arabic Audio": "msa-0055-6.mp3"
 		},
@@ -71,7 +71,7 @@
 			"English": "You mean bugs could be eating my house?",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هل تعني البق يمكن أن يأكل بيتي؟",
 			"Egyptian Arabic Audio": "eca-0055-7.mp3",
 			"Standard Arabic Audio": "msa-0055-7.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "Yes. It is a very serious problem.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "نعم فعلا. إنها مشكلة خطيرة جدا.",
 			"Egyptian Arabic Audio": "eca-0055-8.mp3",
 			"Standard Arabic Audio": "msa-0055-8.mp3"
 		},
@@ -91,7 +91,7 @@
 			"English": "What should I do?",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ماذا علي أن أفعل؟",
 			"Egyptian Arabic Audio": "eca-0055-9.mp3",
 			"Standard Arabic Audio": "msa-0055-9.mp3"
 		},
@@ -101,7 +101,7 @@
 			"English": "You need to fumigate them immediately.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "تحتاج إلى تبخير لهم على الفور.",
 			"Egyptian Arabic Audio": "eca-0055-10.mp3",
 			"Standard Arabic Audio": "msa-0055-10.mp3"
 		},
@@ -111,7 +111,7 @@
 			"English": "Bugs are such a hassle!",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "البق هي مثل هذه المتاعب!",
 			"Egyptian Arabic Audio": "eca-0055-11.mp3",
 			"Standard Arabic Audio": "msa-0055-11.mp3"
 		},
@@ -121,7 +121,7 @@
 			"English": "I wish they were all dead!",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أتمنى أنهم جميعا ماتوا!",
 			"Egyptian Arabic Audio": "eca-0055-12.mp3",
 			"Standard Arabic Audio": "msa-0055-12.mp3"
 		}

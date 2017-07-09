@@ -9,7 +9,7 @@
 			"English": "Each September volunteers clean up the beach.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كل متطوعي سبتمبر تنظيف الشاطئ.",
 			"Egyptian Arabic Audio": "eca-1330-1.mp3",
 			"Standard Arabic Audio": "msa-1330-1.mp3"
 		},
@@ -18,7 +18,7 @@
 			"English": "Hundreds of volunteers clean up the beach.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ويقوم مئات المتطوعين بتنظيف الشاطئ.",
 			"Egyptian Arabic Audio": "eca-1330-2.mp3",
 			"Standard Arabic Audio": "msa-1330-2.mp3"
 		},
@@ -27,7 +27,7 @@
 			"English": "They carry empty trash bags.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنها تحمل أكياس القمامة فارغة.",
 			"Egyptian Arabic Audio": "eca-1330-3.mp3",
 			"Standard Arabic Audio": "msa-1330-3.mp3"
 		},
@@ -36,7 +36,7 @@
 			"English": "They pick up trash.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انهم التقاط القمامة.",
 			"Egyptian Arabic Audio": "eca-1330-4.mp3",
 			"Standard Arabic Audio": "msa-1330-4.mp3"
 		},
@@ -45,7 +45,7 @@
 			"English": "They fill up the trash bags.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنها تملأ أكياس القمامة.",
 			"Egyptian Arabic Audio": "eca-1330-5.mp3",
 			"Standard Arabic Audio": "msa-1330-5.mp3"
 		},
@@ -54,7 +54,7 @@
 			"English": "They fill up hundreds of trash bags.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنها تملأ مئات من أكياس القمامة.",
 			"Egyptian Arabic Audio": "eca-1330-6.mp3",
 			"Standard Arabic Audio": "msa-1330-6.mp3"
 		},
@@ -63,7 +63,7 @@
 			"English": "They put all the trash bags into trucks.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وضعوا جميع أكياس القمامة في الشاحنات.",
 			"Egyptian Arabic Audio": "eca-1330-7.mp3",
 			"Standard Arabic Audio": "msa-1330-7.mp3"
 		},
@@ -72,7 +72,7 @@
 			"English": "The trucks take the trash bags to a landfill.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "الشاحنات تأخذ أكياس القمامة إلى مكب النفايات.",
 			"Egyptian Arabic Audio": "eca-1330-8.mp3",
 			"Standard Arabic Audio": "msa-1330-8.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "The trash goes from the beach to the landfill.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "القمامة يذهب من الشاطئ إلى المكب.",
 			"Egyptian Arabic Audio": "eca-1330-9.mp3",
 			"Standard Arabic Audio": "msa-1330-9.mp3"
 		},
@@ -90,7 +90,7 @@
 			"English": "Every year there is more beach trash.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كل عام هناك المزيد من القمامة الشاطئ.",
 			"Egyptian Arabic Audio": "eca-1330-10.mp3",
 			"Standard Arabic Audio": "msa-1330-10.mp3"
 		},
@@ -99,7 +99,7 @@
 			"English": "Every year there is more landfill trash.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كل عام هناك المزيد من القمامة المكب.",
 			"Egyptian Arabic Audio": "eca-1330-11.mp3",
 			"Standard Arabic Audio": "msa-1330-11.mp3"
 		},
@@ -108,7 +108,7 @@
 			"English": "Jill picked up trash for three years.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "التقط جيل القمامة لمدة ثلاث سنوات.",
 			"Egyptian Arabic Audio": "eca-1330-12.mp3",
 			"Standard Arabic Audio": "msa-1330-12.mp3"
 		},
@@ -117,7 +117,7 @@
 			"English": "Finally she said, \"People leave trash here every year.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وأخيرا قالت: &quot;يترك الناس القمامة هنا كل عام.",
 			"Egyptian Arabic Audio": "eca-1330-13.mp3",
 			"Standard Arabic Audio": "msa-1330-13.mp3"
 		},
@@ -126,7 +126,7 @@
 			"English": "They know we will pick it up.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انهم يعرفون أننا سوف يستلم.",
 			"Egyptian Arabic Audio": "eca-1330-14.mp3",
 			"Standard Arabic Audio": "msa-1330-14.mp3"
 		},
@@ -135,7 +135,7 @@
 			"English": "We shouldn't pick it up.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يجب ألا نستلمها.",
 			"Egyptian Arabic Audio": "eca-1330-15.mp3",
 			"Standard Arabic Audio": "msa-1330-15.mp3"
 		},
@@ -144,7 +144,7 @@
 			"English": "In a few years, trash will cover this beach.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "في غضون سنوات قليلة، سوف القمامة تغطي هذا الشاطئ.",
 			"Egyptian Arabic Audio": "eca-1330-16.mp3",
 			"Standard Arabic Audio": "msa-1330-16.mp3"
 		},
@@ -153,7 +153,7 @@
 			"English": "People will stop coming here.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "الناس سوف تتوقف القادمة هنا.",
 			"Egyptian Arabic Audio": "eca-1330-17.mp3",
 			"Standard Arabic Audio": "msa-1330-17.mp3"
 		},
@@ -162,7 +162,7 @@
 			"English": "They will stop leaving trash here.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "سيتوقفون عن ترك المهملات هنا.",
 			"Egyptian Arabic Audio": "eca-1330-18.mp3",
 			"Standard Arabic Audio": "msa-1330-18.mp3"
 		},
@@ -171,7 +171,7 @@
 			"English": "\".",
 			"Word Count": 1,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "&quot;.",
 			"Egyptian Arabic Audio": "eca-1330-19.mp3",
 			"Standard Arabic Audio": "msa-1330-19.mp3"
 		}

@@ -11,7 +11,7 @@
 			"English": "Could you help me with something?",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هل يمكن أن تساعدني مع شيء؟",
 			"Egyptian Arabic Audio": "eca-1444-1.mp3",
 			"Standard Arabic Audio": "msa-1444-1.mp3"
 		},
@@ -21,7 +21,7 @@
 			"English": "What did you need help with?",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ماذا كنت بحاجة إلى مساعدة؟",
 			"Egyptian Arabic Audio": "eca-1444-2.mp3",
 			"Standard Arabic Audio": "msa-1444-2.mp3"
 		},
@@ -31,7 +31,7 @@
 			"English": "I need to find the mall.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنا بحاجة للعثور على المركز التجاري.",
 			"Egyptian Arabic Audio": "eca-1444-3.mp3",
 			"Standard Arabic Audio": "msa-1444-3.mp3"
 		},
@@ -41,7 +41,7 @@
 			"English": "You don't know where it is?",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كنت لا تعرف أين هو؟",
 			"Egyptian Arabic Audio": "eca-1444-4.mp3",
 			"Standard Arabic Audio": "msa-1444-4.mp3"
 		},
@@ -51,7 +51,7 @@
 			"English": "No, and I've been looking everywhere for it.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لا، ولقد كنت أبحث في كل مكان لذلك.",
 			"Egyptian Arabic Audio": "eca-1444-5.mp3",
 			"Standard Arabic Audio": "msa-1444-5.mp3"
 		},
@@ -61,7 +61,7 @@
 			"English": "It's in the same place as the movie theater.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انها في نفس المكان كما في مسرح السينما.",
 			"Egyptian Arabic Audio": "eca-1444-6.mp3",
 			"Standard Arabic Audio": "msa-1444-6.mp3"
 		},
@@ -71,7 +71,7 @@
 			"English": "Where is the movie theater?",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "اين مسرح الافلام؟",
 			"Egyptian Arabic Audio": "eca-1444-7.mp3",
 			"Standard Arabic Audio": "msa-1444-7.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "It's on Washington Boulevard.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انها على شارع واشنطن.",
 			"Egyptian Arabic Audio": "eca-1444-8.mp3",
 			"Standard Arabic Audio": "msa-1444-8.mp3"
 		},
@@ -91,7 +91,7 @@
 			"English": "You mean that huge plaza?",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كنت تعني أن ساحة ضخمة؟",
 			"Egyptian Arabic Audio": "eca-1444-9.mp3",
 			"Standard Arabic Audio": "msa-1444-9.mp3"
 		},
@@ -101,7 +101,7 @@
 			"English": "That's exactly where it is.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هذا بالضبط أين هو.",
 			"Egyptian Arabic Audio": "eca-1444-10.mp3",
 			"Standard Arabic Audio": "msa-1444-10.mp3"
 		},
@@ -111,7 +111,7 @@
 			"English": "I know where that is.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أعرف أين هو.",
 			"Egyptian Arabic Audio": "eca-1444-11.mp3",
 			"Standard Arabic Audio": "msa-1444-11.mp3"
 		},
@@ -121,7 +121,7 @@
 			"English": "I'm glad I was able to help.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنا سعيد لأنني كنت قادرا على المساعدة.",
 			"Egyptian Arabic Audio": "eca-1444-12.mp3",
 			"Standard Arabic Audio": "msa-1444-12.mp3"
 		},
@@ -131,7 +131,7 @@
 			"English": "I need some help.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "احتاج لبعض المساعدة.",
 			"Egyptian Arabic Audio": "eca-1444-13.mp3",
 			"Standard Arabic Audio": "msa-1444-13.mp3"
 		},
@@ -141,7 +141,7 @@
 			"English": "What's up?",
 			"Word Count": 2,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ماذا تفعل؟",
 			"Egyptian Arabic Audio": "eca-1444-14.mp3",
 			"Standard Arabic Audio": "msa-1444-14.mp3"
 		},
@@ -151,7 +151,7 @@
 			"English": "I'm looking for the mall.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أبحث عن المول.",
 			"Egyptian Arabic Audio": "eca-1444-15.mp3",
 			"Standard Arabic Audio": "msa-1444-15.mp3"
 		},
@@ -161,7 +161,7 @@
 			"English": "You can't find it?",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لا يمكنك العثور عليه؟",
 			"Egyptian Arabic Audio": "eca-1444-16.mp3",
 			"Standard Arabic Audio": "msa-1444-16.mp3"
 		},
@@ -171,7 +171,7 @@
 			"English": "I've looked everywhere.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لقد نظرت في كل مكان.",
 			"Egyptian Arabic Audio": "eca-1444-17.mp3",
 			"Standard Arabic Audio": "msa-1444-17.mp3"
 		},
@@ -181,7 +181,7 @@
 			"English": "The mall is right next to the movie theater.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يقع المركز التجاري بجوار مسرح السينما مباشرة.",
 			"Egyptian Arabic Audio": "eca-1444-18.mp3",
 			"Standard Arabic Audio": "msa-1444-18.mp3"
 		},
@@ -191,7 +191,7 @@
 			"English": "Where is that?",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أين هذا؟",
 			"Egyptian Arabic Audio": "eca-1444-19.mp3",
 			"Standard Arabic Audio": "msa-1444-19.mp3"
 		},
@@ -201,7 +201,7 @@
 			"English": "You'll find it on Washington Boulevard.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ستجده في شارع واشنطن.",
 			"Egyptian Arabic Audio": "eca-1444-20.mp3",
 			"Standard Arabic Audio": "msa-1444-20.mp3"
 		},
@@ -211,7 +211,7 @@
 			"English": "In that plaza?",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "في تلك الساحة؟",
 			"Egyptian Arabic Audio": "eca-1444-21.mp3",
 			"Standard Arabic Audio": "msa-1444-21.mp3"
 		},
@@ -221,7 +221,7 @@
 			"English": "Yes. It's in that plaza.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "نعم فعلا. انها في تلك الساحة.",
 			"Egyptian Arabic Audio": "eca-1444-22.mp3",
 			"Standard Arabic Audio": "msa-1444-22.mp3"
 		},
@@ -231,7 +231,7 @@
 			"English": "I know where it is now.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أعرف أين هو الآن.",
 			"Egyptian Arabic Audio": "eca-1444-23.mp3",
 			"Standard Arabic Audio": "msa-1444-23.mp3"
 		},
@@ -241,7 +241,7 @@
 			"English": "I'm glad I could help.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنا سعيد بخدمتك.",
 			"Egyptian Arabic Audio": "eca-1444-24.mp3",
 			"Standard Arabic Audio": "msa-1444-24.mp3"
 		},
@@ -251,7 +251,7 @@
 			"English": "Do you think that you can help me?",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هل تعتقد أنه يمكنك مساعدتي؟",
 			"Egyptian Arabic Audio": "eca-1444-25.mp3",
 			"Standard Arabic Audio": "msa-1444-25.mp3"
 		},
@@ -261,7 +261,7 @@
 			"English": "What can I help you with?",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "بماذا يمكنني مساعدتك؟",
 			"Egyptian Arabic Audio": "eca-1444-26.mp3",
 			"Standard Arabic Audio": "msa-1444-26.mp3"
 		},
@@ -271,7 +271,7 @@
 			"English": "I'm trying to find the mall.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أحاول العثور على المركز التجاري.",
 			"Egyptian Arabic Audio": "eca-1444-27.mp3",
 			"Standard Arabic Audio": "msa-1444-27.mp3"
 		},
@@ -281,7 +281,7 @@
 			"English": "You're not sure where the mall is?",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كنت غير متأكد من أين المركز التجاري هو؟",
 			"Egyptian Arabic Audio": "eca-1444-28.mp3",
 			"Standard Arabic Audio": "msa-1444-28.mp3"
 		},
@@ -291,7 +291,7 @@
 			"English": "I've looked all over the place for the mall.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لقد نظرت في كل مكان لمركز التسوق.",
 			"Egyptian Arabic Audio": "eca-1444-29.mp3",
 			"Standard Arabic Audio": "msa-1444-29.mp3"
 		},
@@ -301,7 +301,7 @@
 			"English": "The mall is in the same place as the movie theater.",
 			"Word Count": 11,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "المول هو في نفس المكان كما في السينما.",
 			"Egyptian Arabic Audio": "eca-1444-30.mp3",
 			"Standard Arabic Audio": "msa-1444-30.mp3"
 		},
@@ -311,7 +311,7 @@
 			"English": "I don't know where the movie theater is either.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنا لا أعرف أين مسرح السينما إما.",
 			"Egyptian Arabic Audio": "eca-1444-31.mp3",
 			"Standard Arabic Audio": "msa-1444-31.mp3"
 		},
@@ -321,7 +321,7 @@
 			"English": "It's over on Washington Boulevard.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انها انتهت على شارع واشنطن.",
 			"Egyptian Arabic Audio": "eca-1444-32.mp3",
 			"Standard Arabic Audio": "msa-1444-32.mp3"
 		},
@@ -331,7 +331,7 @@
 			"English": "Is it in that plaza?",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هل هو في تلك الساحة؟",
 			"Egyptian Arabic Audio": "eca-1444-33.mp3",
 			"Standard Arabic Audio": "msa-1444-33.mp3"
 		},
@@ -341,7 +341,7 @@
 			"English": "That's the place.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هذا هو المكان.",
 			"Egyptian Arabic Audio": "eca-1444-34.mp3",
 			"Standard Arabic Audio": "msa-1444-34.mp3"
 		},
@@ -351,7 +351,7 @@
 			"English": "I know exactly where the plaza is.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أعرف بالضبط أين الساحة.",
 			"Egyptian Arabic Audio": "eca-1444-35.mp3",
 			"Standard Arabic Audio": "msa-1444-35.mp3"
 		},
@@ -361,7 +361,7 @@
 			"English": "I'm glad that I was some help to you.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنا سعيد لأنني كنت بعض المساعدة لك.",
 			"Egyptian Arabic Audio": "eca-1444-36.mp3",
 			"Standard Arabic Audio": "msa-1444-36.mp3"
 		}

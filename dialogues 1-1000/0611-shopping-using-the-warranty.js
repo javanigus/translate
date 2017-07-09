@@ -11,7 +11,7 @@
 			"English": "Hi, I need assistance, please.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "مرحبا، أنا بحاجة إلى المساعدة، من فضلك.",
 			"Egyptian Arabic Audio": "eca-0611-1.mp3",
 			"Standard Arabic Audio": "msa-0611-1.mp3"
 		},
@@ -21,7 +21,7 @@
 			"English": "How can I help you today?",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كيف استطيع مساعدتك اليوم؟",
 			"Egyptian Arabic Audio": "eca-0611-2.mp3",
 			"Standard Arabic Audio": "msa-0611-2.mp3"
 		},
@@ -31,7 +31,7 @@
 			"English": "My phone refuses to turn on anymore.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هاتفي يرفض تشغيل بعد الآن.",
 			"Egyptian Arabic Audio": "eca-0611-3.mp3",
 			"Standard Arabic Audio": "msa-0611-3.mp3"
 		},
@@ -41,7 +41,7 @@
 			"English": "It looks like it short circuited.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يبدو أنها قصيرة سيركويتد.",
 			"Egyptian Arabic Audio": "eca-0611-4.mp3",
 			"Standard Arabic Audio": "msa-0611-4.mp3"
 		},
@@ -51,7 +51,7 @@
 			"English": "Well, I did drop it many times.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "حسنا، أنا لم إسقاط عدة مرات.",
 			"Egyptian Arabic Audio": "eca-0611-5.mp3",
 			"Standard Arabic Audio": "msa-0611-5.mp3"
 		},
@@ -61,7 +61,7 @@
 			"English": "I'm afraid I can't help you.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أخشى أنني لا أستطيع مساعدتك.",
 			"Egyptian Arabic Audio": "eca-0611-6.mp3",
 			"Standard Arabic Audio": "msa-0611-6.mp3"
 		},
@@ -71,7 +71,7 @@
 			"English": "I guess I'll have to use the warranty.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أعتقد سوف تضطر إلى استخدام الضمان.",
 			"Egyptian Arabic Audio": "eca-0611-7.mp3",
 			"Standard Arabic Audio": "msa-0611-7.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "According to your contract, you may choose a new phone.",
 			"Word Count": 10,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وفقا لعقدك، يمكنك اختيار هاتف جديد.",
 			"Egyptian Arabic Audio": "eca-0611-8.mp3",
 			"Standard Arabic Audio": "msa-0611-8.mp3"
 		},
@@ -91,7 +91,7 @@
 			"English": "I'll just get the same brand again.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنا فقط الحصول على نفس العلامة التجارية مرة أخرى.",
 			"Egyptian Arabic Audio": "eca-0611-9.mp3",
 			"Standard Arabic Audio": "msa-0611-9.mp3"
 		},
@@ -101,7 +101,7 @@
 			"English": "Will you need the warranty?",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "سوف تحتاج الضمان؟",
 			"Egyptian Arabic Audio": "eca-0611-10.mp3",
 			"Standard Arabic Audio": "msa-0611-10.mp3"
 		},
@@ -111,7 +111,7 @@
 			"English": "No. Just have the phone.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "رقم فقط الهاتف.",
 			"Egyptian Arabic Audio": "eca-0611-11.mp3",
 			"Standard Arabic Audio": "msa-0611-11.mp3"
 		},
@@ -121,7 +121,7 @@
 			"English": "Make sure you don't go dropping it!",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "تأكد من أنك لا تذهب إسقاط ذلك!",
 			"Egyptian Arabic Audio": "eca-0611-12.mp3",
 			"Standard Arabic Audio": "msa-0611-12.mp3"
 		}

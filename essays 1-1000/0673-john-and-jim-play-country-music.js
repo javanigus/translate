@@ -9,7 +9,7 @@
 			"English": "John sat on the porch playing his electric bass.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "جون جلس على الشرفة يلعب له باس الكهربائية.",
 			"Egyptian Arabic Audio": "eca-0673-1.mp3",
 			"Standard Arabic Audio": "msa-0673-1.mp3"
 		},
@@ -18,7 +18,7 @@
 			"English": "He had a brother called James.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كان له أخ يدعى جيمس.",
 			"Egyptian Arabic Audio": "eca-0673-2.mp3",
 			"Standard Arabic Audio": "msa-0673-2.mp3"
 		},
@@ -27,7 +27,7 @@
 			"English": "James played guitar.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "جيمس لعبت الغيتار.",
 			"Egyptian Arabic Audio": "eca-0673-3.mp3",
 			"Standard Arabic Audio": "msa-0673-3.mp3"
 		},
@@ -36,7 +36,7 @@
 			"English": "He played it every day.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لعب كل يوم.",
 			"Egyptian Arabic Audio": "eca-0673-4.mp3",
 			"Standard Arabic Audio": "msa-0673-4.mp3"
 		},
@@ -45,7 +45,7 @@
 			"English": "He played the guitar well.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لعب الغيتار جيدا.",
 			"Egyptian Arabic Audio": "eca-0673-5.mp3",
 			"Standard Arabic Audio": "msa-0673-5.mp3"
 		},
@@ -54,7 +54,7 @@
 			"English": "Sometimes John and Jim made music together.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أحيانا جعل جون وجيم الموسيقى معا.",
 			"Egyptian Arabic Audio": "eca-0673-6.mp3",
 			"Standard Arabic Audio": "msa-0673-6.mp3"
 		},
@@ -63,7 +63,7 @@
 			"English": "John sang the melody.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "جون غنى اللحن.",
 			"Egyptian Arabic Audio": "eca-0673-7.mp3",
 			"Standard Arabic Audio": "msa-0673-7.mp3"
 		},
@@ -72,7 +72,7 @@
 			"English": "Jim sang harmony.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "جيم غنى الانسجام.",
 			"Egyptian Arabic Audio": "eca-0673-8.mp3",
 			"Standard Arabic Audio": "msa-0673-8.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "They both played their instruments together.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كلاهما لعبت أدواتهما معا.",
 			"Egyptian Arabic Audio": "eca-0673-9.mp3",
 			"Standard Arabic Audio": "msa-0673-9.mp3"
 		},
@@ -90,7 +90,7 @@
 			"English": "They made beautiful music.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "جعلوا الموسيقى الجميلة.",
 			"Egyptian Arabic Audio": "eca-0673-10.mp3",
 			"Standard Arabic Audio": "msa-0673-10.mp3"
 		},
@@ -99,7 +99,7 @@
 			"English": "The music was catchy.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كانت الموسيقى جذاب.",
 			"Egyptian Arabic Audio": "eca-0673-11.mp3",
 			"Standard Arabic Audio": "msa-0673-11.mp3"
 		},
@@ -108,7 +108,7 @@
 			"English": "Strangers noticed Jim and John playing music.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لاحظ الغرباء جيم وجون يلعب الموسيقى.",
 			"Egyptian Arabic Audio": "eca-0673-12.mp3",
 			"Standard Arabic Audio": "msa-0673-12.mp3"
 		},
@@ -117,7 +117,7 @@
 			"English": "They would walk closer to the porch to listen to the music.",
 			"Word Count": 12,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كانوا سيرا على الأقدام أقرب إلى الشرفة للاستماع إلى الموسيقى.",
 			"Egyptian Arabic Audio": "eca-0673-13.mp3",
 			"Standard Arabic Audio": "msa-0673-13.mp3"
 		},
@@ -126,7 +126,7 @@
 			"English": "John sang country music.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "جون غنى موسيقى الريف.",
 			"Egyptian Arabic Audio": "eca-0673-14.mp3",
 			"Standard Arabic Audio": "msa-0673-14.mp3"
 		},
@@ -135,7 +135,7 @@
 			"English": "Everybody in the neighborhood loved it.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "الجميع في الحي أحب ذلك.",
 			"Egyptian Arabic Audio": "eca-0673-15.mp3",
 			"Standard Arabic Audio": "msa-0673-15.mp3"
 		},
@@ -144,7 +144,7 @@
 			"English": "Country music was their favorite kind of music.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كانت موسيقى الريف النوع المفضل لديهم من الموسيقى.",
 			"Egyptian Arabic Audio": "eca-0673-16.mp3",
 			"Standard Arabic Audio": "msa-0673-16.mp3"
 		},
@@ -153,7 +153,7 @@
 			"English": "Jim and John lived in Texas.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "جيم وجون عاش في تكساس.",
 			"Egyptian Arabic Audio": "eca-0673-17.mp3",
 			"Standard Arabic Audio": "msa-0673-17.mp3"
 		},
@@ -162,7 +162,7 @@
 			"English": "Texans love country music.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "تكساس يحب الموسيقى القطرية.",
 			"Egyptian Arabic Audio": "eca-0673-18.mp3",
 			"Standard Arabic Audio": "msa-0673-18.mp3"
 		},
@@ -171,7 +171,7 @@
 			"English": "John and Jim were talented.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كان جون وجيم موهوبين.",
 			"Egyptian Arabic Audio": "eca-0673-19.mp3",
 			"Standard Arabic Audio": "msa-0673-19.mp3"
 		},
@@ -180,7 +180,7 @@
 			"English": "When they grew older.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "عندما كبر السن.",
 			"Egyptian Arabic Audio": "eca-0673-20.mp3",
 			"Standard Arabic Audio": "msa-0673-20.mp3"
 		},
@@ -189,7 +189,7 @@
 			"English": "They did not stop making music.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لم يتوقفوا عن جعل الموسيقى.",
 			"Egyptian Arabic Audio": "eca-0673-21.mp3",
 			"Standard Arabic Audio": "msa-0673-21.mp3"
 		},
@@ -198,7 +198,7 @@
 			"English": "They recorded their songs.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "سجلوا أغانيهم.",
 			"Egyptian Arabic Audio": "eca-0673-22.mp3",
 			"Standard Arabic Audio": "msa-0673-22.mp3"
 		},
@@ -207,7 +207,7 @@
 			"English": "The songs were heard on the radio.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "سمعت الأغاني على الراديو.",
 			"Egyptian Arabic Audio": "eca-0673-23.mp3",
 			"Standard Arabic Audio": "msa-0673-23.mp3"
 		},
@@ -216,7 +216,7 @@
 			"English": "Jim and John became country music stars.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أصبح جيم وجون نجوم موسيقى الريف.",
 			"Egyptian Arabic Audio": "eca-0673-24.mp3",
 			"Standard Arabic Audio": "msa-0673-24.mp3"
 		}

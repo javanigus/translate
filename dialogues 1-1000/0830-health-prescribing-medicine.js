@@ -11,7 +11,7 @@
 			"English": "I saw a commercial about a heart medication.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "رأيت تجاري حول دواء القلب.",
 			"Egyptian Arabic Audio": "eca-0830-1.mp3",
 			"Standard Arabic Audio": "msa-0830-1.mp3"
 		},
@@ -21,7 +21,7 @@
 			"English": "You don't have any heart problems.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ليس لديك أي مشاكل في القلب.",
 			"Egyptian Arabic Audio": "eca-0830-2.mp3",
 			"Standard Arabic Audio": "msa-0830-2.mp3"
 		},
@@ -31,7 +31,7 @@
 			"English": "I know, but the ad suggested I ask my doctor if that medication was right for me.",
 			"Word Count": 17,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وأنا أعلم، ولكن الإعلان اقترح أن أسأل طبيبي إذا كان هذا الدواء كان صحيحا بالنسبة لي.",
 			"Egyptian Arabic Audio": "eca-0830-3.mp3",
 			"Standard Arabic Audio": "msa-0830-3.mp3"
 		},
@@ -41,7 +41,7 @@
 			"English": "As your doctor, I can tell you that you don't need any heart medication.",
 			"Word Count": 14,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كما طبيبك، أستطيع أن أقول لكم أنك لا تحتاج إلى أي دواء القلب.",
 			"Egyptian Arabic Audio": "eca-0830-4.mp3",
 			"Standard Arabic Audio": "msa-0830-4.mp3"
 		},
@@ -51,7 +51,7 @@
 			"English": "Okay, what about this medication that has the commercial with the couple in the bathtub?",
 			"Word Count": 15,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "حسنا، ماذا عن هذا الدواء الذي لديه التجاري مع الزوجين في حوض الاستحمام؟",
 			"Egyptian Arabic Audio": "eca-0830-5.mp3",
 			"Standard Arabic Audio": "msa-0830-5.mp3"
 		},
@@ -61,7 +61,7 @@
 			"English": "What about it?",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ماذا عنها؟",
 			"Egyptian Arabic Audio": "eca-0830-6.mp3",
 			"Standard Arabic Audio": "msa-0830-6.mp3"
 		},
@@ -71,7 +71,7 @@
 			"English": "Can you prescribe that to me?",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هل يمكنك أن تصف ذلك لي؟",
 			"Egyptian Arabic Audio": "eca-0830-7.mp3",
 			"Standard Arabic Audio": "msa-0830-7.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "The only thing I am prescribing you is an antibiotic for your strep throat.",
 			"Word Count": 14,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "الشيء الوحيد الذي وصفه لك هو مضاد حيوي لحلق بكتيريا.",
 			"Egyptian Arabic Audio": "eca-0830-8.mp3",
 			"Standard Arabic Audio": "msa-0830-8.mp3"
 		},
@@ -91,7 +91,7 @@
 			"English": "What do I do with this piece of paper?",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ماذا أفعل مع هذه القطعة من الورق؟",
 			"Egyptian Arabic Audio": "eca-0830-9.mp3",
 			"Standard Arabic Audio": "msa-0830-9.mp3"
 		},
@@ -101,7 +101,7 @@
 			"English": "Take it to the pharmacy, and the pharmacist will give you the antibiotic.",
 			"Word Count": 13,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أخذه إلى الصيدلية، وسيعطيك الصيدلي المضاد الحيوي.",
 			"Egyptian Arabic Audio": "eca-0830-10.mp3",
 			"Standard Arabic Audio": "msa-0830-10.mp3"
 		},
@@ -111,7 +111,7 @@
 			"English": "What if it doesn't work?",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ماذا لو كان لا يعمل؟",
 			"Egyptian Arabic Audio": "eca-0830-11.mp3",
 			"Standard Arabic Audio": "msa-0830-11.mp3"
 		},
@@ -121,7 +121,7 @@
 			"English": "Come back to see me again.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أعود لتراني مرة أخرى.",
 			"Egyptian Arabic Audio": "eca-0830-12.mp3",
 			"Standard Arabic Audio": "msa-0830-12.mp3"
 		}

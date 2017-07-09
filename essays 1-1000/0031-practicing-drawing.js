@@ -9,7 +9,7 @@
 			"English": "I am practicing drawing.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنا ممارسة الرسم.",
 			"Egyptian Arabic Audio": "eca-0031-1.mp3",
 			"Standard Arabic Audio": "msa-0031-1.mp3"
 		},
@@ -18,7 +18,7 @@
 			"English": "I practice drawing every Saturday and Sunday.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنا ممارسة الرسم كل يوم سبت والأحد.",
 			"Egyptian Arabic Audio": "eca-0031-2.mp3",
 			"Standard Arabic Audio": "msa-0031-2.mp3"
 		},
@@ -27,7 +27,7 @@
 			"English": "My teacher shows me new things.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أستاذي يظهر لي أشياء جديدة.",
 			"Egyptian Arabic Audio": "eca-0031-3.mp3",
 			"Standard Arabic Audio": "msa-0031-3.mp3"
 		},
@@ -36,7 +36,7 @@
 			"English": "I know how to draw people, animals, and objects now.",
 			"Word Count": 10,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أعرف كيفية رسم الناس والحيوانات والأشياء الآن.",
 			"Egyptian Arabic Audio": "eca-0031-4.mp3",
 			"Standard Arabic Audio": "msa-0031-4.mp3"
 		},
@@ -45,7 +45,7 @@
 			"English": "I always want to get better, so I practice every day.",
 			"Word Count": 11,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أريد دائما الحصول على أفضل، حتى ممارسة كل يوم.",
 			"Egyptian Arabic Audio": "eca-0031-5.mp3",
 			"Standard Arabic Audio": "msa-0031-5.mp3"
 		},
@@ -54,7 +54,7 @@
 			"English": "My parents always tell me that I am a good artist.",
 			"Word Count": 11,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "والدي يقول لي دائما أنني فنان جيد.",
 			"Egyptian Arabic Audio": "eca-0031-6.mp3",
 			"Standard Arabic Audio": "msa-0031-6.mp3"
 		},
@@ -63,7 +63,7 @@
 			"English": "They think I can do it as a job.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يعتقدون أنني أستطيع أن أفعل ذلك كعمل.",
 			"Egyptian Arabic Audio": "eca-0031-7.mp3",
 			"Standard Arabic Audio": "msa-0031-7.mp3"
 		}

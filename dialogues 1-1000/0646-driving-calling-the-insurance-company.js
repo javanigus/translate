@@ -11,7 +11,7 @@
 			"English": "Hello. I was in an accident earlier today.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "مرحبا. كنت في حادث في وقت سابق اليوم.",
 			"Egyptian Arabic Audio": "eca-0646-1.mp3",
 			"Standard Arabic Audio": "msa-0646-1.mp3"
 		},
@@ -21,7 +21,7 @@
 			"English": "Okay, did you get the appropriate information from the other driver?",
 			"Word Count": 11,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "حسنا، هل حصلت على المعلومات المناسبة من السائق الآخر؟",
 			"Egyptian Arabic Audio": "eca-0646-2.mp3",
 			"Standard Arabic Audio": "msa-0646-2.mp3"
 		},
@@ -31,7 +31,7 @@
 			"English": "Yes, I did. Just tell me what you need.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "نعم، فعلت. قل لي ما تحتاجه.",
 			"Egyptian Arabic Audio": "eca-0646-3.mp3",
 			"Standard Arabic Audio": "msa-0646-3.mp3"
 		},
@@ -41,7 +41,7 @@
 			"English": "It would be better if you came into the office.",
 			"Word Count": 10,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "سيكون من الأفضل لو جئت إلى المكتب.",
 			"Egyptian Arabic Audio": "eca-0646-4.mp3",
 			"Standard Arabic Audio": "msa-0646-4.mp3"
 		},
@@ -51,7 +51,7 @@
 			"English": "When can I come in?",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "متى يمكن أن يأتي؟",
 			"Egyptian Arabic Audio": "eca-0646-5.mp3",
 			"Standard Arabic Audio": "msa-0646-5.mp3"
 		},
@@ -61,7 +61,7 @@
 			"English": "You can come in tomorrow. What time works for you?",
 			"Word Count": 10,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يمكنك أن تأتي في الغد. ما هو الوقت المناسب بالنسبة لك؟",
 			"Egyptian Arabic Audio": "eca-0646-6.mp3",
 			"Standard Arabic Audio": "msa-0646-6.mp3"
 		},
@@ -71,7 +71,7 @@
 			"English": "I can make it in tomorrow at noon.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أستطيع أن تجعل من الغد عند الظهر.",
 			"Egyptian Arabic Audio": "eca-0646-7.mp3",
 			"Standard Arabic Audio": "msa-0646-7.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "Great. Can you give me your full name?",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "عظيم. هل يمكن أن تعطيني اسمك الكامل؟",
 			"Egyptian Arabic Audio": "eca-0646-8.mp3",
 			"Standard Arabic Audio": "msa-0646-8.mp3"
 		},
@@ -91,7 +91,7 @@
 			"English": "Yes, it's David Mark.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "نعم، انها ديفيد مارك.",
 			"Egyptian Arabic Audio": "eca-0646-9.mp3",
 			"Standard Arabic Audio": "msa-0646-9.mp3"
 		},
@@ -101,7 +101,7 @@
 			"English": "Okay, Mr. Mark. I have you scheduled for tomorrow at noon.",
 			"Word Count": 11,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "حسنا، السيد مارك. لقد كان من المقرر لك غدا عند الظهر.",
 			"Egyptian Arabic Audio": "eca-0646-10.mp3",
 			"Standard Arabic Audio": "msa-0646-10.mp3"
 		},
@@ -111,7 +111,7 @@
 			"English": "Sounds good. I will see you tomorrow.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يبدو جيدا. أنا سوف نراكم غدا.",
 			"Egyptian Arabic Audio": "eca-0646-11.mp3",
 			"Standard Arabic Audio": "msa-0646-11.mp3"
 		},
@@ -121,7 +121,7 @@
 			"English": "Please remember to bring in all the information you got from the other  driver.",
 			"Word Count": 14,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يرجى تذكر إحضار جميع المعلومات التي حصلت عليها من السائق الآخر.",
 			"Egyptian Arabic Audio": "eca-0646-12.mp3",
 			"Standard Arabic Audio": "msa-0646-12.mp3"
 		}

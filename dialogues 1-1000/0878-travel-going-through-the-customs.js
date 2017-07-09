@@ -11,7 +11,7 @@
 			"English": "Do you have your customs form?",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هل لديك شكل الجمارك الخاص؟",
 			"Egyptian Arabic Audio": "eca-0878-1.mp3",
 			"Standard Arabic Audio": "msa-0878-1.mp3"
 		},
@@ -21,7 +21,7 @@
 			"English": "Yes, I filled it out on the plane.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "نعم، أنا ملأت بها على متن الطائرة.",
 			"Egyptian Arabic Audio": "eca-0878-2.mp3",
 			"Standard Arabic Audio": "msa-0878-2.mp3"
 		},
@@ -31,7 +31,7 @@
 			"English": "I also need your passport.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنا أيضا بحاجة جواز سفرك.",
 			"Egyptian Arabic Audio": "eca-0878-3.mp3",
 			"Standard Arabic Audio": "msa-0878-3.mp3"
 		},
@@ -41,7 +41,7 @@
 			"English": "I'm a U.S. citizen.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنا مواطن أمريكي.",
 			"Egyptian Arabic Audio": "eca-0878-4.mp3",
 			"Standard Arabic Audio": "msa-0878-4.mp3"
 		},
@@ -51,7 +51,7 @@
 			"English": "I still need to see your passport.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ما زلت بحاجة لرؤية جواز سفرك.",
 			"Egyptian Arabic Audio": "eca-0878-5.mp3",
 			"Standard Arabic Audio": "msa-0878-5.mp3"
 		},
@@ -61,7 +61,7 @@
 			"English": "What other documents do you need?",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ما هي الوثائق الأخرى التي تحتاجها؟",
 			"Egyptian Arabic Audio": "eca-0878-6.mp3",
 			"Standard Arabic Audio": "msa-0878-6.mp3"
 		},
@@ -71,7 +71,7 @@
 			"English": "Do you have anything to declare?",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هل لديك أي شيء لتعلنه؟",
 			"Egyptian Arabic Audio": "eca-0878-7.mp3",
 			"Standard Arabic Audio": "msa-0878-7.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "I bought some leather wallets in Morocco.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "اشتريت بعض محافظ جلدية في المغرب.",
 			"Egyptian Arabic Audio": "eca-0878-8.mp3",
 			"Standard Arabic Audio": "msa-0878-8.mp3"
 		},
@@ -91,7 +91,7 @@
 			"English": "You're going to have to show them to me.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنت ذاهب إلى أن تظهر لهم لي.",
 			"Egyptian Arabic Audio": "eca-0878-9.mp3",
 			"Standard Arabic Audio": "msa-0878-9.mp3"
 		},
@@ -101,7 +101,7 @@
 			"English": "Are you going to take then away from me?",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنت ذاهب لاتخاذ ثم بعيدا عني؟",
 			"Egyptian Arabic Audio": "eca-0878-10.mp3",
 			"Standard Arabic Audio": "msa-0878-10.mp3"
 		},
@@ -111,7 +111,7 @@
 			"English": "I'll only confiscate them if they are made of python skin.",
 			"Word Count": 11,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "سأقوم بمصادرتها فقط إذا كانت مصنوعة من جلد الثعبان.",
 			"Egyptian Arabic Audio": "eca-0878-11.mp3",
 			"Standard Arabic Audio": "msa-0878-11.mp3"
 		},
@@ -121,7 +121,7 @@
 			"English": "They are just leather wallets.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "فهي مجرد محافظ جلدية.",
 			"Egyptian Arabic Audio": "eca-0878-12.mp3",
 			"Standard Arabic Audio": "msa-0878-12.mp3"
 		}

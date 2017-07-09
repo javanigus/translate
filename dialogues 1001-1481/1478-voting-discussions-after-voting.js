@@ -11,7 +11,7 @@
 			"English": "Did you vote yesterday?",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هل صوتت بالأمس؟",
 			"Egyptian Arabic Audio": "eca-1478-1.mp3",
 			"Standard Arabic Audio": "msa-1478-1.mp3"
 		},
@@ -21,7 +21,7 @@
 			"English": "I sure did!",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنا متأكد من فعل!",
 			"Egyptian Arabic Audio": "eca-1478-2.mp3",
 			"Standard Arabic Audio": "msa-1478-2.mp3"
 		},
@@ -31,7 +31,7 @@
 			"English": "What candidate did you vote for?",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ما هو المرشح الذي صوتت له؟",
 			"Egyptian Arabic Audio": "eca-1478-3.mp3",
 			"Standard Arabic Audio": "msa-1478-3.mp3"
 		},
@@ -41,7 +41,7 @@
 			"English": "I voted for Obama.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لقد صوت لأوباما.",
 			"Egyptian Arabic Audio": "eca-1478-4.mp3",
 			"Standard Arabic Audio": "msa-1478-4.mp3"
 		},
@@ -51,7 +51,7 @@
 			"English": "I'm shocked he actually won.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنا صدمت انه فاز فعلا.",
 			"Egyptian Arabic Audio": "eca-1478-5.mp3",
 			"Standard Arabic Audio": "msa-1478-5.mp3"
 		},
@@ -61,7 +61,7 @@
 			"English": "I knew he would win.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كنت أعرف أنه سيفوز.",
 			"Egyptian Arabic Audio": "eca-1478-6.mp3",
 			"Standard Arabic Audio": "msa-1478-6.mp3"
 		},
@@ -71,7 +71,7 @@
 			"English": "How'd you know?",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كيف عرفت؟",
 			"Egyptian Arabic Audio": "eca-1478-7.mp3",
 			"Standard Arabic Audio": "msa-1478-7.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "He was the best candidate this year.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وكان أفضل مرشح هذا العام.",
 			"Egyptian Arabic Audio": "eca-1478-8.mp3",
 			"Standard Arabic Audio": "msa-1478-8.mp3"
 		},
@@ -91,7 +91,7 @@
 			"English": "What about him being black?",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ماذا عن كونه أسود؟",
 			"Egyptian Arabic Audio": "eca-1478-9.mp3",
 			"Standard Arabic Audio": "msa-1478-9.mp3"
 		},
@@ -101,7 +101,7 @@
 			"English": "I guess America is finally maturing.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أعتقد أن أمريكا تنضج أخيرا.",
 			"Egyptian Arabic Audio": "eca-1478-10.mp3",
 			"Standard Arabic Audio": "msa-1478-10.mp3"
 		},
@@ -111,7 +111,7 @@
 			"English": "I think you have a point.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "اعتقد ان لديك نقطة.",
 			"Egyptian Arabic Audio": "eca-1478-11.mp3",
 			"Standard Arabic Audio": "msa-1478-11.mp3"
 		},
@@ -121,7 +121,7 @@
 			"English": "I'm really happy.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنا سعيد حقا.",
 			"Egyptian Arabic Audio": "eca-1478-12.mp3",
 			"Standard Arabic Audio": "msa-1478-12.mp3"
 		},
@@ -131,7 +131,7 @@
 			"English": "Did you vote?",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هل صوتت؟",
 			"Egyptian Arabic Audio": "eca-1478-13.mp3",
 			"Standard Arabic Audio": "msa-1478-13.mp3"
 		},
@@ -141,7 +141,7 @@
 			"English": "Of course!",
 			"Word Count": 2,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "بالتاكيد!",
 			"Egyptian Arabic Audio": "eca-1478-14.mp3",
 			"Standard Arabic Audio": "msa-1478-14.mp3"
 		},
@@ -151,7 +151,7 @@
 			"English": "Who was your vote for President?",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "من كان صوتك للرئيس؟",
 			"Egyptian Arabic Audio": "eca-1478-15.mp3",
 			"Standard Arabic Audio": "msa-1478-15.mp3"
 		},
@@ -161,7 +161,7 @@
 			"English": "My vote was for Barack Obama.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كان تصويتي لباراك أوباما.",
 			"Egyptian Arabic Audio": "eca-1478-16.mp3",
 			"Standard Arabic Audio": "msa-1478-16.mp3"
 		},
@@ -171,7 +171,7 @@
 			"English": "I didn't expect him to win.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لم أكن أتوقع منه الفوز.",
 			"Egyptian Arabic Audio": "eca-1478-17.mp3",
 			"Standard Arabic Audio": "msa-1478-17.mp3"
 		},
@@ -181,7 +181,7 @@
 			"English": "I had no doubt in my mind that he would win.",
 			"Word Count": 11,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لم يكن لدي أي شك في ذهني أنه سيفوز.",
 			"Egyptian Arabic Audio": "eca-1478-18.mp3",
 			"Standard Arabic Audio": "msa-1478-18.mp3"
 		},
@@ -191,7 +191,7 @@
 			"English": "What made you think that?",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ما الذي جعلك تعتقد ذلك؟",
 			"Egyptian Arabic Audio": "eca-1478-19.mp3",
 			"Standard Arabic Audio": "msa-1478-19.mp3"
 		},
@@ -201,7 +201,7 @@
 			"English": "Nobody could compete with him.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لا أحد يستطيع أن يتنافس معه.",
 			"Egyptian Arabic Audio": "eca-1478-20.mp3",
 			"Standard Arabic Audio": "msa-1478-20.mp3"
 		},
@@ -211,7 +211,7 @@
 			"English": "I thought his race would have kept him from winning.",
 			"Word Count": 10,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "اعتقدت أن عرقه كان سيحافظ عليه من الفوز.",
 			"Egyptian Arabic Audio": "eca-1478-21.mp3",
 			"Standard Arabic Audio": "msa-1478-21.mp3"
 		},
@@ -221,7 +221,7 @@
 			"English": "Times are changing.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "الزمن يتغير.",
 			"Egyptian Arabic Audio": "eca-1478-22.mp3",
 			"Standard Arabic Audio": "msa-1478-22.mp3"
 		},
@@ -231,7 +231,7 @@
 			"English": "That's true.",
 			"Word Count": 2,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هذا صحيح.",
 			"Egyptian Arabic Audio": "eca-1478-23.mp3",
 			"Standard Arabic Audio": "msa-1478-23.mp3"
 		},
@@ -241,7 +241,7 @@
 			"English": "I support our new President 100%.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنا أؤيد رئيسنا الجديد 100٪.",
 			"Egyptian Arabic Audio": "eca-1478-24.mp3",
 			"Standard Arabic Audio": "msa-1478-24.mp3"
 		},
@@ -251,7 +251,7 @@
 			"English": "You voted, right?",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لقد صوتت، أليس كذلك؟",
 			"Egyptian Arabic Audio": "eca-1478-25.mp3",
 			"Standard Arabic Audio": "msa-1478-25.mp3"
 		},
@@ -261,7 +261,7 @@
 			"English": "You know I did.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنت تعرف أنني فعلت.",
 			"Egyptian Arabic Audio": "eca-1478-26.mp3",
 			"Standard Arabic Audio": "msa-1478-26.mp3"
 		},
@@ -271,7 +271,7 @@
 			"English": "Who did you vote for?",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "الذين لم تصوت؟",
 			"Egyptian Arabic Audio": "eca-1478-27.mp3",
 			"Standard Arabic Audio": "msa-1478-27.mp3"
 		},
@@ -281,7 +281,7 @@
 			"English": "I voted for Obama, of course!",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لقد صوت لأوباما، بالطبع!",
 			"Egyptian Arabic Audio": "eca-1478-28.mp3",
 			"Standard Arabic Audio": "msa-1478-28.mp3"
 		},
@@ -291,7 +291,7 @@
 			"English": "Can you believe that he actually won?",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يمكنك أن تعتقد أنه فاز في الواقع؟",
 			"Egyptian Arabic Audio": "eca-1478-29.mp3",
 			"Standard Arabic Audio": "msa-1478-29.mp3"
 		},
@@ -301,7 +301,7 @@
 			"English": "I knew he would win.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كنت أعرف أنه سيفوز.",
 			"Egyptian Arabic Audio": "eca-1478-30.mp3",
 			"Standard Arabic Audio": "msa-1478-30.mp3"
 		},
@@ -311,7 +311,7 @@
 			"English": "I didn't think he would.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لم أكن أعتقد أنه سوف.",
 			"Egyptian Arabic Audio": "eca-1478-31.mp3",
 			"Standard Arabic Audio": "msa-1478-31.mp3"
 		},
@@ -321,7 +321,7 @@
 			"English": "He was the top candidate.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وكان المرشح الأعلى.",
 			"Egyptian Arabic Audio": "eca-1478-32.mp3",
 			"Standard Arabic Audio": "msa-1478-32.mp3"
 		},
@@ -331,7 +331,7 @@
 			"English": "I figured people wouldn't vote for him because he's African American.",
 			"Word Count": 11,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنا أحسب الناس لن يصوتوا له لأنه أمريكي أفريقي.",
 			"Egyptian Arabic Audio": "eca-1478-33.mp3",
 			"Standard Arabic Audio": "msa-1478-33.mp3"
 		},
@@ -341,7 +341,7 @@
 			"English": "That just goes to show that America is finally turning over a new leaf.",
 			"Word Count": 14,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ويظهر ذلك فقط أن أمريكا تنتقل أخيرا إلى ورقة جديدة.",
 			"Egyptian Arabic Audio": "eca-1478-34.mp3",
 			"Standard Arabic Audio": "msa-1478-34.mp3"
 		},
@@ -351,7 +351,7 @@
 			"English": "You're absolutely right.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنت محق تماما.",
 			"Egyptian Arabic Audio": "eca-1478-35.mp3",
 			"Standard Arabic Audio": "msa-1478-35.mp3"
 		},
@@ -361,7 +361,7 @@
 			"English": "I'm excited that Barack Obama is our President.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنا متحمس لأن باراك أوباما هو رئيسنا.",
 			"Egyptian Arabic Audio": "eca-1478-36.mp3",
 			"Standard Arabic Audio": "msa-1478-36.mp3"
 		}

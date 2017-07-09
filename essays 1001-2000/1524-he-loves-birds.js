@@ -9,7 +9,7 @@
 			"English": "He turned on the TV.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "شغل التلفزيون.",
 			"Egyptian Arabic Audio": "eca-1524-1.mp3",
 			"Standard Arabic Audio": "msa-1524-1.mp3"
 		},
@@ -18,7 +18,7 @@
 			"English": "He watched the 6 o'clock news.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "شاهد أخبار الساعة السادسة.",
 			"Egyptian Arabic Audio": "eca-1524-2.mp3",
 			"Standard Arabic Audio": "msa-1524-2.mp3"
 		},
@@ -27,7 +27,7 @@
 			"English": "The news was about an airplane.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كان الخبر عن طائرة.",
 			"Egyptian Arabic Audio": "eca-1524-3.mp3",
 			"Standard Arabic Audio": "msa-1524-3.mp3"
 		},
@@ -36,7 +36,7 @@
 			"English": "The airplane had two engines.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كانت الطائرة اثنين من المحركات.",
 			"Egyptian Arabic Audio": "eca-1524-4.mp3",
 			"Standard Arabic Audio": "msa-1524-4.mp3"
 		},
@@ -45,7 +45,7 @@
 			"English": "A big bird flew into each engine.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "طير طائر كبير في كل محرك.",
 			"Egyptian Arabic Audio": "eca-1524-5.mp3",
 			"Standard Arabic Audio": "msa-1524-5.mp3"
 		},
@@ -54,7 +54,7 @@
 			"English": "The engines stopped working.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "توقفت المحركات عن العمل.",
 			"Egyptian Arabic Audio": "eca-1524-6.mp3",
 			"Standard Arabic Audio": "msa-1524-6.mp3"
 		},
@@ -63,7 +63,7 @@
 			"English": "The pilot landed the plane in a river.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هبط الطيار الطائرة فى نهر.",
 			"Egyptian Arabic Audio": "eca-1524-7.mp3",
 			"Standard Arabic Audio": "msa-1524-7.mp3"
 		},
@@ -72,7 +72,7 @@
 			"English": "All the passengers climbed out onto the wings.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وارتفع جميع الركاب إلى الأجنحة.",
 			"Egyptian Arabic Audio": "eca-1524-8.mp3",
 			"Standard Arabic Audio": "msa-1524-8.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "Boats pulled up next to the plane.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "سحبت القوارب، بغير إبطاء، فبل اخير،",
 			"Egyptian Arabic Audio": "eca-1524-9.mp3",
 			"Standard Arabic Audio": "msa-1524-9.mp3"
 		},
@@ -90,7 +90,7 @@
 			"English": "The plane was floating in the river.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وكانت الطائرة تطفو في النهر.",
 			"Egyptian Arabic Audio": "eca-1524-10.mp3",
 			"Standard Arabic Audio": "msa-1524-10.mp3"
 		},
@@ -99,7 +99,7 @@
 			"English": "The people on the boats rescued all the passengers and crew.",
 			"Word Count": 11,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "الشعب على متن القوارب انقاذ جميع الركاب والطاقم.",
 			"Egyptian Arabic Audio": "eca-1524-11.mp3",
 			"Standard Arabic Audio": "msa-1524-11.mp3"
 		},
@@ -108,7 +108,7 @@
 			"English": "Everyone on the plane survived.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كل شخص على متن الطائرة نجا.",
 			"Egyptian Arabic Audio": "eca-1524-12.mp3",
 			"Standard Arabic Audio": "msa-1524-12.mp3"
 		},
@@ -117,7 +117,7 @@
 			"English": "No one died.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لم يقتل أحد.",
 			"Egyptian Arabic Audio": "eca-1524-13.mp3",
 			"Standard Arabic Audio": "msa-1524-13.mp3"
 		},
@@ -126,7 +126,7 @@
 			"English": "No one was injured.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ولم يصب احد بجراح.",
 			"Egyptian Arabic Audio": "eca-1524-14.mp3",
 			"Standard Arabic Audio": "msa-1524-14.mp3"
 		},
@@ -135,7 +135,7 @@
 			"English": "Everyone said it was a miracle.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "قال الجميع إنه معجزة.",
 			"Egyptian Arabic Audio": "eca-1524-15.mp3",
 			"Standard Arabic Audio": "msa-1524-15.mp3"
 		},
@@ -144,7 +144,7 @@
 			"English": "The pilot was a national hero.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وكان الطيار بطلا وطنيا.",
 			"Egyptian Arabic Audio": "eca-1524-16.mp3",
 			"Standard Arabic Audio": "msa-1524-16.mp3"
 		},
@@ -153,7 +153,7 @@
 			"English": "Everyone in America knew his name.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "الجميع في أمريكا يعرف اسمه.",
 			"Egyptian Arabic Audio": "eca-1524-17.mp3",
 			"Standard Arabic Audio": "msa-1524-17.mp3"
 		},
@@ -162,7 +162,7 @@
 			"English": "The passengers said he was a hero.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وقال الركاب انه بطلا.",
 			"Egyptian Arabic Audio": "eca-1524-18.mp3",
 			"Standard Arabic Audio": "msa-1524-18.mp3"
 		},
@@ -171,7 +171,7 @@
 			"English": "The press said he was a hero.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وقالت الصحيفة انه كان بطلا.",
 			"Egyptian Arabic Audio": "eca-1524-19.mp3",
 			"Standard Arabic Audio": "msa-1524-19.mp3"
 		},
@@ -180,7 +180,7 @@
 			"English": "The president of the United States said he was a hero.",
 			"Word Count": 11,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وقال رئيس الولايات المتحدة انه بطلا.",
 			"Egyptian Arabic Audio": "eca-1524-20.mp3",
 			"Standard Arabic Audio": "msa-1524-20.mp3"
 		},
@@ -189,7 +189,7 @@
 			"English": "His wife said he was a hero.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وقالت زوجته انه بطلا.",
 			"Egyptian Arabic Audio": "eca-1524-21.mp3",
 			"Standard Arabic Audio": "msa-1524-21.mp3"
 		},
@@ -198,7 +198,7 @@
 			"English": "They had a parade for the pilot in his hometown.",
 			"Word Count": 10,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كان لديهم موكب للطيار في مسقط رأسه.",
 			"Egyptian Arabic Audio": "eca-1524-22.mp3",
 			"Standard Arabic Audio": "msa-1524-22.mp3"
 		},
@@ -207,7 +207,7 @@
 			"English": "The governor made a speech.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وألقى المحافظ كلمة.",
 			"Egyptian Arabic Audio": "eca-1524-23.mp3",
 			"Standard Arabic Audio": "msa-1524-23.mp3"
 		},
@@ -216,7 +216,7 @@
 			"English": "The mayor made a speech.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أدلى رئيس البلدية كلمة.",
 			"Egyptian Arabic Audio": "eca-1524-24.mp3",
 			"Standard Arabic Audio": "msa-1524-24.mp3"
 		},
@@ -225,7 +225,7 @@
 			"English": "The pilot's teacher when he was in third grade made a speech.",
 			"Word Count": 12,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وألقى معلم الطيار عندما كان في الصف الثالث كلمة.",
 			"Egyptian Arabic Audio": "eca-1524-25.mp3",
 			"Standard Arabic Audio": "msa-1524-25.mp3"
 		},
@@ -234,7 +234,7 @@
 			"English": "The pilot made a speech.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "القى الطيار كلمة.",
 			"Egyptian Arabic Audio": "eca-1524-26.mp3",
 			"Standard Arabic Audio": "msa-1524-26.mp3"
 		},
@@ -243,7 +243,7 @@
 			"English": "It was a short speech.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كان خطاب قصير.",
 			"Egyptian Arabic Audio": "eca-1524-27.mp3",
 			"Standard Arabic Audio": "msa-1524-27.mp3"
 		},
@@ -252,7 +252,7 @@
 			"English": "He was an animal lover.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كان محبا للحيوانات.",
 			"Egyptian Arabic Audio": "eca-1524-28.mp3",
 			"Standard Arabic Audio": "msa-1524-28.mp3"
 		},
@@ -261,7 +261,7 @@
 			"English": "He didn't eat meat.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لم يأكل اللحوم.",
 			"Egyptian Arabic Audio": "eca-1524-29.mp3",
 			"Standard Arabic Audio": "msa-1524-29.mp3"
 		},
@@ -270,7 +270,7 @@
 			"English": "He didn't eat fish.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لم يأكل السمك.",
 			"Egyptian Arabic Audio": "eca-1524-30.mp3",
 			"Standard Arabic Audio": "msa-1524-30.mp3"
 		},
@@ -279,7 +279,7 @@
 			"English": "He didn't eat chicken.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لم يأكل الدجاج.",
 			"Egyptian Arabic Audio": "eca-1524-31.mp3",
 			"Standard Arabic Audio": "msa-1524-31.mp3"
 		},
@@ -288,7 +288,7 @@
 			"English": "He only ate vegetables and fruit, because he loved animals.",
 			"Word Count": 10,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كان يأكل الخضروات والفاكهة فقط، لأنه يحب الحيوانات.",
 			"Egyptian Arabic Audio": "eca-1524-32.mp3",
 			"Standard Arabic Audio": "msa-1524-32.mp3"
 		},
@@ -297,7 +297,7 @@
 			"English": "The pilot said he felt sorry for the two dead birds.",
 			"Word Count": 11,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وقال الطيار انه يشعر بالاسف للطيور الميتة.",
 			"Egyptian Arabic Audio": "eca-1524-33.mp3",
 			"Standard Arabic Audio": "msa-1524-33.mp3"
 		}

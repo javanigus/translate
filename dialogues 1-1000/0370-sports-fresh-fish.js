@@ -11,7 +11,7 @@
 			"English": "Do you want to go fishing?",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هل تريد أن تذهب الصيد؟",
 			"Egyptian Arabic Audio": "eca-0370-1.mp3",
 			"Standard Arabic Audio": "msa-0370-1.mp3"
 		},
@@ -21,7 +21,7 @@
 			"English": "Yes. That�s a good idea",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "نعم فعلا. ثاتسا فكرة جيدة",
 			"Egyptian Arabic Audio": "eca-0370-2.mp3",
 			"Standard Arabic Audio": "msa-0370-2.mp3"
 		}

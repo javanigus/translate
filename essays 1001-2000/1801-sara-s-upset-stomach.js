@@ -9,7 +9,7 @@
 			"English": "\"Just tell him if he really loves you, he should leave you.",
 			"Word Count": 12,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "&quot;فقط أخبره إذا كان حقا يحبك، يجب أن أترك لكم.",
 			"Egyptian Arabic Audio": "eca-1801-1.mp3",
 			"Standard Arabic Audio": "msa-1801-1.mp3"
 		},
@@ -18,7 +18,7 @@
 			"English": "\".",
 			"Word Count": 1,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "&quot;.",
 			"Egyptian Arabic Audio": "eca-1801-2.mp3",
 			"Standard Arabic Audio": "msa-1801-2.mp3"
 		}

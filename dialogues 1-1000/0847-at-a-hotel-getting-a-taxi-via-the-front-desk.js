@@ -11,7 +11,7 @@
 			"English": "I need a cab to the theater district.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أحتاج سيارة أجرة إلى منطقة المسرح.",
 			"Egyptian Arabic Audio": "eca-0847-1.mp3",
 			"Standard Arabic Audio": "msa-0847-1.mp3"
 		},
@@ -21,7 +21,7 @@
 			"English": "We can get that for you right away.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يمكننا الحصول على ذلك بالنسبة لك على الفور.",
 			"Egyptian Arabic Audio": "eca-0847-2.mp3",
 			"Standard Arabic Audio": "msa-0847-2.mp3"
 		},
@@ -31,7 +31,7 @@
 			"English": "Well, I don't need to be there for another hour.",
 			"Word Count": 10,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "حسنا، أنا لست بحاجة إلى أن يكون هناك لمدة ساعة أخرى.",
 			"Egyptian Arabic Audio": "eca-0847-3.mp3",
 			"Standard Arabic Audio": "msa-0847-3.mp3"
 		},
@@ -41,7 +41,7 @@
 			"English": "Would you like to reserve a limo then?",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هل ترغب في حجز ليموزين ثم؟",
 			"Egyptian Arabic Audio": "eca-0847-4.mp3",
 			"Standard Arabic Audio": "msa-0847-4.mp3"
 		},
@@ -51,7 +51,7 @@
 			"English": "That seems a bit much for me. Just a regular cab is fine.",
 			"Word Count": 13,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هذا يبدو قليلا بالنسبة لي. مجرد سيارة أجرة عادية على ما يرام.",
 			"Egyptian Arabic Audio": "eca-0847-5.mp3",
 			"Standard Arabic Audio": "msa-0847-5.mp3"
 		},
@@ -61,7 +61,7 @@
 			"English": "We can't reserve a taxi that far in advance, sir.",
 			"Word Count": 10,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "نحن لا يمكن حجز سيارة أجرة ذلك بكثير في وقت مبكر، يا سيدي.",
 			"Egyptian Arabic Audio": "eca-0847-6.mp3",
 			"Standard Arabic Audio": "msa-0847-6.mp3"
 		},
@@ -71,7 +71,7 @@
 			"English": "So how do I get a cab in an hour then?",
 			"Word Count": 11,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "فكيف أحصل على سيارة أجرة بعد ساعة؟",
 			"Egyptian Arabic Audio": "eca-0847-7.mp3",
 			"Standard Arabic Audio": "msa-0847-7.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "If you go right outside our lobby when you are ready, a staff member will hail  one for you.",
 			"Word Count": 19,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "إذا ذهبت مباشرة خارج اللوبي الخاص بك عندما تكون مستعدا، سوف أحد الموظفين يحدق واحد بالنسبة لك.",
 			"Egyptian Arabic Audio": "eca-0847-8.mp3",
 			"Standard Arabic Audio": "msa-0847-8.mp3"
 		},
@@ -91,7 +91,7 @@
 			"English": "Do I have to tip the guy who gets the cab for me?",
 			"Word Count": 13,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هل يجب أن أشير إلى الرجل الذي يحصل على سيارة أجرة بالنسبة لي؟",
 			"Egyptian Arabic Audio": "eca-0847-9.mp3",
 			"Standard Arabic Audio": "msa-0847-9.mp3"
 		},
@@ -101,7 +101,7 @@
 			"English": "Tips aren't mandatory, but they are appreciated.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "نصائح ليست إلزامية، ولكن هي موضع تقدير.",
 			"Egyptian Arabic Audio": "eca-0847-10.mp3",
 			"Standard Arabic Audio": "msa-0847-10.mp3"
 		},
@@ -111,7 +111,7 @@
 			"English": "Maybe I'll just hail the cab myself then.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ربما أنا مجرد البرد سيارة أجرة نفسي ثم.",
 			"Egyptian Arabic Audio": "eca-0847-11.mp3",
 			"Standard Arabic Audio": "msa-0847-11.mp3"
 		},
@@ -121,7 +121,7 @@
 			"English": "That's also an option.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وهذا أيضا خيار.",
 			"Egyptian Arabic Audio": "eca-0847-12.mp3",
 			"Standard Arabic Audio": "msa-0847-12.mp3"
 		}

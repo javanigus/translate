@@ -9,7 +9,7 @@
 			"English": "The city is on the alert.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "المدينة في حالة تأهب.",
 			"Egyptian Arabic Audio": "eca-1117-1.mp3",
 			"Standard Arabic Audio": "msa-1117-1.mp3"
 		},
@@ -18,16 +18,16 @@
 			"English": "Police worry about terrorists.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "قلق الشرطة بشأن الإرهابيين.",
 			"Egyptian Arabic Audio": "eca-1117-2.mp3",
 			"Standard Arabic Audio": "msa-1117-2.mp3"
 		},
 		{
 			"id": 3,
-			"English": "It is the tenth anniversary of 9/11.",
+			"English": "It is the tenth anniversary of 9\/11.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "إنها الذكرى العاشرة ل 11\/11.",
 			"Egyptian Arabic Audio": "eca-1117-3.mp3",
 			"Standard Arabic Audio": "msa-1117-3.mp3"
 		},
@@ -36,7 +36,7 @@
 			"English": "Police are everywhere in the city.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "الشرطة في كل مكان في المدينة.",
 			"Egyptian Arabic Audio": "eca-1117-4.mp3",
 			"Standard Arabic Audio": "msa-1117-4.mp3"
 		},
@@ -45,7 +45,7 @@
 			"English": "They are in the subway stations.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هم في محطات المترو.",
 			"Egyptian Arabic Audio": "eca-1117-5.mp3",
 			"Standard Arabic Audio": "msa-1117-5.mp3"
 		},
@@ -54,7 +54,7 @@
 			"English": "They are on the trains.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هم على القطارات.",
 			"Egyptian Arabic Audio": "eca-1117-6.mp3",
 			"Standard Arabic Audio": "msa-1117-6.mp3"
 		},
@@ -63,7 +63,7 @@
 			"English": "They are on the bridges.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هم على الجسور.",
 			"Egyptian Arabic Audio": "eca-1117-7.mp3",
 			"Standard Arabic Audio": "msa-1117-7.mp3"
 		},
@@ -72,7 +72,7 @@
 			"English": "They are in the tunnels.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هم في الأنفاق.",
 			"Egyptian Arabic Audio": "eca-1117-8.mp3",
 			"Standard Arabic Audio": "msa-1117-8.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "They are at Ground Zero.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هم في الأرض صفر.",
 			"Egyptian Arabic Audio": "eca-1117-9.mp3",
 			"Standard Arabic Audio": "msa-1117-9.mp3"
 		},
@@ -90,7 +90,7 @@
 			"English": "They are on the alert.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هم في حالة تأهب.",
 			"Egyptian Arabic Audio": "eca-1117-10.mp3",
 			"Standard Arabic Audio": "msa-1117-10.mp3"
 		}

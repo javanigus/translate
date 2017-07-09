@@ -11,7 +11,7 @@
 			"English": "What's your policy towards owning pets in the apartment?",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ما هي سياستكم تجاه امتلاك الحيوانات الأليفة في الشقة؟",
 			"Egyptian Arabic Audio": "eca-0666-1.mp3",
 			"Standard Arabic Audio": "msa-0666-1.mp3"
 		},
@@ -21,7 +21,7 @@
 			"English": "I usually don't permit any kind of pets.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنا عادة لا تسمح أي نوع من الحيوانات الأليفة.",
 			"Egyptian Arabic Audio": "eca-0666-2.mp3",
 			"Standard Arabic Audio": "msa-0666-2.mp3"
 		},
@@ -31,7 +31,7 @@
 			"English": "Would you be willing to make an exception?",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هل ستكون مستعدا لإجراء استثناء؟",
 			"Egyptian Arabic Audio": "eca-0666-3.mp3",
 			"Standard Arabic Audio": "msa-0666-3.mp3"
 		},
@@ -41,7 +41,7 @@
 			"English": "It depends on the pet. Are you a pet owner?",
 			"Word Count": 10,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ذلك يعتمد على الحيوانات الأليفة. هل أنت صاحب الحيوانات الأليفة؟",
 			"Egyptian Arabic Audio": "eca-0666-4.mp3",
 			"Standard Arabic Audio": "msa-0666-4.mp3"
 		},
@@ -51,7 +51,7 @@
 			"English": "I have a few rabbits and hamsters.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لدي عدد قليل من الأرانب و الهامستر.",
 			"Egyptian Arabic Audio": "eca-0666-5.mp3",
 			"Standard Arabic Audio": "msa-0666-5.mp3"
 		},
@@ -61,7 +61,7 @@
 			"English": "How many exactly?",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كم بالضبط؟",
 			"Egyptian Arabic Audio": "eca-0666-6.mp3",
 			"Standard Arabic Audio": "msa-0666-6.mp3"
 		},
@@ -71,7 +71,7 @@
 			"English": "I have two rabbits and three hamsters.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لدي اثنين من الأرانب وثلاثة هامستر.",
 			"Egyptian Arabic Audio": "eca-0666-7.mp3",
 			"Standard Arabic Audio": "msa-0666-7.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "As long as you keep them inside your apartment I don't see why they would be  a problem.",
 			"Word Count": 18,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "طالما كنت الاحتفاظ بها داخل شقتك أنا لا أرى لماذا أنها ستكون مشكلة.",
 			"Egyptian Arabic Audio": "eca-0666-8.mp3",
 			"Standard Arabic Audio": "msa-0666-8.mp3"
 		},
@@ -91,7 +91,7 @@
 			"English": "I'm guessing cats and dogs are not permitted?",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنا التخمين القطط والكلاب غير مسموح؟",
 			"Egyptian Arabic Audio": "eca-0666-9.mp3",
 			"Standard Arabic Audio": "msa-0666-9.mp3"
 		},
@@ -101,7 +101,7 @@
 			"English": "Not, they are not. I'm sorry to say.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لا، فهي ليست كذلك. أنا آسف أن أقول.",
 			"Egyptian Arabic Audio": "eca-0666-10.mp3",
 			"Standard Arabic Audio": "msa-0666-10.mp3"
 		},
@@ -111,7 +111,7 @@
 			"English": "Did something happen that made you change your policy towards cats and dogs?",
 			"Word Count": 13,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هل حدث شيء ما جعلك تغير سياستك تجاه القطط والكلاب؟",
 			"Egyptian Arabic Audio": "eca-0666-11.mp3",
 			"Standard Arabic Audio": "msa-0666-11.mp3"
 		},
@@ -121,7 +121,7 @@
 			"English": "Yes. A tenant previously owned a dog and the dog attacked another tenant one day.",
 			"Word Count": 15,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "نعم فعلا. وكان أحد المستأجرين يمتلكون كلبا في السابق وكان الكلب يهاجم مستأجر آخر في يوم من الأيام.",
 			"Egyptian Arabic Audio": "eca-0666-12.mp3",
 			"Standard Arabic Audio": "msa-0666-12.mp3"
 		}

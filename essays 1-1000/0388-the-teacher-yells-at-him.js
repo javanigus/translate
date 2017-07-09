@@ -9,7 +9,7 @@
 			"English": "He asks a question.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يسأل سؤالا.",
 			"Egyptian Arabic Audio": "eca-0388-1.mp3",
 			"Standard Arabic Audio": "msa-0388-1.mp3"
 		},
@@ -18,7 +18,7 @@
 			"English": "The teacher rolls his eyes.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "المعلم يلف عينيه.",
 			"Egyptian Arabic Audio": "eca-0388-2.mp3",
 			"Standard Arabic Audio": "msa-0388-2.mp3"
 		},
@@ -27,7 +27,7 @@
 			"English": "The teacher yells loudly at him.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "المعلم يصيح بصوت عال في وجهه.",
 			"Egyptian Arabic Audio": "eca-0388-3.mp3",
 			"Standard Arabic Audio": "msa-0388-3.mp3"
 		},
@@ -36,7 +36,7 @@
 			"English": "The teacher hurts his feelings.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "المعلم يضر بمشاعره.",
 			"Egyptian Arabic Audio": "eca-0388-4.mp3",
 			"Standard Arabic Audio": "msa-0388-4.mp3"
 		},
@@ -45,7 +45,7 @@
 			"English": "The teacher is mean.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "المعلم يعني.",
 			"Egyptian Arabic Audio": "eca-0388-5.mp3",
 			"Standard Arabic Audio": "msa-0388-5.mp3"
 		},
@@ -54,7 +54,7 @@
 			"English": "The teacher has bad manners.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "المعلم لديه أخلاق سيئة.",
 			"Egyptian Arabic Audio": "eca-0388-6.mp3",
 			"Standard Arabic Audio": "msa-0388-6.mp3"
 		},
@@ -63,7 +63,7 @@
 			"English": "He hates the teacher.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يكره المعلم.",
 			"Egyptian Arabic Audio": "eca-0388-7.mp3",
 			"Standard Arabic Audio": "msa-0388-7.mp3"
 		},
@@ -72,7 +72,7 @@
 			"English": "He asks no more questions.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ولا يطرح أي أسئلة أخرى.",
 			"Egyptian Arabic Audio": "eca-0388-8.mp3",
 			"Standard Arabic Audio": "msa-0388-8.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "He drops out of the class.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انه يسقط من الطبقة.",
 			"Egyptian Arabic Audio": "eca-0388-9.mp3",
 			"Standard Arabic Audio": "msa-0388-9.mp3"
 		},
@@ -90,7 +90,7 @@
 			"English": "He never forgets that teacher.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لم ينس هذا المعلم أبدا.",
 			"Egyptian Arabic Audio": "eca-0388-10.mp3",
 			"Standard Arabic Audio": "msa-0388-10.mp3"
 		},
@@ -99,7 +99,7 @@
 			"English": "That teacher is his worst teacher ever.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هذا المعلم هو أسوأ معلم من أي وقت مضى.",
 			"Egyptian Arabic Audio": "eca-0388-11.mp3",
 			"Standard Arabic Audio": "msa-0388-11.mp3"
 		}

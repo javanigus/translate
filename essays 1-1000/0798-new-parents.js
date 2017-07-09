@@ -9,7 +9,7 @@
 			"English": "The new parents thought they would love their first time away from the baby.",
 			"Word Count": 14,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يعتقد الآباء الجدد أنهم يحبون أول مرة بعيدا عن الطفل.",
 			"Egyptian Arabic Audio": "eca-0798-1.mp3",
 			"Standard Arabic Audio": "msa-0798-1.mp3"
 		},
@@ -18,7 +18,7 @@
 			"English": "They were very wrong.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كانوا مخطئين جدا.",
 			"Egyptian Arabic Audio": "eca-0798-2.mp3",
 			"Standard Arabic Audio": "msa-0798-2.mp3"
 		},
@@ -27,7 +27,7 @@
 			"English": "All they could do was worry about whether he was okay.",
 			"Word Count": 11,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كل ما يمكن القيام به كان قلقا بشأن ما إذا كان على ما يرام.",
 			"Egyptian Arabic Audio": "eca-0798-3.mp3",
 			"Standard Arabic Audio": "msa-0798-3.mp3"
 		},
@@ -36,7 +36,7 @@
 			"English": "They drove back home after one day.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وقد عادوا إلى منازلهم بعد يوم واحد.",
 			"Egyptian Arabic Audio": "eca-0798-4.mp3",
 			"Standard Arabic Audio": "msa-0798-4.mp3"
 		}

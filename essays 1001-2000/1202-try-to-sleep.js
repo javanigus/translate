@@ -9,7 +9,7 @@
 			"English": "Norma went to bed.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ذهب نورما إلى السرير.",
 			"Egyptian Arabic Audio": "eca-1202-1.mp3",
 			"Standard Arabic Audio": "msa-1202-1.mp3"
 		},
@@ -18,7 +18,7 @@
 			"English": "It was eleven o'clock.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وكان الساعة الحادية عشرة.",
 			"Egyptian Arabic Audio": "eca-1202-2.mp3",
 			"Standard Arabic Audio": "msa-1202-2.mp3"
 		},
@@ -27,7 +27,7 @@
 			"English": "She turned out the light.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "تحولت الضوء.",
 			"Egyptian Arabic Audio": "eca-1202-3.mp3",
 			"Standard Arabic Audio": "msa-1202-3.mp3"
 		},
@@ -36,7 +36,7 @@
 			"English": "She lay in bed.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انها تقع في السرير.",
 			"Egyptian Arabic Audio": "eca-1202-4.mp3",
 			"Standard Arabic Audio": "msa-1202-4.mp3"
 		},
@@ -45,7 +45,7 @@
 			"English": "It was dark.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كانت مظلمة.",
 			"Egyptian Arabic Audio": "eca-1202-5.mp3",
 			"Standard Arabic Audio": "msa-1202-5.mp3"
 		},
@@ -54,7 +54,7 @@
 			"English": "It was quiet.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كان هادئا.",
 			"Egyptian Arabic Audio": "eca-1202-6.mp3",
 			"Standard Arabic Audio": "msa-1202-6.mp3"
 		},
@@ -63,7 +63,7 @@
 			"English": "She couldn't sleep.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لم تستطع النوم.",
 			"Egyptian Arabic Audio": "eca-1202-7.mp3",
 			"Standard Arabic Audio": "msa-1202-7.mp3"
 		},
@@ -72,7 +72,7 @@
 			"English": "She closed her eyes.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أغلقت عينيها.",
 			"Egyptian Arabic Audio": "eca-1202-8.mp3",
 			"Standard Arabic Audio": "msa-1202-8.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "She tried to sleep, but she couldn't.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "حاولت النوم، لكنها لم تستطع.",
 			"Egyptian Arabic Audio": "eca-1202-9.mp3",
 			"Standard Arabic Audio": "msa-1202-9.mp3"
 		},
@@ -90,7 +90,7 @@
 			"English": "She turned the light back on.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وأدارت الضوء مرة أخرى.",
 			"Egyptian Arabic Audio": "eca-1202-10.mp3",
 			"Standard Arabic Audio": "msa-1202-10.mp3"
 		},
@@ -99,7 +99,7 @@
 			"English": "She opened her book.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "فتحت كتابها.",
 			"Egyptian Arabic Audio": "eca-1202-11.mp3",
 			"Standard Arabic Audio": "msa-1202-11.mp3"
 		},
@@ -108,7 +108,7 @@
 			"English": "She started to read her book.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "بدأت قراءة كتابها.",
 			"Egyptian Arabic Audio": "eca-1202-12.mp3",
 			"Standard Arabic Audio": "msa-1202-12.mp3"
 		},
@@ -117,7 +117,7 @@
 			"English": "It was a good book.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وكان كتاب جيد.",
 			"Egyptian Arabic Audio": "eca-1202-13.mp3",
 			"Standard Arabic Audio": "msa-1202-13.mp3"
 		},
@@ -126,7 +126,7 @@
 			"English": "She read one page.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "قرأت صفحة واحدة.",
 			"Egyptian Arabic Audio": "eca-1202-14.mp3",
 			"Standard Arabic Audio": "msa-1202-14.mp3"
 		},
@@ -135,7 +135,7 @@
 			"English": "Then she read another page.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ثم قرأت صفحة أخرى.",
 			"Egyptian Arabic Audio": "eca-1202-15.mp3",
 			"Standard Arabic Audio": "msa-1202-15.mp3"
 		},
@@ -144,7 +144,7 @@
 			"English": "After a while, she felt sleepy.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "بعد فترة من الوقت، شعرت بالنعاس.",
 			"Egyptian Arabic Audio": "eca-1202-16.mp3",
 			"Standard Arabic Audio": "msa-1202-16.mp3"
 		},
@@ -153,7 +153,7 @@
 			"English": "She closed the book.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أغلقت الكتاب.",
 			"Egyptian Arabic Audio": "eca-1202-17.mp3",
 			"Standard Arabic Audio": "msa-1202-17.mp3"
 		},
@@ -162,7 +162,7 @@
 			"English": "She turned out the light.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "تحولت الضوء.",
 			"Egyptian Arabic Audio": "eca-1202-18.mp3",
 			"Standard Arabic Audio": "msa-1202-18.mp3"
 		},
@@ -171,7 +171,7 @@
 			"English": "She closed her eyes.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أغلقت عينيها.",
 			"Egyptian Arabic Audio": "eca-1202-19.mp3",
 			"Standard Arabic Audio": "msa-1202-19.mp3"
 		},
@@ -180,7 +180,7 @@
 			"English": "She went straight to sleep.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ذهبت مباشرة إلى النوم.",
 			"Egyptian Arabic Audio": "eca-1202-20.mp3",
 			"Standard Arabic Audio": "msa-1202-20.mp3"
 		}

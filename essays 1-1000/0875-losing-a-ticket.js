@@ -9,7 +9,7 @@
 			"English": "He got in his sports car.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "حصل في سيارته الرياضية.",
 			"Egyptian Arabic Audio": "eca-0875-1.mp3",
 			"Standard Arabic Audio": "msa-0875-1.mp3"
 		},
@@ -18,7 +18,7 @@
 			"English": "He drove to the amusement park.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وقال انه قاد إلى متنزه.",
 			"Egyptian Arabic Audio": "eca-0875-2.mp3",
 			"Standard Arabic Audio": "msa-0875-2.mp3"
 		},
@@ -27,7 +27,7 @@
 			"English": "He went up to the ticket counter.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ذهب إلى عداد التذاكر.",
 			"Egyptian Arabic Audio": "eca-0875-3.mp3",
 			"Standard Arabic Audio": "msa-0875-3.mp3"
 		},
@@ -36,7 +36,7 @@
 			"English": "\"Welcome! May I see your ticket?\" asked the employee.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "&quot;مرحبا، هل لي أن أرى تذكرتك؟&quot; سأل الموظف.",
 			"Egyptian Arabic Audio": "eca-0875-4.mp3",
 			"Standard Arabic Audio": "msa-0875-4.mp3"
 		},
@@ -45,7 +45,7 @@
 			"English": "He reached into his pocket.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وصل إلى جيبه.",
 			"Egyptian Arabic Audio": "eca-0875-5.mp3",
 			"Standard Arabic Audio": "msa-0875-5.mp3"
 		},
@@ -54,7 +54,7 @@
 			"English": "Nothing was there.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لم يكن هناك شيء.",
 			"Egyptian Arabic Audio": "eca-0875-6.mp3",
 			"Standard Arabic Audio": "msa-0875-6.mp3"
 		},
@@ -63,7 +63,7 @@
 			"English": "He started sweating.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "بدأ التعرق.",
 			"Egyptian Arabic Audio": "eca-0875-7.mp3",
 			"Standard Arabic Audio": "msa-0875-7.mp3"
 		},
@@ -72,7 +72,7 @@
 			"English": "He emptied out his backpack.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انه أفرغت ظهره.",
 			"Egyptian Arabic Audio": "eca-0875-8.mp3",
 			"Standard Arabic Audio": "msa-0875-8.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "It was not there.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لم يكن هناك.",
 			"Egyptian Arabic Audio": "eca-0875-9.mp3",
 			"Standard Arabic Audio": "msa-0875-9.mp3"
 		},
@@ -90,7 +90,7 @@
 			"English": "He must have left it at home.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يجب أن يكون قد تركها في المنزل.",
 			"Egyptian Arabic Audio": "eca-0875-10.mp3",
 			"Standard Arabic Audio": "msa-0875-10.mp3"
 		}

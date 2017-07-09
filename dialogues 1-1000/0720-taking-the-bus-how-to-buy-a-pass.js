@@ -11,7 +11,7 @@
 			"English": "Hello, I would like to buy a bus pass.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "مرحبا، أود شراء تذكرة حافلة.",
 			"Egyptian Arabic Audio": "eca-0720-1.mp3",
 			"Standard Arabic Audio": "msa-0720-1.mp3"
 		},
@@ -21,7 +21,7 @@
 			"English": "Do you have a card to use for your pass?",
 			"Word Count": 10,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هل لديك بطاقة لاستخدامها لتمرير الخاص بك؟",
 			"Egyptian Arabic Audio": "eca-0720-2.mp3",
 			"Standard Arabic Audio": "msa-0720-2.mp3"
 		},
@@ -31,7 +31,7 @@
 			"English": "What kind of card do I need?",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ما نوع البطاقة التي أحتاجها؟",
 			"Egyptian Arabic Audio": "eca-0720-3.mp3",
 			"Standard Arabic Audio": "msa-0720-3.mp3"
 		},
@@ -41,7 +41,7 @@
 			"English": "It's a card I can provide you with.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انها بطاقة يمكنني توفير لكم مع.",
 			"Egyptian Arabic Audio": "eca-0720-4.mp3",
 			"Standard Arabic Audio": "msa-0720-4.mp3"
 		},
@@ -51,7 +51,7 @@
 			"English": "Is it free to get?",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هل هو مجاني للحصول على؟",
 			"Egyptian Arabic Audio": "eca-0720-5.mp3",
 			"Standard Arabic Audio": "msa-0720-5.mp3"
 		},
@@ -61,7 +61,7 @@
 			"English": "No, but it's only one dollar.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لا، لكنه دولار واحد فقط.",
 			"Egyptian Arabic Audio": "eca-0720-6.mp3",
 			"Standard Arabic Audio": "msa-0720-6.mp3"
 		},
@@ -71,7 +71,7 @@
 			"English": "It's nearly free. Here's the dollar.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انها خالية تقريبا. وهنا الدولار.",
 			"Egyptian Arabic Audio": "eca-0720-7.mp3",
 			"Standard Arabic Audio": "msa-0720-7.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "Do you also have money for the day pass?",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هل لديك أيضا المال لتمرير اليوم؟",
 			"Egyptian Arabic Audio": "eca-0720-8.mp3",
 			"Standard Arabic Audio": "msa-0720-8.mp3"
 		},
@@ -91,7 +91,7 @@
 			"English": "Yes, I do. How much is it for a day pass again?",
 			"Word Count": 12,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أجل أقبل. كم هو ليوم يمر مرة أخرى؟",
 			"Egyptian Arabic Audio": "eca-0720-9.mp3",
 			"Standard Arabic Audio": "msa-0720-9.mp3"
 		},
@@ -101,7 +101,7 @@
 			"English": "Exactly five dollars.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "بالضبط خمسة دولارات.",
 			"Egyptian Arabic Audio": "eca-0720-10.mp3",
 			"Standard Arabic Audio": "msa-0720-10.mp3"
 		},
@@ -111,7 +111,7 @@
 			"English": "I do have enough. Do I give you the money?",
 			"Word Count": 10,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لدي ما يكفي. هل أعطيك المال؟",
 			"Egyptian Arabic Audio": "eca-0720-11.mp3",
 			"Standard Arabic Audio": "msa-0720-11.mp3"
 		},
@@ -121,7 +121,7 @@
 			"English": "No, please deposit it into the machine.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لا، يرجى إيداعه في الجهاز.",
 			"Egyptian Arabic Audio": "eca-0720-12.mp3",
 			"Standard Arabic Audio": "msa-0720-12.mp3"
 		},
@@ -131,7 +131,7 @@
 			"English": "Alright then. There you go.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "حسنا اذا. ها أنت ذا.",
 			"Egyptian Arabic Audio": "eca-0720-13.mp3",
 			"Standard Arabic Audio": "msa-0720-13.mp3"
 		},
@@ -141,7 +141,7 @@
 			"English": "Here's your pass for the day. Do take care of that.",
 			"Word Count": 11,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وهنا تمريرة لهذا اليوم. لا تأخذ الرعاية من ذلك.",
 			"Egyptian Arabic Audio": "eca-0720-14.mp3",
 			"Standard Arabic Audio": "msa-0720-14.mp3"
 		},
@@ -151,7 +151,7 @@
 			"English": "Thank you very much. I'll hold on to it.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "شكرا جزيلا. أنا سوف عقد على ذلك.",
 			"Egyptian Arabic Audio": "eca-0720-15.mp3",
 			"Standard Arabic Audio": "msa-0720-15.mp3"
 		},
@@ -161,7 +161,7 @@
 			"English": "You're welcome. Have a nice day.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "على الرحب و السعة. أتمنى لك نهارا سعيد.",
 			"Egyptian Arabic Audio": "eca-0720-16.mp3",
 			"Standard Arabic Audio": "msa-0720-16.mp3"
 		}

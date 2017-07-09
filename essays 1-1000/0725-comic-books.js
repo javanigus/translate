@@ -9,7 +9,7 @@
 			"English": "Comic books are illustrated stories.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "الكتب المصورة هي قصص مصورة.",
 			"Egyptian Arabic Audio": "eca-0725-1.mp3",
 			"Standard Arabic Audio": "msa-0725-1.mp3"
 		},
@@ -18,7 +18,7 @@
 			"English": "He loved comic books.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كان يحب الكتب المصورة.",
 			"Egyptian Arabic Audio": "eca-0725-2.mp3",
 			"Standard Arabic Audio": "msa-0725-2.mp3"
 		},
@@ -27,7 +27,7 @@
 			"English": "He had many comic books.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كان لديه العديد من الكتب المصورة.",
 			"Egyptian Arabic Audio": "eca-0725-3.mp3",
 			"Standard Arabic Audio": "msa-0725-3.mp3"
 		},
@@ -36,7 +36,7 @@
 			"English": "They were all on a shelf.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كانوا جميعا على الرف.",
 			"Egyptian Arabic Audio": "eca-0725-4.mp3",
 			"Standard Arabic Audio": "msa-0725-4.mp3"
 		},
@@ -45,7 +45,7 @@
 			"English": "His friends collected comic books, too.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "جمع أصدقائه الكتب المصورة أيضا.",
 			"Egyptian Arabic Audio": "eca-0725-5.mp3",
 			"Standard Arabic Audio": "msa-0725-5.mp3"
 		},
@@ -54,7 +54,7 @@
 			"English": "He sometimes traded comic books with them.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كان يتداول أحيانا الكتب المصورة معهم.",
 			"Egyptian Arabic Audio": "eca-0725-6.mp3",
 			"Standard Arabic Audio": "msa-0725-6.mp3"
 		},
@@ -63,7 +63,7 @@
 			"English": "He read comic books all night.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "قرأ كتب هزلية طوال الليل.",
 			"Egyptian Arabic Audio": "eca-0725-7.mp3",
 			"Standard Arabic Audio": "msa-0725-7.mp3"
 		},
@@ -72,7 +72,7 @@
 			"English": "He turned off the lights.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أوقف الأنوار.",
 			"Egyptian Arabic Audio": "eca-0725-8.mp3",
 			"Standard Arabic Audio": "msa-0725-8.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "He grabbed a flashlight.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أمسك مصباح يدوي.",
 			"Egyptian Arabic Audio": "eca-0725-9.mp3",
 			"Standard Arabic Audio": "msa-0725-9.mp3"
 		},
@@ -90,7 +90,7 @@
 			"English": "He sat up in bed.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "جلس في السرير.",
 			"Egyptian Arabic Audio": "eca-0725-10.mp3",
 			"Standard Arabic Audio": "msa-0725-10.mp3"
 		},
@@ -99,7 +99,7 @@
 			"English": "He wrapped a blanket around him.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كان يلف بطانية حوله.",
 			"Egyptian Arabic Audio": "eca-0725-11.mp3",
 			"Standard Arabic Audio": "msa-0725-11.mp3"
 		},
@@ -108,7 +108,7 @@
 			"English": "He stayed up reading his comic books.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وظل يقرأ كتبه المصورة.",
 			"Egyptian Arabic Audio": "eca-0725-12.mp3",
 			"Standard Arabic Audio": "msa-0725-12.mp3"
 		},
@@ -117,7 +117,7 @@
 			"English": "He had a fun time.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كان لديه وقت ممتع.",
 			"Egyptian Arabic Audio": "eca-0725-13.mp3",
 			"Standard Arabic Audio": "msa-0725-13.mp3"
 		},
@@ -126,7 +126,7 @@
 			"English": "He went to the comic book store.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ذهب إلى مخزن الكتب الهزلية.",
 			"Egyptian Arabic Audio": "eca-0725-14.mp3",
 			"Standard Arabic Audio": "msa-0725-14.mp3"
 		},
@@ -135,7 +135,7 @@
 			"English": "He went each Friday after school.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ذهب كل يوم جمعة بعد المدرسة.",
 			"Egyptian Arabic Audio": "eca-0725-15.mp3",
 			"Standard Arabic Audio": "msa-0725-15.mp3"
 		},
@@ -144,7 +144,7 @@
 			"English": "The comic book store was great.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كان متجر الكتب الهزلية كبيرا.",
 			"Egyptian Arabic Audio": "eca-0725-16.mp3",
 			"Standard Arabic Audio": "msa-0725-16.mp3"
 		},
@@ -153,7 +153,7 @@
 			"English": "It had new issues of comics.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كان لديها قضايا جديدة من الكوميديا.",
 			"Egyptian Arabic Audio": "eca-0725-17.mp3",
 			"Standard Arabic Audio": "msa-0725-17.mp3"
 		},
@@ -162,7 +162,7 @@
 			"English": "His favorite comic book hero was Spiderman.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كان بطله الهزلي المفضل هو سبايدرمان.",
 			"Egyptian Arabic Audio": "eca-0725-18.mp3",
 			"Standard Arabic Audio": "msa-0725-18.mp3"
 		},
@@ -171,7 +171,7 @@
 			"English": "He bought all his issues.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "اشترى جميع القضايا.",
 			"Egyptian Arabic Audio": "eca-0725-19.mp3",
 			"Standard Arabic Audio": "msa-0725-19.mp3"
 		},
@@ -180,7 +180,7 @@
 			"English": "He stayed at the comic book store.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "بقي في مخزن الكتب الهزلية.",
 			"Egyptian Arabic Audio": "eca-0725-20.mp3",
 			"Standard Arabic Audio": "msa-0725-20.mp3"
 		},
@@ -189,7 +189,7 @@
 			"English": "There was a couch inside.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كان هناك أريكة داخل.",
 			"Egyptian Arabic Audio": "eca-0725-21.mp3",
 			"Standard Arabic Audio": "msa-0725-21.mp3"
 		},
@@ -198,7 +198,7 @@
 			"English": "He did not always have money.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لم يكن لديه دائما المال.",
 			"Egyptian Arabic Audio": "eca-0725-22.mp3",
 			"Standard Arabic Audio": "msa-0725-22.mp3"
 		},
@@ -207,7 +207,7 @@
 			"English": "He read the new comic book issues in the store.",
 			"Word Count": 10,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "قرأ قضايا الكتاب الهزلي الجديد في المخزن.",
 			"Egyptian Arabic Audio": "eca-0725-23.mp3",
 			"Standard Arabic Audio": "msa-0725-23.mp3"
 		},
@@ -216,7 +216,7 @@
 			"English": "He saved his allowance for comic books.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وقد أنقذ بدله للكتب المصورة.",
 			"Egyptian Arabic Audio": "eca-0725-24.mp3",
 			"Standard Arabic Audio": "msa-0725-24.mp3"
 		}

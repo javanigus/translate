@@ -11,7 +11,7 @@
 			"English": "This is a weird looking golf club.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هذا هو الغريب يبحث نادي الغولف.",
 			"Egyptian Arabic Audio": "eca-0194-1.mp3",
 			"Standard Arabic Audio": "msa-0194-1.mp3"
 		},
@@ -21,7 +21,7 @@
 			"English": "That's not a golf club.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هذا ليس نادي الغولف.",
 			"Egyptian Arabic Audio": "eca-0194-2.mp3",
 			"Standard Arabic Audio": "msa-0194-2.mp3"
 		},
@@ -31,7 +31,7 @@
 			"English": "What is it, then?",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ما هو إذا؟",
 			"Egyptian Arabic Audio": "eca-0194-3.mp3",
 			"Standard Arabic Audio": "msa-0194-3.mp3"
 		},
@@ -41,7 +41,7 @@
 			"English": "It's a hockey stick.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انها عصا الهوكي.",
 			"Egyptian Arabic Audio": "eca-0194-4.mp3",
 			"Standard Arabic Audio": "msa-0194-4.mp3"
 		},
@@ -51,7 +51,7 @@
 			"English": "Is hockey that game the men play on ice?",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هل الهوكي أن لعبة الرجال يلعبون على الجليد؟",
 			"Egyptian Arabic Audio": "eca-0194-5.mp3",
 			"Standard Arabic Audio": "msa-0194-5.mp3"
 		},
@@ -61,7 +61,7 @@
 			"English": "Yes it is. It's a difficult game.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "نعم إنه كذلك. انها لعبة صعبة.",
 			"Egyptian Arabic Audio": "eca-0194-6.mp3",
 			"Standard Arabic Audio": "msa-0194-6.mp3"
 		},
@@ -71,7 +71,7 @@
 			"English": "It reminds me a lot of soccer.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "فإنه يذكرني الكثير من كرة القدم.",
 			"Egyptian Arabic Audio": "eca-0194-7.mp3",
 			"Standard Arabic Audio": "msa-0194-7.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "I think hockey is more difficult than soccer.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أعتقد أن الهوكي هو أكثر صعوبة من كرة القدم.",
 			"Egyptian Arabic Audio": "eca-0194-8.mp3",
 			"Standard Arabic Audio": "msa-0194-8.mp3"
 		},
@@ -91,7 +91,7 @@
 			"English": "Why do you think that?",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لماذا تعتقد ذلك؟",
 			"Egyptian Arabic Audio": "eca-0194-9.mp3",
 			"Standard Arabic Audio": "msa-0194-9.mp3"
 		},
@@ -101,7 +101,7 @@
 			"English": "Well, you have to skate. Soccer is just kicking.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "حسنا، عليك أن تزلج. كرة القدم مجرد ركل.",
 			"Egyptian Arabic Audio": "eca-0194-10.mp3",
 			"Standard Arabic Audio": "msa-0194-10.mp3"
 		},
@@ -111,7 +111,7 @@
 			"English": "I think there is more to it than that.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وأعتقد أن هناك ما هو أكثر من ذلك.",
 			"Egyptian Arabic Audio": "eca-0194-11.mp3",
 			"Standard Arabic Audio": "msa-0194-11.mp3"
 		},
@@ -121,7 +121,7 @@
 			"English": "Either way, I'd be terrible at both!",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وفي كلتا الحالتين، سأكون رهيبا على حد سواء!",
 			"Egyptian Arabic Audio": "eca-0194-12.mp3",
 			"Standard Arabic Audio": "msa-0194-12.mp3"
 		}

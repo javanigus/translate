@@ -9,7 +9,7 @@
 			"English": "Dad took his son Chris to the baseball game.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أخذ أبي ابنه كريس إلى لعبة البيسبول.",
 			"Egyptian Arabic Audio": "eca-0460-1.mp3",
 			"Standard Arabic Audio": "msa-0460-1.mp3"
 		},
@@ -18,7 +18,7 @@
 			"English": "The Los Angeles Dodgers were playing the San Francisco Giants.",
 			"Word Count": 10,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كان لوس انجليس دودجرز يلعبون سان فرانسيسكو العمالقة.",
 			"Egyptian Arabic Audio": "eca-0460-2.mp3",
 			"Standard Arabic Audio": "msa-0460-2.mp3"
 		},
@@ -27,7 +27,7 @@
 			"English": "The Dodgers were the home team.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وكان المتهربين الفريق المضيف.",
 			"Egyptian Arabic Audio": "eca-0460-3.mp3",
 			"Standard Arabic Audio": "msa-0460-3.mp3"
 		},
@@ -36,7 +36,7 @@
 			"English": "The Giants were the visiting team.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وكان العمالقة الفريق الزائر.",
 			"Egyptian Arabic Audio": "eca-0460-4.mp3",
 			"Standard Arabic Audio": "msa-0460-4.mp3"
 		},
@@ -45,7 +45,7 @@
 			"English": "Dad and Chris walked into Dodger Stadium.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ذهب والده وكريس إلى ملعب المراوغ.",
 			"Egyptian Arabic Audio": "eca-0460-5.mp3",
 			"Standard Arabic Audio": "msa-0460-5.mp3"
 		},
@@ -54,7 +54,7 @@
 			"English": "Many people were there.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وكان كثير من الناس هناك.",
 			"Egyptian Arabic Audio": "eca-0460-6.mp3",
 			"Standard Arabic Audio": "msa-0460-6.mp3"
 		},
@@ -63,7 +63,7 @@
 			"English": "Most of them wanted to see the Dodgers win.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "معظمهم يريد أن يرى الفوز المراوغين.",
 			"Egyptian Arabic Audio": "eca-0460-7.mp3",
 			"Standard Arabic Audio": "msa-0460-7.mp3"
 		},
@@ -72,7 +72,7 @@
 			"English": "They wanted to see the Giants lose.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أرادوا أن يفقدوا العمالقة.",
 			"Egyptian Arabic Audio": "eca-0460-8.mp3",
 			"Standard Arabic Audio": "msa-0460-8.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "Dad and Chris found their seats.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وجد أبي وكريس مقاعدهما.",
 			"Egyptian Arabic Audio": "eca-0460-9.mp3",
 			"Standard Arabic Audio": "msa-0460-9.mp3"
 		},
@@ -90,7 +90,7 @@
 			"English": "They sat down.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "جلسوا.",
 			"Egyptian Arabic Audio": "eca-0460-10.mp3",
 			"Standard Arabic Audio": "msa-0460-10.mp3"
 		},
@@ -99,7 +99,7 @@
 			"English": "The game had already started.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "اللعبة قد بدأت بالفعل.",
 			"Egyptian Arabic Audio": "eca-0460-11.mp3",
 			"Standard Arabic Audio": "msa-0460-11.mp3"
 		},
@@ -108,7 +108,7 @@
 			"English": "Chris told his dad he was hungry.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أخبر كريس والده أنه كان جائعا.",
 			"Egyptian Arabic Audio": "eca-0460-12.mp3",
 			"Standard Arabic Audio": "msa-0460-12.mp3"
 		},
@@ -117,7 +117,7 @@
 			"English": "His dad bought two bags of peanuts for Chris.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "اشترى والده كيسين من الفول السوداني لكريس.",
 			"Egyptian Arabic Audio": "eca-0460-13.mp3",
 			"Standard Arabic Audio": "msa-0460-13.mp3"
 		},
@@ -126,7 +126,7 @@
 			"English": "He bought two hot dogs for Chris.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "اشترى اثنين من الكلاب الساخنة لكريس.",
 			"Egyptian Arabic Audio": "eca-0460-14.mp3",
 			"Standard Arabic Audio": "msa-0460-14.mp3"
 		},
@@ -135,7 +135,7 @@
 			"English": "He bought a big soda for Chris.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "اشترى صودا كبيرة لكريس.",
 			"Egyptian Arabic Audio": "eca-0460-15.mp3",
 			"Standard Arabic Audio": "msa-0460-15.mp3"
 		},
@@ -144,7 +144,7 @@
 			"English": "A foul ball came their way.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وجاءت الكرة كريهة طريقهم.",
 			"Egyptian Arabic Audio": "eca-0460-16.mp3",
 			"Standard Arabic Audio": "msa-0460-16.mp3"
 		},
@@ -153,7 +153,7 @@
 			"English": "People dived for the foul ball.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "الناس غرقت للكرة كريهة.",
 			"Egyptian Arabic Audio": "eca-0460-17.mp3",
 			"Standard Arabic Audio": "msa-0460-17.mp3"
 		},
@@ -162,7 +162,7 @@
 			"English": "They knocked Chris's soda over.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ضربوا صودا كريس.",
 			"Egyptian Arabic Audio": "eca-0460-18.mp3",
 			"Standard Arabic Audio": "msa-0460-18.mp3"
 		},
@@ -171,7 +171,7 @@
 			"English": "His dad bought him another soda.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "والده اشترى له صودا أخرى.",
 			"Egyptian Arabic Audio": "eca-0460-19.mp3",
 			"Standard Arabic Audio": "msa-0460-19.mp3"
 		}

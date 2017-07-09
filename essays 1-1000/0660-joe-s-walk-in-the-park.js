@@ -9,7 +9,7 @@
 			"English": "It was a beautiful day.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كان يوما جميلا.",
 			"Egyptian Arabic Audio": "eca-0660-1.mp3",
 			"Standard Arabic Audio": "msa-0660-1.mp3"
 		},
@@ -18,7 +18,7 @@
 			"English": "Joe went to the park.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ذهب جو إلى الحديقة.",
 			"Egyptian Arabic Audio": "eca-0660-2.mp3",
 			"Standard Arabic Audio": "msa-0660-2.mp3"
 		},
@@ -27,7 +27,7 @@
 			"English": "There were people everywhere.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كان هناك أشخاص في كل مكان.",
 			"Egyptian Arabic Audio": "eca-0660-3.mp3",
 			"Standard Arabic Audio": "msa-0660-3.mp3"
 		},
@@ -36,7 +36,7 @@
 			"English": "Joe saw many things.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "رأى جو أشياء كثيرة.",
 			"Egyptian Arabic Audio": "eca-0660-4.mp3",
 			"Standard Arabic Audio": "msa-0660-4.mp3"
 		},
@@ -45,7 +45,7 @@
 			"English": "He saw a boy riding a bike.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "رأى صبيا يركب دراجة.",
 			"Egyptian Arabic Audio": "eca-0660-5.mp3",
 			"Standard Arabic Audio": "msa-0660-5.mp3"
 		},
@@ -54,7 +54,7 @@
 			"English": "He saw a girl swinging on a swing.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "رأى فتاة يتأرجح على أرجوحة.",
 			"Egyptian Arabic Audio": "eca-0660-6.mp3",
 			"Standard Arabic Audio": "msa-0660-6.mp3"
 		},
@@ -63,7 +63,7 @@
 			"English": "He saw a family having a picnic.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "رأى عائلة لديها نزهة.",
 			"Egyptian Arabic Audio": "eca-0660-7.mp3",
 			"Standard Arabic Audio": "msa-0660-7.mp3"
 		},
@@ -72,7 +72,7 @@
 			"English": "He saw a man playing the guitar.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "رأى رجلا يلعب الغيتار.",
 			"Egyptian Arabic Audio": "eca-0660-8.mp3",
 			"Standard Arabic Audio": "msa-0660-8.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "It was a happy sight.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كان مشهدا سعيدا.",
 			"Egyptian Arabic Audio": "eca-0660-9.mp3",
 			"Standard Arabic Audio": "msa-0660-9.mp3"
 		},
@@ -90,7 +90,7 @@
 			"English": "Joe took a deep breath.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أخذ جو نفسا عميقا.",
 			"Egyptian Arabic Audio": "eca-0660-10.mp3",
 			"Standard Arabic Audio": "msa-0660-10.mp3"
 		},
@@ -99,7 +99,7 @@
 			"English": "The air was fresh.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كان الهواء طازجا.",
 			"Egyptian Arabic Audio": "eca-0660-11.mp3",
 			"Standard Arabic Audio": "msa-0660-11.mp3"
 		},
@@ -108,7 +108,7 @@
 			"English": "The smell of flowers was in the air.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كانت رائحة الزهور في الهواء.",
 			"Egyptian Arabic Audio": "eca-0660-12.mp3",
 			"Standard Arabic Audio": "msa-0660-12.mp3"
 		},
@@ -117,7 +117,7 @@
 			"English": "The trees were swaying in the wind.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كانت الأشجار تتأرجح في مهب الريح.",
 			"Egyptian Arabic Audio": "eca-0660-13.mp3",
 			"Standard Arabic Audio": "msa-0660-13.mp3"
 		},
@@ -126,7 +126,7 @@
 			"English": "Joe felt so alive.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "شعر جو على قيد الحياة.",
 			"Egyptian Arabic Audio": "eca-0660-14.mp3",
 			"Standard Arabic Audio": "msa-0660-14.mp3"
 		},
@@ -135,7 +135,7 @@
 			"English": "Joe heard a bell.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "سمع جو جرس.",
 			"Egyptian Arabic Audio": "eca-0660-15.mp3",
 			"Standard Arabic Audio": "msa-0660-15.mp3"
 		},
@@ -144,7 +144,7 @@
 			"English": "He looked around and saw the ice-cream man.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كان يتطلع حول ورأى الرجل الآيس كريم.",
 			"Egyptian Arabic Audio": "eca-0660-16.mp3",
 			"Standard Arabic Audio": "msa-0660-16.mp3"
 		},
@@ -153,7 +153,7 @@
 			"English": "He reached in his pockets.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وصل في جيوبه.",
 			"Egyptian Arabic Audio": "eca-0660-17.mp3",
 			"Standard Arabic Audio": "msa-0660-17.mp3"
 		},
@@ -162,7 +162,7 @@
 			"English": "He grabbed three dollars.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وأمسك ثلاثة دولارات.",
 			"Egyptian Arabic Audio": "eca-0660-18.mp3",
 			"Standard Arabic Audio": "msa-0660-18.mp3"
 		},
@@ -171,7 +171,7 @@
 			"English": "\"Hey, ice-cream man!\" Joe yelled.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "&quot;مهلا، رجل الآيس كريم!&quot; جو صاح.",
 			"Egyptian Arabic Audio": "eca-0660-19.mp3",
 			"Standard Arabic Audio": "msa-0660-19.mp3"
 		},
@@ -180,7 +180,7 @@
 			"English": "The ice-cream man stopped and turned around.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "توقف رجل الآيس كريم واستدار.",
 			"Egyptian Arabic Audio": "eca-0660-20.mp3",
 			"Standard Arabic Audio": "msa-0660-20.mp3"
 		},
@@ -189,7 +189,7 @@
 			"English": "He walked towards Joe.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "مشى نحو جو.",
 			"Egyptian Arabic Audio": "eca-0660-21.mp3",
 			"Standard Arabic Audio": "msa-0660-21.mp3"
 		},
@@ -198,7 +198,7 @@
 			"English": "\"One ice-cream, please,\" Joe said.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "&quot;واحد الآيس كريم، من فضلك&quot;، وقال جو.",
 			"Egyptian Arabic Audio": "eca-0660-22.mp3",
 			"Standard Arabic Audio": "msa-0660-22.mp3"
 		},
@@ -207,7 +207,7 @@
 			"English": "The ice-cream man handed Joe an ice-cream bar.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "سلم رجل الآيس كريم جو بار الآيس كريم.",
 			"Egyptian Arabic Audio": "eca-0660-23.mp3",
 			"Standard Arabic Audio": "msa-0660-23.mp3"
 		},
@@ -216,7 +216,7 @@
 			"English": "\"Thank you,\" said the ice-cream man.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "&quot;شكرا لك&quot;، وقال رجل الآيس كريم.",
 			"Egyptian Arabic Audio": "eca-0660-24.mp3",
 			"Standard Arabic Audio": "msa-0660-24.mp3"
 		},
@@ -225,7 +225,7 @@
 			"English": "Joe paid and went on his way.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "دفع جو وذهب في طريقه.",
 			"Egyptian Arabic Audio": "eca-0660-25.mp3",
 			"Standard Arabic Audio": "msa-0660-25.mp3"
 		},
@@ -234,7 +234,7 @@
 			"English": "It was a sunny day.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كان يوما مشمسا.",
 			"Egyptian Arabic Audio": "eca-0660-26.mp3",
 			"Standard Arabic Audio": "msa-0660-26.mp3"
 		},
@@ -243,7 +243,7 @@
 			"English": "Everything was perfect.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كان كل شيء مثاليا.",
 			"Egyptian Arabic Audio": "eca-0660-27.mp3",
 			"Standard Arabic Audio": "msa-0660-27.mp3"
 		}

@@ -11,7 +11,7 @@
 			"English": "Who�s the greatest baseball player",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "من هو أعظم لاعب البيسبول",
 			"Egyptian Arabic Audio": "eca-0375-1.mp3",
 			"Standard Arabic Audio": "msa-0375-1.mp3"
 		}

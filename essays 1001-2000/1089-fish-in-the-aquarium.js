@@ -9,7 +9,7 @@
 			"English": "She has an aquarium.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لديها حوض السمك.",
 			"Egyptian Arabic Audio": "eca-1089-1.mp3",
 			"Standard Arabic Audio": "msa-1089-1.mp3"
 		},
@@ -18,7 +18,7 @@
 			"English": "There are four fish in the aquarium.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هناك أربعة أسماك في الحوض.",
 			"Egyptian Arabic Audio": "eca-1089-2.mp3",
 			"Standard Arabic Audio": "msa-1089-2.mp3"
 		},
@@ -27,7 +27,7 @@
 			"English": "They are all small fish.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كل هذه الأسماك صغيرة.",
 			"Egyptian Arabic Audio": "eca-1089-3.mp3",
 			"Standard Arabic Audio": "msa-1089-3.mp3"
 		},
@@ -36,7 +36,7 @@
 			"English": "They are different colors.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "فهي ألوان مختلفة.",
 			"Egyptian Arabic Audio": "eca-1089-4.mp3",
 			"Standard Arabic Audio": "msa-1089-4.mp3"
 		},
@@ -45,7 +45,7 @@
 			"English": "One fish is red.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "سمكة واحدة حمراء.",
 			"Egyptian Arabic Audio": "eca-1089-5.mp3",
 			"Standard Arabic Audio": "msa-1089-5.mp3"
 		},
@@ -54,7 +54,7 @@
 			"English": "Another fish is blue.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "سمك آخر أزرق.",
 			"Egyptian Arabic Audio": "eca-1089-6.mp3",
 			"Standard Arabic Audio": "msa-1089-6.mp3"
 		},
@@ -63,7 +63,7 @@
 			"English": "Another fish is yellow.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "سمك آخر هو الأصفر.",
 			"Egyptian Arabic Audio": "eca-1089-7.mp3",
 			"Standard Arabic Audio": "msa-1089-7.mp3"
 		},
@@ -72,7 +72,7 @@
 			"English": "Another fish is pink.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "سمك آخر هو وردي.",
 			"Egyptian Arabic Audio": "eca-1089-8.mp3",
 			"Standard Arabic Audio": "msa-1089-8.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "She looks at the fish.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وهي تنظر إلى الأسماك.",
 			"Egyptian Arabic Audio": "eca-1089-9.mp3",
 			"Standard Arabic Audio": "msa-1089-9.mp3"
 		},
@@ -90,7 +90,7 @@
 			"English": "Their mouths are open.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أفواههم مفتوحة.",
 			"Egyptian Arabic Audio": "eca-1089-10.mp3",
 			"Standard Arabic Audio": "msa-1089-10.mp3"
 		},
@@ -99,7 +99,7 @@
 			"English": "She thinks they are hungry.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وهي تعتقد أنها جائعة.",
 			"Egyptian Arabic Audio": "eca-1089-11.mp3",
 			"Standard Arabic Audio": "msa-1089-11.mp3"
 		},
@@ -108,7 +108,7 @@
 			"English": "She feeds them.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انها تغذي لهم.",
 			"Egyptian Arabic Audio": "eca-1089-12.mp3",
 			"Standard Arabic Audio": "msa-1089-12.mp3"
 		}

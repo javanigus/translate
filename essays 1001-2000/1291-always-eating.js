@@ -9,7 +9,7 @@
 			"English": "Jane called Lisa.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ودعا جين ليزا.",
 			"Egyptian Arabic Audio": "eca-1291-1.mp3",
 			"Standard Arabic Audio": "msa-1291-1.mp3"
 		},
@@ -18,7 +18,7 @@
 			"English": "Lisa said she was eating.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وقالت ليزا انها كانت تأكل.",
 			"Egyptian Arabic Audio": "eca-1291-2.mp3",
 			"Standard Arabic Audio": "msa-1291-2.mp3"
 		},
@@ -27,7 +27,7 @@
 			"English": "She was eating dinner.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كانت تأكل العشاء.",
 			"Egyptian Arabic Audio": "eca-1291-3.mp3",
 			"Standard Arabic Audio": "msa-1291-3.mp3"
 		},
@@ -36,7 +36,7 @@
 			"English": "Lisa asked Jane to call her back.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "طلبت ليزا من جين استدعاء ظهرها.",
 			"Egyptian Arabic Audio": "eca-1291-4.mp3",
 			"Standard Arabic Audio": "msa-1291-4.mp3"
 		},
@@ -45,7 +45,7 @@
 			"English": "Jane said she would call Lisa back.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وقالت جين انها ستدعو ليزا الى الوراء.",
 			"Egyptian Arabic Audio": "eca-1291-5.mp3",
 			"Standard Arabic Audio": "msa-1291-5.mp3"
 		},
@@ -54,7 +54,7 @@
 			"English": "She called Lisa back the next day.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "دعت ليزا في اليوم التالي.",
 			"Egyptian Arabic Audio": "eca-1291-6.mp3",
 			"Standard Arabic Audio": "msa-1291-6.mp3"
 		},
@@ -63,7 +63,7 @@
 			"English": "Lisa said she was eating.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وقالت ليزا انها كانت تأكل.",
 			"Egyptian Arabic Audio": "eca-1291-7.mp3",
 			"Standard Arabic Audio": "msa-1291-7.mp3"
 		},
@@ -72,7 +72,7 @@
 			"English": "She was eating lunch.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كانت تتناول طعام الغداء.",
 			"Egyptian Arabic Audio": "eca-1291-8.mp3",
 			"Standard Arabic Audio": "msa-1291-8.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "Lisa asked Jane to call her back.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "طلبت ليزا من جين استدعاء ظهرها.",
 			"Egyptian Arabic Audio": "eca-1291-9.mp3",
 			"Standard Arabic Audio": "msa-1291-9.mp3"
 		},
@@ -90,7 +90,7 @@
 			"English": "Jane said she would call Lisa back.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وقالت جين انها ستدعو ليزا الى الوراء.",
 			"Egyptian Arabic Audio": "eca-1291-10.mp3",
 			"Standard Arabic Audio": "msa-1291-10.mp3"
 		},
@@ -99,7 +99,7 @@
 			"English": "She called Lisa back the next day.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "دعت ليزا في اليوم التالي.",
 			"Egyptian Arabic Audio": "eca-1291-11.mp3",
 			"Standard Arabic Audio": "msa-1291-11.mp3"
 		},
@@ -108,7 +108,7 @@
 			"English": "Lisa said she was eating.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وقالت ليزا انها كانت تأكل.",
 			"Egyptian Arabic Audio": "eca-1291-12.mp3",
 			"Standard Arabic Audio": "msa-1291-12.mp3"
 		},
@@ -117,7 +117,7 @@
 			"English": "She was eating breakfast.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كانت تتناول وجبة الإفطار.",
 			"Egyptian Arabic Audio": "eca-1291-13.mp3",
 			"Standard Arabic Audio": "msa-1291-13.mp3"
 		},
@@ -126,7 +126,7 @@
 			"English": "Lisa asked Jane to call her back.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "طلبت ليزا من جين استدعاء ظهرها.",
 			"Egyptian Arabic Audio": "eca-1291-14.mp3",
 			"Standard Arabic Audio": "msa-1291-14.mp3"
 		},
@@ -135,7 +135,7 @@
 			"English": "Jane said she would call Lisa back.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وقالت جين انها ستدعو ليزا الى الوراء.",
 			"Egyptian Arabic Audio": "eca-1291-15.mp3",
 			"Standard Arabic Audio": "msa-1291-15.mp3"
 		},
@@ -144,7 +144,7 @@
 			"English": "The next day Jane called Lisa back.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "في اليوم التالي دعا جين ليزا الظهر.",
 			"Egyptian Arabic Audio": "eca-1291-16.mp3",
 			"Standard Arabic Audio": "msa-1291-16.mp3"
 		},
@@ -153,7 +153,7 @@
 			"English": "Lisa was eating.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ليزا كان يأكل.",
 			"Egyptian Arabic Audio": "eca-1291-17.mp3",
 			"Standard Arabic Audio": "msa-1291-17.mp3"
 		},
@@ -162,7 +162,7 @@
 			"English": "She was eating a snack.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كانت تتناول وجبة خفيفة.",
 			"Egyptian Arabic Audio": "eca-1291-18.mp3",
 			"Standard Arabic Audio": "msa-1291-18.mp3"
 		},
@@ -171,7 +171,7 @@
 			"English": "Lisa asked Jane to call her back.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "طلبت ليزا من جين استدعاء ظهرها.",
 			"Egyptian Arabic Audio": "eca-1291-19.mp3",
 			"Standard Arabic Audio": "msa-1291-19.mp3"
 		},
@@ -180,7 +180,7 @@
 			"English": "Jane said, \"No.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "قالت جين: &quot;لا.",
 			"Egyptian Arabic Audio": "eca-1291-20.mp3",
 			"Standard Arabic Audio": "msa-1291-20.mp3"
 		},
@@ -189,7 +189,7 @@
 			"English": "You call me back.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يمكنك الاتصال بي مرة أخرى.",
 			"Egyptian Arabic Audio": "eca-1291-21.mp3",
 			"Standard Arabic Audio": "msa-1291-21.mp3"
 		},
@@ -198,7 +198,7 @@
 			"English": "You call me back when you aren't eating.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يمكنك الاتصال بي مرة أخرى عندما كنت لا يأكل.",
 			"Egyptian Arabic Audio": "eca-1291-22.mp3",
 			"Standard Arabic Audio": "msa-1291-22.mp3"
 		},
@@ -207,7 +207,7 @@
 			"English": "\".",
 			"Word Count": 1,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "&quot;.",
 			"Egyptian Arabic Audio": "eca-1291-23.mp3",
 			"Standard Arabic Audio": "msa-1291-23.mp3"
 		}

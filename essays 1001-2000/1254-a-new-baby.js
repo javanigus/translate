@@ -9,7 +9,7 @@
 			"English": "Ruth is pregnant.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "روث حامل.",
 			"Egyptian Arabic Audio": "eca-1254-1.mp3",
 			"Standard Arabic Audio": "msa-1254-1.mp3"
 		},
@@ -18,7 +18,7 @@
 			"English": "She is expecting a baby.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "إنها تتوقع طفلا.",
 			"Egyptian Arabic Audio": "eca-1254-2.mp3",
 			"Standard Arabic Audio": "msa-1254-2.mp3"
 		},
@@ -27,7 +27,7 @@
 			"English": "The baby is due in two months.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ومن المقرر أن يتم الطفل في غضون شهرين.",
 			"Egyptian Arabic Audio": "eca-1254-3.mp3",
 			"Standard Arabic Audio": "msa-1254-3.mp3"
 		},
@@ -36,7 +36,7 @@
 			"English": "The baby is a boy.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "الطفل هو صبي.",
 			"Egyptian Arabic Audio": "eca-1254-4.mp3",
 			"Standard Arabic Audio": "msa-1254-4.mp3"
 		},
@@ -45,7 +45,7 @@
 			"English": "It is her first boy.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هو أول صبي لها.",
 			"Egyptian Arabic Audio": "eca-1254-5.mp3",
 			"Standard Arabic Audio": "msa-1254-5.mp3"
 		},
@@ -54,7 +54,7 @@
 			"English": "She already has a little girl.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لديها بالفعل فتاة صغيرة.",
 			"Egyptian Arabic Audio": "eca-1254-6.mp3",
 			"Standard Arabic Audio": "msa-1254-6.mp3"
 		},
@@ -63,7 +63,7 @@
 			"English": "Her little girl is two years old.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "طفلة صغيرة عمرها سنتين.",
 			"Egyptian Arabic Audio": "eca-1254-7.mp3",
 			"Standard Arabic Audio": "msa-1254-7.mp3"
 		},
@@ -72,7 +72,7 @@
 			"English": "Ruth loves her little girl.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "روث يحب طفلة صغيرة.",
 			"Egyptian Arabic Audio": "eca-1254-8.mp3",
 			"Standard Arabic Audio": "msa-1254-8.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "Her little girl is happy to get a baby brother.",
 			"Word Count": 10,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "طفلة صغيرة لها سعيدة للحصول على شقيق الطفل.",
 			"Egyptian Arabic Audio": "eca-1254-9.mp3",
 			"Standard Arabic Audio": "msa-1254-9.mp3"
 		},
@@ -90,7 +90,7 @@
 			"English": "Ruth is eating for two people right now.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "روث يأكل لشخصين الآن.",
 			"Egyptian Arabic Audio": "eca-1254-10.mp3",
 			"Standard Arabic Audio": "msa-1254-10.mp3"
 		},
@@ -99,7 +99,7 @@
 			"English": "She is very careful about what she eats and drinks.",
 			"Word Count": 10,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انها حريصة جدا حول ما يأكل والمشروبات.",
 			"Egyptian Arabic Audio": "eca-1254-11.mp3",
 			"Standard Arabic Audio": "msa-1254-11.mp3"
 		},
@@ -108,7 +108,7 @@
 			"English": "She eats a lot of fresh fruits and vegetables.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انها تأكل الكثير من الفواكه والخضروات الطازجة.",
 			"Egyptian Arabic Audio": "eca-1254-12.mp3",
 			"Standard Arabic Audio": "msa-1254-12.mp3"
 		},
@@ -117,7 +117,7 @@
 			"English": "She eats fresh fish twice a week.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انها تأكل السمك الطازج مرتين في الأسبوع.",
 			"Egyptian Arabic Audio": "eca-1254-13.mp3",
 			"Standard Arabic Audio": "msa-1254-13.mp3"
 		},
@@ -126,7 +126,7 @@
 			"English": "She doesn't drink alcohol or coffee.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انها لا تشرب الكحول أو القهوة.",
 			"Egyptian Arabic Audio": "eca-1254-14.mp3",
 			"Standard Arabic Audio": "msa-1254-14.mp3"
 		},
@@ -135,7 +135,7 @@
 			"English": "She doesn't eat candy or potato chips.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انها لا تأكل الحلوى أو رقائق البطاطا.",
 			"Egyptian Arabic Audio": "eca-1254-15.mp3",
 			"Standard Arabic Audio": "msa-1254-15.mp3"
 		},
@@ -144,7 +144,7 @@
 			"English": "She stays away from cigarette smokers.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وتبقى بعيدا عن مدخني السجائر.",
 			"Egyptian Arabic Audio": "eca-1254-16.mp3",
 			"Standard Arabic Audio": "msa-1254-16.mp3"
 		},
@@ -153,7 +153,7 @@
 			"English": "She will have a healthy baby.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وقالت انها سوف يكون لها طفل سليم.",
 			"Egyptian Arabic Audio": "eca-1254-17.mp3",
 			"Standard Arabic Audio": "msa-1254-17.mp3"
 		}

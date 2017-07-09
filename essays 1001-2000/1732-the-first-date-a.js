@@ -9,7 +9,7 @@
 			"English": "Mike was about fifteen minutes away from Maria's apartment when he started thinking about what to say to her.",
 			"Word Count": 19,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كان مايك حوالي 15 دقيقة بعيدا عن شقة ماريا عندما بدأ التفكير في ما أقول لها.",
 			"Egyptian Arabic Audio": "eca-1732-1.mp3",
 			"Standard Arabic Audio": "msa-1732-1.mp3"
 		},
@@ -18,7 +18,7 @@
 			"English": "He was not feeling nervous like Maria was.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لم يكن يشعر بالتوتر مثل ماريا.",
 			"Egyptian Arabic Audio": "eca-1732-2.mp3",
 			"Standard Arabic Audio": "msa-1732-2.mp3"
 		},
@@ -27,7 +27,7 @@
 			"English": "Mike had complete confidence in himself.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كان مايك ثقة كاملة في نفسه.",
 			"Egyptian Arabic Audio": "eca-1732-3.mp3",
 			"Standard Arabic Audio": "msa-1732-3.mp3"
 		},
@@ -36,7 +36,7 @@
 			"English": "Nothing could go wrong.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لا شيء يمكن أن يحدث خطأ.",
 			"Egyptian Arabic Audio": "eca-1732-4.mp3",
 			"Standard Arabic Audio": "msa-1732-4.mp3"
 		},
@@ -45,7 +45,7 @@
 			"English": "Mike arrived at her address.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وصل مايك إلى عنوانها.",
 			"Egyptian Arabic Audio": "eca-1732-5.mp3",
 			"Standard Arabic Audio": "msa-1732-5.mp3"
 		},
@@ -54,7 +54,7 @@
 			"English": "He calls Maria on his cell phone.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ويدعو ماريا على هاتفه الخلوي.",
 			"Egyptian Arabic Audio": "eca-1732-6.mp3",
 			"Standard Arabic Audio": "msa-1732-6.mp3"
 		},
@@ -63,7 +63,7 @@
 			"English": "Maria tells him she will be out in a minute.",
 			"Word Count": 10,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ماريا تخبره أنها سوف تكون في دقيقة واحدة.",
 			"Egyptian Arabic Audio": "eca-1732-7.mp3",
 			"Standard Arabic Audio": "msa-1732-7.mp3"
 		},
@@ -72,7 +72,7 @@
 			"English": "Mike says okay, and steps out of his car to smoke a cigarette.",
 			"Word Count": 13,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يقول مايك بخير، وخطوات من سيارته لتدخين سيجارة.",
 			"Egyptian Arabic Audio": "eca-1732-8.mp3",
 			"Standard Arabic Audio": "msa-1732-8.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "Mike looks around the street.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "مايك يبدو حول الشارع.",
 			"Egyptian Arabic Audio": "eca-1732-9.mp3",
 			"Standard Arabic Audio": "msa-1732-9.mp3"
 		},
@@ -90,7 +90,7 @@
 			"English": "He spots a stranger walking towards his direction.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انه البقع غريب يسير نحو اتجاهه.",
 			"Egyptian Arabic Audio": "eca-1732-10.mp3",
 			"Standard Arabic Audio": "msa-1732-10.mp3"
 		},
@@ -99,7 +99,7 @@
 			"English": "The stranger looked like had something on his mind.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "بدا الغريب وكأنه كان شيئا في ذهنه.",
 			"Egyptian Arabic Audio": "eca-1732-11.mp3",
 			"Standard Arabic Audio": "msa-1732-11.mp3"
 		},
@@ -108,7 +108,7 @@
 			"English": "The stranger approaches Mike.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "الغريب يقترب مايك.",
 			"Egyptian Arabic Audio": "eca-1732-12.mp3",
 			"Standard Arabic Audio": "msa-1732-12.mp3"
 		}

@@ -9,7 +9,7 @@
 			"English": "She sits down in the chair.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "تجلس في الكرسي.",
 			"Egyptian Arabic Audio": "eca-1068-1.mp3",
 			"Standard Arabic Audio": "msa-1068-1.mp3"
 		},
@@ -18,7 +18,7 @@
 			"English": "She unties a shoelace.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وقالت إنها تتحد رباط الحذاء.",
 			"Egyptian Arabic Audio": "eca-1068-2.mp3",
 			"Standard Arabic Audio": "msa-1068-2.mp3"
 		},
@@ -27,7 +27,7 @@
 			"English": "She takes off her left shoe.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وقالت انها تقلع الأحذية اليسرى لها.",
 			"Egyptian Arabic Audio": "eca-1068-3.mp3",
 			"Standard Arabic Audio": "msa-1068-3.mp3"
 		},
@@ -36,7 +36,7 @@
 			"English": "She puts it on the floor.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انها تضعه على الأرض.",
 			"Egyptian Arabic Audio": "eca-1068-4.mp3",
 			"Standard Arabic Audio": "msa-1068-4.mp3"
 		},
@@ -45,7 +45,7 @@
 			"English": "She takes off her sock.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وقالت انها تقلع قبالة جورب لها.",
 			"Egyptian Arabic Audio": "eca-1068-5.mp3",
 			"Standard Arabic Audio": "msa-1068-5.mp3"
 		},
@@ -54,7 +54,7 @@
 			"English": "She puts it on the shoe.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انها تضعه على الحذاء.",
 			"Egyptian Arabic Audio": "eca-1068-6.mp3",
 			"Standard Arabic Audio": "msa-1068-6.mp3"
 		},
@@ -63,7 +63,7 @@
 			"English": "Her foot is sore.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "قدمها هو قرحة.",
 			"Egyptian Arabic Audio": "eca-1068-7.mp3",
 			"Standard Arabic Audio": "msa-1068-7.mp3"
 		},
@@ -72,7 +72,7 @@
 			"English": "She rubs her foot.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وقالت انها التدليك قدمها.",
 			"Egyptian Arabic Audio": "eca-1068-8.mp3",
 			"Standard Arabic Audio": "msa-1068-8.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "Her foot feels better.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "قدمها يشعر على نحو أفضل.",
 			"Egyptian Arabic Audio": "eca-1068-9.mp3",
 			"Standard Arabic Audio": "msa-1068-9.mp3"
 		},
@@ -90,7 +90,7 @@
 			"English": "She feels better.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وقالت انها تشعر أفضل.",
 			"Egyptian Arabic Audio": "eca-1068-10.mp3",
 			"Standard Arabic Audio": "msa-1068-10.mp3"
 		},
@@ -99,7 +99,7 @@
 			"English": "She unties the other shoelace.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وقالت إنها تتحدى رباط الحذاء الآخر.",
 			"Egyptian Arabic Audio": "eca-1068-11.mp3",
 			"Standard Arabic Audio": "msa-1068-11.mp3"
 		}

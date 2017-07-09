@@ -9,7 +9,7 @@
 			"English": "During Eddie's entire five-minute visit, Betty had constantly avoided his eyes.",
 			"Word Count": 11,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "خلال زيارة إدي الخمس دقائق بأكملها، بيتي تجنب باستمرار عينيه.",
 			"Egyptian Arabic Audio": "eca-1807-1.mp3",
 			"Standard Arabic Audio": "msa-1807-1.mp3"
 		},
@@ -18,7 +18,7 @@
 			"English": "Instead of walking him out to his car, like she usually did, Betty locked her front door as soon as Eddie was outside her apartment.",
 			"Word Count": 25,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وبدلا من المشي إلى سيارته، كما فعلت عادة، أغلقت بيتي بابها الأمامي بمجرد أن كانت إدي خارج شقتها.",
 			"Egyptian Arabic Audio": "eca-1807-2.mp3",
 			"Standard Arabic Audio": "msa-1807-2.mp3"
 		}

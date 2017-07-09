@@ -11,7 +11,7 @@
 			"English": "Do you ever take public transportation to get around?",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هل سبق لك أن تأخذ وسائل النقل العام للالتفاف؟",
 			"Egyptian Arabic Audio": "eca-0671-1.mp3",
 			"Standard Arabic Audio": "msa-0671-1.mp3"
 		},
@@ -21,7 +21,7 @@
 			"English": "Before I frequently did. Not so much anymore. Why do you ask?",
 			"Word Count": 12,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "قبل كثيرا ما فعلت. ليس كثيرا بعد الان. لماذا تسأل؟",
 			"Egyptian Arabic Audio": "eca-0671-2.mp3",
 			"Standard Arabic Audio": "msa-0671-2.mp3"
 		},
@@ -31,7 +31,7 @@
 			"English": "I wanted some information about the public transportation that is available  in the city.",
 			"Word Count": 14,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أردت بعض المعلومات عن وسائل النقل العام المتوفرة في المدينة.",
 			"Egyptian Arabic Audio": "eca-0671-3.mp3",
 			"Standard Arabic Audio": "msa-0671-3.mp3"
 		},
@@ -41,7 +41,7 @@
 			"English": "I could provide you with some. What would you like to know?",
 			"Word Count": 12,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنا يمكن أن توفر لك مع بعض. ماذا تريد أن تعرف؟",
 			"Egyptian Arabic Audio": "eca-0671-4.mp3",
 			"Standard Arabic Audio": "msa-0671-4.mp3"
 		},
@@ -51,7 +51,7 @@
 			"English": "What kind of public transportation is there?",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ما هو نوع وسائل النقل العام هناك؟",
 			"Egyptian Arabic Audio": "eca-0671-5.mp3",
 			"Standard Arabic Audio": "msa-0671-5.mp3"
 		},
@@ -61,7 +61,7 @@
 			"English": "There is a local shuttle bus that could take you almost anywhere in the city.",
 			"Word Count": 15,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هناك حافلة مكوكية محلية يمكن أن تأخذك إلى أي مكان تقريبا في المدينة.",
 			"Egyptian Arabic Audio": "eca-0671-6.mp3",
 			"Standard Arabic Audio": "msa-0671-6.mp3"
 		},
@@ -71,7 +71,7 @@
 			"English": "It does not take you outside the city?",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنها لا يأخذك خارج المدينة؟",
 			"Egyptian Arabic Audio": "eca-0671-7.mp3",
 			"Standard Arabic Audio": "msa-0671-7.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "Unfortunately it does not. But it's cheaper than other public buses that do.",
 			"Word Count": 13,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لسوء الحظ أنه لا. ولكنها أرخص من الحافلات العامة الأخرى التي تفعل.",
 			"Egyptian Arabic Audio": "eca-0671-8.mp3",
 			"Standard Arabic Audio": "msa-0671-8.mp3"
 		},
@@ -91,7 +91,7 @@
 			"English": "I see. And where is the nearest stop from here?",
 			"Word Count": 10,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنا أرى. وأين أقرب محطة من هنا؟",
 			"Egyptian Arabic Audio": "eca-0671-9.mp3",
 			"Standard Arabic Audio": "msa-0671-9.mp3"
 		},
@@ -101,7 +101,7 @@
 			"English": "It's really close. Just a block away towards that direction.",
 			"Word Count": 10,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انها قريبة حقا. مجرد كتلة بعيدا نحو هذا الاتجاه.",
 			"Egyptian Arabic Audio": "eca-0671-10.mp3",
 			"Standard Arabic Audio": "msa-0671-10.mp3"
 		},
@@ -111,7 +111,7 @@
 			"English": "That way? I see. Thank you.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "بهذه الطريقة؟ أنا أرى. شكرا.",
 			"Egyptian Arabic Audio": "eca-0671-11.mp3",
 			"Standard Arabic Audio": "msa-0671-11.mp3"
 		},
@@ -121,7 +121,7 @@
 			"English": "You can't miss it, and you're welcome.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لا يمكنك أن تفوت، وكنت موضع ترحيب.",
 			"Egyptian Arabic Audio": "eca-0671-12.mp3",
 			"Standard Arabic Audio": "msa-0671-12.mp3"
 		}

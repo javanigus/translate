@@ -11,7 +11,7 @@
 			"English": "I cut myself pretty badly with a knife. I think I need stitches.",
 			"Word Count": 13,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنا قطع نفسي سيئة للغاية مع سكين. أعتقد أنني بحاجة غرز.",
 			"Egyptian Arabic Audio": "eca-0808-1.mp3",
 			"Standard Arabic Audio": "msa-0808-1.mp3"
 		},
@@ -21,7 +21,7 @@
 			"English": "Come inside so the triage nurse can stop the bleeding.",
 			"Word Count": 10,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "تأتي داخل حتى ممرضة الفرز يمكن أن توقف النزيف.",
 			"Egyptian Arabic Audio": "eca-0808-2.mp3",
 			"Standard Arabic Audio": "msa-0808-2.mp3"
 		},
@@ -31,7 +31,7 @@
 			"English": "I was just preparing dinner and my hand slipped.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كنت مجرد إعداد العشاء وتراجع يدي.",
 			"Egyptian Arabic Audio": "eca-0808-3.mp3",
 			"Standard Arabic Audio": "msa-0808-3.mp3"
 		},
@@ -41,7 +41,7 @@
 			"English": "This cut does need stitches, but I stopped the bleeding for now.",
 			"Word Count": 12,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هذا القص لا يحتاج غرز، ولكن توقفت النزيف في الوقت الراهن.",
 			"Egyptian Arabic Audio": "eca-0808-4.mp3",
 			"Standard Arabic Audio": "msa-0808-4.mp3"
 		},
@@ -51,7 +51,7 @@
 			"English": "Will you give me stitches right now?",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "سوف تعطيني غرز الآن؟",
 			"Egyptian Arabic Audio": "eca-0808-5.mp3",
 			"Standard Arabic Audio": "msa-0808-5.mp3"
 		},
@@ -61,7 +61,7 @@
 			"English": "No, since the bleeding has stopped you have to wait in the Emergency Room  waiting area.",
 			"Word Count": 16,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لا، منذ توقف النزيف عليك أن تنتظر في غرفة الانتظار غرفة الطوارئ.",
 			"Egyptian Arabic Audio": "eca-0808-6.mp3",
 			"Standard Arabic Audio": "msa-0808-6.mp3"
 		},
@@ -71,7 +71,7 @@
 			"English": "What do I do while waiting?",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ماذا أفعل أثناء الانتظار؟",
 			"Egyptian Arabic Audio": "eca-0808-7.mp3",
 			"Standard Arabic Audio": "msa-0808-7.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "Fill out these registration forms.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "املأ استمارات التسجيل هذه.",
 			"Egyptian Arabic Audio": "eca-0808-8.mp3",
 			"Standard Arabic Audio": "msa-0808-8.mp3"
 		},
@@ -91,7 +91,7 @@
 			"English": "When will I get my hand stitched up?",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "متى سوف أحصل على يدي مخيط؟",
 			"Egyptian Arabic Audio": "eca-0808-9.mp3",
 			"Standard Arabic Audio": "msa-0808-9.mp3"
 		},
@@ -101,7 +101,7 @@
 			"English": "Here in the ER we take care of people based on how bad their injury is.",
 			"Word Count": 16,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هنا في إير نحن نحرص على الناس على أساس مدى سوء إصابتهم.",
 			"Egyptian Arabic Audio": "eca-0808-10.mp3",
 			"Standard Arabic Audio": "msa-0808-10.mp3"
 		},
@@ -111,7 +111,7 @@
 			"English": "I was here before many of these other people.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كنت هنا قبل العديد من هؤلاء الناس الآخرين.",
 			"Egyptian Arabic Audio": "eca-0808-11.mp3",
 			"Standard Arabic Audio": "msa-0808-11.mp3"
 		},
@@ -121,7 +121,7 @@
 			"English": "Some of them are in worse shape than you.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "بعض منهم في شكل أسوأ مما كنت.",
 			"Egyptian Arabic Audio": "eca-0808-12.mp3",
 			"Standard Arabic Audio": "msa-0808-12.mp3"
 		}

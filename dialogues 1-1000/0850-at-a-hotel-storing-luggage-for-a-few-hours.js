@@ -11,7 +11,7 @@
 			"English": "I'm checking out, but is there a place I can store my luggage for a few hours?",
 			"Word Count": 17,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنا أتحقق، ولكن هل هناك مكان يمكنني تخزين أمتعتي لبضع ساعات؟",
 			"Egyptian Arabic Audio": "eca-0850-1.mp3",
 			"Standard Arabic Audio": "msa-0850-1.mp3"
 		},
@@ -21,7 +21,7 @@
 			"English": "Why do you need us to hold your luggage, sir?",
 			"Word Count": 10,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لماذا تحتاج منا لعقد أمتعتكم يا سيدي؟",
 			"Egyptian Arabic Audio": "eca-0850-2.mp3",
 			"Standard Arabic Audio": "msa-0850-2.mp3"
 		},
@@ -31,7 +31,7 @@
 			"English": "My flight doesn't leave for another four hours.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "رحلتي لا تترك لمدة أربع ساعات أخرى.",
 			"Egyptian Arabic Audio": "eca-0850-3.mp3",
 			"Standard Arabic Audio": "msa-0850-3.mp3"
 		},
@@ -41,7 +41,7 @@
 			"English": "We can hold your luggage, but there is an additional cost associated with that service.",
 			"Word Count": 15,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يمكننا أن نحمل أمتعتك، ولكن هناك تكلفة إضافية مرتبطة بتلك الخدمة.",
 			"Egyptian Arabic Audio": "eca-0850-4.mp3",
 			"Standard Arabic Audio": "msa-0850-4.mp3"
 		},
@@ -51,7 +51,7 @@
 			"English": "How much is it going to cost me?",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كم سيكلفني؟",
 			"Egyptian Arabic Audio": "eca-0850-5.mp3",
 			"Standard Arabic Audio": "msa-0850-5.mp3"
 		},
@@ -61,7 +61,7 @@
 			"English": "It will be $6 an hour.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وسوف يكون 6 $ في الساعة.",
 			"Egyptian Arabic Audio": "eca-0850-6.mp3",
 			"Standard Arabic Audio": "msa-0850-6.mp3"
 		},
@@ -71,7 +71,7 @@
 			"English": "I'm going to drink at your hotel bar. Can you hook me up?",
 			"Word Count": 13,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنا ذاهب للشرب في حانة الفندق. يمكنك ربط لي؟",
 			"Egyptian Arabic Audio": "eca-0850-7.mp3",
 			"Standard Arabic Audio": "msa-0850-7.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "Unfortunately, sir, we cannot. Shall I take your credit card?",
 			"Word Count": 10,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لسوء الحظ يا سيدي، لا يمكننا. يجب أن تأخذ بطاقة الائتمان الخاصة بك؟",
 			"Egyptian Arabic Audio": "eca-0850-8.mp3",
 			"Standard Arabic Audio": "msa-0850-8.mp3"
 		},
@@ -91,7 +91,7 @@
 			"English": "No, forget it. It's cheaper for me to use a locker at the airport.",
 			"Word Count": 14,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لا انساه. انها أرخص بالنسبة لي لاستخدام خزانة في المطار.",
 			"Egyptian Arabic Audio": "eca-0850-9.mp3",
 			"Standard Arabic Audio": "msa-0850-9.mp3"
 		},
@@ -101,7 +101,7 @@
 			"English": "Those airport lockers are not always safe though.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "تلك خزائن المطار ليست آمنة دائما على الرغم من.",
 			"Egyptian Arabic Audio": "eca-0850-10.mp3",
 			"Standard Arabic Audio": "msa-0850-10.mp3"
 		},
@@ -111,7 +111,7 @@
 			"English": "I'll take my chances.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "سآخذ فرصتي.",
 			"Egyptian Arabic Audio": "eca-0850-11.mp3",
 			"Standard Arabic Audio": "msa-0850-11.mp3"
 		},
@@ -121,7 +121,7 @@
 			"English": "Good luck with that, sir.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "حظا سعيدا مع ذلك يا سيدي.",
 			"Egyptian Arabic Audio": "eca-0850-12.mp3",
 			"Standard Arabic Audio": "msa-0850-12.mp3"
 		}

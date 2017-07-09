@@ -9,7 +9,7 @@
 			"English": "He is at the Disneyland website.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وهو في موقع ديزني لاند.",
 			"Egyptian Arabic Audio": "eca-0177-1.mp3",
 			"Standard Arabic Audio": "msa-0177-1.mp3"
 		},
@@ -18,7 +18,7 @@
 			"English": "He picks the \"1-day\" ticket.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وهو يختار تذكرة &quot;يوم واحد&quot;.",
 			"Egyptian Arabic Audio": "eca-0177-2.mp3",
 			"Standard Arabic Audio": "msa-0177-2.mp3"
 		},
@@ -27,7 +27,7 @@
 			"English": "It is $100.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وهو 100 دولار.",
 			"Egyptian Arabic Audio": "eca-0177-3.mp3",
 			"Standard Arabic Audio": "msa-0177-3.mp3"
 		},
@@ -36,7 +36,7 @@
 			"English": "It is very expensive.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنها مكلفة للغاية.",
 			"Egyptian Arabic Audio": "eca-0177-4.mp3",
 			"Standard Arabic Audio": "msa-0177-4.mp3"
 		},
@@ -45,7 +45,7 @@
 			"English": "He wants to go though.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يريد أن يذهب على الرغم من.",
 			"Egyptian Arabic Audio": "eca-0177-5.mp3",
 			"Standard Arabic Audio": "msa-0177-5.mp3"
 		},
@@ -54,7 +54,7 @@
 			"English": "He puts in his credit card information.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يضع في معلومات بطاقة الائتمان الخاصة به.",
 			"Egyptian Arabic Audio": "eca-0177-6.mp3",
 			"Standard Arabic Audio": "msa-0177-6.mp3"
 		},
@@ -63,7 +63,7 @@
 			"English": "He submits his order.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يقدم أمره.",
 			"Egyptian Arabic Audio": "eca-0177-7.mp3",
 			"Standard Arabic Audio": "msa-0177-7.mp3"
 		},
@@ -72,7 +72,7 @@
 			"English": "He gets a ticket in his email.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يحصل على تذكرة في بريده الإلكتروني.",
 			"Egyptian Arabic Audio": "eca-0177-8.mp3",
 			"Standard Arabic Audio": "msa-0177-8.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "He prints out the ticket.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يطبع التذكرة.",
 			"Egyptian Arabic Audio": "eca-0177-9.mp3",
 			"Standard Arabic Audio": "msa-0177-9.mp3"
 		},
@@ -90,7 +90,7 @@
 			"English": "He puts it in a safe place.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يضعه في مكان آمن.",
 			"Egyptian Arabic Audio": "eca-0177-10.mp3",
 			"Standard Arabic Audio": "msa-0177-10.mp3"
 		}

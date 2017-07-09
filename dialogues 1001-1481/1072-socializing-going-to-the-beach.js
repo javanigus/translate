@@ -11,7 +11,7 @@
 			"English": "Do you want to go to the beach tonight?",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هل تريد أن تذهب إلى الشاطئ الليلة؟",
 			"Egyptian Arabic Audio": "eca-1072-1.mp3",
 			"Standard Arabic Audio": "msa-1072-1.mp3"
 		},
@@ -21,7 +21,7 @@
 			"English": "Sure, which beach are we going to?",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "بالتأكيد، أي الشاطئ ونحن ذاهبون إلى؟",
 			"Egyptian Arabic Audio": "eca-1072-2.mp3",
 			"Standard Arabic Audio": "msa-1072-2.mp3"
 		},
@@ -31,7 +31,7 @@
 			"English": "I wanted to go to Malibu beach.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أردت أن أذهب إلى شاطئ ماليبو.",
 			"Egyptian Arabic Audio": "eca-1072-3.mp3",
 			"Standard Arabic Audio": "msa-1072-3.mp3"
 		},
@@ -41,7 +41,7 @@
 			"English": "I like Santa Monica.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أحب سانتا مونيكا.",
 			"Egyptian Arabic Audio": "eca-1072-4.mp3",
 			"Standard Arabic Audio": "msa-1072-4.mp3"
 		},
@@ -51,7 +51,7 @@
 			"English": "The water there looks so dirty.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "الماء هناك يبدو قذرة جدا.",
 			"Egyptian Arabic Audio": "eca-1072-5.mp3",
 			"Standard Arabic Audio": "msa-1072-5.mp3"
 		},
@@ -61,7 +61,7 @@
 			"English": "I just like the pier they have at Santa Monica.",
 			"Word Count": 10,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنا فقط مثل الرصيف لديهم في سانتا مونيكا.",
 			"Egyptian Arabic Audio": "eca-1072-6.mp3",
 			"Standard Arabic Audio": "msa-1072-6.mp3"
 		},
@@ -71,7 +71,7 @@
 			"English": "I like the pier too, because it's beautiful at night.",
 			"Word Count": 10,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنا أحب الرصيف أيضا، لأنه جميل في الليل.",
 			"Egyptian Arabic Audio": "eca-1072-7.mp3",
 			"Standard Arabic Audio": "msa-1072-7.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "Is Malibu beach nice?",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هل شاطئ ماليبو لطيف؟",
 			"Egyptian Arabic Audio": "eca-1072-8.mp3",
 			"Standard Arabic Audio": "msa-1072-8.mp3"
 		},
@@ -91,7 +91,7 @@
 			"English": "It's a lot nicer, and I really like it better.",
 			"Word Count": 10,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انها أجمل بكثير، وأنا حقا أحب ذلك أفضل.",
 			"Egyptian Arabic Audio": "eca-1072-9.mp3",
 			"Standard Arabic Audio": "msa-1072-9.mp3"
 		},
@@ -101,7 +101,7 @@
 			"English": "So you want to go to Malibu?",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لذلك كنت تريد أن تذهب إلى ماليبو؟",
 			"Egyptian Arabic Audio": "eca-1072-10.mp3",
 			"Standard Arabic Audio": "msa-1072-10.mp3"
 		},
@@ -111,7 +111,7 @@
 			"English": "If that's okay with you.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "إذا كان هذا على ما يرام معك.",
 			"Egyptian Arabic Audio": "eca-1072-11.mp3",
 			"Standard Arabic Audio": "msa-1072-11.mp3"
 		},
@@ -121,7 +121,7 @@
 			"English": "Sure, let's go to Malibu.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "بالتأكيد، دعونا نذهب إلى ماليبو.",
 			"Egyptian Arabic Audio": "eca-1072-12.mp3",
 			"Standard Arabic Audio": "msa-1072-12.mp3"
 		},
@@ -131,7 +131,7 @@
 			"English": "What do you think about going to the beach tonight?",
 			"Word Count": 10,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ما رأيك في الذهاب إلى الشاطئ الليلة؟",
 			"Egyptian Arabic Audio": "eca-1072-13.mp3",
 			"Standard Arabic Audio": "msa-1072-13.mp3"
 		},
@@ -141,7 +141,7 @@
 			"English": "I'd love to. Which beach?",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أحب أن. ما ينبغي أن يكون أسلوبي في المرة القادمة؟",
 			"Egyptian Arabic Audio": "eca-1072-14.mp3",
 			"Standard Arabic Audio": "msa-1072-14.mp3"
 		},
@@ -151,7 +151,7 @@
 			"English": "It's up to you, but I was thinking Malibu beach.",
 			"Word Count": 10,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "والامر متروك لكم، ولكن كنت أفكر شاطئ ماليبو.",
 			"Egyptian Arabic Audio": "eca-1072-15.mp3",
 			"Standard Arabic Audio": "msa-1072-15.mp3"
 		},
@@ -161,7 +161,7 @@
 			"English": "I really like Santa Monica beach.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنا حقا أحب سانتا مونيكا الشاطئ.",
 			"Egyptian Arabic Audio": "eca-1072-16.mp3",
 			"Standard Arabic Audio": "msa-1072-16.mp3"
 		},
@@ -171,7 +171,7 @@
 			"English": "But the water there doesn't look too clean.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ولكن الماء هناك لا تبدو نظيفة جدا.",
 			"Egyptian Arabic Audio": "eca-1072-17.mp3",
 			"Standard Arabic Audio": "msa-1072-17.mp3"
 		},
@@ -181,7 +181,7 @@
 			"English": "I only go because of the pier.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أذهب فقط بسبب الرصيف.",
 			"Egyptian Arabic Audio": "eca-1072-18.mp3",
 			"Standard Arabic Audio": "msa-1072-18.mp3"
 		},
@@ -191,7 +191,7 @@
 			"English": "The pier is really nice at night.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "الرصيف هو لطيف حقا في الليل.",
 			"Egyptian Arabic Audio": "eca-1072-19.mp3",
 			"Standard Arabic Audio": "msa-1072-19.mp3"
 		},
@@ -201,7 +201,7 @@
 			"English": "How is it at Malibu beach?",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كيف يتم ذلك في شاطئ ماليبو؟",
 			"Egyptian Arabic Audio": "eca-1072-20.mp3",
 			"Standard Arabic Audio": "msa-1072-20.mp3"
 		},
@@ -211,7 +211,7 @@
 			"English": "I love Malibu beach, because it's so beautiful.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أحب شاطئ ماليبو، لأنها جميلة جدا.",
 			"Egyptian Arabic Audio": "eca-1072-21.mp3",
 			"Standard Arabic Audio": "msa-1072-21.mp3"
 		},
@@ -221,7 +221,7 @@
 			"English": "So is Malibu where you really want to go?",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هل ماليبو أين تريد حقا أن تذهب؟",
 			"Egyptian Arabic Audio": "eca-1072-22.mp3",
 			"Standard Arabic Audio": "msa-1072-22.mp3"
 		},
@@ -231,7 +231,7 @@
 			"English": "Are you cool with that?",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هل أنت باردة مع ذلك؟",
 			"Egyptian Arabic Audio": "eca-1072-23.mp3",
 			"Standard Arabic Audio": "msa-1072-23.mp3"
 		},
@@ -241,7 +241,7 @@
 			"English": "Yeah, we can go to Malibu.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "نعم، يمكننا الذهاب إلى ماليبو.",
 			"Egyptian Arabic Audio": "eca-1072-24.mp3",
 			"Standard Arabic Audio": "msa-1072-24.mp3"
 		},
@@ -251,7 +251,7 @@
 			"English": "I want to go to the beach tonight.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أريد أن أذهب إلى الشاطئ الليلة.",
 			"Egyptian Arabic Audio": "eca-1072-25.mp3",
 			"Standard Arabic Audio": "msa-1072-25.mp3"
 		},
@@ -261,7 +261,7 @@
 			"English": "That sounds like fun. Which one are you thinking about?",
 			"Word Count": 10,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هذا يبدو ممتع. ما الذي تفكر فيه؟",
 			"Egyptian Arabic Audio": "eca-1072-26.mp3",
 			"Standard Arabic Audio": "msa-1072-26.mp3"
 		},
@@ -271,7 +271,7 @@
 			"English": "I was thinking Malibu, unless there is another beach you want to go to.",
 			"Word Count": 14,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كنت أفكر ماليبو، إلا إذا كان هناك شاطئ آخر تريد الذهاب إليه.",
 			"Egyptian Arabic Audio": "eca-1072-27.mp3",
 			"Standard Arabic Audio": "msa-1072-27.mp3"
 		},
@@ -281,7 +281,7 @@
 			"English": "How about Santa Monica?",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ماذا عن سانتا مونيكا؟",
 			"Egyptian Arabic Audio": "eca-1072-28.mp3",
 			"Standard Arabic Audio": "msa-1072-28.mp3"
 		},
@@ -291,7 +291,7 @@
 			"English": "I don't really like that beach, as the water seems really dirty.",
 			"Word Count": 12,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنا لا أحب هذا الشاطئ، حيث يبدو الماء قذر حقا.",
 			"Egyptian Arabic Audio": "eca-1072-29.mp3",
 			"Standard Arabic Audio": "msa-1072-29.mp3"
 		},
@@ -301,7 +301,7 @@
 			"English": "The only thing I like about that beach is the pier.",
 			"Word Count": 11,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "الشيء الوحيد الذي أحب حول هذا الشاطئ هو الرصيف.",
 			"Egyptian Arabic Audio": "eca-1072-30.mp3",
 			"Standard Arabic Audio": "msa-1072-30.mp3"
 		},
@@ -311,7 +311,7 @@
 			"English": "At night, the pier is absolutely beautiful.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "في الليل، الرصيف جميل تماما.",
 			"Egyptian Arabic Audio": "eca-1072-31.mp3",
 			"Standard Arabic Audio": "msa-1072-31.mp3"
 		},
@@ -321,7 +321,7 @@
 			"English": "What's it like at Malibu beach?",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ما هو مثل في شاطئ ماليبو؟",
 			"Egyptian Arabic Audio": "eca-1072-32.mp3",
 			"Standard Arabic Audio": "msa-1072-32.mp3"
 		},
@@ -331,7 +331,7 @@
 			"English": "I love that beach, because it's just so nice.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أحب هذا الشاطئ، لأنها مجرد لطيفة جدا.",
 			"Egyptian Arabic Audio": "eca-1072-33.mp3",
 			"Standard Arabic Audio": "msa-1072-33.mp3"
 		},
@@ -341,7 +341,7 @@
 			"English": "So we're going to Malibu?",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لذلك نحن ذاهبون إلى ماليبو؟",
 			"Egyptian Arabic Audio": "eca-1072-34.mp3",
 			"Standard Arabic Audio": "msa-1072-34.mp3"
 		},
@@ -351,7 +351,7 @@
 			"English": "Well, if you don't want to go to Malibu, we can go to Santa Monica.",
 			"Word Count": 15,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "حسنا، إذا كنت لا تريد أن تذهب إلى ماليبو، يمكننا الذهاب إلى سانتا مونيكا.",
 			"Egyptian Arabic Audio": "eca-1072-35.mp3",
 			"Standard Arabic Audio": "msa-1072-35.mp3"
 		},
@@ -361,7 +361,7 @@
 			"English": "We can always go to Santa Monica another day.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يمكننا دائما الذهاب إلى سانتا مونيكا يوم آخر.",
 			"Egyptian Arabic Audio": "eca-1072-36.mp3",
 			"Standard Arabic Audio": "msa-1072-36.mp3"
 		}

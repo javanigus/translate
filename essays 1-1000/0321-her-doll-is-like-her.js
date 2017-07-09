@@ -9,7 +9,7 @@
 			"English": "Sharon is four years old.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "شارون يبلغ من العمر اربع سنوات.",
 			"Egyptian Arabic Audio": "eca-0321-1.mp3",
 			"Standard Arabic Audio": "msa-0321-1.mp3"
 		},
@@ -18,7 +18,7 @@
 			"English": "She is pretty.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انها جميلة.",
 			"Egyptian Arabic Audio": "eca-0321-2.mp3",
 			"Standard Arabic Audio": "msa-0321-2.mp3"
 		},
@@ -27,7 +27,7 @@
 			"English": "She has a doll.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لديها دمية.",
 			"Egyptian Arabic Audio": "eca-0321-3.mp3",
 			"Standard Arabic Audio": "msa-0321-3.mp3"
 		},
@@ -36,7 +36,7 @@
 			"English": "It is pretty.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انها جميلة.",
 			"Egyptian Arabic Audio": "eca-0321-4.mp3",
 			"Standard Arabic Audio": "msa-0321-4.mp3"
 		},
@@ -45,7 +45,7 @@
 			"English": "Sharon has blonde hair.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "شارون لديه شعر شقراء.",
 			"Egyptian Arabic Audio": "eca-0321-5.mp3",
 			"Standard Arabic Audio": "msa-0321-5.mp3"
 		},
@@ -54,7 +54,7 @@
 			"English": "The doll has blonde hair.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "دمية لديه الشعر شقراء.",
 			"Egyptian Arabic Audio": "eca-0321-6.mp3",
 			"Standard Arabic Audio": "msa-0321-6.mp3"
 		},
@@ -63,7 +63,7 @@
 			"English": "Sharon has short hair.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "شارون لديه شعر قصير.",
 			"Egyptian Arabic Audio": "eca-0321-7.mp3",
 			"Standard Arabic Audio": "msa-0321-7.mp3"
 		},
@@ -72,7 +72,7 @@
 			"English": "The doll has long hair.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "دمية لديها الشعر الطويل.",
 			"Egyptian Arabic Audio": "eca-0321-8.mp3",
 			"Standard Arabic Audio": "msa-0321-8.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "Sharon gets a pair of scissors.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "شارون يحصل على زوج من مقص.",
 			"Egyptian Arabic Audio": "eca-0321-9.mp3",
 			"Standard Arabic Audio": "msa-0321-9.mp3"
 		},
@@ -90,7 +90,7 @@
 			"English": "She cuts the doll's long hair.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انها تقطع الشعر دمية طويلة.",
 			"Egyptian Arabic Audio": "eca-0321-10.mp3",
 			"Standard Arabic Audio": "msa-0321-10.mp3"
 		},
@@ -99,7 +99,7 @@
 			"English": "She finishes.",
 			"Word Count": 2,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انها تنتهي.",
 			"Egyptian Arabic Audio": "eca-0321-11.mp3",
 			"Standard Arabic Audio": "msa-0321-11.mp3"
 		},
@@ -108,7 +108,7 @@
 			"English": "Now the doll has short hair too.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "الآن دمية الشعر القصير أيضا.",
 			"Egyptian Arabic Audio": "eca-0321-12.mp3",
 			"Standard Arabic Audio": "msa-0321-12.mp3"
 		}

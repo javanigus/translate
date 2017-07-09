@@ -11,7 +11,7 @@
 			"English": "Greetings, neighbor. How's it going?",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "تحية، الجار. كيف تجري الامور؟",
 			"Egyptian Arabic Audio": "eca-0682-1.mp3",
 			"Standard Arabic Audio": "msa-0682-1.mp3"
 		},
@@ -21,7 +21,7 @@
 			"English": "Hello to you! It's going just fine. Welcome to the neighborhood.",
 			"Word Count": 11,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "مرحبا بك! انها تسير على ما يرام. مرحبا بكم في الحي.",
 			"Egyptian Arabic Audio": "eca-0682-2.mp3",
 			"Standard Arabic Audio": "msa-0682-2.mp3"
 		},
@@ -31,7 +31,7 @@
 			"English": "Thank you. How long have you been living here?",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "شكرا. منذ متى وأنت تعيش هنا؟",
 			"Egyptian Arabic Audio": "eca-0682-3.mp3",
 			"Standard Arabic Audio": "msa-0682-3.mp3"
 		},
@@ -41,7 +41,7 @@
 			"English": "It's going to be my tenth year next month.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ستكون السنة العاشرة الشهر المقبل.",
 			"Egyptian Arabic Audio": "eca-0682-4.mp3",
 			"Standard Arabic Audio": "msa-0682-4.mp3"
 		},
@@ -51,7 +51,7 @@
 			"English": "That's quite some time. Where did you move in from?",
 			"Word Count": 10,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هذا بعض الوقت. أين انتقلت من؟",
 			"Egyptian Arabic Audio": "eca-0682-5.mp3",
 			"Standard Arabic Audio": "msa-0682-5.mp3"
 		},
@@ -61,7 +61,7 @@
 			"English": "I was living in San Diego before I moved here.",
 			"Word Count": 10,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كنت أعيش في سان دييغو قبل أن انتقلت هنا.",
 			"Egyptian Arabic Audio": "eca-0682-6.mp3",
 			"Standard Arabic Audio": "msa-0682-6.mp3"
 		},
@@ -71,7 +71,7 @@
 			"English": "That's interesting. Why did you decide to leave San Diego?",
 			"Word Count": 10,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ذلك مثير للاهتمام. لماذا قررت مغادرة سان دييغو؟",
 			"Egyptian Arabic Audio": "eca-0682-7.mp3",
 			"Standard Arabic Audio": "msa-0682-7.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "I simply felt that it was time for a change.",
 			"Word Count": 10,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لقد شعرت ببساطة بأن الوقت قد حان لإجراء تغيير.",
 			"Egyptian Arabic Audio": "eca-0682-8.mp3",
 			"Standard Arabic Audio": "msa-0682-8.mp3"
 		},
@@ -91,7 +91,7 @@
 			"English": "I see. I've had that feeling before.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنا أرى. لقد كان هذا الشعور من قبل.",
 			"Egyptian Arabic Audio": "eca-0682-9.mp3",
 			"Standard Arabic Audio": "msa-0682-9.mp3"
 		},
@@ -101,7 +101,7 @@
 			"English": "why are you moving here.?",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لماذا تتحرك هنا.",
 			"Egyptian Arabic Audio": "eca-0682-10.mp3",
 			"Standard Arabic Audio": "msa-0682-10.mp3"
 		},
@@ -111,7 +111,7 @@
 			"English": "Because my new job is in the area.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لأن وظيفتي الجديدة في المنطقة.",
 			"Egyptian Arabic Audio": "eca-0682-11.mp3",
 			"Standard Arabic Audio": "msa-0682-11.mp3"
 		},
@@ -121,7 +121,7 @@
 			"English": "Well, I'll be seeing you around, my new neighbor.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "حسنا، سوف أراك من حولك، جارتي الجديدة.",
 			"Egyptian Arabic Audio": "eca-0682-12.mp3",
 			"Standard Arabic Audio": "msa-0682-12.mp3"
 		}

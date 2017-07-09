@@ -9,7 +9,7 @@
 			"English": "Marie had food from last week on her desk.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ماري كان الطعام من الأسبوع الماضي على مكتبها.",
 			"Egyptian Arabic Audio": "eca-0858-1.mp3",
 			"Standard Arabic Audio": "msa-0858-1.mp3"
 		},
@@ -18,7 +18,7 @@
 			"English": "It smelled bad.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "رائحة سيئة.",
 			"Egyptian Arabic Audio": "eca-0858-2.mp3",
 			"Standard Arabic Audio": "msa-0858-2.mp3"
 		},
@@ -27,7 +27,7 @@
 			"English": "Cassie told her to throw it away.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كاسي قالت لها لرميها بعيدا.",
 			"Egyptian Arabic Audio": "eca-0858-3.mp3",
 			"Standard Arabic Audio": "msa-0858-3.mp3"
 		},
@@ -36,7 +36,7 @@
 			"English": "Marie said no.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وقالت ماري لا.",
 			"Egyptian Arabic Audio": "eca-0858-4.mp3",
 			"Standard Arabic Audio": "msa-0858-4.mp3"
 		},
@@ -45,7 +45,7 @@
 			"English": "Cassie threw it away herself.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كاسي ألقى بها بعيدا.",
 			"Egyptian Arabic Audio": "eca-0858-5.mp3",
 			"Standard Arabic Audio": "msa-0858-5.mp3"
 		},
@@ -54,7 +54,7 @@
 			"English": "Marie yelled at her.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ماري صاحت في وجهها.",
 			"Egyptian Arabic Audio": "eca-0858-6.mp3",
 			"Standard Arabic Audio": "msa-0858-6.mp3"
 		},
@@ -63,7 +63,7 @@
 			"English": "She was mad that Cassie touched her things.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كانت جنون أن كاسي لمست أشياءها.",
 			"Egyptian Arabic Audio": "eca-0858-7.mp3",
 			"Standard Arabic Audio": "msa-0858-7.mp3"
 		},
@@ -72,7 +72,7 @@
 			"English": "Cassie yelled at her back.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "صاح كاسي في ظهرها.",
 			"Egyptian Arabic Audio": "eca-0858-8.mp3",
 			"Standard Arabic Audio": "msa-0858-8.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "She was mad at Marie for being messy.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كانت جنون في ماري لكونها فوضوي.",
 			"Egyptian Arabic Audio": "eca-0858-9.mp3",
 			"Standard Arabic Audio": "msa-0858-9.mp3"
 		},
@@ -90,7 +90,7 @@
 			"English": "Marie left and slammed the door.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ماري غادر الباب.",
 			"Egyptian Arabic Audio": "eca-0858-10.mp3",
 			"Standard Arabic Audio": "msa-0858-10.mp3"
 		},
@@ -99,7 +99,7 @@
 			"English": "Cassie was all alone.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كان كاسي وحده.",
 			"Egyptian Arabic Audio": "eca-0858-11.mp3",
 			"Standard Arabic Audio": "msa-0858-11.mp3"
 		},
@@ -108,7 +108,7 @@
 			"English": "It was a good time to clean.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كان وقتا طيبا لتنظيف.",
 			"Egyptian Arabic Audio": "eca-0858-12.mp3",
 			"Standard Arabic Audio": "msa-0858-12.mp3"
 		}

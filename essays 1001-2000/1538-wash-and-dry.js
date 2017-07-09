@@ -9,7 +9,7 @@
 			"English": "A while later, he put her clothes into the dryer.",
 			"Word Count": 10,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وفي وقت لاحق، وضع ملابسها في المجفف.",
 			"Egyptian Arabic Audio": "eca-1538-1.mp3",
 			"Standard Arabic Audio": "msa-1538-1.mp3"
 		},
@@ -18,7 +18,7 @@
 			"English": "He selected Hot Dry.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "اختار هوت دراي.",
 			"Egyptian Arabic Audio": "eca-1538-2.mp3",
 			"Standard Arabic Audio": "msa-1538-2.mp3"
 		},
@@ -27,7 +27,7 @@
 			"English": "That'll kill the rest of the germs, he thought.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وقال انه سوف تقتل بقية الجراثيم، وقال انه يعتقد.",
 			"Egyptian Arabic Audio": "eca-1538-3.mp3",
 			"Standard Arabic Audio": "msa-1538-3.mp3"
 		},
@@ -36,7 +36,7 @@
 			"English": "The dryer finished.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "مجفف الانتهاء.",
 			"Egyptian Arabic Audio": "eca-1538-4.mp3",
 			"Standard Arabic Audio": "msa-1538-4.mp3"
 		},
@@ -45,7 +45,7 @@
 			"English": "He took her clothes upstairs.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أخذ ملابسها في الطابق العلوي.",
 			"Egyptian Arabic Audio": "eca-1538-5.mp3",
 			"Standard Arabic Audio": "msa-1538-5.mp3"
 		},
@@ -54,7 +54,7 @@
 			"English": "His wife came home.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وجاءت زوجته إلى البيت.",
 			"Egyptian Arabic Audio": "eca-1538-6.mp3",
 			"Standard Arabic Audio": "msa-1538-6.mp3"
 		},
@@ -63,7 +63,7 @@
 			"English": "Her clean clothes were on the bed.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كانت ملابسها النظيفة على السرير.",
 			"Egyptian Arabic Audio": "eca-1538-7.mp3",
 			"Standard Arabic Audio": "msa-1538-7.mp3"
 		},
@@ -72,7 +72,7 @@
 			"English": "She looked at them.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "نظرت إليها.",
 			"Egyptian Arabic Audio": "eca-1538-8.mp3",
 			"Standard Arabic Audio": "msa-1538-8.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "She smiled.",
 			"Word Count": 2,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "إبتسمت.",
 			"Egyptian Arabic Audio": "eca-1538-9.mp3",
 			"Standard Arabic Audio": "msa-1538-9.mp3"
 		},
@@ -90,7 +90,7 @@
 			"English": "\"Thank you for doing my laundry,\" she said.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "&quot;شكرا لك على القيام الغسيل بلدي&quot;، قالت.",
 			"Egyptian Arabic Audio": "eca-1538-10.mp3",
 			"Standard Arabic Audio": "msa-1538-10.mp3"
 		},
@@ -99,7 +99,7 @@
 			"English": "\"It was my pleasure,\" he said.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وقال &quot;لقد كان من دواعي سروري&quot;.",
 			"Egyptian Arabic Audio": "eca-1538-11.mp3",
 			"Standard Arabic Audio": "msa-1538-11.mp3"
 		},
@@ -108,7 +108,7 @@
 			"English": "She picked up a blouse.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "التقطت بلوزة.",
 			"Egyptian Arabic Audio": "eca-1538-12.mp3",
 			"Standard Arabic Audio": "msa-1538-12.mp3"
 		},
@@ -117,7 +117,7 @@
 			"English": "Then she screamed.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ثم صرخت.",
 			"Egyptian Arabic Audio": "eca-1538-13.mp3",
 			"Standard Arabic Audio": "msa-1538-13.mp3"
 		},
@@ -126,7 +126,7 @@
 			"English": "\"What's the matter?\" he asked.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "&quot;ما الأمر؟&quot; سأل.",
 			"Egyptian Arabic Audio": "eca-1538-14.mp3",
 			"Standard Arabic Audio": "msa-1538-14.mp3"
 		},
@@ -135,7 +135,7 @@
 			"English": "\"Look at my blouse! What happened to my white blouse? It's white and BLACK.",
 			"Word Count": 14,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "&quot;نظرة على بلوزة بلدي! ماذا حدث لبلدي بلوزة بيضاء؟ انها الأبيض والأسود.",
 			"Egyptian Arabic Audio": "eca-1538-15.mp3",
 			"Standard Arabic Audio": "msa-1538-15.mp3"
 		},
@@ -144,7 +144,7 @@
 			"English": "What did you do to my blouse?!\" she said.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ماذا فعلت لبلدي بلوزة؟! &quot;قالت.",
 			"Egyptian Arabic Audio": "eca-1538-16.mp3",
 			"Standard Arabic Audio": "msa-1538-16.mp3"
 		},
@@ -153,7 +153,7 @@
 			"English": "She looked at her black slacks on the bed.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "نظرت إلى بنطلوناتها السوداء على السرير.",
 			"Egyptian Arabic Audio": "eca-1538-17.mp3",
 			"Standard Arabic Audio": "msa-1538-17.mp3"
 		},
@@ -162,7 +162,7 @@
 			"English": "She picked them up.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انها التقطت لهم.",
 			"Egyptian Arabic Audio": "eca-1538-18.mp3",
 			"Standard Arabic Audio": "msa-1538-18.mp3"
 		},
@@ -171,7 +171,7 @@
 			"English": "\"What's wrong with these?\" she said.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "&quot;ما الخطأ في هذه؟&quot; .",
 			"Egyptian Arabic Audio": "eca-1538-19.mp3",
 			"Standard Arabic Audio": "msa-1538-19.mp3"
 		},
@@ -180,7 +180,7 @@
 			"English": "He didn't say anything.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لم يقل أي شيء.",
 			"Egyptian Arabic Audio": "eca-1538-20.mp3",
 			"Standard Arabic Audio": "msa-1538-20.mp3"
 		},
@@ -189,7 +189,7 @@
 			"English": "She took off her brown slacks.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أخذت من بنطلونها البني.",
 			"Egyptian Arabic Audio": "eca-1538-21.mp3",
 			"Standard Arabic Audio": "msa-1538-21.mp3"
 		},
@@ -198,7 +198,7 @@
 			"English": "She tried on her black slacks.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "حاولت على بنطلوناتها السوداء.",
 			"Egyptian Arabic Audio": "eca-1538-22.mp3",
 			"Standard Arabic Audio": "msa-1538-22.mp3"
 		},
@@ -207,7 +207,7 @@
 			"English": "She couldn't get into them.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لم تتمكن من الدخول إليها.",
 			"Egyptian Arabic Audio": "eca-1538-23.mp3",
 			"Standard Arabic Audio": "msa-1538-23.mp3"
 		},
@@ -216,7 +216,7 @@
 			"English": "\"You shrunk my pants!\" she screamed.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "&quot;لقد تقلصت سروالي!&quot; صرخت.",
 			"Egyptian Arabic Audio": "eca-1538-24.mp3",
 			"Standard Arabic Audio": "msa-1538-24.mp3"
 		},
@@ -225,7 +225,7 @@
 			"English": "\"You shrunk my pants!\".",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "&quot;أنت تقلصت سروالي!&quot;.",
 			"Egyptian Arabic Audio": "eca-1538-25.mp3",
 			"Standard Arabic Audio": "msa-1538-25.mp3"
 		}

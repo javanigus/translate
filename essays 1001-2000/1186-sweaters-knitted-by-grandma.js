@@ -9,7 +9,7 @@
 			"English": "Linda loves her grandma.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ليندا يحب جدتها.",
 			"Egyptian Arabic Audio": "eca-1186-1.mp3",
 			"Standard Arabic Audio": "msa-1186-1.mp3"
 		},
@@ -18,7 +18,7 @@
 			"English": "Her grandma loves her, too.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "جدتها تحبها أيضا.",
 			"Egyptian Arabic Audio": "eca-1186-2.mp3",
 			"Standard Arabic Audio": "msa-1186-2.mp3"
 		},
@@ -27,7 +27,7 @@
 			"English": "Her grandma knits her a lot of clothes.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "جدتها تربطها الكثير من الملابس.",
 			"Egyptian Arabic Audio": "eca-1186-3.mp3",
 			"Standard Arabic Audio": "msa-1186-3.mp3"
 		},
@@ -36,7 +36,7 @@
 			"English": "Linda does not usually like them.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ليندا لا عادة مثل لهم.",
 			"Egyptian Arabic Audio": "eca-1186-4.mp3",
 			"Standard Arabic Audio": "msa-1186-4.mp3"
 		},
@@ -45,7 +45,7 @@
 			"English": "They are too old-fashioned.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "فهي قديمة جدا.",
 			"Egyptian Arabic Audio": "eca-1186-5.mp3",
 			"Standard Arabic Audio": "msa-1186-5.mp3"
 		},
@@ -54,7 +54,7 @@
 			"English": "Linda pretends she likes the clothes.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ليندا تتظاهر أنها تحب الملابس.",
 			"Egyptian Arabic Audio": "eca-1186-6.mp3",
 			"Standard Arabic Audio": "msa-1186-6.mp3"
 		},
@@ -63,7 +63,7 @@
 			"English": "She smiles and thanks her grandma.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "تبتسم وتشكر جدتها.",
 			"Egyptian Arabic Audio": "eca-1186-7.mp3",
 			"Standard Arabic Audio": "msa-1186-7.mp3"
 		},
@@ -72,7 +72,7 @@
 			"English": "One day, her grandma gave Linda a pink sweater.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يوم واحد، أعطت جدتها ليندا سترة وردي.",
 			"Egyptian Arabic Audio": "eca-1186-8.mp3",
 			"Standard Arabic Audio": "msa-1186-8.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "\"I want you to wear this to the dance,\" her grandma said.",
 			"Word Count": 12,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وقالت جدتها: &quot;أريدك أن ترتدي هذا الرقص.",
 			"Egyptian Arabic Audio": "eca-1186-9.mp3",
 			"Standard Arabic Audio": "msa-1186-9.mp3"
 		},
@@ -90,7 +90,7 @@
 			"English": "Linda was upset inside.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كانت ليندا مستاء في الداخل.",
 			"Egyptian Arabic Audio": "eca-1186-10.mp3",
 			"Standard Arabic Audio": "msa-1186-10.mp3"
 		},
@@ -99,7 +99,7 @@
 			"English": "\"Oh, okay.",
 			"Word Count": 2,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "&quot;حسنا.",
 			"Egyptian Arabic Audio": "eca-1186-11.mp3",
 			"Standard Arabic Audio": "msa-1186-11.mp3"
 		},
@@ -108,7 +108,7 @@
 			"English": "Will you be there?\" Linda asked.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "&quot;سوف تكون هناك؟&quot; سألت ليندا.",
 			"Egyptian Arabic Audio": "eca-1186-12.mp3",
 			"Standard Arabic Audio": "msa-1186-12.mp3"
 		},
@@ -117,7 +117,7 @@
 			"English": "\"No, but take a picture of yourself for me,\" her grandma said.",
 			"Word Count": 12,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "&quot;لا، ولكن التقاط صورة لنفسك بالنسبة لي&quot;، قالت جدتها.",
 			"Egyptian Arabic Audio": "eca-1186-13.mp3",
 			"Standard Arabic Audio": "msa-1186-13.mp3"
 		},
@@ -126,7 +126,7 @@
 			"English": "Linda nodded.",
 			"Word Count": 2,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ليندا نودد.",
 			"Egyptian Arabic Audio": "eca-1186-14.mp3",
 			"Standard Arabic Audio": "msa-1186-14.mp3"
 		},
@@ -135,7 +135,7 @@
 			"English": "Linda planned to take the picture.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "تخطط ليندا لالتقاط الصورة.",
 			"Egyptian Arabic Audio": "eca-1186-15.mp3",
 			"Standard Arabic Audio": "msa-1186-15.mp3"
 		},
@@ -144,7 +144,7 @@
 			"English": "Afterwards, she was going to take off the sweater.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "بعد ذلك، وقالت انها ذاهب الى خلع سترة.",
 			"Egyptian Arabic Audio": "eca-1186-16.mp3",
 			"Standard Arabic Audio": "msa-1186-16.mp3"
 		}

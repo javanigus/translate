@@ -9,7 +9,7 @@
 			"English": "He became nice.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أصبح لطيفا.",
 			"Egyptian Arabic Audio": "eca-0864-1.mp3",
 			"Standard Arabic Audio": "msa-0864-1.mp3"
 		},
@@ -18,7 +18,7 @@
 			"English": "He donated to the poor.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انه تبرع للفقراء.",
 			"Egyptian Arabic Audio": "eca-0864-2.mp3",
 			"Standard Arabic Audio": "msa-0864-2.mp3"
 		},
@@ -27,7 +27,7 @@
 			"English": "He volunteered at the animal shelter.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "تطوع في مأوى الحيوان.",
 			"Egyptian Arabic Audio": "eca-0864-3.mp3",
 			"Standard Arabic Audio": "msa-0864-3.mp3"
 		},
@@ -36,7 +36,7 @@
 			"English": "He gave compliments to people.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أعطى مجاملات للناس.",
 			"Egyptian Arabic Audio": "eca-0864-4.mp3",
 			"Standard Arabic Audio": "msa-0864-4.mp3"
 		},
@@ -45,7 +45,7 @@
 			"English": "He wrote a letter to his wife.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وكتب رسالة إلى زوجته.",
 			"Egyptian Arabic Audio": "eca-0864-5.mp3",
 			"Standard Arabic Audio": "msa-0864-5.mp3"
 		},
@@ -54,7 +54,7 @@
 			"English": "He stuck pictures of himself doing good things on the letter.",
 			"Word Count": 11,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انه عالق صور لنفسه القيام بأشياء جيدة على الرسالة.",
 			"Egyptian Arabic Audio": "eca-0864-6.mp3",
 			"Standard Arabic Audio": "msa-0864-6.mp3"
 		},
@@ -63,7 +63,7 @@
 			"English": "He sent it.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أرسلها.",
 			"Egyptian Arabic Audio": "eca-0864-7.mp3",
 			"Standard Arabic Audio": "msa-0864-7.mp3"
 		},
@@ -72,7 +72,7 @@
 			"English": "Hopefully she would come back to him.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "نأمل أنها سوف يعود إليه.",
 			"Egyptian Arabic Audio": "eca-0864-8.mp3",
 			"Standard Arabic Audio": "msa-0864-8.mp3"
 		}

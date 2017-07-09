@@ -11,7 +11,7 @@
 			"English": "Should I ask Nancy out or not?",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هل يجب أن أسأل نانسي أم لا؟",
 			"Egyptian Arabic Audio": "eca-0127-1.mp3",
 			"Standard Arabic Audio": "msa-0127-1.mp3"
 		},
@@ -21,7 +21,7 @@
 			"English": "You should not.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لا يجب عليك أن.",
 			"Egyptian Arabic Audio": "eca-0127-2.mp3",
 			"Standard Arabic Audio": "msa-0127-2.mp3"
 		},
@@ -31,7 +31,7 @@
 			"English": "Why shouldn't I?",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لماذا لا ينبغي لي؟",
 			"Egyptian Arabic Audio": "eca-0127-3.mp3",
 			"Standard Arabic Audio": "msa-0127-3.mp3"
 		},
@@ -41,7 +41,7 @@
 			"English": "Nancy is a liar.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "نانسي كذاب.",
 			"Egyptian Arabic Audio": "eca-0127-4.mp3",
 			"Standard Arabic Audio": "msa-0127-4.mp3"
 		},
@@ -51,7 +51,7 @@
 			"English": "What does she lie about?",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ماذا تكذب؟",
 			"Egyptian Arabic Audio": "eca-0127-5.mp3",
 			"Standard Arabic Audio": "msa-0127-5.mp3"
 		},
@@ -61,7 +61,7 @@
 			"English": "She lies about everything.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "إنها تكمن في كل شيء.",
 			"Egyptian Arabic Audio": "eca-0127-6.mp3",
 			"Standard Arabic Audio": "msa-0127-6.mp3"
 		},
@@ -71,7 +71,7 @@
 			"English": "Please be specific.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يرجى أن تكون محددة.",
 			"Egyptian Arabic Audio": "eca-0127-7.mp3",
 			"Standard Arabic Audio": "msa-0127-7.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "She lied, saying that her mom died.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كذبت، قائلة أن والدتها ماتت.",
 			"Egyptian Arabic Audio": "eca-0127-8.mp3",
 			"Standard Arabic Audio": "msa-0127-8.mp3"
 		},
@@ -91,7 +91,7 @@
 			"English": "Wow, that's terrible.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "نجاح باهر، وهذا أمر فظيع.",
 			"Egyptian Arabic Audio": "eca-0127-9.mp3",
 			"Standard Arabic Audio": "msa-0127-9.mp3"
 		},
@@ -101,7 +101,7 @@
 			"English": "She wanted people to do favors for her.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أرادت من الناس أن يفعلوا لصالحها.",
 			"Egyptian Arabic Audio": "eca-0127-10.mp3",
 			"Standard Arabic Audio": "msa-0127-10.mp3"
 		},
@@ -111,7 +111,7 @@
 			"English": "I'm never asking her out.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنا لا يسألها.",
 			"Egyptian Arabic Audio": "eca-0127-11.mp3",
 			"Standard Arabic Audio": "msa-0127-11.mp3"
 		},
@@ -121,7 +121,7 @@
 			"English": "I'm glad you decided to listen to me.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنا سعيد لأنك قررت الاستماع إلي.",
 			"Egyptian Arabic Audio": "eca-0127-12.mp3",
 			"Standard Arabic Audio": "msa-0127-12.mp3"
 		}

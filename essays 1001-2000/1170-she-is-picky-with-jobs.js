@@ -9,7 +9,7 @@
 			"English": "Sophia needs some money.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "صوفيا يحتاج بعض المال.",
 			"Egyptian Arabic Audio": "eca-1170-1.mp3",
 			"Standard Arabic Audio": "msa-1170-1.mp3"
 		},
@@ -18,7 +18,7 @@
 			"English": "She knows she should get a job, but she is picky with jobs.",
 			"Word Count": 13,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "إنها تعرف أنها يجب أن تحصل على وظيفة، لكنها من الصعب إرضاءه مع وظائف.",
 			"Egyptian Arabic Audio": "eca-1170-2.mp3",
 			"Standard Arabic Audio": "msa-1170-2.mp3"
 		},
@@ -27,7 +27,7 @@
 			"English": "She wants a job that pays a lot.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انها تريد وظيفة أن يدفع الكثير.",
 			"Egyptian Arabic Audio": "eca-1170-3.mp3",
 			"Standard Arabic Audio": "msa-1170-3.mp3"
 		},
@@ -36,7 +36,7 @@
 			"English": "She wants a job that gives her power.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "إنها تريد وظيفة تعطي قوتها.",
 			"Egyptian Arabic Audio": "eca-1170-4.mp3",
 			"Standard Arabic Audio": "msa-1170-4.mp3"
 		},
@@ -45,7 +45,7 @@
 			"English": "She wants a job that has good health insurance.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "إنها تريد وظيفة لديها تأمين صحي جيد.",
 			"Egyptian Arabic Audio": "eca-1170-5.mp3",
 			"Standard Arabic Audio": "msa-1170-5.mp3"
 		},
@@ -54,7 +54,7 @@
 			"English": "She does not have a college degree.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ليس لديها شهادة جامعية.",
 			"Egyptian Arabic Audio": "eca-1170-6.mp3",
 			"Standard Arabic Audio": "msa-1170-6.mp3"
 		},
@@ -63,7 +63,7 @@
 			"English": "She can only do so much.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وقالت انها يمكن أن تفعل سوى الكثير.",
 			"Egyptian Arabic Audio": "eca-1170-7.mp3",
 			"Standard Arabic Audio": "msa-1170-7.mp3"
 		},
@@ -72,7 +72,7 @@
 			"English": "The most she can get is $15 an hour.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وأكثر ما يمكن أن تحصل عليه هو 15 دولارا في الساعة.",
 			"Egyptian Arabic Audio": "eca-1170-8.mp3",
 			"Standard Arabic Audio": "msa-1170-8.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "That is only if she is lucky.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هذا فقط إذا كانت محظوظة.",
 			"Egyptian Arabic Audio": "eca-1170-9.mp3",
 			"Standard Arabic Audio": "msa-1170-9.mp3"
 		},
@@ -90,7 +90,7 @@
 			"English": "She does not want to work at a restaurant.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انها لا تريد أن تعمل في مطعم.",
 			"Egyptian Arabic Audio": "eca-1170-10.mp3",
 			"Standard Arabic Audio": "msa-1170-10.mp3"
 		},
@@ -99,7 +99,7 @@
 			"English": "She does not like the idea of obeying people's orders.",
 			"Word Count": 10,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انها لا تحب فكرة طاعة أوامر الناس.",
 			"Egyptian Arabic Audio": "eca-1170-11.mp3",
 			"Standard Arabic Audio": "msa-1170-11.mp3"
 		},
@@ -108,7 +108,7 @@
 			"English": "She does not want to work at an office.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انها لا تريد أن تعمل في مكتب.",
 			"Egyptian Arabic Audio": "eca-1170-12.mp3",
 			"Standard Arabic Audio": "msa-1170-12.mp3"
 		},
@@ -117,7 +117,7 @@
 			"English": "That is boring.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هذا مملة.",
 			"Egyptian Arabic Audio": "eca-1170-13.mp3",
 			"Standard Arabic Audio": "msa-1170-13.mp3"
 		},
@@ -126,7 +126,7 @@
 			"English": "People tell her that she can't be picky if she doesn't have a degree.",
 			"Word Count": 14,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "الناس يقولون لها أنها لا يمكن أن يكون من الصعب إرضاءه إذا لم يكن لديك شهادة.",
 			"Egyptian Arabic Audio": "eca-1170-14.mp3",
 			"Standard Arabic Audio": "msa-1170-14.mp3"
 		}

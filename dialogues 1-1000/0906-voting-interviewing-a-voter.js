@@ -11,7 +11,7 @@
 			"English": "I work for the Big City Newspaper, and I'm doing a story on Election Day.",
 			"Word Count": 15,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أعمل لصحيفة المدينة الكبرى، وأنا أفعل قصة في يوم الانتخابات.",
 			"Egyptian Arabic Audio": "eca-0906-1.mp3",
 			"Standard Arabic Audio": "msa-0906-1.mp3"
 		},
@@ -21,7 +21,7 @@
 			"English": "I read that paper all the time!",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "قرأت تلك الورقة في كل وقت!",
 			"Egyptian Arabic Audio": "eca-0906-2.mp3",
 			"Standard Arabic Audio": "msa-0906-2.mp3"
 		},
@@ -31,7 +31,7 @@
 			"English": "Great! So I can interview you for my story?",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "عظيم! حتى أستطيع مقابلة لك لقصتي؟",
 			"Egyptian Arabic Audio": "eca-0906-3.mp3",
 			"Standard Arabic Audio": "msa-0906-3.mp3"
 		},
@@ -41,7 +41,7 @@
 			"English": "I would love that!",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أحب ذلك!",
 			"Egyptian Arabic Audio": "eca-0906-4.mp3",
 			"Standard Arabic Audio": "msa-0906-4.mp3"
 		},
@@ -51,7 +51,7 @@
 			"English": "Did you vote today?",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هل صوتت اليوم؟",
 			"Egyptian Arabic Audio": "eca-0906-5.mp3",
 			"Standard Arabic Audio": "msa-0906-5.mp3"
 		},
@@ -61,7 +61,7 @@
 			"English": "I'm on my way home from voting now.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنا في طريقي إلى البيت من التصويت الآن.",
 			"Egyptian Arabic Audio": "eca-0906-6.mp3",
 			"Standard Arabic Audio": "msa-0906-6.mp3"
 		},
@@ -71,7 +71,7 @@
 			"English": "Who did you vote for?",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "الذين لم تصوت؟",
 			"Egyptian Arabic Audio": "eca-0906-7.mp3",
 			"Standard Arabic Audio": "msa-0906-7.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "I voted for our city's first female mayor.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لقد صوتت لأول عمدة في مدينتنا.",
 			"Egyptian Arabic Audio": "eca-0906-8.mp3",
 			"Standard Arabic Audio": "msa-0906-8.mp3"
 		},
@@ -91,7 +91,7 @@
 			"English": "Were there many people voting?",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هل كان هناك الكثير من الناس يصوتون؟",
 			"Egyptian Arabic Audio": "eca-0906-9.mp3",
 			"Standard Arabic Audio": "msa-0906-9.mp3"
 		},
@@ -101,7 +101,7 @@
 			"English": "I think turnout was pretty low. It's a shame.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أعتقد أن نسبة المشاركة كانت منخفضة جدا. إنه لعار.",
 			"Egyptian Arabic Audio": "eca-0906-10.mp3",
 			"Standard Arabic Audio": "msa-0906-10.mp3"
 		},
@@ -111,7 +111,7 @@
 			"English": "Why do you think that is?",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لماذا تعتقد ذلك؟",
 			"Egyptian Arabic Audio": "eca-0906-11.mp3",
 			"Standard Arabic Audio": "msa-0906-11.mp3"
 		},
@@ -121,7 +121,7 @@
 			"English": "I think people think all politicians are dishonest.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أعتقد أن الناس يعتقدون أن جميع السياسيين غير شريفة.",
 			"Egyptian Arabic Audio": "eca-0906-12.mp3",
 			"Standard Arabic Audio": "msa-0906-12.mp3"
 		}

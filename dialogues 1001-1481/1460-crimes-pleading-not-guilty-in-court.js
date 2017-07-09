@@ -11,7 +11,7 @@
 			"English": "Order in the court!",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "طلب في المحكمة!",
 			"Egyptian Arabic Audio": "eca-1460-1.mp3",
 			"Standard Arabic Audio": "msa-1460-1.mp3"
 		},
@@ -21,7 +21,7 @@
 			"English": "I would like to make my plea.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أود أن أطلب مني.",
 			"Egyptian Arabic Audio": "eca-1460-2.mp3",
 			"Standard Arabic Audio": "msa-1460-2.mp3"
 		},
@@ -31,7 +31,7 @@
 			"English": "What is it?",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ما هذا؟",
 			"Egyptian Arabic Audio": "eca-1460-3.mp3",
 			"Standard Arabic Audio": "msa-1460-3.mp3"
 		},
@@ -41,7 +41,7 @@
 			"English": "I would like to plead not guilty.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وأود أن أدعي غير مذنب.",
 			"Egyptian Arabic Audio": "eca-1460-4.mp3",
 			"Standard Arabic Audio": "msa-1460-4.mp3"
 		},
@@ -51,7 +51,7 @@
 			"English": "You do realize that all the evidence points to you?",
 			"Word Count": 10,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كنت تدرك أن كل الأدلة يشير لك؟",
 			"Egyptian Arabic Audio": "eca-1460-5.mp3",
 			"Standard Arabic Audio": "msa-1460-5.mp3"
 		},
@@ -61,7 +61,7 @@
 			"English": "I know. But I did not do it.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "اعرف. ولكن لم أفعل ذلك.",
 			"Egyptian Arabic Audio": "eca-1460-6.mp3",
 			"Standard Arabic Audio": "msa-1460-6.mp3"
 		},
@@ -71,7 +71,7 @@
 			"English": "How do you figure that?",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كيف يمكنك معرفة ذلك؟",
 			"Egyptian Arabic Audio": "eca-1460-7.mp3",
 			"Standard Arabic Audio": "msa-1460-7.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "I didn't commit the crime.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لم أكن ارتكب الجريمة.",
 			"Egyptian Arabic Audio": "eca-1460-8.mp3",
 			"Standard Arabic Audio": "msa-1460-8.mp3"
 		},
@@ -91,7 +91,7 @@
 			"English": "Do you know who did?",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هل تعرف من فعل؟",
 			"Egyptian Arabic Audio": "eca-1460-9.mp3",
 			"Standard Arabic Audio": "msa-1460-9.mp3"
 		},
@@ -101,7 +101,7 @@
 			"English": "If I tell you who did, will you release me?",
 			"Word Count": 10,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "إذا قلت لك من فعل، هل ستفرج عني؟",
 			"Egyptian Arabic Audio": "eca-1460-10.mp3",
 			"Standard Arabic Audio": "msa-1460-10.mp3"
 		},
@@ -111,7 +111,7 @@
 			"English": "I'm sure we can work out some kind of deal.",
 			"Word Count": 10,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنا متأكد من أننا يمكن أن تعمل على نوع من الصفقة.",
 			"Egyptian Arabic Audio": "eca-1460-11.mp3",
 			"Standard Arabic Audio": "msa-1460-11.mp3"
 		},
@@ -121,7 +121,7 @@
 			"English": "I'll tell you all you need to know.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "سوف اقول لكم كل ما تحتاج إلى معرفته.",
 			"Egyptian Arabic Audio": "eca-1460-12.mp3",
 			"Standard Arabic Audio": "msa-1460-12.mp3"
 		},
@@ -131,7 +131,7 @@
 			"English": "Order!",
 			"Word Count": 1,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "طلب!",
 			"Egyptian Arabic Audio": "eca-1460-13.mp3",
 			"Standard Arabic Audio": "msa-1460-13.mp3"
 		},
@@ -141,7 +141,7 @@
 			"English": "Your Honor, I am ready to make my plea.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "شرف، وأنا على استعداد لتقديم نداء.",
 			"Egyptian Arabic Audio": "eca-1460-14.mp3",
 			"Standard Arabic Audio": "msa-1460-14.mp3"
 		},
@@ -151,7 +151,7 @@
 			"English": "What's your plea?",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ما هو النداء الخاص بك؟",
 			"Egyptian Arabic Audio": "eca-1460-15.mp3",
 			"Standard Arabic Audio": "msa-1460-15.mp3"
 		},
@@ -161,7 +161,7 @@
 			"English": "I am pleading not guilty.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنا أدين غير مذنب.",
 			"Egyptian Arabic Audio": "eca-1460-16.mp3",
 			"Standard Arabic Audio": "msa-1460-16.mp3"
 		},
@@ -171,7 +171,7 @@
 			"English": "But all the evidence points to you.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ولكن كل الأدلة يشير لك.",
 			"Egyptian Arabic Audio": "eca-1460-17.mp3",
 			"Standard Arabic Audio": "msa-1460-17.mp3"
 		},
@@ -181,7 +181,7 @@
 			"English": "I am not the guilty party",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنا لست الطرف المذنب",
 			"Egyptian Arabic Audio": "eca-1460-18.mp3",
 			"Standard Arabic Audio": "msa-1460-18.mp3"
 		},
@@ -191,7 +191,7 @@
 			"English": "What are you saying?",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ماذا تقول؟",
 			"Egyptian Arabic Audio": "eca-1460-19.mp3",
 			"Standard Arabic Audio": "msa-1460-19.mp3"
 		},
@@ -201,7 +201,7 @@
 			"English": "I am not the person who committed that crime.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنا لست الشخص الذي ارتكب تلك الجريمة.",
 			"Egyptian Arabic Audio": "eca-1460-20.mp3",
 			"Standard Arabic Audio": "msa-1460-20.mp3"
 		},
@@ -211,7 +211,7 @@
 			"English": "Who is?",
 			"Word Count": 2,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "الذي هو؟",
 			"Egyptian Arabic Audio": "eca-1460-21.mp3",
 			"Standard Arabic Audio": "msa-1460-21.mp3"
 		},
@@ -221,7 +221,7 @@
 			"English": "Will you let me go if I tell you?",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "سوف اسمحوا لي أن أذهب إذا قلت لك؟",
 			"Egyptian Arabic Audio": "eca-1460-22.mp3",
 			"Standard Arabic Audio": "msa-1460-22.mp3"
 		},
@@ -231,7 +231,7 @@
 			"English": "We can work something out.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يمكننا عمل شيء ما.",
 			"Egyptian Arabic Audio": "eca-1460-23.mp3",
 			"Standard Arabic Audio": "msa-1460-23.mp3"
 		},
@@ -241,7 +241,7 @@
 			"English": "I have no problem singing like a canary.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ليس لدي مشكلة الغناء مثل الكناري.",
 			"Egyptian Arabic Audio": "eca-1460-24.mp3",
 			"Standard Arabic Audio": "msa-1460-24.mp3"
 		},
@@ -251,7 +251,7 @@
 			"English": "I need order in the court!",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أحتاج النظام في المحكمة!",
 			"Egyptian Arabic Audio": "eca-1460-25.mp3",
 			"Standard Arabic Audio": "msa-1460-25.mp3"
 		},
@@ -261,7 +261,7 @@
 			"English": "I am ready to make my plea.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنا مستعد لتقديم نداء.",
 			"Egyptian Arabic Audio": "eca-1460-26.mp3",
 			"Standard Arabic Audio": "msa-1460-26.mp3"
 		},
@@ -271,7 +271,7 @@
 			"English": "What do you plead?",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ماذا تسأل؟",
 			"Egyptian Arabic Audio": "eca-1460-27.mp3",
 			"Standard Arabic Audio": "msa-1460-27.mp3"
 		},
@@ -281,7 +281,7 @@
 			"English": "I plead not guilty.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنا أدعي غير مذنب.",
 			"Egyptian Arabic Audio": "eca-1460-28.mp3",
 			"Standard Arabic Audio": "msa-1460-28.mp3"
 		},
@@ -291,7 +291,7 @@
 			"English": "All the evidence indicates that you are guilty.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كل الأدلة تشير إلى أنك مذنب.",
 			"Egyptian Arabic Audio": "eca-1460-29.mp3",
 			"Standard Arabic Audio": "msa-1460-29.mp3"
 		},
@@ -301,7 +301,7 @@
 			"English": "I realize that, but I am not guilty.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وأنا أدرك ذلك، ولكن أنا لست مذنب.",
 			"Egyptian Arabic Audio": "eca-1460-30.mp3",
 			"Standard Arabic Audio": "msa-1460-30.mp3"
 		},
@@ -311,7 +311,7 @@
 			"English": "Is that right?",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هل هذا صحيح؟",
 			"Egyptian Arabic Audio": "eca-1460-31.mp3",
 			"Standard Arabic Audio": "msa-1460-31.mp3"
 		},
@@ -321,7 +321,7 @@
 			"English": "I had nothing to do with the crime that was committed.",
 			"Word Count": 11,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لم يكن لي علاقة مع الجريمة التي ارتكبت.",
 			"Egyptian Arabic Audio": "eca-1460-32.mp3",
 			"Standard Arabic Audio": "msa-1460-32.mp3"
 		},
@@ -331,7 +331,7 @@
 			"English": "Who is the guilty party?",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "من هو الطرف المذنب؟",
 			"Egyptian Arabic Audio": "eca-1460-33.mp3",
 			"Standard Arabic Audio": "msa-1460-33.mp3"
 		},
@@ -341,7 +341,7 @@
 			"English": "I'll tell you if you let me go.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "سأخبرك إذا دعني أذهب.",
 			"Egyptian Arabic Audio": "eca-1460-34.mp3",
 			"Standard Arabic Audio": "msa-1460-34.mp3"
 		},
@@ -351,7 +351,7 @@
 			"English": "I'd be glad to make a deal with you.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "سأكون سعيدا لجعل صفقة معك.",
 			"Egyptian Arabic Audio": "eca-1460-35.mp3",
 			"Standard Arabic Audio": "msa-1460-35.mp3"
 		},
@@ -361,7 +361,7 @@
 			"English": "I am willing to tell you that information.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنا على استعداد أن أقول لكم أن المعلومات.",
 			"Egyptian Arabic Audio": "eca-1460-36.mp3",
 			"Standard Arabic Audio": "msa-1460-36.mp3"
 		}

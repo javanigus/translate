@@ -9,7 +9,7 @@
 			"English": "Mr Brown's lectures are boring.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "محاضرات السيد براون مملة.",
 			"Egyptian Arabic Audio": "eca-0038-1.mp3",
 			"Standard Arabic Audio": "msa-0038-1.mp3"
 		},
@@ -18,7 +18,7 @@
 			"English": "A student looks up at Mr.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "طالب ينظر إلى السيد",
 			"Egyptian Arabic Audio": "eca-0038-2.mp3",
 			"Standard Arabic Audio": "msa-0038-2.mp3"
 		},
@@ -27,7 +27,7 @@
 			"English": "Brown to check what he is doing.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "براون للتحقق ما يفعله.",
 			"Egyptian Arabic Audio": "eca-0038-3.mp3",
 			"Standard Arabic Audio": "msa-0038-3.mp3"
 		},
@@ -36,7 +36,7 @@
 			"English": "Mr.",
 			"Word Count": 1,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "السيد",
 			"Egyptian Arabic Audio": "eca-0038-4.mp3",
 			"Standard Arabic Audio": "msa-0038-4.mp3"
 		},
@@ -45,7 +45,7 @@
 			"English": "Brown is writing something on the board.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "براون يكتب شيئا على متن الطائرة.",
 			"Egyptian Arabic Audio": "eca-0038-5.mp3",
 			"Standard Arabic Audio": "msa-0038-5.mp3"
 		},
@@ -54,7 +54,7 @@
 			"English": "The student takes out his phone.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يقوم الطالب بإخراج هاتفه.",
 			"Egyptian Arabic Audio": "eca-0038-6.mp3",
 			"Standard Arabic Audio": "msa-0038-6.mp3"
 		},
@@ -63,7 +63,7 @@
 			"English": "He starts playing games.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يبدأ اللعب.",
 			"Egyptian Arabic Audio": "eca-0038-7.mp3",
 			"Standard Arabic Audio": "msa-0038-7.mp3"
 		},
@@ -72,7 +72,7 @@
 			"English": "Mr.",
 			"Word Count": 1,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "السيد",
 			"Egyptian Arabic Audio": "eca-0038-8.mp3",
 			"Standard Arabic Audio": "msa-0038-8.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "Brown walks over to his desk.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "براون يمشي إلى مكتبه.",
 			"Egyptian Arabic Audio": "eca-0038-9.mp3",
 			"Standard Arabic Audio": "msa-0038-9.mp3"
 		},
@@ -90,7 +90,7 @@
 			"English": "Mr.",
 			"Word Count": 1,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "السيد",
 			"Egyptian Arabic Audio": "eca-0038-10.mp3",
 			"Standard Arabic Audio": "msa-0038-10.mp3"
 		},
@@ -99,7 +99,7 @@
 			"English": "Brown takes the student's phone away.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "براون يأخذ الهاتف الطالب بعيدا.",
 			"Egyptian Arabic Audio": "eca-0038-11.mp3",
 			"Standard Arabic Audio": "msa-0038-11.mp3"
 		},
@@ -108,7 +108,7 @@
 			"English": "He is in trouble.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انه في ورطة.",
 			"Egyptian Arabic Audio": "eca-0038-12.mp3",
 			"Standard Arabic Audio": "msa-0038-12.mp3"
 		}

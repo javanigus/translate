@@ -9,7 +9,7 @@
 			"English": "The mayor was in a hurry.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كان العمدة في عجلة من امرنا.",
 			"Egyptian Arabic Audio": "eca-1288-1.mp3",
 			"Standard Arabic Audio": "msa-1288-1.mp3"
 		},
@@ -18,7 +18,7 @@
 			"English": "He was late.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كان متأخرا.",
 			"Egyptian Arabic Audio": "eca-1288-2.mp3",
 			"Standard Arabic Audio": "msa-1288-2.mp3"
 		},
@@ -27,7 +27,7 @@
 			"English": "He drove his car faster.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "قاد سيارته بشكل أسرع.",
 			"Egyptian Arabic Audio": "eca-1288-3.mp3",
 			"Standard Arabic Audio": "msa-1288-3.mp3"
 		},
@@ -36,7 +36,7 @@
 			"English": "He didn't want to miss his plane.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وقال انه لا يريد أن تفوت طائرته.",
 			"Egyptian Arabic Audio": "eca-1288-4.mp3",
 			"Standard Arabic Audio": "msa-1288-4.mp3"
 		},
@@ -45,7 +45,7 @@
 			"English": "The traffic light was red.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وكان ضوء المرور أحمر.",
 			"Egyptian Arabic Audio": "eca-1288-5.mp3",
 			"Standard Arabic Audio": "msa-1288-5.mp3"
 		},
@@ -54,7 +54,7 @@
 			"English": "He went through the red traffic light.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ذهب من خلال الضوء الأحمر.",
 			"Egyptian Arabic Audio": "eca-1288-6.mp3",
 			"Standard Arabic Audio": "msa-1288-6.mp3"
 		},
@@ -63,7 +63,7 @@
 			"English": "I'm glad no police are around, he thought.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنا مسرور لا الشرطة حولها، وقال انه يعتقد.",
 			"Egyptian Arabic Audio": "eca-1288-7.mp3",
 			"Standard Arabic Audio": "msa-1288-7.mp3"
 		},
@@ -72,7 +72,7 @@
 			"English": "He heard a siren.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "سمع صفارات الإنذار.",
 			"Egyptian Arabic Audio": "eca-1288-8.mp3",
 			"Standard Arabic Audio": "msa-1288-8.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "He saw a red light behind him.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "رأى ضوءا أحمر خلفه.",
 			"Egyptian Arabic Audio": "eca-1288-9.mp3",
 			"Standard Arabic Audio": "msa-1288-9.mp3"
 		},
@@ -90,7 +90,7 @@
 			"English": "The red light was on top of a police car.",
 			"Word Count": 10,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وكان الضوء الأحمر على رأس سيارة الشرطة.",
 			"Egyptian Arabic Audio": "eca-1288-10.mp3",
 			"Standard Arabic Audio": "msa-1288-10.mp3"
 		},
@@ -99,7 +99,7 @@
 			"English": "The mayor didn't stop.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لم يتوقف العمدة.",
 			"Egyptian Arabic Audio": "eca-1288-11.mp3",
 			"Standard Arabic Audio": "msa-1288-11.mp3"
 		},
@@ -108,7 +108,7 @@
 			"English": "He was in a hurry.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كان في عجلة من امرنا.",
 			"Egyptian Arabic Audio": "eca-1288-12.mp3",
 			"Standard Arabic Audio": "msa-1288-12.mp3"
 		},
@@ -117,7 +117,7 @@
 			"English": "He was late.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كان متأخرا.",
 			"Egyptian Arabic Audio": "eca-1288-13.mp3",
 			"Standard Arabic Audio": "msa-1288-13.mp3"
 		},
@@ -126,7 +126,7 @@
 			"English": "He was the mayor.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كان عمدة.",
 			"Egyptian Arabic Audio": "eca-1288-14.mp3",
 			"Standard Arabic Audio": "msa-1288-14.mp3"
 		},
@@ -135,7 +135,7 @@
 			"English": "He drove his car faster.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "قاد سيارته بشكل أسرع.",
 			"Egyptian Arabic Audio": "eca-1288-15.mp3",
 			"Standard Arabic Audio": "msa-1288-15.mp3"
 		},
@@ -144,7 +144,7 @@
 			"English": "The police car followed the mayor.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وتابعت سيارة الشرطة العمدة.",
 			"Egyptian Arabic Audio": "eca-1288-16.mp3",
 			"Standard Arabic Audio": "msa-1288-16.mp3"
 		},
@@ -153,7 +153,7 @@
 			"English": "It followed the mayor to the airport.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وتبع ذلك عمدة المطار.",
 			"Egyptian Arabic Audio": "eca-1288-17.mp3",
 			"Standard Arabic Audio": "msa-1288-17.mp3"
 		},
@@ -162,7 +162,7 @@
 			"English": "The mayor got out of his car.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "خرج رئيس البلدية من سيارته.",
 			"Egyptian Arabic Audio": "eca-1288-18.mp3",
 			"Standard Arabic Audio": "msa-1288-18.mp3"
 		},
@@ -171,7 +171,7 @@
 			"English": "The policeman got out of his car.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "خرج الشرطي من سيارته.",
 			"Egyptian Arabic Audio": "eca-1288-19.mp3",
 			"Standard Arabic Audio": "msa-1288-19.mp3"
 		},
@@ -180,7 +180,7 @@
 			"English": "\"You're under arrest,\" he said.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وقال &quot;انك تحت الاعتقال&quot;.",
 			"Egyptian Arabic Audio": "eca-1288-20.mp3",
 			"Standard Arabic Audio": "msa-1288-20.mp3"
 		},
@@ -189,7 +189,7 @@
 			"English": "\"You can't arrest me.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "&quot;لا يمكنك القبض علي.",
 			"Egyptian Arabic Audio": "eca-1288-21.mp3",
 			"Standard Arabic Audio": "msa-1288-21.mp3"
 		},
@@ -198,7 +198,7 @@
 			"English": "I'm the mayor,\" said the mayor.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنا عمدة &quot;، قال عمدة.",
 			"Egyptian Arabic Audio": "eca-1288-22.mp3",
 			"Standard Arabic Audio": "msa-1288-22.mp3"
 		}

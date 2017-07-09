@@ -9,7 +9,7 @@
 			"English": "She took a bagel out of the package.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أخذت باجل من الباقة.",
 			"Egyptian Arabic Audio": "eca-1409-1.mp3",
 			"Standard Arabic Audio": "msa-1409-1.mp3"
 		},
@@ -18,7 +18,7 @@
 			"English": "She took a knife out of the drawer.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أخذت سكينا من الدرج.",
 			"Egyptian Arabic Audio": "eca-1409-2.mp3",
 			"Standard Arabic Audio": "msa-1409-2.mp3"
 		},
@@ -27,7 +27,7 @@
 			"English": "She sliced the bagel in half.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انها شرائح الباجيل في النصف.",
 			"Egyptian Arabic Audio": "eca-1409-3.mp3",
 			"Standard Arabic Audio": "msa-1409-3.mp3"
 		},
@@ -36,7 +36,7 @@
 			"English": "She sliced it carefully, because a bagel is hard to cut.",
 			"Word Count": 11,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انها شرائح ذلك بعناية، لأنه من الصعب أن تخفض من الباجيل.",
 			"Egyptian Arabic Audio": "eca-1409-4.mp3",
 			"Standard Arabic Audio": "msa-1409-4.mp3"
 		},
@@ -45,7 +45,7 @@
 			"English": "If the knife slipped, she might cut her finger.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "إذا تراجعت السكين، فإنها قد تقطع إصبعها.",
 			"Egyptian Arabic Audio": "eca-1409-5.mp3",
 			"Standard Arabic Audio": "msa-1409-5.mp3"
 		},
@@ -54,7 +54,7 @@
 			"English": "She put each half of the bagel into the toaster.",
 			"Word Count": 10,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وضعت كل نصف الباجيل في محمصة.",
 			"Egyptian Arabic Audio": "eca-1409-6.mp3",
 			"Standard Arabic Audio": "msa-1409-6.mp3"
 		},
@@ -63,7 +63,7 @@
 			"English": "She pushed the toaster handle down.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "دفعت مقبض محمصة لأسفل.",
 			"Egyptian Arabic Audio": "eca-1409-7.mp3",
 			"Standard Arabic Audio": "msa-1409-7.mp3"
 		},
@@ -72,7 +72,7 @@
 			"English": "One minute later, both bagel slices popped up.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "بعد دقيقة واحدة، ظهرت كل من شرائح الخبز.",
 			"Egyptian Arabic Audio": "eca-1409-8.mp3",
 			"Standard Arabic Audio": "msa-1409-8.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "She buttered each slice.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وقالت انها زبدة كل شريحة.",
 			"Egyptian Arabic Audio": "eca-1409-9.mp3",
 			"Standard Arabic Audio": "msa-1409-9.mp3"
 		},
@@ -90,7 +90,7 @@
 			"English": "Then she put the slices into the microwave.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ثم وضعت شرائح في الميكروويف.",
 			"Egyptian Arabic Audio": "eca-1409-10.mp3",
 			"Standard Arabic Audio": "msa-1409-10.mp3"
 		},
@@ -99,7 +99,7 @@
 			"English": "She microwaved the slices for 15 seconds.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انها ميكرووفيد شرائح لمدة 15 ثانية.",
 			"Egyptian Arabic Audio": "eca-1409-11.mp3",
 			"Standard Arabic Audio": "msa-1409-11.mp3"
 		},
@@ -108,7 +108,7 @@
 			"English": "She waited a few seconds for the slices to cool down.",
 			"Word Count": 11,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انتظرت بضع ثوان للشرائح لتبرد.",
 			"Egyptian Arabic Audio": "eca-1409-12.mp3",
 			"Standard Arabic Audio": "msa-1409-12.mp3"
 		},
@@ -117,7 +117,7 @@
 			"English": "Then she bit into a slice.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ثم انها قليلا في شريحة.",
 			"Egyptian Arabic Audio": "eca-1409-13.mp3",
 			"Standard Arabic Audio": "msa-1409-13.mp3"
 		},
@@ -126,7 +126,7 @@
 			"English": "It was hot and chewy.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كان ساخنا ومطاطا.",
 			"Egyptian Arabic Audio": "eca-1409-14.mp3",
 			"Standard Arabic Audio": "msa-1409-14.mp3"
 		},
@@ -135,7 +135,7 @@
 			"English": "It was delicious.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لقد كانت لذيذة.",
 			"Egyptian Arabic Audio": "eca-1409-15.mp3",
 			"Standard Arabic Audio": "msa-1409-15.mp3"
 		},
@@ -144,7 +144,7 @@
 			"English": "She dipped it into her coffee.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انها غمس في القهوة لها.",
 			"Egyptian Arabic Audio": "eca-1409-16.mp3",
 			"Standard Arabic Audio": "msa-1409-16.mp3"
 		},
@@ -153,7 +153,7 @@
 			"English": "She took another bite.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أخذت لدغة أخرى.",
 			"Egyptian Arabic Audio": "eca-1409-17.mp3",
 			"Standard Arabic Audio": "msa-1409-17.mp3"
 		},
@@ -162,7 +162,7 @@
 			"English": "Now it was wet and chewy.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "الآن كان الرطب ومطاط.",
 			"Egyptian Arabic Audio": "eca-1409-18.mp3",
 			"Standard Arabic Audio": "msa-1409-18.mp3"
 		}

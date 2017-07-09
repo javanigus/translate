@@ -9,7 +9,7 @@
 			"English": "Abby was going on a trip to Las Vegas.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كان آبي في رحلة إلى لاس فيغاس.",
 			"Egyptian Arabic Audio": "eca-0294-1.mp3",
 			"Standard Arabic Audio": "msa-0294-1.mp3"
 		},
@@ -18,7 +18,7 @@
 			"English": "She was going to stay there for three nights.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كانت ستبقى هناك لمدة ثلاث ليال.",
 			"Egyptian Arabic Audio": "eca-0294-2.mp3",
 			"Standard Arabic Audio": "msa-0294-2.mp3"
 		},
@@ -27,7 +27,7 @@
 			"English": "She had to pack carefully.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كان عليها أن حزمة بعناية.",
 			"Egyptian Arabic Audio": "eca-0294-3.mp3",
 			"Standard Arabic Audio": "msa-0294-3.mp3"
 		},
@@ -36,7 +36,7 @@
 			"English": "She first needed a suitcase.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كانت تحتاج أولا حقيبة.",
 			"Egyptian Arabic Audio": "eca-0294-4.mp3",
 			"Standard Arabic Audio": "msa-0294-4.mp3"
 		},
@@ -45,7 +45,7 @@
 			"English": "All of hers were broken.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "تم كسر كل من راتبها.",
 			"Egyptian Arabic Audio": "eca-0294-5.mp3",
 			"Standard Arabic Audio": "msa-0294-5.mp3"
 		},
@@ -54,7 +54,7 @@
 			"English": "She borrowed one from her friend.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "اقترضت واحدة من صديقتها.",
 			"Egyptian Arabic Audio": "eca-0294-6.mp3",
 			"Standard Arabic Audio": "msa-0294-6.mp3"
 		},
@@ -63,7 +63,7 @@
 			"English": "She put in what was really important first.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وضعت في ما هو مهم حقا أولا.",
 			"Egyptian Arabic Audio": "eca-0294-7.mp3",
 			"Standard Arabic Audio": "msa-0294-7.mp3"
 		},
@@ -72,7 +72,7 @@
 			"English": "She put in her toothpaste, toothbrush, and wallet inside.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وضعت في معجون الأسنان لها، فرشاة الأسنان، ومحفظة في الداخل.",
 			"Egyptian Arabic Audio": "eca-0294-8.mp3",
 			"Standard Arabic Audio": "msa-0294-8.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "She put in thin shirts and shorts.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وضعت في قمصان رقيقة والسراويل.",
 			"Egyptian Arabic Audio": "eca-0294-9.mp3",
 			"Standard Arabic Audio": "msa-0294-9.mp3"
 		},
@@ -90,7 +90,7 @@
 			"English": "It was going to be hot in Las Vegas.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كان على وشك أن تكون ساخنة في لاس فيغاس.",
 			"Egyptian Arabic Audio": "eca-0294-10.mp3",
 			"Standard Arabic Audio": "msa-0294-10.mp3"
 		},
@@ -99,7 +99,7 @@
 			"English": "Since it was hot, she brought sunscreen.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "منذ أنها كانت ساخنة، وقالت انها جلبت واقية من الشمس.",
 			"Egyptian Arabic Audio": "eca-0294-11.mp3",
 			"Standard Arabic Audio": "msa-0294-11.mp3"
 		},
@@ -108,7 +108,7 @@
 			"English": "Abby's skin gets red easily.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "الجلد أبي يحصل الأحمر بسهولة.",
 			"Egyptian Arabic Audio": "eca-0294-12.mp3",
 			"Standard Arabic Audio": "msa-0294-12.mp3"
 		},
@@ -117,7 +117,7 @@
 			"English": "Her skin also dries up fast.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "جلدها يجف أيضا بسرعة.",
 			"Egyptian Arabic Audio": "eca-0294-13.mp3",
 			"Standard Arabic Audio": "msa-0294-13.mp3"
 		},
@@ -126,7 +126,7 @@
 			"English": "She put lotion in her luggage.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وضعت محلول في حقائبها.",
 			"Egyptian Arabic Audio": "eca-0294-14.mp3",
 			"Standard Arabic Audio": "msa-0294-14.mp3"
 		},
@@ -135,7 +135,7 @@
 			"English": "She only got through one-fourth of her packing list.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وقالت انها حصلت فقط من خلال ربع قائمة التعبئة لها.",
 			"Egyptian Arabic Audio": "eca-0294-15.mp3",
 			"Standard Arabic Audio": "msa-0294-15.mp3"
 		},
@@ -144,7 +144,7 @@
 			"English": "This was going to take a while.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كان هذا سيستغرق بعض الوقت.",
 			"Egyptian Arabic Audio": "eca-0294-16.mp3",
 			"Standard Arabic Audio": "msa-0294-16.mp3"
 		}

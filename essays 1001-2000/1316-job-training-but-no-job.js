@@ -9,7 +9,7 @@
 			"English": "Many homeless people were sitting on the sidewalk.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وكان العديد من المشردين يجلسون على الرصيف.",
 			"Egyptian Arabic Audio": "eca-1316-1.mp3",
 			"Standard Arabic Audio": "msa-1316-1.mp3"
 		},
@@ -18,7 +18,7 @@
 			"English": "A young man walked up to each homeless person.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "سافر شاب إلى كل شخص بلا مأوى.",
 			"Egyptian Arabic Audio": "eca-1316-2.mp3",
 			"Standard Arabic Audio": "msa-1316-2.mp3"
 		},
@@ -27,7 +27,7 @@
 			"English": "He gave each person a flier.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أعطى كل شخص طيار.",
 			"Egyptian Arabic Audio": "eca-1316-3.mp3",
 			"Standard Arabic Audio": "msa-1316-3.mp3"
 		},
@@ -36,7 +36,7 @@
 			"English": "The flier was from a trade school.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وكان الطيار من مدرسة التجارة.",
 			"Egyptian Arabic Audio": "eca-1316-4.mp3",
 			"Standard Arabic Audio": "msa-1316-4.mp3"
 		},
@@ -45,7 +45,7 @@
 			"English": "The flier described a class.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وصف الطيار فئة.",
 			"Egyptian Arabic Audio": "eca-1316-5.mp3",
 			"Standard Arabic Audio": "msa-1316-5.mp3"
 		},
@@ -54,7 +54,7 @@
 			"English": "The trade school was offering a barber class.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وكانت المدرسة التجارية تقدم فئة الحلاق.",
 			"Egyptian Arabic Audio": "eca-1316-6.mp3",
 			"Standard Arabic Audio": "msa-1316-6.mp3"
 		},
@@ -63,7 +63,7 @@
 			"English": "The class was free for homeless people.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وكانت الطبقة مجانية للأشخاص المشردين.",
 			"Egyptian Arabic Audio": "eca-1316-7.mp3",
 			"Standard Arabic Audio": "msa-1316-7.mp3"
 		},
@@ -72,7 +72,7 @@
 			"English": "Matt read the flier.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "مات قراءة الطيار.",
 			"Egyptian Arabic Audio": "eca-1316-8.mp3",
 			"Standard Arabic Audio": "msa-1316-8.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "He talked to the man.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "تحدث إلى الرجل.",
 			"Egyptian Arabic Audio": "eca-1316-9.mp3",
 			"Standard Arabic Audio": "msa-1316-9.mp3"
 		},
@@ -90,7 +90,7 @@
 			"English": "Matt said he wanted to take the class.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وقال مات إنه يريد أن يأخذ الصف.",
 			"Egyptian Arabic Audio": "eca-1316-10.mp3",
 			"Standard Arabic Audio": "msa-1316-10.mp3"
 		},
@@ -99,7 +99,7 @@
 			"English": "The man wrote down Matt's name.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كتب الرجل اسم مات.",
 			"Egyptian Arabic Audio": "eca-1316-11.mp3",
 			"Standard Arabic Audio": "msa-1316-11.mp3"
 		},
@@ -108,7 +108,7 @@
 			"English": "He told Matt to go to the school on Monday.",
 			"Word Count": 10,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وقال مات ان يذهب الى المدرسة يوم الاثنين.",
 			"Egyptian Arabic Audio": "eca-1316-12.mp3",
 			"Standard Arabic Audio": "msa-1316-12.mp3"
 		},
@@ -117,7 +117,7 @@
 			"English": "\"How long does the class last?\" Matt asked.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "&quot;كم من الوقت يستمر الفصل؟&quot; طلب مات.",
 			"Egyptian Arabic Audio": "eca-1316-13.mp3",
 			"Standard Arabic Audio": "msa-1316-13.mp3"
 		},
@@ -126,7 +126,7 @@
 			"English": "\"The class lasts eight weeks,\" the man said.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وقال &quot;ان الصف يستمر ثمانية اسابيع&quot;.",
 			"Egyptian Arabic Audio": "eca-1316-14.mp3",
 			"Standard Arabic Audio": "msa-1316-14.mp3"
 		},
@@ -135,7 +135,7 @@
 			"English": "\"Will the school find me a job?\" Matt asked.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "&quot;هل ستعثرني المدرسة على وظيفة؟&quot; طلب مات.",
 			"Egyptian Arabic Audio": "eca-1316-15.mp3",
 			"Standard Arabic Audio": "msa-1316-15.mp3"
 		},
@@ -144,7 +144,7 @@
 			"English": "\"No, you have to find your own job,\" the man said.",
 			"Word Count": 11,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "&quot;لا، يجب أن تجد عملك الخاص&quot;، قال الرجل.",
 			"Egyptian Arabic Audio": "eca-1316-16.mp3",
 			"Standard Arabic Audio": "msa-1316-16.mp3"
 		},
@@ -153,7 +153,7 @@
 			"English": "\"We can only do so much.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "واضاف &quot;لا يمكننا ان نفعل الكثير.",
 			"Egyptian Arabic Audio": "eca-1316-17.mp3",
 			"Standard Arabic Audio": "msa-1316-17.mp3"
 		},
@@ -162,7 +162,7 @@
 			"English": "\".",
 			"Word Count": 1,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "&quot;.",
 			"Egyptian Arabic Audio": "eca-1316-18.mp3",
 			"Standard Arabic Audio": "msa-1316-18.mp3"
 		}

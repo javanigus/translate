@@ -11,7 +11,7 @@
 			"English": "Are you new in town?",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هل أنت جديد في المدينة؟",
 			"Egyptian Arabic Audio": "eca-1439-1.mp3",
 			"Standard Arabic Audio": "msa-1439-1.mp3"
 		},
@@ -21,7 +21,7 @@
 			"English": "Yes, I am new in town.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "نعم، أنا جديد في المدينة.",
 			"Egyptian Arabic Audio": "eca-1439-2.mp3",
 			"Standard Arabic Audio": "msa-1439-2.mp3"
 		},
@@ -31,7 +31,7 @@
 			"English": "It's very nice to meet you.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "سعدت بلقاءك.",
 			"Egyptian Arabic Audio": "eca-1439-3.mp3",
 			"Standard Arabic Audio": "msa-1439-3.mp3"
 		},
@@ -41,7 +41,7 @@
 			"English": "It's nice to meet you too.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "سررت بمعرفتك ايضا.",
 			"Egyptian Arabic Audio": "eca-1439-4.mp3",
 			"Standard Arabic Audio": "msa-1439-4.mp3"
 		},
@@ -51,7 +51,7 @@
 			"English": "How long has it been since you moved here?",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كم من الوقت منذ أن انتقلت هنا؟",
 			"Egyptian Arabic Audio": "eca-1439-5.mp3",
 			"Standard Arabic Audio": "msa-1439-5.mp3"
 		},
@@ -61,7 +61,7 @@
 			"English": "It's been a month.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لقد كان شهر.",
 			"Egyptian Arabic Audio": "eca-1439-6.mp3",
 			"Standard Arabic Audio": "msa-1439-6.mp3"
 		},
@@ -71,7 +71,7 @@
 			"English": "Do you like it here so far?",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هل ترغب في ذلك هنا حتى الآن؟",
 			"Egyptian Arabic Audio": "eca-1439-7.mp3",
 			"Standard Arabic Audio": "msa-1439-7.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "I actually do like it here.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنا فعلا مثل ذلك هنا.",
 			"Egyptian Arabic Audio": "eca-1439-8.mp3",
 			"Standard Arabic Audio": "msa-1439-8.mp3"
 		},
@@ -91,7 +91,7 @@
 			"English": "Isn't it beautiful?",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أليس جميلة؟",
 			"Egyptian Arabic Audio": "eca-1439-9.mp3",
 			"Standard Arabic Audio": "msa-1439-9.mp3"
 		},
@@ -101,7 +101,7 @@
 			"English": "It is absolutely beautiful here.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنها جميلة على الاطلاق هنا.",
 			"Egyptian Arabic Audio": "eca-1439-10.mp3",
 			"Standard Arabic Audio": "msa-1439-10.mp3"
 		},
@@ -111,7 +111,7 @@
 			"English": "Let me welcome you to the neighborhood.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "اسمحوا لي أن أرحب بكم في الحي.",
 			"Egyptian Arabic Audio": "eca-1439-11.mp3",
 			"Standard Arabic Audio": "msa-1439-11.mp3"
 		},
@@ -121,7 +121,7 @@
 			"English": "Thank you. I'm glad to be here.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "شكرا. أنا سعيد أن أكون هنا.",
 			"Egyptian Arabic Audio": "eca-1439-12.mp3",
 			"Standard Arabic Audio": "msa-1439-12.mp3"
 		},
@@ -131,7 +131,7 @@
 			"English": "Are you new around here?",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هل أنت جديد هنا؟",
 			"Egyptian Arabic Audio": "eca-1439-13.mp3",
 			"Standard Arabic Audio": "msa-1439-13.mp3"
 		},
@@ -141,7 +141,7 @@
 			"English": "I just moved here.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنا فقط انتقلت هنا.",
 			"Egyptian Arabic Audio": "eca-1439-14.mp3",
 			"Standard Arabic Audio": "msa-1439-14.mp3"
 		},
@@ -151,7 +151,7 @@
 			"English": "Nice to meet you.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "تشرفت بمقابلتك.",
 			"Egyptian Arabic Audio": "eca-1439-15.mp3",
 			"Standard Arabic Audio": "msa-1439-15.mp3"
 		},
@@ -161,7 +161,7 @@
 			"English": "I'm happy to meet you too.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنا سعيد لمقابلتك أيضا.",
 			"Egyptian Arabic Audio": "eca-1439-16.mp3",
 			"Standard Arabic Audio": "msa-1439-16.mp3"
 		},
@@ -171,7 +171,7 @@
 			"English": "When did you move here?",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "متى انتقلت الى هنا؟",
 			"Egyptian Arabic Audio": "eca-1439-17.mp3",
 			"Standard Arabic Audio": "msa-1439-17.mp3"
 		},
@@ -181,7 +181,7 @@
 			"English": "I've been here a month now.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لقد كنت هنا في الشهر الآن.",
 			"Egyptian Arabic Audio": "eca-1439-18.mp3",
 			"Standard Arabic Audio": "msa-1439-18.mp3"
 		},
@@ -191,7 +191,7 @@
 			"English": "How do you like it?",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كيف تريده ؟",
 			"Egyptian Arabic Audio": "eca-1439-19.mp3",
 			"Standard Arabic Audio": "msa-1439-19.mp3"
 		},
@@ -201,7 +201,7 @@
 			"English": "I love it here.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أحبه هنا.",
 			"Egyptian Arabic Audio": "eca-1439-20.mp3",
 			"Standard Arabic Audio": "msa-1439-20.mp3"
 		},
@@ -211,7 +211,7 @@
 			"English": "It's gorgeous here, don't you think?",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انها رائع هنا، لا تظن؟",
 			"Egyptian Arabic Audio": "eca-1439-21.mp3",
 			"Standard Arabic Audio": "msa-1439-21.mp3"
 		},
@@ -221,7 +221,7 @@
 			"English": "It's wonderful.",
 			"Word Count": 2,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "إنه لأمر رائع.",
 			"Egyptian Arabic Audio": "eca-1439-22.mp3",
 			"Standard Arabic Audio": "msa-1439-22.mp3"
 		},
@@ -231,7 +231,7 @@
 			"English": "I would like to welcome you to the neighborhood.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أود أن أرحب بكم في الحي.",
 			"Egyptian Arabic Audio": "eca-1439-23.mp3",
 			"Standard Arabic Audio": "msa-1439-23.mp3"
 		},
@@ -241,7 +241,7 @@
 			"English": "That's very sweet of you.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هذا حلو جدا لك.",
 			"Egyptian Arabic Audio": "eca-1439-24.mp3",
 			"Standard Arabic Audio": "msa-1439-24.mp3"
 		},
@@ -251,7 +251,7 @@
 			"English": "I haven't seen you around, so you must be new here.",
 			"Word Count": 11,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنا لم أر لك حولها، لذلك يجب أن تكون جديدة هنا.",
 			"Egyptian Arabic Audio": "eca-1439-25.mp3",
 			"Standard Arabic Audio": "msa-1439-25.mp3"
 		},
@@ -261,7 +261,7 @@
 			"English": "As a matter of fact, I am.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "في حقيقة الامر، انا.",
 			"Egyptian Arabic Audio": "eca-1439-26.mp3",
 			"Standard Arabic Audio": "msa-1439-26.mp3"
 		},
@@ -271,7 +271,7 @@
 			"English": "It's nice meeting you.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "من الجيد اللقاء بك.",
 			"Egyptian Arabic Audio": "eca-1439-27.mp3",
 			"Standard Arabic Audio": "msa-1439-27.mp3"
 		},
@@ -281,7 +281,7 @@
 			"English": "Nice to meet you too.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "سُعدت برؤيتك.",
 			"Egyptian Arabic Audio": "eca-1439-28.mp3",
 			"Standard Arabic Audio": "msa-1439-28.mp3"
 		},
@@ -291,7 +291,7 @@
 			"English": "When did you move out here?",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "متى انتقلت إلى هنا؟",
 			"Egyptian Arabic Audio": "eca-1439-29.mp3",
 			"Standard Arabic Audio": "msa-1439-29.mp3"
 		},
@@ -301,7 +301,7 @@
 			"English": "I moved here about a month ago.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انتقلت هنا قبل حوالي شهر.",
 			"Egyptian Arabic Audio": "eca-1439-30.mp3",
 			"Standard Arabic Audio": "msa-1439-30.mp3"
 		},
@@ -311,7 +311,7 @@
 			"English": "What do you think of it so far?",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ما رأيك في ذلك حتى الآن؟",
 			"Egyptian Arabic Audio": "eca-1439-31.mp3",
 			"Standard Arabic Audio": "msa-1439-31.mp3"
 		},
@@ -321,7 +321,7 @@
 			"English": "It's great.",
 			"Word Count": 2,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انه رائع.",
 			"Egyptian Arabic Audio": "eca-1439-32.mp3",
 			"Standard Arabic Audio": "msa-1439-32.mp3"
 		},
@@ -331,7 +331,7 @@
 			"English": "Don't you think that it's beautiful here?",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لا تظن أنها جميلة هنا؟",
 			"Egyptian Arabic Audio": "eca-1439-33.mp3",
 			"Standard Arabic Audio": "msa-1439-33.mp3"
 		},
@@ -341,7 +341,7 @@
 			"English": "It really is gorgeous.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انها حقا رائع.",
 			"Egyptian Arabic Audio": "eca-1439-34.mp3",
 			"Standard Arabic Audio": "msa-1439-34.mp3"
 		},
@@ -351,7 +351,7 @@
 			"English": "Welcome to the neighborhood.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "مرحبا بكم في الحي.",
 			"Egyptian Arabic Audio": "eca-1439-35.mp3",
 			"Standard Arabic Audio": "msa-1439-35.mp3"
 		},
@@ -361,7 +361,7 @@
 			"English": "Thank you for making me feel welcome.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "شكرا لك لجعل لي أشعر بالترحيب.",
 			"Egyptian Arabic Audio": "eca-1439-36.mp3",
 			"Standard Arabic Audio": "msa-1439-36.mp3"
 		}

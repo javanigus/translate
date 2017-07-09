@@ -9,7 +9,7 @@
 			"English": "She walked into a restaurant.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "سافرت إلى مطعم.",
 			"Egyptian Arabic Audio": "eca-0670-1.mp3",
 			"Standard Arabic Audio": "msa-0670-1.mp3"
 		},
@@ -18,7 +18,7 @@
 			"English": "It was lunch time.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كان وقت الغداء.",
 			"Egyptian Arabic Audio": "eca-0670-2.mp3",
 			"Standard Arabic Audio": "msa-0670-2.mp3"
 		},
@@ -27,7 +27,7 @@
 			"English": "She was hungry.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لقد كانت جائعه.",
 			"Egyptian Arabic Audio": "eca-0670-3.mp3",
 			"Standard Arabic Audio": "msa-0670-3.mp3"
 		},
@@ -36,7 +36,7 @@
 			"English": "She sat down at a table.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "جلست على طاولة.",
 			"Egyptian Arabic Audio": "eca-0670-4.mp3",
 			"Standard Arabic Audio": "msa-0670-4.mp3"
 		},
@@ -45,7 +45,7 @@
 			"English": "The waiter handed her a menu.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "سلمت النادل لها القائمة.",
 			"Egyptian Arabic Audio": "eca-0670-5.mp3",
 			"Standard Arabic Audio": "msa-0670-5.mp3"
 		},
@@ -54,7 +54,7 @@
 			"English": "\"What would you like to drink?\" the waiter asked.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "&quot;ماذا تحب أن تشرب؟&quot; سأل النادل.",
 			"Egyptian Arabic Audio": "eca-0670-6.mp3",
 			"Standard Arabic Audio": "msa-0670-6.mp3"
 		},
@@ -63,7 +63,7 @@
 			"English": "She asked for water.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "طلبت المياه.",
 			"Egyptian Arabic Audio": "eca-0670-7.mp3",
 			"Standard Arabic Audio": "msa-0670-7.mp3"
 		},
@@ -72,7 +72,7 @@
 			"English": "She was on a budget.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كانت على ميزانية.",
 			"Egyptian Arabic Audio": "eca-0670-8.mp3",
 			"Standard Arabic Audio": "msa-0670-8.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "She stopped buying drinks.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "توقفت عن شراء المشروبات.",
 			"Egyptian Arabic Audio": "eca-0670-9.mp3",
 			"Standard Arabic Audio": "msa-0670-9.mp3"
 		},
@@ -90,7 +90,7 @@
 			"English": "Water was always free.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كانت المياه دائما حرة.",
 			"Egyptian Arabic Audio": "eca-0670-10.mp3",
 			"Standard Arabic Audio": "msa-0670-10.mp3"
 		},
@@ -99,7 +99,7 @@
 			"English": "She liked eating fish.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أحببت تناول السمك.",
 			"Egyptian Arabic Audio": "eca-0670-11.mp3",
 			"Standard Arabic Audio": "msa-0670-11.mp3"
 		},
@@ -108,7 +108,7 @@
 			"English": "She looked at the menu.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "نظرت إلى القائمة.",
 			"Egyptian Arabic Audio": "eca-0670-12.mp3",
 			"Standard Arabic Audio": "msa-0670-12.mp3"
 		},
@@ -117,7 +117,7 @@
 			"English": "There was no fish.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لم يكن هناك سمكة.",
 			"Egyptian Arabic Audio": "eca-0670-13.mp3",
 			"Standard Arabic Audio": "msa-0670-13.mp3"
 		},
@@ -126,7 +126,7 @@
 			"English": "She called the waiter.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "دعت النادل.",
 			"Egyptian Arabic Audio": "eca-0670-14.mp3",
 			"Standard Arabic Audio": "msa-0670-14.mp3"
 		},
@@ -135,7 +135,7 @@
 			"English": "\"Do you serve fish?\" she asked.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "&quot;هل تخدم الأسماك؟&quot; هي سألت.",
 			"Egyptian Arabic Audio": "eca-0670-15.mp3",
 			"Standard Arabic Audio": "msa-0670-15.mp3"
 		},
@@ -144,7 +144,7 @@
 			"English": "\"No, I am sorry,\" the waiter said.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وقال النادل &quot;لا، أنا آسف&quot;.",
 			"Egyptian Arabic Audio": "eca-0670-16.mp3",
 			"Standard Arabic Audio": "msa-0670-16.mp3"
 		},
@@ -153,7 +153,7 @@
 			"English": "She was disappointed.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لقد شعرت بخيبة أمل.",
 			"Egyptian Arabic Audio": "eca-0670-17.mp3",
 			"Standard Arabic Audio": "msa-0670-17.mp3"
 		},
@@ -162,7 +162,7 @@
 			"English": "She looked at the menu again.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "نظرت إلى القائمة مرة أخرى.",
 			"Egyptian Arabic Audio": "eca-0670-18.mp3",
 			"Standard Arabic Audio": "msa-0670-18.mp3"
 		},
@@ -171,7 +171,7 @@
 			"English": "She needed time to think.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كانت تحتاج إلى وقت للتفكير.",
 			"Egyptian Arabic Audio": "eca-0670-19.mp3",
 			"Standard Arabic Audio": "msa-0670-19.mp3"
 		},
@@ -180,7 +180,7 @@
 			"English": "The waiter left.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "النادل اليسار.",
 			"Egyptian Arabic Audio": "eca-0670-20.mp3",
 			"Standard Arabic Audio": "msa-0670-20.mp3"
 		},
@@ -189,7 +189,7 @@
 			"English": "She did like chicken.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انها مثل الدجاج.",
 			"Egyptian Arabic Audio": "eca-0670-21.mp3",
 			"Standard Arabic Audio": "msa-0670-21.mp3"
 		},
@@ -198,7 +198,7 @@
 			"English": "She did not like beef.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لم تكن تحب لحم البقر.",
 			"Egyptian Arabic Audio": "eca-0670-22.mp3",
 			"Standard Arabic Audio": "msa-0670-22.mp3"
 		},
@@ -207,7 +207,7 @@
 			"English": "She did not even like pork.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لم تكن حتى مثل لحم الخنزير.",
 			"Egyptian Arabic Audio": "eca-0670-23.mp3",
 			"Standard Arabic Audio": "msa-0670-23.mp3"
 		},
@@ -216,7 +216,7 @@
 			"English": "She was a picky eater.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كانت الآكل من الصعب إرضاءه.",
 			"Egyptian Arabic Audio": "eca-0670-24.mp3",
 			"Standard Arabic Audio": "msa-0670-24.mp3"
 		},
@@ -225,7 +225,7 @@
 			"English": "She made up her mind.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وقالت انها تشكل عقلها.",
 			"Egyptian Arabic Audio": "eca-0670-25.mp3",
 			"Standard Arabic Audio": "msa-0670-25.mp3"
 		},
@@ -234,7 +234,7 @@
 			"English": "The waiter came back.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "جاء النادل مرة أخرى.",
 			"Egyptian Arabic Audio": "eca-0670-26.mp3",
 			"Standard Arabic Audio": "msa-0670-26.mp3"
 		},
@@ -243,7 +243,7 @@
 			"English": "She ordered lamb.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أمرت لحم الضأن.",
 			"Egyptian Arabic Audio": "eca-0670-27.mp3",
 			"Standard Arabic Audio": "msa-0670-27.mp3"
 		},
@@ -252,7 +252,7 @@
 			"English": "The waiter wrote it down.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كتب النادل عليه.",
 			"Egyptian Arabic Audio": "eca-0670-28.mp3",
 			"Standard Arabic Audio": "msa-0670-28.mp3"
 		},
@@ -261,7 +261,7 @@
 			"English": "He smiled and left.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ابتسم وغادر.",
 			"Egyptian Arabic Audio": "eca-0670-29.mp3",
 			"Standard Arabic Audio": "msa-0670-29.mp3"
 		},
@@ -270,7 +270,7 @@
 			"English": "She ate lamb for lunch.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أكلت لحم الضأن لتناول طعام الغداء.",
 			"Egyptian Arabic Audio": "eca-0670-30.mp3",
 			"Standard Arabic Audio": "msa-0670-30.mp3"
 		}

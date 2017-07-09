@@ -11,7 +11,7 @@
 			"English": "I want to file a wrongful arrest lawsuit.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أريد أن أقدم دعوى اعتقال غير مشروعة.",
 			"Egyptian Arabic Audio": "eca-0790-1.mp3",
 			"Standard Arabic Audio": "msa-0790-1.mp3"
 		},
@@ -21,7 +21,7 @@
 			"English": "What proof do you have that you were wrongfully arrested?",
 			"Word Count": 10,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ما هي الأدلة التي تثبت أنك تعرضت للاعتقال بشكل خاطئ؟",
 			"Egyptian Arabic Audio": "eca-0790-2.mp3",
 			"Standard Arabic Audio": "msa-0790-2.mp3"
 		},
@@ -31,7 +31,7 @@
 			"English": "Well, I didn't rob anybody.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "حسنا، لم أكن سرقة أي شخص.",
 			"Egyptian Arabic Audio": "eca-0790-3.mp3",
 			"Standard Arabic Audio": "msa-0790-3.mp3"
 		},
@@ -41,7 +41,7 @@
 			"English": "Why were you arrested then?",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لماذا تم القبض عليك بعد ذلك؟",
 			"Egyptian Arabic Audio": "eca-0790-4.mp3",
 			"Standard Arabic Audio": "msa-0790-4.mp3"
 		},
@@ -51,7 +51,7 @@
 			"English": "I fit the description of the suspect.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنا تناسب وصف المشتبه به.",
 			"Egyptian Arabic Audio": "eca-0790-5.mp3",
 			"Standard Arabic Audio": "msa-0790-5.mp3"
 		},
@@ -61,7 +61,7 @@
 			"English": "Well, how was that a wrongful arrest?",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "حسنا، كيف كان ذلك الاعتقال غير المشروع؟",
 			"Egyptian Arabic Audio": "eca-0790-6.mp3",
 			"Standard Arabic Audio": "msa-0790-6.mp3"
 		},
@@ -71,7 +71,7 @@
 			"English": "They didn't investigate if I had a twin brother or not.",
 			"Word Count": 11,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لم يحققوا إذا كان لدي شقيق توأم أم لا.",
 			"Egyptian Arabic Audio": "eca-0790-7.mp3",
 			"Standard Arabic Audio": "msa-0790-7.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "Do you have a twin brother?",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هل لديك شقيق توأم؟",
 			"Egyptian Arabic Audio": "eca-0790-8.mp3",
 			"Standard Arabic Audio": "msa-0790-8.mp3"
 		},
@@ -91,7 +91,7 @@
 			"English": "I have an identical twin brother.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لدي شقيق توأم متطابق.",
 			"Egyptian Arabic Audio": "eca-0790-9.mp3",
 			"Standard Arabic Audio": "msa-0790-9.mp3"
 		},
@@ -101,7 +101,7 @@
 			"English": "Did the police find out?",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هل اكتشفت الشرطة؟",
 			"Egyptian Arabic Audio": "eca-0790-10.mp3",
 			"Standard Arabic Audio": "msa-0790-10.mp3"
 		},
@@ -111,7 +111,7 @@
 			"English": "The police found out when I told them.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "اكتشفت الشرطة عندما قلت لهم.",
 			"Egyptian Arabic Audio": "eca-0790-11.mp3",
 			"Standard Arabic Audio": "msa-0790-11.mp3"
 		},
@@ -121,7 +121,7 @@
 			"English": "We may have a case then.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "قد يكون لدينا قضية بعد ذلك.",
 			"Egyptian Arabic Audio": "eca-0790-12.mp3",
 			"Standard Arabic Audio": "msa-0790-12.mp3"
 		}

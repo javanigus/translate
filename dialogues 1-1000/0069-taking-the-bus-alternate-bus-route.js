@@ -11,7 +11,7 @@
 			"English": "I just missed my bus!",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنا فقط غاب الحافلة بلدي!",
 			"Egyptian Arabic Audio": "eca-0069-1.mp3",
 			"Standard Arabic Audio": "msa-0069-1.mp3"
 		},
@@ -21,7 +21,7 @@
 			"English": "Oh no! What are you going to do?",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أوه لا! ماالذي ستفعله؟",
 			"Egyptian Arabic Audio": "eca-0069-2.mp3",
 			"Standard Arabic Audio": "msa-0069-2.mp3"
 		},
@@ -31,7 +31,7 @@
 			"English": "I don't know! The next one comes in ten minutes!",
 			"Word Count": 10,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انا لا اعرف! المقبل يأتي في عشر دقائق!",
 			"Egyptian Arabic Audio": "eca-0069-3.mp3",
 			"Standard Arabic Audio": "msa-0069-3.mp3"
 		},
@@ -41,7 +41,7 @@
 			"English": "You won't make it to work on time.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنت لن تجعل من العمل في الوقت المحدد.",
 			"Egyptian Arabic Audio": "eca-0069-4.mp3",
 			"Standard Arabic Audio": "msa-0069-4.mp3"
 		},
@@ -51,7 +51,7 @@
 			"English": "What should I do?",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ماذا علي أن أفعل؟",
 			"Egyptian Arabic Audio": "eca-0069-5.mp3",
 			"Standard Arabic Audio": "msa-0069-5.mp3"
 		},
@@ -61,7 +61,7 @@
 			"English": "Ask the next bus driver for help.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "اسأل سائق الحافلة التالي للحصول على المساعدة.",
 			"Egyptian Arabic Audio": "eca-0069-6.mp3",
 			"Standard Arabic Audio": "msa-0069-6.mp3"
 		},
@@ -71,7 +71,7 @@
 			"English": "How can he possibly help me?",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كيف يمكن أن يساعدني؟",
 			"Egyptian Arabic Audio": "eca-0069-7.mp3",
 			"Standard Arabic Audio": "msa-0069-7.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "He could tell you which bus to ride.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وقال انه يمكن ان اقول لكم أي حافلة لركوب.",
 			"Egyptian Arabic Audio": "eca-0069-8.mp3",
 			"Standard Arabic Audio": "msa-0069-8.mp3"
 		},
@@ -91,7 +91,7 @@
 			"English": "Do you think it's alright to ride a different bus?",
 			"Word Count": 10,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هل تعتقد أنه على ما يرام لركوب حافلة مختلفة؟",
 			"Egyptian Arabic Audio": "eca-0069-9.mp3",
 			"Standard Arabic Audio": "msa-0069-9.mp3"
 		},
@@ -101,7 +101,7 @@
 			"English": "Sure, as long as you get to work on time.",
 			"Word Count": 10,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "بالتأكيد، طالما تحصل على العمل في الوقت المحدد.",
 			"Egyptian Arabic Audio": "eca-0069-10.mp3",
 			"Standard Arabic Audio": "msa-0069-10.mp3"
 		},
@@ -111,7 +111,7 @@
 			"English": "I just hope I don't get lost.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "آمل فقط أن لا تضيع.",
 			"Egyptian Arabic Audio": "eca-0069-11.mp3",
 			"Standard Arabic Audio": "msa-0069-11.mp3"
 		},
@@ -121,7 +121,7 @@
 			"English": "You won't. Besides, it's good not to sit idly by.",
 			"Word Count": 10,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنت لن. الى جانب ذلك، فإنه من الجيد عدم الجلوس مكتوفي الأيدي.",
 			"Egyptian Arabic Audio": "eca-0069-12.mp3",
 			"Standard Arabic Audio": "msa-0069-12.mp3"
 		}

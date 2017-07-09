@@ -11,7 +11,7 @@
 			"English": "I have never seen you before.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنا لم أر لك من قبل.",
 			"Egyptian Arabic Audio": "eca-0005-1.mp3",
 			"Standard Arabic Audio": "msa-0005-1.mp3"
 		},
@@ -21,7 +21,7 @@
 			"English": "I am a new student.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنا طالب جديد.",
 			"Egyptian Arabic Audio": "eca-0005-2.mp3",
 			"Standard Arabic Audio": "msa-0005-2.mp3"
 		},
@@ -31,7 +31,7 @@
 			"English": "Where are you from?",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "من أي بلد أنت؟",
 			"Egyptian Arabic Audio": "eca-0005-3.mp3",
 			"Standard Arabic Audio": "msa-0005-3.mp3"
 		},
@@ -41,7 +41,7 @@
 			"English": "I am from Japan.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انا من اليابان.",
 			"Egyptian Arabic Audio": "eca-0005-4.mp3",
 			"Standard Arabic Audio": "msa-0005-4.mp3"
 		},
@@ -51,7 +51,7 @@
 			"English": "I love Japan!",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انا احب اليابان!",
 			"Egyptian Arabic Audio": "eca-0005-5.mp3",
 			"Standard Arabic Audio": "msa-0005-5.mp3"
 		},
@@ -61,7 +61,7 @@
 			"English": "What do you love about it?",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ماذا تحب عن ذلك؟",
 			"Egyptian Arabic Audio": "eca-0005-6.mp3",
 			"Standard Arabic Audio": "msa-0005-6.mp3"
 		},
@@ -71,7 +71,7 @@
 			"English": "I love the food, the culture, and the location.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنا أحب الطعام، والثقافة، والموقع.",
 			"Egyptian Arabic Audio": "eca-0005-7.mp3",
 			"Standard Arabic Audio": "msa-0005-7.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "I could show you around some day.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنا يمكن أن تظهر لك حوالي يوم.",
 			"Egyptian Arabic Audio": "eca-0005-8.mp3",
 			"Standard Arabic Audio": "msa-0005-8.mp3"
 		},
@@ -91,7 +91,7 @@
 			"English": "That would be so fun!",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وهذا سيكون متعة جدا!",
 			"Egyptian Arabic Audio": "eca-0005-9.mp3",
 			"Standard Arabic Audio": "msa-0005-9.mp3"
 		},
@@ -101,7 +101,7 @@
 			"English": "But first, can you show me around here?",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ولكن أولا، هل يمكن أن تظهر لي هنا؟",
 			"Egyptian Arabic Audio": "eca-0005-10.mp3",
 			"Standard Arabic Audio": "msa-0005-10.mp3"
 		},
@@ -111,7 +111,7 @@
 			"English": "It would be my pleasure.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "سيكون من دواعي سروري.",
 			"Egyptian Arabic Audio": "eca-0005-11.mp3",
 			"Standard Arabic Audio": "msa-0005-11.mp3"
 		},
@@ -121,7 +121,7 @@
 			"English": "Let's start after school.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "دعونا نبدأ بعد المدرسة.",
 			"Egyptian Arabic Audio": "eca-0005-12.mp3",
 			"Standard Arabic Audio": "msa-0005-12.mp3"
 		}

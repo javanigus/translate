@@ -9,7 +9,7 @@
 			"English": "\"Don't worry,\" said her mom.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "&quot;لا تقلق&quot;، قالت أمها.",
 			"Egyptian Arabic Audio": "eca-0788-1.mp3",
 			"Standard Arabic Audio": "msa-0788-1.mp3"
 		},
@@ -18,7 +18,7 @@
 			"English": "Soon you're going to graduate.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "قريبا كنت في طريقها للتخرج.",
 			"Egyptian Arabic Audio": "eca-0788-2.mp3",
 			"Standard Arabic Audio": "msa-0788-2.mp3"
 		},
@@ -27,7 +27,7 @@
 			"English": "You will get a great job with your degree.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "سوف تحصل على وظيفة كبيرة مع شهادتك.",
 			"Egyptian Arabic Audio": "eca-0788-3.mp3",
 			"Standard Arabic Audio": "msa-0788-3.mp3"
 		},
@@ -36,7 +36,7 @@
 			"English": "One day, you will be as rich as them.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يوم واحد، سوف تكون غنية كما لهم.",
 			"Egyptian Arabic Audio": "eca-0788-4.mp3",
 			"Standard Arabic Audio": "msa-0788-4.mp3"
 		},
@@ -45,7 +45,7 @@
 			"English": "Maybe you will be even richer.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ربما سوف تكون أكثر ثراء.",
 			"Egyptian Arabic Audio": "eca-0788-5.mp3",
 			"Standard Arabic Audio": "msa-0788-5.mp3"
 		}

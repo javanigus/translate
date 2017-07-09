@@ -9,7 +9,7 @@
 			"English": "Sam was known as the school bully.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كان سام يعرف باسم الفتوة المدرسة.",
 			"Egyptian Arabic Audio": "eca-0221-1.mp3",
 			"Standard Arabic Audio": "msa-0221-1.mp3"
 		},
@@ -18,7 +18,7 @@
 			"English": "He was tough.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كان صعبا.",
 			"Egyptian Arabic Audio": "eca-0221-2.mp3",
 			"Standard Arabic Audio": "msa-0221-2.mp3"
 		},
@@ -27,7 +27,7 @@
 			"English": "He had a lot of muscles.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كان لديه الكثير من العضلات.",
 			"Egyptian Arabic Audio": "eca-0221-3.mp3",
 			"Standard Arabic Audio": "msa-0221-3.mp3"
 		},
@@ -36,7 +36,7 @@
 			"English": "He was very tall, too.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كان طويل القامة جدا أيضا.",
 			"Egyptian Arabic Audio": "eca-0221-4.mp3",
 			"Standard Arabic Audio": "msa-0221-4.mp3"
 		},
@@ -45,7 +45,7 @@
 			"English": "He looked really scary.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وقال انه يتطلع حقا مخيف.",
 			"Egyptian Arabic Audio": "eca-0221-5.mp3",
 			"Standard Arabic Audio": "msa-0221-5.mp3"
 		},
@@ -54,7 +54,7 @@
 			"English": "He was mean.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كان يعني.",
 			"Egyptian Arabic Audio": "eca-0221-6.mp3",
 			"Standard Arabic Audio": "msa-0221-6.mp3"
 		},
@@ -63,7 +63,7 @@
 			"English": "He teased people.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انه ناضج الناس.",
 			"Egyptian Arabic Audio": "eca-0221-7.mp3",
 			"Standard Arabic Audio": "msa-0221-7.mp3"
 		},
@@ -72,7 +72,7 @@
 			"English": "He made fun of people's appearances.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انه متعة من ظهور الناس.",
 			"Egyptian Arabic Audio": "eca-0221-8.mp3",
 			"Standard Arabic Audio": "msa-0221-8.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "He spent 10 minutes teasing one of his classmates.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أمضى 10 دقائق إغاظة أحد زملائه.",
 			"Egyptian Arabic Audio": "eca-0221-9.mp3",
 			"Standard Arabic Audio": "msa-0221-9.mp3"
 		},
@@ -90,7 +90,7 @@
 			"English": "The classmate cried.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "صرخ زميل.",
 			"Egyptian Arabic Audio": "eca-0221-10.mp3",
 			"Standard Arabic Audio": "msa-0221-10.mp3"
 		},
@@ -99,7 +99,7 @@
 			"English": "The classmate told the teacher.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وقال زميل المعلم.",
 			"Egyptian Arabic Audio": "eca-0221-11.mp3",
 			"Standard Arabic Audio": "msa-0221-11.mp3"
 		},
@@ -108,7 +108,7 @@
 			"English": "The teacher talked to the bully.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "تحدث المعلم إلى الفتوة.",
 			"Egyptian Arabic Audio": "eca-0221-12.mp3",
 			"Standard Arabic Audio": "msa-0221-12.mp3"
 		},
@@ -117,7 +117,7 @@
 			"English": "The teacher called the bully's parents.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ودعا المعلم والدي الفتوة.",
 			"Egyptian Arabic Audio": "eca-0221-13.mp3",
 			"Standard Arabic Audio": "msa-0221-13.mp3"
 		},
@@ -126,7 +126,7 @@
 			"English": "The bully's parents arrived at the school.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وصل والدا الفتوة إلى المدرسة.",
 			"Egyptian Arabic Audio": "eca-0221-14.mp3",
 			"Standard Arabic Audio": "msa-0221-14.mp3"
 		},
@@ -135,7 +135,7 @@
 			"English": "The bully, his parents, and the teachers all talked.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "تحدث كل من الفتوة، والديه، والمعلمين.",
 			"Egyptian Arabic Audio": "eca-0221-15.mp3",
 			"Standard Arabic Audio": "msa-0221-15.mp3"
 		},
@@ -144,7 +144,7 @@
 			"English": "The parents and the bully left the school.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ترك الوالدان والفتوة المدرسة.",
 			"Egyptian Arabic Audio": "eca-0221-16.mp3",
 			"Standard Arabic Audio": "msa-0221-16.mp3"
 		},
@@ -153,7 +153,7 @@
 			"English": "The teacher gave an announcement.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وقدم المعلم إعلانا.",
 			"Egyptian Arabic Audio": "eca-0221-17.mp3",
 			"Standard Arabic Audio": "msa-0221-17.mp3"
 		},
@@ -162,7 +162,7 @@
 			"English": "The bully was kicked out of school.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "تم طرد الفتوة من المدرسة.",
 			"Egyptian Arabic Audio": "eca-0221-18.mp3",
 			"Standard Arabic Audio": "msa-0221-18.mp3"
 		},
@@ -171,7 +171,7 @@
 			"English": "He will never return.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لن يعود أبدا.",
 			"Egyptian Arabic Audio": "eca-0221-19.mp3",
 			"Standard Arabic Audio": "msa-0221-19.mp3"
 		}

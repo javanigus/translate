@@ -11,7 +11,7 @@
 			"English": "Great shirt! Go Dodgers!",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "قميص كبير! الذهاب المراوغات!",
 			"Egyptian Arabic Audio": "eca-0199-1.mp3",
 			"Standard Arabic Audio": "msa-0199-1.mp3"
 		},
@@ -21,7 +21,7 @@
 			"English": "It's great to find a fellow fan!",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انه لشيء رائع أن تجد زميل مروحة!",
 			"Egyptian Arabic Audio": "eca-0199-2.mp3",
 			"Standard Arabic Audio": "msa-0199-2.mp3"
 		},
@@ -31,7 +31,7 @@
 			"English": "Do you think we have a chance at winning this year?",
 			"Word Count": 11,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هل تعتقد أن لدينا فرصة للفوز هذا العام؟",
 			"Egyptian Arabic Audio": "eca-0199-3.mp3",
 			"Standard Arabic Audio": "msa-0199-3.mp3"
 		},
@@ -41,7 +41,7 @@
 			"English": "Of course! The coach will not let us down!",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "بالتاكيد! المدرب لن تدعونا إلى أسفل!",
 			"Egyptian Arabic Audio": "eca-0199-4.mp3",
 			"Standard Arabic Audio": "msa-0199-4.mp3"
 		},
@@ -51,7 +51,7 @@
 			"English": "Have you ever been to an actual game?",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هل سبق لك أن لعبة الفعلية؟",
 			"Egyptian Arabic Audio": "eca-0199-5.mp3",
 			"Standard Arabic Audio": "msa-0199-5.mp3"
 		},
@@ -61,7 +61,7 @@
 			"English": "I try to go at least once every season.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أحاول أن أذهب مرة واحدة على الأقل كل موسم.",
 			"Egyptian Arabic Audio": "eca-0199-6.mp3",
 			"Standard Arabic Audio": "msa-0199-6.mp3"
 		},
@@ -71,7 +71,7 @@
 			"English": "What's it like?",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ماذا تشبه؟",
 			"Egyptian Arabic Audio": "eca-0199-7.mp3",
 			"Standard Arabic Audio": "msa-0199-7.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "It's a great experience! Children love going to the stadium.",
 			"Word Count": 10,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انها تجربة رائعة! الأطفال يحبون الذهاب إلى الملعب.",
 			"Egyptian Arabic Audio": "eca-0199-8.mp3",
 			"Standard Arabic Audio": "msa-0199-8.mp3"
 		},
@@ -91,7 +91,7 @@
 			"English": "Maybe I'll take my son to a game.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ربما سأأخذ ابني إلى لعبة.",
 			"Egyptian Arabic Audio": "eca-0199-9.mp3",
 			"Standard Arabic Audio": "msa-0199-9.mp3"
 		},
@@ -101,7 +101,7 @@
 			"English": "Just keep an eye out for flying balls!",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "فقط إبقاء العين للخروج الكرات!",
 			"Egyptian Arabic Audio": "eca-0199-10.mp3",
 			"Standard Arabic Audio": "msa-0199-10.mp3"
 		},
@@ -111,7 +111,7 @@
 			"English": "I'd be more worried about cavities from sweets.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "سأكون أكثر قلقا بشأن تجاويف من الحلويات.",
 			"Egyptian Arabic Audio": "eca-0199-11.mp3",
 			"Standard Arabic Audio": "msa-0199-11.mp3"
 		},
@@ -121,7 +121,7 @@
 			"English": "It's just a baseball game! You're supposed to pig out.",
 			"Word Count": 10,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انها مجرد لعبة البيسبول! كنت من المفترض أن خنزير بها.",
 			"Egyptian Arabic Audio": "eca-0199-12.mp3",
 			"Standard Arabic Audio": "msa-0199-12.mp3"
 		}

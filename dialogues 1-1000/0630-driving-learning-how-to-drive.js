@@ -11,7 +11,7 @@
 			"English": "Where should my hands be on the steering wheel?",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أين يجب أن تكون يدي على عجلة القيادة؟",
 			"Egyptian Arabic Audio": "eca-0630-1.mp3",
 			"Standard Arabic Audio": "msa-0630-1.mp3"
 		},
@@ -21,7 +21,7 @@
 			"English": "Your hands should be on 10 and 2.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يجب أن تكون يديك على 10 و 2.",
 			"Egyptian Arabic Audio": "eca-0630-2.mp3",
 			"Standard Arabic Audio": "msa-0630-2.mp3"
 		},
@@ -31,7 +31,7 @@
 			"English": "10 and 2? What do you mean?",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "10 و 2؟ ماذا تعني؟",
 			"Egyptian Arabic Audio": "eca-0630-3.mp3",
 			"Standard Arabic Audio": "msa-0630-3.mp3"
 		},
@@ -41,7 +41,7 @@
 			"English": "Think of the steering wheel as a clock, and put your hands on 10 and 2.",
 			"Word Count": 16,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "التفكير في عجلة القيادة على مدار الساعة، ووضع يديك على 10 و 2.",
 			"Egyptian Arabic Audio": "eca-0630-4.mp3",
 			"Standard Arabic Audio": "msa-0630-4.mp3"
 		},
@@ -51,7 +51,7 @@
 			"English": "Oh, okay. What about my eyes? Should I be looking at the signs?",
 			"Word Count": 13,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "حسنا. ماذا عن عيني؟ يجب أن أكون النظر في علامات؟",
 			"Egyptian Arabic Audio": "eca-0630-5.mp3",
 			"Standard Arabic Audio": "msa-0630-5.mp3"
 		},
@@ -61,7 +61,7 @@
 			"English": "Take a quick glance at the signs, but always look in front.",
 			"Word Count": 12,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "نلقي نظرة سريعة على علامات، ولكن ننظر دائما في الجبهة.",
 			"Egyptian Arabic Audio": "eca-0630-6.mp3",
 			"Standard Arabic Audio": "msa-0630-6.mp3"
 		},
@@ -71,7 +71,7 @@
 			"English": "When do I have to use my horn?",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "متى يجب علي استخدام قرن؟",
 			"Egyptian Arabic Audio": "eca-0630-7.mp3",
 			"Standard Arabic Audio": "msa-0630-7.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "You should use your horn for an emergency.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يجب عليك استخدام قرنك لحالة الطوارئ.",
 			"Egyptian Arabic Audio": "eca-0630-8.mp3",
 			"Standard Arabic Audio": "msa-0630-8.mp3"
 		},
@@ -91,7 +91,7 @@
 			"English": "What about if someone cuts me off?",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ماذا لو كان شخص ما يقطعني؟",
 			"Egyptian Arabic Audio": "eca-0630-9.mp3",
 			"Standard Arabic Audio": "msa-0630-9.mp3"
 		},
@@ -101,7 +101,7 @@
 			"English": "That's not an appropriate use of your horn.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هذا ليس الاستخدام المناسب للقرن الخاص بك.",
 			"Egyptian Arabic Audio": "eca-0630-10.mp3",
 			"Standard Arabic Audio": "msa-0630-10.mp3"
 		},
@@ -111,7 +111,7 @@
 			"English": "Am I ready to start driving yet?",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هل أنا مستعد لبدء القيادة حتى الآن؟",
 			"Egyptian Arabic Audio": "eca-0630-11.mp3",
 			"Standard Arabic Audio": "msa-0630-11.mp3"
 		},
@@ -121,7 +121,7 @@
 			"English": "No, you need to learn some more of the basics.",
 			"Word Count": 10,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لا، تحتاج إلى معرفة بعض أكثر من الأساسيات.",
 			"Egyptian Arabic Audio": "eca-0630-12.mp3",
 			"Standard Arabic Audio": "msa-0630-12.mp3"
 		}

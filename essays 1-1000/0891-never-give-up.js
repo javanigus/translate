@@ -9,7 +9,7 @@
 			"English": "The other player is named Antonio.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يدعى اللاعب الآخر أنطونيو.",
 			"Egyptian Arabic Audio": "eca-0891-1.mp3",
 			"Standard Arabic Audio": "msa-0891-1.mp3"
 		},
@@ -18,7 +18,7 @@
 			"English": "Antonio is mean.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنطونيو يعني.",
 			"Egyptian Arabic Audio": "eca-0891-2.mp3",
 			"Standard Arabic Audio": "msa-0891-2.mp3"
 		},
@@ -27,7 +27,7 @@
 			"English": "He is very competitive.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انه تنافسية للغاية.",
 			"Egyptian Arabic Audio": "eca-0891-3.mp3",
 			"Standard Arabic Audio": "msa-0891-3.mp3"
 		},
@@ -36,7 +36,7 @@
 			"English": "He is not afraid to hurt people.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انه لا يخشى ان يضر الناس.",
 			"Egyptian Arabic Audio": "eca-0891-4.mp3",
 			"Standard Arabic Audio": "msa-0891-4.mp3"
 		},
@@ -45,7 +45,7 @@
 			"English": "He has punched someone before.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لقد كمة شخص ما من قبل.",
 			"Egyptian Arabic Audio": "eca-0891-5.mp3",
 			"Standard Arabic Audio": "msa-0891-5.mp3"
 		},
@@ -54,7 +54,7 @@
 			"English": "Kenneth told his dad he wanted to quit.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أخبر كينيث والده أنه يريد الإقلاع عن التدخين.",
 			"Egyptian Arabic Audio": "eca-0891-6.mp3",
 			"Standard Arabic Audio": "msa-0891-6.mp3"
 		},
@@ -63,7 +63,7 @@
 			"English": "\"Why? You have been doing so well!\" Kenneth's dad said.",
 			"Word Count": 10,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "&quot;لماذا؟ لقد تم القيام بذلك بشكل جيد!&quot; وقال والد كينيث.",
 			"Egyptian Arabic Audio": "eca-0891-7.mp3",
 			"Standard Arabic Audio": "msa-0891-7.mp3"
 		},
@@ -72,7 +72,7 @@
 			"English": "\"I'm scared of Antonio,\" he said.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وقال &quot;اننى خائفة من انطونيو&quot;.",
 			"Egyptian Arabic Audio": "eca-0891-8.mp3",
 			"Standard Arabic Audio": "msa-0891-8.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "\"Never give up,\" Kenneth's dad said.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وقال والد كينيث &quot;لا تتخلى أبدا&quot;.",
 			"Egyptian Arabic Audio": "eca-0891-9.mp3",
 			"Standard Arabic Audio": "msa-0891-9.mp3"
 		}

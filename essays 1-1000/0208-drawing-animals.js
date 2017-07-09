@@ -9,7 +9,7 @@
 			"English": "Yvonne loved drawing.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أحب إيفون الرسم.",
 			"Egyptian Arabic Audio": "eca-0208-1.mp3",
 			"Standard Arabic Audio": "msa-0208-1.mp3"
 		},
@@ -18,7 +18,7 @@
 			"English": "She practiced drawing a lot.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انها تمارس الرسم كثيرا.",
 			"Egyptian Arabic Audio": "eca-0208-2.mp3",
 			"Standard Arabic Audio": "msa-0208-2.mp3"
 		},
@@ -27,7 +27,7 @@
 			"English": "She knew how to draw nature.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كانت تعرف كيفية رسم الطبيعة.",
 			"Egyptian Arabic Audio": "eca-0208-3.mp3",
 			"Standard Arabic Audio": "msa-0208-3.mp3"
 		},
@@ -36,7 +36,7 @@
 			"English": "She could draw people.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وقالت إنها يمكن أن يوجه الناس.",
 			"Egyptian Arabic Audio": "eca-0208-4.mp3",
 			"Standard Arabic Audio": "msa-0208-4.mp3"
 		},
@@ -45,7 +45,7 @@
 			"English": "She did not know how to draw animals.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وقالت إنها لا تعرف كيفية رسم الحيوانات.",
 			"Egyptian Arabic Audio": "eca-0208-5.mp3",
 			"Standard Arabic Audio": "msa-0208-5.mp3"
 		},
@@ -54,7 +54,7 @@
 			"English": "She decided it was time to learn.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وقررت أن الوقت قد حان للتعلم.",
 			"Egyptian Arabic Audio": "eca-0208-6.mp3",
 			"Standard Arabic Audio": "msa-0208-6.mp3"
 		},
@@ -63,7 +63,7 @@
 			"English": "She looked up instructions online.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "نظرت إلى التعليمات عبر الإنترنت.",
 			"Egyptian Arabic Audio": "eca-0208-7.mp3",
 			"Standard Arabic Audio": "msa-0208-7.mp3"
 		},
@@ -72,7 +72,7 @@
 			"English": "She also borrowed books.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كما اقترضت الكتب.",
 			"Egyptian Arabic Audio": "eca-0208-8.mp3",
 			"Standard Arabic Audio": "msa-0208-8.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "She studied the techniques.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "درست التقنيات.",
 			"Egyptian Arabic Audio": "eca-0208-9.mp3",
 			"Standard Arabic Audio": "msa-0208-9.mp3"
 		},
@@ -90,7 +90,7 @@
 			"English": "She looked at many images.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "نظرت إلى العديد من الصور.",
 			"Egyptian Arabic Audio": "eca-0208-10.mp3",
 			"Standard Arabic Audio": "msa-0208-10.mp3"
 		},
@@ -99,7 +99,7 @@
 			"English": "She decided to practice.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وقررت ممارسة.",
 			"Egyptian Arabic Audio": "eca-0208-11.mp3",
 			"Standard Arabic Audio": "msa-0208-11.mp3"
 		},
@@ -108,7 +108,7 @@
 			"English": "She wanted to start with something easy.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أرادت أن تبدأ بشيء سهلا.",
 			"Egyptian Arabic Audio": "eca-0208-12.mp3",
 			"Standard Arabic Audio": "msa-0208-12.mp3"
 		},
@@ -117,7 +117,7 @@
 			"English": "She first attempted a dog.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "حاولت أول كلب.",
 			"Egyptian Arabic Audio": "eca-0208-13.mp3",
 			"Standard Arabic Audio": "msa-0208-13.mp3"
 		},
@@ -126,7 +126,7 @@
 			"English": "After several tries, she finally got it.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "بعد عدة محاولات، وأخيرا حصلت عليه.",
 			"Egyptian Arabic Audio": "eca-0208-14.mp3",
 			"Standard Arabic Audio": "msa-0208-14.mp3"
 		},
@@ -135,7 +135,7 @@
 			"English": "She traced the outline.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "تتبعت المخطط.",
 			"Egyptian Arabic Audio": "eca-0208-15.mp3",
 			"Standard Arabic Audio": "msa-0208-15.mp3"
 		},
@@ -144,7 +144,7 @@
 			"English": "She then colored it.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ثم تلوينها.",
 			"Egyptian Arabic Audio": "eca-0208-16.mp3",
 			"Standard Arabic Audio": "msa-0208-16.mp3"
 		},
@@ -153,7 +153,7 @@
 			"English": "She was proud of herself.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كانت فخورة بنفسها.",
 			"Egyptian Arabic Audio": "eca-0208-17.mp3",
 			"Standard Arabic Audio": "msa-0208-17.mp3"
 		},
@@ -162,7 +162,7 @@
 			"English": "She decided to take a break.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "قررت أن تأخذ استراحة.",
 			"Egyptian Arabic Audio": "eca-0208-18.mp3",
 			"Standard Arabic Audio": "msa-0208-18.mp3"
 		},
@@ -171,7 +171,7 @@
 			"English": "Tomorrow she would learn how to draw a bear.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "غدا سوف تتعلم كيفية رسم الدب.",
 			"Egyptian Arabic Audio": "eca-0208-19.mp3",
 			"Standard Arabic Audio": "msa-0208-19.mp3"
 		}

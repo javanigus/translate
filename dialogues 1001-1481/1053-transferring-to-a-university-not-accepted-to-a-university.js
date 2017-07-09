@@ -11,7 +11,7 @@
 			"English": "You got a letter in the mail.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لقد حصلت على بريد إلكتروني.",
 			"Egyptian Arabic Audio": "eca-1053-1.mp3",
 			"Standard Arabic Audio": "msa-1053-1.mp3"
 		},
@@ -21,7 +21,7 @@
 			"English": "Give it to me.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "اعطني اياه.",
 			"Egyptian Arabic Audio": "eca-1053-2.mp3",
 			"Standard Arabic Audio": "msa-1053-2.mp3"
 		},
@@ -31,7 +31,7 @@
 			"English": "What is it?",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ما هذا؟",
 			"Egyptian Arabic Audio": "eca-1053-3.mp3",
 			"Standard Arabic Audio": "msa-1053-3.mp3"
 		},
@@ -41,7 +41,7 @@
 			"English": "It's from NYU.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انها من جامعة نيويورك.",
 			"Egyptian Arabic Audio": "eca-1053-4.mp3",
 			"Standard Arabic Audio": "msa-1053-4.mp3"
 		},
@@ -51,7 +51,7 @@
 			"English": "What does it say?",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ماذا يقول؟",
 			"Egyptian Arabic Audio": "eca-1053-5.mp3",
 			"Standard Arabic Audio": "msa-1053-5.mp3"
 		},
@@ -61,7 +61,7 @@
 			"English": "I didn't get accepted.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لم أحصل على قبول.",
 			"Egyptian Arabic Audio": "eca-1053-6.mp3",
 			"Standard Arabic Audio": "msa-1053-6.mp3"
 		},
@@ -71,7 +71,7 @@
 			"English": "You can't be serious!",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لا يمكنك أن تكون خطيرة!",
 			"Egyptian Arabic Audio": "eca-1053-7.mp3",
 			"Standard Arabic Audio": "msa-1053-7.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "I'm serious.",
 			"Word Count": 2,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنا جادة.",
 			"Egyptian Arabic Audio": "eca-1053-8.mp3",
 			"Standard Arabic Audio": "msa-1053-8.mp3"
 		},
@@ -91,7 +91,7 @@
 			"English": "Are you all right?",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هل انت بخير؟",
 			"Egyptian Arabic Audio": "eca-1053-9.mp3",
 			"Standard Arabic Audio": "msa-1053-9.mp3"
 		},
@@ -101,7 +101,7 @@
 			"English": "NYU was my first choice.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كانت جامعة نيويورك الخيار الأول.",
 			"Egyptian Arabic Audio": "eca-1053-10.mp3",
 			"Standard Arabic Audio": "msa-1053-10.mp3"
 		},
@@ -111,7 +111,7 @@
 			"English": "I'm sorry that you didn't get in.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنا آسف لأنك لم تحصل على.",
 			"Egyptian Arabic Audio": "eca-1053-11.mp3",
 			"Standard Arabic Audio": "msa-1053-11.mp3"
 		},
@@ -121,7 +121,7 @@
 			"English": "I'll just have to wait for UCLA.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "سوف تضطر إلى الانتظار ل أوكلا.",
 			"Egyptian Arabic Audio": "eca-1053-12.mp3",
 			"Standard Arabic Audio": "msa-1053-12.mp3"
 		},
@@ -131,7 +131,7 @@
 			"English": "There's a letter here for you.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هناك رسالة هنا بالنسبة لك.",
 			"Egyptian Arabic Audio": "eca-1053-13.mp3",
 			"Standard Arabic Audio": "msa-1053-13.mp3"
 		},
@@ -141,7 +141,7 @@
 			"English": "Let me see it.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "دعني أراه.",
 			"Egyptian Arabic Audio": "eca-1053-14.mp3",
 			"Standard Arabic Audio": "msa-1053-14.mp3"
 		},
@@ -151,7 +151,7 @@
 			"English": "What's the letter about?",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ما هي الرسالة عن؟",
 			"Egyptian Arabic Audio": "eca-1053-15.mp3",
 			"Standard Arabic Audio": "msa-1053-15.mp3"
 		},
@@ -161,7 +161,7 @@
 			"English": "It's a letter from NYU.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انها رسالة من جامعة نيويورك.",
 			"Egyptian Arabic Audio": "eca-1053-16.mp3",
 			"Standard Arabic Audio": "msa-1053-16.mp3"
 		},
@@ -171,7 +171,7 @@
 			"English": "Tell me what it says!",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "قل لي ما تقول!",
 			"Egyptian Arabic Audio": "eca-1053-17.mp3",
 			"Standard Arabic Audio": "msa-1053-17.mp3"
 		},
@@ -181,7 +181,7 @@
 			"English": "I didn't get in.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لم أحصل على.",
 			"Egyptian Arabic Audio": "eca-1053-18.mp3",
 			"Standard Arabic Audio": "msa-1053-18.mp3"
 		},
@@ -191,7 +191,7 @@
 			"English": "You're lying.",
 			"Word Count": 2,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انت تكذب.",
 			"Egyptian Arabic Audio": "eca-1053-19.mp3",
 			"Standard Arabic Audio": "msa-1053-19.mp3"
 		},
@@ -201,7 +201,7 @@
 			"English": "I'm not lying.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انا لا اكذب.",
 			"Egyptian Arabic Audio": "eca-1053-20.mp3",
 			"Standard Arabic Audio": "msa-1053-20.mp3"
 		},
@@ -211,7 +211,7 @@
 			"English": "Are you upset?",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هل انت منزعج؟",
 			"Egyptian Arabic Audio": "eca-1053-21.mp3",
 			"Standard Arabic Audio": "msa-1053-21.mp3"
 		},
@@ -221,7 +221,7 @@
 			"English": "I had high hopes for NYU.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كان لي آمال كبيرة في جامعة نيويورك.",
 			"Egyptian Arabic Audio": "eca-1053-22.mp3",
 			"Standard Arabic Audio": "msa-1053-22.mp3"
 		},
@@ -231,7 +231,7 @@
 			"English": "I'm sorry you didn't get accepted.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنا آسف لأنك لم تحصل على قبول.",
 			"Egyptian Arabic Audio": "eca-1053-23.mp3",
 			"Standard Arabic Audio": "msa-1053-23.mp3"
 		},
@@ -241,7 +241,7 @@
 			"English": "Hopefully, I'll get accepted to UCLA.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "نأمل، أنا سوف تحصل على قبول إلى جامعة كاليفورنيا.",
 			"Egyptian Arabic Audio": "eca-1053-24.mp3",
 			"Standard Arabic Audio": "msa-1053-24.mp3"
 		},
@@ -251,7 +251,7 @@
 			"English": "You received a letter in the mail.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لقد تلقيت رسالة في البريد.",
 			"Egyptian Arabic Audio": "eca-1053-26.mp3",
 			"Standard Arabic Audio": "msa-1053-26.mp3"
 		},
@@ -261,7 +261,7 @@
 			"English": "Give it here.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أعطها هنا.",
 			"Egyptian Arabic Audio": "eca-1053-27.mp3",
 			"Standard Arabic Audio": "msa-1053-27.mp3"
 		},
@@ -271,7 +271,7 @@
 			"English": "Who's the letter from?",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "من هو الرسالة من؟",
 			"Egyptian Arabic Audio": "eca-1053-28.mp3",
 			"Standard Arabic Audio": "msa-1053-28.mp3"
 		},
@@ -281,7 +281,7 @@
 			"English": "I think it's my acceptance letter from NYU.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أعتقد أنها رسالة القبول من جامعة نيويورك.",
 			"Egyptian Arabic Audio": "eca-1053-29.mp3",
 			"Standard Arabic Audio": "msa-1053-29.mp3"
 		},
@@ -291,7 +291,7 @@
 			"English": "I want to know what it says.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أريد أن أعرف ما تقول.",
 			"Egyptian Arabic Audio": "eca-1053-30.mp3",
 			"Standard Arabic Audio": "msa-1053-30.mp3"
 		},
@@ -301,7 +301,7 @@
 			"English": "They didn't accept me.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لم يقبلوني.",
 			"Egyptian Arabic Audio": "eca-1053-31.mp3",
 			"Standard Arabic Audio": "msa-1053-31.mp3"
 		},
@@ -311,7 +311,7 @@
 			"English": "Are you serious?",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هل أنت جاد؟",
 			"Egyptian Arabic Audio": "eca-1053-32.mp3",
 			"Standard Arabic Audio": "msa-1053-32.mp3"
 		},
@@ -321,7 +321,7 @@
 			"English": "It's the truth.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "إنها الحقيقة.",
 			"Egyptian Arabic Audio": "eca-1053-33.mp3",
 			"Standard Arabic Audio": "msa-1053-33.mp3"
 		},
@@ -331,7 +331,7 @@
 			"English": "Are you okay?",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انت بخير؟",
 			"Egyptian Arabic Audio": "eca-1053-34.mp3",
 			"Standard Arabic Audio": "msa-1053-34.mp3"
 		},
@@ -341,7 +341,7 @@
 			"English": "I really wanted to get into NYU.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أردت حقا الدخول إلى جامعة نيويورك.",
 			"Egyptian Arabic Audio": "eca-1053-35.mp3",
 			"Standard Arabic Audio": "msa-1053-35.mp3"
 		},
@@ -351,7 +351,7 @@
 			"English": "I am really sorry to hear that.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنا آسف حقا لسماع ذلك.",
 			"Egyptian Arabic Audio": "eca-1053-36.mp3",
 			"Standard Arabic Audio": "msa-1053-36.mp3"
 		},
@@ -361,7 +361,7 @@
 			"English": "It's okay. I'm still waiting to hear from UCLA anyway.",
 			"Word Count": 10,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انه بخير. ما زلت في انتظار أن نسمع من جامعة كاليفورنيا على أي حال.",
 			"Egyptian Arabic Audio": "eca-1053-37.mp3",
 			"Standard Arabic Audio": "msa-1053-37.mp3"
 		}

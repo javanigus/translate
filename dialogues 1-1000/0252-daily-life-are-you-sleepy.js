@@ -11,7 +11,7 @@
 			"English": "Why are you yawning?",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لماذا أنت التثاؤب؟",
 			"Egyptian Arabic Audio": "eca-0252-1.mp3",
 			"Standard Arabic Audio": "msa-0252-1.mp3"
 		},
@@ -21,7 +21,7 @@
 			"English": "I'm sleepy.",
 			"Word Count": 2,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يغلبني النعاس.",
 			"Egyptian Arabic Audio": "eca-0252-2.mp3",
 			"Standard Arabic Audio": "msa-0252-2.mp3"
 		},
@@ -31,7 +31,7 @@
 			"English": "Why don't you go to bed?",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لماذا لا تذهب إلى السرير؟",
 			"Egyptian Arabic Audio": "eca-0252-3.mp3",
 			"Standard Arabic Audio": "msa-0252-3.mp3"
 		},
@@ -41,7 +41,7 @@
 			"English": "I want to watch this TV show.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أريد مشاهدة هذا البرنامج التلفزيوني.",
 			"Egyptian Arabic Audio": "eca-0252-4.mp3",
 			"Standard Arabic Audio": "msa-0252-4.mp3"
 		},
@@ -51,7 +51,7 @@
 			"English": "Maybe you should record it.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ربما يجب عليك تسجيل ذلك.",
 			"Egyptian Arabic Audio": "eca-0252-5.mp3",
 			"Standard Arabic Audio": "msa-0252-5.mp3"
 		},
@@ -61,7 +61,7 @@
 			"English": "The tape recorder is broken.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "تم كسر مسجل الشريط.",
 			"Egyptian Arabic Audio": "eca-0252-6.mp3",
 			"Standard Arabic Audio": "msa-0252-6.mp3"
 		},
@@ -71,7 +71,7 @@
 			"English": "Then you should watch the rerun.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ثم يجب عليك مشاهدة إعادة تشغيل.",
 			"Egyptian Arabic Audio": "eca-0252-7.mp3",
 			"Standard Arabic Audio": "msa-0252-7.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "Why? I'm watching the original.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لماذا ا؟ أنا أشاهد الأصلي.",
 			"Egyptian Arabic Audio": "eca-0252-8.mp3",
 			"Standard Arabic Audio": "msa-0252-8.mp3"
 		},
@@ -91,7 +91,7 @@
 			"English": "But you'll be asleep in about one minute.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ولكن عليك أن تكون نائما في حوالي دقيقة واحدة.",
 			"Egyptian Arabic Audio": "eca-0252-9.mp3",
 			"Standard Arabic Audio": "msa-0252-9.mp3"
 		},
@@ -101,7 +101,7 @@
 			"English": "I'm just yawning because the commercials are on.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنا مجرد التثاؤب لأن الإعلانات التجارية على.",
 			"Egyptian Arabic Audio": "eca-0252-10.mp3",
 			"Standard Arabic Audio": "msa-0252-10.mp3"
 		},
@@ -111,7 +111,7 @@
 			"English": "Okay. I'll tell you how the show ends.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "حسنا. سأخبرك كيف ينتهي العرض.",
 			"Egyptian Arabic Audio": "eca-0252-11.mp3",
 			"Standard Arabic Audio": "msa-0252-11.mp3"
 		},
@@ -121,7 +121,7 @@
 			"English": "Zzz.",
 			"Word Count": 1,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ضاد ضاد ضاد.",
 			"Egyptian Arabic Audio": "eca-0252-12.mp3",
 			"Standard Arabic Audio": "msa-0252-12.mp3"
 		}

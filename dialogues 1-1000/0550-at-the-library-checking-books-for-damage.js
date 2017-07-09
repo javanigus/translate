@@ -11,7 +11,7 @@
 			"English": "There's a huge rip here.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هناك مزق ضخم هنا.",
 			"Egyptian Arabic Audio": "eca-0550-1.mp3",
 			"Standard Arabic Audio": "msa-0550-1.mp3"
 		},
@@ -21,7 +21,7 @@
 			"English": "But there's tape on it!",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ولكن هناك شريط على ذلك!",
 			"Egyptian Arabic Audio": "eca-0550-2.mp3",
 			"Standard Arabic Audio": "msa-0550-2.mp3"
 		},
@@ -31,7 +31,7 @@
 			"English": "Did you put the tape there?",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هل وضعت الشريط هناك؟",
 			"Egyptian Arabic Audio": "eca-0550-3.mp3",
 			"Standard Arabic Audio": "msa-0550-3.mp3"
 		},
@@ -41,7 +41,7 @@
 			"English": "No, it was there before.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لا، كان هناك من قبل.",
 			"Egyptian Arabic Audio": "eca-0550-4.mp3",
 			"Standard Arabic Audio": "msa-0550-4.mp3"
 		},
@@ -51,7 +51,7 @@
 			"English": "I know you're lying to me.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنا أعلم أنك تكذب علي.",
 			"Egyptian Arabic Audio": "eca-0550-5.mp3",
 			"Standard Arabic Audio": "msa-0550-5.mp3"
 		},
@@ -61,7 +61,7 @@
 			"English": "If you know, then why did you ask if I put the tape on?",
 			"Word Count": 14,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "إذا كنت تعرف، لماذا سألت إذا كنت وضعت الشريط على؟",
 			"Egyptian Arabic Audio": "eca-0550-6.mp3",
 			"Standard Arabic Audio": "msa-0550-6.mp3"
 		},
@@ -71,7 +71,7 @@
 			"English": "I wanted to see if you were a liar or not.",
 			"Word Count": 11,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أردت أن أرى إذا كنت كاذبا أم لا.",
 			"Egyptian Arabic Audio": "eca-0550-7.mp3",
 			"Standard Arabic Audio": "msa-0550-7.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "How did you know I'm lying?",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كيف عرفت أنني أكذب؟",
 			"Egyptian Arabic Audio": "eca-0550-8.mp3",
 			"Standard Arabic Audio": "msa-0550-8.mp3"
 		},
@@ -91,7 +91,7 @@
 			"English": "Before you check out the book, the librarian checks it for damage.",
 			"Word Count": 12,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "قبل فحص الكتاب، يقوم أمين المكتبة بفحصه عن الضرر.",
 			"Egyptian Arabic Audio": "eca-0550-9.mp3",
 			"Standard Arabic Audio": "msa-0550-9.mp3"
 		},
@@ -101,7 +101,7 @@
 			"English": "Wow, you guys think of everything.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "نجاح باهر، يا رفاق التفكير في كل شيء.",
 			"Egyptian Arabic Audio": "eca-0550-10.mp3",
 			"Standard Arabic Audio": "msa-0550-10.mp3"
 		},
@@ -111,7 +111,7 @@
 			"English": "Yes. Anyways, you owe $10.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "نعم فعلا. على أي حال، أنت مدين 10 دولارات.",
 			"Egyptian Arabic Audio": "eca-0550-11.mp3",
 			"Standard Arabic Audio": "msa-0550-11.mp3"
 		},
@@ -121,7 +121,7 @@
 			"English": "Fine, here you go.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "غرامة، وهنا تذهب.",
 			"Egyptian Arabic Audio": "eca-0550-12.mp3",
 			"Standard Arabic Audio": "msa-0550-12.mp3"
 		}

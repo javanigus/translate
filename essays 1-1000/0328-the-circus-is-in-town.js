@@ -9,7 +9,7 @@
 			"English": "She loves the circus.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "تحب السيرك.",
 			"Egyptian Arabic Audio": "eca-0328-1.mp3",
 			"Standard Arabic Audio": "msa-0328-1.mp3"
 		},
@@ -18,7 +18,7 @@
 			"English": "The circus has elephants.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "السيرك لديه الفيلة.",
 			"Egyptian Arabic Audio": "eca-0328-2.mp3",
 			"Standard Arabic Audio": "msa-0328-2.mp3"
 		},
@@ -27,7 +27,7 @@
 			"English": "Elephants are so big.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "الفيلة كبيرة جدا.",
 			"Egyptian Arabic Audio": "eca-0328-3.mp3",
 			"Standard Arabic Audio": "msa-0328-3.mp3"
 		},
@@ -36,7 +36,7 @@
 			"English": "The circus has tigers.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "السيرك لديه نمور.",
 			"Egyptian Arabic Audio": "eca-0328-4.mp3",
 			"Standard Arabic Audio": "msa-0328-4.mp3"
 		},
@@ -45,7 +45,7 @@
 			"English": "Tigers are so pretty.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "النمور جميلة جدا.",
 			"Egyptian Arabic Audio": "eca-0328-5.mp3",
 			"Standard Arabic Audio": "msa-0328-5.mp3"
 		},
@@ -54,7 +54,7 @@
 			"English": "The circus has clowns.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "السيرك لديه المهرجين.",
 			"Egyptian Arabic Audio": "eca-0328-6.mp3",
 			"Standard Arabic Audio": "msa-0328-6.mp3"
 		},
@@ -63,7 +63,7 @@
 			"English": "Clowns are funny.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "المهرجون مضحك.",
 			"Egyptian Arabic Audio": "eca-0328-7.mp3",
 			"Standard Arabic Audio": "msa-0328-7.mp3"
 		},
@@ -72,7 +72,7 @@
 			"English": "They drive funny cars.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يقودون سيارات مضحكة.",
 			"Egyptian Arabic Audio": "eca-0328-8.mp3",
 			"Standard Arabic Audio": "msa-0328-8.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "They wear funny costumes.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنها ارتداء الأزياء مضحك.",
 			"Egyptian Arabic Audio": "eca-0328-9.mp3",
 			"Standard Arabic Audio": "msa-0328-9.mp3"
 		},
@@ -90,7 +90,7 @@
 			"English": "They have funny faces.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لديهم وجوه مضحكة.",
 			"Egyptian Arabic Audio": "eca-0328-10.mp3",
 			"Standard Arabic Audio": "msa-0328-10.mp3"
 		},
@@ -99,7 +99,7 @@
 			"English": "They make her laugh.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنها تجعل لها الضحك.",
 			"Egyptian Arabic Audio": "eca-0328-11.mp3",
 			"Standard Arabic Audio": "msa-0328-11.mp3"
 		},
@@ -108,7 +108,7 @@
 			"English": "The circus is in town this week.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "السيرك في المدينة هذا الأسبوع.",
 			"Egyptian Arabic Audio": "eca-0328-12.mp3",
 			"Standard Arabic Audio": "msa-0328-12.mp3"
 		},
@@ -117,7 +117,7 @@
 			"English": "She tells her dad and her mom.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "تقول والدها وأمها.",
 			"Egyptian Arabic Audio": "eca-0328-13.mp3",
 			"Standard Arabic Audio": "msa-0328-13.mp3"
 		}

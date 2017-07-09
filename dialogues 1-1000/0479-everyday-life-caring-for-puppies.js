@@ -11,7 +11,7 @@
 			"English": "I think these puppies are hungry!",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وأعتقد أن هذه الجراء هي جائع!",
 			"Egyptian Arabic Audio": "eca-0479-1.mp3",
 			"Standard Arabic Audio": "msa-0479-1.mp3"
 		},
@@ -21,7 +21,7 @@
 			"English": "They've done nothing but play all day.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لقد فعلوا شيئا ولكن لعب كل يوم.",
 			"Egyptian Arabic Audio": "eca-0479-2.mp3",
 			"Standard Arabic Audio": "msa-0479-2.mp3"
 		},
@@ -31,7 +31,7 @@
 			"English": "Do you think they're old enough to eat kibble?",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هل تعتقد أنها قديمة بما فيه الكفاية لتناول الطعام كيبل؟",
 			"Egyptian Arabic Audio": "eca-0479-3.mp3",
 			"Standard Arabic Audio": "msa-0479-3.mp3"
 		},
@@ -41,7 +41,7 @@
 			"English": "They're six weeks old; I think they're old enough.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انهم ستة أسابيع من العمر. أعتقد أنها قديمة بما فيه الكفاية.",
 			"Egyptian Arabic Audio": "eca-0479-4.mp3",
 			"Standard Arabic Audio": "msa-0479-4.mp3"
 		},
@@ -51,7 +51,7 @@
 			"English": "Look! They're digging right in!",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "نظرة! انهم حفر الحق في!",
 			"Egyptian Arabic Audio": "eca-0479-5.mp3",
 			"Standard Arabic Audio": "msa-0479-5.mp3"
 		},
@@ -61,7 +61,7 @@
 			"English": "Now they're settling for a nap.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "الآن انهم تسوية لقيلولة.",
 			"Egyptian Arabic Audio": "eca-0479-6.mp3",
 			"Standard Arabic Audio": "msa-0479-6.mp3"
 		},
@@ -71,7 +71,7 @@
 			"English": "Between keeping them from chewing things and cleaning, they're a hassle.",
 			"Word Count": 11,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "بين الاحتفاظ بها من مضغ الأشياء والتنظيف، انهم متاعب.",
 			"Egyptian Arabic Audio": "eca-0479-7.mp3",
 			"Standard Arabic Audio": "msa-0479-7.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "Yeah, they are. But look how cute they are while asleep!",
 			"Word Count": 11,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "نعم، هم. ولكن ننظر كيف لطيف هم في حين نائما!",
 			"Egyptian Arabic Audio": "eca-0479-8.mp3",
 			"Standard Arabic Audio": "msa-0479-8.mp3"
 		},
@@ -91,7 +91,7 @@
 			"English": "Suddenly, I don't mind the chores so much.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "فجأة، أنا لا أمانع الأعمال كثيرا.",
 			"Egyptian Arabic Audio": "eca-0479-9.mp3",
 			"Standard Arabic Audio": "msa-0479-9.mp3"
 		},
@@ -101,7 +101,7 @@
 			"English": "Yeah, neither do I.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "نعم، لا لا.",
 			"Egyptian Arabic Audio": "eca-0479-10.mp3",
 			"Standard Arabic Audio": "msa-0479-10.mp3"
 		},
@@ -111,7 +111,7 @@
 			"English": "These puppies are truly worth it.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هذه الجراء هي حقا يستحق كل هذا العناء.",
 			"Egyptian Arabic Audio": "eca-0479-11.mp3",
 			"Standard Arabic Audio": "msa-0479-11.mp3"
 		},
@@ -121,7 +121,7 @@
 			"English": "I wouldn't lose a single minute with them.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنا لن تفقد دقيقة واحدة معهم.",
 			"Egyptian Arabic Audio": "eca-0479-12.mp3",
 			"Standard Arabic Audio": "msa-0479-12.mp3"
 		}

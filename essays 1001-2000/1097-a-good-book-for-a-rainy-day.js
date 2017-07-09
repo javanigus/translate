@@ -9,7 +9,7 @@
 			"English": "He looks out the window.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انه ينظر الى النافذة.",
 			"Egyptian Arabic Audio": "eca-1097-1.mp3",
 			"Standard Arabic Audio": "msa-1097-1.mp3"
 		},
@@ -18,7 +18,7 @@
 			"English": "The sky is gray.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "السماء رمادية.",
 			"Egyptian Arabic Audio": "eca-1097-2.mp3",
 			"Standard Arabic Audio": "msa-1097-2.mp3"
 		},
@@ -27,7 +27,7 @@
 			"English": "Leaves fall from the trees.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "الأوراق، أسقط، من، ال التعريف، الشجرات.",
 			"Egyptian Arabic Audio": "eca-1097-3.mp3",
 			"Standard Arabic Audio": "msa-1097-3.mp3"
 		},
@@ -36,7 +36,7 @@
 			"English": "Paper flies through the air.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ورقة الذباب عبر الهواء.",
 			"Egyptian Arabic Audio": "eca-1097-4.mp3",
 			"Standard Arabic Audio": "msa-1097-4.mp3"
 		},
@@ -45,7 +45,7 @@
 			"English": "It is windy.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "فمن عاصف.",
 			"Egyptian Arabic Audio": "eca-1097-5.mp3",
 			"Standard Arabic Audio": "msa-1097-5.mp3"
 		},
@@ -54,7 +54,7 @@
 			"English": "He goes back to his book.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يعود إلى كتابه.",
 			"Egyptian Arabic Audio": "eca-1097-6.mp3",
 			"Standard Arabic Audio": "msa-1097-6.mp3"
 		},
@@ -63,7 +63,7 @@
 			"English": "He hears raindrops.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يسمع قطرات المطر.",
 			"Egyptian Arabic Audio": "eca-1097-7.mp3",
 			"Standard Arabic Audio": "msa-1097-7.mp3"
 		},
@@ -72,7 +72,7 @@
 			"English": "He looks out the window again.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انه ينظر الى النافذة مرة أخرى.",
 			"Egyptian Arabic Audio": "eca-1097-8.mp3",
 			"Standard Arabic Audio": "msa-1097-8.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "He sees the rain.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يرى المطر.",
 			"Egyptian Arabic Audio": "eca-1097-9.mp3",
 			"Standard Arabic Audio": "msa-1097-9.mp3"
 		},
@@ -90,7 +90,7 @@
 			"English": "He closes the window.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يغلق النافذة.",
 			"Egyptian Arabic Audio": "eca-1097-10.mp3",
 			"Standard Arabic Audio": "msa-1097-10.mp3"
 		},
@@ -99,7 +99,7 @@
 			"English": "He goes back to his book.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يعود إلى كتابه.",
 			"Egyptian Arabic Audio": "eca-1097-11.mp3",
 			"Standard Arabic Audio": "msa-1097-11.mp3"
 		}

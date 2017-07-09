@@ -11,7 +11,7 @@
 			"English": "The ocean is so big.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "المحيط كبير جدا.",
 			"Egyptian Arabic Audio": "eca-0246-1.mp3",
 			"Standard Arabic Audio": "msa-0246-1.mp3"
 		},
@@ -21,7 +21,7 @@
 			"English": "You can't see the end of it.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لا يمكنك رؤية نهاية منه.",
 			"Egyptian Arabic Audio": "eca-0246-2.mp3",
 			"Standard Arabic Audio": "msa-0246-2.mp3"
 		},
@@ -31,7 +31,7 @@
 			"English": "It goes on and on forever.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ويذهب إلى الأبد.",
 			"Egyptian Arabic Audio": "eca-0246-3.mp3",
 			"Standard Arabic Audio": "msa-0246-3.mp3"
 		},
@@ -41,7 +41,7 @@
 			"English": "And it's deep, too.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وانها عميقة أيضا.",
 			"Egyptian Arabic Audio": "eca-0246-4.mp3",
 			"Standard Arabic Audio": "msa-0246-4.mp3"
 		},
@@ -51,7 +51,7 @@
 			"English": "I think it's five miles deep.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أعتقد أنه عميق خمسة أميال.",
 			"Egyptian Arabic Audio": "eca-0246-5.mp3",
 			"Standard Arabic Audio": "msa-0246-5.mp3"
 		},
@@ -61,7 +61,7 @@
 			"English": "Are there fish at the bottom?",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هل هناك أسماك في القاع؟",
 			"Egyptian Arabic Audio": "eca-0246-6.mp3",
 			"Standard Arabic Audio": "msa-0246-6.mp3"
 		},
@@ -71,7 +71,7 @@
 			"English": "There are fish at the top and the bottom.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هناك أسماك في أعلى وأسفل.",
 			"Egyptian Arabic Audio": "eca-0246-7.mp3",
 			"Standard Arabic Audio": "msa-0246-7.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "Are there more fish or more people?",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هل هناك المزيد من الأسماك أو المزيد من الناس؟",
 			"Egyptian Arabic Audio": "eca-0246-8.mp3",
 			"Standard Arabic Audio": "msa-0246-8.mp3"
 		},
@@ -91,7 +91,7 @@
 			"English": "I think there are more fish.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أعتقد أن هناك المزيد من الأسماك.",
 			"Egyptian Arabic Audio": "eca-0246-9.mp3",
 			"Standard Arabic Audio": "msa-0246-9.mp3"
 		},
@@ -101,7 +101,7 @@
 			"English": "I hope so. I love to eat fish.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "آمل ذلك. أحب أكل السمك.",
 			"Egyptian Arabic Audio": "eca-0246-10.mp3",
 			"Standard Arabic Audio": "msa-0246-10.mp3"
 		}

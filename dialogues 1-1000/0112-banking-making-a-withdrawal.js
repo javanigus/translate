@@ -11,7 +11,7 @@
 			"English": "I'd like to make a withdrawal.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أود أن جعل الانسحاب.",
 			"Egyptian Arabic Audio": "eca-0112-1.mp3",
 			"Standard Arabic Audio": "msa-0112-1.mp3"
 		},
@@ -21,7 +21,7 @@
 			"English": "Will that be from your checking or savings account?",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هل سيكون ذلك من حساب التحقق أو التوفير؟",
 			"Egyptian Arabic Audio": "eca-0112-2.mp3",
 			"Standard Arabic Audio": "msa-0112-2.mp3"
 		},
@@ -31,7 +31,7 @@
 			"English": "I don't have a savings account.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ليس لدي حساب ادخار.",
 			"Egyptian Arabic Audio": "eca-0112-3.mp3",
 			"Standard Arabic Audio": "msa-0112-3.mp3"
 		},
@@ -41,7 +41,7 @@
 			"English": "Then it will be from your checking account.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ثم سيكون من حساب التحقق الخاص بك.",
 			"Egyptian Arabic Audio": "eca-0112-4.mp3",
 			"Standard Arabic Audio": "msa-0112-4.mp3"
 		},
@@ -51,7 +51,7 @@
 			"English": "I'd like to take out $200.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أود أن أخرج 200 دولار.",
 			"Egyptian Arabic Audio": "eca-0112-5.mp3",
 			"Standard Arabic Audio": "msa-0112-5.mp3"
 		},
@@ -61,7 +61,7 @@
 			"English": "Do you have a withdrawal form?",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هل لديك نموذج سحب؟",
 			"Egyptian Arabic Audio": "eca-0112-6.mp3",
 			"Standard Arabic Audio": "msa-0112-6.mp3"
 		},
@@ -71,7 +71,7 @@
 			"English": "Where can I get one of those?",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أين يمكنني الحصول على واحدة من تلك؟",
 			"Egyptian Arabic Audio": "eca-0112-7.mp3",
 			"Standard Arabic Audio": "msa-0112-7.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "They are located right behind you on the table.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وهي تقع خلفك مباشرة على الطاولة.",
 			"Egyptian Arabic Audio": "eca-0112-8.mp3",
 			"Standard Arabic Audio": "msa-0112-8.mp3"
 		},
@@ -91,7 +91,7 @@
 			"English": "What do I need to write on the form?",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ما الذي أحتاجه للكتابة على النموذج؟",
 			"Egyptian Arabic Audio": "eca-0112-9.mp3",
 			"Standard Arabic Audio": "msa-0112-9.mp3"
 		},
@@ -101,7 +101,7 @@
 			"English": "You need to write the name on the account, the account number, and how much  you want to take out.",
 			"Word Count": 20,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "تحتاج إلى كتابة الاسم على الحساب، ورقم الحساب، وكم كنت تريد أن تأخذ بها.",
 			"Egyptian Arabic Audio": "eca-0112-10.mp3",
 			"Standard Arabic Audio": "msa-0112-10.mp3"
 		},
@@ -111,7 +111,7 @@
 			"English": "Is that all?",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هل هذا كل شيء؟",
 			"Egyptian Arabic Audio": "eca-0112-11.mp3",
 			"Standard Arabic Audio": "msa-0112-11.mp3"
 		},
@@ -121,7 +121,7 @@
 			"English": "I also need photo identification.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنا أيضا بحاجة إلى صورة الهوية.",
 			"Egyptian Arabic Audio": "eca-0112-12.mp3",
 			"Standard Arabic Audio": "msa-0112-12.mp3"
 		}

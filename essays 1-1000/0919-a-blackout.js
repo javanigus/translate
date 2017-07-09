@@ -9,7 +9,7 @@
 			"English": "He had a paper due tomorrow.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كان لديه ورقة غدا.",
 			"Egyptian Arabic Audio": "eca-0919-1.mp3",
 			"Standard Arabic Audio": "msa-0919-1.mp3"
 		},
@@ -18,7 +18,7 @@
 			"English": "He had to write it out tonight.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كان عليه أن يكتبها الليلة.",
 			"Egyptian Arabic Audio": "eca-0919-2.mp3",
 			"Standard Arabic Audio": "msa-0919-2.mp3"
 		},
@@ -27,7 +27,7 @@
 			"English": "He used the candle.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "استخدم الشمعة.",
 			"Egyptian Arabic Audio": "eca-0919-3.mp3",
 			"Standard Arabic Audio": "msa-0919-3.mp3"
 		},
@@ -36,7 +36,7 @@
 			"English": "His parents found some flashlights to help.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وجد والداه بعض المصابيح للمساعدة.",
 			"Egyptian Arabic Audio": "eca-0919-4.mp3",
 			"Standard Arabic Audio": "msa-0919-4.mp3"
 		},
@@ -45,7 +45,7 @@
 			"English": "The blackout was not so bad.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انقطاع التيار الكهربائي لم يكن سيئا للغاية.",
 			"Egyptian Arabic Audio": "eca-0919-5.mp3",
 			"Standard Arabic Audio": "msa-0919-5.mp3"
 		},
@@ -54,7 +54,7 @@
 			"English": "Sam got to see how life was without electricity.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "سام حصلت على رؤية كيف كانت الحياة دون كهرباء.",
 			"Egyptian Arabic Audio": "eca-0919-6.mp3",
 			"Standard Arabic Audio": "msa-0919-6.mp3"
 		},
@@ -63,7 +63,7 @@
 			"English": "He finished his paper much faster than he would have with the distractions of technology.",
 			"Word Count": 15,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنهى ورقته أسرع بكثير مما كان عليه مع الانحرافات من التكنولوجيا.",
 			"Egyptian Arabic Audio": "eca-0919-7.mp3",
 			"Standard Arabic Audio": "msa-0919-7.mp3"
 		}

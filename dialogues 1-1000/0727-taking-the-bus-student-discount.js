@@ -11,7 +11,7 @@
 			"English": "Hi, I am here to buy a bus pass.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "مرحبا، أنا هنا لشراء تذكرة حافلة.",
 			"Egyptian Arabic Audio": "eca-0727-1.mp3",
 			"Standard Arabic Audio": "msa-0727-1.mp3"
 		},
@@ -21,7 +21,7 @@
 			"English": "Alright. What kind are you interested in getting?",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "حسنا. ما هو النوع الذي ترغب في الحصول عليه؟",
 			"Egyptian Arabic Audio": "eca-0727-2.mp3",
 			"Standard Arabic Audio": "msa-0727-2.mp3"
 		},
@@ -31,7 +31,7 @@
 			"English": "I'm not sure. This is my first time.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لست متأكد. هذه المرة الأولى بالنسبة لي.",
 			"Egyptian Arabic Audio": "eca-0727-3.mp3",
 			"Standard Arabic Audio": "msa-0727-3.mp3"
 		},
@@ -41,7 +41,7 @@
 			"English": "If you need a monthly pass, it will be sixty-four dollars.",
 			"Word Count": 11,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "إذا كنت بحاجة إلى تمريرة شهرية، وسوف يكون أربعة وستين دولارا.",
 			"Egyptian Arabic Audio": "eca-0727-4.mp3",
 			"Standard Arabic Audio": "msa-0727-4.mp3"
 		},
@@ -51,7 +51,7 @@
 			"English": "Is there anything cheaper than that?",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هل هناك أي شيء أرخص من ذلك؟",
 			"Egyptian Arabic Audio": "eca-0727-5.mp3",
 			"Standard Arabic Audio": "msa-0727-5.mp3"
 		},
@@ -61,7 +61,7 @@
 			"English": "If you're a student, you get a discount.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "إذا كنت طالبا، تحصل على خصم.",
 			"Egyptian Arabic Audio": "eca-0727-6.mp3",
 			"Standard Arabic Audio": "msa-0727-6.mp3"
 		},
@@ -71,7 +71,7 @@
 			"English": "Yes. I am a student. How much will it be for a student discount?",
 			"Word Count": 14,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "نعم فعلا. أنا طالب. كم سيكون خصم الطالب؟",
 			"Egyptian Arabic Audio": "eca-0727-7.mp3",
 			"Standard Arabic Audio": "msa-0727-7.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "The student discount for a monthly pass is thirty-five dollars.",
 			"Word Count": 10,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "خصم الطالب للحصول على تصريح شهري هو خمسة وثلاثين دولارا.",
 			"Egyptian Arabic Audio": "eca-0727-8.mp3",
 			"Standard Arabic Audio": "msa-0727-8.mp3"
 		},
@@ -91,7 +91,7 @@
 			"English": "Alright. I think I'll take that.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "حسنا. أعتقد أنني سوف تأخذ ذلك.",
 			"Egyptian Arabic Audio": "eca-0727-9.mp3",
 			"Standard Arabic Audio": "msa-0727-9.mp3"
 		},
@@ -101,7 +101,7 @@
 			"English": "First I'll need to see your student ID. Then you're all set.",
 			"Word Count": 12,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أولا سأحتاج إلى رؤية معرف الطالب. ثم كنت كل مجموعة.",
 			"Egyptian Arabic Audio": "eca-0727-10.mp3",
 			"Standard Arabic Audio": "msa-0727-10.mp3"
 		},
@@ -111,7 +111,7 @@
 			"English": "Here is my student ID. Thank you very much.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هنا هو معرف الطالب. شكرا جزيلا.",
 			"Egyptian Arabic Audio": "eca-0727-11.mp3",
 			"Standard Arabic Audio": "msa-0727-11.mp3"
 		},
@@ -121,7 +121,7 @@
 			"English": "Here you go. Have a nice day!",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ها أنت ذا. أتمنى لك نهارا سعيد!",
 			"Egyptian Arabic Audio": "eca-0727-12.mp3",
 			"Standard Arabic Audio": "msa-0727-12.mp3"
 		}

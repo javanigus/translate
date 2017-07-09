@@ -9,7 +9,7 @@
 			"English": "She starts reading a book.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وقالت انها تبدأ قراءة كتاب.",
 			"Egyptian Arabic Audio": "eca-0616-1.mp3",
 			"Standard Arabic Audio": "msa-0616-1.mp3"
 		},
@@ -18,7 +18,7 @@
 			"English": "It is hard to understand.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "فمن الصعب أن نفهم.",
 			"Egyptian Arabic Audio": "eca-0616-2.mp3",
 			"Standard Arabic Audio": "msa-0616-2.mp3"
 		},
@@ -27,7 +27,7 @@
 			"English": "The words are very advanced.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "الكلمات متقدمة جدا.",
 			"Egyptian Arabic Audio": "eca-0616-3.mp3",
 			"Standard Arabic Audio": "msa-0616-3.mp3"
 		},
@@ -36,7 +36,7 @@
 			"English": "She does not know what they mean.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انها لا تعرف ما تعنيه.",
 			"Egyptian Arabic Audio": "eca-0616-4.mp3",
 			"Standard Arabic Audio": "msa-0616-4.mp3"
 		},
@@ -45,7 +45,7 @@
 			"English": "She gets a dictionary.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وقالت انها تحصل على القاموس.",
 			"Egyptian Arabic Audio": "eca-0616-5.mp3",
 			"Standard Arabic Audio": "msa-0616-5.mp3"
 		},
@@ -54,7 +54,7 @@
 			"English": "She wants to know what \"facile\" means.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "إنها تريد أن تعرف ما يعني &quot;فاسيل&quot;.",
 			"Egyptian Arabic Audio": "eca-0616-6.mp3",
 			"Standard Arabic Audio": "msa-0616-6.mp3"
 		},
@@ -63,7 +63,7 @@
 			"English": "She finds the word.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "إنها تجد الكلمة.",
 			"Egyptian Arabic Audio": "eca-0616-7.mp3",
 			"Standard Arabic Audio": "msa-0616-7.mp3"
 		},
@@ -72,7 +72,7 @@
 			"English": "It means \"too simple.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وهذا يعني &quot;بسيط جدا.",
 			"Egyptian Arabic Audio": "eca-0616-8.mp3",
 			"Standard Arabic Audio": "msa-0616-8.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "\" She looks up other difficult words.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "&quot;إنها تبحث عن الكلمات الصعبة الأخرى.",
 			"Egyptian Arabic Audio": "eca-0616-9.mp3",
 			"Standard Arabic Audio": "msa-0616-9.mp3"
 		},
@@ -90,7 +90,7 @@
 			"English": "She rereads the book.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وهي تعيد قراءة الكتاب.",
 			"Egyptian Arabic Audio": "eca-0616-10.mp3",
 			"Standard Arabic Audio": "msa-0616-10.mp3"
 		},
@@ -99,7 +99,7 @@
 			"English": "She understands it better.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انها تفهم ذلك بشكل أفضل.",
 			"Egyptian Arabic Audio": "eca-0616-11.mp3",
 			"Standard Arabic Audio": "msa-0616-11.mp3"
 		}

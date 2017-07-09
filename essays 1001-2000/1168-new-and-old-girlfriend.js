@@ -9,7 +9,7 @@
 			"English": "Ben has a new girlfriend.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "بن لديه صديقة جديدة.",
 			"Egyptian Arabic Audio": "eca-1168-1.mp3",
 			"Standard Arabic Audio": "msa-1168-1.mp3"
 		},
@@ -18,7 +18,7 @@
 			"English": "Her name is Holly.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "اسمها هو هولي.",
 			"Egyptian Arabic Audio": "eca-1168-2.mp3",
 			"Standard Arabic Audio": "msa-1168-2.mp3"
 		},
@@ -27,7 +27,7 @@
 			"English": "Holly is shy.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هولي خجولة.",
 			"Egyptian Arabic Audio": "eca-1168-3.mp3",
 			"Standard Arabic Audio": "msa-1168-3.mp3"
 		},
@@ -36,7 +36,7 @@
 			"English": "She likes to read.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "إنها تحب القراءة.",
 			"Egyptian Arabic Audio": "eca-1168-4.mp3",
 			"Standard Arabic Audio": "msa-1168-4.mp3"
 		},
@@ -45,7 +45,7 @@
 			"English": "She has red hair.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لديها شعر احمر اللون.",
 			"Egyptian Arabic Audio": "eca-1168-5.mp3",
 			"Standard Arabic Audio": "msa-1168-5.mp3"
 		},
@@ -54,7 +54,7 @@
 			"English": "She has thick glasses.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لديها نظارات سميكة.",
 			"Egyptian Arabic Audio": "eca-1168-6.mp3",
 			"Standard Arabic Audio": "msa-1168-6.mp3"
 		},
@@ -63,7 +63,7 @@
 			"English": "She is kind.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هي لطيفة.",
 			"Egyptian Arabic Audio": "eca-1168-7.mp3",
 			"Standard Arabic Audio": "msa-1168-7.mp3"
 		},
@@ -72,7 +72,7 @@
 			"English": "She loves her family.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "تحب عائلتها.",
 			"Egyptian Arabic Audio": "eca-1168-8.mp3",
 			"Standard Arabic Audio": "msa-1168-8.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "She has a fat cat.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لديها القط الدهون.",
 			"Egyptian Arabic Audio": "eca-1168-9.mp3",
 			"Standard Arabic Audio": "msa-1168-9.mp3"
 		},
@@ -90,7 +90,7 @@
 			"English": "She is very different from Ben's old girlfriend Marianne.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انها مختلفة جدا عن صديقته القديمة ماري ماريان.",
 			"Egyptian Arabic Audio": "eca-1168-10.mp3",
 			"Standard Arabic Audio": "msa-1168-10.mp3"
 		},
@@ -99,7 +99,7 @@
 			"English": "Marianne is loud.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ماريان بصوت عال.",
 			"Egyptian Arabic Audio": "eca-1168-11.mp3",
 			"Standard Arabic Audio": "msa-1168-11.mp3"
 		},
@@ -108,7 +108,7 @@
 			"English": "She likes to watch TV.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "تحب مشاهدة التلفزيون.",
 			"Egyptian Arabic Audio": "eca-1168-12.mp3",
 			"Standard Arabic Audio": "msa-1168-12.mp3"
 		},
@@ -117,7 +117,7 @@
 			"English": "She burps in public.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انها تجشؤ في الأماكن العامة.",
 			"Egyptian Arabic Audio": "eca-1168-13.mp3",
 			"Standard Arabic Audio": "msa-1168-13.mp3"
 		},
@@ -126,7 +126,7 @@
 			"English": "She is mean sometimes.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وهي تعني أحيانا.",
 			"Egyptian Arabic Audio": "eca-1168-14.mp3",
 			"Standard Arabic Audio": "msa-1168-14.mp3"
 		},
@@ -135,7 +135,7 @@
 			"English": "She has a lot of money.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لديها الكثير من المال.",
 			"Egyptian Arabic Audio": "eca-1168-15.mp3",
 			"Standard Arabic Audio": "msa-1168-15.mp3"
 		},
@@ -144,7 +144,7 @@
 			"English": "Ben used to love Marianne.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "بن كان يحب ماريان.",
 			"Egyptian Arabic Audio": "eca-1168-16.mp3",
 			"Standard Arabic Audio": "msa-1168-16.mp3"
 		},
@@ -153,7 +153,7 @@
 			"English": "She was cool at first.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كانت باردة في البداية.",
 			"Egyptian Arabic Audio": "eca-1168-17.mp3",
 			"Standard Arabic Audio": "msa-1168-17.mp3"
 		},
@@ -162,7 +162,7 @@
 			"English": "Ben found out that she was not good for him.",
 			"Word Count": 10,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وجدت بن أنها لم تكن جيدة بالنسبة له.",
 			"Egyptian Arabic Audio": "eca-1168-18.mp3",
 			"Standard Arabic Audio": "msa-1168-18.mp3"
 		},
@@ -171,7 +171,7 @@
 			"English": "Holly is better for him.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هولي هو أفضل بالنسبة له.",
 			"Egyptian Arabic Audio": "eca-1168-19.mp3",
 			"Standard Arabic Audio": "msa-1168-19.mp3"
 		},
@@ -180,7 +180,7 @@
 			"English": "He can imagine marrying Holly someday.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يمكن أن يتصور الزواج هولي يوما ما.",
 			"Egyptian Arabic Audio": "eca-1168-20.mp3",
 			"Standard Arabic Audio": "msa-1168-20.mp3"
 		}

@@ -9,7 +9,7 @@
 			"English": "Some boys would try to walk Elizabeth home.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "بعض الفتيان سوف يحاولون السير اليزابيث المنزل.",
 			"Egyptian Arabic Audio": "eca-0771-1.mp3",
 			"Standard Arabic Audio": "msa-0771-1.mp3"
 		},
@@ -18,7 +18,7 @@
 			"English": "Mr Williams made sure this didn't happen.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وأكد السيد وليامز أن هذا لم يحدث.",
 			"Egyptian Arabic Audio": "eca-0771-2.mp3",
 			"Standard Arabic Audio": "msa-0771-2.mp3"
 		},
@@ -27,7 +27,7 @@
 			"English": "He parked right in front of her school every day.",
 			"Word Count": 10,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كان متوقفا أمام المدرسة مباشرة كل يوم.",
 			"Egyptian Arabic Audio": "eca-0771-3.mp3",
 			"Standard Arabic Audio": "msa-0771-3.mp3"
 		},
@@ -36,7 +36,7 @@
 			"English": "He brought his two dogs with him each time.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "جلب كلابه معه في كل مرة.",
 			"Egyptian Arabic Audio": "eca-0771-4.mp3",
 			"Standard Arabic Audio": "msa-0771-4.mp3"
 		},
@@ -45,7 +45,7 @@
 			"English": "Elizabeth was single for a very long time.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كانت إليزابيث واحدة لفترة طويلة جدا.",
 			"Egyptian Arabic Audio": "eca-0771-5.mp3",
 			"Standard Arabic Audio": "msa-0771-5.mp3"
 		}

@@ -9,7 +9,7 @@
 			"English": "Tracy looked at the flag.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "نظرت تريسي في العلم.",
 			"Egyptian Arabic Audio": "eca-1201-1.mp3",
 			"Standard Arabic Audio": "msa-1201-1.mp3"
 		},
@@ -18,7 +18,7 @@
 			"English": "The flag is red, white, and blue.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "العلم الأحمر والأبيض والأزرق.",
 			"Egyptian Arabic Audio": "eca-1201-2.mp3",
 			"Standard Arabic Audio": "msa-1201-2.mp3"
 		},
@@ -27,7 +27,7 @@
 			"English": "It has 50 white stars.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لديها 50 النجوم البيضاء.",
 			"Egyptian Arabic Audio": "eca-1201-3.mp3",
 			"Standard Arabic Audio": "msa-1201-3.mp3"
 		},
@@ -36,7 +36,7 @@
 			"English": "The white stars are on a blue square.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "النجوم البيضاء على ساحة زرقاء.",
 			"Egyptian Arabic Audio": "eca-1201-4.mp3",
 			"Standard Arabic Audio": "msa-1201-4.mp3"
 		},
@@ -45,7 +45,7 @@
 			"English": "The flag has six white stripes.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "العلم لديه ستة خطوط بيضاء.",
 			"Egyptian Arabic Audio": "eca-1201-5.mp3",
 			"Standard Arabic Audio": "msa-1201-5.mp3"
 		},
@@ -54,7 +54,7 @@
 			"English": "It has seven red stripes.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لديها سبعة خطوط حمراء.",
 			"Egyptian Arabic Audio": "eca-1201-6.mp3",
 			"Standard Arabic Audio": "msa-1201-6.mp3"
 		},
@@ -63,7 +63,7 @@
 			"English": "All the stripes are horizontal.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "جميع المشارب الأفقية.",
 			"Egyptian Arabic Audio": "eca-1201-7.mp3",
 			"Standard Arabic Audio": "msa-1201-7.mp3"
 		},
@@ -72,7 +72,7 @@
 			"English": "They are not vertical.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "فهي ليست عمودية.",
 			"Egyptian Arabic Audio": "eca-1201-8.mp3",
 			"Standard Arabic Audio": "msa-1201-8.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "The stripes do not go up and down.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "المشارب لا تذهب صعودا وهبوطا.",
 			"Egyptian Arabic Audio": "eca-1201-9.mp3",
 			"Standard Arabic Audio": "msa-1201-9.mp3"
 		},
@@ -90,7 +90,7 @@
 			"English": "They go from left to right.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يذهبون من اليسار إلى اليمين.",
 			"Egyptian Arabic Audio": "eca-1201-10.mp3",
 			"Standard Arabic Audio": "msa-1201-10.mp3"
 		},
@@ -99,7 +99,7 @@
 			"English": "Tracy loves her flag.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "تريسي يحب علمها.",
 			"Egyptian Arabic Audio": "eca-1201-11.mp3",
 			"Standard Arabic Audio": "msa-1201-11.mp3"
 		},
@@ -108,7 +108,7 @@
 			"English": "It is the flag of her country.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "إنها علم بلدها.",
 			"Egyptian Arabic Audio": "eca-1201-12.mp3",
 			"Standard Arabic Audio": "msa-1201-12.mp3"
 		},
@@ -117,7 +117,7 @@
 			"English": "It is a pretty flag.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "إنه علم جميل.",
 			"Egyptian Arabic Audio": "eca-1201-13.mp3",
 			"Standard Arabic Audio": "msa-1201-13.mp3"
 		},
@@ -126,7 +126,7 @@
 			"English": "No other flag has 50 stars.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لا علم آخر لديه 50 النجوم.",
 			"Egyptian Arabic Audio": "eca-1201-14.mp3",
 			"Standard Arabic Audio": "msa-1201-14.mp3"
 		},
@@ -135,7 +135,7 @@
 			"English": "No other flag has 13 stripes.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لا علم آخر لديه 13 المشارب.",
 			"Egyptian Arabic Audio": "eca-1201-15.mp3",
 			"Standard Arabic Audio": "msa-1201-15.mp3"
 		}

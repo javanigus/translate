@@ -9,7 +9,7 @@
 			"English": "Michelle was starting high school.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كانت ميشيل تبدأ المدرسة الثانوية.",
 			"Egyptian Arabic Audio": "eca-0259-1.mp3",
 			"Standard Arabic Audio": "msa-0259-1.mp3"
 		},
@@ -18,7 +18,7 @@
 			"English": "It was her first day of school.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كان أول يوم لها في المدرسة.",
 			"Egyptian Arabic Audio": "eca-0259-2.mp3",
 			"Standard Arabic Audio": "msa-0259-2.mp3"
 		},
@@ -27,7 +27,7 @@
 			"English": "She was so nervous.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كانت متوترة جدا.",
 			"Egyptian Arabic Audio": "eca-0259-3.mp3",
 			"Standard Arabic Audio": "msa-0259-3.mp3"
 		},
@@ -36,7 +36,7 @@
 			"English": "She knew it was going to be different from middle school.",
 			"Word Count": 11,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كانت تعرف أنها ستكون مختلفة عن المدرسة المتوسطة.",
 			"Egyptian Arabic Audio": "eca-0259-4.mp3",
 			"Standard Arabic Audio": "msa-0259-4.mp3"
 		},
@@ -45,7 +45,7 @@
 			"English": "All her friends were going to different high schools.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كان جميع أصدقائها يذهبون إلى مدارس ثانوية مختلفة.",
 			"Egyptian Arabic Audio": "eca-0259-5.mp3",
 			"Standard Arabic Audio": "msa-0259-5.mp3"
 		},
@@ -54,7 +54,7 @@
 			"English": "She missed them a lot.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وقالت انها غاب عنها الكثير.",
 			"Egyptian Arabic Audio": "eca-0259-6.mp3",
 			"Standard Arabic Audio": "msa-0259-6.mp3"
 		},
@@ -63,7 +63,7 @@
 			"English": "She hoped she would be able to make new friends.",
 			"Word Count": 10,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وأعربت عن أملها في أن تكون قادرة على تكوين صداقات جديدة.",
 			"Egyptian Arabic Audio": "eca-0259-7.mp3",
 			"Standard Arabic Audio": "msa-0259-7.mp3"
 		},
@@ -72,7 +72,7 @@
 			"English": "She was also scared she would get lost.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كانت خائفة أيضا أنها سوف تضيع.",
 			"Egyptian Arabic Audio": "eca-0259-8.mp3",
 			"Standard Arabic Audio": "msa-0259-8.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "On her first day she got her schedule.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "في اليوم الأول لها حصلت على الجدول الزمني لها.",
 			"Egyptian Arabic Audio": "eca-0259-9.mp3",
 			"Standard Arabic Audio": "msa-0259-9.mp3"
 		},
@@ -90,7 +90,7 @@
 			"English": "She had math, English, biology, Spanish, and physical education.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كان لديها الرياضيات، الإنجليزية، علم الأحياء، الإسبانية، والتربية البدنية.",
 			"Egyptian Arabic Audio": "eca-0259-10.mp3",
 			"Standard Arabic Audio": "msa-0259-10.mp3"
 		},
@@ -99,7 +99,7 @@
 			"English": "Her first class was math.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وكانت الدرجة الأولى لها الرياضيات.",
 			"Egyptian Arabic Audio": "eca-0259-11.mp3",
 			"Standard Arabic Audio": "msa-0259-11.mp3"
 		},
@@ -108,7 +108,7 @@
 			"English": "She went in.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ذهبت في.",
 			"Egyptian Arabic Audio": "eca-0259-12.mp3",
 			"Standard Arabic Audio": "msa-0259-12.mp3"
 		},
@@ -117,7 +117,7 @@
 			"English": "She was nervous.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كانت متوترة.",
 			"Egyptian Arabic Audio": "eca-0259-13.mp3",
 			"Standard Arabic Audio": "msa-0259-13.mp3"
 		},
@@ -126,7 +126,7 @@
 			"English": "The teacher had everyone introduce themselves.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "المعلم كان الجميع يقدمون أنفسهم.",
 			"Egyptian Arabic Audio": "eca-0259-14.mp3",
 			"Standard Arabic Audio": "msa-0259-14.mp3"
 		},
@@ -135,7 +135,7 @@
 			"English": "Michelle heard a lot of interesting people introduce themselves.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "سمعت ميشيل الكثير من الناس للاهتمام تقديم أنفسهم.",
 			"Egyptian Arabic Audio": "eca-0259-15.mp3",
 			"Standard Arabic Audio": "msa-0259-15.mp3"
 		},
@@ -144,7 +144,7 @@
 			"English": "She knew this was going to be a good year.",
 			"Word Count": 10,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كانت تعرف أن هذا سيكون عاما جيدا.",
 			"Egyptian Arabic Audio": "eca-0259-16.mp3",
 			"Standard Arabic Audio": "msa-0259-16.mp3"
 		}

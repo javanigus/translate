@@ -11,7 +11,7 @@
 			"English": "I need to speak with the manager, please.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنا بحاجة إلى التحدث مع مدير، من فضلك.",
 			"Egyptian Arabic Audio": "eca-1123-1.mp3",
 			"Standard Arabic Audio": "msa-1123-1.mp3"
 		},
@@ -21,7 +21,7 @@
 			"English": "Yes, this is the manager. How may I help you this morning?",
 			"Word Count": 12,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "نعم، هذا هو المدير. كيف يمكنني مساعدتك هذا الصباح؟",
 			"Egyptian Arabic Audio": "eca-1123-2.mp3",
 			"Standard Arabic Audio": "msa-1123-2.mp3"
 		},
@@ -31,7 +31,7 @@
 			"English": "We are having problems getting into our apartment.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "نحن نواجه مشاكل في الدخول إلى شقتنا.",
 			"Egyptian Arabic Audio": "eca-1123-3.mp3",
 			"Standard Arabic Audio": "msa-1123-3.mp3"
 		},
@@ -41,7 +41,7 @@
 			"English": "Is this the first time that you have tried this key since I gave it to  \tyou?",
 			"Word Count": 17,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هل هذه هي المرة الأولى التي حاولت هذا المفتاح منذ أعطيته لك؟",
 			"Egyptian Arabic Audio": "eca-1123-4.mp3",
 			"Standard Arabic Audio": "msa-1123-4.mp3"
 		},
@@ -51,7 +51,7 @@
 			"English": "Yes, this is the first time that we have tried this key.",
 			"Word Count": 12,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "نعم، هذه هي المرة الأولى التي حاولنا هذا المفتاح.",
 			"Egyptian Arabic Audio": "eca-1123-5.mp3",
 			"Standard Arabic Audio": "msa-1123-5.mp3"
 		},
@@ -61,7 +61,7 @@
 			"English": "Does the key go into the lock okay?",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هل المفتاح يذهب إلى قفل بخير؟",
 			"Egyptian Arabic Audio": "eca-1123-6.mp3",
 			"Standard Arabic Audio": "msa-1123-6.mp3"
 		},
@@ -71,7 +71,7 @@
 			"English": "It fits in the lock just fine.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "تناسبها في قفل على ما يرام.",
 			"Egyptian Arabic Audio": "eca-1123-7.mp3",
 			"Standard Arabic Audio": "msa-1123-7.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "Let's try it one more time. Just try to gently slide the key in the  \tdeadbolt and turn it to the right.",
 			"Word Count": 22,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "دعونا نحاول مرة أخرى. مجرد محاولة لرفق بلطف المفتاح في ديادبولت وتحويله إلى اليمين.",
 			"Egyptian Arabic Audio": "eca-1123-8.mp3",
 			"Standard Arabic Audio": "msa-1123-8.mp3"
 		},
@@ -91,7 +91,7 @@
 			"English": "It still doesn't work.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لا يزال لا يعمل.",
 			"Egyptian Arabic Audio": "eca-1123-9.mp3",
 			"Standard Arabic Audio": "msa-1123-9.mp3"
 		},
@@ -101,7 +101,7 @@
 			"English": "I will come up to help you right away. I'll bring another key to try.",
 			"Word Count": 15,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "سوف أخرج لمساعدتك على الفور. سأحضر مفتاح آخر لمحاولة.",
 			"Egyptian Arabic Audio": "eca-1123-10.mp3",
 			"Standard Arabic Audio": "msa-1123-10.mp3"
 		},
@@ -111,7 +111,7 @@
 			"English": "I need to speak with the manager right away.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنا بحاجة إلى التحدث مع المدير على الفور.",
 			"Egyptian Arabic Audio": "eca-1123-11.mp3",
 			"Standard Arabic Audio": "msa-1123-11.mp3"
 		},
@@ -121,7 +121,7 @@
 			"English": "The manager is not here right now. May I take a message?",
 			"Word Count": 12,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "المدير ليس هنا الآن. هل لي أن أتلقى رسالة؟",
 			"Egyptian Arabic Audio": "eca-1123-12.mp3",
 			"Standard Arabic Audio": "msa-1123-12.mp3"
 		},
@@ -131,7 +131,7 @@
 			"English": "Our key doesn't seem to be working in our lock.",
 			"Word Count": 10,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لا يبدو أن مفتاحنا يعمل في قفلنا.",
 			"Egyptian Arabic Audio": "eca-1123-13.mp3",
 			"Standard Arabic Audio": "msa-1123-13.mp3"
 		},
@@ -141,7 +141,7 @@
 			"English": "How many times have you used this key in the lock?",
 			"Word Count": 11,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كم عدد المرات التي استخدمت هذا المفتاح في القفل؟",
 			"Egyptian Arabic Audio": "eca-1123-14.mp3",
 			"Standard Arabic Audio": "msa-1123-14.mp3"
 		},
@@ -151,7 +151,7 @@
 			"English": "We have already used this key successfully before.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لقد استخدمنا هذا المفتاح بنجاح من قبل.",
 			"Egyptian Arabic Audio": "eca-1123-15.mp3",
 			"Standard Arabic Audio": "msa-1123-15.mp3"
 		},
@@ -161,7 +161,7 @@
 			"English": "Does the key fit in the lock?",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هل المفتاح المناسب في القفل؟",
 			"Egyptian Arabic Audio": "eca-1123-16.mp3",
 			"Standard Arabic Audio": "msa-1123-16.mp3"
 		},
@@ -171,7 +171,7 @@
 			"English": "It is really hard to get it into the lock, but it does go in.",
 			"Word Count": 15,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "فمن الصعب حقا الحصول عليه في القفل، لكنه لا يذهب في.",
 			"Egyptian Arabic Audio": "eca-1123-17.mp3",
 			"Standard Arabic Audio": "msa-1123-17.mp3"
 		},
@@ -181,7 +181,7 @@
 			"English": "Make sure you are on the top lock. Put the key in and try turning it to  \tthe right.",
 			"Word Count": 19,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "تأكد من أنك على القفل العلوي. وضع المفتاح في ومحاولة تحويله إلى اليمين.",
 			"Egyptian Arabic Audio": "eca-1123-18.mp3",
 			"Standard Arabic Audio": "msa-1123-18.mp3"
 		},
@@ -191,7 +191,7 @@
 			"English": "I can't get it to work.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لا أستطيع الحصول عليه للعمل.",
 			"Egyptian Arabic Audio": "eca-1123-19.mp3",
 			"Standard Arabic Audio": "msa-1123-19.mp3"
 		},
@@ -201,7 +201,7 @@
 			"English": "Could you return to the manager's office? I have another key that I would  \tlike you to try.",
 			"Word Count": 18,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هل يمكن أن تعود إلى مكتب المدير؟ لدي مفتاح آخر أود منك أن تجربه.",
 			"Egyptian Arabic Audio": "eca-1123-20.mp3",
 			"Standard Arabic Audio": "msa-1123-20.mp3"
 		},
@@ -211,7 +211,7 @@
 			"English": "Good morning. Could I speak with the manager, please?",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "صباح الخير. هل يمكنني التحدث مع المدير، من فضلك؟",
 			"Egyptian Arabic Audio": "eca-1123-21.mp3",
 			"Standard Arabic Audio": "msa-1123-21.mp3"
 		},
@@ -221,7 +221,7 @@
 			"English": "I am the assistant manager. Is there something I can help you with?",
 			"Word Count": 13,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنا مساعد المدير. هل هناك شيء يمكنني مساعدتك؟",
 			"Egyptian Arabic Audio": "eca-1123-22.mp3",
 			"Standard Arabic Audio": "msa-1123-22.mp3"
 		},
@@ -231,7 +231,7 @@
 			"English": "The key you gave us to our apartment doesn't seem to be working.",
 			"Word Count": 13,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يبدو أن المفتاح الذي قدمته لنا لشقتنا يعمل.",
 			"Egyptian Arabic Audio": "eca-1123-23.mp3",
 			"Standard Arabic Audio": "msa-1123-23.mp3"
 		},
@@ -241,7 +241,7 @@
 			"English": "Did this key work okay for you before?",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هل عمل هذا المفتاح جيدا بالنسبة لك من قبل؟",
 			"Egyptian Arabic Audio": "eca-1123-24.mp3",
 			"Standard Arabic Audio": "msa-1123-24.mp3"
 		},
@@ -251,7 +251,7 @@
 			"English": "We were using my roommate's key before and never really tried this one.",
 			"Word Count": 13,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كنا نستخدم مفتاح رفيقي قبل ولم نحاول حقا هذا واحد.",
 			"Egyptian Arabic Audio": "eca-1123-25.mp3",
 			"Standard Arabic Audio": "msa-1123-25.mp3"
 		},
@@ -261,7 +261,7 @@
 			"English": "Does the key seem to belong in that lock?",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هل يبدو أن المفتاح ينتمي إلى هذا القفل؟",
 			"Egyptian Arabic Audio": "eca-1123-26.mp3",
 			"Standard Arabic Audio": "msa-1123-26.mp3"
 		},
@@ -271,7 +271,7 @@
 			"English": "It doesn't really fit at all.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنها لا تناسب حقا على الإطلاق.",
 			"Egyptian Arabic Audio": "eca-1123-27.mp3",
 			"Standard Arabic Audio": "msa-1123-27.mp3"
 		},
@@ -281,7 +281,7 @@
 			"English": "Try putting your key in the top lock one more time and turn it to the  \tright.",
 			"Word Count": 17,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "حاول وضع المفتاح الخاص بك في أعلى قفل مرة أخرى وتحويله إلى اليمين.",
 			"Egyptian Arabic Audio": "eca-1123-28.mp3",
 			"Standard Arabic Audio": "msa-1123-28.mp3"
 		},
@@ -291,7 +291,7 @@
 			"English": "It works now, but it didn't work before.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وهو يعمل الآن، لكنه لم يعمل من قبل.",
 			"Egyptian Arabic Audio": "eca-1123-29.mp3",
 			"Standard Arabic Audio": "msa-1123-29.mp3"
 		},
@@ -301,7 +301,7 @@
 			"English": "We have been having trouble with that lock. I will call a locksmith right  \taway.",
 			"Word Count": 15,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لقد واجهنا مشكلة في هذا القفل. سأدعو الأقفال على الفور.",
 			"Egyptian Arabic Audio": "eca-1123-30.mp3",
 			"Standard Arabic Audio": "msa-1123-30.mp3"
 		}

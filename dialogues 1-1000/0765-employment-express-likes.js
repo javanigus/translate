@@ -11,7 +11,7 @@
 			"English": "Hello, my name is George. What's your name?",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "مرحبا اسمي جورج. ما اسمك؟",
 			"Egyptian Arabic Audio": "eca-0765-1.mp3",
 			"Standard Arabic Audio": "msa-0765-1.mp3"
 		},
@@ -21,7 +21,7 @@
 			"English": "Hi George, I'm Christine. Nice to meet you.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "مرحبا جورج، أنا كريستين. تشرفت بمقابلتك.",
 			"Egyptian Arabic Audio": "eca-0765-2.mp3",
 			"Standard Arabic Audio": "msa-0765-2.mp3"
 		},
@@ -31,7 +31,7 @@
 			"English": "Hi Christine. Have you worked here long?",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "مرحبا كريستين. هل عملت هنا طويلا؟",
 			"Egyptian Arabic Audio": "eca-0765-3.mp3",
 			"Standard Arabic Audio": "msa-0765-3.mp3"
 		},
@@ -41,7 +41,7 @@
 			"English": "Almost two years now, and you?",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ما يقرب من عامين الآن، وأنت؟",
 			"Egyptian Arabic Audio": "eca-0765-4.mp3",
 			"Standard Arabic Audio": "msa-0765-4.mp3"
 		},
@@ -51,7 +51,7 @@
 			"English": "This is my first week. I really like it so far.",
 			"Word Count": 11,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هذا هو الأسبوع الأول. أنا حقا أحب ذلك حتى الآن.",
 			"Egyptian Arabic Audio": "eca-0765-5.mp3",
 			"Standard Arabic Audio": "msa-0765-5.mp3"
 		},
@@ -61,7 +61,7 @@
 			"English": "Yes, it's a good place to work.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "نعم، انها مكان جيد للعمل.",
 			"Egyptian Arabic Audio": "eca-0765-6.mp3",
 			"Standard Arabic Audio": "msa-0765-6.mp3"
 		},
@@ -71,7 +71,7 @@
 			"English": "I like how it seems so organized.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنا أحب كيف يبدو تنظيما لذلك.",
 			"Egyptian Arabic Audio": "eca-0765-7.mp3",
 			"Standard Arabic Audio": "msa-0765-7.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "That's one of the things I like best, too.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هذا واحد من الأشياء أحب أفضل أيضا.",
 			"Egyptian Arabic Audio": "eca-0765-8.mp3",
 			"Standard Arabic Audio": "msa-0765-8.mp3"
 		},
@@ -91,7 +91,7 @@
 			"English": "The benefits aren't bad, either.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "الفوائد ليست سيئة، سواء.",
 			"Egyptian Arabic Audio": "eca-0765-9.mp3",
 			"Standard Arabic Audio": "msa-0765-9.mp3"
 		},
@@ -101,7 +101,7 @@
 			"English": "No, they're not. I especially like the health plan.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لا، ليسوا كذلك. أنا خصوصا مثل الخطة الصحية.",
 			"Egyptian Arabic Audio": "eca-0765-10.mp3",
 			"Standard Arabic Audio": "msa-0765-10.mp3"
 		},
@@ -111,7 +111,7 @@
 			"English": "That's great. I'll be eligible in July for that.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ذلك رائع. سأكون مؤهلا في تموز (يوليو) لذلك.",
 			"Egyptian Arabic Audio": "eca-0765-11.mp3",
 			"Standard Arabic Audio": "msa-0765-11.mp3"
 		},
@@ -121,7 +121,7 @@
 			"English": "You're going to like it here. This is the best place I've worked.",
 			"Word Count": 13,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنت ذاهب لمثل ذلك هنا. هذا هو أفضل مكان لقد عملت.",
 			"Egyptian Arabic Audio": "eca-0765-12.mp3",
 			"Standard Arabic Audio": "msa-0765-12.mp3"
 		}

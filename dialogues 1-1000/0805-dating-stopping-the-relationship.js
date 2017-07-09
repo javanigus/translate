@@ -11,7 +11,7 @@
 			"English": "We need to talk.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يجب أن نتكلم.",
 			"Egyptian Arabic Audio": "eca-0805-1.mp3",
 			"Standard Arabic Audio": "msa-0805-1.mp3"
 		},
@@ -21,7 +21,7 @@
 			"English": "Uh oh! It sounds like you are going to break up with me or are pregnant.",
 			"Word Count": 16,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أه أوه! يبدو أنك سوف تتفكك معي أو تكون حاملا.",
 			"Egyptian Arabic Audio": "eca-0805-2.mp3",
 			"Standard Arabic Audio": "msa-0805-2.mp3"
 		},
@@ -31,7 +31,7 @@
 			"English": "Funny you should mention that.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "مضحك يجب أن نذكر ذلك.",
 			"Egyptian Arabic Audio": "eca-0805-3.mp3",
 			"Standard Arabic Audio": "msa-0805-3.mp3"
 		},
@@ -41,7 +41,7 @@
 			"English": "Wait! You are pregnant?",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انتظر! انت حامل؟",
 			"Egyptian Arabic Audio": "eca-0805-4.mp3",
 			"Standard Arabic Audio": "msa-0805-4.mp3"
 		},
@@ -51,7 +51,7 @@
 			"English": "No dummy. I think we need to take a break.",
 			"Word Count": 10,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لا دمية. أعتقد أننا بحاجة إلى أخذ قسط من الراحة.",
 			"Egyptian Arabic Audio": "eca-0805-5.mp3",
 			"Standard Arabic Audio": "msa-0805-5.mp3"
 		},
@@ -61,7 +61,7 @@
 			"English": "A break from what?",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كسر من ماذا؟",
 			"Egyptian Arabic Audio": "eca-0805-6.mp3",
 			"Standard Arabic Audio": "msa-0805-6.mp3"
 		},
@@ -71,7 +71,7 @@
 			"English": "A break from seeing each other.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "استراحة من رؤية بعضهم البعض.",
 			"Egyptian Arabic Audio": "eca-0805-7.mp3",
 			"Standard Arabic Audio": "msa-0805-7.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "So, are you breaking up with me?",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لذلك، هل تفكك معي؟",
 			"Egyptian Arabic Audio": "eca-0805-8.mp3",
 			"Standard Arabic Audio": "msa-0805-8.mp3"
 		},
@@ -91,7 +91,7 @@
 			"English": "Yeah, I'm sorry. This just isn't working out.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "نعم، أنا آسف. هذا فقط لا يعمل بها.",
 			"Egyptian Arabic Audio": "eca-0805-9.mp3",
 			"Standard Arabic Audio": "msa-0805-9.mp3"
 		},
@@ -101,7 +101,7 @@
 			"English": "Are you going to give me the \"it's not you\"?",
 			"Word Count": 10,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنت ذاهب لتعطيني &quot;انها ليست لك&quot;؟",
 			"Egyptian Arabic Audio": "eca-0805-10.mp3",
 			"Standard Arabic Audio": "msa-0805-10.mp3"
 		},
@@ -111,7 +111,7 @@
 			"English": "No, because it actually is you.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لا، لأنه في الواقع أنت.",
 			"Egyptian Arabic Audio": "eca-0805-11.mp3",
 			"Standard Arabic Audio": "msa-0805-11.mp3"
 		},
@@ -121,7 +121,7 @@
 			"English": "At least you're honest.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "على الأقل كنت صادق.",
 			"Egyptian Arabic Audio": "eca-0805-12.mp3",
 			"Standard Arabic Audio": "msa-0805-12.mp3"
 		}

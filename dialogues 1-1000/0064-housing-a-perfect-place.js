@@ -11,7 +11,7 @@
 			"English": "My apartment is too far from work.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "شقتي بعيدة جدا عن العمل.",
 			"Egyptian Arabic Audio": "eca-0064-1.mp3",
 			"Standard Arabic Audio": "msa-0064-1.mp3"
 		},
@@ -21,7 +21,7 @@
 			"English": "Have you considered moving?",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هل نظرت في التحرك؟",
 			"Egyptian Arabic Audio": "eca-0064-2.mp3",
 			"Standard Arabic Audio": "msa-0064-2.mp3"
 		},
@@ -31,7 +31,7 @@
 			"English": "I've thought about it.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لقد فكرت في ذلك.",
 			"Egyptian Arabic Audio": "eca-0064-3.mp3",
 			"Standard Arabic Audio": "msa-0064-3.mp3"
 		},
@@ -41,7 +41,7 @@
 			"English": "Where would you move to?",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أين ستنتقل إلى؟",
 			"Egyptian Arabic Audio": "eca-0064-4.mp3",
 			"Standard Arabic Audio": "msa-0064-4.mp3"
 		},
@@ -51,7 +51,7 @@
 			"English": "I don't like the neighborhood around my job.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنا لا أحب الحي حول عملي.",
 			"Egyptian Arabic Audio": "eca-0064-5.mp3",
 			"Standard Arabic Audio": "msa-0064-5.mp3"
 		},
@@ -61,7 +61,7 @@
 			"English": "What about the next one over?",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ماذا عن المرحلة التالية؟",
 			"Egyptian Arabic Audio": "eca-0064-6.mp3",
 			"Standard Arabic Audio": "msa-0064-6.mp3"
 		},
@@ -71,7 +71,7 @@
 			"English": "Then I'd be too far from school.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ثم سأكون بعيدا جدا عن المدرسة.",
 			"Egyptian Arabic Audio": "eca-0064-7.mp3",
 			"Standard Arabic Audio": "msa-0064-7.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "There are some apartments in between the two.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هناك بعض الشقق بين الاثنين.",
 			"Egyptian Arabic Audio": "eca-0064-8.mp3",
 			"Standard Arabic Audio": "msa-0064-8.mp3"
 		},
@@ -91,7 +91,7 @@
 			"English": "I went to see them, but they were too small.",
 			"Word Count": 10,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ذهبت لرؤيتهم، لكنها كانت صغيرة جدا.",
 			"Egyptian Arabic Audio": "eca-0064-9.mp3",
 			"Standard Arabic Audio": "msa-0064-9.mp3"
 		},
@@ -101,7 +101,7 @@
 			"English": "Why don't you live in a townhouse?",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لماذا لا تعيش في تاون هاوس؟",
 			"Egyptian Arabic Audio": "eca-0064-10.mp3",
 			"Standard Arabic Audio": "msa-0064-10.mp3"
 		},
@@ -111,7 +111,7 @@
 			"English": "I suppose that would be a good idea.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أفترض أن هذه فكرة جيدة.",
 			"Egyptian Arabic Audio": "eca-0064-11.mp3",
 			"Standard Arabic Audio": "msa-0064-11.mp3"
 		},
@@ -121,7 +121,7 @@
 			"English": "Of course it's a good idea; it was my idea!",
 			"Word Count": 10,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "بالطبع انها فكرة جيدة. كانت فكرتي!",
 			"Egyptian Arabic Audio": "eca-0064-12.mp3",
 			"Standard Arabic Audio": "msa-0064-12.mp3"
 		}

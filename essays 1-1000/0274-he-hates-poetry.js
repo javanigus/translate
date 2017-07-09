@@ -9,7 +9,7 @@
 			"English": "Eric likes reading novels.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "إريك يحب قراءة الروايات.",
 			"Egyptian Arabic Audio": "eca-0274-1.mp3",
 			"Standard Arabic Audio": "msa-0274-1.mp3"
 		},
@@ -18,7 +18,7 @@
 			"English": "Eric likes reading magazines.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "إريك يحب قراءة المجلات.",
 			"Egyptian Arabic Audio": "eca-0274-2.mp3",
 			"Standard Arabic Audio": "msa-0274-2.mp3"
 		},
@@ -27,7 +27,7 @@
 			"English": "Eric even likes reading newspapers.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "إريك حتى يحب قراءة الصحف.",
 			"Egyptian Arabic Audio": "eca-0274-3.mp3",
 			"Standard Arabic Audio": "msa-0274-3.mp3"
 		},
@@ -36,7 +36,7 @@
 			"English": "But he hates reading poetry.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لكنه يكره قراءة الشعر.",
 			"Egyptian Arabic Audio": "eca-0274-4.mp3",
 			"Standard Arabic Audio": "msa-0274-4.mp3"
 		},
@@ -45,7 +45,7 @@
 			"English": "Poetry is confusing.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "الشعر مربك.",
 			"Egyptian Arabic Audio": "eca-0274-5.mp3",
 			"Standard Arabic Audio": "msa-0274-5.mp3"
 		},
@@ -54,7 +54,7 @@
 			"English": "Poetry is not clear.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "الشعر ليس واضحا.",
 			"Egyptian Arabic Audio": "eca-0274-6.mp3",
 			"Standard Arabic Audio": "msa-0274-6.mp3"
 		},
@@ -63,7 +63,7 @@
 			"English": "Eric does not like figuring things out for himself.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "إريك لا يحب معرفة الأشياء لنفسه.",
 			"Egyptian Arabic Audio": "eca-0274-7.mp3",
 			"Standard Arabic Audio": "msa-0274-7.mp3"
 		},
@@ -72,7 +72,7 @@
 			"English": "Poetry can be hard to read.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "الشعر يمكن أن يكون من الصعب قراءة.",
 			"Egyptian Arabic Audio": "eca-0274-8.mp3",
 			"Standard Arabic Audio": "msa-0274-8.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "Eric does not like reading Shakespeare's poetry.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "إريك لا يحب قراءة شعر شكسبير.",
 			"Egyptian Arabic Audio": "eca-0274-9.mp3",
 			"Standard Arabic Audio": "msa-0274-9.mp3"
 		},
@@ -90,7 +90,7 @@
 			"English": "He cannot understand it.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وقال انه لا يمكن فهم ذلك.",
 			"Egyptian Arabic Audio": "eca-0274-10.mp3",
 			"Standard Arabic Audio": "msa-0274-10.mp3"
 		},
@@ -99,7 +99,7 @@
 			"English": "He is okay with easy poetry.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انه بخير مع الشعر السهل.",
 			"Egyptian Arabic Audio": "eca-0274-11.mp3",
 			"Standard Arabic Audio": "msa-0274-11.mp3"
 		},
@@ -108,7 +108,7 @@
 			"English": "Eric is okay with Dr.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "إيريك على ما يرام مع د.",
 			"Egyptian Arabic Audio": "eca-0274-12.mp3",
 			"Standard Arabic Audio": "msa-0274-12.mp3"
 		},
@@ -117,7 +117,7 @@
 			"English": "Seuss' poems.",
 			"Word Count": 2,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "سيوس &quot;.",
 			"Egyptian Arabic Audio": "eca-0274-13.mp3",
 			"Standard Arabic Audio": "msa-0274-13.mp3"
 		},
@@ -126,7 +126,7 @@
 			"English": "They are easy to understand.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "فهي سهلة الفهم.",
 			"Egyptian Arabic Audio": "eca-0274-14.mp3",
 			"Standard Arabic Audio": "msa-0274-14.mp3"
 		},
@@ -135,7 +135,7 @@
 			"English": "Eric has to write his own poem for English class.",
 			"Word Count": 10,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "إريك أن يكتب قصيدته الخاصة للغة الإنجليزية.",
 			"Egyptian Arabic Audio": "eca-0274-15.mp3",
 			"Standard Arabic Audio": "msa-0274-15.mp3"
 		},
@@ -144,7 +144,7 @@
 			"English": "He tries to do a rhyming poem.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وهو يحاول أن يفعل قصيدة قافية.",
 			"Egyptian Arabic Audio": "eca-0274-16.mp3",
 			"Standard Arabic Audio": "msa-0274-16.mp3"
 		},
@@ -153,7 +153,7 @@
 			"English": "It was okay at first.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كان بخير في البداية.",
 			"Egyptian Arabic Audio": "eca-0274-17.mp3",
 			"Standard Arabic Audio": "msa-0274-17.mp3"
 		},
@@ -162,7 +162,7 @@
 			"English": "But then it got hard.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ولكن بعد ذلك حصلت بجد.",
 			"Egyptian Arabic Audio": "eca-0274-18.mp3",
 			"Standard Arabic Audio": "msa-0274-18.mp3"
 		},
@@ -171,7 +171,7 @@
 			"English": "He did not know what rhymes with \"orange.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وقال انه لا يعرف ما القوافي مع &quot;البرتقال.",
 			"Egyptian Arabic Audio": "eca-0274-19.mp3",
 			"Standard Arabic Audio": "msa-0274-19.mp3"
 		},
@@ -180,7 +180,7 @@
 			"English": "\" He started over.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "&quot;بدأ أكثر.",
 			"Egyptian Arabic Audio": "eca-0274-20.mp3",
 			"Standard Arabic Audio": "msa-0274-20.mp3"
 		}

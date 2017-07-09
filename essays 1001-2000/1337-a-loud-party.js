@@ -9,7 +9,7 @@
 			"English": "\"I'm calling the police,\" Barry said.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وقال باري &quot;اننى ادعو الشرطة&quot;.",
 			"Egyptian Arabic Audio": "eca-1337-1.mp3",
 			"Standard Arabic Audio": "msa-1337-1.mp3"
 		},
@@ -18,7 +18,7 @@
 			"English": "\"I'm glad you're calling the police,\" Ruth said.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وقال روث &quot;انا مسرور لانكم تتصلون بالشرطة&quot;.",
 			"Egyptian Arabic Audio": "eca-1337-2.mp3",
 			"Standard Arabic Audio": "msa-1337-2.mp3"
 		},
@@ -27,7 +27,7 @@
 			"English": "Barry and Ruth had a nice house.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كان باري و روث منزل جميل.",
 			"Egyptian Arabic Audio": "eca-1337-3.mp3",
 			"Standard Arabic Audio": "msa-1337-3.mp3"
 		},
@@ -36,7 +36,7 @@
 			"English": "They had a nice, quiet house.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كان لديهم لطيفة، منزل هادئ.",
 			"Egyptian Arabic Audio": "eca-1337-4.mp3",
 			"Standard Arabic Audio": "msa-1337-4.mp3"
 		},
@@ -45,7 +45,7 @@
 			"English": "They had nice neighbors.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كان لديهم جيران لطيفة.",
 			"Egyptian Arabic Audio": "eca-1337-5.mp3",
 			"Standard Arabic Audio": "msa-1337-5.mp3"
 		},
@@ -54,7 +54,7 @@
 			"English": "They had nice, quiet neighbors.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كان لديهم لطيفة، الجيران هادئة.",
 			"Egyptian Arabic Audio": "eca-1337-6.mp3",
 			"Standard Arabic Audio": "msa-1337-6.mp3"
 		},
@@ -63,7 +63,7 @@
 			"English": "But tonight, their neighbors were not quiet.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لكن هذه الليلة لم يكن جيرانهم هادئين.",
 			"Egyptian Arabic Audio": "eca-1337-7.mp3",
 			"Standard Arabic Audio": "msa-1337-7.mp3"
 		},
@@ -72,7 +72,7 @@
 			"English": "They were having a pool party.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كان لديهم حزب التجمع.",
 			"Egyptian Arabic Audio": "eca-1337-8.mp3",
 			"Standard Arabic Audio": "msa-1337-8.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "Everyone was drinking.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كان الجميع الشرب.",
 			"Egyptian Arabic Audio": "eca-1337-9.mp3",
 			"Standard Arabic Audio": "msa-1337-9.mp3"
 		},
@@ -90,7 +90,7 @@
 			"English": "Everyone was talking loud.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كان الجميع يتحدث بصوت عال.",
 			"Egyptian Arabic Audio": "eca-1337-10.mp3",
 			"Standard Arabic Audio": "msa-1337-10.mp3"
 		},
@@ -99,7 +99,7 @@
 			"English": "Everyone was jumping into the pool.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كان الجميع يقفز إلى حمام السباحة.",
 			"Egyptian Arabic Audio": "eca-1337-11.mp3",
 			"Standard Arabic Audio": "msa-1337-11.mp3"
 		},
@@ -108,7 +108,7 @@
 			"English": "Loud music was playing.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "الموسيقى الصاخبة كان يلعب.",
 			"Egyptian Arabic Audio": "eca-1337-12.mp3",
 			"Standard Arabic Audio": "msa-1337-12.mp3"
 		},
@@ -117,7 +117,7 @@
 			"English": "Car horns were honking.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كانت قرون السيارات تزييف.",
 			"Egyptian Arabic Audio": "eca-1337-13.mp3",
 			"Standard Arabic Audio": "msa-1337-13.mp3"
 		},
@@ -126,7 +126,7 @@
 			"English": "Barry and Ruth closed all their windows.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "باري و روث أغلقوا نوافذهم.",
 			"Egyptian Arabic Audio": "eca-1337-14.mp3",
 			"Standard Arabic Audio": "msa-1337-14.mp3"
 		},
@@ -135,7 +135,7 @@
 			"English": "But they still heard the party.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لكنهم ما زالوا يسمعون الحزب.",
 			"Egyptian Arabic Audio": "eca-1337-15.mp3",
 			"Standard Arabic Audio": "msa-1337-15.mp3"
 		},
@@ -144,7 +144,7 @@
 			"English": "Barry called the police.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ودعا باري الشرطة.",
 			"Egyptian Arabic Audio": "eca-1337-16.mp3",
 			"Standard Arabic Audio": "msa-1337-16.mp3"
 		},
@@ -153,7 +153,7 @@
 			"English": "The policeman said, \"We'll be there in an hour or two.",
 			"Word Count": 11,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وقال الشرطي: &quot;سنكون هناك في ساعة أو ساعتين.",
 			"Egyptian Arabic Audio": "eca-1337-17.mp3",
 			"Standard Arabic Audio": "msa-1337-17.mp3"
 		},
@@ -162,7 +162,7 @@
 			"English": "\" Barry asked, \"Why not sooner?\" \"The mayor's having a big party,\" the policeman said.",
 			"Word Count": 15,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "&quot;قال باري:&quot; لماذا لا عاجلا؟ &quot;وقال&quot; الشرطي وجود حزب كبير &quot;.",
 			"Egyptian Arabic Audio": "eca-1337-18.mp3",
 			"Standard Arabic Audio": "msa-1337-18.mp3"
 		},
@@ -171,7 +171,7 @@
 			"English": "\"Most of our officers are protecting the mayor and his guests.",
 			"Word Count": 11,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "&quot;معظم ضباطنا حماية العمدة وضيوفه.",
 			"Egyptian Arabic Audio": "eca-1337-19.mp3",
 			"Standard Arabic Audio": "msa-1337-19.mp3"
 		},
@@ -180,7 +180,7 @@
 			"English": "\".",
 			"Word Count": 1,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "&quot;.",
 			"Egyptian Arabic Audio": "eca-1337-20.mp3",
 			"Standard Arabic Audio": "msa-1337-20.mp3"
 		}

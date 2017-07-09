@@ -11,7 +11,7 @@
 			"English": "I hope I win the lotto.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "آمل أن يفوز في لوتو.",
 			"Egyptian Arabic Audio": "eca-0329-1.mp3",
 			"Standard Arabic Audio": "msa-0329-1.mp3"
 		},
@@ -21,7 +21,7 @@
 			"English": "Your chances are very small.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "فرصك صغيرة جدا.",
 			"Egyptian Arabic Audio": "eca-0329-2.mp3",
 			"Standard Arabic Audio": "msa-0329-2.mp3"
 		},
@@ -31,7 +31,7 @@
 			"English": "But you can't win if you don't play.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ولكن لا يمكنك الفوز إذا كنت لا تلعب.",
 			"Egyptian Arabic Audio": "eca-0329-3.mp3",
 			"Standard Arabic Audio": "msa-0329-3.mp3"
 		},
@@ -41,7 +41,7 @@
 			"English": "Ha! You can't win if you do play.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ها! لا يمكنك الفوز إذا كنت تلعب.",
 			"Egyptian Arabic Audio": "eca-0329-4.mp3",
 			"Standard Arabic Audio": "msa-0329-4.mp3"
 		},
@@ -51,7 +51,7 @@
 			"English": "Someone has to win.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "شخص ما للفوز.",
 			"Egyptian Arabic Audio": "eca-0329-5.mp3",
 			"Standard Arabic Audio": "msa-0329-5.mp3"
 		},
@@ -61,7 +61,7 @@
 			"English": "That's what everyone says.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هذا ما يقوله الجميع.",
 			"Egyptian Arabic Audio": "eca-0329-6.mp3",
 			"Standard Arabic Audio": "msa-0329-6.mp3"
 		},
@@ -71,7 +71,7 @@
 			"English": "It might as well be me.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "قد يكون لي أيضا.",
 			"Egyptian Arabic Audio": "eca-0329-7.mp3",
 			"Standard Arabic Audio": "msa-0329-7.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "That's what everyone says.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هذا ما يقوله الجميع.",
 			"Egyptian Arabic Audio": "eca-0329-8.mp3",
 			"Standard Arabic Audio": "msa-0329-8.mp3"
 		},
@@ -91,7 +91,7 @@
 			"English": "You're trying to tell me something.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كنت تحاول أن تقول لي شيئا.",
 			"Egyptian Arabic Audio": "eca-0329-9.mp3",
 			"Standard Arabic Audio": "msa-0329-9.mp3"
 		},
@@ -101,7 +101,7 @@
 			"English": "That didn't take long.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هذا لم يستغرق وقتا طويلا.",
 			"Egyptian Arabic Audio": "eca-0329-10.mp3",
 			"Standard Arabic Audio": "msa-0329-10.mp3"
 		},
@@ -111,7 +111,7 @@
 			"English": "You think I should quit playing.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كنت أعتقد أنني يجب أن الإقلاع عن اللعب.",
 			"Egyptian Arabic Audio": "eca-0329-11.mp3",
 			"Standard Arabic Audio": "msa-0329-11.mp3"
 		},
@@ -121,7 +121,7 @@
 			"English": "Save your money for school.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "حفظ أموالك للمدرسة.",
 			"Egyptian Arabic Audio": "eca-0329-12.mp3",
 			"Standard Arabic Audio": "msa-0329-12.mp3"
 		}

@@ -9,7 +9,7 @@
 			"English": "He has to make a library card.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لديه لجعل بطاقة المكتبة.",
 			"Egyptian Arabic Audio": "eca-0862-1.mp3",
 			"Standard Arabic Audio": "msa-0862-1.mp3"
 		},
@@ -18,7 +18,7 @@
 			"English": "He fills out his information.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يملأ معلوماته.",
 			"Egyptian Arabic Audio": "eca-0862-2.mp3",
 			"Standard Arabic Audio": "msa-0862-2.mp3"
 		},
@@ -27,7 +27,7 @@
 			"English": "The application asks basic questions.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "تطبيق يسأل الأسئلة الأساسية.",
 			"Egyptian Arabic Audio": "eca-0862-3.mp3",
 			"Standard Arabic Audio": "msa-0862-3.mp3"
 		},
@@ -36,7 +36,7 @@
 			"English": "He signs his name at the bottom.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انه يوقع اسمه في القاع.",
 			"Egyptian Arabic Audio": "eca-0862-4.mp3",
 			"Standard Arabic Audio": "msa-0862-4.mp3"
 		},
@@ -45,7 +45,7 @@
 			"English": "He borrows 10 books on penguins.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يقترض 10 كتب على طيور البطريق.",
 			"Egyptian Arabic Audio": "eca-0862-5.mp3",
 			"Standard Arabic Audio": "msa-0862-5.mp3"
 		},
@@ -54,7 +54,7 @@
 			"English": "He goes to the checkout desk.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يذهب إلى مكتب الخروج.",
 			"Egyptian Arabic Audio": "eca-0862-6.mp3",
 			"Standard Arabic Audio": "msa-0862-6.mp3"
 		},
@@ -63,7 +63,7 @@
 			"English": "The librarian scans the books.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يقوم أمين المكتبة بفحص الكتب.",
 			"Egyptian Arabic Audio": "eca-0862-7.mp3",
 			"Standard Arabic Audio": "msa-0862-7.mp3"
 		},
@@ -72,7 +72,7 @@
 			"English": "He takes the books home.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وقال انه يأخذ الكتب المنزل.",
 			"Egyptian Arabic Audio": "eca-0862-8.mp3",
 			"Standard Arabic Audio": "msa-0862-8.mp3"
 		}

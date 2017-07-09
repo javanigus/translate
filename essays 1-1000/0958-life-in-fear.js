@@ -9,7 +9,7 @@
 			"English": "It is scary that our lives can end so quickly and suddenly.",
 			"Word Count": 12,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ومن المخيف أن حياتنا يمكن أن تنتهي بسرعة وفجأة.",
 			"Egyptian Arabic Audio": "eca-0958-1.mp3",
 			"Standard Arabic Audio": "msa-0958-1.mp3"
 		},
@@ -18,7 +18,7 @@
 			"English": "We need to live life to the fullest.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "نحن بحاجة إلى العيش على أكمل وجه.",
 			"Egyptian Arabic Audio": "eca-0958-2.mp3",
 			"Standard Arabic Audio": "msa-0958-2.mp3"
 		},
@@ -27,7 +27,7 @@
 			"English": "We need to love the people around us and be thankful for every day that we live.",
 			"Word Count": 17,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "نحن بحاجة إلى حب الناس من حولنا وأن نكون شاكرين لكل يوم نعيش فيه.",
 			"Egyptian Arabic Audio": "eca-0958-3.mp3",
 			"Standard Arabic Audio": "msa-0958-3.mp3"
 		},
@@ -36,7 +36,7 @@
 			"English": "There are always news stories about people dying before they should.",
 			"Word Count": 11,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هناك دائما أنباء عن الناس يموتون قبل أن ينبغي.",
 			"Egyptian Arabic Audio": "eca-0958-4.mp3",
 			"Standard Arabic Audio": "msa-0958-4.mp3"
 		},
@@ -45,7 +45,7 @@
 			"English": "It's not the best thing to hear about, but it makes us more aware of our own lives.",
 			"Word Count": 18,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انها ليست أفضل شيء لسماع عنه، لكنه يجعلنا أكثر وعيا من حياتنا.",
 			"Egyptian Arabic Audio": "eca-0958-5.mp3",
 			"Standard Arabic Audio": "msa-0958-5.mp3"
 		}

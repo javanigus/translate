@@ -9,7 +9,7 @@
 			"English": "Spielberg shows no signs of slowing down.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لا يظهر سبيلبرغ أي علامات على التباطؤ.",
 			"Egyptian Arabic Audio": "eca-2408-1.mp3",
 			"Standard Arabic Audio": "msa-2408-1.mp3"
 		},
@@ -18,7 +18,7 @@
 			"English": "He is involved in several film projects as a director, and a producer.",
 			"Word Count": 13,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ويشارك في العديد من مشاريع الأفلام كمخرج، ومنتج.",
 			"Egyptian Arabic Audio": "eca-2408-2.mp3",
 			"Standard Arabic Audio": "msa-2408-2.mp3"
 		},
@@ -27,7 +27,7 @@
 			"English": "Spielberg has been married twice, and has six children.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وقد تزوجت سبيلبرغ مرتين، ولديها ستة أطفال.",
 			"Egyptian Arabic Audio": "eca-2408-3.mp3",
 			"Standard Arabic Audio": "msa-2408-3.mp3"
 		},
@@ -36,7 +36,7 @@
 			"English": "He was voted Forbes Magazine's Most Influential Celebrity in America in 2014.",
 			"Word Count": 12,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وقد تم التصويت عليه الأكثر شهرة المشاهير مجلة مجلة فوربس في أمريكا في عام 2014.",
 			"Egyptian Arabic Audio": "eca-2408-4.mp3",
 			"Standard Arabic Audio": "msa-2408-4.mp3"
 		},
@@ -45,7 +45,7 @@
 			"English": "His personal wealth is estimated to be more than $3 billion.",
 			"Word Count": 11,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وتقدر ثروته الشخصية بأكثر من 3 مليارات دولار.",
 			"Egyptian Arabic Audio": "eca-2408-5.mp3",
 			"Standard Arabic Audio": "msa-2408-5.mp3"
 		}

@@ -9,7 +9,7 @@
 			"English": "She opens the refrigerator.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انها تفتح الثلاجة.",
 			"Egyptian Arabic Audio": "eca-1143-1.mp3",
 			"Standard Arabic Audio": "msa-1143-1.mp3"
 		},
@@ -18,7 +18,7 @@
 			"English": "She grabs a head of lettuce.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انها الاستيلاء على رأس الخس.",
 			"Egyptian Arabic Audio": "eca-1143-2.mp3",
 			"Standard Arabic Audio": "msa-1143-2.mp3"
 		},
@@ -27,7 +27,7 @@
 			"English": "She grabs some tomatoes.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انها تستحوذ على بعض الطماطم.",
 			"Egyptian Arabic Audio": "eca-1143-3.mp3",
 			"Standard Arabic Audio": "msa-1143-3.mp3"
 		},
@@ -36,7 +36,7 @@
 			"English": "She grabs some green onions.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انها الاستيلاء على بعض البصل الأخضر.",
 			"Egyptian Arabic Audio": "eca-1143-4.mp3",
 			"Standard Arabic Audio": "msa-1143-4.mp3"
 		},
@@ -45,7 +45,7 @@
 			"English": "She chops up the lettuce.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "تقطع الخس.",
 			"Egyptian Arabic Audio": "eca-1143-5.mp3",
 			"Standard Arabic Audio": "msa-1143-5.mp3"
 		},
@@ -54,7 +54,7 @@
 			"English": "She slices the tomatoes and onions.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "تشريح الطماطم والبصل.",
 			"Egyptian Arabic Audio": "eca-1143-6.mp3",
 			"Standard Arabic Audio": "msa-1143-6.mp3"
 		},
@@ -63,7 +63,7 @@
 			"English": "She puts them all into a bowl.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انها تضع كل منهم في وعاء.",
 			"Egyptian Arabic Audio": "eca-1143-7.mp3",
 			"Standard Arabic Audio": "msa-1143-7.mp3"
 		},
@@ -72,7 +72,7 @@
 			"English": "She mixes them up.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "إنها تخلط بينهما.",
 			"Egyptian Arabic Audio": "eca-1143-8.mp3",
 			"Standard Arabic Audio": "msa-1143-8.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "She pours salad dressing on top.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انها تصب سلطة خلع الملابس على القمة.",
 			"Egyptian Arabic Audio": "eca-1143-9.mp3",
 			"Standard Arabic Audio": "msa-1143-9.mp3"
 		},
@@ -90,7 +90,7 @@
 			"English": "She tastes it.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انها الأذواق ذلك.",
 			"Egyptian Arabic Audio": "eca-1143-10.mp3",
 			"Standard Arabic Audio": "msa-1143-10.mp3"
 		},
@@ -99,7 +99,7 @@
 			"English": "It is a delicious salad.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "إنها سلطة لذيذة.",
 			"Egyptian Arabic Audio": "eca-1143-11.mp3",
 			"Standard Arabic Audio": "msa-1143-11.mp3"
 		}

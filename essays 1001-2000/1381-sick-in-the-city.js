@@ -9,7 +9,7 @@
 			"English": "He was 58.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وكان 58 عاما.",
 			"Egyptian Arabic Audio": "eca-1381-1.mp3",
 			"Standard Arabic Audio": "msa-1381-1.mp3"
 		},
@@ -18,7 +18,7 @@
 			"English": "He lost his job.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنه فقد وظيفته.",
 			"Egyptian Arabic Audio": "eca-1381-2.mp3",
 			"Standard Arabic Audio": "msa-1381-2.mp3"
 		},
@@ -27,7 +27,7 @@
 			"English": "A friend offered him a job in Miami.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "صديق عرض عليه وظيفة في ميامي.",
 			"Egyptian Arabic Audio": "eca-1381-3.mp3",
 			"Standard Arabic Audio": "msa-1381-3.mp3"
 		},
@@ -36,7 +36,7 @@
 			"English": "He found a nice apartment in Miami.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وجد شقة جميلة في ميامي.",
 			"Egyptian Arabic Audio": "eca-1381-4.mp3",
 			"Standard Arabic Audio": "msa-1381-4.mp3"
 		},
@@ -45,7 +45,7 @@
 			"English": "He loved his new job.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انه يحب وظيفته الجديدة.",
 			"Egyptian Arabic Audio": "eca-1381-5.mp3",
 			"Standard Arabic Audio": "msa-1381-5.mp3"
 		},
@@ -54,7 +54,7 @@
 			"English": "He loved Miami.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كان يحب ميامي.",
 			"Egyptian Arabic Audio": "eca-1381-6.mp3",
 			"Standard Arabic Audio": "msa-1381-6.mp3"
 		},
@@ -63,7 +63,7 @@
 			"English": "Life was good.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كانت الحياة جيدة.",
 			"Egyptian Arabic Audio": "eca-1381-7.mp3",
 			"Standard Arabic Audio": "msa-1381-7.mp3"
 		},
@@ -72,7 +72,7 @@
 			"English": "Then his friend's company went bankrupt.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ثم أفلست شركة صديقه.",
 			"Egyptian Arabic Audio": "eca-1381-8.mp3",
 			"Standard Arabic Audio": "msa-1381-8.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "Life wasn't so good.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "الحياة لم تكن جيدة جدا.",
 			"Egyptian Arabic Audio": "eca-1381-9.mp3",
 			"Standard Arabic Audio": "msa-1381-9.mp3"
 		},
@@ -90,7 +90,7 @@
 			"English": "He looked for work.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وقال انه يبحث عن العمل.",
 			"Egyptian Arabic Audio": "eca-1381-10.mp3",
 			"Standard Arabic Audio": "msa-1381-10.mp3"
 		},
@@ -99,7 +99,7 @@
 			"English": "But everyone was looking for work.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ولكن الجميع كان يبحث عن عمل.",
 			"Egyptian Arabic Audio": "eca-1381-11.mp3",
 			"Standard Arabic Audio": "msa-1381-11.mp3"
 		},
@@ -108,7 +108,7 @@
 			"English": "There were plenty of workers.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كان هناك الكثير من العمال.",
 			"Egyptian Arabic Audio": "eca-1381-12.mp3",
 			"Standard Arabic Audio": "msa-1381-12.mp3"
 		},
@@ -117,7 +117,7 @@
 			"English": "But there wasn't plenty of work.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ولكن لم يكن هناك الكثير من العمل.",
 			"Egyptian Arabic Audio": "eca-1381-13.mp3",
 			"Standard Arabic Audio": "msa-1381-13.mp3"
 		},
@@ -126,7 +126,7 @@
 			"English": "He was almost broke.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كان تقريبا كسر.",
 			"Egyptian Arabic Audio": "eca-1381-14.mp3",
 			"Standard Arabic Audio": "msa-1381-14.mp3"
 		},
@@ -135,7 +135,7 @@
 			"English": "He started coughing up blood.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "بدأ سعال الدم.",
 			"Egyptian Arabic Audio": "eca-1381-15.mp3",
 			"Standard Arabic Audio": "msa-1381-15.mp3"
 		},
@@ -144,7 +144,7 @@
 			"English": "He went to a doctor.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ذهب إلى الطبيب.",
 			"Egyptian Arabic Audio": "eca-1381-16.mp3",
 			"Standard Arabic Audio": "msa-1381-16.mp3"
 		},
@@ -153,7 +153,7 @@
 			"English": "\"You have lung cancer,\" the doctor said.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وقال الطبيب &quot;لديك سرطان الرئة&quot;.",
 			"Egyptian Arabic Audio": "eca-1381-17.mp3",
 			"Standard Arabic Audio": "msa-1381-17.mp3"
 		},
@@ -162,7 +162,7 @@
 			"English": "\"You need treatment.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "&quot;أنت بحاجة إلى علاج.",
 			"Egyptian Arabic Audio": "eca-1381-18.mp3",
 			"Standard Arabic Audio": "msa-1381-18.mp3"
 		},
@@ -171,7 +171,7 @@
 			"English": "\" He told the doctor he was almost broke.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "&quot;وقال للطبيب انه كان تقريبا كسر.",
 			"Egyptian Arabic Audio": "eca-1381-19.mp3",
 			"Standard Arabic Audio": "msa-1381-19.mp3"
 		},
@@ -180,7 +180,7 @@
 			"English": "He had no money for treatment, rent, or even food.",
 			"Word Count": 10,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لم يكن لديه مال للعلاج أو الإيجار أو حتى الطعام.",
 			"Egyptian Arabic Audio": "eca-1381-20.mp3",
 			"Standard Arabic Audio": "msa-1381-20.mp3"
 		},
@@ -189,7 +189,7 @@
 			"English": "The doctor said the government would pay for his treatment.",
 			"Word Count": 10,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وقال الطبيب ان الحكومة ستدفع مقابل علاجه.",
 			"Egyptian Arabic Audio": "eca-1381-21.mp3",
 			"Standard Arabic Audio": "msa-1381-21.mp3"
 		},
@@ -198,7 +198,7 @@
 			"English": "The government would find him an apartment.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وستجده الحكومة شقة.",
 			"Egyptian Arabic Audio": "eca-1381-22.mp3",
 			"Standard Arabic Audio": "msa-1381-22.mp3"
 		},
@@ -207,7 +207,7 @@
 			"English": "The government would give him food stamps.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وستقدم له الحكومة طوابع غذائية.",
 			"Egyptian Arabic Audio": "eca-1381-23.mp3",
 			"Standard Arabic Audio": "msa-1381-23.mp3"
 		},
@@ -216,7 +216,7 @@
 			"English": "Why have I worked so hard all my life, he wondered.",
 			"Word Count": 11,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وتساءل لماذا عملت بجد طوال حياتي.",
 			"Egyptian Arabic Audio": "eca-1381-24.mp3",
 			"Standard Arabic Audio": "msa-1381-24.mp3"
 		},
@@ -225,7 +225,7 @@
 			"English": "I should have gone broke 30 years ago.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كان يجب أن يكون قد ذهب قبل 30 عاما.",
 			"Egyptian Arabic Audio": "eca-1381-25.mp3",
 			"Standard Arabic Audio": "msa-1381-25.mp3"
 		}

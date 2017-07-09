@@ -9,7 +9,7 @@
 			"English": "He buys a present for his girlfriend.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انه يشتري هدية لصديقته.",
 			"Egyptian Arabic Audio": "eca-0159-1.mp3",
 			"Standard Arabic Audio": "msa-0159-1.mp3"
 		},
@@ -18,7 +18,7 @@
 			"English": "It is her favorite book.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هو كتابها المفضل.",
 			"Egyptian Arabic Audio": "eca-0159-2.mp3",
 			"Standard Arabic Audio": "msa-0159-2.mp3"
 		},
@@ -27,7 +27,7 @@
 			"English": "He gets wrapping paper.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يحصل على ورق التغليف.",
 			"Egyptian Arabic Audio": "eca-0159-3.mp3",
 			"Standard Arabic Audio": "msa-0159-3.mp3"
 		},
@@ -36,7 +36,7 @@
 			"English": "He puts the book on top of the paper.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يضع الكتاب على رأس الورقة.",
 			"Egyptian Arabic Audio": "eca-0159-4.mp3",
 			"Standard Arabic Audio": "msa-0159-4.mp3"
 		},
@@ -45,7 +45,7 @@
 			"English": "He folds the paper.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ويطوى الورق.",
 			"Egyptian Arabic Audio": "eca-0159-5.mp3",
 			"Standard Arabic Audio": "msa-0159-5.mp3"
 		},
@@ -54,7 +54,7 @@
 			"English": "He tapes the paper down.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انه يسجل ورقة أسفل.",
 			"Egyptian Arabic Audio": "eca-0159-6.mp3",
 			"Standard Arabic Audio": "msa-0159-6.mp3"
 		},
@@ -63,7 +63,7 @@
 			"English": "He writes her name on it.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يكتب اسمها على ذلك.",
 			"Egyptian Arabic Audio": "eca-0159-7.mp3",
 			"Standard Arabic Audio": "msa-0159-7.mp3"
 		},
@@ -72,7 +72,7 @@
 			"English": "He puts a bow on the wrapped book.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انه يضع القوس على الكتاب ملفوفة.",
 			"Egyptian Arabic Audio": "eca-0159-8.mp3",
 			"Standard Arabic Audio": "msa-0159-8.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "He puts the present in a gift bag.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يضع الحاضر في كيس هدية.",
 			"Egyptian Arabic Audio": "eca-0159-9.mp3",
 			"Standard Arabic Audio": "msa-0159-9.mp3"
 		}

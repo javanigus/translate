@@ -9,7 +9,7 @@
 			"English": "Reading a book is fun.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "قراءة كتاب هو متعة.",
 			"Egyptian Arabic Audio": "eca-0639-1.mp3",
 			"Standard Arabic Audio": "msa-0639-1.mp3"
 		},
@@ -18,7 +18,7 @@
 			"English": "Books make you smarter.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "الكتب تجعلك أكثر ذكاء.",
 			"Egyptian Arabic Audio": "eca-0639-2.mp3",
 			"Standard Arabic Audio": "msa-0639-2.mp3"
 		},
@@ -27,7 +27,7 @@
 			"English": "They also make you a better reader.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كما أنها تجعلك أفضل قارئ.",
 			"Egyptian Arabic Audio": "eca-0639-3.mp3",
 			"Standard Arabic Audio": "msa-0639-3.mp3"
 		},
@@ -36,7 +36,7 @@
 			"English": "John loves to read books.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "جون يحب قراءة الكتب.",
 			"Egyptian Arabic Audio": "eca-0639-4.mp3",
 			"Standard Arabic Audio": "msa-0639-4.mp3"
 		},
@@ -45,7 +45,7 @@
 			"English": "He reads books on sunny days.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يقرأ الكتب في الأيام المشمسة.",
 			"Egyptian Arabic Audio": "eca-0639-5.mp3",
 			"Standard Arabic Audio": "msa-0639-5.mp3"
 		},
@@ -54,7 +54,7 @@
 			"English": "He reads books on cloudy days, and he reads books on rainy days.",
 			"Word Count": 13,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يقرأ الكتب في الأيام الغائمة، ويقرأ الكتب في الأيام الممطرة.",
 			"Egyptian Arabic Audio": "eca-0639-6.mp3",
 			"Standard Arabic Audio": "msa-0639-6.mp3"
 		},
@@ -63,7 +63,7 @@
 			"English": "John has read many books.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لقد قرأ جون العديد من الكتب.",
 			"Egyptian Arabic Audio": "eca-0639-7.mp3",
 			"Standard Arabic Audio": "msa-0639-7.mp3"
 		},
@@ -72,7 +72,7 @@
 			"English": "He read his first book in second grade.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "قرأ كتابه الأول في الصف الثاني.",
 			"Egyptian Arabic Audio": "eca-0639-8.mp3",
 			"Standard Arabic Audio": "msa-0639-8.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "His teachers were impressed.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أعجب معلموه.",
 			"Egyptian Arabic Audio": "eca-0639-9.mp3",
 			"Standard Arabic Audio": "msa-0639-9.mp3"
 		},
@@ -90,7 +90,7 @@
 			"English": "John was a good student.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كان جون طالبا جيدا.",
 			"Egyptian Arabic Audio": "eca-0639-10.mp3",
 			"Standard Arabic Audio": "msa-0639-10.mp3"
 		},
@@ -99,7 +99,7 @@
 			"English": "He had the highest grades in class.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كان لديه أعلى الدرجات في الصف.",
 			"Egyptian Arabic Audio": "eca-0639-11.mp3",
 			"Standard Arabic Audio": "msa-0639-11.mp3"
 		},
@@ -108,7 +108,7 @@
 			"English": "John learned a lot by reading books.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "تعلم جون الكثير من خلال قراءة الكتب.",
 			"Egyptian Arabic Audio": "eca-0639-12.mp3",
 			"Standard Arabic Audio": "msa-0639-12.mp3"
 		},
@@ -117,7 +117,7 @@
 			"English": "He learned new words.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "تعلم كلمات جديدة.",
 			"Egyptian Arabic Audio": "eca-0639-13.mp3",
 			"Standard Arabic Audio": "msa-0639-13.mp3"
 		},
@@ -126,7 +126,7 @@
 			"English": "He learned new verbs.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "تعلم الأفعال الجديدة.",
 			"Egyptian Arabic Audio": "eca-0639-14.mp3",
 			"Standard Arabic Audio": "msa-0639-14.mp3"
 		},
@@ -135,7 +135,7 @@
 			"English": "He learned new adjectives.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "تعلم صفات جديدة.",
 			"Egyptian Arabic Audio": "eca-0639-15.mp3",
 			"Standard Arabic Audio": "msa-0639-15.mp3"
 		},
@@ -144,7 +144,7 @@
 			"English": "John reads every day.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يقرأ جون كل يوم.",
 			"Egyptian Arabic Audio": "eca-0639-16.mp3",
 			"Standard Arabic Audio": "msa-0639-16.mp3"
 		},
@@ -153,7 +153,7 @@
 			"English": "He has learned about the world.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لقد تعلم عن العالم.",
 			"Egyptian Arabic Audio": "eca-0639-17.mp3",
 			"Standard Arabic Audio": "msa-0639-17.mp3"
 		},
@@ -162,7 +162,7 @@
 			"English": "He has learned about history.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لقد تعلم عن التاريخ.",
 			"Egyptian Arabic Audio": "eca-0639-18.mp3",
 			"Standard Arabic Audio": "msa-0639-18.mp3"
 		},
@@ -171,7 +171,7 @@
 			"English": "He has learned about animals.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وقد تعلم عن الحيوانات.",
 			"Egyptian Arabic Audio": "eca-0639-19.mp3",
 			"Standard Arabic Audio": "msa-0639-19.mp3"
 		},
@@ -180,7 +180,7 @@
 			"English": "He has learned about people.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وقد تعلم عن الناس.",
 			"Egyptian Arabic Audio": "eca-0639-20.mp3",
 			"Standard Arabic Audio": "msa-0639-20.mp3"
 		},
@@ -189,7 +189,7 @@
 			"English": "John loves to learn.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "جون يحب أن يتعلم.",
 			"Egyptian Arabic Audio": "eca-0639-21.mp3",
 			"Standard Arabic Audio": "msa-0639-21.mp3"
 		},
@@ -198,7 +198,7 @@
 			"English": "He learns something new every day.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يتعلم شيئا جديدا كل يوم.",
 			"Egyptian Arabic Audio": "eca-0639-22.mp3",
 			"Standard Arabic Audio": "msa-0639-22.mp3"
 		},
@@ -207,7 +207,7 @@
 			"English": "John has many books.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "جون لديه العديد من الكتب.",
 			"Egyptian Arabic Audio": "eca-0639-23.mp3",
 			"Standard Arabic Audio": "msa-0639-23.mp3"
 		},
@@ -216,7 +216,7 @@
 			"English": "He has large bookshelves.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لديه رفوف الكتب الكبيرة.",
 			"Egyptian Arabic Audio": "eca-0639-24.mp3",
 			"Standard Arabic Audio": "msa-0639-24.mp3"
 		},
@@ -225,7 +225,7 @@
 			"English": "They are full of books.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "فهي مليئة بالكتب.",
 			"Egyptian Arabic Audio": "eca-0639-25.mp3",
 			"Standard Arabic Audio": "msa-0639-25.mp3"
 		},
@@ -234,7 +234,7 @@
 			"English": "John collects books.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "جون يجمع الكتب.",
 			"Egyptian Arabic Audio": "eca-0639-26.mp3",
 			"Standard Arabic Audio": "msa-0639-26.mp3"
 		},
@@ -243,7 +243,7 @@
 			"English": "He has bought books at bookstores.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وقد اشترى الكتب في المكتبات.",
 			"Egyptian Arabic Audio": "eca-0639-27.mp3",
 			"Standard Arabic Audio": "msa-0639-27.mp3"
 		},
@@ -252,7 +252,7 @@
 			"English": "John wants to read every book in the world.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يريد جون قراءة كل كتاب في العالم.",
 			"Egyptian Arabic Audio": "eca-0639-28.mp3",
 			"Standard Arabic Audio": "msa-0639-28.mp3"
 		}

@@ -9,7 +9,7 @@
 			"English": "The janitor cleaned the church every day.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "تنظيف بواب الكنيسة كل يوم.",
 			"Egyptian Arabic Audio": "eca-1333-1.mp3",
 			"Standard Arabic Audio": "msa-1333-1.mp3"
 		},
@@ -18,7 +18,7 @@
 			"English": "He swept the floor with a broom.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "اجتاح الأرض مع مكنسة.",
 			"Egyptian Arabic Audio": "eca-1333-2.mp3",
 			"Standard Arabic Audio": "msa-1333-2.mp3"
 		},
@@ -27,7 +27,7 @@
 			"English": "He mopped the floor with a mop.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انه ممسحة الأرض مع ممسحة.",
 			"Egyptian Arabic Audio": "eca-1333-3.mp3",
 			"Standard Arabic Audio": "msa-1333-3.mp3"
 		},
@@ -36,7 +36,7 @@
 			"English": "He vacuumed the carpet with a vacuum cleaner.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كان يسخن السجاد مع مكنسة كهربائية.",
 			"Egyptian Arabic Audio": "eca-1333-4.mp3",
 			"Standard Arabic Audio": "msa-1333-4.mp3"
 		},
@@ -45,7 +45,7 @@
 			"English": "He cleaned all the windows with a wet cloth.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "قام بتنظيف جميع النوافذ بقطعة قماش مبللة.",
 			"Egyptian Arabic Audio": "eca-1333-5.mp3",
 			"Standard Arabic Audio": "msa-1333-5.mp3"
 		},
@@ -54,7 +54,7 @@
 			"English": "He cleaned the men's bathroom.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "قام بتنظيف حمام الرجال.",
 			"Egyptian Arabic Audio": "eca-1333-6.mp3",
 			"Standard Arabic Audio": "msa-1333-6.mp3"
 		},
@@ -63,7 +63,7 @@
 			"English": "He cleaned the women's bathroom.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "قام بتنظيف حمام المرأة.",
 			"Egyptian Arabic Audio": "eca-1333-7.mp3",
 			"Standard Arabic Audio": "msa-1333-7.mp3"
 		},
@@ -72,7 +72,7 @@
 			"English": "He cleaned the sinks in the bathrooms.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "قام بتنظيف المصارف في الحمامات.",
 			"Egyptian Arabic Audio": "eca-1333-8.mp3",
 			"Standard Arabic Audio": "msa-1333-8.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "He cleaned the toilets in the bathrooms.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "قام بتنظيف المراحيض في الحمامات.",
 			"Egyptian Arabic Audio": "eca-1333-9.mp3",
 			"Standard Arabic Audio": "msa-1333-9.mp3"
 		},
@@ -90,7 +90,7 @@
 			"English": "He cleaned the mirrors in the bathrooms.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "قام بتنظيف المرايا في الحمامات.",
 			"Egyptian Arabic Audio": "eca-1333-10.mp3",
 			"Standard Arabic Audio": "msa-1333-10.mp3"
 		},
@@ -99,7 +99,7 @@
 			"English": "He scrubbed the steps outside the church.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وقد قام بتنظيف الخطوات خارج الكنيسة.",
 			"Egyptian Arabic Audio": "eca-1333-11.mp3",
 			"Standard Arabic Audio": "msa-1333-11.mp3"
 		},
@@ -108,7 +108,7 @@
 			"English": "He scrubbed the steps with soapy water and a brush.",
 			"Word Count": 10,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "قام بتنظيف الخطوات مع الماء والصابون وفرشاة.",
 			"Egyptian Arabic Audio": "eca-1333-12.mp3",
 			"Standard Arabic Audio": "msa-1333-12.mp3"
 		},
@@ -117,7 +117,7 @@
 			"English": "He kept the steps clean.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أبقى الخطوات نظيفة.",
 			"Egyptian Arabic Audio": "eca-1333-13.mp3",
 			"Standard Arabic Audio": "msa-1333-13.mp3"
 		},
@@ -126,7 +126,7 @@
 			"English": "He kept the windows clean.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "حافظ على نظافة النوافذ.",
 			"Egyptian Arabic Audio": "eca-1333-14.mp3",
 			"Standard Arabic Audio": "msa-1333-14.mp3"
 		},
@@ -135,7 +135,7 @@
 			"English": "He kept the bathrooms clean.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "حافظ على نظافة الحمامات.",
 			"Egyptian Arabic Audio": "eca-1333-15.mp3",
 			"Standard Arabic Audio": "msa-1333-15.mp3"
 		},
@@ -144,7 +144,7 @@
 			"English": "He kept the floors clean.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "حافظ على نظافة الأرضيات.",
 			"Egyptian Arabic Audio": "eca-1333-16.mp3",
 			"Standard Arabic Audio": "msa-1333-16.mp3"
 		},
@@ -153,7 +153,7 @@
 			"English": "The steps were clean.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كانت الخطوات نظيفة.",
 			"Egyptian Arabic Audio": "eca-1333-17.mp3",
 			"Standard Arabic Audio": "msa-1333-17.mp3"
 		},
@@ -162,7 +162,7 @@
 			"English": "The windows were clean.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كانت النوافذ نظيفة.",
 			"Egyptian Arabic Audio": "eca-1333-18.mp3",
 			"Standard Arabic Audio": "msa-1333-18.mp3"
 		},
@@ -171,7 +171,7 @@
 			"English": "The bathrooms were clean.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كانت الحمامات نظيفة.",
 			"Egyptian Arabic Audio": "eca-1333-19.mp3",
 			"Standard Arabic Audio": "msa-1333-19.mp3"
 		},
@@ -180,7 +180,7 @@
 			"English": "The floors were clean.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كانت الأرضيات نظيفة.",
 			"Egyptian Arabic Audio": "eca-1333-20.mp3",
 			"Standard Arabic Audio": "msa-1333-20.mp3"
 		},
@@ -189,7 +189,7 @@
 			"English": "It was a clean church.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كانت كنيسة نظيفة.",
 			"Egyptian Arabic Audio": "eca-1333-21.mp3",
 			"Standard Arabic Audio": "msa-1333-21.mp3"
 		}

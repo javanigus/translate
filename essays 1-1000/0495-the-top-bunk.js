@@ -9,7 +9,7 @@
 			"English": "He and his brother slept in a bunk bed.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ونام هو وشقيقه في سرير بطابقين.",
 			"Egyptian Arabic Audio": "eca-0495-1.mp3",
 			"Standard Arabic Audio": "msa-0495-1.mp3"
 		},
@@ -18,7 +18,7 @@
 			"English": "He had the bottom bunk.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كان لديه أسفل السرير.",
 			"Egyptian Arabic Audio": "eca-0495-2.mp3",
 			"Standard Arabic Audio": "msa-0495-2.mp3"
 		},
@@ -27,7 +27,7 @@
 			"English": "His brother had the top bunk.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وكان شقيقه أعلى طابقين.",
 			"Egyptian Arabic Audio": "eca-0495-3.mp3",
 			"Standard Arabic Audio": "msa-0495-3.mp3"
 		},
@@ -36,7 +36,7 @@
 			"English": "The top bunk had a guard rail.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وكان أعلى طابقين السكك الحديدية الحرس.",
 			"Egyptian Arabic Audio": "eca-0495-4.mp3",
 			"Standard Arabic Audio": "msa-0495-4.mp3"
 		},
@@ -45,7 +45,7 @@
 			"English": "The rail kept the sleeper safe.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "حافظت السكة الحديدية على سلامة النوم.",
 			"Egyptian Arabic Audio": "eca-0495-5.mp3",
 			"Standard Arabic Audio": "msa-0495-5.mp3"
 		},
@@ -54,7 +54,7 @@
 			"English": "His brother didn't like the rail.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "شقيقه لم يحب السكك الحديدية.",
 			"Egyptian Arabic Audio": "eca-0495-6.mp3",
 			"Standard Arabic Audio": "msa-0495-6.mp3"
 		},
@@ -63,7 +63,7 @@
 			"English": "He always left it down.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "تركه دائما.",
 			"Egyptian Arabic Audio": "eca-0495-7.mp3",
 			"Standard Arabic Audio": "msa-0495-7.mp3"
 		},
@@ -72,7 +72,7 @@
 			"English": "One time his brother fell out of the top bunk.",
 			"Word Count": 10,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "مرة واحدة شقيقه سقط من أعلى طابقين.",
 			"Egyptian Arabic Audio": "eca-0495-8.mp3",
 			"Standard Arabic Audio": "msa-0495-8.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "He hit the carpet and woke up.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ضرب السجاد واستيقظ.",
 			"Egyptian Arabic Audio": "eca-0495-9.mp3",
 			"Standard Arabic Audio": "msa-0495-9.mp3"
 		},
@@ -90,7 +90,7 @@
 			"English": "He said, \"Ouch!\" Then he climbed back into the top bunk.",
 			"Word Count": 11,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "قال: &quot;أوش!&quot; ثم تسلق مرة أخرى إلى الجزء العلوي من السرير.",
 			"Egyptian Arabic Audio": "eca-0495-10.mp3",
 			"Standard Arabic Audio": "msa-0495-10.mp3"
 		},
@@ -99,7 +99,7 @@
 			"English": "When he woke up the next day, his back was sore.",
 			"Word Count": 11,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "عندما استيقظ في اليوم التالي، كان ظهره قرحة.",
 			"Egyptian Arabic Audio": "eca-0495-11.mp3",
 			"Standard Arabic Audio": "msa-0495-11.mp3"
 		},
@@ -108,7 +108,7 @@
 			"English": "Mom took him to see the doctor.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أخذته أمي لرؤية الطبيب.",
 			"Egyptian Arabic Audio": "eca-0495-12.mp3",
 			"Standard Arabic Audio": "msa-0495-12.mp3"
 		},
@@ -117,7 +117,7 @@
 			"English": "The doctor examined him.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "فحصه الطبيب.",
 			"Egyptian Arabic Audio": "eca-0495-13.mp3",
 			"Standard Arabic Audio": "msa-0495-13.mp3"
 		},
@@ -126,7 +126,7 @@
 			"English": "The doctor said he was okay.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وقال الطبيب انه بخير.",
 			"Egyptian Arabic Audio": "eca-0495-14.mp3",
 			"Standard Arabic Audio": "msa-0495-14.mp3"
 		},
@@ -135,7 +135,7 @@
 			"English": "He said to keep the guard rail up.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وقال للحفاظ على السكك الحديدية الحرس يصل.",
 			"Egyptian Arabic Audio": "eca-0495-15.mp3",
 			"Standard Arabic Audio": "msa-0495-15.mp3"
 		},
@@ -144,7 +144,7 @@
 			"English": "His brother said he would do that.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وقال شقيقه انه سيفعل ذلك.",
 			"Egyptian Arabic Audio": "eca-0495-16.mp3",
 			"Standard Arabic Audio": "msa-0495-16.mp3"
 		},
@@ -153,7 +153,7 @@
 			"English": "That night his brother climbed into the top bunk again.",
 			"Word Count": 10,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "في تلك الليلة صعد شقيقه إلى الطابق العلوي العلوي مرة أخرى.",
 			"Egyptian Arabic Audio": "eca-0495-17.mp3",
 			"Standard Arabic Audio": "msa-0495-17.mp3"
 		},
@@ -162,7 +162,7 @@
 			"English": "He left the guard rail down.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "غادر حاجز الحرس لأسفل.",
 			"Egyptian Arabic Audio": "eca-0495-18.mp3",
 			"Standard Arabic Audio": "msa-0495-18.mp3"
 		},
@@ -171,7 +171,7 @@
 			"English": "He said the guard rail was like jail.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وقال ان حاجز الحراسة كان مثل السجن.",
 			"Egyptian Arabic Audio": "eca-0495-19.mp3",
 			"Standard Arabic Audio": "msa-0495-19.mp3"
 		},
@@ -180,7 +180,7 @@
 			"English": "He didn't want to feel like he was in jail.",
 			"Word Count": 10,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لم يكن يريد أن يشعر وكأنه في السجن.",
 			"Egyptian Arabic Audio": "eca-0495-20.mp3",
 			"Standard Arabic Audio": "msa-0495-20.mp3"
 		},
@@ -189,7 +189,7 @@
 			"English": "He fell asleep.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لقد نام.",
 			"Egyptian Arabic Audio": "eca-0495-21.mp3",
 			"Standard Arabic Audio": "msa-0495-21.mp3"
 		},
@@ -198,7 +198,7 @@
 			"English": "Then he fell out of the top bunk again.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ثم سقط من السرير العلوي مرة أخرى.",
 			"Egyptian Arabic Audio": "eca-0495-22.mp3",
 			"Standard Arabic Audio": "msa-0495-22.mp3"
 		}

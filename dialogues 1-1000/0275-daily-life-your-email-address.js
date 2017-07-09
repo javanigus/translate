@@ -11,7 +11,7 @@
 			"English": "What's your email address?",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ما هو عنوان بريدك الالكترونى؟",
 			"Egyptian Arabic Audio": "eca-0275-1.mp3",
 			"Standard Arabic Audio": "msa-0275-1.mp3"
 		},
@@ -21,7 +21,7 @@
 			"English": "It's bluedog123.",
 			"Word Count": 2,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انها bluedog123.",
 			"Egyptian Arabic Audio": "eca-0275-2.mp3",
 			"Standard Arabic Audio": "msa-0275-2.mp3"
 		},
@@ -31,7 +31,7 @@
 			"English": "Bluedog123. Are you sure that's all?",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "Bluedog123. هل أنت متأكد من كل هذا؟",
 			"Egyptian Arabic Audio": "eca-0275-3.mp3",
 			"Standard Arabic Audio": "msa-0275-3.mp3"
 		},
@@ -41,7 +41,7 @@
 			"English": "Yes.",
 			"Word Count": 1,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "نعم فعلا.",
 			"Egyptian Arabic Audio": "eca-0275-4.mp3",
 			"Standard Arabic Audio": "msa-0275-4.mp3"
 		},
@@ -51,7 +51,7 @@
 			"English": "No. That's incomplete.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لا، هذا غير كامل.",
 			"Egyptian Arabic Audio": "eca-0275-5.mp3",
 			"Standard Arabic Audio": "msa-0275-5.mp3"
 		},
@@ -61,7 +61,7 @@
 			"English": "What do you mean?",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ماذا تعني؟",
 			"Egyptian Arabic Audio": "eca-0275-6.mp3",
 			"Standard Arabic Audio": "msa-0275-6.mp3"
 		},
@@ -71,7 +71,7 @@
 			"English": "What's your mailing address?",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ما عنوانك البريدي؟",
 			"Egyptian Arabic Audio": "eca-0275-7.mp3",
 			"Standard Arabic Audio": "msa-0275-7.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "456 Cherry Drive, Pasadena, CA 91170.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "456 شيري دريف، باسادينا، كا 91170.",
 			"Egyptian Arabic Audio": "eca-0275-8.mp3",
 			"Standard Arabic Audio": "msa-0275-8.mp3"
 		},
@@ -91,7 +91,7 @@
 			"English": "That's correct.",
 			"Word Count": 2,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هذا صحيح.",
 			"Egyptian Arabic Audio": "eca-0275-9.mp3",
 			"Standard Arabic Audio": "msa-0275-9.mp3"
 		},
@@ -101,7 +101,7 @@
 			"English": "So what's the problem?",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "إذا ما هي المشكلة؟",
 			"Egyptian Arabic Audio": "eca-0275-10.mp3",
 			"Standard Arabic Audio": "msa-0275-10.mp3"
 		},
@@ -111,7 +111,7 @@
 			"English": "Bluedog123 is just the street. You have to give me the city, state, and ZIP  code.",
 			"Word Count": 16,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "Bluedog123 هو مجرد الشارع. عليك أن تعطيني المدينة، والدولة، والرمز البريدي.",
 			"Egyptian Arabic Audio": "eca-0275-11.mp3",
 			"Standard Arabic Audio": "msa-0275-11.mp3"
 		},
@@ -121,7 +121,7 @@
 			"English": "Oh, I get it. My email address is bluedog123@yahoo.com.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أوه، أحصل عليه. عنوان بريدي الإلكتروني هو bluedog123@yahoo.com.",
 			"Egyptian Arabic Audio": "eca-0275-12.mp3",
 			"Standard Arabic Audio": "msa-0275-12.mp3"
 		}

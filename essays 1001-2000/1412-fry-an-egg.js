@@ -9,7 +9,7 @@
 			"English": "She poured a little vegetable oil into the frying pan.",
 			"Word Count": 10,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "سكبت القليل من الزيت النباتي في المقلاة.",
 			"Egyptian Arabic Audio": "eca-1412-1.mp3",
 			"Standard Arabic Audio": "msa-1412-1.mp3"
 		},
@@ -18,7 +18,7 @@
 			"English": "Then she turned on the stove.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ثم شغلت الموقد.",
 			"Egyptian Arabic Audio": "eca-1412-2.mp3",
 			"Standard Arabic Audio": "msa-1412-2.mp3"
 		},
@@ -27,7 +27,7 @@
 			"English": "She took an egg out of the refrigerator.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أخذت بيضة من الثلاجة.",
 			"Egyptian Arabic Audio": "eca-1412-3.mp3",
 			"Standard Arabic Audio": "msa-1412-3.mp3"
 		},
@@ -36,7 +36,7 @@
 			"English": "She cracked the egg into a small bowl.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وقالت انها تصدع البيض في وعاء صغير.",
 			"Egyptian Arabic Audio": "eca-1412-4.mp3",
 			"Standard Arabic Audio": "msa-1412-4.mp3"
 		},
@@ -45,7 +45,7 @@
 			"English": "She put the eggshells into the kitchen trash bag.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وضعت قشور البيض في كيس القمامة المطبخ.",
 			"Egyptian Arabic Audio": "eca-1412-5.mp3",
 			"Standard Arabic Audio": "msa-1412-5.mp3"
 		},
@@ -54,7 +54,7 @@
 			"English": "She waited for the oil to get hot.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انتظرت للحصول على النفط للحصول على الساخن.",
 			"Egyptian Arabic Audio": "eca-1412-6.mp3",
 			"Standard Arabic Audio": "msa-1412-6.mp3"
 		},
@@ -63,7 +63,7 @@
 			"English": "She poured the raw egg into the pan.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انها سكب البيض الخام في المقلاة.",
 			"Egyptian Arabic Audio": "eca-1412-7.mp3",
 			"Standard Arabic Audio": "msa-1412-7.mp3"
 		},
@@ -72,7 +72,7 @@
 			"English": "After about two minutes, she flipped the egg over and cooked it for another two minutes.",
 			"Word Count": 16,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "بعد حوالي دقيقتين، انقلبت البيض على وطهيها لمدة دقيقتين أخريين.",
 			"Egyptian Arabic Audio": "eca-1412-8.mp3",
 			"Standard Arabic Audio": "msa-1412-8.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "She turned off the stove and took the fried egg out of the pan.",
 			"Word Count": 14,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أوقفت الموقد وأخذت البيض المقلي من المقلاة.",
 			"Egyptian Arabic Audio": "eca-1412-9.mp3",
 			"Standard Arabic Audio": "msa-1412-9.mp3"
 		},
@@ -90,7 +90,7 @@
 			"English": "She put the egg on a small plate.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وضعت البويضة على لوحة صغيرة.",
 			"Egyptian Arabic Audio": "eca-1412-10.mp3",
 			"Standard Arabic Audio": "msa-1412-10.mp3"
 		},
@@ -99,7 +99,7 @@
 			"English": "She sprinkled pepper and salt on the egg.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "رشت الفلفل والملح على البويضة.",
 			"Egyptian Arabic Audio": "eca-1412-11.mp3",
 			"Standard Arabic Audio": "msa-1412-11.mp3"
 		},
@@ -108,7 +108,7 @@
 			"English": "She took a fork out of the kitchen drawer.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أخذت شوكة من درج المطبخ.",
 			"Egyptian Arabic Audio": "eca-1412-12.mp3",
 			"Standard Arabic Audio": "msa-1412-12.mp3"
 		},
@@ -117,7 +117,7 @@
 			"English": "She walked over to the dining room table with her fork and plate.",
 			"Word Count": 13,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "سارت إلى طاولة غرفة الطعام مع شوكة ولوحة.",
 			"Egyptian Arabic Audio": "eca-1412-13.mp3",
 			"Standard Arabic Audio": "msa-1412-13.mp3"
 		},
@@ -126,7 +126,7 @@
 			"English": "She tasted the egg.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انها ذاقت البيض.",
 			"Egyptian Arabic Audio": "eca-1412-14.mp3",
 			"Standard Arabic Audio": "msa-1412-14.mp3"
 		},
@@ -135,7 +135,7 @@
 			"English": "It was delicious.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لقد كانت لذيذة.",
 			"Egyptian Arabic Audio": "eca-1412-15.mp3",
 			"Standard Arabic Audio": "msa-1412-15.mp3"
 		}

@@ -11,7 +11,7 @@
 			"English": "Hey, where are you headed?",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "مهلا، إلى أين أنت؟",
 			"Egyptian Arabic Audio": "eca-0602-1.mp3",
 			"Standard Arabic Audio": "msa-0602-1.mp3"
 		},
@@ -21,7 +21,7 @@
 			"English": "I'm going to choose some furniture at Ikea.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنا ذاهب لاختيار بعض الأثاث في ايكيا.",
 			"Egyptian Arabic Audio": "eca-0602-2.mp3",
 			"Standard Arabic Audio": "msa-0602-2.mp3"
 		},
@@ -31,7 +31,7 @@
 			"English": "Are you redecorating?",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هل تقوم بإعادة التصميم؟",
 			"Egyptian Arabic Audio": "eca-0602-3.mp3",
 			"Standard Arabic Audio": "msa-0602-3.mp3"
 		},
@@ -41,7 +41,7 @@
 			"English": "Yeah. I'm tired of having mismatched furniture.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "بلى. أنا متعب من عدم تطابق الأثاث.",
 			"Egyptian Arabic Audio": "eca-0602-4.mp3",
 			"Standard Arabic Audio": "msa-0602-4.mp3"
 		},
@@ -51,7 +51,7 @@
 			"English": "What are you planning to buy?",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ماذا تخطط لشراء؟",
 			"Egyptian Arabic Audio": "eca-0602-5.mp3",
 			"Standard Arabic Audio": "msa-0602-5.mp3"
 		},
@@ -61,7 +61,7 @@
 			"English": "A couch, a coffee table, and a reading chair.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أريكة وطاولة قهوة وكرسي للقراءة.",
 			"Egyptian Arabic Audio": "eca-0602-6.mp3",
 			"Standard Arabic Audio": "msa-0602-6.mp3"
 		},
@@ -71,7 +71,7 @@
 			"English": "Won't that be expensive?",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لن تكون مكلفة؟",
 			"Egyptian Arabic Audio": "eca-0602-7.mp3",
 			"Standard Arabic Audio": "msa-0602-7.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "There's a great sale going on right now!",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هناك بيع كبير يحدث الآن!",
 			"Egyptian Arabic Audio": "eca-0602-8.mp3",
 			"Standard Arabic Audio": "msa-0602-8.mp3"
 		},
@@ -91,7 +91,7 @@
 			"English": "Oh, that's great! You'll get good prices.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "اه هذا عظيم! ستحصل على أسعار جيدة.",
 			"Egyptian Arabic Audio": "eca-0602-9.mp3",
 			"Standard Arabic Audio": "msa-0602-9.mp3"
 		},
@@ -101,7 +101,7 @@
 			"English": "I hope I find what I'm looking for.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "آمل أن أجد ما أبحث عنه.",
 			"Egyptian Arabic Audio": "eca-0602-10.mp3",
 			"Standard Arabic Audio": "msa-0602-10.mp3"
 		},
@@ -111,7 +111,7 @@
 			"English": "Will you have it delivered?",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "سوف يكون لديك تسليمها؟",
 			"Egyptian Arabic Audio": "eca-0602-11.mp3",
 			"Standard Arabic Audio": "msa-0602-11.mp3"
 		},
@@ -121,7 +121,7 @@
 			"English": "No. I borrowed a pickup truck from a friend.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "رقم اقترضت شاحنة صغيرة من صديق.",
 			"Egyptian Arabic Audio": "eca-0602-12.mp3",
 			"Standard Arabic Audio": "msa-0602-12.mp3"
 		}

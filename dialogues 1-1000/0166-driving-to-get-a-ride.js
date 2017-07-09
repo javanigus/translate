@@ -11,7 +11,7 @@
 			"English": "Hey, can I get a ride?",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "مهلا، يمكنني الحصول على ركوب؟",
 			"Egyptian Arabic Audio": "eca-0166-1.mp3",
 			"Standard Arabic Audio": "msa-0166-1.mp3"
 		},
@@ -21,7 +21,7 @@
 			"English": "I don't know you very well.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنا لا أعرفك جيدا.",
 			"Egyptian Arabic Audio": "eca-0166-2.mp3",
 			"Standard Arabic Audio": "msa-0166-2.mp3"
 		},
@@ -31,7 +31,7 @@
 			"English": "We're in the same math class.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "نحن في نفس الصف الرياضيات.",
 			"Egyptian Arabic Audio": "eca-0166-3.mp3",
 			"Standard Arabic Audio": "msa-0166-3.mp3"
 		},
@@ -41,7 +41,7 @@
 			"English": "I know, but we're just classmates.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وأنا أعلم، ولكن نحن مجرد زملاء الدراسة.",
 			"Egyptian Arabic Audio": "eca-0166-4.mp3",
 			"Standard Arabic Audio": "msa-0166-4.mp3"
 		},
@@ -51,7 +51,7 @@
 			"English": "Please! My house is far away, and it's hot.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "رجاء! بيتي بعيد، وانه حار.",
 			"Egyptian Arabic Audio": "eca-0166-5.mp3",
 			"Standard Arabic Audio": "msa-0166-5.mp3"
 		},
@@ -61,7 +61,7 @@
 			"English": "You can take the bus.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يمكنك أن تأخذ الحافلة.",
 			"Egyptian Arabic Audio": "eca-0166-6.mp3",
 			"Standard Arabic Audio": "msa-0166-6.mp3"
 		},
@@ -71,7 +71,7 @@
 			"English": "The bus doesn't come for another hour.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "الحافلة لا تأتي لساعة أخرى.",
 			"Egyptian Arabic Audio": "eca-0166-7.mp3",
 			"Standard Arabic Audio": "msa-0166-7.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "Surely you can wait.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "بالتأكيد يمكنك الانتظار.",
 			"Egyptian Arabic Audio": "eca-0166-8.mp3",
 			"Standard Arabic Audio": "msa-0166-8.mp3"
 		},
@@ -91,7 +91,7 @@
 			"English": "No, I can't. I have to be home soon.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لا، لا أستطيع. لا بد لي من المنزل قريبا.",
 			"Egyptian Arabic Audio": "eca-0166-9.mp3",
 			"Standard Arabic Audio": "msa-0166-9.mp3"
 		},
@@ -101,7 +101,7 @@
 			"English": "I'll drive you, but only for a price.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنا سوف تدفع لك، ولكن فقط لسعر.",
 			"Egyptian Arabic Audio": "eca-0166-10.mp3",
 			"Standard Arabic Audio": "msa-0166-10.mp3"
 		},
@@ -111,7 +111,7 @@
 			"English": "You name it.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "سمها ما شئت.",
 			"Egyptian Arabic Audio": "eca-0166-11.mp3",
 			"Standard Arabic Audio": "msa-0166-11.mp3"
 		},
@@ -121,7 +121,7 @@
 			"English": "Buy me dinner.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "شراء لي العشاء.",
 			"Egyptian Arabic Audio": "eca-0166-12.mp3",
 			"Standard Arabic Audio": "msa-0166-12.mp3"
 		}

@@ -9,7 +9,7 @@
 			"English": "Ms White goes to a clothing store.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "السيدة الأبيض يذهب إلى متجر لبيع الملابس.",
 			"Egyptian Arabic Audio": "eca-0577-1.mp3",
 			"Standard Arabic Audio": "msa-0577-1.mp3"
 		},
@@ -18,7 +18,7 @@
 			"English": "The dresses are on sale.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "الفساتين هي للبيع.",
 			"Egyptian Arabic Audio": "eca-0577-2.mp3",
 			"Standard Arabic Audio": "msa-0577-2.mp3"
 		},
@@ -27,7 +27,7 @@
 			"English": "She buys a dress for her daughter.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "تشتري لباس لابنتها.",
 			"Egyptian Arabic Audio": "eca-0577-3.mp3",
 			"Standard Arabic Audio": "msa-0577-3.mp3"
 		},
@@ -36,7 +36,7 @@
 			"English": "It is blue with yellow flowers.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "إنه أزرق مع الزهور الصفراء.",
 			"Egyptian Arabic Audio": "eca-0577-4.mp3",
 			"Standard Arabic Audio": "msa-0577-4.mp3"
 		},
@@ -45,7 +45,7 @@
 			"English": "Ms.",
 			"Word Count": 1,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "الآنسة.",
 			"Egyptian Arabic Audio": "eca-0577-5.mp3",
 			"Standard Arabic Audio": "msa-0577-5.mp3"
 		},
@@ -54,7 +54,7 @@
 			"English": "White takes the dress home.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "الأبيض يأخذ اللباس المنزل.",
 			"Egyptian Arabic Audio": "eca-0577-6.mp3",
 			"Standard Arabic Audio": "msa-0577-6.mp3"
 		},
@@ -63,7 +63,7 @@
 			"English": "Her daughter tries it on.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ابنتها تحاول ذلك.",
 			"Egyptian Arabic Audio": "eca-0577-7.mp3",
 			"Standard Arabic Audio": "msa-0577-7.mp3"
 		},
@@ -72,7 +72,7 @@
 			"English": "It doesn't fit.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنها لا تناسب.",
 			"Egyptian Arabic Audio": "eca-0577-8.mp3",
 			"Standard Arabic Audio": "msa-0577-8.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "It is too tight.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "فمن ضيق جدا.",
 			"Egyptian Arabic Audio": "eca-0577-9.mp3",
 			"Standard Arabic Audio": "msa-0577-9.mp3"
 		},
@@ -90,7 +90,7 @@
 			"English": "Ms.",
 			"Word Count": 1,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "الآنسة.",
 			"Egyptian Arabic Audio": "eca-0577-10.mp3",
 			"Standard Arabic Audio": "msa-0577-10.mp3"
 		},
@@ -99,7 +99,7 @@
 			"English": "White goes back to the store.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "الأبيض يعود إلى المتجر.",
 			"Egyptian Arabic Audio": "eca-0577-11.mp3",
 			"Standard Arabic Audio": "msa-0577-11.mp3"
 		},
@@ -108,7 +108,7 @@
 			"English": "She wants her money back.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "إنها تريد أموالها.",
 			"Egyptian Arabic Audio": "eca-0577-12.mp3",
 			"Standard Arabic Audio": "msa-0577-12.mp3"
 		},
@@ -117,7 +117,7 @@
 			"English": "The cashier says, \"Sorry, all sales are final.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يقول أمين الصندوق: &quot;عذرا، جميع المبيعات نهائية.",
 			"Egyptian Arabic Audio": "eca-0577-13.mp3",
 			"Standard Arabic Audio": "msa-0577-13.mp3"
 		},
@@ -126,7 +126,7 @@
 			"English": "\".",
 			"Word Count": 1,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "&quot;.",
 			"Egyptian Arabic Audio": "eca-0577-14.mp3",
 			"Standard Arabic Audio": "msa-0577-14.mp3"
 		}

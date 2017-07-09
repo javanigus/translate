@@ -11,7 +11,7 @@
 			"English": "Is this Gage Avenue?",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هل هذا شارع غيج؟",
 			"Egyptian Arabic Audio": "eca-0718-1.mp3",
 			"Standard Arabic Audio": "msa-0718-1.mp3"
 		},
@@ -21,7 +21,7 @@
 			"English": "No, this is Florence Avenue.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لا، هذا هو شارع فلورنسا.",
 			"Egyptian Arabic Audio": "eca-0718-2.mp3",
 			"Standard Arabic Audio": "msa-0718-2.mp3"
 		},
@@ -31,7 +31,7 @@
 			"English": "Oh, no. I must've gotten off the bus too early.",
 			"Word Count": 10,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أوه، لا. أنا يجب أن حصلت قبالة الحافلة في وقت مبكر جدا.",
 			"Egyptian Arabic Audio": "eca-0718-3.mp3",
 			"Standard Arabic Audio": "msa-0718-3.mp3"
 		},
@@ -41,7 +41,7 @@
 			"English": "Don't worry. We all make mistakes.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لا تقلق. نحن جميعا نخطئ.",
 			"Egyptian Arabic Audio": "eca-0718-4.mp3",
 			"Standard Arabic Audio": "msa-0718-4.mp3"
 		},
@@ -51,7 +51,7 @@
 			"English": "Thank you for that.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "شكرا لك على ذلك.",
 			"Egyptian Arabic Audio": "eca-0718-5.mp3",
 			"Standard Arabic Audio": "msa-0718-5.mp3"
 		},
@@ -61,7 +61,7 @@
 			"English": "Maybe I can help you get to where you're going.",
 			"Word Count": 10,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ربما أستطيع مساعدتك في الوصول إلى أين أنت ذاهب.",
 			"Egyptian Arabic Audio": "eca-0718-6.mp3",
 			"Standard Arabic Audio": "msa-0718-6.mp3"
 		},
@@ -71,7 +71,7 @@
 			"English": "Are you sure it wouldn't be any trouble?",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هل أنت متأكد أنه لن يكون أي مشكلة؟",
 			"Egyptian Arabic Audio": "eca-0718-7.mp3",
 			"Standard Arabic Audio": "msa-0718-7.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "No trouble at all.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لا مشكله على الاطلاق.",
 			"Egyptian Arabic Audio": "eca-0718-8.mp3",
 			"Standard Arabic Audio": "msa-0718-8.mp3"
 		},
@@ -91,7 +91,7 @@
 			"English": "How much further is Gage Avenue?",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ما هو أبعد من ذلك هو غيج أفينو؟",
 			"Egyptian Arabic Audio": "eca-0718-9.mp3",
 			"Standard Arabic Audio": "msa-0718-9.mp3"
 		},
@@ -101,7 +101,7 @@
 			"English": "Not too far. It's a fifteen-minute walk from here.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ليس بعيدا جدا. إنه على بعد 15 دقيقة سيرا على الأقدام من هنا.",
 			"Egyptian Arabic Audio": "eca-0718-10.mp3",
 			"Standard Arabic Audio": "msa-0718-10.mp3"
 		},
@@ -111,7 +111,7 @@
 			"English": "Can you please point me towards the right direction?",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هل يمكنك أن توجهني نحو الاتجاه الصحيح؟",
 			"Egyptian Arabic Audio": "eca-0718-11.mp3",
 			"Standard Arabic Audio": "msa-0718-11.mp3"
 		},
@@ -121,7 +121,7 @@
 			"English": "Sure. You're going to head south from here.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "بالتأكيد. أنت ذاهب إلى الجنوب من هنا.",
 			"Egyptian Arabic Audio": "eca-0718-12.mp3",
 			"Standard Arabic Audio": "msa-0718-12.mp3"
 		},
@@ -131,7 +131,7 @@
 			"English": "South is that way?",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "الجنوب بهذه الطريقة؟",
 			"Egyptian Arabic Audio": "eca-0718-13.mp3",
 			"Standard Arabic Audio": "msa-0718-13.mp3"
 		},
@@ -141,7 +141,7 @@
 			"English": "No that's north. South is the opposite way.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لا هذا الشمال. الجنوب هو العكس.",
 			"Egyptian Arabic Audio": "eca-0718-14.mp3",
 			"Standard Arabic Audio": "msa-0718-14.mp3"
 		}

@@ -11,7 +11,7 @@
 			"English": "Will you go out with me?",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هل تخرج معي؟",
 			"Egyptian Arabic Audio": "eca-0133-1.mp3",
 			"Standard Arabic Audio": "msa-0133-1.mp3"
 		},
@@ -21,7 +21,7 @@
 			"English": "I think I'll pass.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أعتقد أنني سوف تمر.",
 			"Egyptian Arabic Audio": "eca-0133-2.mp3",
 			"Standard Arabic Audio": "msa-0133-2.mp3"
 		},
@@ -31,7 +31,7 @@
 			"English": "Why are you rejecting me?",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لماذا ترفضني؟",
 			"Egyptian Arabic Audio": "eca-0133-3.mp3",
 			"Standard Arabic Audio": "msa-0133-3.mp3"
 		},
@@ -41,7 +41,7 @@
 			"English": "You just want to date me because I am rich.",
 			"Word Count": 10,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنت فقط تريد أن تاريخ لي لأنني غنية.",
 			"Egyptian Arabic Audio": "eca-0133-4.mp3",
 			"Standard Arabic Audio": "msa-0133-4.mp3"
 		},
@@ -51,7 +51,7 @@
 			"English": "That's not true.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هذا ليس صحيحا.",
 			"Egyptian Arabic Audio": "eca-0133-5.mp3",
 			"Standard Arabic Audio": "msa-0133-5.mp3"
 		},
@@ -61,7 +61,7 @@
 			"English": "I heard you talking to your friends about my money.",
 			"Word Count": 10,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "سمعت أنك تتحدث إلى أصدقائك عن أموالي.",
 			"Egyptian Arabic Audio": "eca-0133-6.mp3",
 			"Standard Arabic Audio": "msa-0133-6.mp3"
 		},
@@ -71,7 +71,7 @@
 			"English": "I was just kidding.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كنت أمزح فقط.",
 			"Egyptian Arabic Audio": "eca-0133-7.mp3",
 			"Standard Arabic Audio": "msa-0133-7.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "You're a terrible liar.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنت كذاب رهيب.",
 			"Egyptian Arabic Audio": "eca-0133-8.mp3",
 			"Standard Arabic Audio": "msa-0133-8.mp3"
 		},
@@ -91,7 +91,7 @@
 			"English": "Okay, you got me.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "حسنا، حصلت لي.",
 			"Egyptian Arabic Audio": "eca-0133-9.mp3",
 			"Standard Arabic Audio": "msa-0133-9.mp3"
 		},
@@ -101,7 +101,7 @@
 			"English": "How long did you plan on dating me if I said yes?",
 			"Word Count": 12,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كم من الوقت كنت تخطط على التعارف لي إذا قلت نعم؟",
 			"Egyptian Arabic Audio": "eca-0133-10.mp3",
 			"Standard Arabic Audio": "msa-0133-10.mp3"
 		},
@@ -111,7 +111,7 @@
 			"English": "I planned on marrying you and then taking your money.",
 			"Word Count": 10,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "خططت على الزواج منك ثم أخذ أموالك.",
 			"Egyptian Arabic Audio": "eca-0133-11.mp3",
 			"Standard Arabic Audio": "msa-0133-11.mp3"
 		},
@@ -121,7 +121,7 @@
 			"English": "You are disgusting.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنت مثير للاشمئزاز.",
 			"Egyptian Arabic Audio": "eca-0133-12.mp3",
 			"Standard Arabic Audio": "msa-0133-12.mp3"
 		}

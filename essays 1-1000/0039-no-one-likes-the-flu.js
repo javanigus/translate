@@ -9,7 +9,7 @@
 			"English": "He is sick.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هو مريض.",
 			"Egyptian Arabic Audio": "eca-0039-1.mp3",
 			"Standard Arabic Audio": "msa-0039-1.mp3"
 		},
@@ -18,7 +18,7 @@
 			"English": "He goes to the doctor.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يذهب إلى الطبيب.",
 			"Egyptian Arabic Audio": "eca-0039-2.mp3",
 			"Standard Arabic Audio": "msa-0039-2.mp3"
 		},
@@ -27,7 +27,7 @@
 			"English": "The doctor give him some medicine.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "الطبيب يعطيه بعض الأدوية.",
 			"Egyptian Arabic Audio": "eca-0039-3.mp3",
 			"Standard Arabic Audio": "msa-0039-3.mp3"
 		},
@@ -36,7 +36,7 @@
 			"English": "He is still sick after one week.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ولا يزال مريضا بعد أسبوع واحد.",
 			"Egyptian Arabic Audio": "eca-0039-4.mp3",
 			"Standard Arabic Audio": "msa-0039-4.mp3"
 		},
@@ -45,7 +45,7 @@
 			"English": "His mom tells him to go to sleep.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "والدته تقول له أن يذهب إلى النوم.",
 			"Egyptian Arabic Audio": "eca-0039-5.mp3",
 			"Standard Arabic Audio": "msa-0039-5.mp3"
 		},
@@ -54,7 +54,7 @@
 			"English": "He lies in bed all day.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انه يكمن في السرير طوال اليوم.",
 			"Egyptian Arabic Audio": "eca-0039-6.mp3",
 			"Standard Arabic Audio": "msa-0039-6.mp3"
 		},
@@ -63,7 +63,7 @@
 			"English": "He rests.",
 			"Word Count": 2,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وهو يقع.",
 			"Egyptian Arabic Audio": "eca-0039-7.mp3",
 			"Standard Arabic Audio": "msa-0039-7.mp3"
 		},
@@ -72,7 +72,7 @@
 			"English": "He drinks chicken soup and eats vegetables.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وهو يشرب حساء الدجاج ويأكل الخضراوات.",
 			"Egyptian Arabic Audio": "eca-0039-8.mp3",
 			"Standard Arabic Audio": "msa-0039-8.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "He is still sick.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انه لا يزال مريضا.",
 			"Egyptian Arabic Audio": "eca-0039-9.mp3",
 			"Standard Arabic Audio": "msa-0039-9.mp3"
 		},
@@ -90,7 +90,7 @@
 			"English": "No one likes the flu.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لا أحد يحب الانفلونزا.",
 			"Egyptian Arabic Audio": "eca-0039-10.mp3",
 			"Standard Arabic Audio": "msa-0039-10.mp3"
 		}

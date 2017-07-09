@@ -9,7 +9,7 @@
 			"English": "He is playing video games.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وهو يلعب ألعاب الفيديو.",
 			"Egyptian Arabic Audio": "eca-0005-1.mp3",
 			"Standard Arabic Audio": "msa-0005-1.mp3"
 		},
@@ -18,7 +18,7 @@
 			"English": "Mom gets mad.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أمي يحصل جنون.",
 			"Egyptian Arabic Audio": "eca-0005-2.mp3",
 			"Standard Arabic Audio": "msa-0005-2.mp3"
 		},
@@ -27,7 +27,7 @@
 			"English": "She thinks he is lazy.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انها تعتقد انه كسول.",
 			"Egyptian Arabic Audio": "eca-0005-3.mp3",
 			"Standard Arabic Audio": "msa-0005-3.mp3"
 		},
@@ -36,7 +36,7 @@
 			"English": "She gives him a list of chores.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انها تعطي له قائمة من الأعمال المنزلية.",
 			"Egyptian Arabic Audio": "eca-0005-4.mp3",
 			"Standard Arabic Audio": "msa-0005-4.mp3"
 		},
@@ -45,7 +45,7 @@
 			"English": "He frowns.",
 			"Word Count": 2,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وقال انه عبث.",
 			"Egyptian Arabic Audio": "eca-0005-5.mp3",
 			"Standard Arabic Audio": "msa-0005-5.mp3"
 		},
@@ -54,7 +54,7 @@
 			"English": "He looks at the list.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وهو ينظر إلى القائمة.",
 			"Egyptian Arabic Audio": "eca-0005-6.mp3",
 			"Standard Arabic Audio": "msa-0005-6.mp3"
 		},
@@ -63,7 +63,7 @@
 			"English": "He has to clean the floors.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لديه لتنظيف الأرضيات.",
 			"Egyptian Arabic Audio": "eca-0005-7.mp3",
 			"Standard Arabic Audio": "msa-0005-7.mp3"
 		},
@@ -72,7 +72,7 @@
 			"English": "Then, he has to wash the dishes.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ثم، لديه لغسل الأطباق.",
 			"Egyptian Arabic Audio": "eca-0005-8.mp3",
 			"Standard Arabic Audio": "msa-0005-8.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "Finally, he has to feed his dog.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وأخيرا، لديه لإطعام كلبه.",
 			"Egyptian Arabic Audio": "eca-0005-9.mp3",
 			"Standard Arabic Audio": "msa-0005-9.mp3"
 		},
@@ -90,7 +90,7 @@
 			"English": "He starts doing his chores.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انه يبدأ القيام بالأعمال المنزلية.",
 			"Egyptian Arabic Audio": "eca-0005-10.mp3",
 			"Standard Arabic Audio": "msa-0005-10.mp3"
 		}

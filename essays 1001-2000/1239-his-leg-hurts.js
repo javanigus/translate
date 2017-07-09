@@ -9,7 +9,7 @@
 			"English": "There was something wrong with his leg.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كان هناك شيء خاطئ في ساقه.",
 			"Egyptian Arabic Audio": "eca-1239-1.mp3",
 			"Standard Arabic Audio": "msa-1239-1.mp3"
 		},
@@ -18,7 +18,7 @@
 			"English": "It burned.",
 			"Word Count": 2,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنه أحرق.",
 			"Egyptian Arabic Audio": "eca-1239-2.mp3",
 			"Standard Arabic Audio": "msa-1239-2.mp3"
 		},
@@ -27,7 +27,7 @@
 			"English": "But it burned in one spot only.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لكنها أحرقت في بقعة واحدة فقط.",
 			"Egyptian Arabic Audio": "eca-1239-3.mp3",
 			"Standard Arabic Audio": "msa-1239-3.mp3"
 		},
@@ -36,7 +36,7 @@
 			"English": "He didn't know what was wrong.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وقال انه لا يعرف ما هو الخطأ.",
 			"Egyptian Arabic Audio": "eca-1239-4.mp3",
 			"Standard Arabic Audio": "msa-1239-4.mp3"
 		},
@@ -45,7 +45,7 @@
 			"English": "The spot was smaller than a dime.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كانت البقعة أصغر من الدايم.",
 			"Egyptian Arabic Audio": "eca-1239-5.mp3",
 			"Standard Arabic Audio": "msa-1239-5.mp3"
 		},
@@ -54,7 +54,7 @@
 			"English": "It was on the back of his leg.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كان على ظهر ساقه.",
 			"Egyptian Arabic Audio": "eca-1239-6.mp3",
 			"Standard Arabic Audio": "msa-1239-6.mp3"
 		},
@@ -63,7 +63,7 @@
 			"English": "He picked up a hand mirror.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انه التقط مرآة اليد.",
 			"Egyptian Arabic Audio": "eca-1239-7.mp3",
 			"Standard Arabic Audio": "msa-1239-7.mp3"
 		},
@@ -72,7 +72,7 @@
 			"English": "He used the hand mirror to look at the back of his leg.",
 			"Word Count": 13,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كان يستخدم مرآة اليد للنظر في الجزء الخلفي من ساقه.",
 			"Egyptian Arabic Audio": "eca-1239-8.mp3",
 			"Standard Arabic Audio": "msa-1239-8.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "He saw a small lump.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "رأى قطعة صغيرة.",
 			"Egyptian Arabic Audio": "eca-1239-9.mp3",
 			"Standard Arabic Audio": "msa-1239-9.mp3"
 		},
@@ -90,7 +90,7 @@
 			"English": "He put his finger on the lump.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وضع إصبعه على المقطوع.",
 			"Egyptian Arabic Audio": "eca-1239-10.mp3",
 			"Standard Arabic Audio": "msa-1239-10.mp3"
 		},
@@ -99,7 +99,7 @@
 			"English": "The lump was hard.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كان المقطع صعبا.",
 			"Egyptian Arabic Audio": "eca-1239-11.mp3",
 			"Standard Arabic Audio": "msa-1239-11.mp3"
 		},
@@ -108,7 +108,7 @@
 			"English": "It wasn't a soft lump.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لم تكن قطعة ناعمة.",
 			"Egyptian Arabic Audio": "eca-1239-12.mp3",
 			"Standard Arabic Audio": "msa-1239-12.mp3"
 		},
@@ -117,7 +117,7 @@
 			"English": "The lump felt like a small stone.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "شعرت مقطوع مثل حجر صغير.",
 			"Egyptian Arabic Audio": "eca-1239-13.mp3",
 			"Standard Arabic Audio": "msa-1239-13.mp3"
 		},
@@ -126,7 +126,7 @@
 			"English": "It was like a small stone under his skin.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كان مثل حجر صغير تحت جلده.",
 			"Egyptian Arabic Audio": "eca-1239-14.mp3",
 			"Standard Arabic Audio": "msa-1239-14.mp3"
 		},
@@ -135,7 +135,7 @@
 			"English": "But it was like a small stone that was on fire.",
 			"Word Count": 11,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ولكن كان مثل حجر صغير كان على النار.",
 			"Egyptian Arabic Audio": "eca-1239-15.mp3",
 			"Standard Arabic Audio": "msa-1239-15.mp3"
 		},
@@ -144,7 +144,7 @@
 			"English": "It burned.",
 			"Word Count": 2,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنه أحرق.",
 			"Egyptian Arabic Audio": "eca-1239-16.mp3",
 			"Standard Arabic Audio": "msa-1239-16.mp3"
 		},
@@ -153,7 +153,7 @@
 			"English": "Something was wrong.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كان هناك شيء خاطئ.",
 			"Egyptian Arabic Audio": "eca-1239-17.mp3",
 			"Standard Arabic Audio": "msa-1239-17.mp3"
 		},
@@ -162,7 +162,7 @@
 			"English": "He needed to see a doctor.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كان بحاجة لرؤية الطبيب.",
 			"Egyptian Arabic Audio": "eca-1239-18.mp3",
 			"Standard Arabic Audio": "msa-1239-18.mp3"
 		}

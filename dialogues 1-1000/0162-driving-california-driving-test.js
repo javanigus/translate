@@ -11,7 +11,7 @@
 			"English": "Are you nervous for your driving test?",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هل أنت عصبي لاختبار القيادة الخاصة بك؟",
 			"Egyptian Arabic Audio": "eca-0162-1.mp3",
 			"Standard Arabic Audio": "msa-0162-1.mp3"
 		},
@@ -21,7 +21,7 @@
 			"English": "Yeah, I don't want to fail.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "نعم، أنا لا أريد أن تفشل.",
 			"Egyptian Arabic Audio": "eca-0162-2.mp3",
 			"Standard Arabic Audio": "msa-0162-2.mp3"
 		},
@@ -31,7 +31,7 @@
 			"English": "You won't. You have been practicing a lot.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنت لن. كنت تمارس الكثير.",
 			"Egyptian Arabic Audio": "eca-0162-3.mp3",
 			"Standard Arabic Audio": "msa-0162-3.mp3"
 		},
@@ -41,7 +41,7 @@
 			"English": "There's one thing I was never good at.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هناك شيء واحد كنت أبدا جيدة في.",
 			"Egyptian Arabic Audio": "eca-0162-4.mp3",
 			"Standard Arabic Audio": "msa-0162-4.mp3"
 		},
@@ -51,7 +51,7 @@
 			"English": "What is that one thing?",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ما هو هذا الشيء؟",
 			"Egyptian Arabic Audio": "eca-0162-5.mp3",
 			"Standard Arabic Audio": "msa-0162-5.mp3"
 		},
@@ -61,7 +61,7 @@
 			"English": "Right turns.",
 			"Word Count": 2,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يمينا.",
 			"Egyptian Arabic Audio": "eca-0162-6.mp3",
 			"Standard Arabic Audio": "msa-0162-6.mp3"
 		},
@@ -71,7 +71,7 @@
 			"English": "What's wrong with your right turns?",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ما هو الخطأ في المنعطفات الصحيحة؟",
 			"Egyptian Arabic Audio": "eca-0162-7.mp3",
 			"Standard Arabic Audio": "msa-0162-7.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "They're too wide.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انهم واسعة جدا.",
 			"Egyptian Arabic Audio": "eca-0162-8.mp3",
 			"Standard Arabic Audio": "msa-0162-8.mp3"
 		},
@@ -91,7 +91,7 @@
 			"English": "We can practice right now.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يمكننا ممارسة الآن.",
 			"Egyptian Arabic Audio": "eca-0162-9.mp3",
 			"Standard Arabic Audio": "msa-0162-9.mp3"
 		},
@@ -101,7 +101,7 @@
 			"English": "You would do that for me?",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "سوف تفعل ذلك بالنسبة لي؟",
 			"Egyptian Arabic Audio": "eca-0162-10.mp3",
 			"Standard Arabic Audio": "msa-0162-10.mp3"
 		},
@@ -111,7 +111,7 @@
 			"English": "Of course! I want you to pass.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "بالتاكيد! أريدك أن تمر.",
 			"Egyptian Arabic Audio": "eca-0162-11.mp3",
 			"Standard Arabic Audio": "msa-0162-11.mp3"
 		},
@@ -121,7 +121,7 @@
 			"English": "Alright, let's do this.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "حسنا، دعونا نفعل ذلك.",
 			"Egyptian Arabic Audio": "eca-0162-12.mp3",
 			"Standard Arabic Audio": "msa-0162-12.mp3"
 		}

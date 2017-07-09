@@ -9,7 +9,7 @@
 			"English": "Katherine started to think.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "بدأت كاثرين في التفكير.",
 			"Egyptian Arabic Audio": "eca-2242-1.mp3",
 			"Standard Arabic Audio": "msa-2242-1.mp3"
 		},
@@ -18,7 +18,7 @@
 			"English": "She looked at the list of over 500 friends she had on Facebook and realized some of them were not really friends at all.",
 			"Word Count": 24,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "نظرت إلى قائمة أكثر من 500 صديق كان لديها في الفيسبوك وأدركت بعض منهم لم يكن حقا أصدقاء على الإطلاق.",
 			"Egyptian Arabic Audio": "eca-2242-2.mp3",
 			"Standard Arabic Audio": "msa-2242-2.mp3"
 		}

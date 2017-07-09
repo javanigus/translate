@@ -11,7 +11,7 @@
 			"English": "What are you playing?",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ماذا تلعب؟",
 			"Egyptian Arabic Audio": "eca-0979-1.mp3",
 			"Standard Arabic Audio": "msa-0979-1.mp3"
 		},
@@ -21,7 +21,7 @@
 			"English": "I'm playing a new game I bought yesterday.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنا ألعب لعبة جديدة اشتريت أمس.",
 			"Egyptian Arabic Audio": "eca-0979-2.mp3",
 			"Standard Arabic Audio": "msa-0979-2.mp3"
 		},
@@ -31,7 +31,7 @@
 			"English": "Is it one of those shooting games?",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هل هي واحدة من تلك الألعاب اطلاق النار؟",
 			"Egyptian Arabic Audio": "eca-0979-3.mp3",
 			"Standard Arabic Audio": "msa-0979-3.mp3"
 		},
@@ -41,7 +41,7 @@
 			"English": "No, it's not a shooting game.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لا، انها ليست لعبة اطلاق النار.",
 			"Egyptian Arabic Audio": "eca-0979-4.mp3",
 			"Standard Arabic Audio": "msa-0979-4.mp3"
 		},
@@ -51,7 +51,7 @@
 			"English": "Is it a sports game?",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هل هي لعبة رياضية؟",
 			"Egyptian Arabic Audio": "eca-0979-5.mp3",
 			"Standard Arabic Audio": "msa-0979-5.mp3"
 		},
@@ -61,7 +61,7 @@
 			"English": "It's a role-playing game.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انها لعبة الأدوار.",
 			"Egyptian Arabic Audio": "eca-0979-6.mp3",
 			"Standard Arabic Audio": "msa-0979-6.mp3"
 		},
@@ -71,7 +71,7 @@
 			"English": "What's a role-playing game?",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ما هي لعبة الأدوار؟",
 			"Egyptian Arabic Audio": "eca-0979-7.mp3",
 			"Standard Arabic Audio": "msa-0979-7.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "You play as a character and complete missions.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كنت تلعب كحرف وبعثات كاملة.",
 			"Egyptian Arabic Audio": "eca-0979-8.mp3",
 			"Standard Arabic Audio": "msa-0979-8.mp3"
 		},
@@ -91,7 +91,7 @@
 			"English": "That doesn't sound too hard.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هذا لا يبدو من الصعب جدا.",
 			"Egyptian Arabic Audio": "eca-0979-9.mp3",
 			"Standard Arabic Audio": "msa-0979-9.mp3"
 		},
@@ -101,7 +101,7 @@
 			"English": "Some of the missions take a lot of cleverness!",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "بعض البعثات تأخذ الكثير من الذكاء!",
 			"Egyptian Arabic Audio": "eca-0979-10.mp3",
 			"Standard Arabic Audio": "msa-0979-10.mp3"
 		},
@@ -111,7 +111,7 @@
 			"English": "Then I'll stick to shooting games.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ثم سألتزم ألعاب الرماية.",
 			"Egyptian Arabic Audio": "eca-0979-11.mp3",
 			"Standard Arabic Audio": "msa-0979-11.mp3"
 		},
@@ -121,7 +121,7 @@
 			"English": "All that'll do is kill your brain cells.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كل ما سوف تفعله هو قتل خلايا الدماغ.",
 			"Egyptian Arabic Audio": "eca-0979-12.mp3",
 			"Standard Arabic Audio": "msa-0979-12.mp3"
 		}

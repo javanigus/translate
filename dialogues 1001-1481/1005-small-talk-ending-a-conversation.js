@@ -11,7 +11,7 @@
 			"English": "It was nice talking to you.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "سعدت بالكلام معك.",
 			"Egyptian Arabic Audio": "eca-1005-1.mp3",
 			"Standard Arabic Audio": "msa-1005-1.mp3"
 		},
@@ -21,7 +21,7 @@
 			"English": "Why are you trying to rush me off the phone?",
 			"Word Count": 10,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لماذا تحاول تسرعني من الهاتف؟",
 			"Egyptian Arabic Audio": "eca-1005-2.mp3",
 			"Standard Arabic Audio": "msa-1005-2.mp3"
 		},
@@ -31,7 +31,7 @@
 			"English": "I really have to go.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنا حقا يجب أن أذهب.",
 			"Egyptian Arabic Audio": "eca-1005-3.mp3",
 			"Standard Arabic Audio": "msa-1005-3.mp3"
 		},
@@ -41,7 +41,7 @@
 			"English": "Why? I still wanted to talk to you.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لماذا ا؟ ما زلت أريد أن أتحدث إليكم.",
 			"Egyptian Arabic Audio": "eca-1005-4.mp3",
 			"Standard Arabic Audio": "msa-1005-4.mp3"
 		},
@@ -51,7 +51,7 @@
 			"English": "I have things to do.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لدي أشياء للقيام بها.",
 			"Egyptian Arabic Audio": "eca-1005-5.mp3",
 			"Standard Arabic Audio": "msa-1005-5.mp3"
 		},
@@ -61,7 +61,7 @@
 			"English": "Like what?",
 			"Word Count": 2,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "مثل ماذا؟",
 			"Egyptian Arabic Audio": "eca-1005-6.mp3",
 			"Standard Arabic Audio": "msa-1005-6.mp3"
 		},
@@ -71,7 +71,7 @@
 			"English": "Don't be nosey.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لا تكون فضولي.",
 			"Egyptian Arabic Audio": "eca-1005-7.mp3",
 			"Standard Arabic Audio": "msa-1005-7.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "I'm not. I just want to know.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنالست. انا فقط اريد ان اعرف.",
 			"Egyptian Arabic Audio": "eca-1005-8.mp3",
 			"Standard Arabic Audio": "msa-1005-8.mp3"
 		},
@@ -91,7 +91,7 @@
 			"English": "Well, it's really none of your business.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "حسنا، انها حقا لا شيء من عملك.",
 			"Egyptian Arabic Audio": "eca-1005-9.mp3",
 			"Standard Arabic Audio": "msa-1005-9.mp3"
 		},
@@ -101,7 +101,7 @@
 			"English": "That's harsh.",
 			"Word Count": 2,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هذا قاس.",
 			"Egyptian Arabic Audio": "eca-1005-10.mp3",
 			"Standard Arabic Audio": "msa-1005-10.mp3"
 		},
@@ -111,7 +111,7 @@
 			"English": "I'm sorry, but I have to go.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنا آسف، ولكن يجب أن أذهب.",
 			"Egyptian Arabic Audio": "eca-1005-11.mp3",
 			"Standard Arabic Audio": "msa-1005-11.mp3"
 		},
@@ -121,7 +121,7 @@
 			"English": "Fine.",
 			"Word Count": 1,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "غرامة.",
 			"Egyptian Arabic Audio": "eca-1005-12.mp3",
 			"Standard Arabic Audio": "msa-1005-12.mp3"
 		},
@@ -131,7 +131,7 @@
 			"English": "I've enjoyed conversing with you.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لقد استمتعت بالتحدث معك.",
 			"Egyptian Arabic Audio": "eca-1005-13.mp3",
 			"Standard Arabic Audio": "msa-1005-13.mp3"
 		},
@@ -141,7 +141,7 @@
 			"English": "Is there a reason why you're trying to get off the phone so fast?",
 			"Word Count": 14,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هل هناك سبب يجعلك تحاول الخروج من الهاتف بسرعة؟",
 			"Egyptian Arabic Audio": "eca-1005-14.mp3",
 			"Standard Arabic Audio": "msa-1005-14.mp3"
 		},
@@ -151,7 +151,7 @@
 			"English": "I've got to go.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يجب أن أذهب.",
 			"Egyptian Arabic Audio": "eca-1005-15.mp3",
 			"Standard Arabic Audio": "msa-1005-15.mp3"
 		},
@@ -161,7 +161,7 @@
 			"English": "I wasn't done talking to you.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لم أكن أتم الحديث معك.",
 			"Egyptian Arabic Audio": "eca-1005-16.mp3",
 			"Standard Arabic Audio": "msa-1005-16.mp3"
 		},
@@ -171,7 +171,7 @@
 			"English": "I have to do some things, and besides, it's not polite to be nosey.",
 			"Word Count": 14,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يجب أن أفعل بعض الأشياء، وإلى جانب ذلك، انها ليست مهذبة لتكون فضولي.",
 			"Egyptian Arabic Audio": "eca-1005-17.mp3",
 			"Standard Arabic Audio": "msa-1005-17.mp3"
 		},
@@ -181,7 +181,7 @@
 			"English": "I'm not being nosey. I'm just asking.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنا لا يجري فضولي. انا اسالك فقط.",
 			"Egyptian Arabic Audio": "eca-1005-18.mp3",
 			"Standard Arabic Audio": "msa-1005-18.mp3"
 		},
@@ -191,7 +191,7 @@
 			"English": "I really don't think it's any of your business.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنا حقا لا أعتقد أنه من أي عملك.",
 			"Egyptian Arabic Audio": "eca-1005-19.mp3",
 			"Standard Arabic Audio": "msa-1005-19.mp3"
 		},
@@ -201,7 +201,7 @@
 			"English": "That's not nice.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هذا ليس لطيفا.",
 			"Egyptian Arabic Audio": "eca-1005-20.mp3",
 			"Standard Arabic Audio": "msa-1005-20.mp3"
 		},
@@ -211,7 +211,7 @@
 			"English": "I apologize, but I'm getting off the phone now.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أعتذر، لكني أخرج من الهاتف الآن.",
 			"Egyptian Arabic Audio": "eca-1005-21.mp3",
 			"Standard Arabic Audio": "msa-1005-21.mp3"
 		},
@@ -221,7 +221,7 @@
 			"English": "Okay.",
 			"Word Count": 1,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "حسنا.",
 			"Egyptian Arabic Audio": "eca-1005-22.mp3",
 			"Standard Arabic Audio": "msa-1005-22.mp3"
 		},
@@ -231,7 +231,7 @@
 			"English": "I'll talk to you later.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "سأتحدث إليك لاحقا.",
 			"Egyptian Arabic Audio": "eca-1005-23.mp3",
 			"Standard Arabic Audio": "msa-1005-23.mp3"
 		},
@@ -241,7 +241,7 @@
 			"English": "What's the rush?",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ما هو الاندفاع؟",
 			"Egyptian Arabic Audio": "eca-1005-24.mp3",
 			"Standard Arabic Audio": "msa-1005-24.mp3"
 		},
@@ -251,7 +251,7 @@
 			"English": "I have to get off the phone now.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لا بد لي من النزول من الهاتف الآن.",
 			"Egyptian Arabic Audio": "eca-1005-25.mp3",
 			"Standard Arabic Audio": "msa-1005-25.mp3"
 		},
@@ -261,7 +261,7 @@
 			"English": "I'm not ready to get off the phone with you.",
 			"Word Count": 10,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لست مستعدا للخروج من الهاتف معك.",
 			"Egyptian Arabic Audio": "eca-1005-26.mp3",
 			"Standard Arabic Audio": "msa-1005-26.mp3"
 		},
@@ -271,7 +271,7 @@
 			"English": "There are other things I need to take care of.",
 			"Word Count": 10,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هناك أشياء أخرى بحاجة لرعاية.",
 			"Egyptian Arabic Audio": "eca-1005-27.mp3",
 			"Standard Arabic Audio": "msa-1005-27.mp3"
 		},
@@ -281,7 +281,7 @@
 			"English": "What is it that you need to do?",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ما هو عليك أن تفعل؟",
 			"Egyptian Arabic Audio": "eca-1005-28.mp3",
 			"Standard Arabic Audio": "msa-1005-28.mp3"
 		},
@@ -291,7 +291,7 @@
 			"English": "Please don't be nosey.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "من فضلك لا تكون فضولي.",
 			"Egyptian Arabic Audio": "eca-1005-29.mp3",
 			"Standard Arabic Audio": "msa-1005-29.mp3"
 		},
@@ -301,7 +301,7 @@
 			"English": "I'm not being nosey, it's just a question.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنا لا يجري فضولي، انها مجرد سؤال.",
 			"Egyptian Arabic Audio": "eca-1005-30.mp3",
 			"Standard Arabic Audio": "msa-1005-30.mp3"
 		},
@@ -311,7 +311,7 @@
 			"English": "You don't need to worry about that.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لا داعي للقلق بشأن ذلك.",
 			"Egyptian Arabic Audio": "eca-1005-31.mp3",
 			"Standard Arabic Audio": "msa-1005-31.mp3"
 		},
@@ -321,7 +321,7 @@
 			"English": "That was mean to say.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كان هذا يعني القول.",
 			"Egyptian Arabic Audio": "eca-1005-32.mp3",
 			"Standard Arabic Audio": "msa-1005-32.mp3"
 		},
@@ -331,7 +331,7 @@
 			"English": "I am very sorry, but I must go.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنا آسف جدا، ولكن يجب أن أذهب.",
 			"Egyptian Arabic Audio": "eca-1005-33.mp3",
 			"Standard Arabic Audio": "msa-1005-33.mp3"
 		},
@@ -341,7 +341,7 @@
 			"English": "I guess.",
 			"Word Count": 2,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أظن.",
 			"Egyptian Arabic Audio": "eca-1005-34.mp3",
 			"Standard Arabic Audio": "msa-1005-34.mp3"
 		}

@@ -9,7 +9,7 @@
 			"English": "Lisa showed her mom the stuff she bought at the mall.",
 			"Word Count": 11,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أظهرت ليزا أمها الأشياء التي اشترتها في المركز التجاري.",
 			"Egyptian Arabic Audio": "eca-1187-1.mp3",
 			"Standard Arabic Audio": "msa-1187-1.mp3"
 		},
@@ -18,7 +18,7 @@
 			"English": "Her mom liked the shirts she bought.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أمها أحب القمصان التي اشترتها.",
 			"Egyptian Arabic Audio": "eca-1187-2.mp3",
 			"Standard Arabic Audio": "msa-1187-2.mp3"
 		},
@@ -27,7 +27,7 @@
 			"English": "She hated the jeans she bought though.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كرهت الجينز التي اشترتها رغم ذلك.",
 			"Egyptian Arabic Audio": "eca-1187-3.mp3",
 			"Standard Arabic Audio": "msa-1187-3.mp3"
 		},
@@ -36,7 +36,7 @@
 			"English": "The jeans were blue.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كانت الجينز زرقاء.",
 			"Egyptian Arabic Audio": "eca-1187-4.mp3",
 			"Standard Arabic Audio": "msa-1187-4.mp3"
 		},
@@ -45,7 +45,7 @@
 			"English": "There were a lot of holes.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كان هناك الكثير من الثقوب.",
 			"Egyptian Arabic Audio": "eca-1187-5.mp3",
 			"Standard Arabic Audio": "msa-1187-5.mp3"
 		},
@@ -54,7 +54,7 @@
 			"English": "\"That's damaged! Return it!\" her mom said.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "&quot;هذا معطوب! إعادته!&quot; قالت أمها.",
 			"Egyptian Arabic Audio": "eca-1187-6.mp3",
 			"Standard Arabic Audio": "msa-1187-6.mp3"
 		},
@@ -63,7 +63,7 @@
 			"English": "Lisa laughed at her mom.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "الوجه الصفع ليزا ضحك في أمها.",
 			"Egyptian Arabic Audio": "eca-1187-7.mp3",
 			"Standard Arabic Audio": "msa-1187-7.mp3"
 		},
@@ -72,7 +72,7 @@
 			"English": "\"I bought it like this!\" she said.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "&quot;اشتريت مثل هذا!&quot; .",
 			"Egyptian Arabic Audio": "eca-1187-8.mp3",
 			"Standard Arabic Audio": "msa-1187-8.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "\"Why would you buy something that is ruined?\" her mom asked.",
 			"Word Count": 11,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "&quot;لماذا تشتري شيئا مدمرا؟&quot; سألت أمها.",
 			"Egyptian Arabic Audio": "eca-1187-9.mp3",
 			"Standard Arabic Audio": "msa-1187-9.mp3"
 		},
@@ -90,7 +90,7 @@
 			"English": "\"It's stylish!\" Lisa said.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "&quot;انها أنيقة!&quot; وقالت ليزا.",
 			"Egyptian Arabic Audio": "eca-1187-10.mp3",
 			"Standard Arabic Audio": "msa-1187-10.mp3"
 		},
@@ -99,7 +99,7 @@
 			"English": "Her mom did not understand fashion trends.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لم أمها لا يفهم اتجاهات الموضة.",
 			"Egyptian Arabic Audio": "eca-1187-11.mp3",
 			"Standard Arabic Audio": "msa-1187-11.mp3"
 		},
@@ -108,7 +108,7 @@
 			"English": "Her mom thought Lisa could have made the holes herself.",
 			"Word Count": 10,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كانت أمي تعتقد أن ليزا قد جعلت الثقوب نفسها.",
 			"Egyptian Arabic Audio": "eca-1187-12.mp3",
 			"Standard Arabic Audio": "msa-1187-12.mp3"
 		},
@@ -117,7 +117,7 @@
 			"English": "Her mom looked at the price tag, and screamed.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "نظرت أمها إلى السعر، وصرخ.",
 			"Egyptian Arabic Audio": "eca-1187-13.mp3",
 			"Standard Arabic Audio": "msa-1187-13.mp3"
 		},
@@ -126,7 +126,7 @@
 			"English": "\"$50? Lizzie, you're insane,\" her mom said.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "&quot;50 $؟ ليتزي، أنت مجنون&quot; قالت أمها.",
 			"Egyptian Arabic Audio": "eca-1187-14.mp3",
 			"Standard Arabic Audio": "msa-1187-14.mp3"
 		},
@@ -135,7 +135,7 @@
 			"English": "\"More like insanely stylish!\" Lisa joked.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "&quot;أكثر مثل بجنون أنيق!&quot; ليزا مازحا.",
 			"Egyptian Arabic Audio": "eca-1187-15.mp3",
 			"Standard Arabic Audio": "msa-1187-15.mp3"
 		}

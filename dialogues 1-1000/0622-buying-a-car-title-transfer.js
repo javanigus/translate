@@ -11,7 +11,7 @@
 			"English": "So, I can give you the title transfer after you pay me.",
 			"Word Count": 12,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لذلك، يمكنني أن أعطيك نقل العنوان بعد أن تدفع لي.",
 			"Egyptian Arabic Audio": "eca-0622-1.mp3",
 			"Standard Arabic Audio": "msa-0622-1.mp3"
 		},
@@ -21,7 +21,7 @@
 			"English": "Okay, I can pay you in full today.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "حسنا، أستطيع أن أدفع لك بالكامل اليوم.",
 			"Egyptian Arabic Audio": "eca-0622-2.mp3",
 			"Standard Arabic Audio": "msa-0622-2.mp3"
 		},
@@ -31,7 +31,7 @@
 			"English": "That's great. I have the title transfer here with me.",
 			"Word Count": 10,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ذلك رائع. لدي نقل العنوان هنا معي.",
 			"Egyptian Arabic Audio": "eca-0622-3.mp3",
 			"Standard Arabic Audio": "msa-0622-3.mp3"
 		},
@@ -41,7 +41,7 @@
 			"English": "Great, what do I need to do?",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "عظيم، ماذا أحتاج إلى القيام به؟",
 			"Egyptian Arabic Audio": "eca-0622-4.mp3",
 			"Standard Arabic Audio": "msa-0622-4.mp3"
 		},
@@ -51,7 +51,7 @@
 			"English": "I just need you to fill in the information on this form.",
 			"Word Count": 12,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنا فقط بحاجة لك لملء المعلومات في هذا النموذج.",
 			"Egyptian Arabic Audio": "eca-0622-5.mp3",
 			"Standard Arabic Audio": "msa-0622-5.mp3"
 		},
@@ -61,7 +61,7 @@
 			"English": "And then you are going to take it to the DMV?",
 			"Word Count": 11,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ثم أنت ذاهب إلى أعتبر إلى دمف؟",
 			"Egyptian Arabic Audio": "eca-0622-6.mp3",
 			"Standard Arabic Audio": "msa-0622-6.mp3"
 		},
@@ -71,7 +71,7 @@
 			"English": "Yes, you should receive a notice from the DMV in the mail.",
 			"Word Count": 12,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "نعم، يجب أن تتلقى إشعارا من دمف في البريد.",
 			"Egyptian Arabic Audio": "eca-0622-7.mp3",
 			"Standard Arabic Audio": "msa-0622-7.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "Okay, that sounds good.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "حسنا، هذا يبدو جيدا.",
 			"Egyptian Arabic Audio": "eca-0622-8.mp3",
 			"Standard Arabic Audio": "msa-0622-8.mp3"
 		},
@@ -91,7 +91,7 @@
 			"English": "Once you fill out everything, be sure to sign your name at the bottom.",
 			"Word Count": 14,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "بمجرد ملء كل شيء، تأكد من توقيع اسمك في الأسفل.",
 			"Egyptian Arabic Audio": "eca-0622-9.mp3",
 			"Standard Arabic Audio": "msa-0622-9.mp3"
 		},
@@ -101,7 +101,7 @@
 			"English": "Will do. When can you take the paper to the DMV?",
 			"Word Count": 11,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "سوف تفعل. متى يمكنك أن تأخذ ورقة إلى دمف؟",
 			"Egyptian Arabic Audio": "eca-0622-10.mp3",
 			"Standard Arabic Audio": "msa-0622-10.mp3"
 		},
@@ -111,7 +111,7 @@
 			"English": "I can take it later on today. If not, I can definitely take it tomorrow.",
 			"Word Count": 15,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أستطيع أن أعتبر في وقت لاحق اليوم. إن لم يكن، أنا بالتأكيد يمكن أن أعتبر غدا.",
 			"Egyptian Arabic Audio": "eca-0622-11.mp3",
 			"Standard Arabic Audio": "msa-0622-11.mp3"
 		},
@@ -121,7 +121,7 @@
 			"English": "Awesome. I just want to get everything done fast.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "رائع. أريد فقط أن أفعل كل شيء بسرعة.",
 			"Egyptian Arabic Audio": "eca-0622-12.mp3",
 			"Standard Arabic Audio": "msa-0622-12.mp3"
 		}

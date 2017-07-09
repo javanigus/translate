@@ -9,7 +9,7 @@
 			"English": "She wanted to go for a drive.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أرادت أن تذهب إلى محرك أقراص.",
 			"Egyptian Arabic Audio": "eca-1300-1.mp3",
 			"Standard Arabic Audio": "msa-1300-1.mp3"
 		},
@@ -18,7 +18,7 @@
 			"English": "She told her husband.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "قالت لزوجها.",
 			"Egyptian Arabic Audio": "eca-1300-2.mp3",
 			"Standard Arabic Audio": "msa-1300-2.mp3"
 		},
@@ -27,7 +27,7 @@
 			"English": "He said that was a good idea.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وقال إن هذه فكرة جيدة.",
 			"Egyptian Arabic Audio": "eca-1300-3.mp3",
 			"Standard Arabic Audio": "msa-1300-3.mp3"
 		},
@@ -36,7 +36,7 @@
 			"English": "\"Where do you want to go?\" he asked.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "&quot;أين تريد أن تذهب؟&quot; سأل.",
 			"Egyptian Arabic Audio": "eca-1300-4.mp3",
 			"Standard Arabic Audio": "msa-1300-4.mp3"
 		},
@@ -45,7 +45,7 @@
 			"English": "She wanted to drive to the mountains.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أرادت أن تقود إلى الجبال.",
 			"Egyptian Arabic Audio": "eca-1300-5.mp3",
 			"Standard Arabic Audio": "msa-1300-5.mp3"
 		},
@@ -54,7 +54,7 @@
 			"English": "She wanted to go to Big Bear Lake.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أرادت أن تذهب إلى بحيرة الدب الكبير.",
 			"Egyptian Arabic Audio": "eca-1300-6.mp3",
 			"Standard Arabic Audio": "msa-1300-6.mp3"
 		},
@@ -63,7 +63,7 @@
 			"English": "Big Bear Lake is high in the mountains.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "بحيرة الدب الكبير عالية في الجبال.",
 			"Egyptian Arabic Audio": "eca-1300-7.mp3",
 			"Standard Arabic Audio": "msa-1300-7.mp3"
 		},
@@ -72,7 +72,7 @@
 			"English": "It is 7,000 feet high.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "فمن ارتفاع 7000 قدم.",
 			"Egyptian Arabic Audio": "eca-1300-8.mp3",
 			"Standard Arabic Audio": "msa-1300-8.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "It is a two-hour drive from their home.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وهو على بعد ساعتين بالسيارة من وطنهم.",
 			"Egyptian Arabic Audio": "eca-1300-9.mp3",
 			"Standard Arabic Audio": "msa-1300-9.mp3"
 		},
@@ -90,7 +90,7 @@
 			"English": "It takes two hours to get there.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يستغرق ساعتين للوصول إلى هناك.",
 			"Egyptian Arabic Audio": "eca-1300-10.mp3",
 			"Standard Arabic Audio": "msa-1300-10.mp3"
 		},
@@ -99,7 +99,7 @@
 			"English": "The lake is big and beautiful.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "البحيرة كبيرة وجميلة.",
 			"Egyptian Arabic Audio": "eca-1300-11.mp3",
 			"Standard Arabic Audio": "msa-1300-11.mp3"
 		},
@@ -108,7 +108,7 @@
 			"English": "They could park their car next to the lake.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ويمكنهم ركن سياراتهم بجوار البحيرة.",
 			"Egyptian Arabic Audio": "eca-1300-12.mp3",
 			"Standard Arabic Audio": "msa-1300-12.mp3"
 		},
@@ -117,7 +117,7 @@
 			"English": "They could sit next to the lake.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ويمكنهم الجلوس بجوار البحيرة.",
 			"Egyptian Arabic Audio": "eca-1300-13.mp3",
 			"Standard Arabic Audio": "msa-1300-13.mp3"
 		},
@@ -126,7 +126,7 @@
 			"English": "They could watch the boats.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ويمكنهم مشاهدة القوارب.",
 			"Egyptian Arabic Audio": "eca-1300-14.mp3",
 			"Standard Arabic Audio": "msa-1300-14.mp3"
 		},
@@ -135,7 +135,7 @@
 			"English": "They could watch the fishermen.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ويمكنهم مشاهدة الصيادين.",
 			"Egyptian Arabic Audio": "eca-1300-15.mp3",
 			"Standard Arabic Audio": "msa-1300-15.mp3"
 		},
@@ -144,7 +144,7 @@
 			"English": "They could watch the squirrels and deer.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ويمكنهم مشاهدة السناجب والغزلان.",
 			"Egyptian Arabic Audio": "eca-1300-16.mp3",
 			"Standard Arabic Audio": "msa-1300-16.mp3"
 		},
@@ -153,7 +153,7 @@
 			"English": "It is a beautiful drive to Big Bear Lake.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وهو محرك جميل إلى بحيرة الدب الكبير.",
 			"Egyptian Arabic Audio": "eca-1300-17.mp3",
 			"Standard Arabic Audio": "msa-1300-17.mp3"
 		},
@@ -162,7 +162,7 @@
 			"English": "The road goes through a big forest full of tall trees.",
 			"Word Count": 11,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يمر الطريق عبر غابة كبيرة مليئة بالأشجار الطويلة.",
 			"Egyptian Arabic Audio": "eca-1300-18.mp3",
 			"Standard Arabic Audio": "msa-1300-18.mp3"
 		}

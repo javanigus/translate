@@ -9,7 +9,7 @@
 			"English": "\"Women!\" Denzel muttered as the phone went dead.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "&quot;نساء!&quot; تم طرد دينزل كما ذهب الهاتف ميتا.",
 			"Egyptian Arabic Audio": "eca-2093-1.mp3",
 			"Standard Arabic Audio": "msa-2093-1.mp3"
 		}

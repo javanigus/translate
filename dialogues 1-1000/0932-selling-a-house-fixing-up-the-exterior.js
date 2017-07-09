@@ -11,7 +11,7 @@
 			"English": "It's time to start work.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "حان الوقت لبدء العمل.",
 			"Egyptian Arabic Audio": "eca-0932-1.mp3",
 			"Standard Arabic Audio": "msa-0932-1.mp3"
 		},
@@ -21,7 +21,7 @@
 			"English": "Okay, where do we start?",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "حسنا، أين نبدأ؟",
 			"Egyptian Arabic Audio": "eca-0932-2.mp3",
 			"Standard Arabic Audio": "msa-0932-2.mp3"
 		},
@@ -31,7 +31,7 @@
 			"English": "The best place to start is the roof.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أفضل مكان للبدء هو السقف.",
 			"Egyptian Arabic Audio": "eca-0932-3.mp3",
 			"Standard Arabic Audio": "msa-0932-3.mp3"
 		},
@@ -41,7 +41,7 @@
 			"English": "The roof? Isn't that dangerous?",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "السقف؟ أليس هذا خطير؟",
 			"Egyptian Arabic Audio": "eca-0932-4.mp3",
 			"Standard Arabic Audio": "msa-0932-4.mp3"
 		},
@@ -51,7 +51,7 @@
 			"English": "Don't be afraid. As long as we're careful, we'll be alright.",
 			"Word Count": 11,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لا تخافوا. طالما أننا حريصون، سنكون على ما يرام.",
 			"Egyptian Arabic Audio": "eca-0932-5.mp3",
 			"Standard Arabic Audio": "msa-0932-5.mp3"
 		},
@@ -61,7 +61,7 @@
 			"English": "But I'm afraid of heights.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ولكن أخشى من المرتفعات.",
 			"Egyptian Arabic Audio": "eca-0932-6.mp3",
 			"Standard Arabic Audio": "msa-0932-6.mp3"
 		},
@@ -71,7 +71,7 @@
 			"English": "I'll be there. Like I said, we'll be okay.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "سأكون هناك. كما قلت، سنكون بخير.",
 			"Egyptian Arabic Audio": "eca-0932-7.mp3",
 			"Standard Arabic Audio": "msa-0932-7.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "Okay, I trust you.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "حسنا، أنا أثق بك.",
 			"Egyptian Arabic Audio": "eca-0932-8.mp3",
 			"Standard Arabic Audio": "msa-0932-8.mp3"
 		},
@@ -91,7 +91,7 @@
 			"English": "A good roof is very important. If it leaks, it can ruin the interior.",
 			"Word Count": 14,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "سقف جيد مهم جدا. إذا كان تسرب، فإنه يمكن أن تدمر المناطق الداخلية.",
 			"Egyptian Arabic Audio": "eca-0932-9.mp3",
 			"Standard Arabic Audio": "msa-0932-9.mp3"
 		},
@@ -101,7 +101,7 @@
 			"English": "Yes, I know. Remember Uncle Joe's house?",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "نعم اعرف. تذكر بيت العم جو؟",
 			"Egyptian Arabic Audio": "eca-0932-10.mp3",
 			"Standard Arabic Audio": "msa-0932-10.mp3"
 		},
@@ -111,7 +111,7 @@
 			"English": "I sure do. Let's get started.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنا متأكد من القيام به. هيا بنا نبدأ.",
 			"Egyptian Arabic Audio": "eca-0932-11.mp3",
 			"Standard Arabic Audio": "msa-0932-11.mp3"
 		},
@@ -121,7 +121,7 @@
 			"English": "Okay. I'm ready.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "حسنا. أنا مستعد.",
 			"Egyptian Arabic Audio": "eca-0932-12.mp3",
 			"Standard Arabic Audio": "msa-0932-12.mp3"
 		}

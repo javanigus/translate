@@ -9,7 +9,7 @@
 			"English": "She is too sick.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وهي مريضة جدا.",
 			"Egyptian Arabic Audio": "eca-0077-1.mp3",
 			"Standard Arabic Audio": "msa-0077-1.mp3"
 		},
@@ -18,7 +18,7 @@
 			"English": "She has the cold.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لديها البرد.",
 			"Egyptian Arabic Audio": "eca-0077-2.mp3",
 			"Standard Arabic Audio": "msa-0077-2.mp3"
 		},
@@ -27,7 +27,7 @@
 			"English": "She can't stop sneezing.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وقالت إنها لا يمكن أن تتوقف عن العطس.",
 			"Egyptian Arabic Audio": "eca-0077-3.mp3",
 			"Standard Arabic Audio": "msa-0077-3.mp3"
 		},
@@ -36,7 +36,7 @@
 			"English": "She keeps a tissue box near her.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انها تحافظ على مربع الأنسجة بالقرب منها.",
 			"Egyptian Arabic Audio": "eca-0077-4.mp3",
 			"Standard Arabic Audio": "msa-0077-4.mp3"
 		},
@@ -45,7 +45,7 @@
 			"English": "Her nose is so red.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنفها أحمر جدا.",
 			"Egyptian Arabic Audio": "eca-0077-5.mp3",
 			"Standard Arabic Audio": "msa-0077-5.mp3"
 		},
@@ -54,7 +54,7 @@
 			"English": "She also has a fever.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لديها أيضا حمى.",
 			"Egyptian Arabic Audio": "eca-0077-6.mp3",
 			"Standard Arabic Audio": "msa-0077-6.mp3"
 		},
@@ -63,7 +63,7 @@
 			"English": "She puts a cold towel over her forehead.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انها تضع منشفة باردة على جبينها.",
 			"Egyptian Arabic Audio": "eca-0077-7.mp3",
 			"Standard Arabic Audio": "msa-0077-7.mp3"
 		},
@@ -72,7 +72,7 @@
 			"English": "She is too sick to go to school.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وهي مريضة جدا للذهاب إلى المدرسة.",
 			"Egyptian Arabic Audio": "eca-0077-8.mp3",
 			"Standard Arabic Audio": "msa-0077-8.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "Her friends visit her.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "صديقاتها زيارة لها.",
 			"Egyptian Arabic Audio": "eca-0077-9.mp3",
 			"Standard Arabic Audio": "msa-0077-9.mp3"
 		},
@@ -90,7 +90,7 @@
 			"English": "They give her the homework assignments.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنها تعطي لها الواجبات المنزلية.",
 			"Egyptian Arabic Audio": "eca-0077-10.mp3",
 			"Standard Arabic Audio": "msa-0077-10.mp3"
 		},
@@ -99,7 +99,7 @@
 			"English": "They try to make her feel better.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يحاولون جعلها تشعر على نحو أفضل.",
 			"Egyptian Arabic Audio": "eca-0077-11.mp3",
 			"Standard Arabic Audio": "msa-0077-11.mp3"
 		}

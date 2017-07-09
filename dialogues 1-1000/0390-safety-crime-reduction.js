@@ -11,7 +11,7 @@
 			"English": "You're yawning.",
 			"Word Count": 2,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كنت التثاؤب.",
 			"Egyptian Arabic Audio": "eca-0390-1.mp3",
 			"Standard Arabic Audio": "msa-0390-1.mp3"
 		},
@@ -21,7 +21,7 @@
 			"English": "I sure am.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "بالتأكيد أنا.",
 			"Egyptian Arabic Audio": "eca-0390-2.mp3",
 			"Standard Arabic Audio": "msa-0390-2.mp3"
 		},
@@ -31,7 +31,7 @@
 			"English": "You should go to bed.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يجب أن تذهب إلى السرير.",
 			"Egyptian Arabic Audio": "eca-0390-3.mp3",
 			"Standard Arabic Audio": "msa-0390-3.mp3"
 		},
@@ -41,7 +41,7 @@
 			"English": "I will as soon as I finish this article.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "سأقوم بمجرد الانتهاء من هذه المقالة.",
 			"Egyptian Arabic Audio": "eca-0390-4.mp3",
 			"Standard Arabic Audio": "msa-0390-4.mp3"
 		},
@@ -51,7 +51,7 @@
 			"English": "What are you reading?",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ماذا تقرأ؟",
 			"Egyptian Arabic Audio": "eca-0390-5.mp3",
 			"Standard Arabic Audio": "msa-0390-5.mp3"
 		},
@@ -61,7 +61,7 @@
 			"English": "It's about crime in Los Angeles.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انها عن الجريمة في لوس انجليس.",
 			"Egyptian Arabic Audio": "eca-0390-6.mp3",
 			"Standard Arabic Audio": "msa-0390-6.mp3"
 		},
@@ -71,7 +71,7 @@
 			"English": "What does it say?",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ماذا يقول؟",
 			"Egyptian Arabic Audio": "eca-0390-7.mp3",
 			"Standard Arabic Audio": "msa-0390-7.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "The mayor says the crime rate is going down.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ويقول العمدة ان معدل الجريمة يتراجع.",
 			"Egyptian Arabic Audio": "eca-0390-8.mp3",
 			"Standard Arabic Audio": "msa-0390-8.mp3"
 		},
@@ -91,7 +91,7 @@
 			"English": "Then why does everyone lock their doors?",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ثم لماذا الجميع قفل أبوابهم؟",
 			"Egyptian Arabic Audio": "eca-0390-9.mp3",
 			"Standard Arabic Audio": "msa-0390-9.mp3"
 		},
@@ -101,7 +101,7 @@
 			"English": "I guess they haven't read this article.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أعتقد أنهم لم يقرأوا هذه المقالة.",
 			"Egyptian Arabic Audio": "eca-0390-10.mp3",
 			"Standard Arabic Audio": "msa-0390-10.mp3"
 		},
@@ -111,7 +111,7 @@
 			"English": "No one believes that the crime rate is going down.",
 			"Word Count": 10,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لا أحد يعتقد أن معدل الجريمة يتراجع.",
 			"Egyptian Arabic Audio": "eca-0390-11.mp3",
 			"Standard Arabic Audio": "msa-0390-11.mp3"
 		},
@@ -121,7 +121,7 @@
 			"English": "Maybe the mayor is just talking about his own neighborhood.",
 			"Word Count": 10,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ربما رئيس البلدية يتحدث فقط عن حيه.",
 			"Egyptian Arabic Audio": "eca-0390-12.mp3",
 			"Standard Arabic Audio": "msa-0390-12.mp3"
 		}

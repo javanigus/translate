@@ -9,7 +9,7 @@
 			"English": "Claire is 5 years old.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كلير هو 5 سنوات من العمر.",
 			"Egyptian Arabic Audio": "eca-0201-1.mp3",
 			"Standard Arabic Audio": "msa-0201-1.mp3"
 		},
@@ -18,7 +18,7 @@
 			"English": "She watches a lot of TV.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انها يشاهد الكثير من التلفزيون.",
 			"Egyptian Arabic Audio": "eca-0201-2.mp3",
 			"Standard Arabic Audio": "msa-0201-2.mp3"
 		},
@@ -27,7 +27,7 @@
 			"English": "Her parents want her to read more.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "والديها يريدون لها أن تقرأ المزيد.",
 			"Egyptian Arabic Audio": "eca-0201-3.mp3",
 			"Standard Arabic Audio": "msa-0201-3.mp3"
 		},
@@ -36,7 +36,7 @@
 			"English": "She likes the TV too much.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انها تحب التلفزيون كثيرا.",
 			"Egyptian Arabic Audio": "eca-0201-4.mp3",
 			"Standard Arabic Audio": "msa-0201-4.mp3"
 		},
@@ -45,7 +45,7 @@
 			"English": "Her moms asks her to read a book.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أمهاتها تطلب منها قراءة كتاب.",
 			"Egyptian Arabic Audio": "eca-0201-5.mp3",
 			"Standard Arabic Audio": "msa-0201-5.mp3"
 		},
@@ -54,7 +54,7 @@
 			"English": "She says no.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "تقول لا.",
 			"Egyptian Arabic Audio": "eca-0201-6.mp3",
 			"Standard Arabic Audio": "msa-0201-6.mp3"
 		},
@@ -63,7 +63,7 @@
 			"English": "Her mom asks her to read a picture book.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أمها تطلب منها قراءة كتاب مصور.",
 			"Egyptian Arabic Audio": "eca-0201-7.mp3",
 			"Standard Arabic Audio": "msa-0201-7.mp3"
 		},
@@ -72,7 +72,7 @@
 			"English": "She says no.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "تقول لا.",
 			"Egyptian Arabic Audio": "eca-0201-8.mp3",
 			"Standard Arabic Audio": "msa-0201-8.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "Claire's dad asks her to read books.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كل أبي كلير يطلب منها قراءة الكتب.",
 			"Egyptian Arabic Audio": "eca-0201-9.mp3",
 			"Standard Arabic Audio": "msa-0201-9.mp3"
 		},
@@ -90,7 +90,7 @@
 			"English": "She says no.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "تقول لا.",
 			"Egyptian Arabic Audio": "eca-0201-10.mp3",
 			"Standard Arabic Audio": "msa-0201-10.mp3"
 		},
@@ -99,7 +99,7 @@
 			"English": "Her dad asks her to read a book about Barbie.",
 			"Word Count": 10,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "والدها يطلب منها قراءة كتاب عن باربي.",
 			"Egyptian Arabic Audio": "eca-0201-11.mp3",
 			"Standard Arabic Audio": "msa-0201-11.mp3"
 		},
@@ -108,7 +108,7 @@
 			"English": "She says no.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "تقول لا.",
 			"Egyptian Arabic Audio": "eca-0201-12.mp3",
 			"Standard Arabic Audio": "msa-0201-12.mp3"
 		},
@@ -117,7 +117,7 @@
 			"English": "Her parents force her to read.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "والديها يجبرها على القراءة.",
 			"Egyptian Arabic Audio": "eca-0201-13.mp3",
 			"Standard Arabic Audio": "msa-0201-13.mp3"
 		},
@@ -126,7 +126,7 @@
 			"English": "Claire cries.",
 			"Word Count": 2,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "تصرخ كلير.",
 			"Egyptian Arabic Audio": "eca-0201-14.mp3",
 			"Standard Arabic Audio": "msa-0201-14.mp3"
 		},
@@ -135,7 +135,7 @@
 			"English": "Claire's teacher asks her to read.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يطلب منها مدرس كلير القراءة.",
 			"Egyptian Arabic Audio": "eca-0201-15.mp3",
 			"Standard Arabic Audio": "msa-0201-15.mp3"
 		},
@@ -144,7 +144,7 @@
 			"English": "She says no.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "تقول لا.",
 			"Egyptian Arabic Audio": "eca-0201-16.mp3",
 			"Standard Arabic Audio": "msa-0201-16.mp3"
 		},
@@ -153,7 +153,7 @@
 			"English": "Claire's older sister has an idea.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "شقيقة كلير الأكبر سنا لديها فكرة.",
 			"Egyptian Arabic Audio": "eca-0201-17.mp3",
 			"Standard Arabic Audio": "msa-0201-17.mp3"
 		},
@@ -162,7 +162,7 @@
 			"English": "She gives her a book based on a movie.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انها تعطي لها كتابا على أساس فيلم.",
 			"Egyptian Arabic Audio": "eca-0201-18.mp3",
 			"Standard Arabic Audio": "msa-0201-18.mp3"
 		},
@@ -171,7 +171,7 @@
 			"English": "Claire reads it.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كلير يقرأها.",
 			"Egyptian Arabic Audio": "eca-0201-19.mp3",
 			"Standard Arabic Audio": "msa-0201-19.mp3"
 		}

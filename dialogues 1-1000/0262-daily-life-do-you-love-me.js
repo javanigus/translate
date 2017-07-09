@@ -11,7 +11,7 @@
 			"English": "Do you really love me?",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هل حقا تحبني؟",
 			"Egyptian Arabic Audio": "eca-0262-1.mp3",
 			"Standard Arabic Audio": "msa-0262-1.mp3"
 		},
@@ -21,7 +21,7 @@
 			"English": "Of course.",
 			"Word Count": 2,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "بالتاكيد.",
 			"Egyptian Arabic Audio": "eca-0262-2.mp3",
 			"Standard Arabic Audio": "msa-0262-2.mp3"
 		},
@@ -31,7 +31,7 @@
 			"English": "Prove it.",
 			"Word Count": 2,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "اثبت ذلك.",
 			"Egyptian Arabic Audio": "eca-0262-3.mp3",
 			"Standard Arabic Audio": "msa-0262-3.mp3"
 		},
@@ -41,7 +41,7 @@
 			"English": "How can I prove it?",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كيف يمكنني إثبات ذلك؟",
 			"Egyptian Arabic Audio": "eca-0262-4.mp3",
 			"Standard Arabic Audio": "msa-0262-4.mp3"
 		},
@@ -51,7 +51,7 @@
 			"English": "Take me to dinner.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "خذني لتناول العشاء.",
 			"Egyptian Arabic Audio": "eca-0262-5.mp3",
 			"Standard Arabic Audio": "msa-0262-5.mp3"
 		},
@@ -61,7 +61,7 @@
 			"English": "That's it? That's all I have to do?",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هذا هو؟ هذا كل ما علي القيام به؟",
 			"Egyptian Arabic Audio": "eca-0262-6.mp3",
 			"Standard Arabic Audio": "msa-0262-6.mp3"
 		},
@@ -71,7 +71,7 @@
 			"English": "Take me to a nice restaurant, not to McDonald's.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "خذني إلى مطعم جميل، وليس إلى ماكدونالدز.",
 			"Egyptian Arabic Audio": "eca-0262-7.mp3",
 			"Standard Arabic Audio": "msa-0262-7.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "But a nice restaurant costs money.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ولكن مطعم جميل يكلف المال.",
 			"Egyptian Arabic Audio": "eca-0262-8.mp3",
 			"Standard Arabic Audio": "msa-0262-8.mp3"
 		},
@@ -91,7 +91,7 @@
 			"English": "Yes, and you have to make a reservation.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "نعم، وعليك أن تجعل التحفظ.",
 			"Egyptian Arabic Audio": "eca-0262-9.mp3",
 			"Standard Arabic Audio": "msa-0262-9.mp3"
 		},
@@ -101,7 +101,7 @@
 			"English": "That's such a hassle.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هذا هو مثل هذا المتاعب.",
 			"Egyptian Arabic Audio": "eca-0262-10.mp3",
 			"Standard Arabic Audio": "msa-0262-10.mp3"
 		},
@@ -111,7 +111,7 @@
 			"English": "I knew you didn't love me.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كنت أعرف أنك لا تحبني.",
 			"Egyptian Arabic Audio": "eca-0262-11.mp3",
 			"Standard Arabic Audio": "msa-0262-11.mp3"
 		},
@@ -121,7 +121,7 @@
 			"English": "Okay, okay! I'll make a reservation right now.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "حسنا حسنا! سأقدم تحفظا الآن.",
 			"Egyptian Arabic Audio": "eca-0262-12.mp3",
 			"Standard Arabic Audio": "msa-0262-12.mp3"
 		}

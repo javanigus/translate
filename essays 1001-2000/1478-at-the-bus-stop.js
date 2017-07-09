@@ -9,7 +9,7 @@
 			"English": "He looked at his watch.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هو نظر الى ساعته.",
 			"Egyptian Arabic Audio": "eca-1478-1.mp3",
 			"Standard Arabic Audio": "msa-1478-1.mp3"
 		},
@@ -18,7 +18,7 @@
 			"English": "It was time for the bus.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لقد حان الوقت للحافلة.",
 			"Egyptian Arabic Audio": "eca-1478-2.mp3",
 			"Standard Arabic Audio": "msa-1478-2.mp3"
 		},
@@ -27,7 +27,7 @@
 			"English": "Where was the bus? He was at the bus stop.",
 			"Word Count": 10,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أين كانت الحافلة؟ كان في محطة للحافلات.",
 			"Egyptian Arabic Audio": "eca-1478-3.mp3",
 			"Standard Arabic Audio": "msa-1478-3.mp3"
 		},
@@ -36,7 +36,7 @@
 			"English": "He stood up.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كان واقفا.",
 			"Egyptian Arabic Audio": "eca-1478-4.mp3",
 			"Standard Arabic Audio": "msa-1478-4.mp3"
 		},
@@ -45,7 +45,7 @@
 			"English": "He looked down the street.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "نظر إلى أسفل الشارع.",
 			"Egyptian Arabic Audio": "eca-1478-5.mp3",
 			"Standard Arabic Audio": "msa-1478-5.mp3"
 		},
@@ -54,7 +54,7 @@
 			"English": "No bus.",
 			"Word Count": 2,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لا حافلة.",
 			"Egyptian Arabic Audio": "eca-1478-6.mp3",
 			"Standard Arabic Audio": "msa-1478-6.mp3"
 		},
@@ -63,7 +63,7 @@
 			"English": "He looked up the street.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وقال انه يتطلع الى الشارع.",
 			"Egyptian Arabic Audio": "eca-1478-7.mp3",
 			"Standard Arabic Audio": "msa-1478-7.mp3"
 		},
@@ -72,7 +72,7 @@
 			"English": "No bus.",
 			"Word Count": 2,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لا حافلة.",
 			"Egyptian Arabic Audio": "eca-1478-8.mp3",
 			"Standard Arabic Audio": "msa-1478-8.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "Where in the world was the bus? It was time for the bus to arrive.",
 			"Word Count": 15,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أين كان في العالم الحافلة؟ لقد حان الوقت للوصول إلى الحافلة.",
 			"Egyptian Arabic Audio": "eca-1478-9.mp3",
 			"Standard Arabic Audio": "msa-1478-9.mp3"
 		},
@@ -90,7 +90,7 @@
 			"English": "He sat down on the bench.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "جلس على مقاعد البدلاء.",
 			"Egyptian Arabic Audio": "eca-1478-10.mp3",
 			"Standard Arabic Audio": "msa-1478-10.mp3"
 		},
@@ -99,7 +99,7 @@
 			"English": "It was getting cold.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كان الحصول على البرد.",
 			"Egyptian Arabic Audio": "eca-1478-11.mp3",
 			"Standard Arabic Audio": "msa-1478-11.mp3"
 		},
@@ -108,7 +108,7 @@
 			"English": "The wind was blowing.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "الرياح كانت تعصف.",
 			"Egyptian Arabic Audio": "eca-1478-12.mp3",
 			"Standard Arabic Audio": "msa-1478-12.mp3"
 		},
@@ -117,7 +117,7 @@
 			"English": "He didn't have a jacket.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لم يكن لديه سترة.",
 			"Egyptian Arabic Audio": "eca-1478-13.mp3",
 			"Standard Arabic Audio": "msa-1478-13.mp3"
 		},
@@ -126,7 +126,7 @@
 			"English": "He was wearing shorts.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كان يرتدي سراويل قصيرة.",
 			"Egyptian Arabic Audio": "eca-1478-14.mp3",
 			"Standard Arabic Audio": "msa-1478-14.mp3"
 		},
@@ -135,7 +135,7 @@
 			"English": "He was wearing flip-flops.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كان يرتدي زحافات.",
 			"Egyptian Arabic Audio": "eca-1478-15.mp3",
 			"Standard Arabic Audio": "msa-1478-15.mp3"
 		},
@@ -144,7 +144,7 @@
 			"English": "His head was cold.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كان رأسه باردا.",
 			"Egyptian Arabic Audio": "eca-1478-16.mp3",
 			"Standard Arabic Audio": "msa-1478-16.mp3"
 		},
@@ -153,7 +153,7 @@
 			"English": "His arms were cold.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كانت ذراعيه باردة.",
 			"Egyptian Arabic Audio": "eca-1478-17.mp3",
 			"Standard Arabic Audio": "msa-1478-17.mp3"
 		},
@@ -162,7 +162,7 @@
 			"English": "His legs were cold.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كانت ساقيه باردة.",
 			"Egyptian Arabic Audio": "eca-1478-18.mp3",
 			"Standard Arabic Audio": "msa-1478-18.mp3"
 		},
@@ -171,7 +171,7 @@
 			"English": "His feet were cold.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كانت قدميه باردة.",
 			"Egyptian Arabic Audio": "eca-1478-19.mp3",
 			"Standard Arabic Audio": "msa-1478-19.mp3"
 		},
@@ -180,7 +180,7 @@
 			"English": "His toes were cold.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أصابع قدميه كانت باردة.",
 			"Egyptian Arabic Audio": "eca-1478-20.mp3",
 			"Standard Arabic Audio": "msa-1478-20.mp3"
 		},
@@ -189,7 +189,7 @@
 			"English": "His toes were turning blue.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أصابع قدميه تحول الأزرق.",
 			"Egyptian Arabic Audio": "eca-1478-21.mp3",
 			"Standard Arabic Audio": "msa-1478-21.mp3"
 		},
@@ -198,7 +198,7 @@
 			"English": "Where was the bus? He stood up again.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أين كانت الحافلة؟ وقفت مرة أخرى.",
 			"Egyptian Arabic Audio": "eca-1478-22.mp3",
 			"Standard Arabic Audio": "msa-1478-22.mp3"
 		},
@@ -207,7 +207,7 @@
 			"English": "He looked down the street.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "نظر إلى أسفل الشارع.",
 			"Egyptian Arabic Audio": "eca-1478-23.mp3",
 			"Standard Arabic Audio": "msa-1478-23.mp3"
 		},
@@ -216,7 +216,7 @@
 			"English": "He saw the bus! It was coming.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "رأى الحافلة! كان قادم.",
 			"Egyptian Arabic Audio": "eca-1478-24.mp3",
 			"Standard Arabic Audio": "msa-1478-24.mp3"
 		},
@@ -225,7 +225,7 @@
 			"English": "In a minute he would be on the warm bus.",
 			"Word Count": 10,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "في دقيقة واحدة انه سيكون على الحافلة الدافئة.",
 			"Egyptian Arabic Audio": "eca-1478-25.mp3",
 			"Standard Arabic Audio": "msa-1478-25.mp3"
 		},
@@ -234,7 +234,7 @@
 			"English": "In a minute his nose would be warm.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "في دقيقة واحدة أنفه سيكون دافئا.",
 			"Egyptian Arabic Audio": "eca-1478-26.mp3",
 			"Standard Arabic Audio": "msa-1478-26.mp3"
 		},
@@ -243,7 +243,7 @@
 			"English": "His hands would be warm.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كانت يديه دافئة.",
 			"Egyptian Arabic Audio": "eca-1478-27.mp3",
 			"Standard Arabic Audio": "msa-1478-27.mp3"
 		},
@@ -252,7 +252,7 @@
 			"English": "His whole body would be warm.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "جسده كله سيكون دافئا.",
 			"Egyptian Arabic Audio": "eca-1478-28.mp3",
 			"Standard Arabic Audio": "msa-1478-28.mp3"
 		},
@@ -261,7 +261,7 @@
 			"English": "How nice! The bus arrived.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كيف لطيفة! وصلت الحافلة.",
 			"Egyptian Arabic Audio": "eca-1478-29.mp3",
 			"Standard Arabic Audio": "msa-1478-29.mp3"
 		},
@@ -270,7 +270,7 @@
 			"English": "But it didn't stop.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لكنها لم تتوقف.",
 			"Egyptian Arabic Audio": "eca-1478-30.mp3",
 			"Standard Arabic Audio": "msa-1478-30.mp3"
 		},
@@ -279,7 +279,7 @@
 			"English": "It kept going.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "استمر في الذهاب.",
 			"Egyptian Arabic Audio": "eca-1478-31.mp3",
 			"Standard Arabic Audio": "msa-1478-31.mp3"
 		},
@@ -288,7 +288,7 @@
 			"English": "It was the wrong bus.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كان الحافلة خاطئة.",
 			"Egyptian Arabic Audio": "eca-1478-32.mp3",
 			"Standard Arabic Audio": "msa-1478-32.mp3"
 		},
@@ -297,7 +297,7 @@
 			"English": "He looked at his watch again.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "نظر إلى ساعته مرة أخرى.",
 			"Egyptian Arabic Audio": "eca-1478-33.mp3",
 			"Standard Arabic Audio": "msa-1478-33.mp3"
 		},
@@ -306,7 +306,7 @@
 			"English": "Where was the bus?.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أين كانت الحافلة ؟.",
 			"Egyptian Arabic Audio": "eca-1478-34.mp3",
 			"Standard Arabic Audio": "msa-1478-34.mp3"
 		}

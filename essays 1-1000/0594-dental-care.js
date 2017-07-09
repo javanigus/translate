@@ -9,7 +9,7 @@
 			"English": "He eats a lot of candy.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انه يأكل الكثير من الحلوى.",
 			"Egyptian Arabic Audio": "eca-0594-1.mp3",
 			"Standard Arabic Audio": "msa-0594-1.mp3"
 		},
@@ -18,7 +18,7 @@
 			"English": "He needs to clean his teeth now.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انه يحتاج الى تنظيف أسنانه الآن.",
 			"Egyptian Arabic Audio": "eca-0594-2.mp3",
 			"Standard Arabic Audio": "msa-0594-2.mp3"
 		},
@@ -27,7 +27,7 @@
 			"English": "He does not want cavities.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انه لا يريد تجاويف.",
 			"Egyptian Arabic Audio": "eca-0594-3.mp3",
 			"Standard Arabic Audio": "msa-0594-3.mp3"
 		},
@@ -36,7 +36,7 @@
 			"English": "He goes to the bathroom.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يذهب إلى الحمام.",
 			"Egyptian Arabic Audio": "eca-0594-4.mp3",
 			"Standard Arabic Audio": "msa-0594-4.mp3"
 		},
@@ -45,7 +45,7 @@
 			"English": "He flosses between his teeth.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انه ينقلب بين أسنانه.",
 			"Egyptian Arabic Audio": "eca-0594-5.mp3",
 			"Standard Arabic Audio": "msa-0594-5.mp3"
 		},
@@ -54,7 +54,7 @@
 			"English": "He grabs his toothbrush.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انه الاستيلاء على فرشاة أسنانه.",
 			"Egyptian Arabic Audio": "eca-0594-6.mp3",
 			"Standard Arabic Audio": "msa-0594-6.mp3"
 		},
@@ -63,7 +63,7 @@
 			"English": "He brushes his teeth up and down.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انه فرش أسنانه صعودا وهبوطا.",
 			"Egyptian Arabic Audio": "eca-0594-7.mp3",
 			"Standard Arabic Audio": "msa-0594-7.mp3"
 		},
@@ -72,7 +72,7 @@
 			"English": "He rinses his mouth.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يشطف فمه.",
 			"Egyptian Arabic Audio": "eca-0594-8.mp3",
 			"Standard Arabic Audio": "msa-0594-8.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "His teeth look white.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أسنانه تبدو بيضاء.",
 			"Egyptian Arabic Audio": "eca-0594-9.mp3",
 			"Standard Arabic Audio": "msa-0594-9.mp3"
 		},
@@ -90,7 +90,7 @@
 			"English": "Finally, he uses mouthwash.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وأخيرا، يستخدم غسول الفم.",
 			"Egyptian Arabic Audio": "eca-0594-10.mp3",
 			"Standard Arabic Audio": "msa-0594-10.mp3"
 		}

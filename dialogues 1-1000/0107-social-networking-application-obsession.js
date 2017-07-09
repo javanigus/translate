@@ -11,7 +11,7 @@
 			"English": "Do you know about phone applications?",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هل تعرف عن تطبيقات الهاتف؟",
 			"Egyptian Arabic Audio": "eca-0107-1.mp3",
 			"Standard Arabic Audio": "msa-0107-1.mp3"
 		},
@@ -21,7 +21,7 @@
 			"English": "Not much. Are you looking for one?",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ليس كثيرا. هل تبحث عن واحد؟",
 			"Egyptian Arabic Audio": "eca-0107-2.mp3",
 			"Standard Arabic Audio": "msa-0107-2.mp3"
 		},
@@ -31,7 +31,7 @@
 			"English": "I want to download the Tumblr app.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أريد تحميل التطبيق نعرفكم.",
 			"Egyptian Arabic Audio": "eca-0107-3.mp3",
 			"Standard Arabic Audio": "msa-0107-3.mp3"
 		},
@@ -41,7 +41,7 @@
 			"English": "If you do, you'll never do any homework.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "إذا قمت بذلك، عليك أبدا القيام بأي واجب منزلي.",
 			"Egyptian Arabic Audio": "eca-0107-4.mp3",
 			"Standard Arabic Audio": "msa-0107-4.mp3"
 		},
@@ -51,7 +51,7 @@
 			"English": "Why do you think that?",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لماذا تعتقد ذلك؟",
 			"Egyptian Arabic Audio": "eca-0107-5.mp3",
 			"Standard Arabic Audio": "msa-0107-5.mp3"
 		},
@@ -61,7 +61,7 @@
 			"English": "You'd waste time on your phone all day.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كنت تضيع الوقت على هاتفك كل يوم.",
 			"Egyptian Arabic Audio": "eca-0107-6.mp3",
 			"Standard Arabic Audio": "msa-0107-6.mp3"
 		},
@@ -71,7 +71,7 @@
 			"English": "Don't you think I am responsible?",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ألا تعتقد أنني مسؤول؟",
 			"Egyptian Arabic Audio": "eca-0107-7.mp3",
 			"Standard Arabic Audio": "msa-0107-7.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "I know you're not responsible.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنا أعلم أنك لست مسؤولا.",
 			"Egyptian Arabic Audio": "eca-0107-8.mp3",
 			"Standard Arabic Audio": "msa-0107-8.mp3"
 		},
@@ -91,7 +91,7 @@
 			"English": "Why would you say that?!",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لماذا تريد ان تقول ذلك؟!",
 			"Egyptian Arabic Audio": "eca-0107-9.mp3",
 			"Standard Arabic Audio": "msa-0107-9.mp3"
 		},
@@ -101,7 +101,7 @@
 			"English": "Because you never turn things in on time.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لأنك لا تتحول الأمور في الوقت المحدد.",
 			"Egyptian Arabic Audio": "eca-0107-10.mp3",
 			"Standard Arabic Audio": "msa-0107-10.mp3"
 		},
@@ -111,7 +111,7 @@
 			"English": "Maybe I'll enroll in online classes.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ربما أنا سوف الانخراط في الطبقات على الانترنت.",
 			"Egyptian Arabic Audio": "eca-0107-11.mp3",
 			"Standard Arabic Audio": "msa-0107-11.mp3"
 		},
@@ -121,7 +121,7 @@
 			"English": "They won't be anything like Tumblr.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنها لن تكون أي شيء مثل نعرفكم.",
 			"Egyptian Arabic Audio": "eca-0107-12.mp3",
 			"Standard Arabic Audio": "msa-0107-12.mp3"
 		}

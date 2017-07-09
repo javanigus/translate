@@ -9,7 +9,7 @@
 			"English": "She grabs a sharp knife.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انها تستحوذ على سكين حاد.",
 			"Egyptian Arabic Audio": "eca-0386-1.mp3",
 			"Standard Arabic Audio": "msa-0386-1.mp3"
 		},
@@ -18,7 +18,7 @@
 			"English": "She holds the orange.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وهي تحمل البرتقال.",
 			"Egyptian Arabic Audio": "eca-0386-2.mp3",
 			"Standard Arabic Audio": "msa-0386-2.mp3"
 		},
@@ -27,7 +27,7 @@
 			"English": "She cuts the skin of the orange.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انها تقطع الجلد من البرتقال.",
 			"Egyptian Arabic Audio": "eca-0386-3.mp3",
 			"Standard Arabic Audio": "msa-0386-3.mp3"
 		},
@@ -36,7 +36,7 @@
 			"English": "She cuts the skin in four equal sections.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انها تقطع الجلد في أربعة أقسام متساوية.",
 			"Egyptian Arabic Audio": "eca-0386-4.mp3",
 			"Standard Arabic Audio": "msa-0386-4.mp3"
 		},
@@ -45,7 +45,7 @@
 			"English": "She peels the skin off the orange with her fingers.",
 			"Word Count": 10,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "قشر الجلد قبالة البرتقال مع أصابعها.",
 			"Egyptian Arabic Audio": "eca-0386-5.mp3",
 			"Standard Arabic Audio": "msa-0386-5.mp3"
 		},
@@ -54,7 +54,7 @@
 			"English": "She throws the skin in the trash.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وهي تلقي الجلد في سلة المهملات.",
 			"Egyptian Arabic Audio": "eca-0386-6.mp3",
 			"Standard Arabic Audio": "msa-0386-6.mp3"
 		},
@@ -63,7 +63,7 @@
 			"English": "She separates the orange into sections.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وهي تفصل البرتقال إلى أقسام.",
 			"Egyptian Arabic Audio": "eca-0386-7.mp3",
 			"Standard Arabic Audio": "msa-0386-7.mp3"
 		},
@@ -72,7 +72,7 @@
 			"English": "She eats the sections one by one.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انها تأكل المقاطع واحدا تلو الآخر.",
 			"Egyptian Arabic Audio": "eca-0386-8.mp3",
 			"Standard Arabic Audio": "msa-0386-8.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "They are sweet and juicy.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "فهي حلوة والعصير.",
 			"Egyptian Arabic Audio": "eca-0386-9.mp3",
 			"Standard Arabic Audio": "msa-0386-9.mp3"
 		}

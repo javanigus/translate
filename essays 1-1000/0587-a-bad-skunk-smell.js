@@ -9,7 +9,7 @@
 			"English": "There are a lot of skunks in the park.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هناك الكثير من سكونكس في الحديقة.",
 			"Egyptian Arabic Audio": "eca-0587-1.mp3",
 			"Standard Arabic Audio": "msa-0587-1.mp3"
 		},
@@ -18,7 +18,7 @@
 			"English": "The skunks spray their odor.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "سكونكس رذاذ رائحة بهم.",
 			"Egyptian Arabic Audio": "eca-0587-2.mp3",
 			"Standard Arabic Audio": "msa-0587-2.mp3"
 		},
@@ -27,7 +27,7 @@
 			"English": "The park smells very bad now.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "حديقة رائحة سيئة للغاية الآن.",
 			"Egyptian Arabic Audio": "eca-0587-3.mp3",
 			"Standard Arabic Audio": "msa-0587-3.mp3"
 		},
@@ -36,7 +36,7 @@
 			"English": "The family goes to the park for a picnic.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "تذهب الأسرة إلى الحديقة لنزهة.",
 			"Egyptian Arabic Audio": "eca-0587-4.mp3",
 			"Standard Arabic Audio": "msa-0587-4.mp3"
 		},
@@ -45,7 +45,7 @@
 			"English": "They have lots of food.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لديهم الكثير من الطعام.",
 			"Egyptian Arabic Audio": "eca-0587-5.mp3",
 			"Standard Arabic Audio": "msa-0587-5.mp3"
 		},
@@ -54,7 +54,7 @@
 			"English": "They smell something funny.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنها رائحة شيء مضحك.",
 			"Egyptian Arabic Audio": "eca-0587-6.mp3",
 			"Standard Arabic Audio": "msa-0587-6.mp3"
 		},
@@ -63,7 +63,7 @@
 			"English": "They see the skunks.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يرون السكون.",
 			"Egyptian Arabic Audio": "eca-0587-7.mp3",
 			"Standard Arabic Audio": "msa-0587-7.mp3"
 		},
@@ -72,7 +72,7 @@
 			"English": "They do not want to eat anymore.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انهم لا يريدون لتناول الطعام بعد الآن.",
 			"Egyptian Arabic Audio": "eca-0587-8.mp3",
 			"Standard Arabic Audio": "msa-0587-8.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "They go home.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يذهبون إلى البيت.",
 			"Egyptian Arabic Audio": "eca-0587-9.mp3",
 			"Standard Arabic Audio": "msa-0587-9.mp3"
 		}

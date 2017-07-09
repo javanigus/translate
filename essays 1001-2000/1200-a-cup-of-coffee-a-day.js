@@ -9,7 +9,7 @@
 			"English": "A lot of adults drink coffee every day.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وهناك الكثير من البالغين شرب القهوة كل يوم.",
 			"Egyptian Arabic Audio": "eca-1200-1.mp3",
 			"Standard Arabic Audio": "msa-1200-1.mp3"
 		},
@@ -18,7 +18,7 @@
 			"English": "It keeps them awake.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "فإنه يبقيه مستيقظا.",
 			"Egyptian Arabic Audio": "eca-1200-2.mp3",
 			"Standard Arabic Audio": "msa-1200-2.mp3"
 		},
@@ -27,7 +27,7 @@
 			"English": "At least that's what they think.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "على الأقل هذا ما يعتقدون.",
 			"Egyptian Arabic Audio": "eca-1200-3.mp3",
 			"Standard Arabic Audio": "msa-1200-3.mp3"
 		},
@@ -36,7 +36,7 @@
 			"English": "A lot of people can't even think without coffee.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وهناك الكثير من الناس لا يمكن حتى التفكير دون القهوة.",
 			"Egyptian Arabic Audio": "eca-1200-4.mp3",
 			"Standard Arabic Audio": "msa-1200-4.mp3"
 		},
@@ -45,7 +45,7 @@
 			"English": "Lucy is one of those people.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لوسي هو واحد من هؤلاء الناس.",
 			"Egyptian Arabic Audio": "eca-1200-5.mp3",
 			"Standard Arabic Audio": "msa-1200-5.mp3"
 		},
@@ -54,7 +54,7 @@
 			"English": "She has a cup of coffee with two spoons of sugar a day.",
 			"Word Count": 13,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لديها فنجان من القهوة مع ملعقتين من السكر يوميا.",
 			"Egyptian Arabic Audio": "eca-1200-6.mp3",
 			"Standard Arabic Audio": "msa-1200-6.mp3"
 		},
@@ -63,7 +63,7 @@
 			"English": "She drinks coffee while reading the newspaper.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وهي تشرب القهوة أثناء قراءة الصحيفة.",
 			"Egyptian Arabic Audio": "eca-1200-7.mp3",
 			"Standard Arabic Audio": "msa-1200-7.mp3"
 		},
@@ -72,7 +72,7 @@
 			"English": "It is her routine.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هو روتينها.",
 			"Egyptian Arabic Audio": "eca-1200-8.mp3",
 			"Standard Arabic Audio": "msa-1200-8.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "What happens if she does not have coffee? She goes insane.",
 			"Word Count": 11,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ماذا يحدث إذا لم يكن لديها القهوة؟ تذهب مجنون.",
 			"Egyptian Arabic Audio": "eca-1200-9.mp3",
 			"Standard Arabic Audio": "msa-1200-9.mp3"
 		},
@@ -90,7 +90,7 @@
 			"English": "Her vision starts to blur.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "رؤيتها تبدأ في طمس.",
 			"Egyptian Arabic Audio": "eca-1200-10.mp3",
 			"Standard Arabic Audio": "msa-1200-10.mp3"
 		},
@@ -99,7 +99,7 @@
 			"English": "Her body starts to shake.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "جسدها يبدأ يهز.",
 			"Egyptian Arabic Audio": "eca-1200-11.mp3",
 			"Standard Arabic Audio": "msa-1200-11.mp3"
 		},
@@ -108,7 +108,7 @@
 			"English": "She is unable to focus in class.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وهي غير قادرة على التركيز في الصف.",
 			"Egyptian Arabic Audio": "eca-1200-12.mp3",
 			"Standard Arabic Audio": "msa-1200-12.mp3"
 		},
@@ -117,7 +117,7 @@
 			"English": "She gets cranky.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وقالت انها يحصل غريب الأطوار.",
 			"Egyptian Arabic Audio": "eca-1200-13.mp3",
 			"Standard Arabic Audio": "msa-1200-13.mp3"
 		},
@@ -126,7 +126,7 @@
 			"English": "The smallest things annoy her.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أصغر الأشياء تزعجها.",
 			"Egyptian Arabic Audio": "eca-1200-14.mp3",
 			"Standard Arabic Audio": "msa-1200-14.mp3"
 		},
@@ -135,7 +135,7 @@
 			"English": "One time she even punched someone.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "مرة واحدة حتى أنها لكمة شخص ما.",
 			"Egyptian Arabic Audio": "eca-1200-15.mp3",
 			"Standard Arabic Audio": "msa-1200-15.mp3"
 		}

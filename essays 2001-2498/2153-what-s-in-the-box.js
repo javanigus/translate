@@ -9,7 +9,7 @@
 			"English": "\"It's a boy, silly! I'm pregnant,\" Amanda beamed.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "&quot;أنا صبي، سخيف! أنا حامل&quot;، أماندا بيمد.",
 			"Egyptian Arabic Audio": "eca-2153-1.mp3",
 			"Standard Arabic Audio": "msa-2153-1.mp3"
 		},
@@ -18,7 +18,7 @@
 			"English": "\"And his name is going to be Perry, Jr.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "&quot;واسمه سيكون بيري، الابن.",
 			"Egyptian Arabic Audio": "eca-2153-2.mp3",
 			"Standard Arabic Audio": "msa-2153-2.mp3"
 		},
@@ -27,7 +27,7 @@
 			"English": "\".",
 			"Word Count": 1,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "&quot;.",
 			"Egyptian Arabic Audio": "eca-2153-3.mp3",
 			"Standard Arabic Audio": "msa-2153-3.mp3"
 		}

@@ -11,7 +11,7 @@
 			"English": "Can I help you find something?",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هل يمكنني مساعدتك في العثور على شيء ما؟",
 			"Egyptian Arabic Audio": "eca-1199-1.mp3",
 			"Standard Arabic Audio": "msa-1199-1.mp3"
 		},
@@ -21,7 +21,7 @@
 			"English": "I would like to buy a new fridge.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أود شراء ثلاجة جديدة.",
 			"Egyptian Arabic Audio": "eca-1199-2.mp3",
 			"Standard Arabic Audio": "msa-1199-2.mp3"
 		},
@@ -31,7 +31,7 @@
 			"English": "Is there one in particular that you like?",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هل هناك واحد على وجه الخصوص التي تريد؟",
 			"Egyptian Arabic Audio": "eca-1199-3.mp3",
 			"Standard Arabic Audio": "msa-1199-3.mp3"
 		},
@@ -41,7 +41,7 @@
 			"English": "I was looking at this Kenmore refrigerator.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كنت أبحث في هذه الثلاجة كنمور.",
 			"Egyptian Arabic Audio": "eca-1199-4.mp3",
 			"Standard Arabic Audio": "msa-1199-4.mp3"
 		},
@@ -51,7 +51,7 @@
 			"English": "Ah yes, that is a great refrigerator.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "آه نعم، وهذا هو ثلاجة كبيرة.",
 			"Egyptian Arabic Audio": "eca-1199-5.mp3",
 			"Standard Arabic Audio": "msa-1199-5.mp3"
 		},
@@ -61,7 +61,7 @@
 			"English": "What's so great about it?",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ما هو عظيم جدا حول هذا الموضوع؟",
 			"Egyptian Arabic Audio": "eca-1199-6.mp3",
 			"Standard Arabic Audio": "msa-1199-6.mp3"
 		},
@@ -71,7 +71,7 @@
 			"English": "It's both affordable and it comes with all the appliances.",
 			"Word Count": 10,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انها على حد سواء بأسعار معقولة، وأنه يأتي مع جميع الأجهزة.",
 			"Egyptian Arabic Audio": "eca-1199-7.mp3",
 			"Standard Arabic Audio": "msa-1199-7.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "What appliances?",
 			"Word Count": 2,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ما الأجهزة؟",
 			"Egyptian Arabic Audio": "eca-1199-8.mp3",
 			"Standard Arabic Audio": "msa-1199-8.mp3"
 		},
@@ -91,7 +91,7 @@
 			"English": "It comes with an ice maker, water dispenser, and there is a lot of room  inside.",
 			"Word Count": 16,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لأنه يأتي مع صانع الجليد، موزع المياه، وهناك الكثير من الغرفة في الداخل.",
 			"Egyptian Arabic Audio": "eca-1199-9.mp3",
 			"Standard Arabic Audio": "msa-1199-9.mp3"
 		},
@@ -101,7 +101,7 @@
 			"English": "May I see the inside for myself?",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هل لي أن أرى داخل نفسي؟",
 			"Egyptian Arabic Audio": "eca-1199-10.mp3",
 			"Standard Arabic Audio": "msa-1199-10.mp3"
 		},
@@ -111,7 +111,7 @@
 			"English": "Be my guest.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كن ضيفي.",
 			"Egyptian Arabic Audio": "eca-1199-11.mp3",
 			"Standard Arabic Audio": "msa-1199-11.mp3"
 		},
@@ -121,7 +121,7 @@
 			"English": "Wow! You're right! This refrigerator is great. I'll take it.",
 			"Word Count": 10,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "نجاح باهر أنت على حق! هذه الثلاجة كبيرة. أنا أعتبر.",
 			"Egyptian Arabic Audio": "eca-1199-12.mp3",
 			"Standard Arabic Audio": "msa-1199-12.mp3"
 		},
@@ -131,7 +131,7 @@
 			"English": "Do you need help with something?",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هل تحتاج إلى مساعدة في شيء ما؟",
 			"Egyptian Arabic Audio": "eca-1199-13.mp3",
 			"Standard Arabic Audio": "msa-1199-13.mp3"
 		},
@@ -141,7 +141,7 @@
 			"English": "I need help finding a new refrigerator.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنا بحاجة إلى مساعدة في العثور على ثلاجة جديدة.",
 			"Egyptian Arabic Audio": "eca-1199-14.mp3",
 			"Standard Arabic Audio": "msa-1199-14.mp3"
 		},
@@ -151,7 +151,7 @@
 			"English": "Do you see anything that you like?",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هل ترى أي شيء تريد؟",
 			"Egyptian Arabic Audio": "eca-1199-15.mp3",
 			"Standard Arabic Audio": "msa-1199-15.mp3"
 		},
@@ -161,7 +161,7 @@
 			"English": "That Kenmore looks nice.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أن كنمور تبدو لطيفة.",
 			"Egyptian Arabic Audio": "eca-1199-16.mp3",
 			"Standard Arabic Audio": "msa-1199-16.mp3"
 		},
@@ -171,7 +171,7 @@
 			"English": "That is a wonderful choice.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هذا هو خيار رائع.",
 			"Egyptian Arabic Audio": "eca-1199-17.mp3",
 			"Standard Arabic Audio": "msa-1199-17.mp3"
 		},
@@ -181,7 +181,7 @@
 			"English": "What makes is so great?",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ما الذي يجعل كبيرة جدا؟",
 			"Egyptian Arabic Audio": "eca-1199-18.mp3",
 			"Standard Arabic Audio": "msa-1199-18.mp3"
 		},
@@ -191,7 +191,7 @@
 			"English": "It's very inexpensive, and it has all the appliances.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انها غير مكلفة للغاية، ولديه كل الأجهزة.",
 			"Egyptian Arabic Audio": "eca-1199-19.mp3",
 			"Standard Arabic Audio": "msa-1199-19.mp3"
 		},
@@ -201,7 +201,7 @@
 			"English": "What appliances are you talking about?",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ما هي الأجهزة التي تتحدث عنها؟",
 			"Egyptian Arabic Audio": "eca-1199-20.mp3",
 			"Standard Arabic Audio": "msa-1199-20.mp3"
 		},
@@ -211,7 +211,7 @@
 			"English": "The fridge and freezer is very spacious, and it also has an ice maker and  water dispenser.",
 			"Word Count": 17,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "الثلاجة والفريزر واسعة جدا، ولها أيضا صانع الثلج وموزع المياه.",
 			"Egyptian Arabic Audio": "eca-1199-21.mp3",
 			"Standard Arabic Audio": "msa-1199-21.mp3"
 		},
@@ -221,7 +221,7 @@
 			"English": "May I take a look inside?",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هل لي أن ألقي نظرة في الداخل؟",
 			"Egyptian Arabic Audio": "eca-1199-22.mp3",
 			"Standard Arabic Audio": "msa-1199-22.mp3"
 		},
@@ -231,7 +231,7 @@
 			"English": "Take a look inside.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "نلقي نظرة في الداخل.",
 			"Egyptian Arabic Audio": "eca-1199-23.mp3",
 			"Standard Arabic Audio": "msa-1199-23.mp3"
 		},
@@ -241,7 +241,7 @@
 			"English": "It's very nice. I'd like to purchase this refrigerator.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هذا جميل جدا. أريد شراء هذه الثلاجة.",
 			"Egyptian Arabic Audio": "eca-1199-24.mp3",
 			"Standard Arabic Audio": "msa-1199-24.mp3"
 		},
@@ -251,7 +251,7 @@
 			"English": "What can I do for you today?",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ماذا استطيع ان افعل لك اليوم؟",
 			"Egyptian Arabic Audio": "eca-1199-25.mp3",
 			"Standard Arabic Audio": "msa-1199-25.mp3"
 		},
@@ -261,7 +261,7 @@
 			"English": "I need to buy a new refrigerator today.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنا بحاجة لشراء ثلاجة جديدة اليوم.",
 			"Egyptian Arabic Audio": "eca-1199-26.mp3",
 			"Standard Arabic Audio": "msa-1199-26.mp3"
 		},
@@ -271,7 +271,7 @@
 			"English": "Were you looking at a particular refrigerator?",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هل كنت تبحث في ثلاجة معينة؟",
 			"Egyptian Arabic Audio": "eca-1199-27.mp3",
 			"Standard Arabic Audio": "msa-1199-27.mp3"
 		},
@@ -281,7 +281,7 @@
 			"English": "I like that Kenmore refrigerator.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنا أحب أن ثلاجة كنمور.",
 			"Egyptian Arabic Audio": "eca-1199-28.mp3",
 			"Standard Arabic Audio": "msa-1199-28.mp3"
 		},
@@ -291,7 +291,7 @@
 			"English": "This particular refrigerator is a very good choice.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هذه الثلاجة خاصة هو خيار جيد جدا.",
 			"Egyptian Arabic Audio": "eca-1199-29.mp3",
 			"Standard Arabic Audio": "msa-1199-29.mp3"
 		},
@@ -301,7 +301,7 @@
 			"English": "Tell me about it.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "حدثني عنها.",
 			"Egyptian Arabic Audio": "eca-1199-30.mp3",
 			"Standard Arabic Audio": "msa-1199-30.mp3"
 		},
@@ -311,7 +311,7 @@
 			"English": "Not only is it affordable, but it comes with all the appliances.",
 			"Word Count": 12,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ليس فقط أنها بأسعار معقولة، لكنه يأتي مع جميع الأجهزة.",
 			"Egyptian Arabic Audio": "eca-1199-31.mp3",
 			"Standard Arabic Audio": "msa-1199-31.mp3"
 		},
@@ -321,7 +321,7 @@
 			"English": "What are the appliances.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ما هي الأجهزة.",
 			"Egyptian Arabic Audio": "eca-1199-32.mp3",
 			"Standard Arabic Audio": "msa-1199-32.mp3"
 		},
@@ -331,7 +331,7 @@
 			"English": "It has an ice maker, water dispenser, and plenty of room on the inside.",
 			"Word Count": 14,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لديها صانع الجليد، موزع المياه، والكثير من الغرفة في الداخل.",
 			"Egyptian Arabic Audio": "eca-1199-33.mp3",
 			"Standard Arabic Audio": "msa-1199-33.mp3"
 		},
@@ -341,7 +341,7 @@
 			"English": "I'd like to see it for myself.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أود أن أرى ذلك لنفسي.",
 			"Egyptian Arabic Audio": "eca-1199-34.mp3",
 			"Standard Arabic Audio": "msa-1199-34.mp3"
 		},
@@ -351,7 +351,7 @@
 			"English": "Go right ahead.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "استمر للأمام.",
 			"Egyptian Arabic Audio": "eca-1199-35.mp3",
 			"Standard Arabic Audio": "msa-1199-35.mp3"
 		},
@@ -361,7 +361,7 @@
 			"English": "I like what I see.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "احب ما اراه.",
 			"Egyptian Arabic Audio": "eca-1199-36.mp3",
 			"Standard Arabic Audio": "msa-1199-36.mp3"
 		}

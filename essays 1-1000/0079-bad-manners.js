@@ -9,7 +9,7 @@
 			"English": "She has bad manners.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لديها أخلاق سيئة.",
 			"Egyptian Arabic Audio": "eca-0079-1.mp3",
 			"Standard Arabic Audio": "msa-0079-1.mp3"
 		},
@@ -18,7 +18,7 @@
 			"English": "She never shows any respect.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وقالت انها لا تظهر أي احترام.",
 			"Egyptian Arabic Audio": "eca-0079-2.mp3",
 			"Standard Arabic Audio": "msa-0079-2.mp3"
 		},
@@ -27,7 +27,7 @@
 			"English": "Her mother buys her a present.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "والدتها تشتري لها هدية.",
 			"Egyptian Arabic Audio": "eca-0079-3.mp3",
 			"Standard Arabic Audio": "msa-0079-3.mp3"
 		},
@@ -36,7 +36,7 @@
 			"English": "She does not say thank you.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "إنها لا تقول شكرا.",
 			"Egyptian Arabic Audio": "eca-0079-4.mp3",
 			"Standard Arabic Audio": "msa-0079-4.mp3"
 		},
@@ -45,7 +45,7 @@
 			"English": "Her grandparents come to her house.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أجدادها يأتون إلى منزلها.",
 			"Egyptian Arabic Audio": "eca-0079-5.mp3",
 			"Standard Arabic Audio": "msa-0079-5.mp3"
 		},
@@ -54,7 +54,7 @@
 			"English": "She asks them to leave.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "تطلب منهم المغادرة.",
 			"Egyptian Arabic Audio": "eca-0079-6.mp3",
 			"Standard Arabic Audio": "msa-0079-6.mp3"
 		},
@@ -63,7 +63,7 @@
 			"English": "Her classmate has something she wants.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "زميلها لديها شيء تريده.",
 			"Egyptian Arabic Audio": "eca-0079-7.mp3",
 			"Standard Arabic Audio": "msa-0079-7.mp3"
 		},
@@ -72,7 +72,7 @@
 			"English": "She steals it.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انها تسرق ذلك.",
 			"Egyptian Arabic Audio": "eca-0079-8.mp3",
 			"Standard Arabic Audio": "msa-0079-8.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "Her dad asks her for a favor.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "والدها يسألها عن صالح.",
 			"Egyptian Arabic Audio": "eca-0079-9.mp3",
 			"Standard Arabic Audio": "msa-0079-9.mp3"
 		},
@@ -90,7 +90,7 @@
 			"English": "She does not do it.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انها لا تفعل ذلك.",
 			"Egyptian Arabic Audio": "eca-0079-10.mp3",
 			"Standard Arabic Audio": "msa-0079-10.mp3"
 		}

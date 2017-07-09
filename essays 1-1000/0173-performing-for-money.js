@@ -9,7 +9,7 @@
 			"English": "He is homeless, but he can sing well.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هو بلا مأوى، لكنه يمكن أن يغني جيدا.",
 			"Egyptian Arabic Audio": "eca-0173-1.mp3",
 			"Standard Arabic Audio": "msa-0173-1.mp3"
 		},
@@ -18,7 +18,7 @@
 			"English": "He takes off his cap.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انه يخلع غطاءه.",
 			"Egyptian Arabic Audio": "eca-0173-2.mp3",
 			"Standard Arabic Audio": "msa-0173-2.mp3"
 		},
@@ -27,7 +27,7 @@
 			"English": "He puts it on the floor.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يضعها على الأرض.",
 			"Egyptian Arabic Audio": "eca-0173-3.mp3",
 			"Standard Arabic Audio": "msa-0173-3.mp3"
 		},
@@ -36,7 +36,7 @@
 			"English": "He starts singing.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يبدأ الغناء.",
 			"Egyptian Arabic Audio": "eca-0173-4.mp3",
 			"Standard Arabic Audio": "msa-0173-4.mp3"
 		},
@@ -45,7 +45,7 @@
 			"English": "People like his voice.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "الناس مثل صوته.",
 			"Egyptian Arabic Audio": "eca-0173-5.mp3",
 			"Standard Arabic Audio": "msa-0173-5.mp3"
 		},
@@ -54,7 +54,7 @@
 			"English": "They stop and listen.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "توقفوا والاستماع.",
 			"Egyptian Arabic Audio": "eca-0173-6.mp3",
 			"Standard Arabic Audio": "msa-0173-6.mp3"
 		},
@@ -63,7 +63,7 @@
 			"English": "People put money in the cap.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وضع الناس المال في الحد الأقصى.",
 			"Egyptian Arabic Audio": "eca-0173-7.mp3",
 			"Standard Arabic Audio": "msa-0173-7.mp3"
 		},
@@ -72,7 +72,7 @@
 			"English": "He thanks them.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انه يشكرهم.",
 			"Egyptian Arabic Audio": "eca-0173-8.mp3",
 			"Standard Arabic Audio": "msa-0173-8.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "He sings for two hours.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يغني لمدة ساعتين.",
 			"Egyptian Arabic Audio": "eca-0173-9.mp3",
 			"Standard Arabic Audio": "msa-0173-9.mp3"
 		},
@@ -90,7 +90,7 @@
 			"English": "There is $50 in his cap.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هناك 50 $ في سقفه.",
 			"Egyptian Arabic Audio": "eca-0173-10.mp3",
 			"Standard Arabic Audio": "msa-0173-10.mp3"
 		}

@@ -11,7 +11,7 @@
 			"English": "I really like your shoes.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنا حقا أحب حذائك.",
 			"Egyptian Arabic Audio": "eca-0171-1.mp3",
 			"Standard Arabic Audio": "msa-0171-1.mp3"
 		},
@@ -21,7 +21,7 @@
 			"English": "Thank you!",
 			"Word Count": 2,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "شكرا!",
 			"Egyptian Arabic Audio": "eca-0171-2.mp3",
 			"Standard Arabic Audio": "msa-0171-2.mp3"
 		},
@@ -31,7 +31,7 @@
 			"English": "Where did you buy them?",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "من أين لك شرائها؟",
 			"Egyptian Arabic Audio": "eca-0171-3.mp3",
 			"Standard Arabic Audio": "msa-0171-3.mp3"
 		},
@@ -41,7 +41,7 @@
 			"English": "I bought them at a store in the mall.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "اشتريتها في متجر في المركز التجاري.",
 			"Egyptian Arabic Audio": "eca-0171-4.mp3",
 			"Standard Arabic Audio": "msa-0171-4.mp3"
 		},
@@ -51,7 +51,7 @@
 			"English": "Were they very expensive?",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هل كانت مكلفة جدا؟",
 			"Egyptian Arabic Audio": "eca-0171-5.mp3",
 			"Standard Arabic Audio": "msa-0171-5.mp3"
 		},
@@ -61,7 +61,7 @@
 			"English": "They were around $40.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وكانوا حوالي 40 دولارا.",
 			"Egyptian Arabic Audio": "eca-0171-6.mp3",
 			"Standard Arabic Audio": "msa-0171-6.mp3"
 		},
@@ -71,7 +71,7 @@
 			"English": "They look very comfortable.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنها تبدو مريحة جدا.",
 			"Egyptian Arabic Audio": "eca-0171-7.mp3",
 			"Standard Arabic Audio": "msa-0171-7.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "They are extremely comfortable.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "فهي مريحة للغاية.",
 			"Egyptian Arabic Audio": "eca-0171-8.mp3",
 			"Standard Arabic Audio": "msa-0171-8.mp3"
 		},
@@ -91,7 +91,7 @@
 			"English": "Do they come in many other colors?",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هل تأتي في العديد من الألوان الأخرى؟",
 			"Egyptian Arabic Audio": "eca-0171-9.mp3",
 			"Standard Arabic Audio": "msa-0171-9.mp3"
 		},
@@ -101,7 +101,7 @@
 			"English": "I saw several different ones when I bought them.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "رأيت العديد منها مختلفة عندما اشتريتها.",
 			"Egyptian Arabic Audio": "eca-0171-10.mp3",
 			"Standard Arabic Audio": "msa-0171-10.mp3"
 		},
@@ -111,7 +111,7 @@
 			"English": "Maybe I'll buy myself a pair.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ربما سأشتري نفسي زوج.",
 			"Egyptian Arabic Audio": "eca-0171-11.mp3",
 			"Standard Arabic Audio": "msa-0171-11.mp3"
 		},
@@ -121,7 +121,7 @@
 			"English": "They are definitely worth the money.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هم بالتأكيد يستحقون المال.",
 			"Egyptian Arabic Audio": "eca-0171-12.mp3",
 			"Standard Arabic Audio": "msa-0171-12.mp3"
 		}

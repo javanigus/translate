@@ -11,7 +11,7 @@
 			"English": "Is there anything I can say or do to make you lower the monthly rent?",
 			"Word Count": 15,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هل هناك أي شيء يمكنني قوله أو القيام به لجعل لكم خفض الإيجار الشهري؟",
 			"Egyptian Arabic Audio": "eca-0662-1.mp3",
 			"Standard Arabic Audio": "msa-0662-1.mp3"
 		},
@@ -21,7 +21,7 @@
 			"English": "I doubt it, but let me hear you out.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أشك في ذلك، ولكن اسمحوا لي أن أسمعك.",
 			"Egyptian Arabic Audio": "eca-0662-2.mp3",
 			"Standard Arabic Audio": "msa-0662-2.mp3"
 		},
@@ -31,7 +31,7 @@
 			"English": "If you lower the price, I will mow the lawn and trim the hedges every month.",
 			"Word Count": 16,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "إذا قمت بتخفيض السعر، وسوف جز العشب والحد من التحوط كل شهر.",
 			"Egyptian Arabic Audio": "eca-0662-3.mp3",
 			"Standard Arabic Audio": "msa-0662-3.mp3"
 		},
@@ -41,7 +41,7 @@
 			"English": "No, I already have someone who does that.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لا، لدي بالفعل شخص يفعل ذلك.",
 			"Egyptian Arabic Audio": "eca-0662-4.mp3",
 			"Standard Arabic Audio": "msa-0662-4.mp3"
 		},
@@ -51,7 +51,7 @@
 			"English": "What if I give you the first two months' rent in advance?",
 			"Word Count": 12,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ماذا لو أعطيت لك أول شهرين من الإيجار مقدما؟",
 			"Egyptian Arabic Audio": "eca-0662-5.mp3",
 			"Standard Arabic Audio": "msa-0662-5.mp3"
 		},
@@ -61,7 +61,7 @@
 			"English": "No deal. Sorry, kid.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لا أتفاق. آسف، طفل.",
 			"Egyptian Arabic Audio": "eca-0662-6.mp3",
 			"Standard Arabic Audio": "msa-0662-6.mp3"
 		},
@@ -71,7 +71,7 @@
 			"English": "Looks like I can't convince you to lower the rent.",
 			"Word Count": 10,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يبدو أنني لا أستطيع إقناعكم بتخفيض الإيجار.",
 			"Egyptian Arabic Audio": "eca-0662-7.mp3",
 			"Standard Arabic Audio": "msa-0662-7.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "I'm sorry, but that was a good effort.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنا آسف، ولكن هذا كان جهدا جيدا.",
 			"Egyptian Arabic Audio": "eca-0662-8.mp3",
 			"Standard Arabic Audio": "msa-0662-8.mp3"
 		},
@@ -91,7 +91,7 @@
 			"English": "I guess I'm going to have such a hard time paying rent.",
 			"Word Count": 12,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أعتقد أنني سوف يكون مثل هذا الوقت الصعب دفع الإيجار.",
 			"Egyptian Arabic Audio": "eca-0662-9.mp3",
 			"Standard Arabic Audio": "msa-0662-9.mp3"
 		},
@@ -101,7 +101,7 @@
 			"English": "Don't look so down now.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لا تبدو حتى الآن.",
 			"Egyptian Arabic Audio": "eca-0662-10.mp3",
 			"Standard Arabic Audio": "msa-0662-10.mp3"
 		},
@@ -111,7 +111,7 @@
 			"English": "I can't help it.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لا أستطيع مساعدته.",
 			"Egyptian Arabic Audio": "eca-0662-11.mp3",
 			"Standard Arabic Audio": "msa-0662-11.mp3"
 		},
@@ -121,7 +121,7 @@
 			"English": "Alright, you win! I'll lower the price.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "حسنا، تكسب! سوف خفض السعر.",
 			"Egyptian Arabic Audio": "eca-0662-12.mp3",
 			"Standard Arabic Audio": "msa-0662-12.mp3"
 		}

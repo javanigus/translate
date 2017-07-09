@@ -11,7 +11,7 @@
 			"English": "Did you hear who won the election?",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هل سمعت من فاز في الانتخابات؟",
 			"Egyptian Arabic Audio": "eca-1480-1.mp3",
 			"Standard Arabic Audio": "msa-1480-1.mp3"
 		},
@@ -21,7 +21,7 @@
 			"English": "I can't believe that Obama won.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لا أستطيع أن أصدق أن أوباما فاز.",
 			"Egyptian Arabic Audio": "eca-1480-2.mp3",
 			"Standard Arabic Audio": "msa-1480-2.mp3"
 		},
@@ -31,7 +31,7 @@
 			"English": "I couldn't be happier to know that he's our new President.",
 			"Word Count": 11,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنا لا يمكن أن يكون أكثر سعادة لمعرفة أنه رئيسنا الجديد.",
 			"Egyptian Arabic Audio": "eca-1480-3.mp3",
 			"Standard Arabic Audio": "msa-1480-3.mp3"
 		},
@@ -41,7 +41,7 @@
 			"English": "I know! He just made history!",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "اعرف! انه مجرد جعل التاريخ!",
 			"Egyptian Arabic Audio": "eca-1480-4.mp3",
 			"Standard Arabic Audio": "msa-1480-4.mp3"
 		},
@@ -51,7 +51,7 @@
 			"English": "You voted for him, right?",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لقد صوتت له، أليس كذلك؟",
 			"Egyptian Arabic Audio": "eca-1480-5.mp3",
 			"Standard Arabic Audio": "msa-1480-5.mp3"
 		},
@@ -61,7 +61,7 @@
 			"English": "I did. Did you?",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "فعلت. هل فعلت؟",
 			"Egyptian Arabic Audio": "eca-1480-6.mp3",
 			"Standard Arabic Audio": "msa-1480-6.mp3"
 		},
@@ -71,7 +71,7 @@
 			"English": "I voted for him.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لقد صوت له.",
 			"Egyptian Arabic Audio": "eca-1480-7.mp3",
 			"Standard Arabic Audio": "msa-1480-7.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "I am so happy that he is our new President!",
 			"Word Count": 10,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنا سعيد جدا لأنه رئيسنا الجديد!",
 			"Egyptian Arabic Audio": "eca-1480-8.mp3",
 			"Standard Arabic Audio": "msa-1480-8.mp3"
 		},
@@ -91,7 +91,7 @@
 			"English": "So am I.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وكذلك أنا.",
 			"Egyptian Arabic Audio": "eca-1480-9.mp3",
 			"Standard Arabic Audio": "msa-1480-9.mp3"
 		},
@@ -101,7 +101,7 @@
 			"English": "I hope that he brings change to America.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وآمل أن يجلب التغيير إلى أمريكا.",
 			"Egyptian Arabic Audio": "eca-1480-10.mp3",
 			"Standard Arabic Audio": "msa-1480-10.mp3"
 		},
@@ -111,7 +111,7 @@
 			"English": "I have faith in him.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لدي الإيمان به.",
 			"Egyptian Arabic Audio": "eca-1480-11.mp3",
 			"Standard Arabic Audio": "msa-1480-11.mp3"
 		},
@@ -121,7 +121,7 @@
 			"English": "I have faith in our new President.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "إنني أؤمن برئيسنا الجديد.",
 			"Egyptian Arabic Audio": "eca-1480-12.mp3",
 			"Standard Arabic Audio": "msa-1480-12.mp3"
 		},
@@ -131,7 +131,7 @@
 			"English": "You know who won the election, right?",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنت تعرف من فاز بالانتخابات، أليس كذلك؟",
 			"Egyptian Arabic Audio": "eca-1480-13.mp3",
 			"Standard Arabic Audio": "msa-1480-13.mp3"
 		},
@@ -141,7 +141,7 @@
 			"English": "I'm still shocked that Obama was elected.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ما زلت صدمت أن أوباما انتخب.",
 			"Egyptian Arabic Audio": "eca-1480-14.mp3",
 			"Standard Arabic Audio": "msa-1480-14.mp3"
 		},
@@ -151,7 +151,7 @@
 			"English": "I couldn't believe it, either.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لم أستطع أن أصدق ذلك، سواء.",
 			"Egyptian Arabic Audio": "eca-1480-15.mp3",
 			"Standard Arabic Audio": "msa-1480-15.mp3"
 		},
@@ -161,7 +161,7 @@
 			"English": "He just made history.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لقد جعل التاريخ.",
 			"Egyptian Arabic Audio": "eca-1480-16.mp3",
 			"Standard Arabic Audio": "msa-1480-16.mp3"
 		},
@@ -171,7 +171,7 @@
 			"English": "I hope you voted for him.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "آمل أن تصوت له.",
 			"Egyptian Arabic Audio": "eca-1480-17.mp3",
 			"Standard Arabic Audio": "msa-1480-17.mp3"
 		},
@@ -181,7 +181,7 @@
 			"English": "Of course I did. Did you?",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "بالطبع فعلت. هل فعلت؟",
 			"Egyptian Arabic Audio": "eca-1480-18.mp3",
 			"Standard Arabic Audio": "msa-1480-18.mp3"
 		},
@@ -191,7 +191,7 @@
 			"English": "I made sure to vote for him.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لقد تأكدت من التصويت له.",
 			"Egyptian Arabic Audio": "eca-1480-19.mp3",
 			"Standard Arabic Audio": "msa-1480-19.mp3"
 		},
@@ -201,7 +201,7 @@
 			"English": "I am really excited about this.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنا متحمس جدا حول هذا الموضوع.",
 			"Egyptian Arabic Audio": "eca-1480-20.mp3",
 			"Standard Arabic Audio": "msa-1480-20.mp3"
 		},
@@ -211,7 +211,7 @@
 			"English": "I know how you feel.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنا أعرف كيف تشعر.",
 			"Egyptian Arabic Audio": "eca-1480-21.mp3",
 			"Standard Arabic Audio": "msa-1480-21.mp3"
 		},
@@ -221,7 +221,7 @@
 			"English": "Hopefully, he'll change things in our nation.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ونأمل أن يغير الأمور في أمتنا.",
 			"Egyptian Arabic Audio": "eca-1480-22.mp3",
 			"Standard Arabic Audio": "msa-1480-22.mp3"
 		},
@@ -231,7 +231,7 @@
 			"English": "I know that he will.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وأنا أعلم أنه سوف.",
 			"Egyptian Arabic Audio": "eca-1480-23.mp3",
 			"Standard Arabic Audio": "msa-1480-23.mp3"
 		},
@@ -241,7 +241,7 @@
 			"English": "I trust him.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنا أثق به.",
 			"Egyptian Arabic Audio": "eca-1480-24.mp3",
 			"Standard Arabic Audio": "msa-1480-24.mp3"
 		},
@@ -251,7 +251,7 @@
 			"English": "You heard who won the election, didn't you?",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هل سمعت من فاز في الانتخابات، أليس كذلك؟",
 			"Egyptian Arabic Audio": "eca-1480-25.mp3",
 			"Standard Arabic Audio": "msa-1480-25.mp3"
 		},
@@ -261,7 +261,7 @@
 			"English": "Yeah. I am so excited that Obama won.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "بلى. أنا متحمس جدا أن أوباما فاز.",
 			"Egyptian Arabic Audio": "eca-1480-26.mp3",
 			"Standard Arabic Audio": "msa-1480-26.mp3"
 		},
@@ -271,7 +271,7 @@
 			"English": "I'm so happy that he did.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنا سعيد جدا أنه فعل.",
 			"Egyptian Arabic Audio": "eca-1480-27.mp3",
 			"Standard Arabic Audio": "msa-1480-27.mp3"
 		},
@@ -281,7 +281,7 @@
 			"English": "That man just made history.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هذا الرجل فقط جعل التاريخ.",
 			"Egyptian Arabic Audio": "eca-1480-28.mp3",
 			"Standard Arabic Audio": "msa-1480-28.mp3"
 		},
@@ -291,7 +291,7 @@
 			"English": "Did you vote for him?",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هل صوتت له؟",
 			"Egyptian Arabic Audio": "eca-1480-29.mp3",
 			"Standard Arabic Audio": "msa-1480-29.mp3"
 		},
@@ -301,7 +301,7 @@
 			"English": "I sure did! What about you?",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنا متأكد من فعل! ماذا عنك؟",
 			"Egyptian Arabic Audio": "eca-1480-30.mp3",
 			"Standard Arabic Audio": "msa-1480-30.mp3"
 		},
@@ -311,7 +311,7 @@
 			"English": "Of course I did!",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "بالطبع فعلت!",
 			"Egyptian Arabic Audio": "eca-1480-31.mp3",
 			"Standard Arabic Audio": "msa-1480-31.mp3"
 		},
@@ -321,7 +321,7 @@
 			"English": "I am still in shock to know that he was elected.",
 			"Word Count": 11,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وما زلت أشعر بالصدمة لمعرفة أنه انتخب.",
 			"Egyptian Arabic Audio": "eca-1480-32.mp3",
 			"Standard Arabic Audio": "msa-1480-32.mp3"
 		},
@@ -331,7 +331,7 @@
 			"English": "I am, too!",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وأنا كذلك!",
 			"Egyptian Arabic Audio": "eca-1480-33.mp3",
 			"Standard Arabic Audio": "msa-1480-33.mp3"
 		},
@@ -341,7 +341,7 @@
 			"English": "I pray that he actually makes things better in this country.",
 			"Word Count": 11,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أدعو الله أن يجعل الأمور في الواقع أفضل في هذا البلد.",
 			"Egyptian Arabic Audio": "eca-1480-34.mp3",
 			"Standard Arabic Audio": "msa-1480-34.mp3"
 		},
@@ -351,7 +351,7 @@
 			"English": "I'm sure that he will.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنا متأكد من أنه سوف.",
 			"Egyptian Arabic Audio": "eca-1480-35.mp3",
 			"Standard Arabic Audio": "msa-1480-35.mp3"
 		},
@@ -361,7 +361,7 @@
 			"English": "I know he will, too.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وأنا أعلم أنه سوف، أيضا.",
 			"Egyptian Arabic Audio": "eca-1480-36.mp3",
 			"Standard Arabic Audio": "msa-1480-36.mp3"
 		}

@@ -11,7 +11,7 @@
 			"English": "The lunch menu is so bad today.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "قائمة الغداء سيئة للغاية اليوم.",
 			"Egyptian Arabic Audio": "eca-0015-1.mp3",
 			"Standard Arabic Audio": "msa-0015-1.mp3"
 		},
@@ -21,7 +21,7 @@
 			"English": "What is the cafeteria serving?",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ما هو الكافتيريا التي تخدم؟",
 			"Egyptian Arabic Audio": "eca-0015-2.mp3",
 			"Standard Arabic Audio": "msa-0015-2.mp3"
 		},
@@ -31,7 +31,7 @@
 			"English": "Leftover meatloaf and brussel sprouts.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "بقايا الخبز، أيضا، بروسل، براعم.",
 			"Egyptian Arabic Audio": "eca-0015-3.mp3",
 			"Standard Arabic Audio": "msa-0015-3.mp3"
 		},
@@ -41,7 +41,7 @@
 			"English": "That is disgusting.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هذا مثير للاشمئزاز.",
 			"Egyptian Arabic Audio": "eca-0015-4.mp3",
 			"Standard Arabic Audio": "msa-0015-4.mp3"
 		},
@@ -51,7 +51,7 @@
 			"English": "I'm thinking of buying something from the vending machine.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنا أفكر في شراء شيء من آلة البيع.",
 			"Egyptian Arabic Audio": "eca-0015-5.mp3",
 			"Standard Arabic Audio": "msa-0015-5.mp3"
 		},
@@ -61,7 +61,7 @@
 			"English": "I wouldn't do that if I were you.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لن أفعل ذلك لو كنت أنت.",
 			"Egyptian Arabic Audio": "eca-0015-6.mp3",
 			"Standard Arabic Audio": "msa-0015-6.mp3"
 		},
@@ -71,7 +71,7 @@
 			"English": "What's wrong with the vending machine?",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ما هو الخطأ في آلة البيع؟",
 			"Egyptian Arabic Audio": "eca-0015-7.mp3",
 			"Standard Arabic Audio": "msa-0015-7.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "It steals your money.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "فإنه يسرق أموالك.",
 			"Egyptian Arabic Audio": "eca-0015-8.mp3",
 			"Standard Arabic Audio": "msa-0015-8.mp3"
 		},
@@ -91,7 +91,7 @@
 			"English": "Vending machines can't steal.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "آلات البيع لا يمكن سرقة.",
 			"Egyptian Arabic Audio": "eca-0015-9.mp3",
 			"Standard Arabic Audio": "msa-0015-9.mp3"
 		},
@@ -101,7 +101,7 @@
 			"English": "Yesterday, I inserted a dollar and no food came out.",
 			"Word Count": 10,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أمس، وأدرجت الدولار ولم يصدر أي طعام.",
 			"Egyptian Arabic Audio": "eca-0015-10.mp3",
 			"Standard Arabic Audio": "msa-0015-10.mp3"
 		},
@@ -111,7 +111,7 @@
 			"English": "I think I'll just go to the cafeteria.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أعتقد أنني سوف اذهب إلى الكافتيريا.",
 			"Egyptian Arabic Audio": "eca-0015-11.mp3",
 			"Standard Arabic Audio": "msa-0015-11.mp3"
 		},
@@ -121,7 +121,7 @@
 			"English": "Meatloaf and brussel sprouts sounds good right now, right?",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "اللحم و بروسل براعم يبدو جيدا الآن، أليس كذلك؟",
 			"Egyptian Arabic Audio": "eca-0015-12.mp3",
 			"Standard Arabic Audio": "msa-0015-12.mp3"
 		}

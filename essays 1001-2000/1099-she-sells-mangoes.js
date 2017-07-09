@@ -9,7 +9,7 @@
 			"English": "She stands on the sidewalk.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وهي تقف على الرصيف.",
 			"Egyptian Arabic Audio": "eca-1099-1.mp3",
 			"Standard Arabic Audio": "msa-1099-1.mp3"
 		},
@@ -18,7 +18,7 @@
 			"English": "She stands behind a small table.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وهي تقف وراء طاولة صغيرة.",
 			"Egyptian Arabic Audio": "eca-1099-2.mp3",
 			"Standard Arabic Audio": "msa-1099-2.mp3"
 		},
@@ -27,7 +27,7 @@
 			"English": "She peels a mango.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "قشور المانجو.",
 			"Egyptian Arabic Audio": "eca-1099-3.mp3",
 			"Standard Arabic Audio": "msa-1099-3.mp3"
 		},
@@ -36,7 +36,7 @@
 			"English": "She slices it.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انها شرائح.",
 			"Egyptian Arabic Audio": "eca-1099-4.mp3",
 			"Standard Arabic Audio": "msa-1099-4.mp3"
 		},
@@ -45,7 +45,7 @@
 			"English": "She puts it into a plastic cup.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انها تضعه في كوب من البلاستيك.",
 			"Egyptian Arabic Audio": "eca-1099-5.mp3",
 			"Standard Arabic Audio": "msa-1099-5.mp3"
 		},
@@ -54,7 +54,7 @@
 			"English": "There are five cups on the table.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هناك خمسة أكواب على الطاولة.",
 			"Egyptian Arabic Audio": "eca-1099-6.mp3",
 			"Standard Arabic Audio": "msa-1099-6.mp3"
 		},
@@ -63,7 +63,7 @@
 			"English": "They are for sale.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "فهي للبيع.",
 			"Egyptian Arabic Audio": "eca-1099-7.mp3",
 			"Standard Arabic Audio": "msa-1099-7.mp3"
 		},
@@ -72,7 +72,7 @@
 			"English": "One cup costs two dollars.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كوب واحد يكلف دولارين.",
 			"Egyptian Arabic Audio": "eca-1099-8.mp3",
 			"Standard Arabic Audio": "msa-1099-8.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "A man stops.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "رجل يتوقف.",
 			"Egyptian Arabic Audio": "eca-1099-9.mp3",
 			"Standard Arabic Audio": "msa-1099-9.mp3"
 		},
@@ -90,7 +90,7 @@
 			"English": "He buys a cup for two dollars.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انه يشتري كوب دولارين.",
 			"Egyptian Arabic Audio": "eca-1099-10.mp3",
 			"Standard Arabic Audio": "msa-1099-10.mp3"
 		}

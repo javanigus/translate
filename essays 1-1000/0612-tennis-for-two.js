@@ -9,7 +9,7 @@
 			"English": "Laura and Donald play tennis together.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لورا ودونالد لعب التنس معا.",
 			"Egyptian Arabic Audio": "eca-0612-1.mp3",
 			"Standard Arabic Audio": "msa-0612-1.mp3"
 		},
@@ -18,7 +18,7 @@
 			"English": "They go to the tennis court.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يذهبون إلى ملعب التنس.",
 			"Egyptian Arabic Audio": "eca-0612-2.mp3",
 			"Standard Arabic Audio": "msa-0612-2.mp3"
 		},
@@ -27,7 +27,7 @@
 			"English": "Laura wants to practice her serves.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لورا يريد ممارسة لها يخدم.",
 			"Egyptian Arabic Audio": "eca-0612-3.mp3",
 			"Standard Arabic Audio": "msa-0612-3.mp3"
 		},
@@ -36,7 +36,7 @@
 			"English": "She stands behind the line.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وهي تقف وراء الخط.",
 			"Egyptian Arabic Audio": "eca-0612-4.mp3",
 			"Standard Arabic Audio": "msa-0612-4.mp3"
 		},
@@ -45,7 +45,7 @@
 			"English": "She throws the ball up.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وقالت انها يلقي الكرة حتى.",
 			"Egyptian Arabic Audio": "eca-0612-5.mp3",
 			"Standard Arabic Audio": "msa-0612-5.mp3"
 		},
@@ -54,7 +54,7 @@
 			"English": "She hits it with the racket.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انها يضرب ذلك مع مضرب.",
 			"Egyptian Arabic Audio": "eca-0612-6.mp3",
 			"Standard Arabic Audio": "msa-0612-6.mp3"
 		},
@@ -63,7 +63,7 @@
 			"English": "It goes over the net.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وغني عن الشبكة.",
 			"Egyptian Arabic Audio": "eca-0612-7.mp3",
 			"Standard Arabic Audio": "msa-0612-7.mp3"
 		},
@@ -72,7 +72,7 @@
 			"English": "Donald sees the ball.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "دونالد يرى الكرة.",
 			"Egyptian Arabic Audio": "eca-0612-8.mp3",
 			"Standard Arabic Audio": "msa-0612-8.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "He hits it with the racket.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انه يضرب ذلك مع مضرب.",
 			"Egyptian Arabic Audio": "eca-0612-9.mp3",
 			"Standard Arabic Audio": "msa-0612-9.mp3"
 		},
@@ -90,7 +90,7 @@
 			"English": "It goes to Laura's side.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يذهب إلى الجانب لورا.",
 			"Egyptian Arabic Audio": "eca-0612-10.mp3",
 			"Standard Arabic Audio": "msa-0612-10.mp3"
 		},
@@ -99,7 +99,7 @@
 			"English": "The ball keeps going back and forth.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "الكرة تبقي ذهابا وإيابا.",
 			"Egyptian Arabic Audio": "eca-0612-11.mp3",
 			"Standard Arabic Audio": "msa-0612-11.mp3"
 		}

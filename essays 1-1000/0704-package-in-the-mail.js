@@ -9,7 +9,7 @@
 			"English": "The mailman knocked on the door.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "طرقت مراسلة البريد على الباب.",
 			"Egyptian Arabic Audio": "eca-0704-1.mp3",
 			"Standard Arabic Audio": "msa-0704-1.mp3"
 		},
@@ -18,7 +18,7 @@
 			"English": "No one answered the door.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لم يجيب أحد على الباب.",
 			"Egyptian Arabic Audio": "eca-0704-2.mp3",
 			"Standard Arabic Audio": "msa-0704-2.mp3"
 		},
@@ -27,7 +27,7 @@
 			"English": "He had a package to deliver.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كان لديه حزمة لتسليم.",
 			"Egyptian Arabic Audio": "eca-0704-3.mp3",
 			"Standard Arabic Audio": "msa-0704-3.mp3"
 		},
@@ -36,7 +36,7 @@
 			"English": "He needed the person's signature.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وقال انه يحتاج الى توقيع الشخص.",
 			"Egyptian Arabic Audio": "eca-0704-4.mp3",
 			"Standard Arabic Audio": "msa-0704-4.mp3"
 		},
@@ -45,7 +45,7 @@
 			"English": "It was a heavy package.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كانت حزمة ثقيلة.",
 			"Egyptian Arabic Audio": "eca-0704-5.mp3",
 			"Standard Arabic Audio": "msa-0704-5.mp3"
 		},
@@ -54,7 +54,7 @@
 			"English": "He rang the doorbell.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "رن جرس الباب.",
 			"Egyptian Arabic Audio": "eca-0704-6.mp3",
 			"Standard Arabic Audio": "msa-0704-6.mp3"
 		},
@@ -63,7 +63,7 @@
 			"English": "Still, no one answered.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ومع ذلك، لم أجاب أحد.",
 			"Egyptian Arabic Audio": "eca-0704-7.mp3",
 			"Standard Arabic Audio": "msa-0704-7.mp3"
 		},
@@ -72,7 +72,7 @@
 			"English": "He looked through the window.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كان ينظر من خلال النافذة.",
 			"Egyptian Arabic Audio": "eca-0704-8.mp3",
 			"Standard Arabic Audio": "msa-0704-8.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "There was someone inside.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كان هناك شخص داخل.",
 			"Egyptian Arabic Audio": "eca-0704-9.mp3",
 			"Standard Arabic Audio": "msa-0704-9.mp3"
 		},
@@ -90,7 +90,7 @@
 			"English": "A girl was napping on the couch.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كانت فتاة قيلولة على الأريكة.",
 			"Egyptian Arabic Audio": "eca-0704-10.mp3",
 			"Standard Arabic Audio": "msa-0704-10.mp3"
 		},
@@ -99,7 +99,7 @@
 			"English": "He knocked on the window.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وقال انه طرق على النافذة.",
 			"Egyptian Arabic Audio": "eca-0704-11.mp3",
 			"Standard Arabic Audio": "msa-0704-11.mp3"
 		},
@@ -108,7 +108,7 @@
 			"English": "The girl was sound asleep.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وكانت الفتاة سليمة نائما.",
 			"Egyptian Arabic Audio": "eca-0704-12.mp3",
 			"Standard Arabic Audio": "msa-0704-12.mp3"
 		},
@@ -117,7 +117,7 @@
 			"English": "He used his voice.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "استخدم صوته.",
 			"Egyptian Arabic Audio": "eca-0704-13.mp3",
 			"Standard Arabic Audio": "msa-0704-13.mp3"
 		},
@@ -126,7 +126,7 @@
 			"English": "He called her name.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ودعا اسمها.",
 			"Egyptian Arabic Audio": "eca-0704-14.mp3",
 			"Standard Arabic Audio": "msa-0704-14.mp3"
 		},
@@ -135,7 +135,7 @@
 			"English": "She woke up.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "استيقظت.",
 			"Egyptian Arabic Audio": "eca-0704-15.mp3",
 			"Standard Arabic Audio": "msa-0704-15.mp3"
 		},
@@ -144,7 +144,7 @@
 			"English": "She saw the man through the window.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "رأت الرجل من خلال النافذة.",
 			"Egyptian Arabic Audio": "eca-0704-16.mp3",
 			"Standard Arabic Audio": "msa-0704-16.mp3"
 		},
@@ -153,7 +153,7 @@
 			"English": "She opened the door.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "فتحت الباب.",
 			"Egyptian Arabic Audio": "eca-0704-17.mp3",
 			"Standard Arabic Audio": "msa-0704-17.mp3"
 		},
@@ -162,7 +162,7 @@
 			"English": "She asked who he was and what he wanted.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وسألت من هو وما يريد.",
 			"Egyptian Arabic Audio": "eca-0704-18.mp3",
 			"Standard Arabic Audio": "msa-0704-18.mp3"
 		},
@@ -171,7 +171,7 @@
 			"English": "\"I'm the mailman.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "&quot;أنا البريد.",
 			"Egyptian Arabic Audio": "eca-0704-19.mp3",
 			"Standard Arabic Audio": "msa-0704-19.mp3"
 		},
@@ -180,7 +180,7 @@
 			"English": "Can't you tell?\" he said and pointed to his uniform.",
 			"Word Count": 10,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لا يمكنك أن تقول؟ &quot;وأشار إلى زيه.",
 			"Egyptian Arabic Audio": "eca-0704-20.mp3",
 			"Standard Arabic Audio": "msa-0704-20.mp3"
 		},
@@ -189,7 +189,7 @@
 			"English": "She was half asleep.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كانت نصف النوم.",
 			"Egyptian Arabic Audio": "eca-0704-21.mp3",
 			"Standard Arabic Audio": "msa-0704-21.mp3"
 		},
@@ -198,7 +198,7 @@
 			"English": "\"I have a package for you,\" the mailman said.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "&quot;أنا لدي حزمة لك&quot;، وقال رجل البريد.",
 			"Egyptian Arabic Audio": "eca-0704-22.mp3",
 			"Standard Arabic Audio": "msa-0704-22.mp3"
 		},
@@ -207,7 +207,7 @@
 			"English": "She asked how he knew her name.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وسألت كيف يعرف اسمها.",
 			"Egyptian Arabic Audio": "eca-0704-23.mp3",
 			"Standard Arabic Audio": "msa-0704-23.mp3"
 		},
@@ -216,7 +216,7 @@
 			"English": "He said her name was on the package.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وقال ان اسمها كان على الطرد.",
 			"Egyptian Arabic Audio": "eca-0704-24.mp3",
 			"Standard Arabic Audio": "msa-0704-24.mp3"
 		},
@@ -225,7 +225,7 @@
 			"English": "She signed for it.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وقعت عليها.",
 			"Egyptian Arabic Audio": "eca-0704-25.mp3",
 			"Standard Arabic Audio": "msa-0704-25.mp3"
 		},
@@ -234,7 +234,7 @@
 			"English": "She took the package inside.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أخذت حزمة داخل.",
 			"Egyptian Arabic Audio": "eca-0704-26.mp3",
 			"Standard Arabic Audio": "msa-0704-26.mp3"
 		},
@@ -243,7 +243,7 @@
 			"English": "It was heavy.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كانت ثقيلة.",
 			"Egyptian Arabic Audio": "eca-0704-27.mp3",
 			"Standard Arabic Audio": "msa-0704-27.mp3"
 		}

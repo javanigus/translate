@@ -11,7 +11,7 @@
 			"English": "Can I get you something to drink?",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هل يمكنني الحصول على شيء للشرب؟",
 			"Egyptian Arabic Audio": "eca-0864-1.mp3",
 			"Standard Arabic Audio": "msa-0864-1.mp3"
 		},
@@ -21,7 +21,7 @@
 			"English": "No, thanks. I just finished a whole bottle of water.",
 			"Word Count": 10,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لا شكرا. انتهيت للتو من زجاجة كاملة من الماء.",
 			"Egyptian Arabic Audio": "eca-0864-2.mp3",
 			"Standard Arabic Audio": "msa-0864-2.mp3"
 		},
@@ -31,7 +31,7 @@
 			"English": "You won't mind if I have something then?",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لن تمانع إذا كان لدي شيء بعد ذلك؟",
 			"Egyptian Arabic Audio": "eca-0864-3.mp3",
 			"Standard Arabic Audio": "msa-0864-3.mp3"
 		},
@@ -41,7 +41,7 @@
 			"English": "Of course not.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "بالطبع لا.",
 			"Egyptian Arabic Audio": "eca-0864-4.mp3",
 			"Standard Arabic Audio": "msa-0864-4.mp3"
 		},
@@ -51,7 +51,7 @@
 			"English": "Can I offer you some fruit or cheese?",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هل يمكنني تقديم بعض الفواكه أو الجبن؟",
 			"Egyptian Arabic Audio": "eca-0864-5.mp3",
 			"Standard Arabic Audio": "msa-0864-5.mp3"
 		},
@@ -61,7 +61,7 @@
 			"English": "I just had lunch before I came here.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنا فقط تناول الغداء قبل جئت إلى هنا.",
 			"Egyptian Arabic Audio": "eca-0864-6.mp3",
 			"Standard Arabic Audio": "msa-0864-6.mp3"
 		},
@@ -71,7 +71,7 @@
 			"English": "I really hope you don't mind if I eat because I haven't had lunch.",
 			"Word Count": 14,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "آمل حقا كنت لا تمانع إذا كنت أكل لأنني لم يكن الغداء.",
 			"Egyptian Arabic Audio": "eca-0864-7.mp3",
 			"Standard Arabic Audio": "msa-0864-7.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "Go right ahead and do what you normally do.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "الذهاب إلى الأمام قدما والقيام بما تفعله عادة.",
 			"Egyptian Arabic Audio": "eca-0864-8.mp3",
 			"Standard Arabic Audio": "msa-0864-8.mp3"
 		},
@@ -91,7 +91,7 @@
 			"English": "I didn't eat because I assumed you would be joining me.",
 			"Word Count": 11,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لم أكن أكل لأنني افترض أنك ستنضم لي.",
 			"Egyptian Arabic Audio": "eca-0864-9.mp3",
 			"Standard Arabic Audio": "msa-0864-9.mp3"
 		},
@@ -101,7 +101,7 @@
 			"English": "I hope you're not offended.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "آمل أن لا يسيء.",
 			"Egyptian Arabic Audio": "eca-0864-10.mp3",
 			"Standard Arabic Audio": "msa-0864-10.mp3"
 		},
@@ -111,7 +111,7 @@
 			"English": "No, I'm not offended at all.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لا، أنا لا أساء على الإطلاق.",
 			"Egyptian Arabic Audio": "eca-0864-11.mp3",
 			"Standard Arabic Audio": "msa-0864-11.mp3"
 		},
@@ -121,7 +121,7 @@
 			"English": "Oh, good. I ate before because I didn't want to impose.",
 			"Word Count": 11,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "جيد. كنت أكل من قبل لأنني لم أكن أريد أن فرض.",
 			"Egyptian Arabic Audio": "eca-0864-12.mp3",
 			"Standard Arabic Audio": "msa-0864-12.mp3"
 		}

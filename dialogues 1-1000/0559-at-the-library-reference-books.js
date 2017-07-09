@@ -11,7 +11,7 @@
 			"English": "You can't check out this one. It's a reference book.",
 			"Word Count": 10,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لا يمكنك التحقق من هذا واحد. انها كتاب مرجعي.",
 			"Egyptian Arabic Audio": "eca-0559-1.mp3",
 			"Standard Arabic Audio": "msa-0559-1.mp3"
 		},
@@ -21,7 +21,7 @@
 			"English": "What does that mean?",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ماذا يعني ذالك؟",
 			"Egyptian Arabic Audio": "eca-0559-2.mp3",
 			"Standard Arabic Audio": "msa-0559-2.mp3"
 		},
@@ -31,7 +31,7 @@
 			"English": "It means you can only read it in the library.",
 			"Word Count": 10,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وهذا يعني أنك يمكن أن تقرأ فقط في المكتبة.",
 			"Egyptian Arabic Audio": "eca-0559-3.mp3",
 			"Standard Arabic Audio": "msa-0559-3.mp3"
 		},
@@ -41,7 +41,7 @@
 			"English": "But I need it for my essay.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ولكن أنا في حاجة إليها لمقال بلدي.",
 			"Egyptian Arabic Audio": "eca-0559-4.mp3",
 			"Standard Arabic Audio": "msa-0559-4.mp3"
 		},
@@ -51,7 +51,7 @@
 			"English": "You can take pictures of the pages you need.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يمكنك التقاط الصور من الصفحات التي تحتاج إليها.",
 			"Egyptian Arabic Audio": "eca-0559-5.mp3",
 			"Standard Arabic Audio": "msa-0559-5.mp3"
 		},
@@ -61,7 +61,7 @@
 			"English": "I need almost all of them.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أحتاج تقريبا كل منهم.",
 			"Egyptian Arabic Audio": "eca-0559-6.mp3",
 			"Standard Arabic Audio": "msa-0559-6.mp3"
 		},
@@ -71,7 +71,7 @@
 			"English": "You can keep coming back here.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يمكنك الاستمرار في العودة هنا.",
 			"Egyptian Arabic Audio": "eca-0559-7.mp3",
 			"Standard Arabic Audio": "msa-0559-7.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "That's so inconvenient.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هذا غير مريح للغاية.",
 			"Egyptian Arabic Audio": "eca-0559-8.mp3",
 			"Standard Arabic Audio": "msa-0559-8.mp3"
 		},
@@ -91,7 +91,7 @@
 			"English": "It is, but they have to be kept here.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هو، ولكن يجب أن تبقى هنا.",
 			"Egyptian Arabic Audio": "eca-0559-9.mp3",
 			"Standard Arabic Audio": "msa-0559-9.mp3"
 		},
@@ -101,7 +101,7 @@
 			"English": "I guess I can take pictures of the pages then.",
 			"Word Count": 10,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أعتقد أنني يمكن التقاط الصور من الصفحات ثم.",
 			"Egyptian Arabic Audio": "eca-0559-10.mp3",
 			"Standard Arabic Audio": "msa-0559-10.mp3"
 		},
@@ -111,7 +111,7 @@
 			"English": "Sorry about the inconvenience.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "آسف على الإزعاج.",
 			"Egyptian Arabic Audio": "eca-0559-11.mp3",
 			"Standard Arabic Audio": "msa-0559-11.mp3"
 		},
@@ -121,7 +121,7 @@
 			"English": "It is okay. It's not your fault.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لا بأس. انها ليست غلطتك.",
 			"Egyptian Arabic Audio": "eca-0559-12.mp3",
 			"Standard Arabic Audio": "msa-0559-12.mp3"
 		}

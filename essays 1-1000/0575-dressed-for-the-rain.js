@@ -9,7 +9,7 @@
 			"English": "It is raining.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انها تمطر.",
 			"Egyptian Arabic Audio": "eca-0575-1.mp3",
 			"Standard Arabic Audio": "msa-0575-1.mp3"
 		},
@@ -18,7 +18,7 @@
 			"English": "She wears a yellow raincoat.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ترتدي معطف واق من المطر الأصفر.",
 			"Egyptian Arabic Audio": "eca-0575-2.mp3",
 			"Standard Arabic Audio": "msa-0575-2.mp3"
 		},
@@ -27,7 +27,7 @@
 			"English": "Her body is warm.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "جسدها دافئ.",
 			"Egyptian Arabic Audio": "eca-0575-3.mp3",
 			"Standard Arabic Audio": "msa-0575-3.mp3"
 		},
@@ -36,7 +36,7 @@
 			"English": "She wears a knitted hat.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ترتدي قبعة محبوك.",
 			"Egyptian Arabic Audio": "eca-0575-4.mp3",
 			"Standard Arabic Audio": "msa-0575-4.mp3"
 		},
@@ -45,7 +45,7 @@
 			"English": "Her head is warm.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "رأسها دافئ.",
 			"Egyptian Arabic Audio": "eca-0575-5.mp3",
 			"Standard Arabic Audio": "msa-0575-5.mp3"
 		},
@@ -54,7 +54,7 @@
 			"English": "She wears a gray scarf.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وهي ترتدي وشاح رمادي.",
 			"Egyptian Arabic Audio": "eca-0575-6.mp3",
 			"Standard Arabic Audio": "msa-0575-6.mp3"
 		},
@@ -63,7 +63,7 @@
 			"English": "Her neck is warm.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "رقبتها دافئة.",
 			"Egyptian Arabic Audio": "eca-0575-7.mp3",
 			"Standard Arabic Audio": "msa-0575-7.mp3"
 		},
@@ -72,7 +72,7 @@
 			"English": "She wears rain boots.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انها ترتدي أحذية المطر.",
 			"Egyptian Arabic Audio": "eca-0575-8.mp3",
 			"Standard Arabic Audio": "msa-0575-8.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "Her feet are warm.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "قدميها دافئة.",
 			"Egyptian Arabic Audio": "eca-0575-9.mp3",
 			"Standard Arabic Audio": "msa-0575-9.mp3"
 		},
@@ -90,7 +90,7 @@
 			"English": "She wears mittens.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انها ترتدي القفازات.",
 			"Egyptian Arabic Audio": "eca-0575-10.mp3",
 			"Standard Arabic Audio": "msa-0575-10.mp3"
 		},
@@ -99,7 +99,7 @@
 			"English": "Her hands are warm.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يديها دافئة.",
 			"Egyptian Arabic Audio": "eca-0575-11.mp3",
 			"Standard Arabic Audio": "msa-0575-11.mp3"
 		},
@@ -108,7 +108,7 @@
 			"English": "She gets an umbrella.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انها تحصل على مظلة.",
 			"Egyptian Arabic Audio": "eca-0575-12.mp3",
 			"Standard Arabic Audio": "msa-0575-12.mp3"
 		},
@@ -117,7 +117,7 @@
 			"English": "She goes outside.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "تذهب خارج.",
 			"Egyptian Arabic Audio": "eca-0575-13.mp3",
 			"Standard Arabic Audio": "msa-0575-13.mp3"
 		}

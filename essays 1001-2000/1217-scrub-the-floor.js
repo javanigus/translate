@@ -9,7 +9,7 @@
 			"English": "Andrew got down on his hands and knees.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أندرو حصلت على يديه وركبتيه.",
 			"Egyptian Arabic Audio": "eca-1217-1.mp3",
 			"Standard Arabic Audio": "msa-1217-1.mp3"
 		},
@@ -18,7 +18,7 @@
 			"English": "He put a dry sponge into the bucket.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وضع الاسفنجة الجافة في دلو.",
 			"Egyptian Arabic Audio": "eca-1217-2.mp3",
 			"Standard Arabic Audio": "msa-1217-2.mp3"
 		},
@@ -27,7 +27,7 @@
 			"English": "The bucket was full of soapy water.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كان الدلو مليئا بالماء والصابون.",
 			"Egyptian Arabic Audio": "eca-1217-3.mp3",
 			"Standard Arabic Audio": "msa-1217-3.mp3"
 		},
@@ -36,7 +36,7 @@
 			"English": "He squeezed the sponge.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انه ضغط الاسفنجة.",
 			"Egyptian Arabic Audio": "eca-1217-4.mp3",
 			"Standard Arabic Audio": "msa-1217-4.mp3"
 		},
@@ -45,7 +45,7 @@
 			"English": "He scrubbed the kitchen floor.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "قام بتنظيف أرضية المطبخ.",
 			"Egyptian Arabic Audio": "eca-1217-5.mp3",
 			"Standard Arabic Audio": "msa-1217-5.mp3"
 		},
@@ -54,7 +54,7 @@
 			"English": "There were marks on the floor.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كانت هناك علامات على الأرض.",
 			"Egyptian Arabic Audio": "eca-1217-6.mp3",
 			"Standard Arabic Audio": "msa-1217-6.mp3"
 		},
@@ -63,7 +63,7 @@
 			"English": "There were spots on the floor.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كانت هناك بقع على الأرض.",
 			"Egyptian Arabic Audio": "eca-1217-7.mp3",
 			"Standard Arabic Audio": "msa-1217-7.mp3"
 		},
@@ -72,7 +72,7 @@
 			"English": "There was old food on the floor.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كان هناك طعام قديم على الأرض.",
 			"Egyptian Arabic Audio": "eca-1217-8.mp3",
 			"Standard Arabic Audio": "msa-1217-8.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "He scrubbed the floor clean.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كان ينظف الأرض نظيفة.",
 			"Egyptian Arabic Audio": "eca-1217-9.mp3",
 			"Standard Arabic Audio": "msa-1217-9.mp3"
 		},
@@ -90,7 +90,7 @@
 			"English": "Then he took the bucket into the bathroom.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ثم أخذ دلو في الحمام.",
 			"Egyptian Arabic Audio": "eca-1217-10.mp3",
 			"Standard Arabic Audio": "msa-1217-10.mp3"
 		},
@@ -99,7 +99,7 @@
 			"English": "He poured the soapy water into the tub.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "سكب الماء والصابون في الحوض.",
 			"Egyptian Arabic Audio": "eca-1217-11.mp3",
 			"Standard Arabic Audio": "msa-1217-11.mp3"
 		},
@@ -108,7 +108,7 @@
 			"English": "The water went down the drain.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وذهبت المياه إلى هجرة المياه.",
 			"Egyptian Arabic Audio": "eca-1217-12.mp3",
 			"Standard Arabic Audio": "msa-1217-12.mp3"
 		},
@@ -117,7 +117,7 @@
 			"English": "He turned on the shower.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وقد حول الحمام.",
 			"Egyptian Arabic Audio": "eca-1217-13.mp3",
 			"Standard Arabic Audio": "msa-1217-13.mp3"
 		},
@@ -126,7 +126,7 @@
 			"English": "He rinsed the tub.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وشطف الحوض.",
 			"Egyptian Arabic Audio": "eca-1217-14.mp3",
 			"Standard Arabic Audio": "msa-1217-14.mp3"
 		},
@@ -135,7 +135,7 @@
 			"English": "He turned the bucket over so it would dry.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "تحول دلو على ذلك حتى يجف.",
 			"Egyptian Arabic Audio": "eca-1217-15.mp3",
 			"Standard Arabic Audio": "msa-1217-15.mp3"
 		},
@@ -144,7 +144,7 @@
 			"English": "He washed his hands.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "غسل يديه.",
 			"Egyptian Arabic Audio": "eca-1217-16.mp3",
 			"Standard Arabic Audio": "msa-1217-16.mp3"
 		}

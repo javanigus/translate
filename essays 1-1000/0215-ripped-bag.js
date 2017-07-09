@@ -9,7 +9,7 @@
 			"English": "Tracy had to take a vocabulary quiz.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كان تريسي لاتخاذ مسابقة المفردات.",
 			"Egyptian Arabic Audio": "eca-0215-1.mp3",
 			"Standard Arabic Audio": "msa-0215-1.mp3"
 		},
@@ -18,7 +18,7 @@
 			"English": "She needed her pen.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انها بحاجة الى قلمها.",
 			"Egyptian Arabic Audio": "eca-0215-2.mp3",
 			"Standard Arabic Audio": "msa-0215-2.mp3"
 		},
@@ -27,7 +27,7 @@
 			"English": "She looked inside her bag, but the pen wasn't in there.",
 			"Word Count": 11,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "نظرت داخل حقيبتها، ولكن القلم لم يكن هناك.",
 			"Egyptian Arabic Audio": "eca-0215-3.mp3",
 			"Standard Arabic Audio": "msa-0215-3.mp3"
 		},
@@ -36,7 +36,7 @@
 			"English": "It was always there.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كان دائما هناك.",
 			"Egyptian Arabic Audio": "eca-0215-4.mp3",
 			"Standard Arabic Audio": "msa-0215-4.mp3"
 		},
@@ -45,7 +45,7 @@
 			"English": "She just used it yesterday.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انها مجرد استخدامه أمس.",
 			"Egyptian Arabic Audio": "eca-0215-5.mp3",
 			"Standard Arabic Audio": "msa-0215-5.mp3"
 		},
@@ -54,7 +54,7 @@
 			"English": "She decided to let it go.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وقالت انها قررت السماح لها بالرحيل.",
 			"Egyptian Arabic Audio": "eca-0215-6.mp3",
 			"Standard Arabic Audio": "msa-0215-6.mp3"
 		},
@@ -63,7 +63,7 @@
 			"English": "She also needed a piece of paper.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كما أنها تحتاج إلى قطعة من الورق.",
 			"Egyptian Arabic Audio": "eca-0215-7.mp3",
 			"Standard Arabic Audio": "msa-0215-7.mp3"
 		},
@@ -72,7 +72,7 @@
 			"English": "She looked inside her bag.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "نظرت داخل حقيبتها.",
 			"Egyptian Arabic Audio": "eca-0215-8.mp3",
 			"Standard Arabic Audio": "msa-0215-8.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "There was no paper.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لم تكن هناك ورقة.",
 			"Egyptian Arabic Audio": "eca-0215-9.mp3",
 			"Standard Arabic Audio": "msa-0215-9.mp3"
 		},
@@ -90,7 +90,7 @@
 			"English": "Did she leave everything at home? Was she becoming forgetful? Was someone stealing from her.",
 			"Word Count": 15,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هل تركت كل شيء في المنزل؟ هل كانت هي النسيان؟ كان شخص يسرق منها.",
 			"Egyptian Arabic Audio": "eca-0215-10.mp3",
 			"Standard Arabic Audio": "msa-0215-10.mp3"
 		},
@@ -99,7 +99,7 @@
 			"English": "She borrowed paper from a friend.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "اقترضت ورقة من صديق.",
 			"Egyptian Arabic Audio": "eca-0215-11.mp3",
 			"Standard Arabic Audio": "msa-0215-11.mp3"
 		},
@@ -108,7 +108,7 @@
 			"English": "She also needed an eraser.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كما أنها تحتاج إلى ممحاة.",
 			"Egyptian Arabic Audio": "eca-0215-12.mp3",
 			"Standard Arabic Audio": "msa-0215-12.mp3"
 		},
@@ -117,7 +117,7 @@
 			"English": "She looked inside her bag.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "نظرت داخل حقيبتها.",
 			"Egyptian Arabic Audio": "eca-0215-13.mp3",
 			"Standard Arabic Audio": "msa-0215-13.mp3"
 		},
@@ -126,7 +126,7 @@
 			"English": "No eraser! She screamed, \"Oh my god!\" Her classmates stared at her.",
 			"Word Count": 12,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لا ممحاة! صرخت: &quot;يا إلهي!&quot; زملاؤها زملاءها في وجهها.",
 			"Egyptian Arabic Audio": "eca-0215-14.mp3",
 			"Standard Arabic Audio": "msa-0215-14.mp3"
 		},
@@ -135,7 +135,7 @@
 			"English": "She apologized.",
 			"Word Count": 2,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "اعتذرت.",
 			"Egyptian Arabic Audio": "eca-0215-15.mp3",
 			"Standard Arabic Audio": "msa-0215-15.mp3"
 		},
@@ -144,7 +144,7 @@
 			"English": "Her classmate then pointed at the bottom of her bag.",
 			"Word Count": 10,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ثم أشار زميلها في الجزء السفلي من حقيبتها.",
 			"Egyptian Arabic Audio": "eca-0215-16.mp3",
 			"Standard Arabic Audio": "msa-0215-16.mp3"
 		},
@@ -153,7 +153,7 @@
 			"English": "There was a huge hole.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كان هناك ثقب ضخم.",
 			"Egyptian Arabic Audio": "eca-0215-17.mp3",
 			"Standard Arabic Audio": "msa-0215-17.mp3"
 		}

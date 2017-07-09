@@ -9,7 +9,7 @@
 			"English": "The mountains are beautiful.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "الجبال جميلة.",
 			"Egyptian Arabic Audio": "eca-1518-1.mp3",
 			"Standard Arabic Audio": "msa-1518-1.mp3"
 		},
@@ -18,7 +18,7 @@
 			"English": "But they can be dangerous.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ولكن يمكن أن تكون خطيرة.",
 			"Egyptian Arabic Audio": "eca-1518-2.mp3",
 			"Standard Arabic Audio": "msa-1518-2.mp3"
 		},
@@ -27,7 +27,7 @@
 			"English": "Yesterday a mountain lion attacked a woman.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يوم أمس هاجم أسد الجبل امرأة.",
 			"Egyptian Arabic Audio": "eca-1518-3.mp3",
 			"Standard Arabic Audio": "msa-1518-3.mp3"
 		},
@@ -36,7 +36,7 @@
 			"English": "The woman was walking on a trail with her friend.",
 			"Word Count": 10,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كانت المرأة تسير على درب مع صديقتها.",
 			"Egyptian Arabic Audio": "eca-1518-4.mp3",
 			"Standard Arabic Audio": "msa-1518-4.mp3"
 		},
@@ -45,7 +45,7 @@
 			"English": "The trail was in the mountains.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كان الطريق في الجبال.",
 			"Egyptian Arabic Audio": "eca-1518-5.mp3",
 			"Standard Arabic Audio": "msa-1518-5.mp3"
 		},
@@ -54,7 +54,7 @@
 			"English": "Donna was walking in front of Linda.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كان دونا يمشي أمام ليندا.",
 			"Egyptian Arabic Audio": "eca-1518-6.mp3",
 			"Standard Arabic Audio": "msa-1518-6.mp3"
 		},
@@ -63,7 +63,7 @@
 			"English": "They were walking uphill on the mountain trail.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كانوا يسيرون صعودا على درب الجبل.",
 			"Egyptian Arabic Audio": "eca-1518-7.mp3",
 			"Standard Arabic Audio": "msa-1518-7.mp3"
 		},
@@ -72,7 +72,7 @@
 			"English": "The mountain lion jumped out of the bushes.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "قفز الأسد الجبل من الشجيرات.",
 			"Egyptian Arabic Audio": "eca-1518-8.mp3",
 			"Standard Arabic Audio": "msa-1518-8.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "It attacked Donna.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هاجم دونا.",
 			"Egyptian Arabic Audio": "eca-1518-9.mp3",
 			"Standard Arabic Audio": "msa-1518-9.mp3"
 		},
@@ -90,7 +90,7 @@
 			"English": "Donna screamed.",
 			"Word Count": 2,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "دونا صراخ.",
 			"Egyptian Arabic Audio": "eca-1518-10.mp3",
 			"Standard Arabic Audio": "msa-1518-10.mp3"
 		},
@@ -99,7 +99,7 @@
 			"English": "Linda hit the mountain lion with her backpack.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ضرب ليندا أسد الجبل مع ظهرها.",
 			"Egyptian Arabic Audio": "eca-1518-11.mp3",
 			"Standard Arabic Audio": "msa-1518-11.mp3"
 		},
@@ -108,7 +108,7 @@
 			"English": "The mountain lion grabbed the backpack with its mouth.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "استولى أسد الجبل على ظهره مع فمه.",
 			"Egyptian Arabic Audio": "eca-1518-12.mp3",
 			"Standard Arabic Audio": "msa-1518-12.mp3"
 		},
@@ -117,7 +117,7 @@
 			"English": "It ran into the bushes with the backpack.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ركض في الشجيرات مع حقيبة الظهر.",
 			"Egyptian Arabic Audio": "eca-1518-13.mp3",
 			"Standard Arabic Audio": "msa-1518-13.mp3"
 		},
@@ -126,7 +126,7 @@
 			"English": "Both women sat on the trail.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وجلست كل من النساء على درب.",
 			"Egyptian Arabic Audio": "eca-1518-14.mp3",
 			"Standard Arabic Audio": "msa-1518-14.mp3"
 		},
@@ -135,7 +135,7 @@
 			"English": "They were crying.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كانوا يبكون.",
 			"Egyptian Arabic Audio": "eca-1518-15.mp3",
 			"Standard Arabic Audio": "msa-1518-15.mp3"
 		},
@@ -144,7 +144,7 @@
 			"English": "Donna's nose and ears were bleeding.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كانت الأنف والأذن دونا تنزف.",
 			"Egyptian Arabic Audio": "eca-1518-16.mp3",
 			"Standard Arabic Audio": "msa-1518-16.mp3"
 		},
@@ -153,7 +153,7 @@
 			"English": "About five minutes later, a man walked up.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وبعد حوالي خمس دقائق، سار رجل.",
 			"Egyptian Arabic Audio": "eca-1518-17.mp3",
 			"Standard Arabic Audio": "msa-1518-17.mp3"
 		},
@@ -162,7 +162,7 @@
 			"English": "He asked them what happened.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وسألهم عما حدث.",
 			"Egyptian Arabic Audio": "eca-1518-18.mp3",
 			"Standard Arabic Audio": "msa-1518-18.mp3"
 		},
@@ -171,7 +171,7 @@
 			"English": "He had a cell phone.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كان لديه هاتف خلوي.",
 			"Egyptian Arabic Audio": "eca-1518-19.mp3",
 			"Standard Arabic Audio": "msa-1518-19.mp3"
 		},
@@ -180,7 +180,7 @@
 			"English": "He dialed 911.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "اتصل 911.",
 			"Egyptian Arabic Audio": "eca-1518-20.mp3",
 			"Standard Arabic Audio": "msa-1518-20.mp3"
 		},
@@ -189,7 +189,7 @@
 			"English": "But his cell phone did not work in the mountains.",
 			"Word Count": 10,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ولكن هاتفه الخلوي لم يعمل في الجبال.",
 			"Egyptian Arabic Audio": "eca-1518-21.mp3",
 			"Standard Arabic Audio": "msa-1518-21.mp3"
 		},
@@ -198,7 +198,7 @@
 			"English": "He said he would get help.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وقال انه سيحصل على مساعدة.",
 			"Egyptian Arabic Audio": "eca-1518-22.mp3",
 			"Standard Arabic Audio": "msa-1518-22.mp3"
 		},
@@ -207,7 +207,7 @@
 			"English": "He ran back down the trail.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ركض إلى الوراء درب.",
 			"Egyptian Arabic Audio": "eca-1518-23.mp3",
 			"Standard Arabic Audio": "msa-1518-23.mp3"
 		},
@@ -216,7 +216,7 @@
 			"English": "Donna was afraid to stay in the mountains.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كان دونا يخشى البقاء في الجبال.",
 			"Egyptian Arabic Audio": "eca-1518-24.mp3",
 			"Standard Arabic Audio": "msa-1518-24.mp3"
 		},
@@ -225,7 +225,7 @@
 			"English": "So was Linda.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لذلك كان ليندا.",
 			"Egyptian Arabic Audio": "eca-1518-25.mp3",
 			"Standard Arabic Audio": "msa-1518-25.mp3"
 		},
@@ -234,7 +234,7 @@
 			"English": "They got up and slowly walked down the trail.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "استيقظوا وساروا ببطء على الطريق.",
 			"Egyptian Arabic Audio": "eca-1518-26.mp3",
 			"Standard Arabic Audio": "msa-1518-26.mp3"
 		},
@@ -243,7 +243,7 @@
 			"English": "They held hands.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كانوا يدا بيد.",
 			"Egyptian Arabic Audio": "eca-1518-27.mp3",
 			"Standard Arabic Audio": "msa-1518-27.mp3"
 		},
@@ -252,7 +252,7 @@
 			"English": "They did not say a word.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لم يقلوا كلمة واحدة.",
 			"Egyptian Arabic Audio": "eca-1518-28.mp3",
 			"Standard Arabic Audio": "msa-1518-28.mp3"
 		},
@@ -261,7 +261,7 @@
 			"English": "They kept looking around and behind them.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وظلوا يبحثون حولهم وخلفهم.",
 			"Egyptian Arabic Audio": "eca-1518-29.mp3",
 			"Standard Arabic Audio": "msa-1518-29.mp3"
 		},
@@ -270,7 +270,7 @@
 			"English": "They were so afraid.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كانوا خائفين جدا.",
 			"Egyptian Arabic Audio": "eca-1518-30.mp3",
 			"Standard Arabic Audio": "msa-1518-30.mp3"
 		},
@@ -279,7 +279,7 @@
 			"English": "They jumped when they heard a strange sound.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "قفزوا عندما سمعوا صوت غريب.",
 			"Egyptian Arabic Audio": "eca-1518-31.mp3",
 			"Standard Arabic Audio": "msa-1518-31.mp3"
 		},
@@ -288,7 +288,7 @@
 			"English": "Was the mountain lion following them?.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هل أسد الجبل يتبعهم ؟.",
 			"Egyptian Arabic Audio": "eca-1518-32.mp3",
 			"Standard Arabic Audio": "msa-1518-32.mp3"
 		}

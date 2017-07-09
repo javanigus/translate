@@ -9,7 +9,7 @@
 			"English": "He has a new laptop.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لديه جهاز كمبيوتر محمول جديد.",
 			"Egyptian Arabic Audio": "eca-1123-1.mp3",
 			"Standard Arabic Audio": "msa-1123-1.mp3"
 		},
@@ -18,7 +18,7 @@
 			"English": "He goes online every day.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يذهب على الانترنت كل يوم.",
 			"Egyptian Arabic Audio": "eca-1123-2.mp3",
 			"Standard Arabic Audio": "msa-1123-2.mp3"
 		},
@@ -27,7 +27,7 @@
 			"English": "He reads his email.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يقرأ بريده الإلكتروني.",
 			"Egyptian Arabic Audio": "eca-1123-3.mp3",
 			"Standard Arabic Audio": "msa-1123-3.mp3"
 		},
@@ -36,7 +36,7 @@
 			"English": "He replies to his email.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يرد على رسالته الإلكترونية.",
 			"Egyptian Arabic Audio": "eca-1123-4.mp3",
 			"Standard Arabic Audio": "msa-1123-4.mp3"
 		},
@@ -45,7 +45,7 @@
 			"English": "He visits different web sites.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يزور مواقع ويب مختلفة.",
 			"Egyptian Arabic Audio": "eca-1123-5.mp3",
 			"Standard Arabic Audio": "msa-1123-5.mp3"
 		},
@@ -54,7 +54,7 @@
 			"English": "He reads the news online.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يقرأ الأخبار على الانترنت.",
 			"Egyptian Arabic Audio": "eca-1123-6.mp3",
 			"Standard Arabic Audio": "msa-1123-6.mp3"
 		},
@@ -63,7 +63,7 @@
 			"English": "He reads the sports.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يقرأ الرياضة.",
 			"Egyptian Arabic Audio": "eca-1123-7.mp3",
 			"Standard Arabic Audio": "msa-1123-7.mp3"
 		},
@@ -72,7 +72,7 @@
 			"English": "He checks the weather.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انه يتحقق الطقس.",
 			"Egyptian Arabic Audio": "eca-1123-8.mp3",
 			"Standard Arabic Audio": "msa-1123-8.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "He watches TV programs.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وهو يشاهد البرامج التلفزيونية.",
 			"Egyptian Arabic Audio": "eca-1123-9.mp3",
 			"Standard Arabic Audio": "msa-1123-9.mp3"
 		},
@@ -90,7 +90,7 @@
 			"English": "He makes travel plans.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وهو يضع خطط السفر.",
 			"Egyptian Arabic Audio": "eca-1123-10.mp3",
 			"Standard Arabic Audio": "msa-1123-10.mp3"
 		},
@@ -99,7 +99,7 @@
 			"English": "He loves his new laptop.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انه يحب جهاز الكمبيوتر المحمول الجديد.",
 			"Egyptian Arabic Audio": "eca-1123-11.mp3",
 			"Standard Arabic Audio": "msa-1123-11.mp3"
 		}

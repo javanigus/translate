@@ -9,7 +9,7 @@
 			"English": "Jerry watched gangster movies.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "شاهد جيري أفلام العصابات.",
 			"Egyptian Arabic Audio": "eca-1459-1.mp3",
 			"Standard Arabic Audio": "msa-1459-1.mp3"
 		},
@@ -18,7 +18,7 @@
 			"English": "He loved gangster movies.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كان يحب أفلام العصابات.",
 			"Egyptian Arabic Audio": "eca-1459-2.mp3",
 			"Standard Arabic Audio": "msa-1459-2.mp3"
 		},
@@ -27,7 +27,7 @@
 			"English": "Gangsters were cool.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كان رجال العصابات باردة.",
 			"Egyptian Arabic Audio": "eca-1459-3.mp3",
 			"Standard Arabic Audio": "msa-1459-3.mp3"
 		},
@@ -36,7 +36,7 @@
 			"English": "They were rich.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كانت غنية.",
 			"Egyptian Arabic Audio": "eca-1459-4.mp3",
 			"Standard Arabic Audio": "msa-1459-4.mp3"
 		},
@@ -45,7 +45,7 @@
 			"English": "They had pretty girlfriends.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كان لديهم صديقات جميلة.",
 			"Egyptian Arabic Audio": "eca-1459-5.mp3",
 			"Standard Arabic Audio": "msa-1459-5.mp3"
 		},
@@ -54,7 +54,7 @@
 			"English": "They drove fast cars.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "قادوا السيارات السريعة.",
 			"Egyptian Arabic Audio": "eca-1459-6.mp3",
 			"Standard Arabic Audio": "msa-1459-6.mp3"
 		},
@@ -63,7 +63,7 @@
 			"English": "They had guns.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كان لديهم البنادق.",
 			"Egyptian Arabic Audio": "eca-1459-7.mp3",
 			"Standard Arabic Audio": "msa-1459-7.mp3"
 		},
@@ -72,7 +72,7 @@
 			"English": "They shot enemies with their guns.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أطلقوا النار على الأعداء ببنادقهم.",
 			"Egyptian Arabic Audio": "eca-1459-8.mp3",
 			"Standard Arabic Audio": "msa-1459-8.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "They shot police with their guns.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أطلقوا النار على الشرطة ببنادقهم.",
 			"Egyptian Arabic Audio": "eca-1459-9.mp3",
 			"Standard Arabic Audio": "msa-1459-9.mp3"
 		},
@@ -90,7 +90,7 @@
 			"English": "They shot each other with their guns.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أطلقوا النار على بعضهم البعض ببنادقهم.",
 			"Egyptian Arabic Audio": "eca-1459-10.mp3",
 			"Standard Arabic Audio": "msa-1459-10.mp3"
 		},
@@ -99,7 +99,7 @@
 			"English": "Jerry wasn't rich.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لم يكن جيري غنيا.",
 			"Egyptian Arabic Audio": "eca-1459-11.mp3",
 			"Standard Arabic Audio": "msa-1459-11.mp3"
 		},
@@ -108,7 +108,7 @@
 			"English": "He didn't have a pretty girlfriend.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لم يكن لديه صديقة جميلة.",
 			"Egyptian Arabic Audio": "eca-1459-12.mp3",
 			"Standard Arabic Audio": "msa-1459-12.mp3"
 		},
@@ -117,7 +117,7 @@
 			"English": "He didn't have a fast car.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لم يكن لديه سيارة سريعة.",
 			"Egyptian Arabic Audio": "eca-1459-13.mp3",
 			"Standard Arabic Audio": "msa-1459-13.mp3"
 		},
@@ -126,7 +126,7 @@
 			"English": "But he had a gun.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ولكن كان لديه بندقية.",
 			"Egyptian Arabic Audio": "eca-1459-14.mp3",
 			"Standard Arabic Audio": "msa-1459-14.mp3"
 		},
@@ -135,7 +135,7 @@
 			"English": "It was a small gun.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كان بندقية صغيرة.",
 			"Egyptian Arabic Audio": "eca-1459-15.mp3",
 			"Standard Arabic Audio": "msa-1459-15.mp3"
 		},
@@ -144,7 +144,7 @@
 			"English": "It fit into his pocket.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انها تناسب في جيبه.",
 			"Egyptian Arabic Audio": "eca-1459-16.mp3",
 			"Standard Arabic Audio": "msa-1459-16.mp3"
 		},
@@ -153,7 +153,7 @@
 			"English": "He walked around with his gun in his pocket.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "مشى مع مسدسه في جيبه.",
 			"Egyptian Arabic Audio": "eca-1459-17.mp3",
 			"Standard Arabic Audio": "msa-1459-17.mp3"
 		},
@@ -162,7 +162,7 @@
 			"English": "He liked to walk around with his gun in his pocket.",
 			"Word Count": 11,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كان يحب أن يتجول مع مسدسه في جيبه.",
 			"Egyptian Arabic Audio": "eca-1459-18.mp3",
 			"Standard Arabic Audio": "msa-1459-18.mp3"
 		},
@@ -171,7 +171,7 @@
 			"English": "That's what gangsters did.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هذا ما فعله رجال العصابات.",
 			"Egyptian Arabic Audio": "eca-1459-19.mp3",
 			"Standard Arabic Audio": "msa-1459-19.mp3"
 		},
@@ -180,7 +180,7 @@
 			"English": "One day Jerry was shopping at Wal-Mart.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يوم واحد كان جيري التسوق في وول مارت.",
 			"Egyptian Arabic Audio": "eca-1459-20.mp3",
 			"Standard Arabic Audio": "msa-1459-20.mp3"
 		},
@@ -189,7 +189,7 @@
 			"English": "He put his hand into his pocket.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وضع يده في جيبه.",
 			"Egyptian Arabic Audio": "eca-1459-21.mp3",
 			"Standard Arabic Audio": "msa-1459-21.mp3"
 		},
@@ -198,7 +198,7 @@
 			"English": "He accidentally pulled the trigger.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انه سحب بطريق الخطأ الزناد.",
 			"Egyptian Arabic Audio": "eca-1459-22.mp3",
 			"Standard Arabic Audio": "msa-1459-22.mp3"
 		},
@@ -207,7 +207,7 @@
 			"English": "His gun fired.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أطلق سلاحه.",
 			"Egyptian Arabic Audio": "eca-1459-23.mp3",
 			"Standard Arabic Audio": "msa-1459-23.mp3"
 		},
@@ -216,7 +216,7 @@
 			"English": "The bullet went into Jerry's foot.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ذهبت الرصاصة إلى قدم جيري.",
 			"Egyptian Arabic Audio": "eca-1459-24.mp3",
 			"Standard Arabic Audio": "msa-1459-24.mp3"
 		},
@@ -225,7 +225,7 @@
 			"English": "The ambulance came.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وجاءت سيارة الإسعاف.",
 			"Egyptian Arabic Audio": "eca-1459-25.mp3",
 			"Standard Arabic Audio": "msa-1459-25.mp3"
 		},
@@ -234,7 +234,7 @@
 			"English": "The police came.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وجاءت الشرطة.",
 			"Egyptian Arabic Audio": "eca-1459-26.mp3",
 			"Standard Arabic Audio": "msa-1459-26.mp3"
 		},
@@ -243,7 +243,7 @@
 			"English": "The ambulance took Jerry to the hospital.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ونقلت سيارة الإسعاف جيري إلى المستشفى.",
 			"Egyptian Arabic Audio": "eca-1459-27.mp3",
 			"Standard Arabic Audio": "msa-1459-27.mp3"
 		},
@@ -252,7 +252,7 @@
 			"English": "Then the police took Jerry to jail.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ثم أخذت الشرطة جيري إلى السجن.",
 			"Egyptian Arabic Audio": "eca-1459-28.mp3",
 			"Standard Arabic Audio": "msa-1459-28.mp3"
 		}

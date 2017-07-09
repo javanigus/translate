@@ -9,7 +9,7 @@
 			"English": "The three bears left their cave.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "تركت الدببة الثلاث كهفهم.",
 			"Egyptian Arabic Audio": "eca-0506-1.mp3",
 			"Standard Arabic Audio": "msa-0506-1.mp3"
 		},
@@ -18,7 +18,7 @@
 			"English": "They lived in a beautiful cave.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "عاشوا في كهف جميل.",
 			"Egyptian Arabic Audio": "eca-0506-2.mp3",
 			"Standard Arabic Audio": "msa-0506-2.mp3"
 		},
@@ -27,7 +27,7 @@
 			"English": "The cave was big.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كان الكهف كبيرا.",
 			"Egyptian Arabic Audio": "eca-0506-3.mp3",
 			"Standard Arabic Audio": "msa-0506-3.mp3"
 		},
@@ -36,7 +36,7 @@
 			"English": "The cave was warm in winter.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كان الكهف دافئا في فصل الشتاء.",
 			"Egyptian Arabic Audio": "eca-0506-4.mp3",
 			"Standard Arabic Audio": "msa-0506-4.mp3"
 		},
@@ -45,7 +45,7 @@
 			"English": "The cave was cool in summer.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كان الكهف باردا في الصيف.",
 			"Egyptian Arabic Audio": "eca-0506-5.mp3",
 			"Standard Arabic Audio": "msa-0506-5.mp3"
 		},
@@ -54,7 +54,7 @@
 			"English": "It was a quiet cave.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كان كهف هادئ.",
 			"Egyptian Arabic Audio": "eca-0506-6.mp3",
 			"Standard Arabic Audio": "msa-0506-6.mp3"
 		},
@@ -63,7 +63,7 @@
 			"English": "It was a dark cave.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كان كهف مظلم.",
 			"Egyptian Arabic Audio": "eca-0506-7.mp3",
 			"Standard Arabic Audio": "msa-0506-7.mp3"
 		},
@@ -72,7 +72,7 @@
 			"English": "They loved their cave.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أحبوا كهفهم.",
 			"Egyptian Arabic Audio": "eca-0506-8.mp3",
 			"Standard Arabic Audio": "msa-0506-8.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "Today was Sunday.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "اليوم الأحد.",
 			"Egyptian Arabic Audio": "eca-0506-9.mp3",
 			"Standard Arabic Audio": "msa-0506-9.mp3"
 		},
@@ -90,7 +90,7 @@
 			"English": "They liked to pick berries on Sunday.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كانوا يحبون اختيار التوت يوم الأحد.",
 			"Egyptian Arabic Audio": "eca-0506-10.mp3",
 			"Standard Arabic Audio": "msa-0506-10.mp3"
 		},
@@ -99,7 +99,7 @@
 			"English": "So they left their cave.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لذلك تركوا كهفهم.",
 			"Egyptian Arabic Audio": "eca-0506-11.mp3",
 			"Standard Arabic Audio": "msa-0506-11.mp3"
 		},
@@ -108,7 +108,7 @@
 			"English": "They walked through the woods.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كانوا يسيرون عبر الغابة.",
 			"Egyptian Arabic Audio": "eca-0506-12.mp3",
 			"Standard Arabic Audio": "msa-0506-12.mp3"
 		},
@@ -117,7 +117,7 @@
 			"English": "They found a field of berries.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وجدوا حقل التوت.",
 			"Egyptian Arabic Audio": "eca-0506-13.mp3",
 			"Standard Arabic Audio": "msa-0506-13.mp3"
 		},
@@ -126,7 +126,7 @@
 			"English": "Mama bear had a basket.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كان يحمل ماما سلة.",
 			"Egyptian Arabic Audio": "eca-0506-14.mp3",
 			"Standard Arabic Audio": "msa-0506-14.mp3"
 		},
@@ -135,7 +135,7 @@
 			"English": "They filled the basket with blackberries and blueberries.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "شغلوا السلة مع العليق والتوت.",
 			"Egyptian Arabic Audio": "eca-0506-15.mp3",
 			"Standard Arabic Audio": "msa-0506-15.mp3"
 		},
@@ -144,7 +144,7 @@
 			"English": "Then they walked back to their cave.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ثم عادوا إلى كهفهم.",
 			"Egyptian Arabic Audio": "eca-0506-16.mp3",
 			"Standard Arabic Audio": "msa-0506-16.mp3"
 		},
@@ -153,7 +153,7 @@
 			"English": "When they got inside the cave, they heard a noise.",
 			"Word Count": 10,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "عندما وصلوا داخل الكهف، سمعوا ضجيجا.",
 			"Egyptian Arabic Audio": "eca-0506-17.mp3",
 			"Standard Arabic Audio": "msa-0506-17.mp3"
 		},
@@ -162,7 +162,7 @@
 			"English": "\"Who is that?\" papa bear asked.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "&quot;من ذاك؟&quot; طلب بابا الدب.",
 			"Egyptian Arabic Audio": "eca-0506-18.mp3",
 			"Standard Arabic Audio": "msa-0506-18.mp3"
 		},
@@ -171,7 +171,7 @@
 			"English": "\"It's only me,\" said a pig.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وقال خنزير: &quot;أنا فقط&quot;.",
 			"Egyptian Arabic Audio": "eca-0506-19.mp3",
 			"Standard Arabic Audio": "msa-0506-19.mp3"
 		},
@@ -180,7 +180,7 @@
 			"English": "\"What are you doing here?\" asked papa bear.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "&quot;ما الذي تفعله هنا؟&quot; وطلب بابا الدب.",
 			"Egyptian Arabic Audio": "eca-0506-20.mp3",
 			"Standard Arabic Audio": "msa-0506-20.mp3"
 		},
@@ -189,7 +189,7 @@
 			"English": "\"I'm hiding from the farmer,\" said the pig.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "&quot;أنا أختبئ من المزارع&quot;، وقال الخنزير.",
 			"Egyptian Arabic Audio": "eca-0506-21.mp3",
 			"Standard Arabic Audio": "msa-0506-21.mp3"
 		},
@@ -198,7 +198,7 @@
 			"English": "\"I think he wants to eat me.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "&quot;أعتقد أنه يريد أن يأكل لي.",
 			"Egyptian Arabic Audio": "eca-0506-22.mp3",
 			"Standard Arabic Audio": "msa-0506-22.mp3"
 		},
@@ -207,7 +207,7 @@
 			"English": "\" Papa bear told the pig he could stay in the cave as long as he wanted.",
 			"Word Count": 17,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "&quot;وقال بابا الدب خنزير انه يمكن البقاء في الكهف طالما أراد.",
 			"Egyptian Arabic Audio": "eca-0506-23.mp3",
 			"Standard Arabic Audio": "msa-0506-23.mp3"
 		},
@@ -216,7 +216,7 @@
 			"English": "The bears shared their berries with the pig.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "شارك الدببة التوت مع الخنزير.",
 			"Egyptian Arabic Audio": "eca-0506-24.mp3",
 			"Standard Arabic Audio": "msa-0506-24.mp3"
 		},
@@ -225,7 +225,7 @@
 			"English": "Then the pig and baby bear took a nap together.",
 			"Word Count": 10,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ثم أخذ الخنزير والطفل الدب قيلولة معا.",
 			"Egyptian Arabic Audio": "eca-0506-25.mp3",
 			"Standard Arabic Audio": "msa-0506-25.mp3"
 		}

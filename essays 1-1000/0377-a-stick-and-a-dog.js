@@ -9,7 +9,7 @@
 			"English": "He takes the dog for a walk.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انه يأخذ الكلب للنزهة.",
 			"Egyptian Arabic Audio": "eca-0377-1.mp3",
 			"Standard Arabic Audio": "msa-0377-1.mp3"
 		},
@@ -18,7 +18,7 @@
 			"English": "He picks up a stick.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انه يلتقط عصا.",
 			"Egyptian Arabic Audio": "eca-0377-2.mp3",
 			"Standard Arabic Audio": "msa-0377-2.mp3"
 		},
@@ -27,7 +27,7 @@
 			"English": "He throws the stick.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يلقي العصا.",
 			"Egyptian Arabic Audio": "eca-0377-3.mp3",
 			"Standard Arabic Audio": "msa-0377-3.mp3"
 		},
@@ -36,7 +36,7 @@
 			"English": "The dog chases the stick.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "الكلب يطارد العصا.",
 			"Egyptian Arabic Audio": "eca-0377-4.mp3",
 			"Standard Arabic Audio": "msa-0377-4.mp3"
 		},
@@ -45,7 +45,7 @@
 			"English": "It brings back the stick.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انها تجلب العصا.",
 			"Egyptian Arabic Audio": "eca-0377-5.mp3",
 			"Standard Arabic Audio": "msa-0377-5.mp3"
 		},
@@ -54,7 +54,7 @@
 			"English": "It gives him the stick.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنه يعطي له العصا.",
 			"Egyptian Arabic Audio": "eca-0377-6.mp3",
 			"Standard Arabic Audio": "msa-0377-6.mp3"
 		},
@@ -63,7 +63,7 @@
 			"English": "He throws it again.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يلقي عليه مرة أخرى.",
 			"Egyptian Arabic Audio": "eca-0377-7.mp3",
 			"Standard Arabic Audio": "msa-0377-7.mp3"
 		},
@@ -72,7 +72,7 @@
 			"English": "The dog brings the stick back.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "الكلب يجلب العصا الظهر.",
 			"Egyptian Arabic Audio": "eca-0377-8.mp3",
 			"Standard Arabic Audio": "msa-0377-8.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "The dog walks over to a tree.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "الكلب يمشي إلى شجرة.",
 			"Egyptian Arabic Audio": "eca-0377-9.mp3",
 			"Standard Arabic Audio": "msa-0377-9.mp3"
 		},
@@ -90,7 +90,7 @@
 			"English": "It pees on the tree.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "فإنه يتبول على الشجرة.",
 			"Egyptian Arabic Audio": "eca-0377-10.mp3",
 			"Standard Arabic Audio": "msa-0377-10.mp3"
 		},
@@ -99,7 +99,7 @@
 			"English": "He takes the dog home.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انه يأخذ الكلب المنزل.",
 			"Egyptian Arabic Audio": "eca-0377-11.mp3",
 			"Standard Arabic Audio": "msa-0377-11.mp3"
 		}

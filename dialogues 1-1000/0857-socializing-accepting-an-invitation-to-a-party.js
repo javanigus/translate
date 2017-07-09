@@ -11,7 +11,7 @@
 			"English": "I'm calling because I got the invitation to your party in the mail.",
 			"Word Count": 13,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنا أدعو لأنني حصلت على دعوة لحزبكم في البريد.",
 			"Egyptian Arabic Audio": "eca-0857-1.mp3",
 			"Standard Arabic Audio": "msa-0857-1.mp3"
 		},
@@ -21,7 +21,7 @@
 			"English": "I was worried that maybe it got lost.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كنت قلقا من أنه ربما فقدت.",
 			"Egyptian Arabic Audio": "eca-0857-2.mp3",
 			"Standard Arabic Audio": "msa-0857-2.mp3"
 		},
@@ -31,7 +31,7 @@
 			"English": "No, it came in the mail yesterday.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لا، جاء في البريد أمس.",
 			"Egyptian Arabic Audio": "eca-0857-3.mp3",
 			"Standard Arabic Audio": "msa-0857-3.mp3"
 		},
@@ -41,7 +41,7 @@
 			"English": "So, will you be coming to the party?",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لذلك، سوف تكون قادمة للحزب؟",
 			"Egyptian Arabic Audio": "eca-0857-4.mp3",
 			"Standard Arabic Audio": "msa-0857-4.mp3"
 		},
@@ -51,7 +51,7 @@
 			"English": "You bet I'll be there.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنت تراهن سأكون هناك.",
 			"Egyptian Arabic Audio": "eca-0857-5.mp3",
 			"Standard Arabic Audio": "msa-0857-5.mp3"
 		},
@@ -61,7 +61,7 @@
 			"English": "Great! please feel free to bring your family.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "عظيم! لا تتردد في جلب عائلتك.",
 			"Egyptian Arabic Audio": "eca-0857-6.mp3",
 			"Standard Arabic Audio": "msa-0857-6.mp3"
 		},
@@ -71,7 +71,7 @@
 			"English": "I was actually looking forward to some time away from them.",
 			"Word Count": 11,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كنت فعلا أتطلع إلى بعض الوقت بعيدا عنها.",
 			"Egyptian Arabic Audio": "eca-0857-7.mp3",
 			"Standard Arabic Audio": "msa-0857-7.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "Regardless if you come with them or solo, please don't bring any gifts.",
 			"Word Count": 13,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "بغض النظر إذا كنت تأتي معهم أو منفردا، من فضلك لا تجلب أي هدايا.",
 			"Egyptian Arabic Audio": "eca-0857-8.mp3",
 			"Standard Arabic Audio": "msa-0857-8.mp3"
 		},
@@ -91,7 +91,7 @@
 			"English": "Why is that?",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لماذا هذا؟",
 			"Egyptian Arabic Audio": "eca-0857-9.mp3",
 			"Standard Arabic Audio": "msa-0857-9.mp3"
 		},
@@ -101,7 +101,7 @@
 			"English": "My husband is having the whole thing catered.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "زوجي هو وجود كل شيء يهتم.",
 			"Egyptian Arabic Audio": "eca-0857-10.mp3",
 			"Standard Arabic Audio": "msa-0857-10.mp3"
 		},
@@ -111,7 +111,7 @@
 			"English": "I can at least bring a bottle of wine.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يمكنني على الأقل جلب زجاجة من النبيذ.",
 			"Egyptian Arabic Audio": "eca-0857-11.mp3",
 			"Standard Arabic Audio": "msa-0857-11.mp3"
 		},
@@ -121,7 +121,7 @@
 			"English": "That would be nice.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "سيكون هذا لطيفا.",
 			"Egyptian Arabic Audio": "eca-0857-12.mp3",
 			"Standard Arabic Audio": "msa-0857-12.mp3"
 		}

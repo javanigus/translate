@@ -9,7 +9,7 @@
 			"English": "\"Oh, no,\" she said.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "&quot;أوه، لا،&quot; قالت.",
 			"Egyptian Arabic Audio": "eca-1795-1.mp3",
 			"Standard Arabic Audio": "msa-1795-1.mp3"
 		}

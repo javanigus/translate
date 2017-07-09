@@ -11,7 +11,7 @@
 			"English": "How may I help you?",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كيف يمكنني مساعدتك؟",
 			"Egyptian Arabic Audio": "eca-1298-2.mp3",
 			"Standard Arabic Audio": "msa-1298-2.mp3"
 		},
@@ -21,7 +21,7 @@
 			"English": "I need to ask you something about my insurance.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنا بحاجة إلى أن أسألك شيئا عن التأمين بلدي.",
 			"Egyptian Arabic Audio": "eca-1298-3.mp3",
 			"Standard Arabic Audio": "msa-1298-3.mp3"
 		},
@@ -31,7 +31,7 @@
 			"English": "What's your question?",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ما هو سؤالك؟",
 			"Egyptian Arabic Audio": "eca-1298-4.mp3",
 			"Standard Arabic Audio": "msa-1298-4.mp3"
 		},
@@ -41,7 +41,7 @@
 			"English": "Did you make any changes to my insurance?",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هل أجريت أي تغييرات على التأمين الخاص بي؟",
 			"Egyptian Arabic Audio": "eca-1298-5.mp3",
 			"Standard Arabic Audio": "msa-1298-5.mp3"
 		},
@@ -51,7 +51,7 @@
 			"English": "What kind of changes are you referring to?",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ما نوع التغييرات التي تشير إليها؟",
 			"Egyptian Arabic Audio": "eca-1298-6.mp3",
 			"Standard Arabic Audio": "msa-1298-6.mp3"
 		},
@@ -61,7 +61,7 @@
 			"English": "My premium isn't the same.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "قسطي ليست هي نفسها.",
 			"Egyptian Arabic Audio": "eca-1298-7.mp3",
 			"Standard Arabic Audio": "msa-1298-7.mp3"
 		},
@@ -71,7 +71,7 @@
 			"English": "Is there a problem with your premium?",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هل هناك مشكلة مع قسط الخاص بك؟",
 			"Egyptian Arabic Audio": "eca-1298-8.mp3",
 			"Standard Arabic Audio": "msa-1298-8.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "Did you guys raise my premium?",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هل رفاق رفع قسط بلدي؟",
 			"Egyptian Arabic Audio": "eca-1298-9.mp3",
 			"Standard Arabic Audio": "msa-1298-9.mp3"
 		},
@@ -91,7 +91,7 @@
 			"English": "Yes, we did go up on the premiums.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "نعم، لقد رفعنا على الأقساط.",
 			"Egyptian Arabic Audio": "eca-1298-10.mp3",
 			"Standard Arabic Audio": "msa-1298-10.mp3"
 		},
@@ -101,7 +101,7 @@
 			"English": "Why wasn't I told of this change?",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لماذا لم أخبرني بهذا التغيير؟",
 			"Egyptian Arabic Audio": "eca-1298-11.mp3",
 			"Standard Arabic Audio": "msa-1298-11.mp3"
 		},
@@ -111,7 +111,7 @@
 			"English": "I apologize, and next time we will make sure to let you know.",
 			"Word Count": 13,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أعتذر، وفي المرة القادمة سوف نتأكد من أن تتيح لك معرفة.",
 			"Egyptian Arabic Audio": "eca-1298-12.mp3",
 			"Standard Arabic Audio": "msa-1298-12.mp3"
 		},
@@ -121,7 +121,7 @@
 			"English": "I'd appreciate that.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "سأقدر ذلك.",
 			"Egyptian Arabic Audio": "eca-1298-13.mp3",
 			"Standard Arabic Audio": "msa-1298-13.mp3"
 		},
@@ -131,7 +131,7 @@
 			"English": "What can I do for you today?",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ماذا استطيع ان افعل لك اليوم؟",
 			"Egyptian Arabic Audio": "eca-1298-15.mp3",
 			"Standard Arabic Audio": "msa-1298-15.mp3"
 		},
@@ -141,7 +141,7 @@
 			"English": "I am inquiring about my insurance.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنا الاستفسار عن التأمين بلدي.",
 			"Egyptian Arabic Audio": "eca-1298-16.mp3",
 			"Standard Arabic Audio": "msa-1298-16.mp3"
 		},
@@ -151,7 +151,7 @@
 			"English": "What do you need to know?",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ماذا تريد ان تعرف؟",
 			"Egyptian Arabic Audio": "eca-1298-17.mp3",
 			"Standard Arabic Audio": "msa-1298-17.mp3"
 		},
@@ -161,7 +161,7 @@
 			"English": "I think my insurance was changed.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أعتقد أن التأمين قد تغير.",
 			"Egyptian Arabic Audio": "eca-1298-18.mp3",
 			"Standard Arabic Audio": "msa-1298-18.mp3"
 		},
@@ -171,7 +171,7 @@
 			"English": "What changes were made?",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ما هي التغييرات التي أجريت؟",
 			"Egyptian Arabic Audio": "eca-1298-19.mp3",
 			"Standard Arabic Audio": "msa-1298-19.mp3"
 		},
@@ -181,7 +181,7 @@
 			"English": "I think there's a problem with my premium.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أعتقد أن هناك مشكلة مع قسط بلدي.",
 			"Egyptian Arabic Audio": "eca-1298-20.mp3",
 			"Standard Arabic Audio": "msa-1298-20.mp3"
 		},
@@ -191,7 +191,7 @@
 			"English": "What's wrong with it?",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ما الخطأ فى ذلك؟",
 			"Egyptian Arabic Audio": "eca-1298-21.mp3",
 			"Standard Arabic Audio": "msa-1298-21.mp3"
 		},
@@ -201,7 +201,7 @@
 			"English": "It's higher than it was before.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انها أعلى مما كانت عليه من قبل.",
 			"Egyptian Arabic Audio": "eca-1298-22.mp3",
 			"Standard Arabic Audio": "msa-1298-22.mp3"
 		},
@@ -211,7 +211,7 @@
 			"English": "I believe that the premiums did go up.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وأعتقد أن الأقساط قد ارتفعت.",
 			"Egyptian Arabic Audio": "eca-1298-23.mp3",
 			"Standard Arabic Audio": "msa-1298-23.mp3"
 		},
@@ -221,7 +221,7 @@
 			"English": "It would have been nice if I was notified of this.",
 			"Word Count": 11,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كان يمكن أن يكون لطيفا إذا تم إخطار من هذا.",
 			"Egyptian Arabic Audio": "eca-1298-24.mp3",
 			"Standard Arabic Audio": "msa-1298-24.mp3"
 		},
@@ -231,7 +231,7 @@
 			"English": "I'm sorry about the inconvenience, and we'll notify you next time.",
 			"Word Count": 11,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "نأسف للإزعاج، وسنقوم بإعلامك في المرة القادمة.",
 			"Egyptian Arabic Audio": "eca-1298-25.mp3",
 			"Standard Arabic Audio": "msa-1298-25.mp3"
 		},
@@ -241,7 +241,7 @@
 			"English": "That would be nice.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "سيكون هذا لطيفا.",
 			"Egyptian Arabic Audio": "eca-1298-26.mp3",
 			"Standard Arabic Audio": "msa-1298-26.mp3"
 		},
@@ -251,7 +251,7 @@
 			"English": "What do you need?",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ماذا تحتاج؟",
 			"Egyptian Arabic Audio": "eca-1298-28.mp3",
 			"Standard Arabic Audio": "msa-1298-28.mp3"
 		},
@@ -261,7 +261,7 @@
 			"English": "I have a question about my insurance.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لدي سؤال حول التأمين بلدي.",
 			"Egyptian Arabic Audio": "eca-1298-29.mp3",
 			"Standard Arabic Audio": "msa-1298-29.mp3"
 		},
@@ -271,7 +271,7 @@
 			"English": "What are you wondering about?",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ما الذي تتساءل عنه؟",
 			"Egyptian Arabic Audio": "eca-1298-30.mp3",
 			"Standard Arabic Audio": "msa-1298-30.mp3"
 		},
@@ -281,7 +281,7 @@
 			"English": "Were there any changes to my insurance?",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هل كانت هناك أي تغييرات على التأمين؟",
 			"Egyptian Arabic Audio": "eca-1298-31.mp3",
 			"Standard Arabic Audio": "msa-1298-31.mp3"
 		},
@@ -291,7 +291,7 @@
 			"English": "What do you think was changed?",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ما رأيك تم تغييره؟",
 			"Egyptian Arabic Audio": "eca-1298-32.mp3",
 			"Standard Arabic Audio": "msa-1298-32.mp3"
 		},
@@ -301,7 +301,7 @@
 			"English": "My premium is different.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "قسط بلدي هو مختلف.",
 			"Egyptian Arabic Audio": "eca-1298-33.mp3",
 			"Standard Arabic Audio": "msa-1298-33.mp3"
 		},
@@ -311,7 +311,7 @@
 			"English": "What's the problem?",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ما هي المشكلة؟",
 			"Egyptian Arabic Audio": "eca-1298-34.mp3",
 			"Standard Arabic Audio": "msa-1298-34.mp3"
 		},
@@ -321,7 +321,7 @@
 			"English": "I think that my premium went up.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وأعتقد أن بلدي قسط ارتفعت.",
 			"Egyptian Arabic Audio": "eca-1298-35.mp3",
 			"Standard Arabic Audio": "msa-1298-35.mp3"
 		},
@@ -331,7 +331,7 @@
 			"English": "We have raised the premiums.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لقد رفعنا الأقساط.",
 			"Egyptian Arabic Audio": "eca-1298-36.mp3",
 			"Standard Arabic Audio": "msa-1298-36.mp3"
 		},
@@ -341,7 +341,7 @@
 			"English": "You guys didn't think to notify everyone?",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يا رفاق لا أعتقد أن يخطر الجميع؟",
 			"Egyptian Arabic Audio": "eca-1298-37.mp3",
 			"Standard Arabic Audio": "msa-1298-37.mp3"
 		},
@@ -351,7 +351,7 @@
 			"English": "Next time we'll call and let you know.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "في المرة القادمة سوف ندعو ونعلمك.",
 			"Egyptian Arabic Audio": "eca-1298-38.mp3",
 			"Standard Arabic Audio": "msa-1298-38.mp3"
 		},
@@ -361,7 +361,7 @@
 			"English": "Thanks for the favor.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "شكرا على صالح.",
 			"Egyptian Arabic Audio": "eca-1298-39.mp3",
 			"Standard Arabic Audio": "msa-1298-39.mp3"
 		}

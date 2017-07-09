@@ -9,7 +9,7 @@
 			"English": "Cher told Brooke that she would not be allowed to board her plane.",
 			"Word Count": 13,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وقالت شير لبروك انها لن يسمح لها بالركوب على متن طائرتها.",
 			"Egyptian Arabic Audio": "eca-2038-1.mp3",
 			"Standard Arabic Audio": "msa-2038-1.mp3"
 		},
@@ -18,7 +18,7 @@
 			"English": "Brooke started crying.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "بدأ بروك البكاء.",
 			"Egyptian Arabic Audio": "eca-2038-2.mp3",
 			"Standard Arabic Audio": "msa-2038-2.mp3"
 		},
@@ -27,7 +27,7 @@
 			"English": "Her boyfriend in Atlanta was going to be very disappointed.",
 			"Word Count": 10,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كان صديقها في أتلانتا سيكون بخيبة أمل كبيرة.",
 			"Egyptian Arabic Audio": "eca-2038-3.mp3",
 			"Standard Arabic Audio": "msa-2038-3.mp3"
 		}

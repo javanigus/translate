@@ -9,7 +9,7 @@
 			"English": "Richard applied to many places.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ريتشارد تطبيقها على العديد من الأماكن.",
 			"Egyptian Arabic Audio": "eca-0786-1.mp3",
 			"Standard Arabic Audio": "msa-0786-1.mp3"
 		},
@@ -18,7 +18,7 @@
 			"English": "He knew all the bosses of the companies.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كان يعرف كل زعماء الشركات.",
 			"Egyptian Arabic Audio": "eca-0786-2.mp3",
 			"Standard Arabic Audio": "msa-0786-2.mp3"
 		},
@@ -27,7 +27,7 @@
 			"English": "They were the men Richard used to bully as children.",
 			"Word Count": 10,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كانوا الرجال ريتشارد اعتاد على التسلط كما الأطفال.",
 			"Egyptian Arabic Audio": "eca-0786-3.mp3",
 			"Standard Arabic Audio": "msa-0786-3.mp3"
 		},
@@ -36,7 +36,7 @@
 			"English": "Richard had a very hard time finding a job.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كان ريتشارد يجد صعوبة كبيرة في العثور على وظيفة.",
 			"Egyptian Arabic Audio": "eca-0786-4.mp3",
 			"Standard Arabic Audio": "msa-0786-4.mp3"
 		}

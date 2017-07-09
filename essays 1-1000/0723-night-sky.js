@@ -9,7 +9,7 @@
 			"English": "He looked up.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "بحث.",
 			"Egyptian Arabic Audio": "eca-0723-1.mp3",
 			"Standard Arabic Audio": "msa-0723-1.mp3"
 		},
@@ -18,7 +18,7 @@
 			"English": "He saw the night sky.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "رأى السماء ليلا.",
 			"Egyptian Arabic Audio": "eca-0723-2.mp3",
 			"Standard Arabic Audio": "msa-0723-2.mp3"
 		},
@@ -27,7 +27,7 @@
 			"English": "There were many stars in the sky.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كان هناك العديد من النجوم في السماء.",
 			"Egyptian Arabic Audio": "eca-0723-3.mp3",
 			"Standard Arabic Audio": "msa-0723-3.mp3"
 		},
@@ -36,7 +36,7 @@
 			"English": "He looked for a while.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وقال انه يتطلع لفترة من الوقت.",
 			"Egyptian Arabic Audio": "eca-0723-4.mp3",
 			"Standard Arabic Audio": "msa-0723-4.mp3"
 		},
@@ -45,7 +45,7 @@
 			"English": "The stars were beautiful.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كانت النجوم جميلة.",
 			"Egyptian Arabic Audio": "eca-0723-5.mp3",
 			"Standard Arabic Audio": "msa-0723-5.mp3"
 		},
@@ -54,7 +54,7 @@
 			"English": "They were shining brightly.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كانت مشرقة.",
 			"Egyptian Arabic Audio": "eca-0723-6.mp3",
 			"Standard Arabic Audio": "msa-0723-6.mp3"
 		},
@@ -63,7 +63,7 @@
 			"English": "They looked like diamonds.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كانوا يشبهون الماس.",
 			"Egyptian Arabic Audio": "eca-0723-7.mp3",
 			"Standard Arabic Audio": "msa-0723-7.mp3"
 		},
@@ -72,7 +72,7 @@
 			"English": "He remembered a song.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وتذكر أغنية.",
 			"Egyptian Arabic Audio": "eca-0723-8.mp3",
 			"Standard Arabic Audio": "msa-0723-8.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "He looked at the moon.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "نظر إلى القمر.",
 			"Egyptian Arabic Audio": "eca-0723-9.mp3",
 			"Standard Arabic Audio": "msa-0723-9.mp3"
 		},
@@ -90,7 +90,7 @@
 			"English": "The moon was in the night sky.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كان القمر في السماء ليلا.",
 			"Egyptian Arabic Audio": "eca-0723-10.mp3",
 			"Standard Arabic Audio": "msa-0723-10.mp3"
 		},
@@ -99,7 +99,7 @@
 			"English": "It gave the moonlight.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أعطى ضوء القمر.",
 			"Egyptian Arabic Audio": "eca-0723-11.mp3",
 			"Standard Arabic Audio": "msa-0723-11.mp3"
 		},
@@ -108,7 +108,7 @@
 			"English": "The moon looked white.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "بدا القمر أبيض.",
 			"Egyptian Arabic Audio": "eca-0723-12.mp3",
 			"Standard Arabic Audio": "msa-0723-12.mp3"
 		},
@@ -117,7 +117,7 @@
 			"English": "It looked like cheese.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كان يشبه الجبن.",
 			"Egyptian Arabic Audio": "eca-0723-13.mp3",
 			"Standard Arabic Audio": "msa-0723-13.mp3"
 		},
@@ -126,7 +126,7 @@
 			"English": "He wondered about it.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وتساءل عن ذلك.",
 			"Egyptian Arabic Audio": "eca-0723-14.mp3",
 			"Standard Arabic Audio": "msa-0723-14.mp3"
 		},
@@ -135,7 +135,7 @@
 			"English": "A man had walked on the moon.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كان رجل مشى على سطح القمر.",
 			"Egyptian Arabic Audio": "eca-0723-15.mp3",
 			"Standard Arabic Audio": "msa-0723-15.mp3"
 		},
@@ -144,7 +144,7 @@
 			"English": "He imagined walking on the moon.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "تخيل المشي على سطح القمر.",
 			"Egyptian Arabic Audio": "eca-0723-16.mp3",
 			"Standard Arabic Audio": "msa-0723-16.mp3"
 		},
@@ -153,7 +153,7 @@
 			"English": "He imagined the moon being cold.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كان يتصور القمر كونه باردا.",
 			"Egyptian Arabic Audio": "eca-0723-17.mp3",
 			"Standard Arabic Audio": "msa-0723-17.mp3"
 		},
@@ -162,7 +162,7 @@
 			"English": "He looked at the constellations.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "نظر إلى الأبراج.",
 			"Egyptian Arabic Audio": "eca-0723-18.mp3",
 			"Standard Arabic Audio": "msa-0723-18.mp3"
 		},
@@ -171,7 +171,7 @@
 			"English": "There were many of them.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كان هناك الكثير منهم.",
 			"Egyptian Arabic Audio": "eca-0723-19.mp3",
 			"Standard Arabic Audio": "msa-0723-19.mp3"
 		},
@@ -180,7 +180,7 @@
 			"English": "Constellations are what groups of stars look like.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "الأبراج هي ما مجموعات النجوم تبدو.",
 			"Egyptian Arabic Audio": "eca-0723-20.mp3",
 			"Standard Arabic Audio": "msa-0723-20.mp3"
 		},
@@ -189,7 +189,7 @@
 			"English": "They have different names.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لديهم أسماء مختلفة.",
 			"Egyptian Arabic Audio": "eca-0723-21.mp3",
 			"Standard Arabic Audio": "msa-0723-21.mp3"
 		},
@@ -198,7 +198,7 @@
 			"English": "He saw the Big Dipper.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "رأى الدب الأكبر.",
 			"Egyptian Arabic Audio": "eca-0723-22.mp3",
 			"Standard Arabic Audio": "msa-0723-22.mp3"
 		},
@@ -207,7 +207,7 @@
 			"English": "He saw the Little Dipper.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "رأى الدب الصغير.",
 			"Egyptian Arabic Audio": "eca-0723-23.mp3",
 			"Standard Arabic Audio": "msa-0723-23.mp3"
 		},
@@ -216,7 +216,7 @@
 			"English": "He also could see Orion's Belt.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كما يمكن أن يرى حزام أوريون.",
 			"Egyptian Arabic Audio": "eca-0723-24.mp3",
 			"Standard Arabic Audio": "msa-0723-24.mp3"
 		},
@@ -225,7 +225,7 @@
 			"English": "It was an amazing sight.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كان مشهدا مذهلا.",
 			"Egyptian Arabic Audio": "eca-0723-25.mp3",
 			"Standard Arabic Audio": "msa-0723-25.mp3"
 		},
@@ -234,7 +234,7 @@
 			"English": "He looked up every night.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كان ينظر كل ليلة.",
 			"Egyptian Arabic Audio": "eca-0723-26.mp3",
 			"Standard Arabic Audio": "msa-0723-26.mp3"
 		},
@@ -243,7 +243,7 @@
 			"English": "He believed in aliens.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وقال انه يعتقد في الأجانب.",
 			"Egyptian Arabic Audio": "eca-0723-27.mp3",
 			"Standard Arabic Audio": "msa-0723-27.mp3"
 		},
@@ -252,7 +252,7 @@
 			"English": "He hoped to see one.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وأعرب عن أمله في رؤية واحدة.",
 			"Egyptian Arabic Audio": "eca-0723-28.mp3",
 			"Standard Arabic Audio": "msa-0723-28.mp3"
 		},
@@ -261,7 +261,7 @@
 			"English": "The night sky is full of wonders.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "السماء ليلا مليئة بالعجائب.",
 			"Egyptian Arabic Audio": "eca-0723-29.mp3",
 			"Standard Arabic Audio": "msa-0723-29.mp3"
 		}

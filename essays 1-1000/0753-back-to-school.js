@@ -9,7 +9,7 @@
 			"English": "Mr Gonzales graduated from college four years later.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "تخرج السيد غونزاليس من الكلية بعد أربع سنوات.",
 			"Egyptian Arabic Audio": "eca-0753-1.mp3",
 			"Standard Arabic Audio": "msa-0753-1.mp3"
 		},
@@ -18,7 +18,7 @@
 			"English": "His children were very proud of him.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كان أبنائه فخورون جدا به.",
 			"Egyptian Arabic Audio": "eca-0753-2.mp3",
 			"Standard Arabic Audio": "msa-0753-2.mp3"
 		}

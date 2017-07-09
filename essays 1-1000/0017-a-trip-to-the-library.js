@@ -9,7 +9,7 @@
 			"English": "Mark needs a book.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يحتاج مارك إلى كتاب.",
 			"Egyptian Arabic Audio": "eca-0017-1.mp3",
 			"Standard Arabic Audio": "msa-0017-1.mp3"
 		},
@@ -18,7 +18,7 @@
 			"English": "He does not have money.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وقال انه لم يكن لديك _____ المال.",
 			"Egyptian Arabic Audio": "eca-0017-2.mp3",
 			"Standard Arabic Audio": "msa-0017-2.mp3"
 		},
@@ -27,7 +27,7 @@
 			"English": "His mom takes him to the library.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أمه يأخذه إلى المكتبة.",
 			"Egyptian Arabic Audio": "eca-0017-3.mp3",
 			"Standard Arabic Audio": "msa-0017-3.mp3"
 		},
@@ -36,7 +36,7 @@
 			"English": "Mark can borrow books for free.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "مارك يمكن استعارة الكتب مجانا.",
 			"Egyptian Arabic Audio": "eca-0017-4.mp3",
 			"Standard Arabic Audio": "msa-0017-4.mp3"
 		},
@@ -45,7 +45,7 @@
 			"English": "Mark enters the library.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يدخل مارك المكتبة.",
 			"Egyptian Arabic Audio": "eca-0017-5.mp3",
 			"Standard Arabic Audio": "msa-0017-5.mp3"
 		},
@@ -54,7 +54,7 @@
 			"English": "There are so many books.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هناك الكثير من الكتب.",
 			"Egyptian Arabic Audio": "eca-0017-6.mp3",
 			"Standard Arabic Audio": "msa-0017-6.mp3"
 		},
@@ -63,7 +63,7 @@
 			"English": "There are books about animals.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هناك كتب عن الحيوانات.",
 			"Egyptian Arabic Audio": "eca-0017-7.mp3",
 			"Standard Arabic Audio": "msa-0017-7.mp3"
 		},
@@ -72,7 +72,7 @@
 			"English": "There are books about pirates.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هناك كتب عن القراصنة.",
 			"Egyptian Arabic Audio": "eca-0017-8.mp3",
 			"Standard Arabic Audio": "msa-0017-8.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "There are books about science.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هناك كتب عن العلم.",
 			"Egyptian Arabic Audio": "eca-0017-9.mp3",
 			"Standard Arabic Audio": "msa-0017-9.mp3"
 		},
@@ -90,7 +90,7 @@
 			"English": "Mark borrows them all.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "مارك يقترض لهم جميعا.",
 			"Egyptian Arabic Audio": "eca-0017-10.mp3",
 			"Standard Arabic Audio": "msa-0017-10.mp3"
 		}

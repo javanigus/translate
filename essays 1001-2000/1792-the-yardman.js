@@ -9,7 +9,7 @@
 			"English": "When he is done, he goes half a block up the street to the house on the corner.",
 			"Word Count": 18,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "عندما يتم ذلك، يذهب نصف كتلة تصل إلى الشارع إلى المنزل في الزاوية.",
 			"Egyptian Arabic Audio": "eca-1792-1.mp3",
 			"Standard Arabic Audio": "msa-1792-1.mp3"
 		},
@@ -18,7 +18,7 @@
 			"English": "There he does the same work again.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هناك يفعل نفس العمل مرة أخرى.",
 			"Egyptian Arabic Audio": "eca-1792-2.mp3",
 			"Standard Arabic Audio": "msa-1792-2.mp3"
 		}

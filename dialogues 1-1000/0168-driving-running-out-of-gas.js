@@ -11,7 +11,7 @@
 			"English": "Excuse me! Can you please help me?",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "عفوا! هل تستطيع مساعدتي رجاء؟",
 			"Egyptian Arabic Audio": "eca-0168-1.mp3",
 			"Standard Arabic Audio": "msa-0168-1.mp3"
 		},
@@ -21,7 +21,7 @@
 			"English": "What's the problem?",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ما هي المشكلة؟",
 			"Egyptian Arabic Audio": "eca-0168-2.mp3",
 			"Standard Arabic Audio": "msa-0168-2.mp3"
 		},
@@ -31,7 +31,7 @@
 			"English": "My car stopped in the middle of the road.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "توقفت سيارتي في منتصف الطريق.",
 			"Egyptian Arabic Audio": "eca-0168-3.mp3",
 			"Standard Arabic Audio": "msa-0168-3.mp3"
 		},
@@ -41,7 +41,7 @@
 			"English": "Did you run out of gas?",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هل نفدت الغاز؟",
 			"Egyptian Arabic Audio": "eca-0168-4.mp3",
 			"Standard Arabic Audio": "msa-0168-4.mp3"
 		},
@@ -51,7 +51,7 @@
 			"English": "Yes, I think I did.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "نعم، أعتقد أنني فعلت.",
 			"Egyptian Arabic Audio": "eca-0168-5.mp3",
 			"Standard Arabic Audio": "msa-0168-5.mp3"
 		},
@@ -61,7 +61,7 @@
 			"English": "There is no gas station within walking distance.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لا توجد محطة وقود على مسافة قريبة.",
 			"Egyptian Arabic Audio": "eca-0168-6.mp3",
 			"Standard Arabic Audio": "msa-0168-6.mp3"
 		},
@@ -71,7 +71,7 @@
 			"English": "May I please borrow your phone?",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هل لي أن يرجى استعارة هاتفك؟",
 			"Egyptian Arabic Audio": "eca-0168-7.mp3",
 			"Standard Arabic Audio": "msa-0168-7.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "Are you planning to call a tow service?",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هل تخطط لاستدعاء خدمة السحب؟",
 			"Egyptian Arabic Audio": "eca-0168-8.mp3",
 			"Standard Arabic Audio": "msa-0168-8.mp3"
 		},
@@ -91,7 +91,7 @@
 			"English": "Yes, I think it's all I can do.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "نعم، أعتقد أنه كل ما يمكنني القيام به.",
 			"Egyptian Arabic Audio": "eca-0168-9.mp3",
 			"Standard Arabic Audio": "msa-0168-9.mp3"
 		},
@@ -101,7 +101,7 @@
 			"English": "If you'd like, I'll drive you to the station.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "إذا كنت ترغب، سوف يقودك إلى المحطة.",
 			"Egyptian Arabic Audio": "eca-0168-10.mp3",
 			"Standard Arabic Audio": "msa-0168-10.mp3"
 		},
@@ -111,7 +111,7 @@
 			"English": "Thank you so much!",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "شكرا جزيلا!",
 			"Egyptian Arabic Audio": "eca-0168-11.mp3",
 			"Standard Arabic Audio": "msa-0168-11.mp3"
 		},
@@ -121,7 +121,7 @@
 			"English": "It's no problem. Let's get going.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "إنها ليست مشكلة. هيا بنا نذهب.",
 			"Egyptian Arabic Audio": "eca-0168-12.mp3",
 			"Standard Arabic Audio": "msa-0168-12.mp3"
 		}

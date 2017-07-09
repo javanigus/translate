@@ -9,7 +9,7 @@
 			"English": "Dorothy has a diary.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "دوروثي ديه مذكرات.",
 			"Egyptian Arabic Audio": "eca-0097-1.mp3",
 			"Standard Arabic Audio": "msa-0097-1.mp3"
 		},
@@ -18,7 +18,7 @@
 			"English": "It has a pink cover.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لديها غطاء وردي.",
 			"Egyptian Arabic Audio": "eca-0097-2.mp3",
 			"Standard Arabic Audio": "msa-0097-2.mp3"
 		},
@@ -27,7 +27,7 @@
 			"English": "It is four inches in length.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هو أربع بوصات في الطول.",
 			"Egyptian Arabic Audio": "eca-0097-3.mp3",
 			"Standard Arabic Audio": "msa-0097-3.mp3"
 		},
@@ -36,7 +36,7 @@
 			"English": "It is three inches in width.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هو ثلاث بوصات في العرض.",
 			"Egyptian Arabic Audio": "eca-0097-4.mp3",
 			"Standard Arabic Audio": "msa-0097-4.mp3"
 		},
@@ -45,7 +45,7 @@
 			"English": "It has 200 pages.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لديها 200 صفحة.",
 			"Egyptian Arabic Audio": "eca-0097-5.mp3",
 			"Standard Arabic Audio": "msa-0097-5.mp3"
 		},
@@ -54,7 +54,7 @@
 			"English": "There are lines on the pages.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هناك خطوط على الصفحات.",
 			"Egyptian Arabic Audio": "eca-0097-6.mp3",
 			"Standard Arabic Audio": "msa-0097-6.mp3"
 		},
@@ -63,7 +63,7 @@
 			"English": "She writes in it every day.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "تكتب فيه كل يوم.",
 			"Egyptian Arabic Audio": "eca-0097-7.mp3",
 			"Standard Arabic Audio": "msa-0097-7.mp3"
 		},
@@ -72,7 +72,7 @@
 			"English": "She writes about how she is feeling.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "تكتب عن كيفية شعورها.",
 			"Egyptian Arabic Audio": "eca-0097-8.mp3",
 			"Standard Arabic Audio": "msa-0097-8.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "She writes about what happened in school.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "تكتب عن ما حدث في المدرسة.",
 			"Egyptian Arabic Audio": "eca-0097-9.mp3",
 			"Standard Arabic Audio": "msa-0097-9.mp3"
 		},
@@ -90,7 +90,7 @@
 			"English": "Sometimes, she draws in her diary.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "في بعض الأحيان، توجه في مذكراتها.",
 			"Egyptian Arabic Audio": "eca-0097-10.mp3",
 			"Standard Arabic Audio": "msa-0097-10.mp3"
 		}

@@ -9,7 +9,7 @@
 			"English": "Lisa bought a car.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ليزا اشترى سيارة.",
 			"Egyptian Arabic Audio": "eca-0684-1.mp3",
 			"Standard Arabic Audio": "msa-0684-1.mp3"
 		},
@@ -18,7 +18,7 @@
 			"English": "It was her first car.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كانت سيارتها الأولى.",
 			"Egyptian Arabic Audio": "eca-0684-2.mp3",
 			"Standard Arabic Audio": "msa-0684-2.mp3"
 		},
@@ -27,7 +27,7 @@
 			"English": "She was happy when she bought it.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كانت سعيدة عندما اشترتها.",
 			"Egyptian Arabic Audio": "eca-0684-3.mp3",
 			"Standard Arabic Audio": "msa-0684-3.mp3"
 		},
@@ -36,7 +36,7 @@
 			"English": "It was a birthday present.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كان هدية عيد ميلاد.",
 			"Egyptian Arabic Audio": "eca-0684-4.mp3",
 			"Standard Arabic Audio": "msa-0684-4.mp3"
 		},
@@ -45,7 +45,7 @@
 			"English": "Her parents bought it for her.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "اشترى لها والديها لها.",
 			"Egyptian Arabic Audio": "eca-0684-5.mp3",
 			"Standard Arabic Audio": "msa-0684-5.mp3"
 		},
@@ -54,7 +54,7 @@
 			"English": "She was thankful.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وأعربت عن شكرها.",
 			"Egyptian Arabic Audio": "eca-0684-6.mp3",
 			"Standard Arabic Audio": "msa-0684-6.mp3"
 		},
@@ -63,7 +63,7 @@
 			"English": "She deserved the car.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "إنها تستحق السيارة.",
 			"Egyptian Arabic Audio": "eca-0684-7.mp3",
 			"Standard Arabic Audio": "msa-0684-7.mp3"
 		},
@@ -72,7 +72,7 @@
 			"English": "She was a good girl.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كانت فتاة جيدة.",
 			"Egyptian Arabic Audio": "eca-0684-8.mp3",
 			"Standard Arabic Audio": "msa-0684-8.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "She was a good student.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كانت طالبة جيدة.",
 			"Egyptian Arabic Audio": "eca-0684-9.mp3",
 			"Standard Arabic Audio": "msa-0684-9.mp3"
 		},
@@ -90,7 +90,7 @@
 			"English": "She listened to her parents.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "استمعت إلى والديها.",
 			"Egyptian Arabic Audio": "eca-0684-10.mp3",
 			"Standard Arabic Audio": "msa-0684-10.mp3"
 		},
@@ -99,7 +99,7 @@
 			"English": "She never got in trouble.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وقالت انها لم تحصل في ورطة.",
 			"Egyptian Arabic Audio": "eca-0684-11.mp3",
 			"Standard Arabic Audio": "msa-0684-11.mp3"
 		},
@@ -108,7 +108,7 @@
 			"English": "She was a good daughter.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كانت ابنة جيدة.",
 			"Egyptian Arabic Audio": "eca-0684-12.mp3",
 			"Standard Arabic Audio": "msa-0684-12.mp3"
 		},
@@ -117,7 +117,7 @@
 			"English": "The car was pink.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كانت السيارة الوردي.",
 			"Egyptian Arabic Audio": "eca-0684-13.mp3",
 			"Standard Arabic Audio": "msa-0684-13.mp3"
 		},
@@ -126,7 +126,7 @@
 			"English": "Pink is her favorite color.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "الوردي هو لونها المفضل.",
 			"Egyptian Arabic Audio": "eca-0684-14.mp3",
 			"Standard Arabic Audio": "msa-0684-14.mp3"
 		},
@@ -135,7 +135,7 @@
 			"English": "Pink is a girl's color.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "الوردي هو لون الفتاة.",
 			"Egyptian Arabic Audio": "eca-0684-15.mp3",
 			"Standard Arabic Audio": "msa-0684-15.mp3"
 		},
@@ -144,7 +144,7 @@
 			"English": "She was a nice girl.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كانت فتاة لطيفة.",
 			"Egyptian Arabic Audio": "eca-0684-16.mp3",
 			"Standard Arabic Audio": "msa-0684-16.mp3"
 		},
@@ -153,7 +153,7 @@
 			"English": "Her car was not cheap.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كانت سيارتها ليست رخيصة.",
 			"Egyptian Arabic Audio": "eca-0684-17.mp3",
 			"Standard Arabic Audio": "msa-0684-17.mp3"
 		},
@@ -162,7 +162,7 @@
 			"English": "Her parents did not pay for it all.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "والديها لم يدفعوا ثمنها جميعا.",
 			"Egyptian Arabic Audio": "eca-0684-18.mp3",
 			"Standard Arabic Audio": "msa-0684-18.mp3"
 		},
@@ -171,7 +171,7 @@
 			"English": "They paid half.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "دفعوا نصف.",
 			"Egyptian Arabic Audio": "eca-0684-19.mp3",
 			"Standard Arabic Audio": "msa-0684-19.mp3"
 		},
@@ -180,7 +180,7 @@
 			"English": "She was to pay for the rest.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كانت تدفع ثمن الباقي.",
 			"Egyptian Arabic Audio": "eca-0684-20.mp3",
 			"Standard Arabic Audio": "msa-0684-20.mp3"
 		},
@@ -189,7 +189,7 @@
 			"English": "She had to get a job.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كان عليها الحصول على وظيفة.",
 			"Egyptian Arabic Audio": "eca-0684-21.mp3",
 			"Standard Arabic Audio": "msa-0684-21.mp3"
 		},
@@ -198,7 +198,7 @@
 			"English": "She learned to drive.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "تعلمت القيادة.",
 			"Egyptian Arabic Audio": "eca-0684-22.mp3",
 			"Standard Arabic Audio": "msa-0684-22.mp3"
 		},
@@ -207,7 +207,7 @@
 			"English": "She got a job.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "حصلت على وظيفة.",
 			"Egyptian Arabic Audio": "eca-0684-23.mp3",
 			"Standard Arabic Audio": "msa-0684-23.mp3"
 		},
@@ -216,7 +216,7 @@
 			"English": "She drove to work.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "قادت إلى العمل.",
 			"Egyptian Arabic Audio": "eca-0684-24.mp3",
 			"Standard Arabic Audio": "msa-0684-24.mp3"
 		},
@@ -225,7 +225,7 @@
 			"English": "She was an adult now.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كانت راشدا الآن.",
 			"Egyptian Arabic Audio": "eca-0684-25.mp3",
 			"Standard Arabic Audio": "msa-0684-25.mp3"
 		},
@@ -234,7 +234,7 @@
 			"English": "Lisa was responsible.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كانت ليزا مسؤولة.",
 			"Egyptian Arabic Audio": "eca-0684-26.mp3",
 			"Standard Arabic Audio": "msa-0684-26.mp3"
 		},
@@ -243,7 +243,7 @@
 			"English": "Her parents were proud of her.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كان والداها فخورين بها.",
 			"Egyptian Arabic Audio": "eca-0684-27.mp3",
 			"Standard Arabic Audio": "msa-0684-27.mp3"
 		},
@@ -252,7 +252,7 @@
 			"English": "She was not their little girl anymore.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لم تكن طفلة صغيرة بعد الآن.",
 			"Egyptian Arabic Audio": "eca-0684-28.mp3",
 			"Standard Arabic Audio": "msa-0684-28.mp3"
 		}

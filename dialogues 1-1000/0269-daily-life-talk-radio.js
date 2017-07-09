@@ -11,7 +11,7 @@
 			"English": "Do you listen to the radio?",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هل تصغي إلى الراديو؟",
 			"Egyptian Arabic Audio": "eca-0269-1.mp3",
 			"Standard Arabic Audio": "msa-0269-1.mp3"
 		},
@@ -21,7 +21,7 @@
 			"English": "I listen day and night.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أستمع ليلا ونهارا.",
 			"Egyptian Arabic Audio": "eca-0269-2.mp3",
 			"Standard Arabic Audio": "msa-0269-2.mp3"
 		},
@@ -31,7 +31,7 @@
 			"English": "What do you listen to?",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ما الذي تستمع إليه؟",
 			"Egyptian Arabic Audio": "eca-0269-3.mp3",
 			"Standard Arabic Audio": "msa-0269-3.mp3"
 		},
@@ -41,7 +41,7 @@
 			"English": "Mostly talk radio.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "معظمها يتحدث الراديو.",
 			"Egyptian Arabic Audio": "eca-0269-4.mp3",
 			"Standard Arabic Audio": "msa-0269-4.mp3"
 		},
@@ -51,7 +51,7 @@
 			"English": "What's that?",
 			"Word Count": 2,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ما هذا؟",
 			"Egyptian Arabic Audio": "eca-0269-5.mp3",
 			"Standard Arabic Audio": "msa-0269-5.mp3"
 		},
@@ -61,7 +61,7 @@
 			"English": "People talk about current events.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يتحدث الناس عن الأحداث الجارية.",
 			"Egyptian Arabic Audio": "eca-0269-6.mp3",
 			"Standard Arabic Audio": "msa-0269-6.mp3"
 		},
@@ -71,7 +71,7 @@
 			"English": "What do they say?",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ماذا يقولون؟",
 			"Egyptian Arabic Audio": "eca-0269-7.mp3",
 			"Standard Arabic Audio": "msa-0269-7.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "They say they want change.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يقولون إنهم يريدون التغيير.",
 			"Egyptian Arabic Audio": "eca-0269-8.mp3",
 			"Standard Arabic Audio": "msa-0269-8.mp3"
 		},
@@ -91,7 +91,7 @@
 			"English": "What kind of change?",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أي نوع من التغيير؟",
 			"Egyptian Arabic Audio": "eca-0269-9.mp3",
 			"Standard Arabic Audio": "msa-0269-9.mp3"
 		},
@@ -101,7 +101,7 @@
 			"English": "They want tax cuts.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يريدون خفض الضرائب.",
 			"Egyptian Arabic Audio": "eca-0269-10.mp3",
 			"Standard Arabic Audio": "msa-0269-10.mp3"
 		},
@@ -111,7 +111,7 @@
 			"English": "Why do they want tax cuts?",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لماذا يريدون خفض الضرائب؟",
 			"Egyptian Arabic Audio": "eca-0269-11.mp3",
 			"Standard Arabic Audio": "msa-0269-11.mp3"
 		},
@@ -121,7 +121,7 @@
 			"English": "Because tax cuts will save them money.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لأن التخفيضات الضريبية سيوفر لهم المال.",
 			"Egyptian Arabic Audio": "eca-0269-12.mp3",
 			"Standard Arabic Audio": "msa-0269-12.mp3"
 		}

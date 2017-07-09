@@ -11,7 +11,7 @@
 			"English": "Did you get invited to Wanda's party this Sunday?",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هل تلقيت دعوة لحزب واندا هذا الأحد؟",
 			"Egyptian Arabic Audio": "eca-0854-1.mp3",
 			"Standard Arabic Audio": "msa-0854-1.mp3"
 		},
@@ -21,7 +21,7 @@
 			"English": "I did. I even went shopping for a new outfit.",
 			"Word Count": 10,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "فعلت. حتى ذهبت للتسوق لزي جديد.",
 			"Egyptian Arabic Audio": "eca-0854-2.mp3",
 			"Standard Arabic Audio": "msa-0854-2.mp3"
 		},
@@ -31,7 +31,7 @@
 			"English": "Did you also go shopping for a gift to bring?",
 			"Word Count": 10,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هل ذهبت أيضا للتسوق للحصول على هدية لجلب؟",
 			"Egyptian Arabic Audio": "eca-0854-3.mp3",
 			"Standard Arabic Audio": "msa-0854-3.mp3"
 		},
@@ -41,7 +41,7 @@
 			"English": "We're supposed to bring gifts?",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "نحن من المفترض أن جلب الهدايا؟",
 			"Egyptian Arabic Audio": "eca-0854-4.mp3",
 			"Standard Arabic Audio": "msa-0854-4.mp3"
 		},
@@ -51,7 +51,7 @@
 			"English": "Of course! You can't just show up at someone's house empty handed.",
 			"Word Count": 12,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "بالتاكيد! لا يمكنك فقط تظهر في منزل شخص ما فارغة الوفاض.",
 			"Egyptian Arabic Audio": "eca-0854-5.mp3",
 			"Standard Arabic Audio": "msa-0854-5.mp3"
 		},
@@ -61,7 +61,7 @@
 			"English": "I don't even know what Wanda likes.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنا لا أعرف حتى ما يحب واندا.",
 			"Egyptian Arabic Audio": "eca-0854-6.mp3",
 			"Standard Arabic Audio": "msa-0854-6.mp3"
 		},
@@ -71,7 +71,7 @@
 			"English": "You can buy something that everyone at the party will like.",
 			"Word Count": 11,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يمكنك شراء شيء أن الجميع في الحزب سوف ترغب.",
 			"Egyptian Arabic Audio": "eca-0854-7.mp3",
 			"Standard Arabic Audio": "msa-0854-7.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "It's not everyone's party, it's Wanda's party.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انها ليست حزب الجميع، انها حزب واندا.",
 			"Egyptian Arabic Audio": "eca-0854-8.mp3",
 			"Standard Arabic Audio": "msa-0854-8.mp3"
 		},
@@ -91,7 +91,7 @@
 			"English": "I mean you can bring a fruit salad or some wine.",
 			"Word Count": 11,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أعني أنك يمكن أن تجلب سلطة الفاكهة أو بعض النبيذ.",
 			"Egyptian Arabic Audio": "eca-0854-9.mp3",
 			"Standard Arabic Audio": "msa-0854-9.mp3"
 		},
@@ -101,7 +101,7 @@
 			"English": "Not everyone drinks wine though.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ليس الجميع المشروبات النبيذ على الرغم من.",
 			"Egyptian Arabic Audio": "eca-0854-10.mp3",
 			"Standard Arabic Audio": "msa-0854-10.mp3"
 		},
@@ -111,7 +111,7 @@
 			"English": "I'm just giving you suggestions.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنا فقط أعطيك اقتراحات.",
 			"Egyptian Arabic Audio": "eca-0854-11.mp3",
 			"Standard Arabic Audio": "msa-0854-11.mp3"
 		},
@@ -121,7 +121,7 @@
 			"English": "I guess I'd better go back to the mall.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أعتقد أنني أفضل العودة إلى المركز التجاري.",
 			"Egyptian Arabic Audio": "eca-0854-12.mp3",
 			"Standard Arabic Audio": "msa-0854-12.mp3"
 		}

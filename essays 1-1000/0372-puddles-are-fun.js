@@ -9,7 +9,7 @@
 			"English": "He likes the rain.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يحب المطر.",
 			"Egyptian Arabic Audio": "eca-0372-1.mp3",
 			"Standard Arabic Audio": "msa-0372-1.mp3"
 		},
@@ -18,7 +18,7 @@
 			"English": "Rain makes puddles.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "المطر يجعل البرك.",
 			"Egyptian Arabic Audio": "eca-0372-2.mp3",
 			"Standard Arabic Audio": "msa-0372-2.mp3"
 		},
@@ -27,7 +27,7 @@
 			"English": "He likes puddles.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يحب البرك.",
 			"Egyptian Arabic Audio": "eca-0372-3.mp3",
 			"Standard Arabic Audio": "msa-0372-3.mp3"
 		},
@@ -36,7 +36,7 @@
 			"English": "He jumps into puddles.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يقفز إلى البرك.",
 			"Egyptian Arabic Audio": "eca-0372-4.mp3",
 			"Standard Arabic Audio": "msa-0372-4.mp3"
 		},
@@ -45,7 +45,7 @@
 			"English": "He jumps across puddles.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يقفز عبر البرك.",
 			"Egyptian Arabic Audio": "eca-0372-5.mp3",
 			"Standard Arabic Audio": "msa-0372-5.mp3"
 		},
@@ -54,7 +54,7 @@
 			"English": "He slides on his back in puddles.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انه ينزلق على ظهره في البرك.",
 			"Egyptian Arabic Audio": "eca-0372-6.mp3",
 			"Standard Arabic Audio": "msa-0372-6.mp3"
 		},
@@ -63,7 +63,7 @@
 			"English": "He sits in puddles.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يجلس في البرك.",
 			"Egyptian Arabic Audio": "eca-0372-7.mp3",
 			"Standard Arabic Audio": "msa-0372-7.mp3"
 		},
@@ -72,7 +72,7 @@
 			"English": "He gets wet in puddles.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يحصل على الرطب في البرك.",
 			"Egyptian Arabic Audio": "eca-0372-8.mp3",
 			"Standard Arabic Audio": "msa-0372-8.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "His shoes get wet.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "حذائه الحصول على الرطب.",
 			"Egyptian Arabic Audio": "eca-0372-9.mp3",
 			"Standard Arabic Audio": "msa-0372-9.mp3"
 		},
@@ -90,7 +90,7 @@
 			"English": "His clothes get wet.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ملابسه الرطب.",
 			"Egyptian Arabic Audio": "eca-0372-10.mp3",
 			"Standard Arabic Audio": "msa-0372-10.mp3"
 		},
@@ -99,7 +99,7 @@
 			"English": "He gets dirty.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انه يحصل القذرة.",
 			"Egyptian Arabic Audio": "eca-0372-11.mp3",
 			"Standard Arabic Audio": "msa-0372-11.mp3"
 		},
@@ -108,7 +108,7 @@
 			"English": "His clothes get dirty.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ملابسه الحصول على القذرة.",
 			"Egyptian Arabic Audio": "eca-0372-12.mp3",
 			"Standard Arabic Audio": "msa-0372-12.mp3"
 		},
@@ -117,7 +117,7 @@
 			"English": "He goes home.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يذهب الى منزله.",
 			"Egyptian Arabic Audio": "eca-0372-13.mp3",
 			"Standard Arabic Audio": "msa-0372-13.mp3"
 		},
@@ -126,7 +126,7 @@
 			"English": "His mom yells at him.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أمي يصيح في وجهه.",
 			"Egyptian Arabic Audio": "eca-0372-14.mp3",
 			"Standard Arabic Audio": "msa-0372-14.mp3"
 		}

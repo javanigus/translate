@@ -11,7 +11,7 @@
 			"English": "My dad told me he was going to put his second house in my name.",
 			"Word Count": 15,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أخبرني أبي أنه سيضع منزله الثاني في اسمي.",
 			"Egyptian Arabic Audio": "eca-0939-1.mp3",
 			"Standard Arabic Audio": "msa-0939-1.mp3"
 		},
@@ -21,7 +21,7 @@
 			"English": "The one on Bronson Street?",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "واحد على شارع برونسون؟",
 			"Egyptian Arabic Audio": "eca-0939-2.mp3",
 			"Standard Arabic Audio": "msa-0939-2.mp3"
 		},
@@ -31,7 +31,7 @@
 			"English": "Yes, that's the one.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "نعم، هذا هو واحد.",
 			"Egyptian Arabic Audio": "eca-0939-3.mp3",
 			"Standard Arabic Audio": "msa-0939-3.mp3"
 		},
@@ -41,7 +41,7 @@
 			"English": "Wow, that's a nice house.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "نجاح باهر، وهذا منزل لطيف.",
 			"Egyptian Arabic Audio": "eca-0939-4.mp3",
 			"Standard Arabic Audio": "msa-0939-4.mp3"
 		},
@@ -51,7 +51,7 @@
 			"English": "Yes, it is. He wants me to start taking on more responsibilities.",
 			"Word Count": 12,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "نعم إنه كذلك. يريد مني أن أبدأ في تحمل المزيد من المسؤوليات.",
 			"Egyptian Arabic Audio": "eca-0939-5.mp3",
 			"Standard Arabic Audio": "msa-0939-5.mp3"
 		},
@@ -61,7 +61,7 @@
 			"English": "Well, that will do it. It's not easy managing a home.",
 			"Word Count": 11,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "حسنا، من شأنها أن تفعل ذلك. انها ليست سهلة إدارة المنزل.",
 			"Egyptian Arabic Audio": "eca-0939-6.mp3",
 			"Standard Arabic Audio": "msa-0939-6.mp3"
 		},
@@ -71,7 +71,7 @@
 			"English": "I guess not, but I won't be living in it now.",
 			"Word Count": 11,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أعتقد لا، لكنني لن أعيش فيه الآن.",
 			"Egyptian Arabic Audio": "eca-0939-7.mp3",
 			"Standard Arabic Audio": "msa-0939-7.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "So what's he doing?",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "إذن ماذا يفعل؟",
 			"Egyptian Arabic Audio": "eca-0939-8.mp3",
 			"Standard Arabic Audio": "msa-0939-8.mp3"
 		},
@@ -91,7 +91,7 @@
 			"English": "He's just doing a Quit Claim deed.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انه مجرد القيام برفع دعوى المطالبة.",
 			"Egyptian Arabic Audio": "eca-0939-9.mp3",
 			"Standard Arabic Audio": "msa-0939-9.mp3"
 		},
@@ -101,7 +101,7 @@
 			"English": "What's that?",
 			"Word Count": 2,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ما هذا؟",
 			"Egyptian Arabic Audio": "eca-0939-10.mp3",
 			"Standard Arabic Audio": "msa-0939-10.mp3"
 		},
@@ -111,7 +111,7 @@
 			"English": "It's just a deed transfer changing ownership of the home.",
 			"Word Count": 10,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انها مجرد نقل الفعل تغيير ملكية المنزل.",
 			"Egyptian Arabic Audio": "eca-0939-11.mp3",
 			"Standard Arabic Audio": "msa-0939-11.mp3"
 		},
@@ -121,7 +121,7 @@
 			"English": "It's not a sale?",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انها ليست بيع؟",
 			"Egyptian Arabic Audio": "eca-0939-12.mp3",
 			"Standard Arabic Audio": "msa-0939-12.mp3"
 		},
@@ -131,7 +131,7 @@
 			"English": "No. It's usually done between family members.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لا. عادة ما يتم ذلك بين أفراد الأسرة.",
 			"Egyptian Arabic Audio": "eca-0939-13.mp3",
 			"Standard Arabic Audio": "msa-0939-13.mp3"
 		}

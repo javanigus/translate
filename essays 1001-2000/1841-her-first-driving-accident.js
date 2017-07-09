@@ -9,7 +9,7 @@
 			"English": "\"What were you waiting for?\" Colleen demanded.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "&quot;ماذا تنتظرون؟&quot; طالب كولين.",
 			"Egyptian Arabic Audio": "eca-1841-1.mp3",
 			"Standard Arabic Audio": "msa-1841-1.mp3"
 		}

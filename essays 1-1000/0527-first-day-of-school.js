@@ -9,7 +9,7 @@
 			"English": "He goes to class.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يذهب إلى الصف.",
 			"Egyptian Arabic Audio": "eca-0527-1.mp3",
 			"Standard Arabic Audio": "msa-0527-1.mp3"
 		},
@@ -18,7 +18,7 @@
 			"English": "There is an empty seat in front.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هناك مقعد فارغ في الجبهة.",
 			"Egyptian Arabic Audio": "eca-0527-2.mp3",
 			"Standard Arabic Audio": "msa-0527-2.mp3"
 		},
@@ -27,7 +27,7 @@
 			"English": "He sits in the seat.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يجلس في المقعد.",
 			"Egyptian Arabic Audio": "eca-0527-3.mp3",
 			"Standard Arabic Audio": "msa-0527-3.mp3"
 		},
@@ -36,7 +36,7 @@
 			"English": "He looks around.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انه ينظر حولها.",
 			"Egyptian Arabic Audio": "eca-0527-4.mp3",
 			"Standard Arabic Audio": "msa-0527-4.mp3"
 		},
@@ -45,7 +45,7 @@
 			"English": "There are different people.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هناك أشخاص مختلفون.",
 			"Egyptian Arabic Audio": "eca-0527-5.mp3",
 			"Standard Arabic Audio": "msa-0527-5.mp3"
 		},
@@ -54,7 +54,7 @@
 			"English": "He says \"hi\" to the girl next to him.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يقول &quot;مرحبا&quot; إلى الفتاة المجاور له.",
 			"Egyptian Arabic Audio": "eca-0527-6.mp3",
 			"Standard Arabic Audio": "msa-0527-6.mp3"
 		},
@@ -63,7 +63,7 @@
 			"English": "She smiles.",
 			"Word Count": 2,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هي تضحك.",
 			"Egyptian Arabic Audio": "eca-0527-7.mp3",
 			"Standard Arabic Audio": "msa-0527-7.mp3"
 		},
@@ -72,7 +72,7 @@
 			"English": "The teacher comes in.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يأتي المعلم.",
 			"Egyptian Arabic Audio": "eca-0527-8.mp3",
 			"Standard Arabic Audio": "msa-0527-8.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "She closes the door.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "إنها تغلق الباب.",
 			"Egyptian Arabic Audio": "eca-0527-9.mp3",
 			"Standard Arabic Audio": "msa-0527-9.mp3"
 		},
@@ -90,7 +90,7 @@
 			"English": "Everyone is silent.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "الجميع صامت.",
 			"Egyptian Arabic Audio": "eca-0527-10.mp3",
 			"Standard Arabic Audio": "msa-0527-10.mp3"
 		},
@@ -99,7 +99,7 @@
 			"English": "The first day of school begins.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يبدأ اليوم الأول من المدرسة.",
 			"Egyptian Arabic Audio": "eca-0527-11.mp3",
 			"Standard Arabic Audio": "msa-0527-11.mp3"
 		}

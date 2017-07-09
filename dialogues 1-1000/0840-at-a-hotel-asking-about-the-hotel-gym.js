@@ -11,7 +11,7 @@
 			"English": "Is there a gym in this hotel?",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هل هناك صالة ألعاب رياضية في هذا الفندق؟",
 			"Egyptian Arabic Audio": "eca-0840-1.mp3",
 			"Standard Arabic Audio": "msa-0840-1.mp3"
 		},
@@ -21,7 +21,7 @@
 			"English": "Yes, the fitness center is located on the third floor.",
 			"Word Count": 10,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "نعم، يقع مركز اللياقة البدنية في الطابق الثالث.",
 			"Egyptian Arabic Audio": "eca-0840-2.mp3",
 			"Standard Arabic Audio": "msa-0840-2.mp3"
 		},
@@ -31,7 +31,7 @@
 			"English": "Is there a charge for me to use it?",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هل هناك تهمة بالنسبة لي لاستخدامه؟",
 			"Egyptian Arabic Audio": "eca-0840-3.mp3",
 			"Standard Arabic Audio": "msa-0840-3.mp3"
 		},
@@ -41,7 +41,7 @@
 			"English": "No, it's free to all of our guests.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لا، فهو مجاني لجميع ضيوفنا.",
 			"Egyptian Arabic Audio": "eca-0840-4.mp3",
 			"Standard Arabic Audio": "msa-0840-4.mp3"
 		},
@@ -51,7 +51,7 @@
 			"English": "Wonderful! Can I go use it right now?",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "رائع! هل يمكنني استخدامه الآن؟",
 			"Egyptian Arabic Audio": "eca-0840-5.mp3",
 			"Standard Arabic Audio": "msa-0840-5.mp3"
 		},
@@ -61,7 +61,7 @@
 			"English": "Unfortunately, the gym is only open from 5 a.m. to 7 p.m. and it's 10 p.m. now.",
 			"Word Count": 17,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "للأسف، صالة الألعاب الرياضية مفتوحة فقط من 5 صباحا إلى 7 مساء و 10 مساء الآن.",
 			"Egyptian Arabic Audio": "eca-0840-6.mp3",
 			"Standard Arabic Audio": "msa-0840-6.mp3"
 		},
@@ -71,7 +71,7 @@
 			"English": "I guess I'll use it in the morning then.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أعتقد أنني سوف تستخدم في الصباح ثم.",
 			"Egyptian Arabic Audio": "eca-0840-7.mp3",
 			"Standard Arabic Audio": "msa-0840-7.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "Just use your room key card to get in.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "مجرد استخدام بطاقة مفتاح الغرفة الخاصة بك للحصول على.",
 			"Egyptian Arabic Audio": "eca-0840-8.mp3",
 			"Standard Arabic Audio": "msa-0840-8.mp3"
 		},
@@ -91,7 +91,7 @@
 			"English": "Are there weight machines?",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هل هناك آلات الوزن؟",
 			"Egyptian Arabic Audio": "eca-0840-9.mp3",
 			"Standard Arabic Audio": "msa-0840-9.mp3"
 		},
@@ -101,7 +101,7 @@
 			"English": "The gym has weight machines, some treadmills, and some elliptical machines, too.",
 			"Word Count": 12,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "الصالة الرياضية لديها آلات الوزن، وبعض المطاحن، وبعض آلات بيضاوي الشكل، أيضا.",
 			"Egyptian Arabic Audio": "eca-0840-10.mp3",
 			"Standard Arabic Audio": "msa-0840-10.mp3"
 		},
@@ -111,7 +111,7 @@
 			"English": "What about a personal trainer?",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ماذا عن مدرب شخصي؟",
 			"Egyptian Arabic Audio": "eca-0840-11.mp3",
 			"Standard Arabic Audio": "msa-0840-11.mp3"
 		},
@@ -121,7 +121,7 @@
 			"English": "No, there are no personal trainers, just the machines.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لا، لا يوجد المدربين الشخصية، فقط الآلات.",
 			"Egyptian Arabic Audio": "eca-0840-12.mp3",
 			"Standard Arabic Audio": "msa-0840-12.mp3"
 		}

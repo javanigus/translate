@@ -11,7 +11,7 @@
 			"English": "I have to leave class early tomorrow.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لا بد لي من ترك الطبقة في وقت مبكر غدا.",
 			"Egyptian Arabic Audio": "eca-0518-1.mp3",
 			"Standard Arabic Audio": "msa-0518-1.mp3"
 		},
@@ -21,7 +21,7 @@
 			"English": "I don't like that. Just don't come to class.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنا لا أحب ذلك. فقط لا تأتي إلى الصف.",
 			"Egyptian Arabic Audio": "eca-0518-2.mp3",
 			"Standard Arabic Audio": "msa-0518-2.mp3"
 		},
@@ -31,7 +31,7 @@
 			"English": "Don't be like that, Professor! I have to attend my mom's funeral.",
 			"Word Count": 12,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لا يكون مثل ذلك، أستاذ! يجب أن أحضر جنازة أمي.",
 			"Egyptian Arabic Audio": "eca-0518-3.mp3",
 			"Standard Arabic Audio": "msa-0518-3.mp3"
 		},
@@ -41,7 +41,7 @@
 			"English": "I'm sorry for your loss.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "آسف على خسارتك.",
 			"Egyptian Arabic Audio": "eca-0518-4.mp3",
 			"Standard Arabic Audio": "msa-0518-4.mp3"
 		},
@@ -51,7 +51,7 @@
 			"English": "It's okay. I'm going to miss her.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انه بخير. أنا ذاهب لتفوت لها.",
 			"Egyptian Arabic Audio": "eca-0518-5.mp3",
 			"Standard Arabic Audio": "msa-0518-5.mp3"
 		},
@@ -61,7 +61,7 @@
 			"English": "I lost my mom when I was in college, too.",
 			"Word Count": 10,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لقد فقدت أمي عندما كنت في الكلية أيضا.",
 			"Egyptian Arabic Audio": "eca-0518-6.mp3",
 			"Standard Arabic Audio": "msa-0518-6.mp3"
 		},
@@ -71,7 +71,7 @@
 			"English": "Saddest thing ever, right?",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ساد شيء من أي وقت مضى، أليس كذلك؟",
 			"Egyptian Arabic Audio": "eca-0518-7.mp3",
 			"Standard Arabic Audio": "msa-0518-7.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "Yes. You know what? Take a week off school.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "نعم فعلا. أتعلم؟ خذ أسبوعا خارج المدرسة.",
 			"Egyptian Arabic Audio": "eca-0518-8.mp3",
 			"Standard Arabic Audio": "msa-0518-8.mp3"
 		},
@@ -91,7 +91,7 @@
 			"English": "I can't do that. I have too many responsibilities.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لا أستطيع أن أفعل ذلك. لدي الكثير من المسؤوليات.",
 			"Egyptian Arabic Audio": "eca-0518-9.mp3",
 			"Standard Arabic Audio": "msa-0518-9.mp3"
 		},
@@ -101,7 +101,7 @@
 			"English": "Take my advice.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "خذ بنصيحتى.",
 			"Egyptian Arabic Audio": "eca-0518-10.mp3",
 			"Standard Arabic Audio": "msa-0518-10.mp3"
 		},
@@ -111,7 +111,7 @@
 			"English": "I'll think about it.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "سأفكر بشأنه.",
 			"Egyptian Arabic Audio": "eca-0518-11.mp3",
 			"Standard Arabic Audio": "msa-0518-11.mp3"
 		},
@@ -121,7 +121,7 @@
 			"English": "If you ever need to talk, my door is open.",
 			"Word Count": 10,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "إذا كنت بحاجة إلى الحديث، بابي مفتوح.",
 			"Egyptian Arabic Audio": "eca-0518-12.mp3",
 			"Standard Arabic Audio": "msa-0518-12.mp3"
 		}

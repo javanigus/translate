@@ -9,7 +9,7 @@
 			"English": "His brother told him the news.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وأخيه أخاه الأخبار.",
 			"Egyptian Arabic Audio": "eca-1599-1.mp3",
 			"Standard Arabic Audio": "msa-1599-1.mp3"
 		},
@@ -18,7 +18,7 @@
 			"English": "Their dad was on the move again.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وكان والدهم على هذه الخطوة مرة أخرى.",
 			"Egyptian Arabic Audio": "eca-1599-2.mp3",
 			"Standard Arabic Audio": "msa-1599-2.mp3"
 		},
@@ -27,7 +27,7 @@
 			"English": "He had bought a ticket.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وكان قد اشترى تذكرة.",
 			"Egyptian Arabic Audio": "eca-1599-3.mp3",
 			"Standard Arabic Audio": "msa-1599-3.mp3"
 		},
@@ -36,7 +36,7 @@
 			"English": "He was going to visit Ireland.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كان سيزور ايرلندا.",
 			"Egyptian Arabic Audio": "eca-1599-4.mp3",
 			"Standard Arabic Audio": "msa-1599-4.mp3"
 		},
@@ -45,7 +45,7 @@
 			"English": "His flight would leave in August.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وسوف تغادر رحلته في آب \/ أغسطس.",
 			"Egyptian Arabic Audio": "eca-1599-5.mp3",
 			"Standard Arabic Audio": "msa-1599-5.mp3"
 		},
@@ -54,7 +54,7 @@
 			"English": "Their mom wasn't going.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أمهم لم يكن.",
 			"Egyptian Arabic Audio": "eca-1599-6.mp3",
 			"Standard Arabic Audio": "msa-1599-6.mp3"
 		},
@@ -63,7 +63,7 @@
 			"English": "She had gotten sick on their last trip.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كانت مريضة في رحلتها الأخيرة.",
 			"Egyptian Arabic Audio": "eca-1599-7.mp3",
 			"Standard Arabic Audio": "msa-1599-7.mp3"
 		},
@@ -72,7 +72,7 @@
 			"English": "They had traveled to South America.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وقد سافروا إلى أمريكا الجنوبية.",
 			"Egyptian Arabic Audio": "eca-1599-8.mp3",
 			"Standard Arabic Audio": "msa-1599-8.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "She didn't know if it was something she ate or something she drank.",
 			"Word Count": 13,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وقالت إنها لا تعرف ما إذا كان شيء أكلت أو شيء شربت.",
 			"Egyptian Arabic Audio": "eca-1599-9.mp3",
 			"Standard Arabic Audio": "msa-1599-9.mp3"
 		},
@@ -90,7 +90,7 @@
 			"English": "But she was sick for a week.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لكنها كانت مريضة لمدة أسبوع.",
 			"Egyptian Arabic Audio": "eca-1599-10.mp3",
 			"Standard Arabic Audio": "msa-1599-10.mp3"
 		},
@@ -99,7 +99,7 @@
 			"English": "Their trip had lasted two weeks.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "واستغرقت رحلتهم أسبوعين.",
 			"Egyptian Arabic Audio": "eca-1599-11.mp3",
 			"Standard Arabic Audio": "msa-1599-11.mp3"
 		},
@@ -108,7 +108,7 @@
 			"English": "\"That's it,\" she said.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وقالت &quot;هذا كل شيء&quot;.",
 			"Egyptian Arabic Audio": "eca-1599-12.mp3",
 			"Standard Arabic Audio": "msa-1599-12.mp3"
 		},
@@ -117,7 +117,7 @@
 			"English": "\"I'm never leaving home again.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "&quot;أنا لم أترك المنزل مرة أخرى.",
 			"Egyptian Arabic Audio": "eca-1599-13.mp3",
 			"Standard Arabic Audio": "msa-1599-13.mp3"
 		},
@@ -126,7 +126,7 @@
 			"English": "If I'm going to be sick, I want to be sick in my own house.",
 			"Word Count": 15,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "إذا كنت سأكون مريضا، أريد أن أكون مريضا في بيتي.",
 			"Egyptian Arabic Audio": "eca-1599-14.mp3",
 			"Standard Arabic Audio": "msa-1599-14.mp3"
 		},
@@ -135,7 +135,7 @@
 			"English": "\" Dad didn't mind traveling alone.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "&quot;أبي لا تمانع السفر وحدها.",
 			"Egyptian Arabic Audio": "eca-1599-15.mp3",
 			"Standard Arabic Audio": "msa-1599-15.mp3"
 		},
@@ -144,7 +144,7 @@
 			"English": "He made friends easily.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وقال انه جعل الاصدقاء بسهولة.",
 			"Egyptian Arabic Audio": "eca-1599-16.mp3",
 			"Standard Arabic Audio": "msa-1599-16.mp3"
 		},
@@ -153,7 +153,7 @@
 			"English": "He liked to joke.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كان يحب نكتة.",
 			"Egyptian Arabic Audio": "eca-1599-17.mp3",
 			"Standard Arabic Audio": "msa-1599-17.mp3"
 		},
@@ -162,7 +162,7 @@
 			"English": "He liked to dance.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كان يحب الرقص.",
 			"Egyptian Arabic Audio": "eca-1599-18.mp3",
 			"Standard Arabic Audio": "msa-1599-18.mp3"
 		},
@@ -171,7 +171,7 @@
 			"English": "He was a real ladies' man.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كان رجلا حقيقيا للسيدات.",
 			"Egyptian Arabic Audio": "eca-1599-19.mp3",
 			"Standard Arabic Audio": "msa-1599-19.mp3"
 		},
@@ -180,7 +180,7 @@
 			"English": "Mom didn't care.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أمي لم يهتم.",
 			"Egyptian Arabic Audio": "eca-1599-20.mp3",
 			"Standard Arabic Audio": "msa-1599-20.mp3"
 		},
@@ -189,7 +189,7 @@
 			"English": "She wasn't worried that he might cheat on her.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لم تكن قلقة من أنه قد يغش عليها.",
 			"Egyptian Arabic Audio": "eca-1599-21.mp3",
 			"Standard Arabic Audio": "msa-1599-21.mp3"
 		},
@@ -198,7 +198,7 @@
 			"English": "\"He's 82!\" she said.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "&quot;انه 82!&quot; .",
 			"Egyptian Arabic Audio": "eca-1599-22.mp3",
 			"Standard Arabic Audio": "msa-1599-22.mp3"
 		},
@@ -207,7 +207,7 @@
 			"English": "\"If he can cheat at his age, he belongs in the record books.",
 			"Word Count": 13,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "&quot;إذا كان يمكن أن يغش في سنه، وقال انه ينتمي في الكتب القياسية.",
 			"Egyptian Arabic Audio": "eca-1599-23.mp3",
 			"Standard Arabic Audio": "msa-1599-23.mp3"
 		},
@@ -216,7 +216,7 @@
 			"English": "\".",
 			"Word Count": 1,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "&quot;.",
 			"Egyptian Arabic Audio": "eca-1599-24.mp3",
 			"Standard Arabic Audio": "msa-1599-24.mp3"
 		}

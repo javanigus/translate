@@ -11,7 +11,7 @@
 			"English": "Unfortunately, you made a lot of mistakes. I cannot pass you.",
 			"Word Count": 11,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لسوء الحظ، لقد ارتكبت الكثير من الأخطاء. أنا لا يمكن أن تمر لك.",
 			"Egyptian Arabic Audio": "eca-0631-1.mp3",
 			"Standard Arabic Audio": "msa-0631-1.mp3"
 		},
@@ -21,7 +21,7 @@
 			"English": "What mistakes did I make?",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ما هي الأخطاء التي ارتكبتها؟",
 			"Egyptian Arabic Audio": "eca-0631-2.mp3",
 			"Standard Arabic Audio": "msa-0631-2.mp3"
 		},
@@ -31,7 +31,7 @@
 			"English": "You failed to put your turn signals when turning a corner.",
 			"Word Count": 11,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "فشلت في وضع إشارات دورك عند تحويل الزاوية.",
 			"Egyptian Arabic Audio": "eca-0631-3.mp3",
 			"Standard Arabic Audio": "msa-0631-3.mp3"
 		},
@@ -41,7 +41,7 @@
 			"English": "How many mistakes am I allowed?",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كم عدد الأخطاء المسموح بها؟",
 			"Egyptian Arabic Audio": "eca-0631-4.mp3",
 			"Standard Arabic Audio": "msa-0631-4.mp3"
 		},
@@ -51,7 +51,7 @@
 			"English": "You are allowed three mistakes. You got five.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يسمح لك ثلاثة أخطاء. لقد حصلت على خمسة.",
 			"Egyptian Arabic Audio": "eca-0631-5.mp3",
 			"Standard Arabic Audio": "msa-0631-5.mp3"
 		},
@@ -61,7 +61,7 @@
 			"English": "Which other mistakes did I make?",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ما هي الأخطاء الأخرى التي قمت بها؟",
 			"Egyptian Arabic Audio": "eca-0631-6.mp3",
 			"Standard Arabic Audio": "msa-0631-6.mp3"
 		},
@@ -71,7 +71,7 @@
 			"English": "You hit the curb when you were parallel parking.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كنت ضرب كبح عندما كنت موازية وقوف السيارات.",
 			"Egyptian Arabic Audio": "eca-0631-7.mp3",
 			"Standard Arabic Audio": "msa-0631-7.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "I thought you might have missed that.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "اعتقدت أنك قد غاب عن ذلك.",
 			"Egyptian Arabic Audio": "eca-0631-8.mp3",
 			"Standard Arabic Audio": "msa-0631-8.mp3"
 		},
@@ -91,7 +91,7 @@
 			"English": "No, you also didn't pay attention to some of the signs.",
 			"Word Count": 11,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لا، أنت أيضا لا تولي اهتماما لبعض العلامات.",
 			"Egyptian Arabic Audio": "eca-0631-9.mp3",
 			"Standard Arabic Audio": "msa-0631-9.mp3"
 		},
@@ -101,7 +101,7 @@
 			"English": "Which signs are you talking about?",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ما هي العلامات التي تتحدث عنها؟",
 			"Egyptian Arabic Audio": "eca-0631-10.mp3",
 			"Standard Arabic Audio": "msa-0631-10.mp3"
 		},
@@ -111,7 +111,7 @@
 			"English": "You passed a yield sign, and you did not yield.",
 			"Word Count": 10,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لقد اجتازت علامة عائد، ولم تسفر.",
 			"Egyptian Arabic Audio": "eca-0631-11.mp3",
 			"Standard Arabic Audio": "msa-0631-11.mp3"
 		},
@@ -121,7 +121,7 @@
 			"English": "Can I take the test again?",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هل يمكنني إجراء الاختبار مرة أخرى؟",
 			"Egyptian Arabic Audio": "eca-0631-12.mp3",
 			"Standard Arabic Audio": "msa-0631-12.mp3"
 		},
@@ -131,7 +131,7 @@
 			"English": "You can take it again on Monday.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يمكنك أن تأخذ مرة أخرى يوم الاثنين.",
 			"Egyptian Arabic Audio": "eca-0631-13.mp3",
 			"Standard Arabic Audio": "msa-0631-13.mp3"
 		}

@@ -11,7 +11,7 @@
 			"English": "Let's play cards.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "دعونا لعب الورق.",
 			"Egyptian Arabic Audio": "eca-0326-1.mp3",
 			"Standard Arabic Audio": "msa-0326-1.mp3"
 		},
@@ -21,7 +21,7 @@
 			"English": "I don't know any card games.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنا لا أعرف أي ألعاب بطاقة.",
 			"Egyptian Arabic Audio": "eca-0326-2.mp3",
 			"Standard Arabic Audio": "msa-0326-2.mp3"
 		},
@@ -31,7 +31,7 @@
 			"English": "I'll teach you one.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنا سوف يعلمك واحد.",
 			"Egyptian Arabic Audio": "eca-0326-3.mp3",
 			"Standard Arabic Audio": "msa-0326-3.mp3"
 		},
@@ -41,7 +41,7 @@
 			"English": "Okay. What will you teach me?",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "حسنا. ماذا ستعلمني؟",
 			"Egyptian Arabic Audio": "eca-0326-4.mp3",
 			"Standard Arabic Audio": "msa-0326-4.mp3"
 		},
@@ -51,7 +51,7 @@
 			"English": "It's called poker.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انها تسمى لعبة البوكر.",
 			"Egyptian Arabic Audio": "eca-0326-5.mp3",
 			"Standard Arabic Audio": "msa-0326-5.mp3"
 		},
@@ -61,7 +61,7 @@
 			"English": "Is it easy to learn?",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هل من السهل تعلم؟",
 			"Egyptian Arabic Audio": "eca-0326-6.mp3",
 			"Standard Arabic Audio": "msa-0326-6.mp3"
 		},
@@ -71,7 +71,7 @@
 			"English": "Yes, it will only take about 30 minutes.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "نعم، وسوف يستغرق سوى حوالي 30 دقيقة.",
 			"Egyptian Arabic Audio": "eca-0326-7.mp3",
 			"Standard Arabic Audio": "msa-0326-7.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "Okay. Teach me how to play.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "حسنا. علمني كيف ألعب.",
 			"Egyptian Arabic Audio": "eca-0326-8.mp3",
 			"Standard Arabic Audio": "msa-0326-8.mp3"
 		},
@@ -91,7 +91,7 @@
 			"English": "We each get five cards.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "نحن كل الحصول على خمس بطاقات.",
 			"Egyptian Arabic Audio": "eca-0326-9.mp3",
 			"Standard Arabic Audio": "msa-0326-9.mp3"
 		},
@@ -101,7 +101,7 @@
 			"English": "Oh, look. I have four tens.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انظر. لدي أربعة عشرات.",
 			"Egyptian Arabic Audio": "eca-0326-10.mp3",
 			"Standard Arabic Audio": "msa-0326-10.mp3"
 		},
@@ -111,7 +111,7 @@
 			"English": "That's great, but you're not supposed to tell me.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هذا شيء عظيم، ولكن ليس من المفترض أن تخبرني.",
 			"Egyptian Arabic Audio": "eca-0326-11.mp3",
 			"Standard Arabic Audio": "msa-0326-11.mp3"
 		},
@@ -121,7 +121,7 @@
 			"English": "Oh. Sorry. Okay, I don't have four tens.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يا. معذرة. حسنا، ليس لدي أربعة عشرات.",
 			"Egyptian Arabic Audio": "eca-0326-12.mp3",
 			"Standard Arabic Audio": "msa-0326-12.mp3"
 		}

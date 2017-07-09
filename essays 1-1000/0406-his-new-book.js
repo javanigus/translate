@@ -9,7 +9,7 @@
 			"English": "Louis got a new book.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "حصل لويس على كتاب جديد.",
 			"Egyptian Arabic Audio": "eca-0406-1.mp3",
 			"Standard Arabic Audio": "msa-0406-1.mp3"
 		},
@@ -18,7 +18,7 @@
 			"English": "The book was about animals.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وكان الكتاب عن الحيوانات.",
 			"Egyptian Arabic Audio": "eca-0406-2.mp3",
 			"Standard Arabic Audio": "msa-0406-2.mp3"
 		},
@@ -27,7 +27,7 @@
 			"English": "Louis loved animals.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أحب لويس الحيوانات.",
 			"Egyptian Arabic Audio": "eca-0406-3.mp3",
 			"Standard Arabic Audio": "msa-0406-3.mp3"
 		},
@@ -36,7 +36,7 @@
 			"English": "The book had lots of pictures.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كان الكتاب الكثير من الصور.",
 			"Egyptian Arabic Audio": "eca-0406-4.mp3",
 			"Standard Arabic Audio": "msa-0406-4.mp3"
 		},
@@ -45,7 +45,7 @@
 			"English": "It had pictures of dogs and cats.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كان لديه صور الكلاب والقطط.",
 			"Egyptian Arabic Audio": "eca-0406-5.mp3",
 			"Standard Arabic Audio": "msa-0406-5.mp3"
 		},
@@ -54,7 +54,7 @@
 			"English": "It had pictures of cows and pigs.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كان لديه صور الأبقار والخنازير.",
 			"Egyptian Arabic Audio": "eca-0406-6.mp3",
 			"Standard Arabic Audio": "msa-0406-6.mp3"
 		},
@@ -63,7 +63,7 @@
 			"English": "It had pictures of chickens and rabbits.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كان لديه صور من الدجاج والأرانب.",
 			"Egyptian Arabic Audio": "eca-0406-7.mp3",
 			"Standard Arabic Audio": "msa-0406-7.mp3"
 		},
@@ -72,7 +72,7 @@
 			"English": "It had pictures of squirrels and birds.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كان لديه صور السناجب والطيور.",
 			"Egyptian Arabic Audio": "eca-0406-8.mp3",
 			"Standard Arabic Audio": "msa-0406-8.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "Louis looked at the pictures on the first page.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "نظر لويس إلى الصور في الصفحة الأولى.",
 			"Egyptian Arabic Audio": "eca-0406-9.mp3",
 			"Standard Arabic Audio": "msa-0406-9.mp3"
 		},
@@ -90,7 +90,7 @@
 			"English": "Then he turned the page.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ثم حول الصفحة.",
 			"Egyptian Arabic Audio": "eca-0406-10.mp3",
 			"Standard Arabic Audio": "msa-0406-10.mp3"
 		},
@@ -99,7 +99,7 @@
 			"English": "He looked at the pictures on the second page.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "نظر إلى الصور في الصفحة الثانية.",
 			"Egyptian Arabic Audio": "eca-0406-11.mp3",
 			"Standard Arabic Audio": "msa-0406-11.mp3"
 		},
@@ -108,7 +108,7 @@
 			"English": "Then he turned the page again.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ثم شغل الصفحة مرة أخرى.",
 			"Egyptian Arabic Audio": "eca-0406-12.mp3",
 			"Standard Arabic Audio": "msa-0406-12.mp3"
 		},
@@ -117,7 +117,7 @@
 			"English": "The book had 30 pages in it.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وكان الكتاب 30 صفحة في ذلك.",
 			"Egyptian Arabic Audio": "eca-0406-13.mp3",
 			"Standard Arabic Audio": "msa-0406-13.mp3"
 		},
@@ -126,7 +126,7 @@
 			"English": "Louis looked at all the pictures on all the pages.",
 			"Word Count": 10,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "نظر لويس في جميع الصور على جميع الصفحات.",
 			"Egyptian Arabic Audio": "eca-0406-14.mp3",
 			"Standard Arabic Audio": "msa-0406-14.mp3"
 		}

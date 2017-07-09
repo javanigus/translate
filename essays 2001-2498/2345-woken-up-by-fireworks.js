@@ -9,7 +9,7 @@
 			"English": "Betty tried to go back to sleep, but the loud booms and crackles kept going.",
 			"Word Count": 15,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "حاول بيتي العودة إلى النوم، ولكن الازدهار الصاخبة والشقوق لا تزال مستمرة.",
 			"Egyptian Arabic Audio": "eca-2345-1.mp3",
 			"Standard Arabic Audio": "msa-2345-1.mp3"
 		},
@@ -18,7 +18,7 @@
 			"English": "She decided to get a glass of water and go out into the yard to see the fireworks.",
 			"Word Count": 18,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وقررت الحصول على كوب من الماء والخروج إلى الفناء لرؤية الألعاب النارية.",
 			"Egyptian Arabic Audio": "eca-2345-2.mp3",
 			"Standard Arabic Audio": "msa-2345-2.mp3"
 		}

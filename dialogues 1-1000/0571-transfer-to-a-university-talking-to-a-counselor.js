@@ -11,7 +11,7 @@
 			"English": "I want to transfer, but I don't know where to start.",
 			"Word Count": 11,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أريد نقل، ولكن أنا لا أعرف من أين تبدأ.",
 			"Egyptian Arabic Audio": "eca-0571-1.mp3",
 			"Standard Arabic Audio": "msa-0571-1.mp3"
 		},
@@ -21,7 +21,7 @@
 			"English": "Let's start with the basics. What do you want to major in?",
 			"Word Count": 12,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هيا لنبدأ مع الأساسيات. ماذا تريد أن تخصص في؟",
 			"Egyptian Arabic Audio": "eca-0571-2.mp3",
 			"Standard Arabic Audio": "msa-0571-2.mp3"
 		},
@@ -31,7 +31,7 @@
 			"English": "I want to major in biology.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أريد أن تخصص في علم الأحياء.",
 			"Egyptian Arabic Audio": "eca-0571-3.mp3",
 			"Standard Arabic Audio": "msa-0571-3.mp3"
 		},
@@ -41,7 +41,7 @@
 			"English": "Then you have to take general education requirements like everyone else.",
 			"Word Count": 11,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ثم عليك أن تأخذ متطلبات التعليم العام مثل أي شخص آخر.",
 			"Egyptian Arabic Audio": "eca-0571-4.mp3",
 			"Standard Arabic Audio": "msa-0571-4.mp3"
 		},
@@ -51,7 +51,7 @@
 			"English": "What are those requirements exactly?",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ما هي تلك المتطلبات بالضبط؟",
 			"Egyptian Arabic Audio": "eca-0571-5.mp3",
 			"Standard Arabic Audio": "msa-0571-5.mp3"
 		},
@@ -61,7 +61,7 @@
 			"English": "I'll give you a sheet listing all of them.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "سأعطيك ورقة سرد كل منهم.",
 			"Egyptian Arabic Audio": "eca-0571-6.mp3",
 			"Standard Arabic Audio": "msa-0571-6.mp3"
 		},
@@ -71,7 +71,7 @@
 			"English": "What else do I have to do?",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ماذا يجب أن أفعل؟",
 			"Egyptian Arabic Audio": "eca-0571-7.mp3",
 			"Standard Arabic Audio": "msa-0571-7.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "You should fulfill some, if not all, of your major requirements.",
 			"Word Count": 11,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يجب عليك الوفاء ببعض، إن لم يكن كل، من المتطلبات الرئيسية الخاصة بك.",
 			"Egyptian Arabic Audio": "eca-0571-8.mp3",
 			"Standard Arabic Audio": "msa-0571-8.mp3"
 		},
@@ -91,7 +91,7 @@
 			"English": "Okay, about when will I finish?",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "حسنا، متى سأنتهي؟",
 			"Egyptian Arabic Audio": "eca-0571-9.mp3",
 			"Standard Arabic Audio": "msa-0571-9.mp3"
 		},
@@ -101,7 +101,7 @@
 			"English": "It really depends on how many classes you take and complete per semester.",
 			"Word Count": 13,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ذلك يعتمد حقا على كيفية العديد من الطبقات التي تأخذ وتكمل في الفصل الدراسي.",
 			"Egyptian Arabic Audio": "eca-0571-10.mp3",
 			"Standard Arabic Audio": "msa-0571-10.mp3"
 		},
@@ -111,7 +111,7 @@
 			"English": "I'm planning on taking five classes per semester.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنا أخطط لاتخاذ خمس فئات في الفصل الدراسي.",
 			"Egyptian Arabic Audio": "eca-0571-11.mp3",
 			"Standard Arabic Audio": "msa-0571-11.mp3"
 		},
@@ -121,7 +121,7 @@
 			"English": "That's good! You'll be ready to transfer in about two years.",
 			"Word Count": 11,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ذلك جيد! سوف تكون على استعداد لنقل في حوالي عامين.",
 			"Egyptian Arabic Audio": "eca-0571-12.mp3",
 			"Standard Arabic Audio": "msa-0571-12.mp3"
 		}

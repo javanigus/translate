@@ -11,7 +11,7 @@
 			"English": "My husband died.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "توفي زوجي.",
 			"Egyptian Arabic Audio": "eca-0260-1.mp3",
 			"Standard Arabic Audio": "msa-0260-1.mp3"
 		},
@@ -21,7 +21,7 @@
 			"English": "I'm sorry for you.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انا اسف لاجلك.",
 			"Egyptian Arabic Audio": "eca-0260-2.mp3",
 			"Standard Arabic Audio": "msa-0260-2.mp3"
 		},
@@ -31,7 +31,7 @@
 			"English": "Thank you.",
 			"Word Count": 2,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "شكرا.",
 			"Egyptian Arabic Audio": "eca-0260-3.mp3",
 			"Standard Arabic Audio": "msa-0260-3.mp3"
 		},
@@ -41,7 +41,7 @@
 			"English": "When did he die?",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "متى توفي؟",
 			"Egyptian Arabic Audio": "eca-0260-4.mp3",
 			"Standard Arabic Audio": "msa-0260-4.mp3"
 		},
@@ -51,7 +51,7 @@
 			"English": "A couple of months ago.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "منذ شهرين.",
 			"Egyptian Arabic Audio": "eca-0260-5.mp3",
 			"Standard Arabic Audio": "msa-0260-5.mp3"
 		},
@@ -61,7 +61,7 @@
 			"English": "You still miss him.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كنت لا تزال تفوت له.",
 			"Egyptian Arabic Audio": "eca-0260-6.mp3",
 			"Standard Arabic Audio": "msa-0260-6.mp3"
 		},
@@ -71,7 +71,7 @@
 			"English": "Yes, but I talk to him almost every day.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "نعم، لكنني أتحدث معه كل يوم تقريبا.",
 			"Egyptian Arabic Audio": "eca-0260-7.mp3",
 			"Standard Arabic Audio": "msa-0260-7.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "When you go to church?",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "عندما تذهب إلى الكنيسة؟",
 			"Egyptian Arabic Audio": "eca-0260-8.mp3",
 			"Standard Arabic Audio": "msa-0260-8.mp3"
 		},
@@ -91,7 +91,7 @@
 			"English": "No, when I call him on his cell phone.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لا، عندما أدعوه على هاتفه الخلوي.",
 			"Egyptian Arabic Audio": "eca-0260-9.mp3",
 			"Standard Arabic Audio": "msa-0260-9.mp3"
 		},
@@ -101,7 +101,7 @@
 			"English": "What do you mean?",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ماذا تعني؟",
 			"Egyptian Arabic Audio": "eca-0260-10.mp3",
 			"Standard Arabic Audio": "msa-0260-10.mp3"
 		},
@@ -111,7 +111,7 @@
 			"English": "I buried him with his cell phone.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "دفنته مع هاتفه الخلوي.",
 			"Egyptian Arabic Audio": "eca-0260-11.mp3",
 			"Standard Arabic Audio": "msa-0260-11.mp3"
 		},
@@ -121,7 +121,7 @@
 			"English": "What will you do when the battery dies?",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ماذا ستفعل عندما تموت البطارية؟",
 			"Egyptian Arabic Audio": "eca-0260-12.mp3",
 			"Standard Arabic Audio": "msa-0260-12.mp3"
 		}

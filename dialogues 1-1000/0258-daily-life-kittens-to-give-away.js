@@ -11,7 +11,7 @@
 			"English": "Look at all these kittens!",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ننظر في كل هذه القطط!",
 			"Egyptian Arabic Audio": "eca-0258-1.mp3",
 			"Standard Arabic Audio": "msa-0258-1.mp3"
 		},
@@ -21,7 +21,7 @@
 			"English": "How many are there?",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كم يوجد هناك؟",
 			"Egyptian Arabic Audio": "eca-0258-2.mp3",
 			"Standard Arabic Audio": "msa-0258-2.mp3"
 		},
@@ -31,7 +31,7 @@
 			"English": "Eight.",
 			"Word Count": 1,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ثمانية.",
 			"Egyptian Arabic Audio": "eca-0258-3.mp3",
 			"Standard Arabic Audio": "msa-0258-3.mp3"
 		},
@@ -41,7 +41,7 @@
 			"English": "They're all so cute.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انهم جميعا لطيف جدا.",
 			"Egyptian Arabic Audio": "eca-0258-4.mp3",
 			"Standard Arabic Audio": "msa-0258-4.mp3"
 		},
@@ -51,7 +51,7 @@
 			"English": "Yes, but I can't keep them.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "نعم، ولكن لا يمكنني الاحتفاظ بها.",
 			"Egyptian Arabic Audio": "eca-0258-5.mp3",
 			"Standard Arabic Audio": "msa-0258-5.mp3"
 		},
@@ -61,7 +61,7 @@
 			"English": "What are you going to do with them?",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ماذا ستفعل بها؟",
 			"Egyptian Arabic Audio": "eca-0258-6.mp3",
 			"Standard Arabic Audio": "msa-0258-6.mp3"
 		},
@@ -71,7 +71,7 @@
 			"English": "I'm going to give them away. Do you want one?",
 			"Word Count": 10,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنا ذاهب لإعطائهم بعيدا. هل تريد واحدة؟",
 			"Egyptian Arabic Audio": "eca-0258-7.mp3",
 			"Standard Arabic Audio": "msa-0258-7.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "Yes, I would love one.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "نعم، أحب واحدة.",
 			"Egyptian Arabic Audio": "eca-0258-8.mp3",
 			"Standard Arabic Audio": "msa-0258-8.mp3"
 		},
@@ -91,7 +91,7 @@
 			"English": "Which one do you want?",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أي واحدة تريد؟",
 			"Egyptian Arabic Audio": "eca-0258-9.mp3",
 			"Standard Arabic Audio": "msa-0258-9.mp3"
 		},
@@ -101,7 +101,7 @@
 			"English": "That one. The one that's all black.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هذا. واحد كل شيء أسود.",
 			"Egyptian Arabic Audio": "eca-0258-10.mp3",
 			"Standard Arabic Audio": "msa-0258-10.mp3"
 		},
@@ -111,7 +111,7 @@
 			"English": "Yes, I like that one, too.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "نعم، أنا أحب ذلك أيضا.",
 			"Egyptian Arabic Audio": "eca-0258-11.mp3",
 			"Standard Arabic Audio": "msa-0258-11.mp3"
 		},
@@ -121,7 +121,7 @@
 			"English": "I'll call him Blacky.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "سأتصل به بلاكي.",
 			"Egyptian Arabic Audio": "eca-0258-12.mp3",
 			"Standard Arabic Audio": "msa-0258-12.mp3"
 		}

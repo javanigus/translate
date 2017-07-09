@@ -11,7 +11,7 @@
 			"English": "Before this interview starts, any questions?",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "قبل بدء هذه المقابلة، أي أسئلة؟",
 			"Egyptian Arabic Audio": "eca-0029-1.mp3",
 			"Standard Arabic Audio": "msa-0029-1.mp3"
 		},
@@ -21,7 +21,7 @@
 			"English": "Nope, I am ready to go.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لا، أنا على استعداد للذهاب.",
 			"Egyptian Arabic Audio": "eca-0029-2.mp3",
 			"Standard Arabic Audio": "msa-0029-2.mp3"
 		},
@@ -31,7 +31,7 @@
 			"English": "Okay, great. Tell me about yourself.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "حسنا عظيم. حدثني عن نفسك.",
 			"Egyptian Arabic Audio": "eca-0029-3.mp3",
 			"Standard Arabic Audio": "msa-0029-3.mp3"
 		},
@@ -41,7 +41,7 @@
 			"English": "I'm 35 years old with a degree in teaching.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنا 35 عاما مع درجة في التدريس.",
 			"Egyptian Arabic Audio": "eca-0029-4.mp3",
 			"Standard Arabic Audio": "msa-0029-4.mp3"
 		},
@@ -51,7 +51,7 @@
 			"English": "Why do you want to become a teacher?",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لماذا تريد أن تصبح معلما؟",
 			"Egyptian Arabic Audio": "eca-0029-5.mp3",
 			"Standard Arabic Audio": "msa-0029-5.mp3"
 		},
@@ -61,7 +61,7 @@
 			"English": "I want to improve students' futures.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أريد تحسين مستقبل الطلاب.",
 			"Egyptian Arabic Audio": "eca-0029-6.mp3",
 			"Standard Arabic Audio": "msa-0029-6.mp3"
 		},
@@ -71,7 +71,7 @@
 			"English": "What subject would you like to teach?",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ما الموضوع الذي ترغب في تدريسه؟",
 			"Egyptian Arabic Audio": "eca-0029-7.mp3",
 			"Standard Arabic Audio": "msa-0029-7.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "I would love to teach science. I was a science teacher once.",
 			"Word Count": 12,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أحب تعليم العلم. كنت مدرس العلوم مرة واحدة.",
 			"Egyptian Arabic Audio": "eca-0029-8.mp3",
 			"Standard Arabic Audio": "msa-0029-8.mp3"
 		},
@@ -91,7 +91,7 @@
 			"English": "Interesting! What made you change jobs?",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "مثير للإعجاب! ما الذي جعلك تغير الوظائف؟",
 			"Egyptian Arabic Audio": "eca-0029-9.mp3",
 			"Standard Arabic Audio": "msa-0029-9.mp3"
 		},
@@ -101,7 +101,7 @@
 			"English": "Scientists don't really interact with kids.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "العلماء لا تتفاعل حقا مع الأطفال.",
 			"Egyptian Arabic Audio": "eca-0029-10.mp3",
 			"Standard Arabic Audio": "msa-0029-10.mp3"
 		},
@@ -111,7 +111,7 @@
 			"English": "True! I'll call you back if I decide to hire you.",
 			"Word Count": 11,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "صحيح! سأتصل بك مرة أخرى إذا قررت استئجار لك.",
 			"Egyptian Arabic Audio": "eca-0029-11.mp3",
 			"Standard Arabic Audio": "msa-0029-11.mp3"
 		},
@@ -121,7 +121,7 @@
 			"English": "Thanks. I hope to hear from you soon.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "شكر. آمل أن أسمع منك قريبا.",
 			"Egyptian Arabic Audio": "eca-0029-12.mp3",
 			"Standard Arabic Audio": "msa-0029-12.mp3"
 		}

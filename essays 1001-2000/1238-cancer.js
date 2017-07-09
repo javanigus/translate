@@ -9,7 +9,7 @@
 			"English": "Paula has cancer.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "بولا لديه سرطان.",
 			"Egyptian Arabic Audio": "eca-1238-1.mp3",
 			"Standard Arabic Audio": "msa-1238-1.mp3"
 		},
@@ -18,7 +18,7 @@
 			"English": "She has six months to live.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لديها ستة أشهر للعيش.",
 			"Egyptian Arabic Audio": "eca-1238-2.mp3",
 			"Standard Arabic Audio": "msa-1238-2.mp3"
 		},
@@ -27,7 +27,7 @@
 			"English": "Her doctors cannot help her.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لا يمكن لأطباءها مساعدتها.",
 			"Egyptian Arabic Audio": "eca-1238-3.mp3",
 			"Standard Arabic Audio": "msa-1238-3.mp3"
 		},
@@ -36,7 +36,7 @@
 			"English": "No one can help her.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لا أحد يستطيع مساعدتها.",
 			"Egyptian Arabic Audio": "eca-1238-4.mp3",
 			"Standard Arabic Audio": "msa-1238-4.mp3"
 		},
@@ -45,7 +45,7 @@
 			"English": "She smoked cigarettes for 30 years.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "تدخن السجائر لمدة 30 عاما.",
 			"Egyptian Arabic Audio": "eca-1238-5.mp3",
 			"Standard Arabic Audio": "msa-1238-5.mp3"
 		},
@@ -54,7 +54,7 @@
 			"English": "She did not want to stop smoking cigarettes.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لم ترغب في التوقف عن تدخين السجائر.",
 			"Egyptian Arabic Audio": "eca-1238-6.mp3",
 			"Standard Arabic Audio": "msa-1238-6.mp3"
 		},
@@ -63,7 +63,7 @@
 			"English": "She liked to smoke cigarettes.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أحببت أن تدخن السجائر.",
 			"Egyptian Arabic Audio": "eca-1238-7.mp3",
 			"Standard Arabic Audio": "msa-1238-7.mp3"
 		},
@@ -72,7 +72,7 @@
 			"English": "The doctors told her to stop smoking many years ago.",
 			"Word Count": 10,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "قال لها الأطباء لوقف التدخين منذ سنوات عديدة.",
 			"Egyptian Arabic Audio": "eca-1238-8.mp3",
 			"Standard Arabic Audio": "msa-1238-8.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "She didn't listen to them.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لم تستمع إليهم.",
 			"Egyptian Arabic Audio": "eca-1238-9.mp3",
 			"Standard Arabic Audio": "msa-1238-9.mp3"
 		},
@@ -90,7 +90,7 @@
 			"English": "She didn't listen to her parents.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لم تستمع إلى والديها.",
 			"Egyptian Arabic Audio": "eca-1238-10.mp3",
 			"Standard Arabic Audio": "msa-1238-10.mp3"
 		},
@@ -99,7 +99,7 @@
 			"English": "She didn't listen to her children.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لم تستمع لأطفالها.",
 			"Egyptian Arabic Audio": "eca-1238-11.mp3",
 			"Standard Arabic Audio": "msa-1238-11.mp3"
 		},
@@ -108,7 +108,7 @@
 			"English": "She didn't listen to her friends.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لم تستمع إلى أصدقائها.",
 			"Egyptian Arabic Audio": "eca-1238-12.mp3",
 			"Standard Arabic Audio": "msa-1238-12.mp3"
 		},
@@ -117,7 +117,7 @@
 			"English": "Everyone told her to stop smoking.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أخبرها الجميع بالتوقف عن التدخين.",
 			"Egyptian Arabic Audio": "eca-1238-13.mp3",
 			"Standard Arabic Audio": "msa-1238-13.mp3"
 		},
@@ -126,7 +126,7 @@
 			"English": "She told everyone to stop worrying about her.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وقالت للجميع لوقف القلق حول لها.",
 			"Egyptian Arabic Audio": "eca-1238-14.mp3",
 			"Standard Arabic Audio": "msa-1238-14.mp3"
 		},
@@ -135,7 +135,7 @@
 			"English": "She would be fine, she told them.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وقالت إنها سوف تكون على ما يرام، وقالت لهم.",
 			"Egyptian Arabic Audio": "eca-1238-15.mp3",
 			"Standard Arabic Audio": "msa-1238-15.mp3"
 		},
@@ -144,7 +144,7 @@
 			"English": "She still smokes every day.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وقالت انها لا تزال تدخن كل يوم.",
 			"Egyptian Arabic Audio": "eca-1238-16.mp3",
 			"Standard Arabic Audio": "msa-1238-16.mp3"
 		},
@@ -153,7 +153,7 @@
 			"English": "Why not, she asks.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لماذا لا، تسأل.",
 			"Egyptian Arabic Audio": "eca-1238-17.mp3",
 			"Standard Arabic Audio": "msa-1238-17.mp3"
 		}

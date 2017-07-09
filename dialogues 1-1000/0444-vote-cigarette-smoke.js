@@ -11,7 +11,7 @@
 			"English": "Do you smell that?",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هل رائحة ذلك؟",
 			"Egyptian Arabic Audio": "eca-0444-1.mp3",
 			"Standard Arabic Audio": "msa-0444-1.mp3"
 		},
@@ -21,7 +21,7 @@
 			"English": "Oh, yes.",
 			"Word Count": 2,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "نعم بالتأكيد.",
 			"Egyptian Arabic Audio": "eca-0444-2.mp3",
 			"Standard Arabic Audio": "msa-0444-2.mp3"
 		},
@@ -31,7 +31,7 @@
 			"English": "I can't stand cigarette smoke.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لا أستطيع الوقوف على دخان السجائر.",
 			"Egyptian Arabic Audio": "eca-0444-3.mp3",
 			"Standard Arabic Audio": "msa-0444-3.mp3"
 		},
@@ -41,7 +41,7 @@
 			"English": "It smells so bad.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انها رائحة سيئة للغاية.",
 			"Egyptian Arabic Audio": "eca-0444-4.mp3",
 			"Standard Arabic Audio": "msa-0444-4.mp3"
 		},
@@ -51,7 +51,7 @@
 			"English": "One cigarette stinks up the whole sidewalk.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "واحدة السيجارة ينتنق الرصيف كله.",
 			"Egyptian Arabic Audio": "eca-0444-5.mp3",
 			"Standard Arabic Audio": "msa-0444-5.mp3"
 		},
@@ -61,7 +61,7 @@
 			"English": "Smokers think they are so cool.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "المدخنين يعتقدون أنها باردة جدا.",
 			"Egyptian Arabic Audio": "eca-0444-6.mp3",
 			"Standard Arabic Audio": "msa-0444-6.mp3"
 		},
@@ -71,7 +71,7 @@
 			"English": "They are so weak.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "فهي ضعيفة جدا.",
 			"Egyptian Arabic Audio": "eca-0444-7.mp3",
 			"Standard Arabic Audio": "msa-0444-7.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "A little cigarette controls them.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "قليلا سيجارة تسيطر عليها.",
 			"Egyptian Arabic Audio": "eca-0444-8.mp3",
 			"Standard Arabic Audio": "msa-0444-8.mp3"
 		},
@@ -91,7 +91,7 @@
 			"English": "They look so stupid taking a puff.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنها تبدو غبية جدا أخذ نفخة.",
 			"Egyptian Arabic Audio": "eca-0444-9.mp3",
 			"Standard Arabic Audio": "msa-0444-9.mp3"
 		},
@@ -101,7 +101,7 @@
 			"English": "And then they blow smoke out of their mouth.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ثم يهبون الدخان من فمهم.",
 			"Egyptian Arabic Audio": "eca-0444-10.mp3",
 			"Standard Arabic Audio": "msa-0444-10.mp3"
 		},
@@ -111,7 +111,7 @@
 			"English": "They think it's cool.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انهم يعتقدون انها باردة.",
 			"Egyptian Arabic Audio": "eca-0444-11.mp3",
 			"Standard Arabic Audio": "msa-0444-11.mp3"
 		},
@@ -121,7 +121,7 @@
 			"English": "Cigarettes stink.",
 			"Word Count": 2,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "السجائر نتن.",
 			"Egyptian Arabic Audio": "eca-0444-12.mp3",
 			"Standard Arabic Audio": "msa-0444-12.mp3"
 		}

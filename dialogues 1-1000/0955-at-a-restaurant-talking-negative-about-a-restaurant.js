@@ -11,7 +11,7 @@
 			"English": "I just came back from eating at the new steak place.",
 			"Word Count": 11,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لقد عدت للتو من تناول الطعام في مكان شريحة اللحم الجديد.",
 			"Egyptian Arabic Audio": "eca-0955-1.mp3",
 			"Standard Arabic Audio": "msa-0955-1.mp3"
 		},
@@ -21,7 +21,7 @@
 			"English": "Oh, I've been wanting to go there. How was it?",
 			"Word Count": 10,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أوه، لقد كنت أرغب في الذهاب إلى هناك. كيف وجدته؟",
 			"Egyptian Arabic Audio": "eca-0955-2.mp3",
 			"Standard Arabic Audio": "msa-0955-2.mp3"
 		},
@@ -31,7 +31,7 @@
 			"English": "Don't bother going.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لا تهتم الذهاب.",
 			"Egyptian Arabic Audio": "eca-0955-3.mp3",
 			"Standard Arabic Audio": "msa-0955-3.mp3"
 		},
@@ -41,7 +41,7 @@
 			"English": "Really? Why?",
 			"Word Count": 2,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هل حقا؟ لماذا ا؟",
 			"Egyptian Arabic Audio": "eca-0955-4.mp3",
 			"Standard Arabic Audio": "msa-0955-4.mp3"
 		},
@@ -51,7 +51,7 @@
 			"English": "It was terrible. The food was cold, and the service sucked.",
 			"Word Count": 11,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كان فظيعا. كان الطعام باردا، وامتصت الخدمة.",
 			"Egyptian Arabic Audio": "eca-0955-5.mp3",
 			"Standard Arabic Audio": "msa-0955-5.mp3"
 		},
@@ -61,7 +61,7 @@
 			"English": "Oh, no. I was looking forward to trying it out.",
 			"Word Count": 10,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أوه، لا. كنت أتطلع إلى محاولة بها.",
 			"Egyptian Arabic Audio": "eca-0955-6.mp3",
 			"Standard Arabic Audio": "msa-0955-6.mp3"
 		},
@@ -71,7 +71,7 @@
 			"English": "Like I said, don't bother.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كما قلت، لا تهتم.",
 			"Egyptian Arabic Audio": "eca-0955-7.mp3",
 			"Standard Arabic Audio": "msa-0955-7.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "I mean, how bad was the food?",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أعني، ما مدى سوء الطعام؟",
 			"Egyptian Arabic Audio": "eca-0955-8.mp3",
 			"Standard Arabic Audio": "msa-0955-8.mp3"
 		},
@@ -91,7 +91,7 @@
 			"English": "It was awful. They got my order wrong, and it was cold.",
 			"Word Count": 12,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كان مروعا. أنها حصلت على طلبي خاطئ، وكان باردا.",
 			"Egyptian Arabic Audio": "eca-0955-9.mp3",
 			"Standard Arabic Audio": "msa-0955-9.mp3"
 		},
@@ -101,7 +101,7 @@
 			"English": "Well, maybe it was just an isolated incident.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "حسنا، ربما كان مجرد حادث معزول.",
 			"Egyptian Arabic Audio": "eca-0955-10.mp3",
 			"Standard Arabic Audio": "msa-0955-10.mp3"
 		},
@@ -111,7 +111,7 @@
 			"English": "I don't think so. I spoke to other diners, and they were disappointed, too.",
 			"Word Count": 14,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لا أعتقد ذلك. لقد تحدثت مع رفاق آخرين، وكانوا بخيبة أمل أيضا.",
 			"Egyptian Arabic Audio": "eca-0955-11.mp3",
 			"Standard Arabic Audio": "msa-0955-11.mp3"
 		},
@@ -121,7 +121,7 @@
 			"English": "I guess that means I have to find another place.",
 			"Word Count": 10,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أعتقد أن هذا يعني أن أجد مكانا آخر.",
 			"Egyptian Arabic Audio": "eca-0955-12.mp3",
 			"Standard Arabic Audio": "msa-0955-12.mp3"
 		}

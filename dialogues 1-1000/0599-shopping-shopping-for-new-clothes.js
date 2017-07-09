@@ -11,7 +11,7 @@
 			"English": "I need new clothes.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أحتاج ملابس جديدة.",
 			"Egyptian Arabic Audio": "eca-0599-1.mp3",
 			"Standard Arabic Audio": "msa-0599-1.mp3"
 		},
@@ -21,7 +21,7 @@
 			"English": "What kinds of new clothes?",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ما هي أنواع الملابس الجديدة؟",
 			"Egyptian Arabic Audio": "eca-0599-2.mp3",
 			"Standard Arabic Audio": "msa-0599-2.mp3"
 		},
@@ -31,7 +31,7 @@
 			"English": "I want something stylish.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أريد شيئا أنيق.",
 			"Egyptian Arabic Audio": "eca-0599-3.mp3",
 			"Standard Arabic Audio": "msa-0599-3.mp3"
 		},
@@ -41,7 +41,7 @@
 			"English": "What do you want new clothes for?",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ماذا تريد ملابس جديدة؟",
 			"Egyptian Arabic Audio": "eca-0599-4.mp3",
 			"Standard Arabic Audio": "msa-0599-4.mp3"
 		},
@@ -51,7 +51,7 @@
 			"English": "Well, school starts again in a week.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "حسنا، المدرسة تبدأ مرة أخرى في الأسبوع.",
 			"Egyptian Arabic Audio": "eca-0599-5.mp3",
 			"Standard Arabic Audio": "msa-0599-5.mp3"
 		},
@@ -61,7 +61,7 @@
 			"English": "Looking good costs money, though.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أبحث جيدة تكاليف المال، على الرغم من.",
 			"Egyptian Arabic Audio": "eca-0599-6.mp3",
 			"Standard Arabic Audio": "msa-0599-6.mp3"
 		},
@@ -71,7 +71,7 @@
 			"English": "I know what you mean.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنا أعرف ما تعنيه.",
 			"Egyptian Arabic Audio": "eca-0599-7.mp3",
 			"Standard Arabic Audio": "msa-0599-7.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "The stuff you're looking for is expensive.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "الأشياء التي تبحث عنها مكلفة.",
 			"Egyptian Arabic Audio": "eca-0599-8.mp3",
 			"Standard Arabic Audio": "msa-0599-8.mp3"
 		},
@@ -91,7 +91,7 @@
 			"English": "Yeah, I don't have much money.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "نعم، ليس لدي الكثير من المال.",
 			"Egyptian Arabic Audio": "eca-0599-9.mp3",
 			"Standard Arabic Audio": "msa-0599-9.mp3"
 		},
@@ -101,7 +101,7 @@
 			"English": "Maybe you should try bargain shopping.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ربما يجب عليك محاولة المساومة التسوق.",
 			"Egyptian Arabic Audio": "eca-0599-10.mp3",
 			"Standard Arabic Audio": "msa-0599-10.mp3"
 		},
@@ -111,7 +111,7 @@
 			"English": "That sounds like something my mom would do.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هذا يبدو وكأنه شيء أمي سوف تفعل.",
 			"Egyptian Arabic Audio": "eca-0599-11.mp3",
 			"Standard Arabic Audio": "msa-0599-11.mp3"
 		},
@@ -121,7 +121,7 @@
 			"English": "Hey, moms are good at saving money.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "مهلا، الامهات جيدة في توفير المال.",
 			"Egyptian Arabic Audio": "eca-0599-12.mp3",
 			"Standard Arabic Audio": "msa-0599-12.mp3"
 		}

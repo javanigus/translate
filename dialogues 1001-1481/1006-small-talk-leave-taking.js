@@ -11,7 +11,7 @@
 			"English": "Well, it was nice talking to you.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "حسنا، كان من الجميل التحدث معك.",
 			"Egyptian Arabic Audio": "eca-1006-1.mp3",
 			"Standard Arabic Audio": "msa-1006-1.mp3"
 		},
@@ -21,7 +21,7 @@
 			"English": "It was nice talking to you too.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كان من الجميل التحدث معك أيضا.",
 			"Egyptian Arabic Audio": "eca-1006-2.mp3",
 			"Standard Arabic Audio": "msa-1006-2.mp3"
 		},
@@ -31,7 +31,7 @@
 			"English": "We should really hang out again.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يجب علينا حقا شنق مرة أخرى.",
 			"Egyptian Arabic Audio": "eca-1006-3.mp3",
 			"Standard Arabic Audio": "msa-1006-3.mp3"
 		},
@@ -41,7 +41,7 @@
 			"English": "That would be fun.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "سيكون ذلك مسليا.",
 			"Egyptian Arabic Audio": "eca-1006-4.mp3",
 			"Standard Arabic Audio": "msa-1006-4.mp3"
 		},
@@ -51,7 +51,7 @@
 			"English": "Where do you want to go?",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أين تريد أن تذهب؟",
 			"Egyptian Arabic Audio": "eca-1006-5.mp3",
 			"Standard Arabic Audio": "msa-1006-5.mp3"
 		},
@@ -61,7 +61,7 @@
 			"English": "I think we should go out to eat.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أعتقد أننا يجب أن نذهب لتناول الطعام.",
 			"Egyptian Arabic Audio": "eca-1006-6.mp3",
 			"Standard Arabic Audio": "msa-1006-6.mp3"
 		},
@@ -71,7 +71,7 @@
 			"English": "That sounds good.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هذا يبدو جيدا.",
 			"Egyptian Arabic Audio": "eca-1006-7.mp3",
 			"Standard Arabic Audio": "msa-1006-7.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "All right, so I'll see you then.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "حسنا، لذلك سأراك لاحقا.",
 			"Egyptian Arabic Audio": "eca-1006-8.mp3",
 			"Standard Arabic Audio": "msa-1006-8.mp3"
 		},
@@ -91,7 +91,7 @@
 			"English": "I'll call you later.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "سوف اتصل بك لاحقا.",
 			"Egyptian Arabic Audio": "eca-1006-9.mp3",
 			"Standard Arabic Audio": "msa-1006-9.mp3"
 		},
@@ -101,7 +101,7 @@
 			"English": "Okay, I'll talk to you later then.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "حسنا، سوف أتحدث إليكم لاحقا.",
 			"Egyptian Arabic Audio": "eca-1006-10.mp3",
 			"Standard Arabic Audio": "msa-1006-10.mp3"
 		},
@@ -111,7 +111,7 @@
 			"English": "See you later.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أراك لاحقاً.",
 			"Egyptian Arabic Audio": "eca-1006-11.mp3",
 			"Standard Arabic Audio": "msa-1006-11.mp3"
 		},
@@ -121,7 +121,7 @@
 			"English": "Bye.",
 			"Word Count": 1,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وداعا.",
 			"Egyptian Arabic Audio": "eca-1006-12.mp3",
 			"Standard Arabic Audio": "msa-1006-12.mp3"
 		},
@@ -131,7 +131,7 @@
 			"English": "I enjoyed talking to you.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لقد استمتعت بالتحدث إليكم.",
 			"Egyptian Arabic Audio": "eca-1006-13.mp3",
 			"Standard Arabic Audio": "msa-1006-13.mp3"
 		},
@@ -141,7 +141,7 @@
 			"English": "I enjoyed talking to you too.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لقد استمتعت بالتحدث إليكم أيضا.",
 			"Egyptian Arabic Audio": "eca-1006-14.mp3",
 			"Standard Arabic Audio": "msa-1006-14.mp3"
 		},
@@ -151,7 +151,7 @@
 			"English": "We should hang out some time.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يجب ان نخرج سويا في وقت ما.",
 			"Egyptian Arabic Audio": "eca-1006-15.mp3",
 			"Standard Arabic Audio": "msa-1006-15.mp3"
 		},
@@ -161,7 +161,7 @@
 			"English": "I think that would be nice.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أعتقد أنه سيكون لطيفا.",
 			"Egyptian Arabic Audio": "eca-1006-16.mp3",
 			"Standard Arabic Audio": "msa-1006-16.mp3"
 		},
@@ -171,7 +171,7 @@
 			"English": "Is there anything you would like to do next time?",
 			"Word Count": 10,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هل هناك أي شيء تريد القيام به في المرة القادمة؟",
 			"Egyptian Arabic Audio": "eca-1006-17.mp3",
 			"Standard Arabic Audio": "msa-1006-17.mp3"
 		},
@@ -181,7 +181,7 @@
 			"English": "Do you want to go out to eat?",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هل تريد الخروج لتناول الطعام؟",
 			"Egyptian Arabic Audio": "eca-1006-18.mp3",
 			"Standard Arabic Audio": "msa-1006-18.mp3"
 		},
@@ -191,7 +191,7 @@
 			"English": "I'd like that.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أرغب بذلك.",
 			"Egyptian Arabic Audio": "eca-1006-19.mp3",
 			"Standard Arabic Audio": "msa-1006-19.mp3"
 		},
@@ -201,7 +201,7 @@
 			"English": "So I'll see you next time.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لذلك سوف أراك في المرة القادمة.",
 			"Egyptian Arabic Audio": "eca-1006-20.mp3",
 			"Standard Arabic Audio": "msa-1006-20.mp3"
 		},
@@ -211,7 +211,7 @@
 			"English": "I'm going to call you soon.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنا ذاهب للاتصال بك قريبا.",
 			"Egyptian Arabic Audio": "eca-1006-21.mp3",
 			"Standard Arabic Audio": "msa-1006-21.mp3"
 		},
@@ -221,7 +221,7 @@
 			"English": "I'll talk to you later.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "سأتحدث إليك لاحقا.",
 			"Egyptian Arabic Audio": "eca-1006-22.mp3",
 			"Standard Arabic Audio": "msa-1006-22.mp3"
 		},
@@ -231,7 +231,7 @@
 			"English": "See you soon.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "اراك قريبا.",
 			"Egyptian Arabic Audio": "eca-1006-23.mp3",
 			"Standard Arabic Audio": "msa-1006-23.mp3"
 		},
@@ -241,7 +241,7 @@
 			"English": "Goodbye.",
 			"Word Count": 1,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وداعا.",
 			"Egyptian Arabic Audio": "eca-1006-24.mp3",
 			"Standard Arabic Audio": "msa-1006-24.mp3"
 		},
@@ -251,7 +251,7 @@
 			"English": "I had fun talking to you.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كان لي متعة التحدث معك.",
 			"Egyptian Arabic Audio": "eca-1006-25.mp3",
 			"Standard Arabic Audio": "msa-1006-25.mp3"
 		},
@@ -261,7 +261,7 @@
 			"English": "It was really nice talking to you also.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كان حقا لطيف الحديث معك أيضا.",
 			"Egyptian Arabic Audio": "eca-1006-26.mp3",
 			"Standard Arabic Audio": "msa-1006-26.mp3"
 		},
@@ -271,7 +271,7 @@
 			"English": "I think we should really do something sometime.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أعتقد أننا يجب أن نفعل شيئا في وقت ما.",
 			"Egyptian Arabic Audio": "eca-1006-27.mp3",
 			"Standard Arabic Audio": "msa-1006-27.mp3"
 		},
@@ -281,7 +281,7 @@
 			"English": "That should be loads of fun.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يجب أن يكون هناك الكثير من المرح.",
 			"Egyptian Arabic Audio": "eca-1006-28.mp3",
 			"Standard Arabic Audio": "msa-1006-28.mp3"
 		},
@@ -291,7 +291,7 @@
 			"English": "What do you want to do next time?",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ماذا تريد أن تفعل في المرة القادمة؟",
 			"Egyptian Arabic Audio": "eca-1006-29.mp3",
 			"Standard Arabic Audio": "msa-1006-29.mp3"
 		},
@@ -301,7 +301,7 @@
 			"English": "Would you like to go to dinner or something?",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هل ترغب في الذهاب لتناول العشاء أو شيء من هذا؟",
 			"Egyptian Arabic Audio": "eca-1006-30.mp3",
 			"Standard Arabic Audio": "msa-1006-30.mp3"
 		},
@@ -311,7 +311,7 @@
 			"English": "Yeah, let's do that.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "نعم، دعونا نفعل ذلك.",
 			"Egyptian Arabic Audio": "eca-1006-31.mp3",
 			"Standard Arabic Audio": "msa-1006-31.mp3"
 		},
@@ -321,7 +321,7 @@
 			"English": "Okay, until next time then.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "حسنا، حتى المرة القادمة ثم.",
 			"Egyptian Arabic Audio": "eca-1006-32.mp3",
 			"Standard Arabic Audio": "msa-1006-32.mp3"
 		},
@@ -331,7 +331,7 @@
 			"English": "I'll call you so we can set that up.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "سأتصل بك حتى نتمكن من تعيين ذلك.",
 			"Egyptian Arabic Audio": "eca-1006-33.mp3",
 			"Standard Arabic Audio": "msa-1006-33.mp3"
 		},
@@ -341,7 +341,7 @@
 			"English": "Talk to you then.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "سنتحدث حينها.",
 			"Egyptian Arabic Audio": "eca-1006-34.mp3",
 			"Standard Arabic Audio": "msa-1006-34.mp3"
 		},
@@ -351,7 +351,7 @@
 			"English": "All right, see you.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "حسنا، أراك.",
 			"Egyptian Arabic Audio": "eca-1006-35.mp3",
 			"Standard Arabic Audio": "msa-1006-35.mp3"
 		},
@@ -361,7 +361,7 @@
 			"English": "See you.",
 			"Word Count": 2,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أراك لاحقاً.",
 			"Egyptian Arabic Audio": "eca-1006-36.mp3",
 			"Standard Arabic Audio": "msa-1006-36.mp3"
 		}

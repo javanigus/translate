@@ -9,7 +9,7 @@
 			"English": "She said that sometimes they get the garlic from China, sometimes they get it from the US.",
 			"Word Count": 17,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وقالت إنها في بعض الأحيان تحصل على الثوم من الصين، وأحيانا أنها تحصل عليه من الولايات المتحدة.",
 			"Egyptian Arabic Audio": "eca-1796-1.mp3",
 			"Standard Arabic Audio": "msa-1796-1.mp3"
 		}

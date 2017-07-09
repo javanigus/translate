@@ -11,7 +11,7 @@
 			"English": "I'm having problems with my computer.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أواجه مشاكل مع جهاز الكمبيوتر الخاص بي.",
 			"Egyptian Arabic Audio": "eca-1158-2.mp3",
 			"Standard Arabic Audio": "msa-1158-2.mp3"
 		},
@@ -21,7 +21,7 @@
 			"English": "What's wrong with it?",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ما الخطأ فى ذلك؟",
 			"Egyptian Arabic Audio": "eca-1158-3.mp3",
 			"Standard Arabic Audio": "msa-1158-3.mp3"
 		},
@@ -31,7 +31,7 @@
 			"English": "For some reason it won't turn on.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لسبب ما لن تشغيل.",
 			"Egyptian Arabic Audio": "eca-1158-4.mp3",
 			"Standard Arabic Audio": "msa-1158-4.mp3"
 		},
@@ -41,7 +41,7 @@
 			"English": "Have you checked the connections on your computer?",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هل فحصت الاتصالات على جهاز الكمبيوتر الخاص بك؟",
 			"Egyptian Arabic Audio": "eca-1158-5.mp3",
 			"Standard Arabic Audio": "msa-1158-5.mp3"
 		},
@@ -51,7 +51,7 @@
 			"English": "What connections?",
 			"Word Count": 2,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ما هي الاتصالات؟",
 			"Egyptian Arabic Audio": "eca-1158-6.mp3",
 			"Standard Arabic Audio": "msa-1158-6.mp3"
 		},
@@ -61,7 +61,7 @@
 			"English": "There are cords that connect your computer to a power outlet.",
 			"Word Count": 11,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "توجد أسلاك توصل جهاز الكمبيوتر بمنفذ طاقة.",
 			"Egyptian Arabic Audio": "eca-1158-7.mp3",
 			"Standard Arabic Audio": "msa-1158-7.mp3"
 		},
@@ -71,7 +71,7 @@
 			"English": "Will the cords keep it from turning on?",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "سوف الحبال الاحتفاظ بها من تشغيل؟",
 			"Egyptian Arabic Audio": "eca-1158-8.mp3",
 			"Standard Arabic Audio": "msa-1158-8.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "It won't turn on if the cords aren't connected.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لن يتم تشغيله في حالة عدم توصيل الحبال.",
 			"Egyptian Arabic Audio": "eca-1158-9.mp3",
 			"Standard Arabic Audio": "msa-1158-9.mp3"
 		},
@@ -91,7 +91,7 @@
 			"English": "I didn't think of that.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لم أكن أفكر في ذلك.",
 			"Egyptian Arabic Audio": "eca-1158-10.mp3",
 			"Standard Arabic Audio": "msa-1158-10.mp3"
 		},
@@ -101,7 +101,7 @@
 			"English": "Try it and see if it works.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "تحاول ذلك ومعرفة ما إذا كان يعمل.",
 			"Egyptian Arabic Audio": "eca-1158-11.mp3",
 			"Standard Arabic Audio": "msa-1158-11.mp3"
 		},
@@ -111,7 +111,7 @@
 			"English": "I think that I will, thanks.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أعتقد أنني سوف، شكرا.",
 			"Egyptian Arabic Audio": "eca-1158-12.mp3",
 			"Standard Arabic Audio": "msa-1158-12.mp3"
 		},
@@ -121,7 +121,7 @@
 			"English": "It should work, but let me know if it doesn't.",
 			"Word Count": 10,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يجب أن تعمل، ولكن اسمحوا لي أن أعرف إذا لم يفعل ذلك.",
 			"Egyptian Arabic Audio": "eca-1158-13.mp3",
 			"Standard Arabic Audio": "msa-1158-13.mp3"
 		},
@@ -131,7 +131,7 @@
 			"English": "My computer isn't working.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "جهاز الكمبيوتر الخاص بي لا يعمل.",
 			"Egyptian Arabic Audio": "eca-1158-15.mp3",
 			"Standard Arabic Audio": "msa-1158-15.mp3"
 		},
@@ -141,7 +141,7 @@
 			"English": "Tell me what the problem is.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "قل لي ما هي المشكلة.",
 			"Egyptian Arabic Audio": "eca-1158-16.mp3",
 			"Standard Arabic Audio": "msa-1158-16.mp3"
 		},
@@ -151,7 +151,7 @@
 			"English": "I'm trying to turn it on, but it won't work.",
 			"Word Count": 10,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أحاول تشغيله، ولكنه لن يعمل.",
 			"Egyptian Arabic Audio": "eca-1158-17.mp3",
 			"Standard Arabic Audio": "msa-1158-17.mp3"
 		},
@@ -161,7 +161,7 @@
 			"English": "Try checking the connections.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "حاول التحقق من الاتصالات.",
 			"Egyptian Arabic Audio": "eca-1158-18.mp3",
 			"Standard Arabic Audio": "msa-1158-18.mp3"
 		},
@@ -171,7 +171,7 @@
 			"English": "Which ones are you referring to?",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ما هي تلك التي تشير إليها؟",
 			"Egyptian Arabic Audio": "eca-1158-19.mp3",
 			"Standard Arabic Audio": "msa-1158-19.mp3"
 		},
@@ -181,7 +181,7 @@
 			"English": "The cords that you see behind your CPU that plug into an outlet.",
 			"Word Count": 13,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "الحبال التي تراه وراء وحدة المعالجة المركزية الخاصة بك أن سد العجز في منفذ.",
 			"Egyptian Arabic Audio": "eca-1158-20.mp3",
 			"Standard Arabic Audio": "msa-1158-20.mp3"
 		},
@@ -191,7 +191,7 @@
 			"English": "Is that why it won't turn on?",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هل هذا هو السبب في عدم تشغيله؟",
 			"Egyptian Arabic Audio": "eca-1158-21.mp3",
 			"Standard Arabic Audio": "msa-1158-21.mp3"
 		},
@@ -201,7 +201,7 @@
 			"English": "If they're not connected right, that will keep it from turning on.",
 			"Word Count": 12,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "إذا لم تكن متصلة، فإن ذلك سيجعلها قيد التشغيل.",
 			"Egyptian Arabic Audio": "eca-1158-22.mp3",
 			"Standard Arabic Audio": "msa-1158-22.mp3"
 		},
@@ -211,7 +211,7 @@
 			"English": "I did not know that.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لم اكن اعرف ذلك.",
 			"Egyptian Arabic Audio": "eca-1158-23.mp3",
 			"Standard Arabic Audio": "msa-1158-23.mp3"
 		},
@@ -221,7 +221,7 @@
 			"English": "You should check the connections.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يجب عليك التحقق من الاتصالات.",
 			"Egyptian Arabic Audio": "eca-1158-24.mp3",
 			"Standard Arabic Audio": "msa-1158-24.mp3"
 		},
@@ -231,7 +231,7 @@
 			"English": "I'm going to do that.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "سأفعل ذلك.",
 			"Egyptian Arabic Audio": "eca-1158-25.mp3",
 			"Standard Arabic Audio": "msa-1158-25.mp3"
 		},
@@ -241,7 +241,7 @@
 			"English": "Tell me if it's still not working.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "قل لي إذا كان لا يزال لا يعمل.",
 			"Egyptian Arabic Audio": "eca-1158-26.mp3",
 			"Standard Arabic Audio": "msa-1158-26.mp3"
 		},
@@ -251,7 +251,7 @@
 			"English": "Something's wrong with my computer.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "حدث خطأ ما في جهاز الكمبيوتر.",
 			"Egyptian Arabic Audio": "eca-1158-28.mp3",
 			"Standard Arabic Audio": "msa-1158-28.mp3"
 		},
@@ -261,7 +261,7 @@
 			"English": "What's the problem?",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ما هي المشكلة؟",
 			"Egyptian Arabic Audio": "eca-1158-29.mp3",
 			"Standard Arabic Audio": "msa-1158-29.mp3"
 		},
@@ -271,7 +271,7 @@
 			"English": "My computer won't turn on.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لن يتم تشغيل جهاز الكمبيوتر.",
 			"Egyptian Arabic Audio": "eca-1158-30.mp3",
 			"Standard Arabic Audio": "msa-1158-30.mp3"
 		},
@@ -281,7 +281,7 @@
 			"English": "Did you see if all the connections are right?",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هل رأيت ما إذا كانت جميع الاتصالات صحيحة؟",
 			"Egyptian Arabic Audio": "eca-1158-31.mp3",
 			"Standard Arabic Audio": "msa-1158-31.mp3"
 		},
@@ -291,7 +291,7 @@
 			"English": "I'm not sure I understand what you mean.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لست متأكدا من أنني أفهم ما تقصده.",
 			"Egyptian Arabic Audio": "eca-1158-32.mp3",
 			"Standard Arabic Audio": "msa-1158-32.mp3"
 		},
@@ -301,7 +301,7 @@
 			"English": "The connections between your CPU and your outlet.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "الاتصالات بين وحدة المعالجة المركزية الخاصة بك ومخرج الخاص بك.",
 			"Egyptian Arabic Audio": "eca-1158-33.mp3",
 			"Standard Arabic Audio": "msa-1158-33.mp3"
 		},
@@ -311,7 +311,7 @@
 			"English": "Is that what's stopping my computer from turning on?",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هل هذا ما يمنع تشغيل جهاز الكمبيوتر الخاص بي؟",
 			"Egyptian Arabic Audio": "eca-1158-34.mp3",
 			"Standard Arabic Audio": "msa-1158-34.mp3"
 		},
@@ -321,7 +321,7 @@
 			"English": "If your plugs aren't connected all the way, the computer won't turn on.",
 			"Word Count": 13,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "إذا لم يتم توصيل المقابس على طول الطريق، لن يتم تشغيل الكمبيوتر.",
 			"Egyptian Arabic Audio": "eca-1158-35.mp3",
 			"Standard Arabic Audio": "msa-1158-35.mp3"
 		},
@@ -331,7 +331,7 @@
 			"English": "I had no idea.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لا يوجد لدي فكرة.",
 			"Egyptian Arabic Audio": "eca-1158-36.mp3",
 			"Standard Arabic Audio": "msa-1158-36.mp3"
 		},
@@ -341,7 +341,7 @@
 			"English": "Why don't you try it and see what happens?",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لماذا لا تحاول ذلك ونرى ما سيحدث؟",
 			"Egyptian Arabic Audio": "eca-1158-37.mp3",
 			"Standard Arabic Audio": "msa-1158-37.mp3"
 		},
@@ -351,7 +351,7 @@
 			"English": "I'll try it right now.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "سأحاول ذلك الآن.",
 			"Egyptian Arabic Audio": "eca-1158-38.mp3",
 			"Standard Arabic Audio": "msa-1158-38.mp3"
 		},
@@ -361,7 +361,7 @@
 			"English": "Let me know if that doesn't work.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "واسمحوا لي أن أعرف إذا كان هذا لا يعمل.",
 			"Egyptian Arabic Audio": "eca-1158-39.mp3",
 			"Standard Arabic Audio": "msa-1158-39.mp3"
 		}

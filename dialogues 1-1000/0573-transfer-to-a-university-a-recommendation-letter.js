@@ -11,7 +11,7 @@
 			"English": "My professor wrote a really bad recommendation letter for me.",
 			"Word Count": 10,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كتب أستاذي رسالة توصية سيئة حقا بالنسبة لي.",
 			"Egyptian Arabic Audio": "eca-0573-1.mp3",
 			"Standard Arabic Audio": "msa-0573-1.mp3"
 		},
@@ -21,7 +21,7 @@
 			"English": "You read his recommendation letter?",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "تقرأ رسالة توصيته؟",
 			"Egyptian Arabic Audio": "eca-0573-2.mp3",
 			"Standard Arabic Audio": "msa-0573-2.mp3"
 		},
@@ -31,7 +31,7 @@
 			"English": "Yeah. I couldn't resist.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "بلى. لم أستطع مقاومة.",
 			"Egyptian Arabic Audio": "eca-0573-3.mp3",
 			"Standard Arabic Audio": "msa-0573-3.mp3"
 		},
@@ -41,7 +41,7 @@
 			"English": "This is why you shouldn't read it. You might not like what you see.",
 			"Word Count": 14,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هذا هو السبب في أنك لا ينبغي قراءتها. قد لا تحب ما تراه.",
 			"Egyptian Arabic Audio": "eca-0573-4.mp3",
 			"Standard Arabic Audio": "msa-0573-4.mp3"
 		},
@@ -51,7 +51,7 @@
 			"English": "He wrote such boring things about me.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لقد كتب هذه الأشياء المملة عني.",
 			"Egyptian Arabic Audio": "eca-0573-5.mp3",
 			"Standard Arabic Audio": "msa-0573-5.mp3"
 		},
@@ -61,7 +61,7 @@
 			"English": "What did he write?",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ما الذي كتبه؟",
 			"Egyptian Arabic Audio": "eca-0573-6.mp3",
 			"Standard Arabic Audio": "msa-0573-6.mp3"
 		},
@@ -71,7 +71,7 @@
 			"English": "Just that I'm a diligent student who does well.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "فقط أنا طالب الدؤوب الذي يفعل جيدا.",
 			"Egyptian Arabic Audio": "eca-0573-7.mp3",
 			"Standard Arabic Audio": "msa-0573-7.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "At least it was nothing bad. You can always ask another professor.",
 			"Word Count": 12,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "على الأقل كان شيئا سيئا. يمكنك دائما أن تسأل أستاذ آخر.",
 			"Egyptian Arabic Audio": "eca-0573-8.mp3",
 			"Standard Arabic Audio": "msa-0573-8.mp3"
 		},
@@ -91,7 +91,7 @@
 			"English": "I know, but I don't have time.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أعرف، ولكن ليس لدي الوقت.",
 			"Egyptian Arabic Audio": "eca-0573-9.mp3",
 			"Standard Arabic Audio": "msa-0573-9.mp3"
 		},
@@ -101,7 +101,7 @@
 			"English": "When do you need another recommendation letter by?",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "متى تحتاج إلى رسالة توصية أخرى؟",
 			"Egyptian Arabic Audio": "eca-0573-10.mp3",
 			"Standard Arabic Audio": "msa-0573-10.mp3"
 		},
@@ -111,7 +111,7 @@
 			"English": "I need one by this Friday.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أحتاج واحد بحلول يوم الجمعة.",
 			"Egyptian Arabic Audio": "eca-0573-11.mp3",
 			"Standard Arabic Audio": "msa-0573-11.mp3"
 		},
@@ -121,7 +121,7 @@
 			"English": "Oh, wow! Maybe you should just send the one you have now.",
 			"Word Count": 12,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أوه، نجاح باهر! ربما يجب عليك فقط إرسال واحد لديك الآن.",
 			"Egyptian Arabic Audio": "eca-0573-12.mp3",
 			"Standard Arabic Audio": "msa-0573-12.mp3"
 		}

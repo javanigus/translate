@@ -11,7 +11,7 @@
 			"English": "Why weren't you at school yesterday?",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لماذا لم تكن في المدرسة أمس؟",
 			"Egyptian Arabic Audio": "eca-0989-1.mp3",
 			"Standard Arabic Audio": "msa-0989-1.mp3"
 		},
@@ -21,7 +21,7 @@
 			"English": "I wasn't really feeling well.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لم أكن أشعر أنني بحالة جيدة.",
 			"Egyptian Arabic Audio": "eca-0989-2.mp3",
 			"Standard Arabic Audio": "msa-0989-2.mp3"
 		},
@@ -31,7 +31,7 @@
 			"English": "What was wrong with you?",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ما هو الخطأ معك؟",
 			"Egyptian Arabic Audio": "eca-0989-3.mp3",
 			"Standard Arabic Audio": "msa-0989-3.mp3"
 		},
@@ -41,7 +41,7 @@
 			"English": "My stomach was upset.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كان معدتي مستاء.",
 			"Egyptian Arabic Audio": "eca-0989-4.mp3",
 			"Standard Arabic Audio": "msa-0989-4.mp3"
 		},
@@ -51,7 +51,7 @@
 			"English": "Do you feel better now?",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هل تشعر بتحسن الان؟",
 			"Egyptian Arabic Audio": "eca-0989-5.mp3",
 			"Standard Arabic Audio": "msa-0989-5.mp3"
 		},
@@ -61,7 +61,7 @@
 			"English": "I don't really feel too well yet.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنا لا أشعر حقا جيدا حتى الآن.",
 			"Egyptian Arabic Audio": "eca-0989-6.mp3",
 			"Standard Arabic Audio": "msa-0989-6.mp3"
 		},
@@ -71,7 +71,7 @@
 			"English": "Do you want anything to make you feel better?",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هل تريد أي شيء يجعلك تشعر بتحسن؟",
 			"Egyptian Arabic Audio": "eca-0989-7.mp3",
 			"Standard Arabic Audio": "msa-0989-7.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "No, thanks. I already took some medicine.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لا شكرا. أخذت بالفعل بعض الأدوية.",
 			"Egyptian Arabic Audio": "eca-0989-8.mp3",
 			"Standard Arabic Audio": "msa-0989-8.mp3"
 		},
@@ -91,7 +91,7 @@
 			"English": "I hope you feel better.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "آمل أنك تشعر بتحسن.",
 			"Egyptian Arabic Audio": "eca-0989-9.mp3",
 			"Standard Arabic Audio": "msa-0989-9.mp3"
 		},
@@ -101,7 +101,7 @@
 			"English": "Thank you.",
 			"Word Count": 2,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "شكرا.",
 			"Egyptian Arabic Audio": "eca-0989-10.mp3",
 			"Standard Arabic Audio": "msa-0989-10.mp3"
 		},
@@ -111,7 +111,7 @@
 			"English": "What reason do you have for missing school?",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ما هو سبب وجودك في المدرسة المفقودة؟",
 			"Egyptian Arabic Audio": "eca-0989-11.mp3",
 			"Standard Arabic Audio": "msa-0989-11.mp3"
 		},
@@ -121,7 +121,7 @@
 			"English": "I was sick.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كنت مريضا.",
 			"Egyptian Arabic Audio": "eca-0989-12.mp3",
 			"Standard Arabic Audio": "msa-0989-12.mp3"
 		},
@@ -131,7 +131,7 @@
 			"English": "How were you sick?",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كيف كنت مريضا؟",
 			"Egyptian Arabic Audio": "eca-0989-13.mp3",
 			"Standard Arabic Audio": "msa-0989-13.mp3"
 		},
@@ -141,7 +141,7 @@
 			"English": "I had a stomachache.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كان لي معدة.",
 			"Egyptian Arabic Audio": "eca-0989-14.mp3",
 			"Standard Arabic Audio": "msa-0989-14.mp3"
 		},
@@ -151,7 +151,7 @@
 			"English": "Did it get any better?",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لم تحصل على أي أفضل؟",
 			"Egyptian Arabic Audio": "eca-0989-15.mp3",
 			"Standard Arabic Audio": "msa-0989-15.mp3"
 		},
@@ -161,7 +161,7 @@
 			"English": "I'm still feeling under the weather.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ما زلت أشعر تحت الطقس.",
 			"Egyptian Arabic Audio": "eca-0989-16.mp3",
 			"Standard Arabic Audio": "msa-0989-16.mp3"
 		},
@@ -171,7 +171,7 @@
 			"English": "Would you like anything for your stomach?",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هل تريد أي شيء معدتك؟",
 			"Egyptian Arabic Audio": "eca-0989-17.mp3",
 			"Standard Arabic Audio": "msa-0989-17.mp3"
 		},
@@ -181,7 +181,7 @@
 			"English": "I took something earlier.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أخذت شيئا في وقت سابق.",
 			"Egyptian Arabic Audio": "eca-0989-18.mp3",
 			"Standard Arabic Audio": "msa-0989-18.mp3"
 		},
@@ -191,7 +191,7 @@
 			"English": "Get better.",
 			"Word Count": 2,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "الحصول على أفضل.",
 			"Egyptian Arabic Audio": "eca-0989-19.mp3",
 			"Standard Arabic Audio": "msa-0989-19.mp3"
 		},
@@ -201,7 +201,7 @@
 			"English": "Thanks a lot.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "شكرا جزيلا.",
 			"Egyptian Arabic Audio": "eca-0989-20.mp3",
 			"Standard Arabic Audio": "msa-0989-20.mp3"
 		},
@@ -211,7 +211,7 @@
 			"English": "Why didn't you go to school yesterday?",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لماذا لم تذهب إلى المدرسة أمس؟",
 			"Egyptian Arabic Audio": "eca-0989-21.mp3",
 			"Standard Arabic Audio": "msa-0989-21.mp3"
 		},
@@ -221,7 +221,7 @@
 			"English": "I stayed home because I wasn't feeling well.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "بقيت في المنزل لأنني لم أشعر أنني بحالة جيدة.",
 			"Egyptian Arabic Audio": "eca-0989-22.mp3",
 			"Standard Arabic Audio": "msa-0989-22.mp3"
 		},
@@ -231,7 +231,7 @@
 			"English": "What was your problem?",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ما هي مشكلتك؟",
 			"Egyptian Arabic Audio": "eca-0989-23.mp3",
 			"Standard Arabic Audio": "msa-0989-23.mp3"
 		},
@@ -241,7 +241,7 @@
 			"English": "My stomach was bothering me.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كانت معدتي تزعجني.",
 			"Egyptian Arabic Audio": "eca-0989-24.mp3",
 			"Standard Arabic Audio": "msa-0989-24.mp3"
 		},
@@ -251,7 +251,7 @@
 			"English": "Are you feeling any better?",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هل تشعر بتحسن؟",
 			"Egyptian Arabic Audio": "eca-0989-25.mp3",
 			"Standard Arabic Audio": "msa-0989-25.mp3"
 		},
@@ -261,7 +261,7 @@
 			"English": "I'm still feeling a little sick.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ما زلت أشعر بالمرض قليلا.",
 			"Egyptian Arabic Audio": "eca-0989-26.mp3",
 			"Standard Arabic Audio": "msa-0989-26.mp3"
 		},
@@ -271,7 +271,7 @@
 			"English": "I'm going to the store, would you like any Pepto Bismol?",
 			"Word Count": 11,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنا ذاهب إلى المخزن، هل تريد أي بيبتو بيسمول؟",
 			"Egyptian Arabic Audio": "eca-0989-27.mp3",
 			"Standard Arabic Audio": "msa-0989-27.mp3"
 		},
@@ -281,7 +281,7 @@
 			"English": "That's okay.",
 			"Word Count": 2,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "حسنا.",
 			"Egyptian Arabic Audio": "eca-0989-28.mp3",
 			"Standard Arabic Audio": "msa-0989-28.mp3"
 		},
@@ -291,7 +291,7 @@
 			"English": "I hope you feel better.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "آمل أنك تشعر بتحسن.",
 			"Egyptian Arabic Audio": "eca-0989-29.mp3",
 			"Standard Arabic Audio": "msa-0989-29.mp3"
 		},
@@ -301,7 +301,7 @@
 			"English": "I'd appreciate that.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "سأقدر ذلك.",
 			"Egyptian Arabic Audio": "eca-0989-30.mp3",
 			"Standard Arabic Audio": "msa-0989-30.mp3"
 		}

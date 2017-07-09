@@ -9,7 +9,7 @@
 			"English": "He is in a rush.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انه في اندفاع.",
 			"Egyptian Arabic Audio": "eca-0182-1.mp3",
 			"Standard Arabic Audio": "msa-0182-1.mp3"
 		},
@@ -18,7 +18,7 @@
 			"English": "He puts on a t-shirt and shorts.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انه يضع على تي شيرت والسراويل القصيرة.",
 			"Egyptian Arabic Audio": "eca-0182-2.mp3",
 			"Standard Arabic Audio": "msa-0182-2.mp3"
 		},
@@ -27,7 +27,7 @@
 			"English": "He leaves his house.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يغادر منزله.",
 			"Egyptian Arabic Audio": "eca-0182-3.mp3",
 			"Standard Arabic Audio": "msa-0182-3.mp3"
 		},
@@ -36,7 +36,7 @@
 			"English": "He drives to work.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يقود سيارته للعمل.",
 			"Egyptian Arabic Audio": "eca-0182-4.mp3",
 			"Standard Arabic Audio": "msa-0182-4.mp3"
 		},
@@ -45,7 +45,7 @@
 			"English": "It is cold at his work place.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هو بارد في مكان عمله.",
 			"Egyptian Arabic Audio": "eca-0182-5.mp3",
 			"Standard Arabic Audio": "msa-0182-5.mp3"
 		},
@@ -54,7 +54,7 @@
 			"English": "He wants a jacket.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يريد سترة.",
 			"Egyptian Arabic Audio": "eca-0182-6.mp3",
 			"Standard Arabic Audio": "msa-0182-6.mp3"
 		},
@@ -63,7 +63,7 @@
 			"English": "He tries to turn on the heater.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انه يحاول تشغيل سخان.",
 			"Egyptian Arabic Audio": "eca-0182-7.mp3",
 			"Standard Arabic Audio": "msa-0182-7.mp3"
 		},
@@ -72,7 +72,7 @@
 			"English": "His coworkers get mad.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "زملائه في العمل يحصلون على جنون.",
 			"Egyptian Arabic Audio": "eca-0182-8.mp3",
 			"Standard Arabic Audio": "msa-0182-8.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "He asks his friend if he has a jacket.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يسأل صديقه إذا كان لديه سترة.",
 			"Egyptian Arabic Audio": "eca-0182-9.mp3",
 			"Standard Arabic Audio": "msa-0182-9.mp3"
 		},
@@ -90,7 +90,7 @@
 			"English": "His friend does not.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "صديقه لا.",
 			"Egyptian Arabic Audio": "eca-0182-10.mp3",
 			"Standard Arabic Audio": "msa-0182-10.mp3"
 		}

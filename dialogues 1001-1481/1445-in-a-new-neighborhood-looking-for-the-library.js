@@ -11,7 +11,7 @@
 			"English": "Are you looking for something?",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هل تبحث عن شئ؟",
 			"Egyptian Arabic Audio": "eca-1445-1.mp3",
 			"Standard Arabic Audio": "msa-1445-1.mp3"
 		},
@@ -21,7 +21,7 @@
 			"English": "I'm trying to find the library.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أحاول العثور على المكتبة.",
 			"Egyptian Arabic Audio": "eca-1445-2.mp3",
 			"Standard Arabic Audio": "msa-1445-2.mp3"
 		},
@@ -31,7 +31,7 @@
 			"English": "How long have you been trying to find it?",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كم من الوقت كنت تحاول العثور عليه؟",
 			"Egyptian Arabic Audio": "eca-1445-3.mp3",
 			"Standard Arabic Audio": "msa-1445-3.mp3"
 		},
@@ -41,7 +41,7 @@
 			"English": "I've been looking for it for a while now.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لقد كنت تبحث عن ذلك لفترة من الوقت الآن.",
 			"Egyptian Arabic Audio": "eca-1445-4.mp3",
 			"Standard Arabic Audio": "msa-1445-4.mp3"
 		},
@@ -51,7 +51,7 @@
 			"English": "I can help you find it if you want help.",
 			"Word Count": 10,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يمكنني مساعدتك في العثور عليه إذا كنت تريد المساعدة.",
 			"Egyptian Arabic Audio": "eca-1445-5.mp3",
 			"Standard Arabic Audio": "msa-1445-5.mp3"
 		},
@@ -61,7 +61,7 @@
 			"English": "I would like that.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "سوف احب ذلك.",
 			"Egyptian Arabic Audio": "eca-1445-6.mp3",
 			"Standard Arabic Audio": "msa-1445-6.mp3"
 		},
@@ -71,7 +71,7 @@
 			"English": "Do you know where the movie theater is?",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هل تعرف أين مسرح السينما هو؟",
 			"Egyptian Arabic Audio": "eca-1445-7.mp3",
 			"Standard Arabic Audio": "msa-1445-7.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "Yeah, I know where that is.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "نعم، أنا أعرف أين هذا.",
 			"Egyptian Arabic Audio": "eca-1445-8.mp3",
 			"Standard Arabic Audio": "msa-1445-8.mp3"
 		},
@@ -91,7 +91,7 @@
 			"English": "You'll find the library right around the corner.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ستجد المكتبة على الجانب الأيسر.",
 			"Egyptian Arabic Audio": "eca-1445-9.mp3",
 			"Standard Arabic Audio": "msa-1445-9.mp3"
 		},
@@ -101,7 +101,7 @@
 			"English": "Are you serious?",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هل أنت جاد؟",
 			"Egyptian Arabic Audio": "eca-1445-10.mp3",
 			"Standard Arabic Audio": "msa-1445-10.mp3"
 		},
@@ -111,7 +111,7 @@
 			"English": "Yes, you can't miss it.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "نعم، لا يمكن أن تفوت.",
 			"Egyptian Arabic Audio": "eca-1445-11.mp3",
 			"Standard Arabic Audio": "msa-1445-11.mp3"
 		},
@@ -121,7 +121,7 @@
 			"English": "I know exactly where it is now.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أعرف بالضبط أين هو الآن.",
 			"Egyptian Arabic Audio": "eca-1445-12.mp3",
 			"Standard Arabic Audio": "msa-1445-12.mp3"
 		},
@@ -131,7 +131,7 @@
 			"English": "Are you lost?",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هل أنت تائه؟",
 			"Egyptian Arabic Audio": "eca-1445-13.mp3",
 			"Standard Arabic Audio": "msa-1445-13.mp3"
 		},
@@ -141,7 +141,7 @@
 			"English": "I can't find the library.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لا أستطيع العثور على المكتبة.",
 			"Egyptian Arabic Audio": "eca-1445-14.mp3",
 			"Standard Arabic Audio": "msa-1445-14.mp3"
 		},
@@ -151,7 +151,7 @@
 			"English": "How long have you been looking?",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "منذ متى وانت تبحث؟",
 			"Egyptian Arabic Audio": "eca-1445-15.mp3",
 			"Standard Arabic Audio": "msa-1445-15.mp3"
 		},
@@ -161,7 +161,7 @@
 			"English": "I've been trying to find it for a while now.",
 			"Word Count": 10,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لقد كنت تحاول العثور عليه لفترة من الوقت الآن.",
 			"Egyptian Arabic Audio": "eca-1445-16.mp3",
 			"Standard Arabic Audio": "msa-1445-16.mp3"
 		},
@@ -171,7 +171,7 @@
 			"English": "Would you like my help?",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هل ترغب في مساعدتي؟",
 			"Egyptian Arabic Audio": "eca-1445-17.mp3",
 			"Standard Arabic Audio": "msa-1445-17.mp3"
 		},
@@ -181,7 +181,7 @@
 			"English": "That would be great.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هذا سيكون رائع.",
 			"Egyptian Arabic Audio": "eca-1445-18.mp3",
 			"Standard Arabic Audio": "msa-1445-18.mp3"
 		},
@@ -191,7 +191,7 @@
 			"English": "Have you seen the movie theater?",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هل رأيت مسرح السينما؟",
 			"Egyptian Arabic Audio": "eca-1445-19.mp3",
 			"Standard Arabic Audio": "msa-1445-19.mp3"
 		},
@@ -201,7 +201,7 @@
 			"English": "I know where the movie theater is.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أعرف أين مسرح السينما.",
 			"Egyptian Arabic Audio": "eca-1445-20.mp3",
 			"Standard Arabic Audio": "msa-1445-20.mp3"
 		},
@@ -211,7 +211,7 @@
 			"English": "The library is on the same block as the movie theater.",
 			"Word Count": 11,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "المكتبة على نفس كتلة مسرح السينما.",
 			"Egyptian Arabic Audio": "eca-1445-21.mp3",
 			"Standard Arabic Audio": "msa-1445-21.mp3"
 		},
@@ -221,7 +221,7 @@
 			"English": "Really?",
 			"Word Count": 1,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هل حقا؟",
 			"Egyptian Arabic Audio": "eca-1445-22.mp3",
 			"Standard Arabic Audio": "msa-1445-22.mp3"
 		},
@@ -231,7 +231,7 @@
 			"English": "There's no way you can miss it.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لا توجد طريقة يمكنك أن تفوت.",
 			"Egyptian Arabic Audio": "eca-1445-23.mp3",
 			"Standard Arabic Audio": "msa-1445-23.mp3"
 		},
@@ -241,7 +241,7 @@
 			"English": "I've got it now.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لقد حصلت عليه الآن.",
 			"Egyptian Arabic Audio": "eca-1445-24.mp3",
 			"Standard Arabic Audio": "msa-1445-24.mp3"
 		},
@@ -251,7 +251,7 @@
 			"English": "What are you looking for?",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "عما تبحث؟",
 			"Egyptian Arabic Audio": "eca-1445-25.mp3",
 			"Standard Arabic Audio": "msa-1445-25.mp3"
 		},
@@ -261,7 +261,7 @@
 			"English": "I have been looking everywhere for the library.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لقد كنت تبحث في كل مكان للمكتبة.",
 			"Egyptian Arabic Audio": "eca-1445-26.mp3",
 			"Standard Arabic Audio": "msa-1445-26.mp3"
 		},
@@ -271,7 +271,7 @@
 			"English": "How long have you been looking for it?",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كم من الوقت كنت تبحث عنه؟",
 			"Egyptian Arabic Audio": "eca-1445-27.mp3",
 			"Standard Arabic Audio": "msa-1445-27.mp3"
 		},
@@ -281,7 +281,7 @@
 			"English": "I've been searching for the library for an hour.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لقد كنت أبحث عن المكتبة لمدة ساعة.",
 			"Egyptian Arabic Audio": "eca-1445-28.mp3",
 			"Standard Arabic Audio": "msa-1445-28.mp3"
 		},
@@ -291,7 +291,7 @@
 			"English": "I can help you.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أستطيع مساعدتك.",
 			"Egyptian Arabic Audio": "eca-1445-29.mp3",
 			"Standard Arabic Audio": "msa-1445-29.mp3"
 		},
@@ -301,7 +301,7 @@
 			"English": "I would really appreciate your help.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انا حقا اقدر مساعدتك.",
 			"Egyptian Arabic Audio": "eca-1445-30.mp3",
 			"Standard Arabic Audio": "msa-1445-30.mp3"
 		},
@@ -311,7 +311,7 @@
 			"English": "You do know how to find the movie theater, right?",
 			"Word Count": 10,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كنت تعرف كيفية العثور على مسرح السينما، أليس كذلك؟",
 			"Egyptian Arabic Audio": "eca-1445-31.mp3",
 			"Standard Arabic Audio": "msa-1445-31.mp3"
 		},
@@ -321,7 +321,7 @@
 			"English": "I've found that already.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لقد وجدت ذلك بالفعل.",
 			"Egyptian Arabic Audio": "eca-1445-32.mp3",
 			"Standard Arabic Audio": "msa-1445-32.mp3"
 		},
@@ -331,7 +331,7 @@
 			"English": "The library is right around the corner from the theater.",
 			"Word Count": 10,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وتقع المكتبة على مقربة من المسرح.",
 			"Egyptian Arabic Audio": "eca-1445-33.mp3",
 			"Standard Arabic Audio": "msa-1445-33.mp3"
 		},
@@ -341,7 +341,7 @@
 			"English": "Is that right?",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هل هذا صحيح؟",
 			"Egyptian Arabic Audio": "eca-1445-34.mp3",
 			"Standard Arabic Audio": "msa-1445-34.mp3"
 		},
@@ -351,7 +351,7 @@
 			"English": "There's no way that you'll miss it.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ليس هناك طريقة أنك سوف تفوت.",
 			"Egyptian Arabic Audio": "eca-1445-35.mp3",
 			"Standard Arabic Audio": "msa-1445-35.mp3"
 		},
@@ -361,7 +361,7 @@
 			"English": "I can figure it out now.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يمكنني معرفة ذلك الآن.",
 			"Egyptian Arabic Audio": "eca-1445-36.mp3",
 			"Standard Arabic Audio": "msa-1445-36.mp3"
 		}

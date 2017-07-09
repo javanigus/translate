@@ -9,7 +9,7 @@
 			"English": "\"This television is indestructible,\" he told Maria.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وقال ماريا &quot;هذا التلفزيون غير قابل للتدمير&quot;.",
 			"Egyptian Arabic Audio": "eca-1749-1.mp3",
 			"Standard Arabic Audio": "msa-1749-1.mp3"
 		},
@@ -18,7 +18,7 @@
 			"English": "As soon as he finished his sentence the television turned off and made a crackling sound.",
 			"Word Count": 16,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وبمجرد أن أنهى عقوبته توقف التليفزيون وأطلق صوتا مذهلا.",
 			"Egyptian Arabic Audio": "eca-1749-2.mp3",
 			"Standard Arabic Audio": "msa-1749-2.mp3"
 		},
@@ -27,7 +27,7 @@
 			"English": "Mike jumped to his feet when he noticed smoke coming out of the television.",
 			"Word Count": 14,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "قفز مايك إلى قدميه عندما لاحظ الدخان يخرج من التلفزيون.",
 			"Egyptian Arabic Audio": "eca-1749-3.mp3",
 			"Standard Arabic Audio": "msa-1749-3.mp3"
 		},
@@ -36,7 +36,7 @@
 			"English": "\"My television!\" Mike wailed.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "&quot;تلفزيوني!&quot; مايك ويلد.",
 			"Egyptian Arabic Audio": "eca-1749-4.mp3",
 			"Standard Arabic Audio": "msa-1749-4.mp3"
 		},
@@ -45,7 +45,7 @@
 			"English": "The old television had broken.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وكان التلفزيون القديم قد كسر.",
 			"Egyptian Arabic Audio": "eca-1749-5.mp3",
 			"Standard Arabic Audio": "msa-1749-5.mp3"
 		},
@@ -54,7 +54,7 @@
 			"English": "Maria panicked a little when she saw the smoke.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ماريا بانيكد قليلا عندما رأت الدخان.",
 			"Egyptian Arabic Audio": "eca-1749-6.mp3",
 			"Standard Arabic Audio": "msa-1749-6.mp3"
 		},
@@ -63,7 +63,7 @@
 			"English": "Mike immediately pulled the plug before anything else happened.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "مايك سحب فورا المكونات قبل أي شيء آخر حدث.",
 			"Egyptian Arabic Audio": "eca-1749-7.mp3",
 			"Standard Arabic Audio": "msa-1749-7.mp3"
 		},
@@ -72,7 +72,7 @@
 			"English": "He threw out the broken television in thrash.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ألقى التلفزيون مكسورة في سحق.",
 			"Egyptian Arabic Audio": "eca-1749-8.mp3",
 			"Standard Arabic Audio": "msa-1749-8.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "Mike could not live without television.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لم يتمكن مايك من العيش بدون تلفزيون.",
 			"Egyptian Arabic Audio": "eca-1749-9.mp3",
 			"Standard Arabic Audio": "msa-1749-9.mp3"
 		},
@@ -90,7 +90,7 @@
 			"English": "He told Maria if she wanted to go with him and buy a new one.",
 			"Word Count": 15,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وقال ماريا إذا أرادت الذهاب معه وشراء واحدة جديدة.",
 			"Egyptian Arabic Audio": "eca-1749-10.mp3",
 			"Standard Arabic Audio": "msa-1749-10.mp3"
 		},
@@ -99,7 +99,7 @@
 			"English": "Maria said yes, and the two were off to the electronic store.",
 			"Word Count": 12,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وقالت ماريا نعم، وكان الاثنان إلى المتجر الإلكتروني.",
 			"Egyptian Arabic Audio": "eca-1749-11.mp3",
 			"Standard Arabic Audio": "msa-1749-11.mp3"
 		}

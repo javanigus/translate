@@ -9,7 +9,7 @@
 			"English": "Tommy needed to raise money for his football team.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "تومي بحاجة لجمع المال لفريقه لكرة القدم.",
 			"Egyptian Arabic Audio": "eca-0648-1.mp3",
 			"Standard Arabic Audio": "msa-0648-1.mp3"
 		},
@@ -18,7 +18,7 @@
 			"English": "The team needed new uniforms.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وكان الفريق بحاجة إلى زي جديد.",
 			"Egyptian Arabic Audio": "eca-0648-2.mp3",
 			"Standard Arabic Audio": "msa-0648-2.mp3"
 		},
@@ -27,7 +27,7 @@
 			"English": "Tommy needed an idea.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "تومي في حاجة الى فكرة.",
 			"Egyptian Arabic Audio": "eca-0648-3.mp3",
 			"Standard Arabic Audio": "msa-0648-3.mp3"
 		},
@@ -36,7 +36,7 @@
 			"English": "He asked his mom for help.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وطلب من والدته المساعدة.",
 			"Egyptian Arabic Audio": "eca-0648-4.mp3",
 			"Standard Arabic Audio": "msa-0648-4.mp3"
 		},
@@ -45,7 +45,7 @@
 			"English": "His mom had a good idea.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كانت أمه فكرة جيدة.",
 			"Egyptian Arabic Audio": "eca-0648-5.mp3",
 			"Standard Arabic Audio": "msa-0648-5.mp3"
 		},
@@ -54,7 +54,7 @@
 			"English": "Tommy's mom loved baking.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أحب أمي تومي الخبز.",
 			"Egyptian Arabic Audio": "eca-0648-6.mp3",
 			"Standard Arabic Audio": "msa-0648-6.mp3"
 		},
@@ -63,7 +63,7 @@
 			"English": "She decided to have a bake sale.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "قررت أن يكون لها بيع خبز.",
 			"Egyptian Arabic Audio": "eca-0648-7.mp3",
 			"Standard Arabic Audio": "msa-0648-7.mp3"
 		},
@@ -72,7 +72,7 @@
 			"English": "Tommy loved the idea.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أحب تومي الفكرة.",
 			"Egyptian Arabic Audio": "eca-0648-8.mp3",
 			"Standard Arabic Audio": "msa-0648-8.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "They would sell cookies and pies.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كانوا يبيعون الكعك والفطائر.",
 			"Egyptian Arabic Audio": "eca-0648-9.mp3",
 			"Standard Arabic Audio": "msa-0648-9.mp3"
 		},
@@ -90,7 +90,7 @@
 			"English": "They planned the bake sale.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كانوا يخططون لبيع الخبز.",
 			"Egyptian Arabic Audio": "eca-0648-10.mp3",
 			"Standard Arabic Audio": "msa-0648-10.mp3"
 		},
@@ -99,7 +99,7 @@
 			"English": "It would be next Saturday.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وسيكون يوم السبت المقبل.",
 			"Egyptian Arabic Audio": "eca-0648-11.mp3",
 			"Standard Arabic Audio": "msa-0648-11.mp3"
 		},
@@ -108,7 +108,7 @@
 			"English": "Tommy needed to raise two hundred dollars.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "تومي اللازمة لرفع مائتي دولار.",
 			"Egyptian Arabic Audio": "eca-0648-12.mp3",
 			"Standard Arabic Audio": "msa-0648-12.mp3"
 		},
@@ -117,7 +117,7 @@
 			"English": "Tommy and his mom got to work.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "تومي وأمه حصلت على العمل.",
 			"Egyptian Arabic Audio": "eca-0648-13.mp3",
 			"Standard Arabic Audio": "msa-0648-13.mp3"
 		},
@@ -126,7 +126,7 @@
 			"English": "Tommy baked different kinds of cookies.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "خبز تومي أنواع مختلفة من الكوكيز.",
 			"Egyptian Arabic Audio": "eca-0648-14.mp3",
 			"Standard Arabic Audio": "msa-0648-14.mp3"
 		},
@@ -135,7 +135,7 @@
 			"English": "He baked chocolate chip cookies.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انه خبز الكوكيز رقاقة الشوكولاته.",
 			"Egyptian Arabic Audio": "eca-0648-15.mp3",
 			"Standard Arabic Audio": "msa-0648-15.mp3"
 		},
@@ -144,7 +144,7 @@
 			"English": "He baked oatmeal cookies.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انه خبز الكوكيز الشوفان.",
 			"Egyptian Arabic Audio": "eca-0648-16.mp3",
 			"Standard Arabic Audio": "msa-0648-16.mp3"
 		},
@@ -153,7 +153,7 @@
 			"English": "He baked sugar cookies.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انه خبز الكوكيز السكر.",
 			"Egyptian Arabic Audio": "eca-0648-17.mp3",
 			"Standard Arabic Audio": "msa-0648-17.mp3"
 		},
@@ -162,7 +162,7 @@
 			"English": "Tommy tasted the cookies.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "تومي ذاقت الكوكيز.",
 			"Egyptian Arabic Audio": "eca-0648-18.mp3",
 			"Standard Arabic Audio": "msa-0648-18.mp3"
 		},
@@ -171,7 +171,7 @@
 			"English": "The cookies were delicious.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "الكوكيز كانت لذيذة.",
 			"Egyptian Arabic Audio": "eca-0648-19.mp3",
 			"Standard Arabic Audio": "msa-0648-19.mp3"
 		},
@@ -180,7 +180,7 @@
 			"English": "His mom baked different kind of pies.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أمه خبز نوع مختلف من الفطائر.",
 			"Egyptian Arabic Audio": "eca-0648-20.mp3",
 			"Standard Arabic Audio": "msa-0648-20.mp3"
 		},
@@ -189,7 +189,7 @@
 			"English": "She cooked cherry, apple, pecan, and blueberry pies.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انها المطبوخة الكرز والتفاح، البقان، والفطائر توت.",
 			"Egyptian Arabic Audio": "eca-0648-21.mp3",
 			"Standard Arabic Audio": "msa-0648-21.mp3"
 		},
@@ -198,7 +198,7 @@
 			"English": "All the cookies and pies were sold.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "تم بيع جميع الكعك والفطائر.",
 			"Egyptian Arabic Audio": "eca-0648-22.mp3",
 			"Standard Arabic Audio": "msa-0648-22.mp3"
 		},
@@ -207,7 +207,7 @@
 			"English": "Tommy raised a lot of money.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "تومي أثار الكثير من المال.",
 			"Egyptian Arabic Audio": "eca-0648-23.mp3",
 			"Standard Arabic Audio": "msa-0648-23.mp3"
 		},
@@ -216,7 +216,7 @@
 			"English": "He raised over two hundred dollars.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "رفع أكثر من مائتي دولار.",
 			"Egyptian Arabic Audio": "eca-0648-24.mp3",
 			"Standard Arabic Audio": "msa-0648-24.mp3"
 		},
@@ -225,7 +225,7 @@
 			"English": "The bake sale was a success.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كان بيع الخبز نجاحا.",
 			"Egyptian Arabic Audio": "eca-0648-25.mp3",
 			"Standard Arabic Audio": "msa-0648-25.mp3"
 		}

@@ -11,7 +11,7 @@
 			"English": "Good day! Thanks for meeting with me.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يوم جيد! شكرا على الاجتماع معي.",
 			"Egyptian Arabic Audio": "eca-0913-1.mp3",
 			"Standard Arabic Audio": "msa-0913-1.mp3"
 		},
@@ -21,7 +21,7 @@
 			"English": "You're welcome, Ms. Thomas. Please sit down.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "مرحبا بكم، السيدة توماس. من فضلك اجلس.",
 			"Egyptian Arabic Audio": "eca-0913-2.mp3",
 			"Standard Arabic Audio": "msa-0913-2.mp3"
 		},
@@ -31,7 +31,7 @@
 			"English": "Thank you. Please call me Jane.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "شكرا. يرجى الاتصال بي جين.",
 			"Egyptian Arabic Audio": "eca-0913-3.mp3",
 			"Standard Arabic Audio": "msa-0913-3.mp3"
 		},
@@ -41,7 +41,7 @@
 			"English": "All right! Jane and you can call me Dave.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "حسنا! جين ويمكنك الاتصال بي ديف.",
 			"Egyptian Arabic Audio": "eca-0913-4.mp3",
 			"Standard Arabic Audio": "msa-0913-4.mp3"
 		},
@@ -51,7 +51,7 @@
 			"English": "I am looking to buy a house for myself and my son.",
 			"Word Count": 12,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أتطلع لشراء منزل لنفسي وابني.",
 			"Egyptian Arabic Audio": "eca-0913-5.mp3",
 			"Standard Arabic Audio": "msa-0913-5.mp3"
 		},
@@ -61,7 +61,7 @@
 			"English": "Wonderful! Buying is always a good idea. Do you rent now?",
 			"Word Count": 11,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "رائع! الشراء هو دائما فكرة جيدة. هل تستأجر الآن؟",
 			"Egyptian Arabic Audio": "eca-0913-6.mp3",
 			"Standard Arabic Audio": "msa-0913-6.mp3"
 		},
@@ -71,7 +71,7 @@
 			"English": "I did, but for the last six-months, I've been living with my mother.",
 			"Word Count": 13,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "فعلت، ولكن خلال الستة أشهر الماضية، كنت أعيش مع والدتي.",
 			"Egyptian Arabic Audio": "eca-0913-7.mp3",
 			"Standard Arabic Audio": "msa-0913-7.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "I see. Can I ask you what you do for a living?",
 			"Word Count": 12,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنا أرى. هل يمكنني أن أسألك ما تفعله لقمة العيش؟",
 			"Egyptian Arabic Audio": "eca-0913-8.mp3",
 			"Standard Arabic Audio": "msa-0913-8.mp3"
 		},
@@ -91,7 +91,7 @@
 			"English": "I work for the city planning department.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أعمل لقسم التخطيط بالمدينة.",
 			"Egyptian Arabic Audio": "eca-0913-9.mp3",
 			"Standard Arabic Audio": "msa-0913-9.mp3"
 		},
@@ -101,7 +101,7 @@
 			"English": "That's a good job. How long have you worked there?",
 			"Word Count": 10,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هذا عمل جيد. كم من الوقت عملت هناك؟",
 			"Egyptian Arabic Audio": "eca-0913-10.mp3",
 			"Standard Arabic Audio": "msa-0913-10.mp3"
 		},
@@ -111,7 +111,7 @@
 			"English": "For about three years now.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لمدة ثلاث سنوات الآن.",
 			"Egyptian Arabic Audio": "eca-0913-11.mp3",
 			"Standard Arabic Audio": "msa-0913-11.mp3"
 		},
@@ -121,7 +121,7 @@
 			"English": "All right. Let's get started. I'll see what we can do.",
 			"Word Count": 11,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "حسنا. هيا بنا نبدأ. سأرى ما يمكننا القيام به.",
 			"Egyptian Arabic Audio": "eca-0913-12.mp3",
 			"Standard Arabic Audio": "msa-0913-12.mp3"
 		}

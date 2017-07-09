@@ -9,7 +9,7 @@
 			"English": "It is a sunny day.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "إنه يوم مشمس.",
 			"Egyptian Arabic Audio": "eca-0032-1.mp3",
 			"Standard Arabic Audio": "msa-0032-1.mp3"
 		},
@@ -18,7 +18,7 @@
 			"English": "She feels hot.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انها تشعر الساخنة.",
 			"Egyptian Arabic Audio": "eca-0032-2.mp3",
 			"Standard Arabic Audio": "msa-0032-2.mp3"
 		},
@@ -27,7 +27,7 @@
 			"English": "She fans herself with a book.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وقالت انها المشجعين نفسها مع كتاب.",
 			"Egyptian Arabic Audio": "eca-0032-3.mp3",
 			"Standard Arabic Audio": "msa-0032-3.mp3"
 		},
@@ -36,7 +36,7 @@
 			"English": "It is still hot.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لا تزال ساخنة.",
 			"Egyptian Arabic Audio": "eca-0032-4.mp3",
 			"Standard Arabic Audio": "msa-0032-4.mp3"
 		},
@@ -45,7 +45,7 @@
 			"English": "She turns on the air conditioner.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انها تتحول على مكيف الهواء.",
 			"Egyptian Arabic Audio": "eca-0032-5.mp3",
 			"Standard Arabic Audio": "msa-0032-5.mp3"
 		},
@@ -54,7 +54,7 @@
 			"English": "It is still hot.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لا تزال ساخنة.",
 			"Egyptian Arabic Audio": "eca-0032-6.mp3",
 			"Standard Arabic Audio": "msa-0032-6.mp3"
 		},
@@ -63,7 +63,7 @@
 			"English": "She jumps into a pool.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "إنها تقفز إلى بركة.",
 			"Egyptian Arabic Audio": "eca-0032-7.mp3",
 			"Standard Arabic Audio": "msa-0032-7.mp3"
 		},
@@ -72,7 +72,7 @@
 			"English": "It is still hot.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لا تزال ساخنة.",
 			"Egyptian Arabic Audio": "eca-0032-8.mp3",
 			"Standard Arabic Audio": "msa-0032-8.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "Her dad has an idea! He takes her to the ice cream shop.",
 			"Word Count": 13,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "والدها لديه فكرة! يأخذها إلى متجر الآيس كريم.",
 			"Egyptian Arabic Audio": "eca-0032-9.mp3",
 			"Standard Arabic Audio": "msa-0032-9.mp3"
 		},
@@ -90,7 +90,7 @@
 			"English": "They share a banana split.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وهم يتقاسمون انقسام الموز.",
 			"Egyptian Arabic Audio": "eca-0032-10.mp3",
 			"Standard Arabic Audio": "msa-0032-10.mp3"
 		},
@@ -99,7 +99,7 @@
 			"English": "She does not feel hot anymore.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انها لا يشعر الساخنة بعد الآن.",
 			"Egyptian Arabic Audio": "eca-0032-11.mp3",
 			"Standard Arabic Audio": "msa-0032-11.mp3"
 		}

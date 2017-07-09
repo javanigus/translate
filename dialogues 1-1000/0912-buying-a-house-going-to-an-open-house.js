@@ -11,7 +11,7 @@
 			"English": "Hey Richard, are you busy today?",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يا ريتشارد، هل أنت مشغول اليوم؟",
 			"Egyptian Arabic Audio": "eca-0912-1.mp3",
 			"Standard Arabic Audio": "msa-0912-1.mp3"
 		},
@@ -21,7 +21,7 @@
 			"English": "I have a couple of errands to run, but I should be done early.",
 			"Word Count": 14,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لدي بضع مهمات لتشغيل، ولكن ينبغي أن يتم ذلك في وقت مبكر.",
 			"Egyptian Arabic Audio": "eca-0912-2.mp3",
 			"Standard Arabic Audio": "msa-0912-2.mp3"
 		},
@@ -31,7 +31,7 @@
 			"English": "If you have time this afternoon, do you want to go with me?",
 			"Word Count": 13,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "إذا كان لديك وقت بعد ظهر هذا اليوم، هل تريد أن تذهب معي؟",
 			"Egyptian Arabic Audio": "eca-0912-3.mp3",
 			"Standard Arabic Audio": "msa-0912-3.mp3"
 		},
@@ -41,7 +41,7 @@
 			"English": "Sure! Where are you going?",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "بالتأكيد! إلى أين تذهب؟",
 			"Egyptian Arabic Audio": "eca-0912-4.mp3",
 			"Standard Arabic Audio": "msa-0912-4.mp3"
 		},
@@ -51,7 +51,7 @@
 			"English": "I'm going to an open house in San Gabriel today.",
 			"Word Count": 10,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنا ذاهب إلى بيت مفتوح في سان جبرائيل اليوم.",
 			"Egyptian Arabic Audio": "eca-0912-5.mp3",
 			"Standard Arabic Audio": "msa-0912-5.mp3"
 		},
@@ -61,7 +61,7 @@
 			"English": "I didn't know you were looking for a house.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لم أكن أعرف أنك تبحث عن منزل.",
 			"Egyptian Arabic Audio": "eca-0912-6.mp3",
 			"Standard Arabic Audio": "msa-0912-6.mp3"
 		},
@@ -71,7 +71,7 @@
 			"English": "I am not ready to buy today. I'm just checking the market out.",
 			"Word Count": 13,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنا لست على استعداد لشراء اليوم. أنا مجرد التحقق من السوق بها.",
 			"Egyptian Arabic Audio": "eca-0912-7.mp3",
 			"Standard Arabic Audio": "msa-0912-7.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "That's very smart.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هذا ذكي جدا.",
 			"Egyptian Arabic Audio": "eca-0912-8.mp3",
 			"Standard Arabic Audio": "msa-0912-8.mp3"
 		},
@@ -91,7 +91,7 @@
 			"English": "I want to see what I can afford.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أريد أن أرى ما يمكنني تحمله.",
 			"Egyptian Arabic Audio": "eca-0912-9.mp3",
 			"Standard Arabic Audio": "msa-0912-9.mp3"
 		},
@@ -101,7 +101,7 @@
 			"English": "That makes total sense. Count me in.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وهذا يجعل الشعور الكامل. احسبها علي.",
 			"Egyptian Arabic Audio": "eca-0912-10.mp3",
 			"Standard Arabic Audio": "msa-0912-10.mp3"
 		},
@@ -111,7 +111,7 @@
 			"English": "Okay, then I'll pick you up at about 3 p.m. Is that okay?",
 			"Word Count": 13,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "حسنا، ثم سوف يقلك في حوالي 3 مساء هل هذا بخير؟",
 			"Egyptian Arabic Audio": "eca-0912-11.mp3",
 			"Standard Arabic Audio": "msa-0912-11.mp3"
 		},
@@ -121,7 +121,7 @@
 			"English": "Yes, I should be done by then. Thanks.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "نعم، يجب أن يتم ذلك بحلول ذلك الحين. شكر.",
 			"Egyptian Arabic Audio": "eca-0912-12.mp3",
 			"Standard Arabic Audio": "msa-0912-12.mp3"
 		}

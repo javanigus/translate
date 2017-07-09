@@ -11,7 +11,7 @@
 			"English": "The first thing you want to do is fasten your seat belt.",
 			"Word Count": 12,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أول شيء تريد القيام به هو ربط حزام الأمان الخاص بك.",
 			"Egyptian Arabic Audio": "eca-0629-1.mp3",
 			"Standard Arabic Audio": "msa-0629-1.mp3"
 		},
@@ -21,7 +21,7 @@
 			"English": "Check. What's next?",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "التحقق من. ماذا بعد؟",
 			"Egyptian Arabic Audio": "eca-0629-2.mp3",
 			"Standard Arabic Audio": "msa-0629-2.mp3"
 		},
@@ -31,7 +31,7 @@
 			"English": "Check your mirrors and make sure you can see behind you.",
 			"Word Count": 11,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "تحقق المرايا الخاصة بك وتأكد من أنك يمكن أن نرى وراءك.",
 			"Egyptian Arabic Audio": "eca-0629-3.mp3",
 			"Standard Arabic Audio": "msa-0629-3.mp3"
 		},
@@ -41,7 +41,7 @@
 			"English": "Done. Should I put it in reverse, now?",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "فعله. هل يجب وضعه في الاتجاه المعاكس، الآن؟",
 			"Egyptian Arabic Audio": "eca-0629-4.mp3",
 			"Standard Arabic Audio": "msa-0629-4.mp3"
 		},
@@ -51,7 +51,7 @@
 			"English": "Yes, ease off the brake slowly.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "نعم، تخفيف قبالة الفرامل ببطء.",
 			"Egyptian Arabic Audio": "eca-0629-5.mp3",
 			"Standard Arabic Audio": "msa-0629-5.mp3"
 		},
@@ -61,7 +61,7 @@
 			"English": "Okay, I need to turn to leave the parking lot.",
 			"Word Count": 10,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "حسنا، أنا بحاجة إلى التوجه إلى ترك موقف للسيارات.",
 			"Egyptian Arabic Audio": "eca-0629-6.mp3",
 			"Standard Arabic Audio": "msa-0629-6.mp3"
 		},
@@ -71,7 +71,7 @@
 			"English": "Make sure there are no pedestrians walking behind you.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "تأكد من عدم وجود مشاة يسيرون خلفك.",
 			"Egyptian Arabic Audio": "eca-0629-7.mp3",
 			"Standard Arabic Audio": "msa-0629-7.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "Okay, do I turn the steering wheel to the left?",
 			"Word Count": 10,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "حسنا، هل أتحول عجلة القيادة إلى اليسار؟",
 			"Egyptian Arabic Audio": "eca-0629-8.mp3",
 			"Standard Arabic Audio": "msa-0629-8.mp3"
 		},
@@ -91,7 +91,7 @@
 			"English": "Yes, make sure you are paying attention to the cars.",
 			"Word Count": 10,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "نعم، تأكد من أنك تولي اهتماما للسيارات.",
 			"Egyptian Arabic Audio": "eca-0629-9.mp3",
 			"Standard Arabic Audio": "msa-0629-9.mp3"
 		},
@@ -101,7 +101,7 @@
 			"English": "Will do. Do I put it in drive now?",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "سوف تفعل. هل أضعه في محرك الأقراص الآن؟",
 			"Egyptian Arabic Audio": "eca-0629-10.mp3",
 			"Standard Arabic Audio": "msa-0629-10.mp3"
 		},
@@ -111,7 +111,7 @@
 			"English": "Yes, but remember have your foot on the brake and then ease it off.",
 			"Word Count": 14,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "نعم، ولكن تذكر أن يكون قدمك على الفرامل ومن ثم تخفيفه.",
 			"Egyptian Arabic Audio": "eca-0629-11.mp3",
 			"Standard Arabic Audio": "msa-0629-11.mp3"
 		},
@@ -121,7 +121,7 @@
 			"English": "Wow, this seems easy. Let's go out on the street.",
 			"Word Count": 10,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "نجاح باهر، وهذا يبدو سهلا. دعونا نخرج في الشارع.",
 			"Egyptian Arabic Audio": "eca-0629-12.mp3",
 			"Standard Arabic Audio": "msa-0629-12.mp3"
 		}

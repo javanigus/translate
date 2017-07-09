@@ -9,7 +9,7 @@
 			"English": "It is Black Friday.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "إنه يوم الجمعة الأسود.",
 			"Egyptian Arabic Audio": "eca-0130-1.mp3",
 			"Standard Arabic Audio": "msa-0130-1.mp3"
 		},
@@ -18,7 +18,7 @@
 			"English": "Black Friday is always the day after Thanksgiving.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يوم الجمعة الأسود هو دائما يوم بعد عيد الشكر.",
 			"Egyptian Arabic Audio": "eca-0130-2.mp3",
 			"Standard Arabic Audio": "msa-0130-2.mp3"
 		},
@@ -27,7 +27,7 @@
 			"English": "A lot of stores have good deals.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وهناك الكثير من المتاجر لديها صفقات جيدة.",
 			"Egyptian Arabic Audio": "eca-0130-3.mp3",
 			"Standard Arabic Audio": "msa-0130-3.mp3"
 		},
@@ -36,7 +36,7 @@
 			"English": "The stores are busy.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "المخازن مشغولة.",
 			"Egyptian Arabic Audio": "eca-0130-4.mp3",
 			"Standard Arabic Audio": "msa-0130-4.mp3"
 		},
@@ -45,7 +45,7 @@
 			"English": "The lines are long.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "خطوط طويلة.",
 			"Egyptian Arabic Audio": "eca-0130-5.mp3",
 			"Standard Arabic Audio": "msa-0130-5.mp3"
 		},
@@ -54,7 +54,7 @@
 			"English": "People want to buy things.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "الناس يريدون شراء الأشياء.",
 			"Egyptian Arabic Audio": "eca-0130-6.mp3",
 			"Standard Arabic Audio": "msa-0130-6.mp3"
 		},
@@ -63,7 +63,7 @@
 			"English": "They buy clothes.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يشترون الملابس.",
 			"Egyptian Arabic Audio": "eca-0130-7.mp3",
 			"Standard Arabic Audio": "msa-0130-7.mp3"
 		},
@@ -72,7 +72,7 @@
 			"English": "They buy electronics.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يشترون الإلكترونيات.",
 			"Egyptian Arabic Audio": "eca-0130-8.mp3",
 			"Standard Arabic Audio": "msa-0130-8.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "They buy cooking items.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يشترون مواد الطبخ.",
 			"Egyptian Arabic Audio": "eca-0130-9.mp3",
 			"Standard Arabic Audio": "msa-0130-9.mp3"
 		},
@@ -90,7 +90,7 @@
 			"English": "Sometimes people fight for items.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أحيانا يقاتل الناس من أجل العناصر.",
 			"Egyptian Arabic Audio": "eca-0130-10.mp3",
 			"Standard Arabic Audio": "msa-0130-10.mp3"
 		},
@@ -99,7 +99,7 @@
 			"English": "It can get crazy.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يمكن أن تحصل على مجنون.",
 			"Egyptian Arabic Audio": "eca-0130-11.mp3",
 			"Standard Arabic Audio": "msa-0130-11.mp3"
 		}

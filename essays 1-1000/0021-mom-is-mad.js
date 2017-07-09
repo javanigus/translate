@@ -9,7 +9,7 @@
 			"English": "Robert's room is messy.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "غرفة روبرت فوضوي.",
 			"Egyptian Arabic Audio": "eca-0021-1.mp3",
 			"Standard Arabic Audio": "msa-0021-1.mp3"
 		},
@@ -18,7 +18,7 @@
 			"English": "There is pizza under his bed.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هناك البيتزا تحت سريره.",
 			"Egyptian Arabic Audio": "eca-0021-2.mp3",
 			"Standard Arabic Audio": "msa-0021-2.mp3"
 		},
@@ -27,7 +27,7 @@
 			"English": "There is glue on the wall.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هناك الغراء على الحائط.",
 			"Egyptian Arabic Audio": "eca-0021-3.mp3",
 			"Standard Arabic Audio": "msa-0021-3.mp3"
 		},
@@ -36,7 +36,7 @@
 			"English": "There is a pile of clothes.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هناك كومة من الملابس.",
 			"Egyptian Arabic Audio": "eca-0021-4.mp3",
 			"Standard Arabic Audio": "msa-0021-4.mp3"
 		},
@@ -45,7 +45,7 @@
 			"English": "There are toys on the floor.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هناك لعب على الأرض.",
 			"Egyptian Arabic Audio": "eca-0021-5.mp3",
 			"Standard Arabic Audio": "msa-0021-5.mp3"
 		},
@@ -54,7 +54,7 @@
 			"English": "Robert does not care.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "روبرت لا يهمني.",
 			"Egyptian Arabic Audio": "eca-0021-6.mp3",
 			"Standard Arabic Audio": "msa-0021-6.mp3"
 		},
@@ -63,7 +63,7 @@
 			"English": "He watches a television show.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وهو يشاهد برنامج تلفزيوني.",
 			"Egyptian Arabic Audio": "eca-0021-7.mp3",
 			"Standard Arabic Audio": "msa-0021-7.mp3"
 		},
@@ -72,7 +72,7 @@
 			"English": "His mom goes into his room.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أمه يذهب إلى غرفته.",
 			"Egyptian Arabic Audio": "eca-0021-8.mp3",
 			"Standard Arabic Audio": "msa-0021-8.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "She turns off the television.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انها إيقاف التلفزيون.",
 			"Egyptian Arabic Audio": "eca-0021-9.mp3",
 			"Standard Arabic Audio": "msa-0021-9.mp3"
 		},
@@ -90,7 +90,7 @@
 			"English": "She yells at him.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وقالت يصرخ في وجهه.",
 			"Egyptian Arabic Audio": "eca-0021-10.mp3",
 			"Standard Arabic Audio": "msa-0021-10.mp3"
 		},
@@ -99,7 +99,7 @@
 			"English": "He starts to clean his room.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يبدأ تنظيف غرفته.",
 			"Egyptian Arabic Audio": "eca-0021-11.mp3",
 			"Standard Arabic Audio": "msa-0021-11.mp3"
 		}

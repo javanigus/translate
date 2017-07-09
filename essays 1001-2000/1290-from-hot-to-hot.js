@@ -9,7 +9,7 @@
 			"English": "The days were hot.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كانت الأيام ساخنة.",
 			"Egyptian Arabic Audio": "eca-1290-1.mp3",
 			"Standard Arabic Audio": "msa-1290-1.mp3"
 		},
@@ -18,7 +18,7 @@
 			"English": "The nights were hot.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كانت الليالي ساخنة.",
 			"Egyptian Arabic Audio": "eca-1290-2.mp3",
 			"Standard Arabic Audio": "msa-1290-2.mp3"
 		},
@@ -27,7 +27,7 @@
 			"English": "He turned on the living room fan.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "شغل مروحة غرفة المعيشة.",
 			"Egyptian Arabic Audio": "eca-1290-3.mp3",
 			"Standard Arabic Audio": "msa-1290-3.mp3"
 		},
@@ -36,7 +36,7 @@
 			"English": "He turned on the dining room fan.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "شغل مروحة غرفة الطعام.",
 			"Egyptian Arabic Audio": "eca-1290-4.mp3",
 			"Standard Arabic Audio": "msa-1290-4.mp3"
 		},
@@ -45,7 +45,7 @@
 			"English": "Both fans were on high speed.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كان كل من المشجعين على سرعة عالية.",
 			"Egyptian Arabic Audio": "eca-1290-5.mp3",
 			"Standard Arabic Audio": "msa-1290-5.mp3"
 		},
@@ -54,7 +54,7 @@
 			"English": "They made a lot of noise.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنها جعلت الكثير من الضوضاء.",
 			"Egyptian Arabic Audio": "eca-1290-6.mp3",
 			"Standard Arabic Audio": "msa-1290-6.mp3"
 		},
@@ -63,7 +63,7 @@
 			"English": "But they didn't blow cool air.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لكنها لم تهب الهواء البارد.",
 			"Egyptian Arabic Audio": "eca-1290-7.mp3",
 			"Standard Arabic Audio": "msa-1290-7.mp3"
 		},
@@ -72,7 +72,7 @@
 			"English": "They blew hot air.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "فجروا الهواء الساخن.",
 			"Egyptian Arabic Audio": "eca-1290-8.mp3",
 			"Standard Arabic Audio": "msa-1290-8.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "They blew hot air everywhere.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "فجروا الهواء الساخن في كل مكان.",
 			"Egyptian Arabic Audio": "eca-1290-9.mp3",
 			"Standard Arabic Audio": "msa-1290-9.mp3"
 		},
@@ -90,7 +90,7 @@
 			"English": "He turned off the fans.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أوقف المشجعين.",
 			"Egyptian Arabic Audio": "eca-1290-10.mp3",
 			"Standard Arabic Audio": "msa-1290-10.mp3"
 		},
@@ -99,7 +99,7 @@
 			"English": "He turned on the air conditioner.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وقال انه تحول على مكيف الهواء.",
 			"Egyptian Arabic Audio": "eca-1290-11.mp3",
 			"Standard Arabic Audio": "msa-1290-11.mp3"
 		},
@@ -108,7 +108,7 @@
 			"English": "He closed all the windows.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أغلق جميع النوافذ.",
 			"Egyptian Arabic Audio": "eca-1290-12.mp3",
 			"Standard Arabic Audio": "msa-1290-12.mp3"
 		},
@@ -117,7 +117,7 @@
 			"English": "He closed the front door.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أغلق الباب الأمامي.",
 			"Egyptian Arabic Audio": "eca-1290-13.mp3",
 			"Standard Arabic Audio": "msa-1290-13.mp3"
 		},
@@ -126,7 +126,7 @@
 			"English": "The apartment began to cool down.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "بدأت الشقة لتبرد.",
 			"Egyptian Arabic Audio": "eca-1290-14.mp3",
 			"Standard Arabic Audio": "msa-1290-14.mp3"
 		},
@@ -135,7 +135,7 @@
 			"English": "It got cooler and cooler.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انها حصلت على برودة وبرودة.",
 			"Egyptian Arabic Audio": "eca-1290-15.mp3",
 			"Standard Arabic Audio": "msa-1290-15.mp3"
 		},
@@ -144,7 +144,7 @@
 			"English": "Then he heard a bang.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ثم سمع ضجة.",
 			"Egyptian Arabic Audio": "eca-1290-16.mp3",
 			"Standard Arabic Audio": "msa-1290-16.mp3"
 		},
@@ -153,7 +153,7 @@
 			"English": "It was a loud bang.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كان الانفجار صاخبا.",
 			"Egyptian Arabic Audio": "eca-1290-17.mp3",
 			"Standard Arabic Audio": "msa-1290-17.mp3"
 		},
@@ -162,7 +162,7 @@
 			"English": "He thought a plane had crashed onto the roof.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وقال انه يعتقد ان طائرة تحطمت على السطح.",
 			"Egyptian Arabic Audio": "eca-1290-18.mp3",
 			"Standard Arabic Audio": "msa-1290-18.mp3"
 		},
@@ -171,7 +171,7 @@
 			"English": "But it wasn't a plane.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لكنها لم تكن طائرة.",
 			"Egyptian Arabic Audio": "eca-1290-19.mp3",
 			"Standard Arabic Audio": "msa-1290-19.mp3"
 		},
@@ -180,7 +180,7 @@
 			"English": "It was the air conditioner compressor.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كان ضاغط مكيف الهواء.",
 			"Egyptian Arabic Audio": "eca-1290-20.mp3",
 			"Standard Arabic Audio": "msa-1290-20.mp3"
 		},
@@ -189,7 +189,7 @@
 			"English": "It had broken down.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وقد تفككت.",
 			"Egyptian Arabic Audio": "eca-1290-21.mp3",
 			"Standard Arabic Audio": "msa-1290-21.mp3"
 		},
@@ -198,7 +198,7 @@
 			"English": "He opened the door.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وقال انه فتح الباب.",
 			"Egyptian Arabic Audio": "eca-1290-22.mp3",
 			"Standard Arabic Audio": "msa-1290-22.mp3"
 		},
@@ -207,7 +207,7 @@
 			"English": "He opened the windows.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "فتح النوافذ.",
 			"Egyptian Arabic Audio": "eca-1290-23.mp3",
 			"Standard Arabic Audio": "msa-1290-23.mp3"
 		}

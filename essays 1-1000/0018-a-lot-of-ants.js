@@ -9,7 +9,7 @@
 			"English": "She eats a slice of cake.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انها تأكل شريحة من الكعكة.",
 			"Egyptian Arabic Audio": "eca-0018-1.mp3",
 			"Standard Arabic Audio": "msa-0018-1.mp3"
 		},
@@ -18,7 +18,7 @@
 			"English": "She drops a crumb.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وقالت انها قطرات الفتات.",
 			"Egyptian Arabic Audio": "eca-0018-2.mp3",
 			"Standard Arabic Audio": "msa-0018-2.mp3"
 		},
@@ -27,7 +27,7 @@
 			"English": "The ants can smell it.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "النمل يمكن أن رائحة ذلك.",
 			"Egyptian Arabic Audio": "eca-0018-3.mp3",
 			"Standard Arabic Audio": "msa-0018-3.mp3"
 		},
@@ -36,7 +36,7 @@
 			"English": "They crawl towards the crumb.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يزحفون نحو الفتات.",
 			"Egyptian Arabic Audio": "eca-0018-4.mp3",
 			"Standard Arabic Audio": "msa-0018-4.mp3"
 		},
@@ -45,7 +45,7 @@
 			"English": "She notices the ants.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وهي تلاحظ النمل.",
 			"Egyptian Arabic Audio": "eca-0018-5.mp3",
 			"Standard Arabic Audio": "msa-0018-5.mp3"
 		},
@@ -54,7 +54,7 @@
 			"English": "She does not want to kill them.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انها لا تريد قتلهم.",
 			"Egyptian Arabic Audio": "eca-0018-6.mp3",
 			"Standard Arabic Audio": "msa-0018-6.mp3"
 		},
@@ -63,7 +63,7 @@
 			"English": "She gets a cup.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "تحصل على كوب.",
 			"Egyptian Arabic Audio": "eca-0018-7.mp3",
 			"Standard Arabic Audio": "msa-0018-7.mp3"
 		},
@@ -72,7 +72,7 @@
 			"English": "She puts the ants inside.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "إنها تضع النمل في الداخل.",
 			"Egyptian Arabic Audio": "eca-0018-8.mp3",
 			"Standard Arabic Audio": "msa-0018-8.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "She opens the window.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "فتحت النافذة.",
 			"Egyptian Arabic Audio": "eca-0018-9.mp3",
 			"Standard Arabic Audio": "msa-0018-9.mp3"
 		},
@@ -90,7 +90,7 @@
 			"English": "She lets the ants go.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انها تسمح للنمل الذهاب.",
 			"Egyptian Arabic Audio": "eca-0018-10.mp3",
 			"Standard Arabic Audio": "msa-0018-10.mp3"
 		}

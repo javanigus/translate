@@ -9,7 +9,7 @@
 			"English": "They soon took off to the stadium.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وسرعان ما نزلوا إلى الملعب.",
 			"Egyptian Arabic Audio": "eca-1771-1.mp3",
 			"Standard Arabic Audio": "msa-1771-1.mp3"
 		},
@@ -18,7 +18,7 @@
 			"English": "The line was long when they got to the stands where they sold tickets.",
 			"Word Count": 14,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كان الخط طويلا عندما وصلوا إلى المدرجات حيث باعوا التذاكر.",
 			"Egyptian Arabic Audio": "eca-1771-2.mp3",
 			"Standard Arabic Audio": "msa-1771-2.mp3"
 		},
@@ -27,7 +27,7 @@
 			"English": "Mike and Maria got in line and waited for nearly one hour before they bought their tickets.",
 			"Word Count": 17,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "حصل مايك وماريا على خط الانتظار وانتظرا لمدة ساعة تقريبا قبل أن يشتروا تذاكرهما.",
 			"Egyptian Arabic Audio": "eca-1771-3.mp3",
 			"Standard Arabic Audio": "msa-1771-3.mp3"
 		},
@@ -36,7 +36,7 @@
 			"English": "After they bought their tickets, they went inside the stadium and went to their seats.",
 			"Word Count": 15,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "بعد أن اشتروا تذاكرهم، ذهبوا داخل الملعب وذهبوا إلى مقاعدهم.",
 			"Egyptian Arabic Audio": "eca-1771-4.mp3",
 			"Standard Arabic Audio": "msa-1771-4.mp3"
 		},
@@ -45,7 +45,7 @@
 			"English": "Their seats were rather close to the baseball field.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وكانت مقاعدهم قريبة من ملعب البيسبول.",
 			"Egyptian Arabic Audio": "eca-1771-5.mp3",
 			"Standard Arabic Audio": "msa-1771-5.mp3"
 		},
@@ -54,7 +54,7 @@
 			"English": "Mike thought they had the best seats in the stadium.",
 			"Word Count": 10,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يعتقد مايك أن لديهم أفضل المقاعد في الملعب.",
 			"Egyptian Arabic Audio": "eca-1771-6.mp3",
 			"Standard Arabic Audio": "msa-1771-6.mp3"
 		},
@@ -63,7 +63,7 @@
 			"English": "The game didn't start for another thirty minutes.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لم تبدأ اللعبة لمدة ثلاثين دقيقة أخرى.",
 			"Egyptian Arabic Audio": "eca-1771-7.mp3",
 			"Standard Arabic Audio": "msa-1771-7.mp3"
 		}

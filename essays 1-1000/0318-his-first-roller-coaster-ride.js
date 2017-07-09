@@ -9,7 +9,7 @@
 			"English": "He gets on the roller coaster.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يحصل على السفينة الدوارة.",
 			"Egyptian Arabic Audio": "eca-0318-1.mp3",
 			"Standard Arabic Audio": "msa-0318-1.mp3"
 		},
@@ -18,7 +18,7 @@
 			"English": "His mom sits next to him.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أمه يجلس بجانبه.",
 			"Egyptian Arabic Audio": "eca-0318-2.mp3",
 			"Standard Arabic Audio": "msa-0318-2.mp3"
 		},
@@ -27,7 +27,7 @@
 			"English": "This is his first roller coaster ride.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هذا هو أول ركوب السفينة الدوارة.",
 			"Egyptian Arabic Audio": "eca-0318-3.mp3",
 			"Standard Arabic Audio": "msa-0318-3.mp3"
 		},
@@ -36,7 +36,7 @@
 			"English": "The roller coaster starts up.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "السفينة الدوارة تبدأ.",
 			"Egyptian Arabic Audio": "eca-0318-4.mp3",
 			"Standard Arabic Audio": "msa-0318-4.mp3"
 		},
@@ -45,7 +45,7 @@
 			"English": "It is fast.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انه سريع.",
 			"Egyptian Arabic Audio": "eca-0318-5.mp3",
 			"Standard Arabic Audio": "msa-0318-5.mp3"
 		},
@@ -54,7 +54,7 @@
 			"English": "It goes up and down.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وغني صعودا وهبوطا.",
 			"Egyptian Arabic Audio": "eca-0318-6.mp3",
 			"Standard Arabic Audio": "msa-0318-6.mp3"
 		},
@@ -63,7 +63,7 @@
 			"English": "It goes around and around.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يذهب حولها وحولها.",
 			"Egyptian Arabic Audio": "eca-0318-7.mp3",
 			"Standard Arabic Audio": "msa-0318-7.mp3"
 		},
@@ -72,7 +72,7 @@
 			"English": "He looks at his mom.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وهو ينظر إلى أمه.",
 			"Egyptian Arabic Audio": "eca-0318-8.mp3",
 			"Standard Arabic Audio": "msa-0318-8.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "His mom looks at him.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أمه تنظر إليه.",
 			"Egyptian Arabic Audio": "eca-0318-9.mp3",
 			"Standard Arabic Audio": "msa-0318-9.mp3"
 		},
@@ -90,7 +90,7 @@
 			"English": "They both laugh.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كلاهما يضحكون.",
 			"Egyptian Arabic Audio": "eca-0318-10.mp3",
 			"Standard Arabic Audio": "msa-0318-10.mp3"
 		},
@@ -99,7 +99,7 @@
 			"English": "The roller coaster is fun!.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "السفينة الدوارة هو متعة !.",
 			"Egyptian Arabic Audio": "eca-0318-11.mp3",
 			"Standard Arabic Audio": "msa-0318-11.mp3"
 		}

@@ -11,7 +11,7 @@
 			"English": "I'd like to buy some flowers for my best friend's birthday.",
 			"Word Count": 11,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أود شراء بعض الزهور لأفضل عيد ميلاد صديقي.",
 			"Egyptian Arabic Audio": "eca-0859-1.mp3",
 			"Standard Arabic Audio": "msa-0859-1.mp3"
 		},
@@ -21,7 +21,7 @@
 			"English": "What is your friend's favorite color?",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ما هو لون صديقك المفضل؟",
 			"Egyptian Arabic Audio": "eca-0859-2.mp3",
 			"Standard Arabic Audio": "msa-0859-2.mp3"
 		},
@@ -31,7 +31,7 @@
 			"English": "She loves the color pink.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "تحب اللون الوردي.",
 			"Egyptian Arabic Audio": "eca-0859-3.mp3",
 			"Standard Arabic Audio": "msa-0859-3.mp3"
 		},
@@ -41,7 +41,7 @@
 			"English": "I can make her a bouquet with pink roses.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنا يمكن أن تجعل لها باقة مع الورود الوردي.",
 			"Egyptian Arabic Audio": "eca-0859-4.mp3",
 			"Standard Arabic Audio": "msa-0859-4.mp3"
 		},
@@ -51,7 +51,7 @@
 			"English": "I don't want roses because that seems romantic, not to mention expensive.",
 			"Word Count": 12,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنا لا أريد الورود لأن هذا يبدو رومانسيا، ناهيك عن مكلفة.",
 			"Egyptian Arabic Audio": "eca-0859-5.mp3",
 			"Standard Arabic Audio": "msa-0859-5.mp3"
 		},
@@ -61,7 +61,7 @@
 			"English": "I can make the bouquet with carnations, lilies, and daisies instead.",
 			"Word Count": 11,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يمكنني جعل باقة مع القرنفل، الزنابق، و البابونج بدلا من ذلك.",
 			"Egyptian Arabic Audio": "eca-0859-6.mp3",
 			"Standard Arabic Audio": "msa-0859-6.mp3"
 		},
@@ -71,7 +71,7 @@
 			"English": "That sounds friendlier and cheaper.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هذا يبدو أكثر صداقة وأرخص.",
 			"Egyptian Arabic Audio": "eca-0859-7.mp3",
 			"Standard Arabic Audio": "msa-0859-7.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "Would you like these to be delivered to your friend?",
 			"Word Count": 10,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هل ترغب في أن يتم تسليمها إلى صديقك؟",
 			"Egyptian Arabic Audio": "eca-0859-8.mp3",
 			"Standard Arabic Audio": "msa-0859-8.mp3"
 		},
@@ -91,7 +91,7 @@
 			"English": "That would be a great surprise.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وسيكون ذلك مفاجأة كبيرة.",
 			"Egyptian Arabic Audio": "eca-0859-9.mp3",
 			"Standard Arabic Audio": "msa-0859-9.mp3"
 		},
@@ -101,7 +101,7 @@
 			"English": "Just fill out this card and include the delivery address.",
 			"Word Count": 10,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ما عليك سوى ملء هذه البطاقة وتضمين عنوان التسليم.",
 			"Egyptian Arabic Audio": "eca-0859-10.mp3",
 			"Standard Arabic Audio": "msa-0859-10.mp3"
 		},
@@ -111,7 +111,7 @@
 			"English": "Can you deliver these today?",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يمكنك تقديم هذه اليوم؟",
 			"Egyptian Arabic Audio": "eca-0859-11.mp3",
 			"Standard Arabic Audio": "msa-0859-11.mp3"
 		},
@@ -121,7 +121,7 @@
 			"English": "I can have them to your friend before 5 p.m.",
 			"Word Count": 10,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يمكن أن يكون لهم لصديقك قبل 5 مساء",
 			"Egyptian Arabic Audio": "eca-0859-12.mp3",
 			"Standard Arabic Audio": "msa-0859-12.mp3"
 		}

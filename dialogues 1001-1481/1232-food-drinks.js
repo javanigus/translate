@@ -11,7 +11,7 @@
 			"English": "I'm so thirsty.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنا عطشان جدآ.",
 			"Egyptian Arabic Audio": "eca-1232-1.mp3",
 			"Standard Arabic Audio": "msa-1232-1.mp3"
 		},
@@ -21,7 +21,7 @@
 			"English": "Let's go get something to drink.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "دعنا نذهب للحصول على شيء للشرب.",
 			"Egyptian Arabic Audio": "eca-1232-2.mp3",
 			"Standard Arabic Audio": "msa-1232-2.mp3"
 		},
@@ -31,7 +31,7 @@
 			"English": "That's a good idea.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "إنها فكرةجيدة.",
 			"Egyptian Arabic Audio": "eca-1232-3.mp3",
 			"Standard Arabic Audio": "msa-1232-3.mp3"
 		},
@@ -41,7 +41,7 @@
 			"English": "Do you know what you want to drink?",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هل تعرف ما تريد شربه؟",
 			"Egyptian Arabic Audio": "eca-1232-4.mp3",
 			"Standard Arabic Audio": "msa-1232-4.mp3"
 		},
@@ -51,7 +51,7 @@
 			"English": "I kind of want a soda.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنا نوع من الصودا.",
 			"Egyptian Arabic Audio": "eca-1232-5.mp3",
 			"Standard Arabic Audio": "msa-1232-5.mp3"
 		},
@@ -61,7 +61,7 @@
 			"English": "You shouldn't drink soda when you're really thirsty.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يجب أن لا تشرب الصودا عندما كنت عطشان حقا.",
 			"Egyptian Arabic Audio": "eca-1232-6.mp3",
 			"Standard Arabic Audio": "msa-1232-6.mp3"
 		},
@@ -71,7 +71,7 @@
 			"English": "What do you mean?",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ماذا تعني؟",
 			"Egyptian Arabic Audio": "eca-1232-7.mp3",
 			"Standard Arabic Audio": "msa-1232-7.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "When you're thirsty, you're not supposed to drink soda.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "عندما كنت عطشان، أنت لا يفترض أن تشرب الصودا.",
 			"Egyptian Arabic Audio": "eca-1232-8.mp3",
 			"Standard Arabic Audio": "msa-1232-8.mp3"
 		},
@@ -91,7 +91,7 @@
 			"English": "What are you supposed to drink?",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ما الذي يفترض أن تشربه؟",
 			"Egyptian Arabic Audio": "eca-1232-9.mp3",
 			"Standard Arabic Audio": "msa-1232-9.mp3"
 		},
@@ -101,7 +101,7 @@
 			"English": "Water is what's best for you.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "الماء هو ما هو أفضل بالنسبة لك.",
 			"Egyptian Arabic Audio": "eca-1232-10.mp3",
 			"Standard Arabic Audio": "msa-1232-10.mp3"
 		},
@@ -111,7 +111,7 @@
 			"English": "I guess I will get water.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أعتقد أنني سوف تحصل على المياه.",
 			"Egyptian Arabic Audio": "eca-1232-11.mp3",
 			"Standard Arabic Audio": "msa-1232-11.mp3"
 		},
@@ -121,7 +121,7 @@
 			"English": "It's better for you.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "فمن الأفضل لك.",
 			"Egyptian Arabic Audio": "eca-1232-12.mp3",
 			"Standard Arabic Audio": "msa-1232-12.mp3"
 		},
@@ -131,7 +131,7 @@
 			"English": "I am really thirsty.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنا عطشان حقا.",
 			"Egyptian Arabic Audio": "eca-1232-13.mp3",
 			"Standard Arabic Audio": "msa-1232-13.mp3"
 		},
@@ -141,7 +141,7 @@
 			"English": "How about we go and get something to drink?",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ماذا عن نذهب والحصول على شيء للشرب؟",
 			"Egyptian Arabic Audio": "eca-1232-14.mp3",
 			"Standard Arabic Audio": "msa-1232-14.mp3"
 		},
@@ -151,7 +151,7 @@
 			"English": "Let's do that.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لنفعل ذلك.",
 			"Egyptian Arabic Audio": "eca-1232-15.mp3",
 			"Standard Arabic Audio": "msa-1232-15.mp3"
 		},
@@ -161,7 +161,7 @@
 			"English": "Do you know what you want to get?",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هل تعرف ما تريد الحصول عليه؟",
 			"Egyptian Arabic Audio": "eca-1232-16.mp3",
 			"Standard Arabic Audio": "msa-1232-16.mp3"
 		},
@@ -171,7 +171,7 @@
 			"English": "A soda sounds good.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "الصودا تبدو جيدة.",
 			"Egyptian Arabic Audio": "eca-1232-17.mp3",
 			"Standard Arabic Audio": "msa-1232-17.mp3"
 		},
@@ -181,7 +181,7 @@
 			"English": "Soda isn't the best thing to drink when you're thirsty.",
 			"Word Count": 10,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "الصودا ليست أفضل شيء للشرب عندما كنت عطشان.",
 			"Egyptian Arabic Audio": "eca-1232-18.mp3",
 			"Standard Arabic Audio": "msa-1232-18.mp3"
 		},
@@ -191,7 +191,7 @@
 			"English": "Why is that?",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لماذا هذا؟",
 			"Egyptian Arabic Audio": "eca-1232-19.mp3",
 			"Standard Arabic Audio": "msa-1232-19.mp3"
 		},
@@ -201,7 +201,7 @@
 			"English": "Soda isn't good for you.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "الصودا ليست جيدة بالنسبة لك.",
 			"Egyptian Arabic Audio": "eca-1232-20.mp3",
 			"Standard Arabic Audio": "msa-1232-20.mp3"
 		},
@@ -211,7 +211,7 @@
 			"English": "What should I drink then?",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ماذا يجب أن أشرب بعد ذلك؟",
 			"Egyptian Arabic Audio": "eca-1232-21.mp3",
 			"Standard Arabic Audio": "msa-1232-21.mp3"
 		},
@@ -221,7 +221,7 @@
 			"English": "You should really drink water.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يجب عليك حقا شرب الماء.",
 			"Egyptian Arabic Audio": "eca-1232-22.mp3",
 			"Standard Arabic Audio": "msa-1232-22.mp3"
 		},
@@ -231,7 +231,7 @@
 			"English": "That sounds good.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هذا يبدو جيدا.",
 			"Egyptian Arabic Audio": "eca-1232-23.mp3",
 			"Standard Arabic Audio": "msa-1232-23.mp3"
 		},
@@ -241,7 +241,7 @@
 			"English": "It's a lot better than soda.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انها أفضل بكثير من الصودا.",
 			"Egyptian Arabic Audio": "eca-1232-24.mp3",
 			"Standard Arabic Audio": "msa-1232-24.mp3"
 		},
@@ -251,7 +251,7 @@
 			"English": "My throat is really dry.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "حلقتي جافة حقا.",
 			"Egyptian Arabic Audio": "eca-1232-25.mp3",
 			"Standard Arabic Audio": "msa-1232-25.mp3"
 		},
@@ -261,7 +261,7 @@
 			"English": "Do you want to go get something to drink?",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هل تريد أن تذهب الحصول على شيء للشرب؟",
 			"Egyptian Arabic Audio": "eca-1232-26.mp3",
 			"Standard Arabic Audio": "msa-1232-26.mp3"
 		},
@@ -271,7 +271,7 @@
 			"English": "Yes, I'm parched.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "نعم، أنا مشوش.",
 			"Egyptian Arabic Audio": "eca-1232-27.mp3",
 			"Standard Arabic Audio": "msa-1232-27.mp3"
 		},
@@ -281,7 +281,7 @@
 			"English": "What did you want to drink?",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ماذا تريد أن تشرب؟",
 			"Egyptian Arabic Audio": "eca-1232-28.mp3",
 			"Standard Arabic Audio": "msa-1232-28.mp3"
 		},
@@ -291,7 +291,7 @@
 			"English": "I was thinking about getting a soda.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كنت أفكر في الحصول على الصودا.",
 			"Egyptian Arabic Audio": "eca-1232-29.mp3",
 			"Standard Arabic Audio": "msa-1232-29.mp3"
 		},
@@ -301,7 +301,7 @@
 			"English": "Do you know that soda doesn't quench your thirst?",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هل تعلم أن الصودا لا إرواء العطش الخاص بك؟",
 			"Egyptian Arabic Audio": "eca-1232-30.mp3",
 			"Standard Arabic Audio": "msa-1232-30.mp3"
 		},
@@ -311,7 +311,7 @@
 			"English": "Why not?",
 			"Word Count": 2,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لما لا؟",
 			"Egyptian Arabic Audio": "eca-1232-31.mp3",
 			"Standard Arabic Audio": "msa-1232-31.mp3"
 		},
@@ -321,7 +321,7 @@
 			"English": "Soda is really bad for you.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "الصودا سيئة حقا بالنسبة لك.",
 			"Egyptian Arabic Audio": "eca-1232-32.mp3",
 			"Standard Arabic Audio": "msa-1232-32.mp3"
 		},
@@ -331,7 +331,7 @@
 			"English": "I don't know what else to drink.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنا لا أعرف ماذا شرب.",
 			"Egyptian Arabic Audio": "eca-1232-33.mp3",
 			"Standard Arabic Audio": "msa-1232-33.mp3"
 		},
@@ -341,7 +341,7 @@
 			"English": "You're supposed to drink water when you're dehydrated.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كنت من المفترض أن تشرب الماء عندما كنت المجففة.",
 			"Egyptian Arabic Audio": "eca-1232-34.mp3",
 			"Standard Arabic Audio": "msa-1232-34.mp3"
 		},
@@ -351,7 +351,7 @@
 			"English": "I would like some water.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أود بعض الماء.",
 			"Egyptian Arabic Audio": "eca-1232-35.mp3",
 			"Standard Arabic Audio": "msa-1232-35.mp3"
 		},
@@ -361,7 +361,7 @@
 			"English": "That's what will keep you from being thirsty.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هذا ما سيجعلك من العطش.",
 			"Egyptian Arabic Audio": "eca-1232-36.mp3",
 			"Standard Arabic Audio": "msa-1232-36.mp3"
 		}

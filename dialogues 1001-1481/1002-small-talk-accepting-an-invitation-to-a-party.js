@@ -11,7 +11,7 @@
 			"English": "Hey, what's up?",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "مرحبا، كيف حالك؟",
 			"Egyptian Arabic Audio": "eca-1002-1.mp3",
 			"Standard Arabic Audio": "msa-1002-1.mp3"
 		},
@@ -21,7 +21,7 @@
 			"English": "Nothing really.",
 			"Word Count": 2,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لا شيئا حقا.",
 			"Egyptian Arabic Audio": "eca-1002-2.mp3",
 			"Standard Arabic Audio": "msa-1002-2.mp3"
 		},
@@ -31,7 +31,7 @@
 			"English": "I'm throwing a party on Friday.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنا ألقي حفلة يوم الجمعة.",
 			"Egyptian Arabic Audio": "eca-1002-3.mp3",
 			"Standard Arabic Audio": "msa-1002-3.mp3"
 		},
@@ -41,7 +41,7 @@
 			"English": "I didn't realize that.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لم أكن أدرك ذلك.",
 			"Egyptian Arabic Audio": "eca-1002-4.mp3",
 			"Standard Arabic Audio": "msa-1002-4.mp3"
 		},
@@ -51,7 +51,7 @@
 			"English": "You didn't?",
 			"Word Count": 2,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنت لم؟",
 			"Egyptian Arabic Audio": "eca-1002-5.mp3",
 			"Standard Arabic Audio": "msa-1002-5.mp3"
 		},
@@ -61,7 +61,7 @@
 			"English": "Nobody has told me anything about your party.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لم يقل لي أحد عن حزبكم.",
 			"Egyptian Arabic Audio": "eca-1002-6.mp3",
 			"Standard Arabic Audio": "msa-1002-6.mp3"
 		},
@@ -71,7 +71,7 @@
 			"English": "Did you want to go?",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هل تريد أن تذهب؟",
 			"Egyptian Arabic Audio": "eca-1002-7.mp3",
 			"Standard Arabic Audio": "msa-1002-7.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "When does it start?",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "متى سيبدأ؟",
 			"Egyptian Arabic Audio": "eca-1002-8.mp3",
 			"Standard Arabic Audio": "msa-1002-8.mp3"
 		},
@@ -91,7 +91,7 @@
 			"English": "At 8:00 p.m.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "الساعة 8:00 مساء",
 			"Egyptian Arabic Audio": "eca-1002-9.mp3",
 			"Standard Arabic Audio": "msa-1002-9.mp3"
 		},
@@ -101,7 +101,7 @@
 			"English": "I'll be there.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "سأكون هناك.",
 			"Egyptian Arabic Audio": "eca-1002-10.mp3",
 			"Standard Arabic Audio": "msa-1002-10.mp3"
 		},
@@ -111,7 +111,7 @@
 			"English": "I'd better see you there.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كنت أفضل رؤيتكم هناك.",
 			"Egyptian Arabic Audio": "eca-1002-11.mp3",
 			"Standard Arabic Audio": "msa-1002-11.mp3"
 		},
@@ -121,7 +121,7 @@
 			"English": "Of course.",
 			"Word Count": 2,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "بالتاكيد.",
 			"Egyptian Arabic Audio": "eca-1002-12.mp3",
 			"Standard Arabic Audio": "msa-1002-12.mp3"
 		},
@@ -131,7 +131,7 @@
 			"English": "What's going on with you?",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ماذا يحدث معك؟",
 			"Egyptian Arabic Audio": "eca-1002-13.mp3",
 			"Standard Arabic Audio": "msa-1002-13.mp3"
 		},
@@ -141,7 +141,7 @@
 			"English": "Fine. What's going on with you?",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "غرامة. ماذا يحدث معك؟",
 			"Egyptian Arabic Audio": "eca-1002-14.mp3",
 			"Standard Arabic Audio": "msa-1002-14.mp3"
 		},
@@ -151,7 +151,7 @@
 			"English": "I'm having a party this Friday.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أواجه حفلة يوم الجمعة.",
 			"Egyptian Arabic Audio": "eca-1002-15.mp3",
 			"Standard Arabic Audio": "msa-1002-15.mp3"
 		},
@@ -161,7 +161,7 @@
 			"English": "I had no idea.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لا يوجد لدي فكرة.",
 			"Egyptian Arabic Audio": "eca-1002-16.mp3",
 			"Standard Arabic Audio": "msa-1002-16.mp3"
 		},
@@ -171,7 +171,7 @@
 			"English": "Is that right?",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هل هذا صحيح؟",
 			"Egyptian Arabic Audio": "eca-1002-17.mp3",
 			"Standard Arabic Audio": "msa-1002-17.mp3"
 		},
@@ -181,7 +181,7 @@
 			"English": "I didn't hear anything about it.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لم أسمع شيئا عن ذلك.",
 			"Egyptian Arabic Audio": "eca-1002-18.mp3",
 			"Standard Arabic Audio": "msa-1002-18.mp3"
 		},
@@ -191,7 +191,7 @@
 			"English": "Can you go?",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هل تستطيع الذهاب؟",
 			"Egyptian Arabic Audio": "eca-1002-19.mp3",
 			"Standard Arabic Audio": "msa-1002-19.mp3"
 		},
@@ -201,7 +201,7 @@
 			"English": "What time?",
 			"Word Count": 2,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "متى؟",
 			"Egyptian Arabic Audio": "eca-1002-20.mp3",
 			"Standard Arabic Audio": "msa-1002-20.mp3"
 		},
@@ -211,7 +211,7 @@
 			"English": "It starts at 8 o'clock.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ويبدأ في الساعة 8.",
 			"Egyptian Arabic Audio": "eca-1002-21.mp3",
 			"Standard Arabic Audio": "msa-1002-21.mp3"
 		},
@@ -221,7 +221,7 @@
 			"English": "I'll go.",
 			"Word Count": 2,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "سأذهب.",
 			"Egyptian Arabic Audio": "eca-1002-22.mp3",
 			"Standard Arabic Audio": "msa-1002-22.mp3"
 		},
@@ -231,7 +231,7 @@
 			"English": "I hope that I'll see you there.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "آمل أن أراك هناك.",
 			"Egyptian Arabic Audio": "eca-1002-23.mp3",
 			"Standard Arabic Audio": "msa-1002-23.mp3"
 		},
@@ -241,7 +241,7 @@
 			"English": "No doubt.",
 			"Word Count": 2,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "بدون شك.",
 			"Egyptian Arabic Audio": "eca-1002-24.mp3",
 			"Standard Arabic Audio": "msa-1002-24.mp3"
 		},
@@ -251,7 +251,7 @@
 			"English": "What's going on?",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ماذا يحدث هنا؟",
 			"Egyptian Arabic Audio": "eca-1002-25.mp3",
 			"Standard Arabic Audio": "msa-1002-25.mp3"
 		},
@@ -261,7 +261,7 @@
 			"English": "Not much.",
 			"Word Count": 2,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ليس كثيرا.",
 			"Egyptian Arabic Audio": "eca-1002-26.mp3",
 			"Standard Arabic Audio": "msa-1002-26.mp3"
 		},
@@ -271,7 +271,7 @@
 			"English": "This Friday, I'm throwing a party.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هذا الجمعة، أنا رمي حزب.",
 			"Egyptian Arabic Audio": "eca-1002-27.mp3",
 			"Standard Arabic Audio": "msa-1002-27.mp3"
 		},
@@ -281,7 +281,7 @@
 			"English": "Oh really? I didn't know that.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "حقا؟ لم أكن أعرف ذلك.",
 			"Egyptian Arabic Audio": "eca-1002-28.mp3",
 			"Standard Arabic Audio": "msa-1002-28.mp3"
 		},
@@ -291,7 +291,7 @@
 			"English": "Are you serious?",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هل أنت جاد؟",
 			"Egyptian Arabic Audio": "eca-1002-29.mp3",
 			"Standard Arabic Audio": "msa-1002-29.mp3"
 		},
@@ -301,7 +301,7 @@
 			"English": "I haven't heard anything about it.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لم أسمع أي شيء عن ذلك.",
 			"Egyptian Arabic Audio": "eca-1002-30.mp3",
 			"Standard Arabic Audio": "msa-1002-30.mp3"
 		},
@@ -311,7 +311,7 @@
 			"English": "Can you make it?",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "تستطيع فعلها؟",
 			"Egyptian Arabic Audio": "eca-1002-31.mp3",
 			"Standard Arabic Audio": "msa-1002-31.mp3"
 		},
@@ -321,7 +321,7 @@
 			"English": "What time does it start?",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ما الوقت الذي تبدأ فيه ؟",
 			"Egyptian Arabic Audio": "eca-1002-32.mp3",
 			"Standard Arabic Audio": "msa-1002-32.mp3"
 		},
@@ -331,7 +331,7 @@
 			"English": "The party starts at 8.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يبدأ الحزب في الثامنة.",
 			"Egyptian Arabic Audio": "eca-1002-33.mp3",
 			"Standard Arabic Audio": "msa-1002-33.mp3"
 		},
@@ -341,7 +341,7 @@
 			"English": "Yeah, I think I'll go.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "نعم، أعتقد أنني سأذهب.",
 			"Egyptian Arabic Audio": "eca-1002-34.mp3",
 			"Standard Arabic Audio": "msa-1002-34.mp3"
 		},
@@ -351,7 +351,7 @@
 			"English": "Am I going to see you there?",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انا ذاهب الى رؤيتك هناك؟",
 			"Egyptian Arabic Audio": "eca-1002-35.mp3",
 			"Standard Arabic Audio": "msa-1002-35.mp3"
 		},
@@ -361,7 +361,7 @@
 			"English": "You will.",
 			"Word Count": 2,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "سوف تفعلها.",
 			"Egyptian Arabic Audio": "eca-1002-36.mp3",
 			"Standard Arabic Audio": "msa-1002-36.mp3"
 		}

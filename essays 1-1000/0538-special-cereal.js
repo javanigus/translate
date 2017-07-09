@@ -9,7 +9,7 @@
 			"English": "He wakes up early.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يستيقظ مبكرا.",
 			"Egyptian Arabic Audio": "eca-0538-1.mp3",
 			"Standard Arabic Audio": "msa-0538-1.mp3"
 		},
@@ -18,7 +18,7 @@
 			"English": "He is tired.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هو متعب.",
 			"Egyptian Arabic Audio": "eca-0538-2.mp3",
 			"Standard Arabic Audio": "msa-0538-2.mp3"
 		},
@@ -27,7 +27,7 @@
 			"English": "He needs breakfast.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وهو يحتاج إلى وجبة الإفطار.",
 			"Egyptian Arabic Audio": "eca-0538-3.mp3",
 			"Standard Arabic Audio": "msa-0538-3.mp3"
 		},
@@ -36,7 +36,7 @@
 			"English": "Breakfast will give him energy.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "الإفطار سوف يعطيه الطاقة.",
 			"Egyptian Arabic Audio": "eca-0538-4.mp3",
 			"Standard Arabic Audio": "msa-0538-4.mp3"
 		},
@@ -45,7 +45,7 @@
 			"English": "He goes to the kitchen.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يذهب إلى المطبخ.",
 			"Egyptian Arabic Audio": "eca-0538-5.mp3",
 			"Standard Arabic Audio": "msa-0538-5.mp3"
 		},
@@ -54,7 +54,7 @@
 			"English": "He pours milk into the bowl.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يصب اللبن في الوعاء.",
 			"Egyptian Arabic Audio": "eca-0538-6.mp3",
 			"Standard Arabic Audio": "msa-0538-6.mp3"
 		},
@@ -63,7 +63,7 @@
 			"English": "He sees the wheat cereal box.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ويرى صندوق حبوب القمح.",
 			"Egyptian Arabic Audio": "eca-0538-7.mp3",
 			"Standard Arabic Audio": "msa-0538-7.mp3"
 		},
@@ -72,7 +72,7 @@
 			"English": "Wheat cereal is healthy.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "حبوب القمح صحية.",
 			"Egyptian Arabic Audio": "eca-0538-8.mp3",
 			"Standard Arabic Audio": "msa-0538-8.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "He opens the box.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يفتح مربع.",
 			"Egyptian Arabic Audio": "eca-0538-9.mp3",
 			"Standard Arabic Audio": "msa-0538-9.mp3"
 		},
@@ -90,7 +90,7 @@
 			"English": "There is a toy inside.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هناك لعبة في الداخل.",
 			"Egyptian Arabic Audio": "eca-0538-10.mp3",
 			"Standard Arabic Audio": "msa-0538-10.mp3"
 		},
@@ -99,7 +99,7 @@
 			"English": "It is a small car.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "إنها سيارة صغيرة.",
 			"Egyptian Arabic Audio": "eca-0538-11.mp3",
 			"Standard Arabic Audio": "msa-0538-11.mp3"
 		}

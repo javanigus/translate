@@ -11,7 +11,7 @@
 			"English": "I can't seem to find the cereal aisle.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنا لا يمكن أن يبدو للعثور على الممر الحبوب.",
 			"Egyptian Arabic Audio": "eca-1248-1.mp3",
 			"Standard Arabic Audio": "msa-1248-1.mp3"
 		},
@@ -21,7 +21,7 @@
 			"English": "You'll find the cereal by the breakfast foods.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ستجد الحبوب من الأطعمة وجبة الإفطار.",
 			"Egyptian Arabic Audio": "eca-1248-2.mp3",
 			"Standard Arabic Audio": "msa-1248-2.mp3"
 		},
@@ -31,7 +31,7 @@
 			"English": "What breakfast foods?",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ما وجبات الإفطار؟",
 			"Egyptian Arabic Audio": "eca-1248-3.mp3",
 			"Standard Arabic Audio": "msa-1248-3.mp3"
 		},
@@ -41,7 +41,7 @@
 			"English": "They're over by the oatmeal and the breakfast bars.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انهم أكثر من الشوفان وحانات الإفطار.",
 			"Egyptian Arabic Audio": "eca-1248-4.mp3",
 			"Standard Arabic Audio": "msa-1248-4.mp3"
 		},
@@ -51,7 +51,7 @@
 			"English": "I think I know what you're talking about.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أعتقد أنني أعرف ما تتحدث عنه.",
 			"Egyptian Arabic Audio": "eca-1248-5.mp3",
 			"Standard Arabic Audio": "msa-1248-5.mp3"
 		},
@@ -61,7 +61,7 @@
 			"English": "Can I help you with anything else?",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هل يمكنني مساعدتك في أي شيء آخر؟",
 			"Egyptian Arabic Audio": "eca-1248-6.mp3",
 			"Standard Arabic Audio": "msa-1248-6.mp3"
 		},
@@ -71,7 +71,7 @@
 			"English": "Could you tell me where the dishwashing detergent is?",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هل يمكن أن تخبرني أين المنظفات الصحون؟",
 			"Egyptian Arabic Audio": "eca-1248-7.mp3",
 			"Standard Arabic Audio": "msa-1248-7.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "You'll find that by the paper towels.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ستجد ذلك من خلال المناشف الورقية.",
 			"Egyptian Arabic Audio": "eca-1248-8.mp3",
 			"Standard Arabic Audio": "msa-1248-8.mp3"
 		},
@@ -91,7 +91,7 @@
 			"English": "I didn't think of that.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لم أكن أفكر في ذلك.",
 			"Egyptian Arabic Audio": "eca-1248-9.mp3",
 			"Standard Arabic Audio": "msa-1248-9.mp3"
 		},
@@ -101,7 +101,7 @@
 			"English": "That's where it'll be.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هذا هو المكان الذي سوف يكون.",
 			"Egyptian Arabic Audio": "eca-1248-10.mp3",
 			"Standard Arabic Audio": "msa-1248-10.mp3"
 		},
@@ -111,7 +111,7 @@
 			"English": "Thank you very much.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "شكرا جزيلا.",
 			"Egyptian Arabic Audio": "eca-1248-11.mp3",
 			"Standard Arabic Audio": "msa-1248-11.mp3"
 		},
@@ -121,7 +121,7 @@
 			"English": "If you need anything else, please feel free to ask me.",
 			"Word Count": 11,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "إذا كنت بحاجة إلى أي شيء آخر، لا تتردد في طلب مني.",
 			"Egyptian Arabic Audio": "eca-1248-12.mp3",
 			"Standard Arabic Audio": "msa-1248-12.mp3"
 		},
@@ -131,7 +131,7 @@
 			"English": "Could you tell me where the cereal is?",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هل يمكن أن تخبرني أين الحبوب؟",
 			"Egyptian Arabic Audio": "eca-1248-13.mp3",
 			"Standard Arabic Audio": "msa-1248-13.mp3"
 		},
@@ -141,7 +141,7 @@
 			"English": "If you go to the breakfast aisle, you'll find the cereal there.",
 			"Word Count": 12,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "إذا ذهبت إلى الممر الإفطار، ستجد الحبوب هناك.",
 			"Egyptian Arabic Audio": "eca-1248-14.mp3",
 			"Standard Arabic Audio": "msa-1248-14.mp3"
 		},
@@ -151,7 +151,7 @@
 			"English": "What aisle is that?",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ما الممر هو ذلك؟",
 			"Egyptian Arabic Audio": "eca-1248-15.mp3",
 			"Standard Arabic Audio": "msa-1248-15.mp3"
 		},
@@ -161,7 +161,7 @@
 			"English": "You'll find it by the oatmeal and breakfast bars.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ستجده من قبل الشوفان وحانات الإفطار.",
 			"Egyptian Arabic Audio": "eca-1248-16.mp3",
 			"Standard Arabic Audio": "msa-1248-16.mp3"
 		},
@@ -171,7 +171,7 @@
 			"English": "I know where that is at.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أعرف أين هو في.",
 			"Egyptian Arabic Audio": "eca-1248-17.mp3",
 			"Standard Arabic Audio": "msa-1248-17.mp3"
 		},
@@ -181,7 +181,7 @@
 			"English": "Is there anything else you need help finding?",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هل هناك أي شيء آخر تحتاج إلى مساعدة في العثور عليه؟",
 			"Egyptian Arabic Audio": "eca-1248-18.mp3",
 			"Standard Arabic Audio": "msa-1248-18.mp3"
 		},
@@ -191,7 +191,7 @@
 			"English": "Could you point me toward the dishwashing detergent?",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هل يمكن أن توجهني نحو منظفات غسل الصحون؟",
 			"Egyptian Arabic Audio": "eca-1248-19.mp3",
 			"Standard Arabic Audio": "msa-1248-19.mp3"
 		},
@@ -201,7 +201,7 @@
 			"English": "That's over by the paper towels and toilet paper.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هذا هو أكثر من المناشف الورقية وورق التواليت.",
 			"Egyptian Arabic Audio": "eca-1248-20.mp3",
 			"Standard Arabic Audio": "msa-1248-20.mp3"
 		},
@@ -211,7 +211,7 @@
 			"English": "I didn't even think about that.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لم أكن أفكر حتى في ذلك.",
 			"Egyptian Arabic Audio": "eca-1248-21.mp3",
 			"Standard Arabic Audio": "msa-1248-21.mp3"
 		},
@@ -221,7 +221,7 @@
 			"English": "That's where it is.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هذا هو المكان الذي هو عليه.",
 			"Egyptian Arabic Audio": "eca-1248-22.mp3",
 			"Standard Arabic Audio": "msa-1248-22.mp3"
 		},
@@ -231,7 +231,7 @@
 			"English": "Thank you so much for helping me.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "شكرا جزيلا لمساعدتي.",
 			"Egyptian Arabic Audio": "eca-1248-23.mp3",
 			"Standard Arabic Audio": "msa-1248-23.mp3"
 		},
@@ -241,7 +241,7 @@
 			"English": "Let me know if you need anything else.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "اسمحوا لي أن أعرف إذا كنت بحاجة إلى أي شيء آخر.",
 			"Egyptian Arabic Audio": "eca-1248-24.mp3",
 			"Standard Arabic Audio": "msa-1248-24.mp3"
 		},
@@ -251,7 +251,7 @@
 			"English": "I need to find the cereal aisle.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنا بحاجة للعثور على الممر الحبوب.",
 			"Egyptian Arabic Audio": "eca-1248-25.mp3",
 			"Standard Arabic Audio": "msa-1248-25.mp3"
 		},
@@ -261,7 +261,7 @@
 			"English": "The cereal is over by the breakfast foods.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "الحبوب هو أكثر من الأطعمة وجبة الإفطار.",
 			"Egyptian Arabic Audio": "eca-1248-26.mp3",
 			"Standard Arabic Audio": "msa-1248-26.mp3"
 		},
@@ -271,7 +271,7 @@
 			"English": "Where is that at?",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "اين يقع هذا؟",
 			"Egyptian Arabic Audio": "eca-1248-27.mp3",
 			"Standard Arabic Audio": "msa-1248-27.mp3"
 		},
@@ -281,7 +281,7 @@
 			"English": "It's by the oatmeal and breakfast bars.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انها من الشوفان وحانات الإفطار.",
 			"Egyptian Arabic Audio": "eca-1248-28.mp3",
 			"Standard Arabic Audio": "msa-1248-28.mp3"
 		},
@@ -291,7 +291,7 @@
 			"English": "I think I can find that.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أعتقد أنني يمكن أن تجد ذلك.",
 			"Egyptian Arabic Audio": "eca-1248-29.mp3",
 			"Standard Arabic Audio": "msa-1248-29.mp3"
 		},
@@ -301,7 +301,7 @@
 			"English": "Did you need help finding anything else?",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هل كنت بحاجة إلى مساعدة في العثور على أي شيء آخر؟",
 			"Egyptian Arabic Audio": "eca-1248-30.mp3",
 			"Standard Arabic Audio": "msa-1248-30.mp3"
 		},
@@ -311,7 +311,7 @@
 			"English": "Actually, I do need to find the dishwashing detergent.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "في الواقع، أنا بحاجة إلى العثور على المنظفات الصحون.",
 			"Egyptian Arabic Audio": "eca-1248-31.mp3",
 			"Standard Arabic Audio": "msa-1248-31.mp3"
 		},
@@ -321,7 +321,7 @@
 			"English": "That would be over by the paper towels and toilet paper.",
 			"Word Count": 11,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وهذا هو أكثر من المناشف الورقية وورق التواليت.",
 			"Egyptian Arabic Audio": "eca-1248-32.mp3",
 			"Standard Arabic Audio": "msa-1248-32.mp3"
 		},
@@ -331,7 +331,7 @@
 			"English": "I thought it was over there.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "اعتقدت أنه كان هناك.",
 			"Egyptian Arabic Audio": "eca-1248-33.mp3",
 			"Standard Arabic Audio": "msa-1248-33.mp3"
 		},
@@ -341,7 +341,7 @@
 			"English": "Yeah, you'll find it there.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "نعم، ستجد هناك.",
 			"Egyptian Arabic Audio": "eca-1248-34.mp3",
 			"Standard Arabic Audio": "msa-1248-34.mp3"
 		},
@@ -351,7 +351,7 @@
 			"English": "I really appreciate all your help.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنا حقا أقدر كل مساعدتك.",
 			"Egyptian Arabic Audio": "eca-1248-35.mp3",
 			"Standard Arabic Audio": "msa-1248-35.mp3"
 		}

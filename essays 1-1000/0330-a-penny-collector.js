@@ -9,7 +9,7 @@
 			"English": "She collects pennies.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انها تجمع بينيس.",
 			"Egyptian Arabic Audio": "eca-0330-1.mp3",
 			"Standard Arabic Audio": "msa-0330-1.mp3"
 		},
@@ -18,7 +18,7 @@
 			"English": "She likes pennies.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انها تحب بينيس.",
 			"Egyptian Arabic Audio": "eca-0330-2.mp3",
 			"Standard Arabic Audio": "msa-0330-2.mp3"
 		},
@@ -27,7 +27,7 @@
 			"English": "She likes their color.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "تحب لونها.",
 			"Egyptian Arabic Audio": "eca-0330-3.mp3",
 			"Standard Arabic Audio": "msa-0330-3.mp3"
 		},
@@ -36,7 +36,7 @@
 			"English": "They are brown.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انهم بنيوا اللون.",
 			"Egyptian Arabic Audio": "eca-0330-4.mp3",
 			"Standard Arabic Audio": "msa-0330-4.mp3"
 		},
@@ -45,7 +45,7 @@
 			"English": "They are shiny brown.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "فهي براقة لامعة.",
 			"Egyptian Arabic Audio": "eca-0330-5.mp3",
 			"Standard Arabic Audio": "msa-0330-5.mp3"
 		},
@@ -54,7 +54,7 @@
 			"English": "They are dull brown.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "فهي مملة البني.",
 			"Egyptian Arabic Audio": "eca-0330-6.mp3",
 			"Standard Arabic Audio": "msa-0330-6.mp3"
 		},
@@ -63,7 +63,7 @@
 			"English": "Pennies are everywhere.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "بنس في كل مكان.",
 			"Egyptian Arabic Audio": "eca-0330-7.mp3",
 			"Standard Arabic Audio": "msa-0330-7.mp3"
 		},
@@ -72,7 +72,7 @@
 			"English": "She finds them on the sidewalk.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "تجدها على الرصيف.",
 			"Egyptian Arabic Audio": "eca-0330-8.mp3",
 			"Standard Arabic Audio": "msa-0330-8.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "She picks them up.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انها تلتقط لهم.",
 			"Egyptian Arabic Audio": "eca-0330-9.mp3",
 			"Standard Arabic Audio": "msa-0330-9.mp3"
 		},
@@ -90,7 +90,7 @@
 			"English": "She takes them home.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انها تأخذهم المنزل.",
 			"Egyptian Arabic Audio": "eca-0330-10.mp3",
 			"Standard Arabic Audio": "msa-0330-10.mp3"
 		},
@@ -99,7 +99,7 @@
 			"English": "She puts them in a jar.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انها تضعهم في جرة.",
 			"Egyptian Arabic Audio": "eca-0330-11.mp3",
 			"Standard Arabic Audio": "msa-0330-11.mp3"
 		},
@@ -108,7 +108,7 @@
 			"English": "She has a big jar.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لديها جرة كبيرة.",
 			"Egyptian Arabic Audio": "eca-0330-12.mp3",
 			"Standard Arabic Audio": "msa-0330-12.mp3"
 		},
@@ -117,7 +117,7 @@
 			"English": "It is full of pennies.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انها مليئة بنسات.",
 			"Egyptian Arabic Audio": "eca-0330-13.mp3",
 			"Standard Arabic Audio": "msa-0330-13.mp3"
 		}

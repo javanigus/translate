@@ -9,7 +9,7 @@
 			"English": "Mr Smith started cleaning the mess.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "بدأ السيد سميث تنظيف الفوضى.",
 			"Egyptian Arabic Audio": "eca-0752-1.mp3",
 			"Standard Arabic Audio": "msa-0752-1.mp3"
 		},
@@ -18,7 +18,7 @@
 			"English": "He saw something lying by the window sill.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "رأى شيئا ملقى من عتبة النافذة.",
 			"Egyptian Arabic Audio": "eca-0752-2.mp3",
 			"Standard Arabic Audio": "msa-0752-2.mp3"
 		},
@@ -27,7 +27,7 @@
 			"English": "It was a wallet.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كانت محفظة.",
 			"Egyptian Arabic Audio": "eca-0752-3.mp3",
 			"Standard Arabic Audio": "msa-0752-3.mp3"
 		},
@@ -36,7 +36,7 @@
 			"English": "The burglar had dropped it while jumping through the window.",
 			"Word Count": 10,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وقد سقطه لص أثناء القفز من خلال النافذة.",
 			"Egyptian Arabic Audio": "eca-0752-4.mp3",
 			"Standard Arabic Audio": "msa-0752-4.mp3"
 		}

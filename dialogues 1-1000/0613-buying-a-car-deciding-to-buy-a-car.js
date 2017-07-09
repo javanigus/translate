@@ -11,7 +11,7 @@
 			"English": "I have finally saved up enough to buy my first car.",
 			"Word Count": 11,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لقد أنقذت أخيرا ما يكفي لشراء سيارتي الأولى.",
 			"Egyptian Arabic Audio": "eca-0613-1.mp3",
 			"Standard Arabic Audio": "msa-0613-1.mp3"
 		},
@@ -21,7 +21,7 @@
 			"English": "That's great, dear. Do you have a car in mind?",
 			"Word Count": 10,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هذا عظيم، عزيزي. هل لديك سيارة في الاعتبار؟",
 			"Egyptian Arabic Audio": "eca-0613-2.mp3",
 			"Standard Arabic Audio": "msa-0613-2.mp3"
 		},
@@ -31,7 +31,7 @@
 			"English": "I want a Honda Civic. I like to drive stick.",
 			"Word Count": 10,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أريد هوندا سيفيك. أحب قيادة عصا.",
 			"Egyptian Arabic Audio": "eca-0613-3.mp3",
 			"Standard Arabic Audio": "msa-0613-3.mp3"
 		},
@@ -41,7 +41,7 @@
 			"English": "Have you been looking around?",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هل كنت تبحث حولنا؟",
 			"Egyptian Arabic Audio": "eca-0613-4.mp3",
 			"Standard Arabic Audio": "msa-0613-4.mp3"
 		},
@@ -51,7 +51,7 @@
 			"English": "Yes, I checked online. I have also been to some dealers.",
 			"Word Count": 11,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "نعم، راجعت على الإنترنت. لقد كنت أيضا لبعض التجار.",
 			"Egyptian Arabic Audio": "eca-0613-5.mp3",
 			"Standard Arabic Audio": "msa-0613-5.mp3"
 		},
@@ -61,7 +61,7 @@
 			"English": "You have to be careful when you go to dealers.",
 			"Word Count": 10,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "عليك أن تكون حذرا عند الذهاب إلى التجار.",
 			"Egyptian Arabic Audio": "eca-0613-6.mp3",
 			"Standard Arabic Audio": "msa-0613-6.mp3"
 		},
@@ -71,7 +71,7 @@
 			"English": "I know. They will try to take advantage of people.",
 			"Word Count": 10,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "اعرف. وسوف يحاولون الاستفادة من الناس.",
 			"Egyptian Arabic Audio": "eca-0613-7.mp3",
 			"Standard Arabic Audio": "msa-0613-7.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "Yes, you should take somebody that knows about cars.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "نعم، يجب أن تأخذ شخص يعرف السيارات.",
 			"Egyptian Arabic Audio": "eca-0613-8.mp3",
 			"Standard Arabic Audio": "msa-0613-8.mp3"
 		},
@@ -91,7 +91,7 @@
 			"English": "Yeah, I'm going to take Joseph. He knows everything about cars.",
 			"Word Count": 11,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "نعم، أنا ذاهب لأخذ يوسف. وهو يعرف كل شيء عن السيارات.",
 			"Egyptian Arabic Audio": "eca-0613-9.mp3",
 			"Standard Arabic Audio": "msa-0613-9.mp3"
 		},
@@ -101,7 +101,7 @@
 			"English": "Good idea. How much are you planning to spend?",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "فكره جيده. كم كنت تخطط لإنفاق؟",
 			"Egyptian Arabic Audio": "eca-0613-10.mp3",
 			"Standard Arabic Audio": "msa-0613-10.mp3"
 		},
@@ -111,7 +111,7 @@
 			"English": "I have $20,000.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لدي 20،000 دولار.",
 			"Egyptian Arabic Audio": "eca-0613-11.mp3",
 			"Standard Arabic Audio": "msa-0613-11.mp3"
 		},
@@ -121,7 +121,7 @@
 			"English": "Wow. Are you going to pay for the car? Or will you be making payments?",
 			"Word Count": 15,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "رائع. أنت ذاهب لدفع ثمن السيارة؟ أو سوف تكون جعل المدفوعات؟",
 			"Egyptian Arabic Audio": "eca-0613-12.mp3",
 			"Standard Arabic Audio": "msa-0613-12.mp3"
 		},
@@ -131,7 +131,7 @@
 			"English": "I was thinking about making payments. I don't want to get stuck without cash.",
 			"Word Count": 14,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كنت أفكر في إجراء الدفعات. أنا لا أريد أن تتعثر دون نقد.",
 			"Egyptian Arabic Audio": "eca-0613-13.mp3",
 			"Standard Arabic Audio": "msa-0613-13.mp3"
 		},
@@ -141,7 +141,7 @@
 			"English": "That sounds like a good idea.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "تبدو فكرة جيدة.",
 			"Egyptian Arabic Audio": "eca-0613-14.mp3",
 			"Standard Arabic Audio": "msa-0613-14.mp3"
 		}

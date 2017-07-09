@@ -11,7 +11,7 @@
 			"English": "Why are you cutting into the wall?",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لماذا تقطعون الجدار؟",
 			"Egyptian Arabic Audio": "eca-0046-1.mp3",
 			"Standard Arabic Audio": "msa-0046-1.mp3"
 		},
@@ -21,7 +21,7 @@
 			"English": "I bought a new air conditioning unit.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "اشتريت وحدة تكييف الهواء الجديدة.",
 			"Egyptian Arabic Audio": "eca-0046-2.mp3",
 			"Standard Arabic Audio": "msa-0046-2.mp3"
 		},
@@ -31,7 +31,7 @@
 			"English": "I don't think that's how you install it!",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لا أعتقد أن هذا هو كيفية تثبيته!",
 			"Egyptian Arabic Audio": "eca-0046-3.mp3",
 			"Standard Arabic Audio": "msa-0046-3.mp3"
 		},
@@ -41,7 +41,7 @@
 			"English": "Have you ever installed one before?",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هل سبق لك تثبيت واحد من قبل؟",
 			"Egyptian Arabic Audio": "eca-0046-4.mp3",
 			"Standard Arabic Audio": "msa-0046-4.mp3"
 		},
@@ -51,7 +51,7 @@
 			"English": "No, but that still looks wrong.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لا، ولكن هذا لا يزال يبدو خاطئا.",
 			"Egyptian Arabic Audio": "eca-0046-5.mp3",
 			"Standard Arabic Audio": "msa-0046-5.mp3"
 		},
@@ -61,7 +61,7 @@
 			"English": "I think I know what I'm doing.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أعتقد أنني أعرف ما أقوم به.",
 			"Egyptian Arabic Audio": "eca-0046-6.mp3",
 			"Standard Arabic Audio": "msa-0046-6.mp3"
 		},
@@ -71,7 +71,7 @@
 			"English": "I see water pipes behind that wall.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أرى أنابيب المياه وراء هذا الجدار.",
 			"Egyptian Arabic Audio": "eca-0046-7.mp3",
 			"Standard Arabic Audio": "msa-0046-7.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "I don't think that's good for the air conditioner.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنا لا أعتقد أن هذا جيد لمكيف الهواء.",
 			"Egyptian Arabic Audio": "eca-0046-8.mp3",
 			"Standard Arabic Audio": "msa-0046-8.mp3"
 		},
@@ -91,7 +91,7 @@
 			"English": "I don't think so, either.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنا لا أعتقد ذلك، سواء.",
 			"Egyptian Arabic Audio": "eca-0046-9.mp3",
 			"Standard Arabic Audio": "msa-0046-9.mp3"
 		},
@@ -101,7 +101,7 @@
 			"English": "Will you call some professionals now?",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "سوف ندعو بعض المهنيين الآن؟",
 			"Egyptian Arabic Audio": "eca-0046-10.mp3",
 			"Standard Arabic Audio": "msa-0046-10.mp3"
 		},
@@ -111,7 +111,7 @@
 			"English": "I guess that's the best thing to do.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أعتقد أن هذا هو أفضل شيء يجب القيام به.",
 			"Egyptian Arabic Audio": "eca-0046-11.mp3",
 			"Standard Arabic Audio": "msa-0046-11.mp3"
 		},
@@ -121,7 +121,7 @@
 			"English": "You should have done so from the beginning!",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كنت قد فعلت ذلك من البداية!",
 			"Egyptian Arabic Audio": "eca-0046-12.mp3",
 			"Standard Arabic Audio": "msa-0046-12.mp3"
 		}

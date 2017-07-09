@@ -11,7 +11,7 @@
 			"English": "Don't you ever cheat on me.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لا يمكنك الغش مني.",
 			"Egyptian Arabic Audio": "eca-0280-1.mp3",
 			"Standard Arabic Audio": "msa-0280-1.mp3"
 		},
@@ -21,7 +21,7 @@
 			"English": "Why would I do that?",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لماذا قد اقعل ذالك؟",
 			"Egyptian Arabic Audio": "eca-0280-2.mp3",
 			"Standard Arabic Audio": "msa-0280-2.mp3"
 		},
@@ -31,7 +31,7 @@
 			"English": "Because men like to cheat.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لأن الرجال يحبون الغش.",
 			"Egyptian Arabic Audio": "eca-0280-3.mp3",
 			"Standard Arabic Audio": "msa-0280-3.mp3"
 		},
@@ -41,7 +41,7 @@
 			"English": "Some men do, but not me.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "بعض الرجال يفعلون، ولكن ليس لي.",
 			"Egyptian Arabic Audio": "eca-0280-4.mp3",
 			"Standard Arabic Audio": "msa-0280-4.mp3"
 		},
@@ -51,7 +51,7 @@
 			"English": "I'm watching you.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنا أراقبك.",
 			"Egyptian Arabic Audio": "eca-0280-5.mp3",
 			"Standard Arabic Audio": "msa-0280-5.mp3"
 		},
@@ -61,7 +61,7 @@
 			"English": "I'm an open book. Watch me all you want.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنا كتاب مفتوح. مشاهدة لي كل ما تريد.",
 			"Egyptian Arabic Audio": "eca-0280-6.mp3",
 			"Standard Arabic Audio": "msa-0280-6.mp3"
 		},
@@ -71,7 +71,7 @@
 			"English": "If I catch you, you'll be sorry.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "إذا قبض عليك، عليك أن تكون آسف.",
 			"Egyptian Arabic Audio": "eca-0280-7.mp3",
 			"Standard Arabic Audio": "msa-0280-7.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "You won't catch me, because I love you. I'm not a cheater.",
 			"Word Count": 12,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنت لن قبض لي، لأنني أحبك. أنا لست الغشاش.",
 			"Egyptian Arabic Audio": "eca-0280-8.mp3",
 			"Standard Arabic Audio": "msa-0280-8.mp3"
 		},
@@ -91,7 +91,7 @@
 			"English": "I will poke your eyes out.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "سوف كزة عينيك بها.",
 			"Egyptian Arabic Audio": "eca-0280-9.mp3",
 			"Standard Arabic Audio": "msa-0280-9.mp3"
 		},
@@ -101,7 +101,7 @@
 			"English": "I don't want any other woman.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنا لا أريد أي امرأة أخرى.",
 			"Egyptian Arabic Audio": "eca-0280-10.mp3",
 			"Standard Arabic Audio": "msa-0280-10.mp3"
 		},
@@ -111,7 +111,7 @@
 			"English": "I will chop your toes off, one by one.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "سوف تقطع أصابع قدميك، واحدا تلو الآخر.",
 			"Egyptian Arabic Audio": "eca-0280-11.mp3",
 			"Standard Arabic Audio": "msa-0280-11.mp3"
 		},
@@ -121,7 +121,7 @@
 			"English": "Honey, please. You're the only woman for me, forever. I swear it.",
 			"Word Count": 12,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "العسل، من فضلك. أنت المرأة الوحيدة بالنسبة لي، إلى الأبد. اقسم.",
 			"Egyptian Arabic Audio": "eca-0280-12.mp3",
 			"Standard Arabic Audio": "msa-0280-12.mp3"
 		}

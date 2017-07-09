@@ -9,7 +9,7 @@
 			"English": "She buys a new shirt.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "تشتري قميص جديد.",
 			"Egyptian Arabic Audio": "eca-1125-1.mp3",
 			"Standard Arabic Audio": "msa-1125-1.mp3"
 		},
@@ -18,7 +18,7 @@
 			"English": "She snips off all the buttons.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انها القصاصات قبالة كل الأزرار.",
 			"Egyptian Arabic Audio": "eca-1125-2.mp3",
 			"Standard Arabic Audio": "msa-1125-2.mp3"
 		},
@@ -27,7 +27,7 @@
 			"English": "She sews all the buttons back on.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انها يخيط جميع الأزرار مرة أخرى على.",
 			"Egyptian Arabic Audio": "eca-1125-3.mp3",
 			"Standard Arabic Audio": "msa-1125-3.mp3"
 		},
@@ -36,7 +36,7 @@
 			"English": "She tests them.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انها اختبارات لهم.",
 			"Egyptian Arabic Audio": "eca-1125-4.mp3",
 			"Standard Arabic Audio": "msa-1125-4.mp3"
 		},
@@ -45,7 +45,7 @@
 			"English": "She pulls on them.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انها تسحب عليها.",
 			"Egyptian Arabic Audio": "eca-1125-5.mp3",
 			"Standard Arabic Audio": "msa-1125-5.mp3"
 		},
@@ -54,7 +54,7 @@
 			"English": "They are strong.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انهم اقوياء.",
 			"Egyptian Arabic Audio": "eca-1125-6.mp3",
 			"Standard Arabic Audio": "msa-1125-6.mp3"
 		},
@@ -63,7 +63,7 @@
 			"English": "She cuts off all the labels.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انها قطع كل التسميات.",
 			"Egyptian Arabic Audio": "eca-1125-7.mp3",
 			"Standard Arabic Audio": "msa-1125-7.mp3"
 		},
@@ -72,7 +72,7 @@
 			"English": "They scratch her sensitive skin.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يخدشون البشرة الحساسة.",
 			"Egyptian Arabic Audio": "eca-1125-8.mp3",
 			"Standard Arabic Audio": "msa-1125-8.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "She throws out the labels.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انها تخرج من التسميات.",
 			"Egyptian Arabic Audio": "eca-1125-9.mp3",
 			"Standard Arabic Audio": "msa-1125-9.mp3"
 		},
@@ -90,7 +90,7 @@
 			"English": "She puts on her new shirt.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "إنها تضع قميصها الجديد.",
 			"Egyptian Arabic Audio": "eca-1125-10.mp3",
 			"Standard Arabic Audio": "msa-1125-10.mp3"
 		},
@@ -99,7 +99,7 @@
 			"English": "It feels comfortable.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "تشعر بالراحة.",
 			"Egyptian Arabic Audio": "eca-1125-11.mp3",
 			"Standard Arabic Audio": "msa-1125-11.mp3"
 		}

@@ -11,7 +11,7 @@
 			"English": "My parents tell me I can only date after college.",
 			"Word Count": 10,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "والدي يقول لي أنا يمكن أن تاريخ فقط بعد الكلية.",
 			"Egyptian Arabic Audio": "eca-0136-1.mp3",
 			"Standard Arabic Audio": "msa-0136-1.mp3"
 		},
@@ -21,7 +21,7 @@
 			"English": "That is ridiculous.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وهذا أمر مثير للسخرية.",
 			"Egyptian Arabic Audio": "eca-0136-2.mp3",
 			"Standard Arabic Audio": "msa-0136-2.mp3"
 		},
@@ -31,7 +31,7 @@
 			"English": "When can you date?",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "متى يمكنك التاريخ؟",
 			"Egyptian Arabic Audio": "eca-0136-3.mp3",
 			"Standard Arabic Audio": "msa-0136-3.mp3"
 		},
@@ -41,7 +41,7 @@
 			"English": "My parents let me date whenever.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "والدي اسمحوا لي أن أتاريخ كلما.",
 			"Egyptian Arabic Audio": "eca-0136-4.mp3",
 			"Standard Arabic Audio": "msa-0136-4.mp3"
 		},
@@ -51,7 +51,7 @@
 			"English": "You're so lucky.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنت محظوظ جدا.",
 			"Egyptian Arabic Audio": "eca-0136-5.mp3",
 			"Standard Arabic Audio": "msa-0136-5.mp3"
 		},
@@ -61,7 +61,7 @@
 			"English": "Why don't you just not tell them?",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لماذا لا تخبرهم؟",
 			"Egyptian Arabic Audio": "eca-0136-6.mp3",
 			"Standard Arabic Audio": "msa-0136-6.mp3"
 		},
@@ -71,7 +71,7 @@
 			"English": "That would be rebellious.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وهذا من شأنه أن يكون متمردا.",
 			"Egyptian Arabic Audio": "eca-0136-7.mp3",
 			"Standard Arabic Audio": "msa-0136-7.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "Life is boring without rebellion.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "الحياة مملة دون تمرد.",
 			"Egyptian Arabic Audio": "eca-0136-8.mp3",
 			"Standard Arabic Audio": "msa-0136-8.mp3"
 		},
@@ -91,7 +91,7 @@
 			"English": "Wouldn't they eventually find out?",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لن يجدوا في نهاية المطاف؟",
 			"Egyptian Arabic Audio": "eca-0136-9.mp3",
 			"Standard Arabic Audio": "msa-0136-9.mp3"
 		},
@@ -101,7 +101,7 @@
 			"English": "Even if they do, they can't change anything.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "حتى لو فعلوا ذلك، فإنهم لا يستطيعون تغيير أي شيء.",
 			"Egyptian Arabic Audio": "eca-0136-10.mp3",
 			"Standard Arabic Audio": "msa-0136-10.mp3"
 		},
@@ -111,7 +111,7 @@
 			"English": "You're totally right.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنت على حق تماما.",
 			"Egyptian Arabic Audio": "eca-0136-11.mp3",
 			"Standard Arabic Audio": "msa-0136-11.mp3"
 		},
@@ -121,7 +121,7 @@
 			"English": "It's your life, not your parents'.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انها حياتك، وليس والديك.",
 			"Egyptian Arabic Audio": "eca-0136-12.mp3",
 			"Standard Arabic Audio": "msa-0136-12.mp3"
 		}

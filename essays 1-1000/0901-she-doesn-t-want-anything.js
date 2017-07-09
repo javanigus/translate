@@ -9,7 +9,7 @@
 			"English": "Donna's parents and friends did not believe her.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لم يصدقها الآباء والأصدقاء دونا لها.",
 			"Egyptian Arabic Audio": "eca-0901-1.mp3",
 			"Standard Arabic Audio": "msa-0901-1.mp3"
 		},
@@ -18,7 +18,7 @@
 			"English": "They thought she was just being modest.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كانوا يعتقدون أنها مجرد متواضعة.",
 			"Egyptian Arabic Audio": "eca-0901-2.mp3",
 			"Standard Arabic Audio": "msa-0901-2.mp3"
 		},
@@ -27,7 +27,7 @@
 			"English": "They got her presents anyways.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنها حصلت على هدايا لها على أي حال.",
 			"Egyptian Arabic Audio": "eca-0901-3.mp3",
 			"Standard Arabic Audio": "msa-0901-3.mp3"
 		},
@@ -36,7 +36,7 @@
 			"English": "Donna's mom gave her a diamond bracelet.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أعطتها أمي دونا سوار الماس.",
 			"Egyptian Arabic Audio": "eca-0901-4.mp3",
 			"Standard Arabic Audio": "msa-0901-4.mp3"
 		},
@@ -45,7 +45,7 @@
 			"English": "Her dad gave her flowers.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أعطى والدها الزهور لها.",
 			"Egyptian Arabic Audio": "eca-0901-5.mp3",
 			"Standard Arabic Audio": "msa-0901-5.mp3"
 		},
@@ -54,7 +54,7 @@
 			"English": "Her friends threw her a surprise party.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أصدقائها ألقوا حفلة مفاجئة.",
 			"Egyptian Arabic Audio": "eca-0901-6.mp3",
 			"Standard Arabic Audio": "msa-0901-6.mp3"
 		},
@@ -63,7 +63,7 @@
 			"English": "Donna said thank you.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وقال دونا شكرا لك.",
 			"Egyptian Arabic Audio": "eca-0901-7.mp3",
 			"Standard Arabic Audio": "msa-0901-7.mp3"
 		},
@@ -72,7 +72,7 @@
 			"English": "Donna was a little disappointed though.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "دونا كان قليلا بخيبة أمل رغم ذلك.",
 			"Egyptian Arabic Audio": "eca-0901-8.mp3",
 			"Standard Arabic Audio": "msa-0901-8.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "She did not have much fun at her surprise party.",
 			"Word Count": 10,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لم يكن لديها الكثير من المرح في حفلة مفاجأة لها.",
 			"Egyptian Arabic Audio": "eca-0901-9.mp3",
 			"Standard Arabic Audio": "msa-0901-9.mp3"
 		}

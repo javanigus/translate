@@ -11,7 +11,7 @@
 			"English": "The city is buying guns.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "المدينة تشتري البنادق.",
 			"Egyptian Arabic Audio": "eca-0389-1.mp3",
 			"Standard Arabic Audio": "msa-0389-1.mp3"
 		},
@@ -21,7 +21,7 @@
 			"English": "What are they paying?",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ما الذي يدفعونه؟",
 			"Egyptian Arabic Audio": "eca-0389-2.mp3",
 			"Standard Arabic Audio": "msa-0389-2.mp3"
 		},
@@ -31,7 +31,7 @@
 			"English": "Up to $200 for each gun, no questions asked.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ما يصل إلى 200 دولار لكل بندقية، لا تسأل الأسئلة.",
 			"Egyptian Arabic Audio": "eca-0389-3.mp3",
 			"Standard Arabic Audio": "msa-0389-3.mp3"
 		},
@@ -41,7 +41,7 @@
 			"English": "Why are they doing this?",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لماذا يفعلون ذلك؟",
 			"Egyptian Arabic Audio": "eca-0389-4.mp3",
 			"Standard Arabic Audio": "msa-0389-4.mp3"
 		},
@@ -51,7 +51,7 @@
 			"English": "They want to get guns off the street.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انهم يريدون الحصول على البنادق قبالة الشارع.",
 			"Egyptian Arabic Audio": "eca-0389-5.mp3",
 			"Standard Arabic Audio": "msa-0389-5.mp3"
 		},
@@ -61,7 +61,7 @@
 			"English": "Who would turn in a gun for $200?",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "من الذي بدوره في بندقية ل 200 $؟",
 			"Egyptian Arabic Audio": "eca-0389-6.mp3",
 			"Standard Arabic Audio": "msa-0389-6.mp3"
 		},
@@ -71,7 +71,7 @@
 			"English": "That isn't a good deal?",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هذا ليس صفقة جيدة؟",
 			"Egyptian Arabic Audio": "eca-0389-7.mp3",
 			"Standard Arabic Audio": "msa-0389-7.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "A good gun costs $400 or more.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "بندقية جيدة تكلف 400 $ أو أكثر.",
 			"Egyptian Arabic Audio": "eca-0389-8.mp3",
 			"Standard Arabic Audio": "msa-0389-8.mp3"
 		},
@@ -91,7 +91,7 @@
 			"English": "Well, if you bring your receipt, maybe they'll give you $400.",
 			"Word Count": 11,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "حسنا، إذا جلبت الإيصال الخاص بك، ربما أنها سوف تعطيك 400 $.",
 			"Egyptian Arabic Audio": "eca-0389-9.mp3",
 			"Standard Arabic Audio": "msa-0389-9.mp3"
 		},
@@ -101,7 +101,7 @@
 			"English": "I'll keep my receipt and my gun.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "سأبقي إيصال بلدي وبندقي.",
 			"Egyptian Arabic Audio": "eca-0389-10.mp3",
 			"Standard Arabic Audio": "msa-0389-10.mp3"
 		},
@@ -111,7 +111,7 @@
 			"English": "I didn't know you had a gun.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لم أكن أعرف أن لديك بندقية.",
 			"Egyptian Arabic Audio": "eca-0389-11.mp3",
 			"Standard Arabic Audio": "msa-0389-11.mp3"
 		},
@@ -121,7 +121,7 @@
 			"English": "Everyone in America should have a gun.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يجب أن يكون الجميع في أمريكا بندقية.",
 			"Egyptian Arabic Audio": "eca-0389-12.mp3",
 			"Standard Arabic Audio": "msa-0389-12.mp3"
 		}

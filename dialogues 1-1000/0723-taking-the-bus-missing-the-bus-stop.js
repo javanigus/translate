@@ -11,7 +11,7 @@
 			"English": "Look! The bus is coming!",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "نظرة! الباص أت!",
 			"Egyptian Arabic Audio": "eca-0723-1.mp3",
 			"Standard Arabic Audio": "msa-0723-1.mp3"
 		},
@@ -21,7 +21,7 @@
 			"English": "Let's see if we can cross the street in time to catch it.",
 			"Word Count": 13,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "دعونا نرى ما اذا كان يمكننا عبور الشارع في الوقت المناسب للقبض عليه.",
 			"Egyptian Arabic Audio": "eca-0723-2.mp3",
 			"Standard Arabic Audio": "msa-0723-2.mp3"
 		},
@@ -31,7 +31,7 @@
 			"English": "I don't think we are going to make it.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لا أعتقد أننا سنقوم بذلك.",
 			"Egyptian Arabic Audio": "eca-0723-3.mp3",
 			"Standard Arabic Audio": "msa-0723-3.mp3"
 		},
@@ -41,7 +41,7 @@
 			"English": "You are right. There it goes.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنت محق. وهاهو يذهب.",
 			"Egyptian Arabic Audio": "eca-0723-4.mp3",
 			"Standard Arabic Audio": "msa-0723-4.mp3"
 		},
@@ -51,7 +51,7 @@
 			"English": "When will the next bus arrive?",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "متى تصل الحافلة القادمة؟",
 			"Egyptian Arabic Audio": "eca-0723-5.mp3",
 			"Standard Arabic Audio": "msa-0723-5.mp3"
 		},
@@ -61,7 +61,7 @@
 			"English": "According to the bus stop pamphlet, it should arrive in about fifteen  minutes.",
 			"Word Count": 13,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وفقا لكتيب محطة الحافلات، يجب أن تصل في حوالي خمس عشرة دقيقة.",
 			"Egyptian Arabic Audio": "eca-0723-6.mp3",
 			"Standard Arabic Audio": "msa-0723-6.mp3"
 		},
@@ -71,7 +71,7 @@
 			"English": "We are going to be a bit late.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "سنكون متأخرا بعض الشيء.",
 			"Egyptian Arabic Audio": "eca-0723-7.mp3",
 			"Standard Arabic Audio": "msa-0723-7.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "I hope our friends don't get impatient.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "آمل أن أصدقائنا لا يحصلون على الصبر.",
 			"Egyptian Arabic Audio": "eca-0723-8.mp3",
 			"Standard Arabic Audio": "msa-0723-8.mp3"
 		},
@@ -91,7 +91,7 @@
 			"English": "Hopefully they'll understand.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "نأمل أنها سوف نفهم.",
 			"Egyptian Arabic Audio": "eca-0723-9.mp3",
 			"Standard Arabic Audio": "msa-0723-9.mp3"
 		},
@@ -101,7 +101,7 @@
 			"English": "It should be here any moment now.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يجب أن يكون هنا في أي لحظة الآن.",
 			"Egyptian Arabic Audio": "eca-0723-10.mp3",
 			"Standard Arabic Audio": "msa-0723-10.mp3"
 		},
@@ -111,7 +111,7 @@
 			"English": "Look! Here it comes!",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "نظرة! هاهي آتية!",
 			"Egyptian Arabic Audio": "eca-0723-11.mp3",
 			"Standard Arabic Audio": "msa-0723-11.mp3"
 		},
@@ -121,7 +121,7 @@
 			"English": "Get your bus pass ready to hop on board!",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "الحصول على الحافلة تمر على استعداد للقفز على متن الطائرة!",
 			"Egyptian Arabic Audio": "eca-0723-12.mp3",
 			"Standard Arabic Audio": "msa-0723-12.mp3"
 		}

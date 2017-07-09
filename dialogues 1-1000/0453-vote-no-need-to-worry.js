@@ -11,7 +11,7 @@
 			"English": "Do you believe everything you hear?",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هل تعتقد أن كل ما تسمعه؟",
 			"Egyptian Arabic Audio": "eca-0453-1.mp3",
 			"Standard Arabic Audio": "msa-0453-1.mp3"
 		},
@@ -21,7 +21,7 @@
 			"English": "I don't believe anything I don't see with my own eyes.",
 			"Word Count": 11,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لا أعتقد أي شيء لا أرى بأم عيني.",
 			"Egyptian Arabic Audio": "eca-0453-2.mp3",
 			"Standard Arabic Audio": "msa-0453-2.mp3"
 		},
@@ -31,7 +31,7 @@
 			"English": "You can't believe what you hear on TV or radio.",
 			"Word Count": 10,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لا يمكنك أن تصدق ما تسمعه على التلفزيون أو الراديو.",
 			"Egyptian Arabic Audio": "eca-0453-3.mp3",
 			"Standard Arabic Audio": "msa-0453-3.mp3"
 		},
@@ -41,7 +41,7 @@
 			"English": "You can't believe what you read in the newspapers.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لا يمكنك أن تقرأ ما تقرأه في الصحف.",
 			"Egyptian Arabic Audio": "eca-0453-4.mp3",
 			"Standard Arabic Audio": "msa-0453-4.mp3"
 		},
@@ -51,7 +51,7 @@
 			"English": "Everyone tells you a different story about the same thing.",
 			"Word Count": 10,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "الجميع يخبرك قصة مختلفة عن نفس الشيء.",
 			"Egyptian Arabic Audio": "eca-0453-5.mp3",
 			"Standard Arabic Audio": "msa-0453-5.mp3"
 		},
@@ -61,7 +61,7 @@
 			"English": "Three different people will give you three different stories.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "سوف ثلاثة أشخاص مختلفة تعطيك ثلاث قصص مختلفة.",
 			"Egyptian Arabic Audio": "eca-0453-6.mp3",
 			"Standard Arabic Audio": "msa-0453-6.mp3"
 		},
@@ -71,7 +71,7 @@
 			"English": "And the government will give you a fourth story.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "والحكومة سوف تعطيك قصة رابعة.",
 			"Egyptian Arabic Audio": "eca-0453-7.mp3",
 			"Standard Arabic Audio": "msa-0453-7.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "Yes, like the government says not to worry about the swine flu.",
 			"Word Count": 12,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "نعم، مثل الحكومة تقول لا تقلق بشأن انفلونزا الخنازير.",
 			"Egyptian Arabic Audio": "eca-0453-8.mp3",
 			"Standard Arabic Audio": "msa-0453-8.mp3"
 		},
@@ -91,7 +91,7 @@
 			"English": "But the swine flu just killed 20 people in Mexico.",
 			"Word Count": 10,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ولكن انفلونزا الخنازير قتلت 20 شخصا فى المكسيك.",
 			"Egyptian Arabic Audio": "eca-0453-9.mp3",
 			"Standard Arabic Audio": "msa-0453-9.mp3"
 		},
@@ -101,7 +101,7 @@
 			"English": "The government says we have nothing to worry about.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وتقول الحكومة إنه ليس لدينا ما يدعو للقلق.",
 			"Egyptian Arabic Audio": "eca-0453-10.mp3",
 			"Standard Arabic Audio": "msa-0453-10.mp3"
 		},
@@ -111,7 +111,7 @@
 			"English": "Then why are some schools telling the kids to stay home?",
 			"Word Count": 11,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ثم لماذا بعض المدارس تخبر الأطفال بالبقاء في المنزل؟",
 			"Egyptian Arabic Audio": "eca-0453-11.mp3",
 			"Standard Arabic Audio": "msa-0453-11.mp3"
 		},
@@ -121,7 +121,7 @@
 			"English": "The government says to wash our hands frequently, and we'll all be okay.",
 			"Word Count": 13,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وتقول الحكومة لغسل أيدينا في كثير من الأحيان، ونحن جميعا على ما يرام.",
 			"Egyptian Arabic Audio": "eca-0453-12.mp3",
 			"Standard Arabic Audio": "msa-0453-12.mp3"
 		}

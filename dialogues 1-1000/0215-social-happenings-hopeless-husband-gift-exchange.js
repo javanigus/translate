@@ -11,7 +11,7 @@
 			"English": "That is a beautiful dress you are wearing.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هذا هو ثوب جميل كنت ترتدي.",
 			"Egyptian Arabic Audio": "eca-0215-1.mp3",
 			"Standard Arabic Audio": "msa-0215-1.mp3"
 		},
@@ -21,7 +21,7 @@
 			"English": "Thank you. It was a gift from my husband.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "شكرا. كانت هدية من زوجي.",
 			"Egyptian Arabic Audio": "eca-0215-2.mp3",
 			"Standard Arabic Audio": "msa-0215-2.mp3"
 		},
@@ -31,7 +31,7 @@
 			"English": "He has excellent taste.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لديه طعم ممتاز.",
 			"Egyptian Arabic Audio": "eca-0215-3.mp3",
 			"Standard Arabic Audio": "msa-0215-3.mp3"
 		},
@@ -41,7 +41,7 @@
 			"English": "It's because he knows exactly what I like.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ذلك لأنه يعرف بالضبط ما أحب.",
 			"Egyptian Arabic Audio": "eca-0215-4.mp3",
 			"Standard Arabic Audio": "msa-0215-4.mp3"
 		},
@@ -51,7 +51,7 @@
 			"English": "I wish my husband had your husband's taste in fashion.",
 			"Word Count": 10,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أتمنى أن يكون زوجي طعم زوجك في الموضة.",
 			"Egyptian Arabic Audio": "eca-0215-5.mp3",
 			"Standard Arabic Audio": "msa-0215-5.mp3"
 		},
@@ -61,7 +61,7 @@
 			"English": "Doesn't he know what you like?",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لا يعرف ما تريد؟",
 			"Egyptian Arabic Audio": "eca-0215-6.mp3",
 			"Standard Arabic Audio": "msa-0215-6.mp3"
 		},
@@ -71,7 +71,7 @@
 			"English": "Hardly. He bought me an ugly sweater for Christmas.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "بالكاد. اشترى لي سترة قبيحة لعيد الميلاد.",
 			"Egyptian Arabic Audio": "eca-0215-7.mp3",
 			"Standard Arabic Audio": "msa-0215-7.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "Did you return it?",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هل عدته؟",
 			"Egyptian Arabic Audio": "eca-0215-8.mp3",
 			"Standard Arabic Audio": "msa-0215-8.mp3"
 		},
@@ -91,7 +91,7 @@
 			"English": "No, I entered it in the gift exchange at work.",
 			"Word Count": 10,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لا، دخلت في تبادل الهدايا في العمل.",
 			"Egyptian Arabic Audio": "eca-0215-9.mp3",
 			"Standard Arabic Audio": "msa-0215-9.mp3"
 		},
@@ -101,7 +101,7 @@
 			"English": "What did you get in return?",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ماذا حصلت في المقابل؟",
 			"Egyptian Arabic Audio": "eca-0215-10.mp3",
 			"Standard Arabic Audio": "msa-0215-10.mp3"
 		},
@@ -111,7 +111,7 @@
 			"English": "A department store gift card.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "A متجر بطاقة هدية.",
 			"Egyptian Arabic Audio": "eca-0215-11.mp3",
 			"Standard Arabic Audio": "msa-0215-11.mp3"
 		},
@@ -121,7 +121,7 @@
 			"English": "Just make sure you use it for shopping, and not for your husband!",
 			"Word Count": 13,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "فقط تأكد من استخدامه للتسوق، وليس لزوجك!",
 			"Egyptian Arabic Audio": "eca-0215-12.mp3",
 			"Standard Arabic Audio": "msa-0215-12.mp3"
 		}

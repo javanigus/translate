@@ -9,7 +9,7 @@
 			"English": "Mr Ramirez wanted his students to feel comfortable in class.",
 			"Word Count": 10,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أراد السيد راميريز أن يشعر طلابه بالراحة في الصف.",
 			"Egyptian Arabic Audio": "eca-0268-1.mp3",
 			"Standard Arabic Audio": "msa-0268-1.mp3"
 		},
@@ -18,7 +18,7 @@
 			"English": "That was his number one goal.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وكان هذا هو هدفه رقم واحد.",
 			"Egyptian Arabic Audio": "eca-0268-2.mp3",
 			"Standard Arabic Audio": "msa-0268-2.mp3"
 		},
@@ -27,7 +27,7 @@
 			"English": "He felt like he was doing a good job.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "شعر بأنه كان يقوم بعمل جيد.",
 			"Egyptian Arabic Audio": "eca-0268-3.mp3",
 			"Standard Arabic Audio": "msa-0268-3.mp3"
 		},
@@ -36,7 +36,7 @@
 			"English": "There was one quiet student.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كان هناك طالب هادئ واحد.",
 			"Egyptian Arabic Audio": "eca-0268-4.mp3",
 			"Standard Arabic Audio": "msa-0268-4.mp3"
 		},
@@ -45,7 +45,7 @@
 			"English": "He had no friends.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لم يكن لديه أصدقاء.",
 			"Egyptian Arabic Audio": "eca-0268-5.mp3",
 			"Standard Arabic Audio": "msa-0268-5.mp3"
 		},
@@ -54,7 +54,7 @@
 			"English": "He did not do class presentations.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لم يفعل العروض الصفية.",
 			"Egyptian Arabic Audio": "eca-0268-6.mp3",
 			"Standard Arabic Audio": "msa-0268-6.mp3"
 		},
@@ -63,7 +63,7 @@
 			"English": "He never raised his hand.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لم يرفع يده قط.",
 			"Egyptian Arabic Audio": "eca-0268-7.mp3",
 			"Standard Arabic Audio": "msa-0268-7.mp3"
 		},
@@ -72,7 +72,7 @@
 			"English": "His name was Brandon.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وكان اسمه براندون.",
 			"Egyptian Arabic Audio": "eca-0268-8.mp3",
 			"Standard Arabic Audio": "msa-0268-8.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "Everyone called him QB.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ودعا الجميع له قب.",
 			"Egyptian Arabic Audio": "eca-0268-9.mp3",
 			"Standard Arabic Audio": "msa-0268-9.mp3"
 		},
@@ -90,7 +90,7 @@
 			"English": "It stands for Quiet Boy.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انها تقف على صبي هادئ.",
 			"Egyptian Arabic Audio": "eca-0268-10.mp3",
 			"Standard Arabic Audio": "msa-0268-10.mp3"
 		},
@@ -99,7 +99,7 @@
 			"English": "Mr.",
 			"Word Count": 1,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "السيد",
 			"Egyptian Arabic Audio": "eca-0268-11.mp3",
 			"Standard Arabic Audio": "msa-0268-11.mp3"
 		},
@@ -108,7 +108,7 @@
 			"English": "Ramirez just wanted to see him smile.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "راميريز يريد فقط أن يراه ابتسامة.",
 			"Egyptian Arabic Audio": "eca-0268-12.mp3",
 			"Standard Arabic Audio": "msa-0268-12.mp3"
 		},
@@ -117,7 +117,7 @@
 			"English": "He tried telling him a joke.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "حاول أن يقول له مزحة.",
 			"Egyptian Arabic Audio": "eca-0268-13.mp3",
 			"Standard Arabic Audio": "msa-0268-13.mp3"
 		},
@@ -126,7 +126,7 @@
 			"English": "QB did not laugh.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "قب لم يضحك.",
 			"Egyptian Arabic Audio": "eca-0268-14.mp3",
 			"Standard Arabic Audio": "msa-0268-14.mp3"
 		},
@@ -135,7 +135,7 @@
 			"English": "He just continued reading his book.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "استمر فقط في قراءة كتابه.",
 			"Egyptian Arabic Audio": "eca-0268-15.mp3",
 			"Standard Arabic Audio": "msa-0268-15.mp3"
 		},
@@ -144,7 +144,7 @@
 			"English": "Mr.",
 			"Word Count": 1,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "السيد",
 			"Egyptian Arabic Audio": "eca-0268-16.mp3",
 			"Standard Arabic Audio": "msa-0268-16.mp3"
 		},
@@ -153,7 +153,7 @@
 			"English": "Ramirez tried telling a funny story.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "حاول راميريز قول قصة مضحكة.",
 			"Egyptian Arabic Audio": "eca-0268-17.mp3",
 			"Standard Arabic Audio": "msa-0268-17.mp3"
 		},
@@ -162,7 +162,7 @@
 			"English": "QB did not laugh.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "قب لم يضحك.",
 			"Egyptian Arabic Audio": "eca-0268-18.mp3",
 			"Standard Arabic Audio": "msa-0268-18.mp3"
 		},
@@ -171,7 +171,7 @@
 			"English": "Mr.",
 			"Word Count": 1,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "السيد",
 			"Egyptian Arabic Audio": "eca-0268-19.mp3",
 			"Standard Arabic Audio": "msa-0268-19.mp3"
 		},
@@ -180,7 +180,7 @@
 			"English": "Ramirez showed his pretty paintings.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أظهر راميريز لوحاته الجميلة.",
 			"Egyptian Arabic Audio": "eca-0268-20.mp3",
 			"Standard Arabic Audio": "msa-0268-20.mp3"
 		},
@@ -189,7 +189,7 @@
 			"English": "QB smiled.",
 			"Word Count": 2,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "قب ابتسم.",
 			"Egyptian Arabic Audio": "eca-0268-21.mp3",
 			"Standard Arabic Audio": "msa-0268-21.mp3"
 		},
@@ -198,7 +198,7 @@
 			"English": "Mr.",
 			"Word Count": 1,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "السيد",
 			"Egyptian Arabic Audio": "eca-0268-22.mp3",
 			"Standard Arabic Audio": "msa-0268-22.mp3"
 		},
@@ -207,7 +207,7 @@
 			"English": "Ramirez was happy.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كان راميريز سعيدا.",
 			"Egyptian Arabic Audio": "eca-0268-23.mp3",
 			"Standard Arabic Audio": "msa-0268-23.mp3"
 		},
@@ -216,7 +216,7 @@
 			"English": "He found out that QB had artistic talents.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ووجد أن البنك القطري لديه مواهب فنية.",
 			"Egyptian Arabic Audio": "eca-0268-24.mp3",
 			"Standard Arabic Audio": "msa-0268-24.mp3"
 		}

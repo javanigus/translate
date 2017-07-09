@@ -9,7 +9,7 @@
 			"English": "It was a cloudy day.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كان يوم غائم.",
 			"Egyptian Arabic Audio": "eca-0635-1.mp3",
 			"Standard Arabic Audio": "msa-0635-1.mp3"
 		},
@@ -18,7 +18,7 @@
 			"English": "It looked like it was going to rain.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "بدا الأمر وكأنه سيكون المطر.",
 			"Egyptian Arabic Audio": "eca-0635-2.mp3",
 			"Standard Arabic Audio": "msa-0635-2.mp3"
 		},
@@ -27,7 +27,7 @@
 			"English": "Jim put on his raincoat and rain boots.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وضع جيم على معطف واق من المطر والأحذية المطر.",
 			"Egyptian Arabic Audio": "eca-0635-3.mp3",
 			"Standard Arabic Audio": "msa-0635-3.mp3"
 		},
@@ -36,7 +36,7 @@
 			"English": "He grabbed his umbrella and left his house.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أمسك مظلة له وغادر منزله.",
 			"Egyptian Arabic Audio": "eca-0635-4.mp3",
 			"Standard Arabic Audio": "msa-0635-4.mp3"
 		},
@@ -45,7 +45,7 @@
 			"English": "He had to walk to an elementary school to pick up his sister.",
 			"Word Count": 13,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كان عليه أن يذهب إلى مدرسة ابتدائية لالتقاط شقيقته.",
 			"Egyptian Arabic Audio": "eca-0635-5.mp3",
 			"Standard Arabic Audio": "msa-0635-5.mp3"
 		},
@@ -54,7 +54,7 @@
 			"English": "It was three o'clock.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كان الساعة الثالثة.",
 			"Egyptian Arabic Audio": "eca-0635-6.mp3",
 			"Standard Arabic Audio": "msa-0635-6.mp3"
 		},
@@ -63,7 +63,7 @@
 			"English": "Jim's little sister was coming out of school.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كانت شقيقة جيم الصغيرة تخرج من المدرسة.",
 			"Egyptian Arabic Audio": "eca-0635-7.mp3",
 			"Standard Arabic Audio": "msa-0635-7.mp3"
 		},
@@ -72,7 +72,7 @@
 			"English": "He walked along the streets.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "مشى على طول الشوارع.",
 			"Egyptian Arabic Audio": "eca-0635-8.mp3",
 			"Standard Arabic Audio": "msa-0635-8.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "He looked at his clothes.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "نظر إلى ملابسه.",
 			"Egyptian Arabic Audio": "eca-0635-9.mp3",
 			"Standard Arabic Audio": "msa-0635-9.mp3"
 		},
@@ -90,7 +90,7 @@
 			"English": "His rain boots were black.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وكانت أحذية المطر له سوداء.",
 			"Egyptian Arabic Audio": "eca-0635-10.mp3",
 			"Standard Arabic Audio": "msa-0635-10.mp3"
 		},
@@ -99,7 +99,7 @@
 			"English": "His raincoat was green.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كان معطفه الأخضر أخضر.",
 			"Egyptian Arabic Audio": "eca-0635-11.mp3",
 			"Standard Arabic Audio": "msa-0635-11.mp3"
 		},
@@ -108,7 +108,7 @@
 			"English": "His jeans were blue.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كان جينزه أزرق.",
 			"Egyptian Arabic Audio": "eca-0635-12.mp3",
 			"Standard Arabic Audio": "msa-0635-12.mp3"
 		},
@@ -117,7 +117,7 @@
 			"English": "His umbrella was red.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "مظلة له أحمر.",
 			"Egyptian Arabic Audio": "eca-0635-13.mp3",
 			"Standard Arabic Audio": "msa-0635-13.mp3"
 		},
@@ -126,7 +126,7 @@
 			"English": "Jim looked around as he walked.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "بدا جيم حوله وهو يسير.",
 			"Egyptian Arabic Audio": "eca-0635-14.mp3",
 			"Standard Arabic Audio": "msa-0635-14.mp3"
 		},
@@ -135,7 +135,7 @@
 			"English": "People were dressed similarly.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كان الناس يرتدون ملابس مماثلة.",
 			"Egyptian Arabic Audio": "eca-0635-15.mp3",
 			"Standard Arabic Audio": "msa-0635-15.mp3"
 		},
@@ -144,7 +144,7 @@
 			"English": "The clouds looked dark.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "بدا الغيوم الظلام.",
 			"Egyptian Arabic Audio": "eca-0635-16.mp3",
 			"Standard Arabic Audio": "msa-0635-16.mp3"
 		},
@@ -153,7 +153,7 @@
 			"English": "They were heavy with rain.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كانت ثقيلة مع المطر.",
 			"Egyptian Arabic Audio": "eca-0635-17.mp3",
 			"Standard Arabic Audio": "msa-0635-17.mp3"
 		},
@@ -162,7 +162,7 @@
 			"English": "Jim walked faster.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يسير جيم أسرع.",
 			"Egyptian Arabic Audio": "eca-0635-18.mp3",
 			"Standard Arabic Audio": "msa-0635-18.mp3"
 		},
@@ -171,7 +171,7 @@
 			"English": "Jim arrived at 3:20.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وصل جيم في 3:20.",
 			"Egyptian Arabic Audio": "eca-0635-19.mp3",
 			"Standard Arabic Audio": "msa-0635-19.mp3"
 		},
@@ -180,7 +180,7 @@
 			"English": "The school bell would ring at 3:30.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "سوف يرن جرس المدرسة الساعة 3:30.",
 			"Egyptian Arabic Audio": "eca-0635-20.mp3",
 			"Standard Arabic Audio": "msa-0635-20.mp3"
 		},
@@ -189,7 +189,7 @@
 			"English": "Jim needed to wait ten more minutes.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يحتاج جيم إلى الانتظار عشر دقائق أخرى.",
 			"Egyptian Arabic Audio": "eca-0635-21.mp3",
 			"Standard Arabic Audio": "msa-0635-21.mp3"
 		},
@@ -198,7 +198,7 @@
 			"English": "He was at the front gate.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كان على البوابة الأمامية.",
 			"Egyptian Arabic Audio": "eca-0635-22.mp3",
 			"Standard Arabic Audio": "msa-0635-22.mp3"
 		},
@@ -207,7 +207,7 @@
 			"English": "There were parents waiting alongside with Jim.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كان هناك الآباء ينتظرون جنبا إلى جنب مع جيم.",
 			"Egyptian Arabic Audio": "eca-0635-23.mp3",
 			"Standard Arabic Audio": "msa-0635-23.mp3"
 		},
@@ -216,7 +216,7 @@
 			"English": "The school bell rang.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "رن جرس المدرسة.",
 			"Egyptian Arabic Audio": "eca-0635-24.mp3",
 			"Standard Arabic Audio": "msa-0635-24.mp3"
 		},
@@ -225,7 +225,7 @@
 			"English": "Children were escorted to the front gate.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "اصطحب الأطفال إلى البوابة الأمامية.",
 			"Egyptian Arabic Audio": "eca-0635-25.mp3",
 			"Standard Arabic Audio": "msa-0635-25.mp3"
 		},
@@ -234,7 +234,7 @@
 			"English": "Jim's sister ran up to him.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "شقيقة جيم ركض له.",
 			"Egyptian Arabic Audio": "eca-0635-26.mp3",
 			"Standard Arabic Audio": "msa-0635-26.mp3"
 		},
@@ -243,7 +243,7 @@
 			"English": "They hugged, and walked home together.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "عانقوا، وساروا معا.",
 			"Egyptian Arabic Audio": "eca-0635-27.mp3",
 			"Standard Arabic Audio": "msa-0635-27.mp3"
 		}

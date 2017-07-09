@@ -9,7 +9,7 @@
 			"English": "He eats noodles.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يأكل الشعرية.",
 			"Egyptian Arabic Audio": "eca-0100-1.mp3",
 			"Standard Arabic Audio": "msa-0100-1.mp3"
 		},
@@ -18,7 +18,7 @@
 			"English": "It is plain.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "فمن السهل.",
 			"Egyptian Arabic Audio": "eca-0100-2.mp3",
 			"Standard Arabic Audio": "msa-0100-2.mp3"
 		},
@@ -27,7 +27,7 @@
 			"English": "He adds chili sauce.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ويضيف صلصة الفلفل الحار.",
 			"Egyptian Arabic Audio": "eca-0100-3.mp3",
 			"Standard Arabic Audio": "msa-0100-3.mp3"
 		},
@@ -36,7 +36,7 @@
 			"English": "He tries the noodles.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يحاول المعكرونة.",
 			"Egyptian Arabic Audio": "eca-0100-4.mp3",
 			"Standard Arabic Audio": "msa-0100-4.mp3"
 		},
@@ -45,7 +45,7 @@
 			"English": "It tastes a lot better.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنها الأذواق أفضل بكثير.",
 			"Egyptian Arabic Audio": "eca-0100-5.mp3",
 			"Standard Arabic Audio": "msa-0100-5.mp3"
 		},
@@ -54,7 +54,7 @@
 			"English": "He starts to put chili sauce in everything.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يبدأ بوضع صلصة الفلفل الحار في كل شيء.",
 			"Egyptian Arabic Audio": "eca-0100-6.mp3",
 			"Standard Arabic Audio": "msa-0100-6.mp3"
 		},
@@ -63,7 +63,7 @@
 			"English": "He puts chili sauce on french fries.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يضع صلصة الفلفل الحار على البطاطا المقلية.",
 			"Egyptian Arabic Audio": "eca-0100-7.mp3",
 			"Standard Arabic Audio": "msa-0100-7.mp3"
 		},
@@ -72,7 +72,7 @@
 			"English": "He puts chili sauce in soup.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يضع صلصة الفلفل الحار في الحساء.",
 			"Egyptian Arabic Audio": "eca-0100-8.mp3",
 			"Standard Arabic Audio": "msa-0100-8.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "He puts chili sauce on egg rolls.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يضع صلصة الفلفل الحار على لفات البيض.",
 			"Egyptian Arabic Audio": "eca-0100-9.mp3",
 			"Standard Arabic Audio": "msa-0100-9.mp3"
 		},
@@ -90,7 +90,7 @@
 			"English": "He even puts chili sauce on rice.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "حتى انه يضع صلصة الفلفل الحار على الأرز.",
 			"Egyptian Arabic Audio": "eca-0100-10.mp3",
 			"Standard Arabic Audio": "msa-0100-10.mp3"
 		}

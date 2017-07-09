@@ -9,7 +9,7 @@
 			"English": "The first thing they looked at was Renaissance art.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أول شيء نظروا إليه هو فن النهضة.",
 			"Egyptian Arabic Audio": "eca-0938-1.mp3",
 			"Standard Arabic Audio": "msa-0938-1.mp3"
 		},
@@ -18,7 +18,7 @@
 			"English": "This was art from the 14th to 17th century.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كان هذا الفن من القرن 14 إلى 17.",
 			"Egyptian Arabic Audio": "eca-0938-2.mp3",
 			"Standard Arabic Audio": "msa-0938-2.mp3"
 		},
@@ -27,7 +27,7 @@
 			"English": "It was Josh's favorite.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كان جوش المفضل.",
 			"Egyptian Arabic Audio": "eca-0938-3.mp3",
 			"Standard Arabic Audio": "msa-0938-3.mp3"
 		},
@@ -36,7 +36,7 @@
 			"English": "After that they went to look at modern art.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "بعد ذلك ذهبوا للنظر في الفن الحديث.",
 			"Egyptian Arabic Audio": "eca-0938-4.mp3",
 			"Standard Arabic Audio": "msa-0938-4.mp3"
 		},
@@ -45,7 +45,7 @@
 			"English": "His sister loved modern art.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أخته أحب الفن الحديث.",
 			"Egyptian Arabic Audio": "eca-0938-5.mp3",
 			"Standard Arabic Audio": "msa-0938-5.mp3"
 		},
@@ -54,7 +54,7 @@
 			"English": "She loved how refreshing and abstract it was.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أحببت كيف منعش ومجردة كان.",
 			"Egyptian Arabic Audio": "eca-0938-6.mp3",
 			"Standard Arabic Audio": "msa-0938-6.mp3"
 		},
@@ -63,7 +63,7 @@
 			"English": "They admired all the artwork.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أعجبوا كل الأعمال الفنية.",
 			"Egyptian Arabic Audio": "eca-0938-7.mp3",
 			"Standard Arabic Audio": "msa-0938-7.mp3"
 		},
@@ -72,7 +72,7 @@
 			"English": "They took pictures of some of them.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أخذوا صورا لبعضهم.",
 			"Egyptian Arabic Audio": "eca-0938-8.mp3",
 			"Standard Arabic Audio": "msa-0938-8.mp3"
 		}

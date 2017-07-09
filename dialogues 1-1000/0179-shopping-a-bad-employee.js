@@ -11,7 +11,7 @@
 			"English": "Can you help me?",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هل بإمكانك مساعدتي؟",
 			"Egyptian Arabic Audio": "eca-0179-1.mp3",
 			"Standard Arabic Audio": "msa-0179-1.mp3"
 		},
@@ -21,7 +21,7 @@
 			"English": "Maybe I can.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ربما أستطيع.",
 			"Egyptian Arabic Audio": "eca-0179-2.mp3",
 			"Standard Arabic Audio": "msa-0179-2.mp3"
 		},
@@ -31,7 +31,7 @@
 			"English": "I need this dress in a size eight.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أحتاج هذا اللباس في حجم ثمانية.",
 			"Egyptian Arabic Audio": "eca-0179-3.mp3",
 			"Standard Arabic Audio": "msa-0179-3.mp3"
 		},
@@ -41,7 +41,7 @@
 			"English": "If it's not on the rack, we don't have it.",
 			"Word Count": 10,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "إذا لم يكن على الرف، ليس لدينا ذلك.",
 			"Egyptian Arabic Audio": "eca-0179-4.mp3",
 			"Standard Arabic Audio": "msa-0179-4.mp3"
 		},
@@ -51,7 +51,7 @@
 			"English": "Can you just check for me?",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يمكنك التحقق فقط بالنسبة لي؟",
 			"Egyptian Arabic Audio": "eca-0179-5.mp3",
 			"Standard Arabic Audio": "msa-0179-5.mp3"
 		},
@@ -61,7 +61,7 @@
 			"English": "We don't have that dress in a size eight.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ليس لدينا هذا اللباس في حجم ثمانية.",
 			"Egyptian Arabic Audio": "eca-0179-6.mp3",
 			"Standard Arabic Audio": "msa-0179-6.mp3"
 		},
@@ -71,7 +71,7 @@
 			"English": "But you didn't even check!",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ولكنك لم تحقق حتى!",
 			"Egyptian Arabic Audio": "eca-0179-7.mp3",
 			"Standard Arabic Audio": "msa-0179-7.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "Look, I'm really tired.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انظروا، أنا متعب حقا.",
 			"Egyptian Arabic Audio": "eca-0179-8.mp3",
 			"Standard Arabic Audio": "msa-0179-8.mp3"
 		},
@@ -91,7 +91,7 @@
 			"English": "I think you mean lazy.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أعتقد أنك تعني كسول.",
 			"Egyptian Arabic Audio": "eca-0179-9.mp3",
 			"Standard Arabic Audio": "msa-0179-9.mp3"
 		},
@@ -101,7 +101,7 @@
 			"English": "Can you ask another employee?",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هل يمكنك أن تسأل موظفا آخر؟",
 			"Egyptian Arabic Audio": "eca-0179-10.mp3",
 			"Standard Arabic Audio": "msa-0179-10.mp3"
 		},
@@ -111,7 +111,7 @@
 			"English": "I want to talk to your manager.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أريد التحدث إلى مديرك.",
 			"Egyptian Arabic Audio": "eca-0179-11.mp3",
 			"Standard Arabic Audio": "msa-0179-11.mp3"
 		},
@@ -121,7 +121,7 @@
 			"English": "No! I'll go find the dress.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لا! سأذهب العثور على اللباس.",
 			"Egyptian Arabic Audio": "eca-0179-12.mp3",
 			"Standard Arabic Audio": "msa-0179-12.mp3"
 		}

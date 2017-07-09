@@ -9,7 +9,7 @@
 			"English": "Sarah has to do certain things before she sleeps.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "سارة يجب أن تفعل أشياء معينة قبل أن ينام.",
 			"Egyptian Arabic Audio": "eca-0152-1.mp3",
 			"Standard Arabic Audio": "msa-0152-1.mp3"
 		},
@@ -18,7 +18,7 @@
 			"English": "She has to light up candles.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لديها لتضيء الشموع.",
 			"Egyptian Arabic Audio": "eca-0152-2.mp3",
 			"Standard Arabic Audio": "msa-0152-2.mp3"
 		},
@@ -27,7 +27,7 @@
 			"English": "The smell helps her sleep better.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "رائحة يساعدها على النوم بشكل أفضل.",
 			"Egyptian Arabic Audio": "eca-0152-3.mp3",
 			"Standard Arabic Audio": "msa-0152-3.mp3"
 		},
@@ -36,7 +36,7 @@
 			"English": "She has to change into her pajamas.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لديها لتغيير في منامة لها.",
 			"Egyptian Arabic Audio": "eca-0152-4.mp3",
 			"Standard Arabic Audio": "msa-0152-4.mp3"
 		},
@@ -45,7 +45,7 @@
 			"English": "Pajamas are more comfortable.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "البيجامات هي أكثر راحة.",
 			"Egyptian Arabic Audio": "eca-0152-5.mp3",
 			"Standard Arabic Audio": "msa-0152-5.mp3"
 		},
@@ -54,7 +54,7 @@
 			"English": "She has to read a story for ten minutes.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لديها لقراءة قصة لمدة عشر دقائق.",
 			"Egyptian Arabic Audio": "eca-0152-6.mp3",
 			"Standard Arabic Audio": "msa-0152-6.mp3"
 		},
@@ -63,7 +63,7 @@
 			"English": "Reading makes her sleepy.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "القراءة يجعلها نعسان.",
 			"Egyptian Arabic Audio": "eca-0152-7.mp3",
 			"Standard Arabic Audio": "msa-0152-7.mp3"
 		},
@@ -72,7 +72,7 @@
 			"English": "After all that, she can sleep.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "بعد كل ذلك، وقالت انها يمكن أن النوم.",
 			"Egyptian Arabic Audio": "eca-0152-8.mp3",
 			"Standard Arabic Audio": "msa-0152-8.mp3"
 		}

@@ -9,7 +9,7 @@
 			"English": "It is time to clean.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لقد حان الوقت لتنظيف.",
 			"Egyptian Arabic Audio": "eca-0183-1.mp3",
 			"Standard Arabic Audio": "msa-0183-1.mp3"
 		},
@@ -18,7 +18,7 @@
 			"English": "She gets a bucket.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "تحصل على دلو.",
 			"Egyptian Arabic Audio": "eca-0183-2.mp3",
 			"Standard Arabic Audio": "msa-0183-2.mp3"
 		},
@@ -27,7 +27,7 @@
 			"English": "She fills it with water and soap.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انها تملأ بالماء والصابون.",
 			"Egyptian Arabic Audio": "eca-0183-3.mp3",
 			"Standard Arabic Audio": "msa-0183-3.mp3"
 		},
@@ -36,7 +36,7 @@
 			"English": "It is all bubbly now.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كل شيء شمبانيا الآن.",
 			"Egyptian Arabic Audio": "eca-0183-4.mp3",
 			"Standard Arabic Audio": "msa-0183-4.mp3"
 		},
@@ -45,7 +45,7 @@
 			"English": "She puts a sponge inside the bucket.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انها تضع الاسفنج داخل دلو.",
 			"Egyptian Arabic Audio": "eca-0183-5.mp3",
 			"Standard Arabic Audio": "msa-0183-5.mp3"
 		},
@@ -54,7 +54,7 @@
 			"English": "It is wet.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انه مبلل.",
 			"Egyptian Arabic Audio": "eca-0183-6.mp3",
 			"Standard Arabic Audio": "msa-0183-6.mp3"
 		},
@@ -63,7 +63,7 @@
 			"English": "She scrubs the floor.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وقالت انها تدرك الكلمة.",
 			"Egyptian Arabic Audio": "eca-0183-7.mp3",
 			"Standard Arabic Audio": "msa-0183-7.mp3"
 		},
@@ -72,7 +72,7 @@
 			"English": "It takes an hour.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يستغرق الأمر ساعة.",
 			"Egyptian Arabic Audio": "eca-0183-8.mp3",
 			"Standard Arabic Audio": "msa-0183-8.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "Her house is big.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "منزلها كبير.",
 			"Egyptian Arabic Audio": "eca-0183-9.mp3",
 			"Standard Arabic Audio": "msa-0183-9.mp3"
 		},
@@ -90,7 +90,7 @@
 			"English": "Later, she dries the floor with towels.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "في وقت لاحق، وقالت انها تجف الكلمة مع المناشف.",
 			"Egyptian Arabic Audio": "eca-0183-10.mp3",
 			"Standard Arabic Audio": "msa-0183-10.mp3"
 		}

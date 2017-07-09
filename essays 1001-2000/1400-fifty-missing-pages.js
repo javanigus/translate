@@ -9,7 +9,7 @@
 			"English": "He needed to study for a test.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كان بحاجة للدراسة لاختبار.",
 			"Egyptian Arabic Audio": "eca-1400-1.mp3",
 			"Standard Arabic Audio": "msa-1400-1.mp3"
 		},
@@ -18,7 +18,7 @@
 			"English": "He went online to order a book.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ذهب على الانترنت لطلب كتاب.",
 			"Egyptian Arabic Audio": "eca-1400-2.mp3",
 			"Standard Arabic Audio": "msa-1400-2.mp3"
 		},
@@ -27,7 +27,7 @@
 			"English": "He went to the publisher's website.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ذهب إلى موقع الناشر.",
 			"Egyptian Arabic Audio": "eca-1400-3.mp3",
 			"Standard Arabic Audio": "msa-1400-3.mp3"
 		},
@@ -36,7 +36,7 @@
 			"English": "He found the book he needed to study.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وجد الكتاب الذي يحتاج إلى دراسة.",
 			"Egyptian Arabic Audio": "eca-1400-4.mp3",
 			"Standard Arabic Audio": "msa-1400-4.mp3"
 		},
@@ -45,7 +45,7 @@
 			"English": "It was 240 pages.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كان 240 صفحة.",
 			"Egyptian Arabic Audio": "eca-1400-5.mp3",
 			"Standard Arabic Audio": "msa-1400-5.mp3"
 		},
@@ -54,7 +54,7 @@
 			"English": "It was $59.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وكان 59 دولارا.",
 			"Egyptian Arabic Audio": "eca-1400-6.mp3",
 			"Standard Arabic Audio": "msa-1400-6.mp3"
 		},
@@ -63,7 +63,7 @@
 			"English": "Shipping was $6.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وكان الشحن $ 6.",
 			"Egyptian Arabic Audio": "eca-1400-7.mp3",
 			"Standard Arabic Audio": "msa-1400-7.mp3"
 		},
@@ -72,7 +72,7 @@
 			"English": "He could order the book from the publisher's website.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يمكن أن يأمر الكتاب من موقع الناشر.",
 			"Egyptian Arabic Audio": "eca-1400-8.mp3",
 			"Standard Arabic Audio": "msa-1400-8.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "Or, he could order it from the Borders store.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أو، يمكن أن تأمر بذلك من متجر الحدود.",
 			"Egyptian Arabic Audio": "eca-1400-9.mp3",
 			"Standard Arabic Audio": "msa-1400-9.mp3"
 		},
@@ -90,7 +90,7 @@
 			"English": "It was only a block away.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كانت مجرد كتلة بعيدا.",
 			"Egyptian Arabic Audio": "eca-1400-10.mp3",
 			"Standard Arabic Audio": "msa-1400-10.mp3"
 		},
@@ -99,7 +99,7 @@
 			"English": "Borders wouldn't charge him for shipping.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "الحدود لن تهمة له للشحن.",
 			"Egyptian Arabic Audio": "eca-1400-11.mp3",
 			"Standard Arabic Audio": "msa-1400-11.mp3"
 		},
@@ -108,7 +108,7 @@
 			"English": "He walked over to Borders.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "سافر إلى الحدود.",
 			"Egyptian Arabic Audio": "eca-1400-12.mp3",
 			"Standard Arabic Audio": "msa-1400-12.mp3"
 		},
@@ -117,7 +117,7 @@
 			"English": "He gave the book title to the clerk.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أعطى عنوان الكتاب إلى كاتب.",
 			"Egyptian Arabic Audio": "eca-1400-13.mp3",
 			"Standard Arabic Audio": "msa-1400-13.mp3"
 		},
@@ -126,7 +126,7 @@
 			"English": "She typed the title into her computer.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كتبت العنوان في جهاز الكمبيوتر الخاص بها.",
 			"Egyptian Arabic Audio": "eca-1400-14.mp3",
 			"Standard Arabic Audio": "msa-1400-14.mp3"
 		},
@@ -135,7 +135,7 @@
 			"English": "The price was $59.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وكان السعر 59 $.",
 			"Egyptian Arabic Audio": "eca-1400-15.mp3",
 			"Standard Arabic Audio": "msa-1400-15.mp3"
 		},
@@ -144,7 +144,7 @@
 			"English": "Shipping was free.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "الشحن مجاني.",
 			"Egyptian Arabic Audio": "eca-1400-16.mp3",
 			"Standard Arabic Audio": "msa-1400-16.mp3"
 		},
@@ -153,7 +153,7 @@
 			"English": "The number of pages was 190.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "عدد الصفحات 190.",
 			"Egyptian Arabic Audio": "eca-1400-17.mp3",
 			"Standard Arabic Audio": "msa-1400-17.mp3"
 		},
@@ -162,7 +162,7 @@
 			"English": "\"Wait a minute,\" he said.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وقال &quot;انتظر دقيقة&quot;.",
 			"Egyptian Arabic Audio": "eca-1400-18.mp3",
 			"Standard Arabic Audio": "msa-1400-18.mp3"
 		},
@@ -171,7 +171,7 @@
 			"English": "\"I just looked at this book online.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "&quot;لقد نظرت للتو إلى هذا الكتاب عبر الإنترنت.",
 			"Egyptian Arabic Audio": "eca-1400-19.mp3",
 			"Standard Arabic Audio": "msa-1400-19.mp3"
 		},
@@ -180,7 +180,7 @@
 			"English": "It has 240 pages, not 190.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لديها 240 صفحة، وليس 190.",
 			"Egyptian Arabic Audio": "eca-1400-20.mp3",
 			"Standard Arabic Audio": "msa-1400-20.mp3"
 		},
@@ -189,7 +189,7 @@
 			"English": "Where did 50 pages go?\" \"That's strange,\" she said.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أين ذهبت 50 صفحة؟ &quot;وقالت&quot; هذا غريب &quot;.",
 			"Egyptian Arabic Audio": "eca-1400-21.mp3",
 			"Standard Arabic Audio": "msa-1400-21.mp3"
 		},
@@ -198,7 +198,7 @@
 			"English": "\"Maybe you should order it from the publisher.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "&quot;ربما يجب أن تأمر به من الناشر.",
 			"Egyptian Arabic Audio": "eca-1400-22.mp3",
 			"Standard Arabic Audio": "msa-1400-22.mp3"
 		},
@@ -207,7 +207,7 @@
 			"English": "\" \"No,\" he said.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وقال &quot;لا&quot;.",
 			"Egyptian Arabic Audio": "eca-1400-23.mp3",
 			"Standard Arabic Audio": "msa-1400-23.mp3"
 		},
@@ -216,7 +216,7 @@
 			"English": "\"It's okay.",
 			"Word Count": 2,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "&quot;انه بخير.",
 			"Egyptian Arabic Audio": "eca-1400-24.mp3",
 			"Standard Arabic Audio": "msa-1400-24.mp3"
 		},
@@ -225,7 +225,7 @@
 			"English": "That's 50 pages that I won't have to study.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هذا هو 50 صفحة التي لن تضطر للدراسة.",
 			"Egyptian Arabic Audio": "eca-1400-25.mp3",
 			"Standard Arabic Audio": "msa-1400-25.mp3"
 		},
@@ -234,7 +234,7 @@
 			"English": "\".",
 			"Word Count": 1,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "&quot;.",
 			"Egyptian Arabic Audio": "eca-1400-26.mp3",
 			"Standard Arabic Audio": "msa-1400-26.mp3"
 		}

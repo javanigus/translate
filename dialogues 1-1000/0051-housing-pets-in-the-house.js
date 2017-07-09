@@ -11,7 +11,7 @@
 			"English": "Who let the dog inside?",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "الذين ترك الكلب داخل؟",
 			"Egyptian Arabic Audio": "eca-0051-1.mp3",
 			"Standard Arabic Audio": "msa-0051-1.mp3"
 		},
@@ -21,7 +21,7 @@
 			"English": "I did. What's the problem?",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "فعلت. ما هي المشكلة؟",
 			"Egyptian Arabic Audio": "eca-0051-2.mp3",
 			"Standard Arabic Audio": "msa-0051-2.mp3"
 		},
@@ -31,7 +31,7 @@
 			"English": "He got mud all over the new carpet!",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "حصل على الطين في جميع أنحاء السجادة الجديدة!",
 			"Egyptian Arabic Audio": "eca-0051-3.mp3",
 			"Standard Arabic Audio": "msa-0051-3.mp3"
 		},
@@ -41,7 +41,7 @@
 			"English": "That wasn't him. I just gave him a bath!",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لم يكن ذلك. أنا فقط أعطاه حمام!",
 			"Egyptian Arabic Audio": "eca-0051-4.mp3",
 			"Standard Arabic Audio": "msa-0051-4.mp3"
 		},
@@ -51,7 +51,7 @@
 			"English": "Now that I look closer, these look like footprints!",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "الآن أن أبدو أقرب، هذه تبدو وكأنها آثار أقدام!",
 			"Egyptian Arabic Audio": "eca-0051-5.mp3",
 			"Standard Arabic Audio": "msa-0051-5.mp3"
 		},
@@ -61,7 +61,7 @@
 			"English": "Well, they're not mine, they're too big!",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "حسنا، انهم ليسوا لي، انهم كبيرة جدا!",
 			"Egyptian Arabic Audio": "eca-0051-6.mp3",
 			"Standard Arabic Audio": "msa-0051-6.mp3"
 		},
@@ -71,7 +71,7 @@
 			"English": "They're not mine, either. I haven't been outside.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انهم ليسوا لي، سواء. لم أكن خارج.",
 			"Egyptian Arabic Audio": "eca-0051-7.mp3",
 			"Standard Arabic Audio": "msa-0051-7.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "I think those are dad's footprints.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أعتقد أن هذه هي أقدام أبي.",
 			"Egyptian Arabic Audio": "eca-0051-8.mp3",
 			"Standard Arabic Audio": "msa-0051-8.mp3"
 		},
@@ -91,7 +91,7 @@
 			"English": "I think you're right!",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أعتقد أنك على حق!",
 			"Egyptian Arabic Audio": "eca-0051-9.mp3",
 			"Standard Arabic Audio": "msa-0051-9.mp3"
 		},
@@ -101,7 +101,7 @@
 			"English": "Dad's in big trouble now.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أبي في ورطة كبيرة الآن.",
 			"Egyptian Arabic Audio": "eca-0051-10.mp3",
 			"Standard Arabic Audio": "msa-0051-10.mp3"
 		},
@@ -111,7 +111,7 @@
 			"English": "Yes he is. Maybe he'll sleep in the dog house tonight.",
 			"Word Count": 11,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "نعم هو كذلك. ربما انه سوف ينام في بيت الكلب الليلة.",
 			"Egyptian Arabic Audio": "eca-0051-11.mp3",
 			"Standard Arabic Audio": "msa-0051-11.mp3"
 		},
@@ -121,7 +121,7 @@
 			"English": "I don't think the dog wants dad as a roommate.",
 			"Word Count": 10,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لا أعتقد أن الكلب يريد أبي كزميل في الغرفة.",
 			"Egyptian Arabic Audio": "eca-0051-12.mp3",
 			"Standard Arabic Audio": "msa-0051-12.mp3"
 		}

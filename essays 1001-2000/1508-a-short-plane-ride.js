@@ -9,7 +9,7 @@
 			"English": "The pilot and the passenger got into the plane.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وصل الطيار والراكب الى الطائرة.",
 			"Egyptian Arabic Audio": "eca-1508-1.mp3",
 			"Standard Arabic Audio": "msa-1508-1.mp3"
 		},
@@ -18,7 +18,7 @@
 			"English": "It was a small plane.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كانت طائرة صغيرة.",
 			"Egyptian Arabic Audio": "eca-1508-2.mp3",
 			"Standard Arabic Audio": "msa-1508-2.mp3"
 		},
@@ -27,7 +27,7 @@
 			"English": "It had one engine.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كان لديه محرك واحد.",
 			"Egyptian Arabic Audio": "eca-1508-3.mp3",
 			"Standard Arabic Audio": "msa-1508-3.mp3"
 		},
@@ -36,7 +36,7 @@
 			"English": "It was an old plane.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كانت طائرة قديمة.",
 			"Egyptian Arabic Audio": "eca-1508-4.mp3",
 			"Standard Arabic Audio": "msa-1508-4.mp3"
 		},
@@ -45,7 +45,7 @@
 			"English": "The pilot started the engine.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "بدأ الطيار المحرك.",
 			"Egyptian Arabic Audio": "eca-1508-5.mp3",
 			"Standard Arabic Audio": "msa-1508-5.mp3"
 		},
@@ -54,7 +54,7 @@
 			"English": "\"Are you okay?\" he asked the passenger.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "&quot;انت بخير؟&quot; سأل الراكب.",
 			"Egyptian Arabic Audio": "eca-1508-6.mp3",
 			"Standard Arabic Audio": "msa-1508-6.mp3"
 		},
@@ -63,7 +63,7 @@
 			"English": "She said she was okay.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وقالت إنها بخير.",
 			"Egyptian Arabic Audio": "eca-1508-7.mp3",
 			"Standard Arabic Audio": "msa-1508-7.mp3"
 		},
@@ -72,7 +72,7 @@
 			"English": "They were flying to an island.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كانوا يطيرون إلى جزيرة.",
 			"Egyptian Arabic Audio": "eca-1508-8.mp3",
 			"Standard Arabic Audio": "msa-1508-8.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "The island was only 30 minutes away.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كانت الجزيرة على بعد 30 دقيقة فقط.",
 			"Egyptian Arabic Audio": "eca-1508-9.mp3",
 			"Standard Arabic Audio": "msa-1508-9.mp3"
 		},
@@ -90,7 +90,7 @@
 			"English": "It would be a short flight.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ستكون رحلة قصيرة.",
 			"Egyptian Arabic Audio": "eca-1508-10.mp3",
 			"Standard Arabic Audio": "msa-1508-10.mp3"
 		},
@@ -99,7 +99,7 @@
 			"English": "She was a nurse.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كانت ممرضة.",
 			"Egyptian Arabic Audio": "eca-1508-11.mp3",
 			"Standard Arabic Audio": "msa-1508-11.mp3"
 		},
@@ -108,7 +108,7 @@
 			"English": "Her husband was a doctor.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وكان زوجها طبيبا.",
 			"Egyptian Arabic Audio": "eca-1508-12.mp3",
 			"Standard Arabic Audio": "msa-1508-12.mp3"
 		},
@@ -117,7 +117,7 @@
 			"English": "The doctor was on the island.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وكان الطبيب في الجزيرة.",
 			"Egyptian Arabic Audio": "eca-1508-13.mp3",
 			"Standard Arabic Audio": "msa-1508-13.mp3"
 		},
@@ -126,7 +126,7 @@
 			"English": "The doctor needed some medicine.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "الطبيب يحتاج إلى بعض الأدوية.",
 			"Egyptian Arabic Audio": "eca-1508-14.mp3",
 			"Standard Arabic Audio": "msa-1508-14.mp3"
 		},
@@ -135,7 +135,7 @@
 			"English": "She had the medicine in her bag.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كان لديها الدواء في حقيبتها.",
 			"Egyptian Arabic Audio": "eca-1508-15.mp3",
 			"Standard Arabic Audio": "msa-1508-15.mp3"
 		},
@@ -144,7 +144,7 @@
 			"English": "The medicine would save a young boy.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "الدواء سيوفر صبي صغير.",
 			"Egyptian Arabic Audio": "eca-1508-16.mp3",
 			"Standard Arabic Audio": "msa-1508-16.mp3"
 		},
@@ -153,7 +153,7 @@
 			"English": "The young boy was very sick.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وكان الصبي مريضا جدا.",
 			"Egyptian Arabic Audio": "eca-1508-17.mp3",
 			"Standard Arabic Audio": "msa-1508-17.mp3"
 		},
@@ -162,7 +162,7 @@
 			"English": "The plane took off.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وقد اقلعت الطائرة.",
 			"Egyptian Arabic Audio": "eca-1508-18.mp3",
 			"Standard Arabic Audio": "msa-1508-18.mp3"
 		},
@@ -171,7 +171,7 @@
 			"English": "The engine sounded funny.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "بدا محرك مضحك.",
 			"Egyptian Arabic Audio": "eca-1508-19.mp3",
 			"Standard Arabic Audio": "msa-1508-19.mp3"
 		},
@@ -180,7 +180,7 @@
 			"English": "The pilot frowned.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "تجول الطيار.",
 			"Egyptian Arabic Audio": "eca-1508-20.mp3",
 			"Standard Arabic Audio": "msa-1508-20.mp3"
 		},
@@ -189,7 +189,7 @@
 			"English": "\"Is everything okay?\" the passenger asked.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "&quot;هل كل شيء على ما يرام؟&quot; طلب الركاب.",
 			"Egyptian Arabic Audio": "eca-1508-21.mp3",
 			"Standard Arabic Audio": "msa-1508-21.mp3"
 		},
@@ -198,7 +198,7 @@
 			"English": "\"I'm afraid not,\" said the pilot.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وقال الطيار &quot;لا اخشى ذلك&quot;.",
 			"Egyptian Arabic Audio": "eca-1508-22.mp3",
 			"Standard Arabic Audio": "msa-1508-22.mp3"
 		},
@@ -207,7 +207,7 @@
 			"English": "\"There's something wrong with the engine.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "&quot;هناك شيء خاطئ مع المحرك.",
 			"Egyptian Arabic Audio": "eca-1508-23.mp3",
 			"Standard Arabic Audio": "msa-1508-23.mp3"
 		},
@@ -216,7 +216,7 @@
 			"English": "We have to land.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "علينا أن تهبط.",
 			"Egyptian Arabic Audio": "eca-1508-24.mp3",
 			"Standard Arabic Audio": "msa-1508-24.mp3"
 		},
@@ -225,7 +225,7 @@
 			"English": "\" He landed the plane.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "&quot;هبط الطائرة.",
 			"Egyptian Arabic Audio": "eca-1508-25.mp3",
 			"Standard Arabic Audio": "msa-1508-25.mp3"
 		},
@@ -234,7 +234,7 @@
 			"English": "The nurse got out of the plane.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "خرجت الممرضة من الطائرة.",
 			"Egyptian Arabic Audio": "eca-1508-26.mp3",
 			"Standard Arabic Audio": "msa-1508-26.mp3"
 		},
@@ -243,7 +243,7 @@
 			"English": "She looked around the airport.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وقالت انها تتطلع حول المطار.",
 			"Egyptian Arabic Audio": "eca-1508-27.mp3",
 			"Standard Arabic Audio": "msa-1508-27.mp3"
 		},
@@ -252,7 +252,7 @@
 			"English": "She saw another plane.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "رأت طائرة أخرى.",
 			"Egyptian Arabic Audio": "eca-1508-28.mp3",
 			"Standard Arabic Audio": "msa-1508-28.mp3"
 		},
@@ -261,7 +261,7 @@
 			"English": "This plane had two engines.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كان هذا الطائرة اثنين من المحركات.",
 			"Egyptian Arabic Audio": "eca-1508-29.mp3",
 			"Standard Arabic Audio": "msa-1508-29.mp3"
 		},
@@ -270,7 +270,7 @@
 			"English": "She walked over to the plane.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "مشيت إلى الطائرة.",
 			"Egyptian Arabic Audio": "eca-1508-30.mp3",
 			"Standard Arabic Audio": "msa-1508-30.mp3"
 		},
@@ -279,7 +279,7 @@
 			"English": "\"Is this a new plane or an old plane?\" she asked the pilot.",
 			"Word Count": 13,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "&quot;هل هذه طائرة جديدة أم طائرة قديمة؟&quot; سألت الطيار.",
 			"Egyptian Arabic Audio": "eca-1508-31.mp3",
 			"Standard Arabic Audio": "msa-1508-31.mp3"
 		},
@@ -288,7 +288,7 @@
 			"English": "The pilot said it was a new plane.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وقال الطيار انها طائرة جديدة.",
 			"Egyptian Arabic Audio": "eca-1508-32.mp3",
 			"Standard Arabic Audio": "msa-1508-32.mp3"
 		},
@@ -297,7 +297,7 @@
 			"English": "\"Good,\" she said.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "&quot;جيدة&quot;، قالت.",
 			"Egyptian Arabic Audio": "eca-1508-33.mp3",
 			"Standard Arabic Audio": "msa-1508-33.mp3"
 		},
@@ -306,7 +306,7 @@
 			"English": "\"Please take me to the island.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "&quot;أرجو أخذني إلى الجزيرة.",
 			"Egyptian Arabic Audio": "eca-1508-34.mp3",
 			"Standard Arabic Audio": "msa-1508-34.mp3"
 		},
@@ -315,7 +315,7 @@
 			"English": "\".",
 			"Word Count": 1,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "&quot;.",
 			"Egyptian Arabic Audio": "eca-1508-35.mp3",
 			"Standard Arabic Audio": "msa-1508-35.mp3"
 		}

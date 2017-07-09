@@ -9,7 +9,7 @@
 			"English": "It is summertime.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "فمن الصيف.",
 			"Egyptian Arabic Audio": "eca-0334-1.mp3",
 			"Standard Arabic Audio": "msa-0334-1.mp3"
 		},
@@ -18,7 +18,7 @@
 			"English": "The park has many trees.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "الحديقة لديها العديد من الأشجار.",
 			"Egyptian Arabic Audio": "eca-0334-2.mp3",
 			"Standard Arabic Audio": "msa-0334-2.mp3"
 		},
@@ -27,7 +27,7 @@
 			"English": "It has a baseball field.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنه يحتوي على ملعب البيسبول.",
 			"Egyptian Arabic Audio": "eca-0334-3.mp3",
 			"Standard Arabic Audio": "msa-0334-3.mp3"
 		},
@@ -36,7 +36,7 @@
 			"English": "It has a water fountain.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنه يحتوي على نافورة المياه.",
 			"Egyptian Arabic Audio": "eca-0334-4.mp3",
 			"Standard Arabic Audio": "msa-0334-4.mp3"
 		},
@@ -45,7 +45,7 @@
 			"English": "The water is cool.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "الماء بارد.",
 			"Egyptian Arabic Audio": "eca-0334-5.mp3",
 			"Standard Arabic Audio": "msa-0334-5.mp3"
 		},
@@ -54,7 +54,7 @@
 			"English": "Kids play in the water fountain.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "الأطفال يلعبون في نافورة المياه.",
 			"Egyptian Arabic Audio": "eca-0334-6.mp3",
 			"Standard Arabic Audio": "msa-0334-6.mp3"
 		},
@@ -63,7 +63,7 @@
 			"English": "Their feet get wet.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أقدامهم الحصول على الرطب.",
 			"Egyptian Arabic Audio": "eca-0334-7.mp3",
 			"Standard Arabic Audio": "msa-0334-7.mp3"
 		},
@@ -72,7 +72,7 @@
 			"English": "Their clothes get wet.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ملابسهم الرطب.",
 			"Egyptian Arabic Audio": "eca-0334-8.mp3",
 			"Standard Arabic Audio": "msa-0334-8.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "They sit down in the fountain.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يجلسون في النافورة.",
 			"Egyptian Arabic Audio": "eca-0334-9.mp3",
 			"Standard Arabic Audio": "msa-0334-9.mp3"
 		},
@@ -90,7 +90,7 @@
 			"English": "They run around in the fountain.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وهي تدور حول النافورة.",
 			"Egyptian Arabic Audio": "eca-0334-10.mp3",
 			"Standard Arabic Audio": "msa-0334-10.mp3"
 		},
@@ -99,7 +99,7 @@
 			"English": "They splash in the fountain.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "تنطلق في النافورة.",
 			"Egyptian Arabic Audio": "eca-0334-11.mp3",
 			"Standard Arabic Audio": "msa-0334-11.mp3"
 		},
@@ -108,7 +108,7 @@
 			"English": "They have fun.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لديهم متعة.",
 			"Egyptian Arabic Audio": "eca-0334-12.mp3",
 			"Standard Arabic Audio": "msa-0334-12.mp3"
 		}

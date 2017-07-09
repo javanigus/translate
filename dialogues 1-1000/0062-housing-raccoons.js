@@ -11,7 +11,7 @@
 			"English": "There is garbage all over the ground!",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هناك القمامة في جميع أنحاء الأرض!",
 			"Egyptian Arabic Audio": "eca-0062-1.mp3",
 			"Standard Arabic Audio": "msa-0062-1.mp3"
 		},
@@ -21,7 +21,7 @@
 			"English": "Those raccoons knocked over the trash cans again.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "طرقت تلك الراكون على علب القمامة مرة أخرى.",
 			"Egyptian Arabic Audio": "eca-0062-2.mp3",
 			"Standard Arabic Audio": "msa-0062-2.mp3"
 		},
@@ -31,7 +31,7 @@
 			"English": "I feel like calling animal control!",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنا أشعر مثل استدعاء السيطرة على الحيوانات!",
 			"Egyptian Arabic Audio": "eca-0062-3.mp3",
 			"Standard Arabic Audio": "msa-0062-3.mp3"
 		},
@@ -41,7 +41,7 @@
 			"English": "Would they take care of the problem?",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هل سيهتمون بالمشكلة؟",
 			"Egyptian Arabic Audio": "eca-0062-4.mp3",
 			"Standard Arabic Audio": "msa-0062-4.mp3"
 		},
@@ -51,7 +51,7 @@
 			"English": "I think they'd come and catch them.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أعتقد أنهم سوف يأتي وقبض عليهم.",
 			"Egyptian Arabic Audio": "eca-0062-5.mp3",
 			"Standard Arabic Audio": "msa-0062-5.mp3"
 		},
@@ -61,7 +61,7 @@
 			"English": "What would happen to the raccoons?",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ماذا سيحدث للراكون؟",
 			"Egyptian Arabic Audio": "eca-0062-6.mp3",
 			"Standard Arabic Audio": "msa-0062-6.mp3"
 		},
@@ -71,7 +71,7 @@
 			"English": "They'd be released into the wild.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "سيتم إطلاق سراحهم في البرية.",
 			"Egyptian Arabic Audio": "eca-0062-7.mp3",
 			"Standard Arabic Audio": "msa-0062-7.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "What if they put them to sleep?",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ماذا لو وضعوها للنوم؟",
 			"Egyptian Arabic Audio": "eca-0062-8.mp3",
 			"Standard Arabic Audio": "msa-0062-8.mp3"
 		},
@@ -91,7 +91,7 @@
 			"English": "I didn't think about that.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لم أفكر في ذلك.",
 			"Egyptian Arabic Audio": "eca-0062-9.mp3",
 			"Standard Arabic Audio": "msa-0062-9.mp3"
 		},
@@ -101,7 +101,7 @@
 			"English": "Maybe it's better to buy chains for the trash cans.",
 			"Word Count": 10,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ربما من الأفضل شراء سلاسل لعلب القمامة.",
 			"Egyptian Arabic Audio": "eca-0062-10.mp3",
 			"Standard Arabic Audio": "msa-0062-10.mp3"
 		},
@@ -111,7 +111,7 @@
 			"English": "I think so, too.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أظن ذلك أيضا.",
 			"Egyptian Arabic Audio": "eca-0062-11.mp3",
 			"Standard Arabic Audio": "msa-0062-11.mp3"
 		},
@@ -121,7 +121,7 @@
 			"English": "That way, we won't kill any raccoons.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وبهذه الطريقة، ونحن لن تقتل أي الراكون.",
 			"Egyptian Arabic Audio": "eca-0062-12.mp3",
 			"Standard Arabic Audio": "msa-0062-12.mp3"
 		}

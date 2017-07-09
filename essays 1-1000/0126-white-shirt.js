@@ -9,7 +9,7 @@
 			"English": "He puts on his white shirt.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يضع على قميصه الأبيض.",
 			"Egyptian Arabic Audio": "eca-0126-1.mp3",
 			"Standard Arabic Audio": "msa-0126-1.mp3"
 		},
@@ -18,7 +18,7 @@
 			"English": "His mom tells him to be careful.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "والدته تخبره أن يكون حذرا.",
 			"Egyptian Arabic Audio": "eca-0126-2.mp3",
 			"Standard Arabic Audio": "msa-0126-2.mp3"
 		},
@@ -27,7 +27,7 @@
 			"English": "White shirts get dirty easily.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "القمصان البيضاء الحصول على القذرة بسهولة.",
 			"Egyptian Arabic Audio": "eca-0126-3.mp3",
 			"Standard Arabic Audio": "msa-0126-3.mp3"
 		},
@@ -36,7 +36,7 @@
 			"English": "He says okay.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يقول حسنا.",
 			"Egyptian Arabic Audio": "eca-0126-4.mp3",
 			"Standard Arabic Audio": "msa-0126-4.mp3"
 		},
@@ -45,7 +45,7 @@
 			"English": "He eats a pizza.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انه يأكل البيتزا.",
 			"Egyptian Arabic Audio": "eca-0126-5.mp3",
 			"Standard Arabic Audio": "msa-0126-5.mp3"
 		},
@@ -54,7 +54,7 @@
 			"English": "His brother accidentally pushes him.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "شقيقه يدفع بطريق الخطأ له.",
 			"Egyptian Arabic Audio": "eca-0126-6.mp3",
 			"Standard Arabic Audio": "msa-0126-6.mp3"
 		},
@@ -63,7 +63,7 @@
 			"English": "He drops his pizza on his shirt.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انه يسقط البيتزا على قميصه.",
 			"Egyptian Arabic Audio": "eca-0126-7.mp3",
 			"Standard Arabic Audio": "msa-0126-7.mp3"
 		},
@@ -72,7 +72,7 @@
 			"English": "He screams.",
 			"Word Count": 2,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انه صرخات.",
 			"Egyptian Arabic Audio": "eca-0126-8.mp3",
 			"Standard Arabic Audio": "msa-0126-8.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "He takes off the pizza.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انه يأخذ البيتزا.",
 			"Egyptian Arabic Audio": "eca-0126-9.mp3",
 			"Standard Arabic Audio": "msa-0126-9.mp3"
 		},
@@ -90,7 +90,7 @@
 			"English": "There is an orange triangle stain.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هناك وصمة عار مثلث البرتقال.",
 			"Egyptian Arabic Audio": "eca-0126-10.mp3",
 			"Standard Arabic Audio": "msa-0126-10.mp3"
 		}

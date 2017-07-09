@@ -11,7 +11,7 @@
 			"English": "Did you hear about the ball player?",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هل سمعت عن لاعب الكرة؟",
 			"Egyptian Arabic Audio": "eca-0379-1.mp3",
 			"Standard Arabic Audio": "msa-0379-1.mp3"
 		},
@@ -21,7 +21,7 @@
 			"English": "The home run hitter on drugs?",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "مضيق المنزل على المخدرات؟",
 			"Egyptian Arabic Audio": "eca-0379-2.mp3",
 			"Standard Arabic Audio": "msa-0379-2.mp3"
 		},
@@ -31,7 +31,7 @@
 			"English": "He said a doctor helped him with a personal problem.",
 			"Word Count": 10,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وقال إن طبيبا ساعده في مشكلة شخصية.",
 			"Egyptian Arabic Audio": "eca-0379-3.mp3",
 			"Standard Arabic Audio": "msa-0379-3.mp3"
 		},
@@ -41,7 +41,7 @@
 			"English": "He said he wasn�t using drugs",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وقال إنه لا يستخدم المخدرات",
 			"Egyptian Arabic Audio": "eca-0379-4.mp3",
 			"Standard Arabic Audio": "msa-0379-4.mp3"
 		}

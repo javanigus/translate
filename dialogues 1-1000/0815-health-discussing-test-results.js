@@ -11,7 +11,7 @@
 			"English": "What brings you into my examination room today?",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ما الذي يجلبك إلى غرفة الفحص اليوم؟",
 			"Egyptian Arabic Audio": "eca-0815-1.mp3",
 			"Standard Arabic Audio": "msa-0815-1.mp3"
 		},
@@ -21,7 +21,7 @@
 			"English": "I'm here because your receptionist told me I needed to come in to discuss my  test results.",
 			"Word Count": 17,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنا هنا لأن موظف الاستقبال أخبرني أنني بحاجة إلى المجيء لمناقشة نتائج الاختبار.",
 			"Egyptian Arabic Audio": "eca-0815-2.mp3",
 			"Standard Arabic Audio": "msa-0815-2.mp3"
 		},
@@ -31,7 +31,7 @@
 			"English": "Well, let me take a look at your file.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "حسنا، اسمحوا لي أن نلقي نظرة على الملف الخاص بك.",
 			"Egyptian Arabic Audio": "eca-0815-3.mp3",
 			"Standard Arabic Audio": "msa-0815-3.mp3"
 		},
@@ -41,7 +41,7 @@
 			"English": "The receptionist made me nervous when she wouldn't tell me the results over the phone.",
 			"Word Count": 15,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "جعلني موظف الاستقبال عصبي عندما لا تخبرني النتائج عبر الهاتف.",
 			"Egyptian Arabic Audio": "eca-0815-4.mp3",
 			"Standard Arabic Audio": "msa-0815-4.mp3"
 		},
@@ -51,7 +51,7 @@
 			"English": "Legally she can't tell you the results.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "قانونيا لا يمكن أن أقول لكم النتائج.",
 			"Egyptian Arabic Audio": "eca-0815-5.mp3",
 			"Standard Arabic Audio": "msa-0815-5.mp3"
 		},
@@ -61,7 +61,7 @@
 			"English": "So is it bad, doctor?",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هل هو سيء، الطبيب؟",
 			"Egyptian Arabic Audio": "eca-0815-6.mp3",
 			"Standard Arabic Audio": "msa-0815-6.mp3"
 		},
@@ -71,7 +71,7 @@
 			"English": "Your cholesterol is a little high.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "الكوليسترول الخاص بك مرتفع قليلا.",
 			"Egyptian Arabic Audio": "eca-0815-7.mp3",
 			"Standard Arabic Audio": "msa-0815-7.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "Does that mean I'm going to die.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هل هذا يعني أنني سوف أموت.",
 			"Egyptian Arabic Audio": "eca-0815-8.mp3",
 			"Standard Arabic Audio": "msa-0815-8.mp3"
 		},
@@ -91,7 +91,7 @@
 			"English": "Let's not exaggerate.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "دعونا لا نبالغ.",
 			"Egyptian Arabic Audio": "eca-0815-9.mp3",
 			"Standard Arabic Audio": "msa-0815-9.mp3"
 		},
@@ -101,7 +101,7 @@
 			"English": "If you change your diet and exercise more, you will be fine.",
 			"Word Count": 12,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "إذا قمت بتغيير النظام الغذائي الخاص بك وممارسة أكثر من ذلك، سوف تكون على ما يرام.",
 			"Egyptian Arabic Audio": "eca-0815-11.mp3",
 			"Standard Arabic Audio": "msa-0815-11.mp3"
 		},
@@ -111,7 +111,7 @@
 			"English": "I will do whatever it takes to be healthy.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "سأفعل كل ما يلزم لتكون صحية.",
 			"Egyptian Arabic Audio": "eca-0815-12.mp3",
 			"Standard Arabic Audio": "msa-0815-12.mp3"
 		}

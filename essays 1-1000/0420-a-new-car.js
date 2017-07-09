@@ -9,7 +9,7 @@
 			"English": "Mark bought a new car last week.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "اشترى مارك سيارة جديدة الأسبوع الماضي.",
 			"Egyptian Arabic Audio": "eca-0420-1.mp3",
 			"Standard Arabic Audio": "msa-0420-1.mp3"
 		},
@@ -18,7 +18,7 @@
 			"English": "He is happy with his new car.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انه سعيد مع سيارته الجديدة.",
 			"Egyptian Arabic Audio": "eca-0420-2.mp3",
 			"Standard Arabic Audio": "msa-0420-2.mp3"
 		},
@@ -27,7 +27,7 @@
 			"English": "He got a good deal on his new car.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "حصل على صفقة جيدة على سيارته الجديدة.",
 			"Egyptian Arabic Audio": "eca-0420-3.mp3",
 			"Standard Arabic Audio": "msa-0420-3.mp3"
 		},
@@ -36,7 +36,7 @@
 			"English": "It was on sale.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كان للبيع.",
 			"Egyptian Arabic Audio": "eca-0420-4.mp3",
 			"Standard Arabic Audio": "msa-0420-4.mp3"
 		},
@@ -45,7 +45,7 @@
 			"English": "His new car is green.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "سيارته الجديدة خضراء.",
 			"Egyptian Arabic Audio": "eca-0420-5.mp3",
 			"Standard Arabic Audio": "msa-0420-5.mp3"
 		},
@@ -54,7 +54,7 @@
 			"English": "The four tires are black.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "الإطارات الأربعة سوداء.",
 			"Egyptian Arabic Audio": "eca-0420-6.mp3",
 			"Standard Arabic Audio": "msa-0420-6.mp3"
 		},
@@ -63,7 +63,7 @@
 			"English": "His new car has four doors.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "سيارته الجديدة لديها أربعة أبواب.",
 			"Egyptian Arabic Audio": "eca-0420-7.mp3",
 			"Standard Arabic Audio": "msa-0420-7.mp3"
 		},
@@ -72,7 +72,7 @@
 			"English": "It has one trunk.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لديها جذع واحد.",
 			"Egyptian Arabic Audio": "eca-0420-8.mp3",
 			"Standard Arabic Audio": "msa-0420-8.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "The spare tire is in the trunk.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "الإطار الاحتياطي هو في الجذع.",
 			"Egyptian Arabic Audio": "eca-0420-9.mp3",
 			"Standard Arabic Audio": "msa-0420-9.mp3"
 		},
@@ -90,7 +90,7 @@
 			"English": "All new cars have a spare tire.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "جميع السيارات الجديدة لديها الإطارات الاحتياطية.",
 			"Egyptian Arabic Audio": "eca-0420-10.mp3",
 			"Standard Arabic Audio": "msa-0420-10.mp3"
 		},
@@ -99,7 +99,7 @@
 			"English": "His new car has one hood.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "سيارته الجديدة لديها غطاء محرك السيارة واحد.",
 			"Egyptian Arabic Audio": "eca-0420-11.mp3",
 			"Standard Arabic Audio": "msa-0420-11.mp3"
 		},
@@ -108,7 +108,7 @@
 			"English": "The engine is under the hood.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "المحرك تحت غطاء محرك السيارة.",
 			"Egyptian Arabic Audio": "eca-0420-12.mp3",
 			"Standard Arabic Audio": "msa-0420-12.mp3"
 		},
@@ -117,7 +117,7 @@
 			"English": "All new cars have an engine.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "جميع السيارات الجديدة لديها محرك.",
 			"Egyptian Arabic Audio": "eca-0420-13.mp3",
 			"Standard Arabic Audio": "msa-0420-13.mp3"
 		},
@@ -126,7 +126,7 @@
 			"English": "His new car has two big seats.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "سيارته الجديدة لديها مقعدين كبيرين.",
 			"Egyptian Arabic Audio": "eca-0420-14.mp3",
 			"Standard Arabic Audio": "msa-0420-14.mp3"
 		},
@@ -135,7 +135,7 @@
 			"English": "One seat is in the front.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "مقعد واحد في الجبهة.",
 			"Egyptian Arabic Audio": "eca-0420-15.mp3",
 			"Standard Arabic Audio": "msa-0420-15.mp3"
 		},
@@ -144,7 +144,7 @@
 			"English": "One seat is in the back.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "مقعد واحد في الجزء الخلفي.",
 			"Egyptian Arabic Audio": "eca-0420-16.mp3",
 			"Standard Arabic Audio": "msa-0420-16.mp3"
 		},
@@ -153,7 +153,7 @@
 			"English": "Mark sits in the front seat when he drives his new car.",
 			"Word Count": 12,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "مارك يجلس في المقعد الأمامي عندما يقود سيارته الجديدة.",
 			"Egyptian Arabic Audio": "eca-0420-17.mp3",
 			"Standard Arabic Audio": "msa-0420-17.mp3"
 		},
@@ -162,7 +162,7 @@
 			"English": "He always buckles his seat belt.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انه دائما الابازيم حزام الأمان له.",
 			"Egyptian Arabic Audio": "eca-0420-18.mp3",
 			"Standard Arabic Audio": "msa-0420-18.mp3"
 		}

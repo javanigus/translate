@@ -9,7 +9,7 @@
 			"English": "Rain water dripped down the window.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وتقطرت مياه الأمطار أسفل النافذة.",
 			"Egyptian Arabic Audio": "eca-0696-1.mp3",
 			"Standard Arabic Audio": "msa-0696-1.mp3"
 		},
@@ -18,7 +18,7 @@
 			"English": "Lightning flashed from the sky.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "تومض البرق من السماء.",
 			"Egyptian Arabic Audio": "eca-0696-2.mp3",
 			"Standard Arabic Audio": "msa-0696-2.mp3"
 		},
@@ -27,7 +27,7 @@
 			"English": "There was no one outside.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لم يكن هناك أحد خارج.",
 			"Egyptian Arabic Audio": "eca-0696-3.mp3",
 			"Standard Arabic Audio": "msa-0696-3.mp3"
 		},
@@ -36,7 +36,7 @@
 			"English": "There was a storm coming.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كانت هناك عاصفة قادمة.",
 			"Egyptian Arabic Audio": "eca-0696-4.mp3",
 			"Standard Arabic Audio": "msa-0696-4.mp3"
 		},
@@ -45,7 +45,7 @@
 			"English": "He had a plan for tonight.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كان لديه خطة لهذه الليلة.",
 			"Egyptian Arabic Audio": "eca-0696-5.mp3",
 			"Standard Arabic Audio": "msa-0696-5.mp3"
 		},
@@ -54,7 +54,7 @@
 			"English": "The plan was canceled because of the coming storm.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "تم إلغاء الخطة بسبب العاصفة القادمة.",
 			"Egyptian Arabic Audio": "eca-0696-6.mp3",
 			"Standard Arabic Audio": "msa-0696-6.mp3"
 		},
@@ -63,7 +63,7 @@
 			"English": "Outside looked gloomy.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "بدا الخارج قاتمة.",
 			"Egyptian Arabic Audio": "eca-0696-7.mp3",
 			"Standard Arabic Audio": "msa-0696-7.mp3"
 		},
@@ -72,7 +72,7 @@
 			"English": "The sidewalks were wet and looked gray.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كانت الأرصفة مبللة ورمادية.",
 			"Egyptian Arabic Audio": "eca-0696-8.mp3",
 			"Standard Arabic Audio": "msa-0696-8.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "The trees swayed back and fourth.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وتراجعت الأشجار مرة أخرى والرابعة.",
 			"Egyptian Arabic Audio": "eca-0696-9.mp3",
 			"Standard Arabic Audio": "msa-0696-9.mp3"
 		},
@@ -90,7 +90,7 @@
 			"English": "The wind was blowing hard.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كانت الرياح تهب بشدة.",
 			"Egyptian Arabic Audio": "eca-0696-10.mp3",
 			"Standard Arabic Audio": "msa-0696-10.mp3"
 		},
@@ -99,7 +99,7 @@
 			"English": "There were tree branches and leaves on the ground.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كانت هناك فروع الأشجار والأوراق على الأرض.",
 			"Egyptian Arabic Audio": "eca-0696-11.mp3",
 			"Standard Arabic Audio": "msa-0696-11.mp3"
 		},
@@ -108,7 +108,7 @@
 			"English": "He was safe inside his home.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كان آمن داخل منزله.",
 			"Egyptian Arabic Audio": "eca-0696-12.mp3",
 			"Standard Arabic Audio": "msa-0696-12.mp3"
 		},
@@ -117,7 +117,7 @@
 			"English": "He turned on his television to watch the five o'clock news.",
 			"Word Count": 11,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وأدار تلفزيونه لمشاهدة أخبار الساعة الخامسة.",
 			"Egyptian Arabic Audio": "eca-0696-13.mp3",
 			"Standard Arabic Audio": "msa-0696-13.mp3"
 		},
@@ -126,7 +126,7 @@
 			"English": "The weather man came on.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "جاء رجل الطقس.",
 			"Egyptian Arabic Audio": "eca-0696-14.mp3",
 			"Standard Arabic Audio": "msa-0696-14.mp3"
 		},
@@ -135,7 +135,7 @@
 			"English": "He warned everyone to stay inside.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وحذر الجميع من البقاء في الداخل.",
 			"Egyptian Arabic Audio": "eca-0696-15.mp3",
 			"Standard Arabic Audio": "msa-0696-15.mp3"
 		},
@@ -144,7 +144,7 @@
 			"English": "The storm was to last all through the night.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كانت العاصفة تستمر طوال الليل.",
 			"Egyptian Arabic Audio": "eca-0696-16.mp3",
 			"Standard Arabic Audio": "msa-0696-16.mp3"
 		},
@@ -153,7 +153,7 @@
 			"English": "It was cold inside his home.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كان بارد داخل منزله.",
 			"Egyptian Arabic Audio": "eca-0696-17.mp3",
 			"Standard Arabic Audio": "msa-0696-17.mp3"
 		},
@@ -162,7 +162,7 @@
 			"English": "He turned on his heater.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وقال انه تحول على سخان له.",
 			"Egyptian Arabic Audio": "eca-0696-18.mp3",
 			"Standard Arabic Audio": "msa-0696-18.mp3"
 		},
@@ -171,7 +171,7 @@
 			"English": "Thunder roared from outside.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "الرعد روند من الخارج.",
 			"Egyptian Arabic Audio": "eca-0696-19.mp3",
 			"Standard Arabic Audio": "msa-0696-19.mp3"
 		},
@@ -180,7 +180,7 @@
 			"English": "Suddenly, the light went out.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "فجأة، خرج الضوء.",
 			"Egyptian Arabic Audio": "eca-0696-20.mp3",
 			"Standard Arabic Audio": "msa-0696-20.mp3"
 		},
@@ -189,7 +189,7 @@
 			"English": "There was no more electricity.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لم يكن هناك المزيد من الكهرباء.",
 			"Egyptian Arabic Audio": "eca-0696-21.mp3",
 			"Standard Arabic Audio": "msa-0696-21.mp3"
 		},
@@ -198,7 +198,7 @@
 			"English": "He lit some candles and grabbed a flashlight.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أضاء بعض الشموع وأمسك مصباح يدوي.",
 			"Egyptian Arabic Audio": "eca-0696-22.mp3",
 			"Standard Arabic Audio": "msa-0696-22.mp3"
 		},
@@ -207,7 +207,7 @@
 			"English": "The storm was going on.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كانت العاصفة مستمرة.",
 			"Egyptian Arabic Audio": "eca-0696-23.mp3",
 			"Standard Arabic Audio": "msa-0696-23.mp3"
 		},
@@ -216,7 +216,7 @@
 			"English": "He fell asleep on the couch.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "سقط نائما على الأريكة.",
 			"Egyptian Arabic Audio": "eca-0696-24.mp3",
 			"Standard Arabic Audio": "msa-0696-24.mp3"
 		},
@@ -225,7 +225,7 @@
 			"English": "He woke up in the morning.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "استيقظ في الصباح.",
 			"Egyptian Arabic Audio": "eca-0696-25.mp3",
 			"Standard Arabic Audio": "msa-0696-25.mp3"
 		},
@@ -234,7 +234,7 @@
 			"English": "The storm had ended.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وقد انتهت العاصفة.",
 			"Egyptian Arabic Audio": "eca-0696-26.mp3",
 			"Standard Arabic Audio": "msa-0696-26.mp3"
 		}

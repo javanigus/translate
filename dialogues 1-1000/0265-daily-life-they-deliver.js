@@ -11,7 +11,7 @@
 			"English": "The price of stamps goes up and up.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "سعر الطوابع ترتفع وتصل.",
 			"Egyptian Arabic Audio": "eca-0265-1.mp3",
 			"Standard Arabic Audio": "msa-0265-1.mp3"
 		},
@@ -21,7 +21,7 @@
 			"English": "I think stamps used to cost a penny.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أعتقد الطوابع المستخدمة لتكلفة بنس واحد.",
 			"Egyptian Arabic Audio": "eca-0265-2.mp3",
 			"Standard Arabic Audio": "msa-0265-2.mp3"
 		},
@@ -31,7 +31,7 @@
 			"English": "That was a long time ago.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هذا كان قبل زمن طويل.",
 			"Egyptian Arabic Audio": "eca-0265-3.mp3",
 			"Standard Arabic Audio": "msa-0265-3.mp3"
 		},
@@ -41,7 +41,7 @@
 			"English": "It was before I was born.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كان قبل أن أكون ولدت.",
 			"Egyptian Arabic Audio": "eca-0265-4.mp3",
 			"Standard Arabic Audio": "msa-0265-4.mp3"
 		},
@@ -51,7 +51,7 @@
 			"English": "Now a stamp is 42 cents.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "الآن الطوابع هو 42 سنتا.",
 			"Egyptian Arabic Audio": "eca-0265-5.mp3",
 			"Standard Arabic Audio": "msa-0265-5.mp3"
 		},
@@ -61,7 +61,7 @@
 			"English": "But in May it will be 44 cents.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ولكن في مايو سيكون 44 سنتا.",
 			"Egyptian Arabic Audio": "eca-0265-6.mp3",
 			"Standard Arabic Audio": "msa-0265-6.mp3"
 		},
@@ -71,7 +71,7 @@
 			"English": "Have you ever lost a letter in the mail?",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هل سبق لك أن فقدت رسالة في البريد؟",
 			"Egyptian Arabic Audio": "eca-0265-7.mp3",
 			"Standard Arabic Audio": "msa-0265-7.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "No, I haven't.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لا، لم أفعل ذلك.",
 			"Egyptian Arabic Audio": "eca-0265-8.mp3",
 			"Standard Arabic Audio": "msa-0265-8.mp3"
 		},
@@ -91,7 +91,7 @@
 			"English": "Neither have I.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ليس لدي أولا.",
 			"Egyptian Arabic Audio": "eca-0265-9.mp3",
 			"Standard Arabic Audio": "msa-0265-9.mp3"
 		},
@@ -101,7 +101,7 @@
 			"English": "So, they do a good job for the money.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لذلك، فإنها تقوم بعمل جيد للحصول على المال.",
 			"Egyptian Arabic Audio": "eca-0265-10.mp3",
 			"Standard Arabic Audio": "msa-0265-10.mp3"
 		},
@@ -111,7 +111,7 @@
 			"English": "Yes, they do.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "نعم، يفعلون.",
 			"Egyptian Arabic Audio": "eca-0265-11.mp3",
 			"Standard Arabic Audio": "msa-0265-11.mp3"
 		},
@@ -121,7 +121,7 @@
 			"English": "Maybe we shouldn't complain.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ربما يجب أن لا يشكو.",
 			"Egyptian Arabic Audio": "eca-0265-12.mp3",
 			"Standard Arabic Audio": "msa-0265-12.mp3"
 		}

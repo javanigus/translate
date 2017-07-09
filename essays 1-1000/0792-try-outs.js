@@ -9,7 +9,7 @@
 			"English": "Paul was the worst player at try-outs.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وكان بول أسوأ لاعب في محاولة للخروج.",
 			"Egyptian Arabic Audio": "eca-0792-1.mp3",
 			"Standard Arabic Audio": "msa-0792-1.mp3"
 		},
@@ -18,7 +18,7 @@
 			"English": "He got tackled very hard in football.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "حصل على معالجة صعبة جدا في كرة القدم.",
 			"Egyptian Arabic Audio": "eca-0792-2.mp3",
 			"Standard Arabic Audio": "msa-0792-2.mp3"
 		},
@@ -27,7 +27,7 @@
 			"English": "Then, he got hit in the head by the basketball.",
 			"Word Count": 10,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ثم، حصل على ضرب في الرأس من قبل كرة السلة.",
 			"Egyptian Arabic Audio": "eca-0792-3.mp3",
 			"Standard Arabic Audio": "msa-0792-3.mp3"
 		},
@@ -36,7 +36,7 @@
 			"English": "He had no chance of making the team.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لم يكن لديه فرصة لجعل الفريق.",
 			"Egyptian Arabic Audio": "eca-0792-4.mp3",
 			"Standard Arabic Audio": "msa-0792-4.mp3"
 		}

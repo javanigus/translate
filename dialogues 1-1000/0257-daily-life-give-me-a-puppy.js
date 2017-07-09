@@ -11,7 +11,7 @@
 			"English": "Mom, I want a puppy.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أمي، أريد جرو.",
 			"Egyptian Arabic Audio": "eca-0257-1.mp3",
 			"Standard Arabic Audio": "msa-0257-1.mp3"
 		},
@@ -21,7 +21,7 @@
 			"English": "Let me think about it.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "دعني افكر به.",
 			"Egyptian Arabic Audio": "eca-0257-2.mp3",
 			"Standard Arabic Audio": "msa-0257-2.mp3"
 		},
@@ -31,7 +31,7 @@
 			"English": "Why do you have to think about it?",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لماذا لديك للتفكير في ذلك؟",
 			"Egyptian Arabic Audio": "eca-0257-3.mp3",
 			"Standard Arabic Audio": "msa-0257-3.mp3"
 		},
@@ -41,7 +41,7 @@
 			"English": "Because a puppy costs money.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لأن جرو يكلف المال.",
 			"Egyptian Arabic Audio": "eca-0257-4.mp3",
 			"Standard Arabic Audio": "msa-0257-4.mp3"
 		},
@@ -51,7 +51,7 @@
 			"English": "No, it doesn't. Puppies are free.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لا، لا يفعل ذلك. الجراء مجانية.",
 			"Egyptian Arabic Audio": "eca-0257-5.mp3",
 			"Standard Arabic Audio": "msa-0257-5.mp3"
 		},
@@ -61,7 +61,7 @@
 			"English": "Yes, but a puppy needs shots.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "نعم، ولكن جرو يحتاج طلقات.",
 			"Egyptian Arabic Audio": "eca-0257-6.mp3",
 			"Standard Arabic Audio": "msa-0257-6.mp3"
 		},
@@ -71,7 +71,7 @@
 			"English": "Shots for what?",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لقطات لماذا؟",
 			"Egyptian Arabic Audio": "eca-0257-7.mp3",
 			"Standard Arabic Audio": "msa-0257-7.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "So it won't get sick. Just like you get shots.",
 			"Word Count": 10,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لذلك لن تحصل على المرضى. تماما مثل تحصل على الطلقات.",
 			"Egyptian Arabic Audio": "eca-0257-8.mp3",
 			"Standard Arabic Audio": "msa-0257-8.mp3"
 		},
@@ -91,7 +91,7 @@
 			"English": "I hate shots.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أكره الطلقات.",
 			"Egyptian Arabic Audio": "eca-0257-9.mp3",
 			"Standard Arabic Audio": "msa-0257-9.mp3"
 		},
@@ -101,7 +101,7 @@
 			"English": "And a puppy eats food. Food costs money.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "و جرو يأكل الطعام. تكاليف الغذاء المال.",
 			"Egyptian Arabic Audio": "eca-0257-10.mp3",
 			"Standard Arabic Audio": "msa-0257-10.mp3"
 		},
@@ -111,7 +111,7 @@
 			"English": "No problem. I'll give him food off my plate.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ليس هناك أى مشكلة. سوف أعطيه الطعام من بلدي لوحة.",
 			"Egyptian Arabic Audio": "eca-0257-11.mp3",
 			"Standard Arabic Audio": "msa-0257-11.mp3"
 		},
@@ -121,7 +121,7 @@
 			"English": "Oh, no you don't. Puppies don't eat vegetables.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أوه، لا أنت لا. الجراء لا تأكل الخضراوات.",
 			"Egyptian Arabic Audio": "eca-0257-12.mp3",
 			"Standard Arabic Audio": "msa-0257-12.mp3"
 		}

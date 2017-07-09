@@ -9,7 +9,7 @@
 			"English": "It was the Chinese New Year.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كانت السنة الصينية الجديدة.",
 			"Egyptian Arabic Audio": "eca-1340-1.mp3",
 			"Standard Arabic Audio": "msa-1340-1.mp3"
 		},
@@ -18,7 +18,7 @@
 			"English": "The metal pan was light, shiny, and round.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كان المقلاة المعدنية خفيفة، لامعة، وجولة.",
 			"Egyptian Arabic Audio": "eca-1340-2.mp3",
 			"Standard Arabic Audio": "msa-1340-2.mp3"
 		},
@@ -27,7 +27,7 @@
 			"English": "It was about 12 inches across.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كان حوالي 12 بوصة عبر.",
 			"Egyptian Arabic Audio": "eca-1340-3.mp3",
 			"Standard Arabic Audio": "msa-1340-3.mp3"
 		},
@@ -36,7 +36,7 @@
 			"English": "It was perfect for burning paper.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كان مثاليا لحرق الورق.",
 			"Egyptian Arabic Audio": "eca-1340-4.mp3",
 			"Standard Arabic Audio": "msa-1340-4.mp3"
 		},
@@ -45,7 +45,7 @@
 			"English": "She put the pan on the hardwood floor.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وقالت انها وضعت عموم على الأرضيات الصلبة.",
 			"Egyptian Arabic Audio": "eca-1340-5.mp3",
 			"Standard Arabic Audio": "msa-1340-5.mp3"
 		},
@@ -54,7 +54,7 @@
 			"English": "She opened a package of paper money.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "فتحت مجموعة من النقود الورقية.",
 			"Egyptian Arabic Audio": "eca-1340-6.mp3",
 			"Standard Arabic Audio": "msa-1340-6.mp3"
 		},
@@ -63,7 +63,7 @@
 			"English": "It wasn't real money.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لم يكن المال الحقيقي.",
 			"Egyptian Arabic Audio": "eca-1340-7.mp3",
 			"Standard Arabic Audio": "msa-1340-7.mp3"
 		},
@@ -72,7 +72,7 @@
 			"English": "\"We burn the money for our ancestors,\" she said.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وقالت &quot;اننا نحرق المال لاسبابنا&quot;.",
 			"Egyptian Arabic Audio": "eca-1340-8.mp3",
 			"Standard Arabic Audio": "msa-1340-8.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "\"Then maybe money will come to us this year.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "&quot;ثم قد يأتي المال لنا هذا العام.",
 			"Egyptian Arabic Audio": "eca-1340-9.mp3",
 			"Standard Arabic Audio": "msa-1340-9.mp3"
 		},
@@ -90,7 +90,7 @@
 			"English": "\" She took out some paper bills.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "&quot;وأخذت بعض مشاريع القوانين الورقية.",
 			"Egyptian Arabic Audio": "eca-1340-10.mp3",
 			"Standard Arabic Audio": "msa-1340-10.mp3"
 		},
@@ -99,7 +99,7 @@
 			"English": "She lit them.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أضاءت لهم.",
 			"Egyptian Arabic Audio": "eca-1340-11.mp3",
 			"Standard Arabic Audio": "msa-1340-11.mp3"
 		},
@@ -108,7 +108,7 @@
 			"English": "She dropped them into the pan.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أسقطتهم في المقلاة.",
 			"Egyptian Arabic Audio": "eca-1340-12.mp3",
 			"Standard Arabic Audio": "msa-1340-12.mp3"
 		},
@@ -117,7 +117,7 @@
 			"English": "She lit more bills and dropped them into the pan.",
 			"Word Count": 10,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لقد أضاءت فواتير أكثر وأسقطتها في المقلاة.",
 			"Egyptian Arabic Audio": "eca-1340-13.mp3",
 			"Standard Arabic Audio": "msa-1340-13.mp3"
 		},
@@ -126,7 +126,7 @@
 			"English": "The living room got smoky.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "غرفة المعيشة حصلت دخان.",
 			"Egyptian Arabic Audio": "eca-1340-14.mp3",
 			"Standard Arabic Audio": "msa-1340-14.mp3"
 		},
@@ -135,7 +135,7 @@
 			"English": "Finally she stopped lighting the money.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وأخيرا توقفت عن إضاءة المال.",
 			"Egyptian Arabic Audio": "eca-1340-15.mp3",
 			"Standard Arabic Audio": "msa-1340-15.mp3"
 		},
@@ -144,7 +144,7 @@
 			"English": "It finished burning in the pan.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنهى حرق في المقلاة.",
 			"Egyptian Arabic Audio": "eca-1340-16.mp3",
 			"Standard Arabic Audio": "msa-1340-16.mp3"
 		},
@@ -153,7 +153,7 @@
 			"English": "The pan of ashes cooled.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "عموم الرماد تبريد.",
 			"Egyptian Arabic Audio": "eca-1340-17.mp3",
 			"Standard Arabic Audio": "msa-1340-17.mp3"
 		},
@@ -162,7 +162,7 @@
 			"English": "She picked it up.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انها التقطت عنه.",
 			"Egyptian Arabic Audio": "eca-1340-18.mp3",
 			"Standard Arabic Audio": "msa-1340-18.mp3"
 		},
@@ -171,7 +171,7 @@
 			"English": "\"Oh,\" she said.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "&quot;أوه&quot;، قالت.",
 			"Egyptian Arabic Audio": "eca-1340-19.mp3",
 			"Standard Arabic Audio": "msa-1340-19.mp3"
 		},
@@ -180,7 +180,7 @@
 			"English": "He looked at the floor.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "نظر إلى الأرض.",
 			"Egyptian Arabic Audio": "eca-1340-20.mp3",
 			"Standard Arabic Audio": "msa-1340-20.mp3"
 		},
@@ -189,7 +189,7 @@
 			"English": "A dark ring was burned into the wood.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وأحرقت حلقة مظلمة في الخشب.",
 			"Egyptian Arabic Audio": "eca-1340-21.mp3",
 			"Standard Arabic Audio": "msa-1340-21.mp3"
 		},
@@ -198,7 +198,7 @@
 			"English": "\"Well, I hope your ancestors send us money this year,\" he said.",
 			"Word Count": 12,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "واضاف &quot;حسنا، آمل ان يرسل لنا اجدادنا هذا العام&quot;.",
 			"Egyptian Arabic Audio": "eca-1340-22.mp3",
 			"Standard Arabic Audio": "msa-1340-22.mp3"
 		},
@@ -207,7 +207,7 @@
 			"English": "\"We'll need it to pay for the floor.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "&quot;سنحتاج إلى دفع ثمن الكلمة.",
 			"Egyptian Arabic Audio": "eca-1340-23.mp3",
 			"Standard Arabic Audio": "msa-1340-23.mp3"
 		},
@@ -216,7 +216,7 @@
 			"English": "\".",
 			"Word Count": 1,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "&quot;.",
 			"Egyptian Arabic Audio": "eca-1340-24.mp3",
 			"Standard Arabic Audio": "msa-1340-24.mp3"
 		}

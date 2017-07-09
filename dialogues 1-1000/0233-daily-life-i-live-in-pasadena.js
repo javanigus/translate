@@ -11,7 +11,7 @@
 			"English": "Where do you live?",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أين تعيش؟",
 			"Egyptian Arabic Audio": "eca-0233-1.mp3",
 			"Standard Arabic Audio": "msa-0233-1.mp3"
 		},
@@ -21,7 +21,7 @@
 			"English": "I live in Pasadena.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أعيش في باسادينا.",
 			"Egyptian Arabic Audio": "eca-0233-2.mp3",
 			"Standard Arabic Audio": "msa-0233-2.mp3"
 		},
@@ -31,7 +31,7 @@
 			"English": "Where is Pasadena?",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أين هو باسادينا؟",
 			"Egyptian Arabic Audio": "eca-0233-3.mp3",
 			"Standard Arabic Audio": "msa-0233-3.mp3"
 		},
@@ -41,7 +41,7 @@
 			"English": "It's in California.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انها في ولاية كاليفورنيا.",
 			"Egyptian Arabic Audio": "eca-0233-4.mp3",
 			"Standard Arabic Audio": "msa-0233-4.mp3"
 		},
@@ -51,7 +51,7 @@
 			"English": "Is it in northern California?",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هل هو في شمال كاليفورنيا؟",
 			"Egyptian Arabic Audio": "eca-0233-5.mp3",
 			"Standard Arabic Audio": "msa-0233-5.mp3"
 		},
@@ -61,7 +61,7 @@
 			"English": "No. It's in southern California.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انها في جنوب كاليفورنيا.",
 			"Egyptian Arabic Audio": "eca-0233-6.mp3",
 			"Standard Arabic Audio": "msa-0233-6.mp3"
 		},
@@ -71,7 +71,7 @@
 			"English": "Is Pasadena a big city?",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هل باسادينا مدينة كبيرة؟",
 			"Egyptian Arabic Audio": "eca-0233-7.mp3",
 			"Standard Arabic Audio": "msa-0233-7.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "It's pretty big.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انها كبيرة جدا.",
 			"Egyptian Arabic Audio": "eca-0233-8.mp3",
 			"Standard Arabic Audio": "msa-0233-8.mp3"
 		},
@@ -91,7 +91,7 @@
 			"English": "How big is \"pretty big\"?",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كم كبير &quot;كبير جدا&quot;؟",
 			"Egyptian Arabic Audio": "eca-0233-9.mp3",
 			"Standard Arabic Audio": "msa-0233-9.mp3"
 		},
@@ -101,7 +101,7 @@
 			"English": "It has about 140,000 people.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لديها حوالي 140،000 شخص.",
 			"Egyptian Arabic Audio": "eca-0233-10.mp3",
 			"Standard Arabic Audio": "msa-0233-10.mp3"
 		},
@@ -111,7 +111,7 @@
 			"English": "How big is Los Angeles?",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ما هو حجم مدينة لوس انجليس؟",
 			"Egyptian Arabic Audio": "eca-0233-11.mp3",
 			"Standard Arabic Audio": "msa-0233-11.mp3"
 		},
@@ -121,7 +121,7 @@
 			"English": "It has about 3 million people.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لديها حوالي 3 ملايين شخص.",
 			"Egyptian Arabic Audio": "eca-0233-12.mp3",
 			"Standard Arabic Audio": "msa-0233-12.mp3"
 		}

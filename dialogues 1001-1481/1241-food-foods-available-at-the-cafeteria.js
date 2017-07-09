@@ -11,7 +11,7 @@
 			"English": "I want to get a snack at the cafeteria.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أريد الحصول على وجبة خفيفة في الكافتيريا.",
 			"Egyptian Arabic Audio": "eca-1241-1.mp3",
 			"Standard Arabic Audio": "msa-1241-1.mp3"
 		},
@@ -21,7 +21,7 @@
 			"English": "What are you going to buy?",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "مادا ستشتري؟",
 			"Egyptian Arabic Audio": "eca-1241-2.mp3",
 			"Standard Arabic Audio": "msa-1241-2.mp3"
 		},
@@ -31,7 +31,7 @@
 			"English": "I may just get some chips.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنا قد تحصل فقط بعض رقائق.",
 			"Egyptian Arabic Audio": "eca-1241-3.mp3",
 			"Standard Arabic Audio": "msa-1241-3.mp3"
 		},
@@ -41,7 +41,7 @@
 			"English": "I'm probably going to buy something too.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنا على وشك شراء شيء أيضا.",
 			"Egyptian Arabic Audio": "eca-1241-4.mp3",
 			"Standard Arabic Audio": "msa-1241-4.mp3"
 		},
@@ -51,7 +51,7 @@
 			"English": "What do you want to get?",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ماذا تريد أن تحصل؟",
 			"Egyptian Arabic Audio": "eca-1241-5.mp3",
 			"Standard Arabic Audio": "msa-1241-5.mp3"
 		},
@@ -61,7 +61,7 @@
 			"English": "I want some sort of candy.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أريد نوعا من الحلوى.",
 			"Egyptian Arabic Audio": "eca-1241-6.mp3",
 			"Standard Arabic Audio": "msa-1241-6.mp3"
 		},
@@ -71,7 +71,7 @@
 			"English": "What kind do you want?",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ما نوع هل تريد؟",
 			"Egyptian Arabic Audio": "eca-1241-7.mp3",
 			"Standard Arabic Audio": "msa-1241-7.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "I want some chocolate.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أريد بعض الشوكولاته.",
 			"Egyptian Arabic Audio": "eca-1241-8.mp3",
 			"Standard Arabic Audio": "msa-1241-8.mp3"
 		},
@@ -91,7 +91,7 @@
 			"English": "What kind of chocolate?",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أي نوع من الشوكولاته؟",
 			"Egyptian Arabic Audio": "eca-1241-9.mp3",
 			"Standard Arabic Audio": "msa-1241-9.mp3"
 		},
@@ -101,7 +101,7 @@
 			"English": "I'm going to get a Snickers or a Kit Kat.",
 			"Word Count": 10,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنا ذاهب للحصول على سنيكرز أو كيت كات.",
 			"Egyptian Arabic Audio": "eca-1241-10.mp3",
 			"Standard Arabic Audio": "msa-1241-10.mp3"
 		},
@@ -111,7 +111,7 @@
 			"English": "I don't think they sell Kit Kats.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنا لا أعتقد أنها تبيع كيت القطط.",
 			"Egyptian Arabic Audio": "eca-1241-11.mp3",
 			"Standard Arabic Audio": "msa-1241-11.mp3"
 		},
@@ -121,7 +121,7 @@
 			"English": "I'll just get a Snickers then.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنا فقط الحصول على سنيكرز ثم.",
 			"Egyptian Arabic Audio": "eca-1241-12.mp3",
 			"Standard Arabic Audio": "msa-1241-12.mp3"
 		},
@@ -131,7 +131,7 @@
 			"English": "Let's go and get something from the cafeteria.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "دعونا نذهب والحصول على شيء من الكافتيريا.",
 			"Egyptian Arabic Audio": "eca-1241-13.mp3",
 			"Standard Arabic Audio": "msa-1241-13.mp3"
 		},
@@ -141,7 +141,7 @@
 			"English": "What are you going to get?",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ماذا ستحصل؟",
 			"Egyptian Arabic Audio": "eca-1241-14.mp3",
 			"Standard Arabic Audio": "msa-1241-14.mp3"
 		},
@@ -151,7 +151,7 @@
 			"English": "I think I just want some chips.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أعتقد أنني أريد فقط بعض رقائق.",
 			"Egyptian Arabic Audio": "eca-1241-15.mp3",
 			"Standard Arabic Audio": "msa-1241-15.mp3"
 		},
@@ -161,7 +161,7 @@
 			"English": "I want to get a snack too.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أريد الحصول على وجبة خفيفة أيضا.",
 			"Egyptian Arabic Audio": "eca-1241-16.mp3",
 			"Standard Arabic Audio": "msa-1241-16.mp3"
 		},
@@ -171,7 +171,7 @@
 			"English": "What are you getting?",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "على ماذا تحصل؟",
 			"Egyptian Arabic Audio": "eca-1241-17.mp3",
 			"Standard Arabic Audio": "msa-1241-17.mp3"
 		},
@@ -181,7 +181,7 @@
 			"English": "I have a taste for candy.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لدي طعم للحلوى.",
 			"Egyptian Arabic Audio": "eca-1241-18.mp3",
 			"Standard Arabic Audio": "msa-1241-18.mp3"
 		},
@@ -191,7 +191,7 @@
 			"English": "What kind are you going to get?",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أي نوع سوف تحصل عليه؟",
 			"Egyptian Arabic Audio": "eca-1241-19.mp3",
 			"Standard Arabic Audio": "msa-1241-19.mp3"
 		},
@@ -201,7 +201,7 @@
 			"English": "Chocolate sounds good.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "الشوكولاته يبدو جيدا.",
 			"Egyptian Arabic Audio": "eca-1241-20.mp3",
 			"Standard Arabic Audio": "msa-1241-20.mp3"
 		},
@@ -211,7 +211,7 @@
 			"English": "What kind are you going to get?",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أي نوع سوف تحصل عليه؟",
 			"Egyptian Arabic Audio": "eca-1241-21.mp3",
 			"Standard Arabic Audio": "msa-1241-21.mp3"
 		},
@@ -221,7 +221,7 @@
 			"English": "I'm thinking of getting either a Snickers or a Kit Kat.",
 			"Word Count": 11,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنا أفكر في الحصول على سنيكرز أو كيت كات.",
 			"Egyptian Arabic Audio": "eca-1241-22.mp3",
 			"Standard Arabic Audio": "msa-1241-22.mp3"
 		},
@@ -231,7 +231,7 @@
 			"English": "They don't sell Kit Kats at the cafeteria.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انهم لا يبيعون كيت كاتس في الكافتيريا.",
 			"Egyptian Arabic Audio": "eca-1241-23.mp3",
 			"Standard Arabic Audio": "msa-1241-23.mp3"
 		},
@@ -241,7 +241,7 @@
 			"English": "I'm just going to buy a Snickers then.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنا فقط ذاهب لشراء سنيكرز ثم.",
 			"Egyptian Arabic Audio": "eca-1241-24.mp3",
 			"Standard Arabic Audio": "msa-1241-24.mp3"
 		},
@@ -251,7 +251,7 @@
 			"English": "I need a snack from the cafeteria.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنا بحاجة إلى وجبة خفيفة من الكافتيريا.",
 			"Egyptian Arabic Audio": "eca-1241-25.mp3",
 			"Standard Arabic Audio": "msa-1241-25.mp3"
 		},
@@ -261,7 +261,7 @@
 			"English": "What are you thinking of getting?",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ما الذي تفكر في الحصول عليه؟",
 			"Egyptian Arabic Audio": "eca-1241-26.mp3",
 			"Standard Arabic Audio": "msa-1241-26.mp3"
 		},
@@ -271,7 +271,7 @@
 			"English": "I only want some chips.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أريد فقط بعض رقائق.",
 			"Egyptian Arabic Audio": "eca-1241-27.mp3",
 			"Standard Arabic Audio": "msa-1241-27.mp3"
 		},
@@ -281,7 +281,7 @@
 			"English": "I think I may get something too.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أعتقد أنني قد تحصل على شيء أيضا.",
 			"Egyptian Arabic Audio": "eca-1241-28.mp3",
 			"Standard Arabic Audio": "msa-1241-28.mp3"
 		},
@@ -291,7 +291,7 @@
 			"English": "What do you plan on buying?",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ماذا تخطط لشراء؟",
 			"Egyptian Arabic Audio": "eca-1241-29.mp3",
 			"Standard Arabic Audio": "msa-1241-29.mp3"
 		},
@@ -301,7 +301,7 @@
 			"English": "I have a sweet tooth. I want candy.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "عندي سن جميل. أريد حلوى.",
 			"Egyptian Arabic Audio": "eca-1241-30.mp3",
 			"Standard Arabic Audio": "msa-1241-30.mp3"
 		},
@@ -311,7 +311,7 @@
 			"English": "What kind of candy do you want?",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أي نوع من الحلوى تريد؟",
 			"Egyptian Arabic Audio": "eca-1241-31.mp3",
 			"Standard Arabic Audio": "msa-1241-31.mp3"
 		},
@@ -321,7 +321,7 @@
 			"English": "I really want some chocolate.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أريد حقا بعض الشوكولاته.",
 			"Egyptian Arabic Audio": "eca-1241-32.mp3",
 			"Standard Arabic Audio": "msa-1241-32.mp3"
 		},
@@ -331,7 +331,7 @@
 			"English": "What kind of chocolate do you want?",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أي نوع من الشوكولاته تريد؟",
 			"Egyptian Arabic Audio": "eca-1241-33.mp3",
 			"Standard Arabic Audio": "msa-1241-33.mp3"
 		},
@@ -341,7 +341,7 @@
 			"English": "I either want a Snickers or a Kit Kat.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنا إما تريد سنيكرز أو كيت كات.",
 			"Egyptian Arabic Audio": "eca-1241-34.mp3",
 			"Standard Arabic Audio": "msa-1241-34.mp3"
 		},
@@ -351,7 +351,7 @@
 			"English": "The cafeteria doesn't sell Kit Kats.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "الكافتيريا لا تبيع كيت كاتس.",
 			"Egyptian Arabic Audio": "eca-1241-35.mp3",
 			"Standard Arabic Audio": "msa-1241-35.mp3"
 		},
@@ -361,7 +361,7 @@
 			"English": "Then I guess I'll just get a Snickers.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ثم أعتقد أنني سوف تحصل على سنيكرز.",
 			"Egyptian Arabic Audio": "eca-1241-36.mp3",
 			"Standard Arabic Audio": "msa-1241-36.mp3"
 		}

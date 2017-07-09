@@ -11,7 +11,7 @@
 			"English": "That was a nice funeral.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كان ذلك جنازة لطيفة.",
 			"Egyptian Arabic Audio": "eca-0277-1.mp3",
 			"Standard Arabic Audio": "msa-0277-1.mp3"
 		},
@@ -21,7 +21,7 @@
 			"English": "Yes, dad, it was.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "نعم، أبي، كان.",
 			"Egyptian Arabic Audio": "eca-0277-2.mp3",
 			"Standard Arabic Audio": "msa-0277-2.mp3"
 		},
@@ -31,7 +31,7 @@
 			"English": "The son gave a nice speech about his father.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أعطى الابن كلمة لطيفة عن والده.",
 			"Egyptian Arabic Audio": "eca-0277-3.mp3",
 			"Standard Arabic Audio": "msa-0277-3.mp3"
 		},
@@ -41,7 +41,7 @@
 			"English": "It was long, too.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كان طويلا أيضا.",
 			"Egyptian Arabic Audio": "eca-0277-4.mp3",
 			"Standard Arabic Audio": "msa-0277-4.mp3"
 		},
@@ -51,7 +51,7 @@
 			"English": "I think it was about 45 minutes long.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أعتقد أنه كان حوالي 45 دقيقة طويلة.",
 			"Egyptian Arabic Audio": "eca-0277-5.mp3",
 			"Standard Arabic Audio": "msa-0277-5.mp3"
 		},
@@ -61,7 +61,7 @@
 			"English": "But it went by fast. It was interesting.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ولكن ذهب بسرعة. كان مثيرا للاهتمام.",
 			"Egyptian Arabic Audio": "eca-0277-6.mp3",
 			"Standard Arabic Audio": "msa-0277-6.mp3"
 		},
@@ -71,7 +71,7 @@
 			"English": "I liked it.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "اعجبتني.",
 			"Egyptian Arabic Audio": "eca-0277-7.mp3",
 			"Standard Arabic Audio": "msa-0277-7.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "I'll give you a speech like that, too.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "سأعطيك كلمة من هذا القبيل أيضا.",
 			"Egyptian Arabic Audio": "eca-0277-8.mp3",
 			"Standard Arabic Audio": "msa-0277-8.mp3"
 		},
@@ -91,7 +91,7 @@
 			"English": "Do you think anyone will come to my funeral?",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هل تعتقد أن أي شخص سيأتي إلى جنازتي؟",
 			"Egyptian Arabic Audio": "eca-0277-9.mp3",
 			"Standard Arabic Audio": "msa-0277-9.mp3"
 		},
@@ -101,7 +101,7 @@
 			"English": "Of course.",
 			"Word Count": 2,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "بالتاكيد.",
 			"Egyptian Arabic Audio": "eca-0277-10.mp3",
 			"Standard Arabic Audio": "msa-0277-10.mp3"
 		},
@@ -111,7 +111,7 @@
 			"English": "I think only the family will be there.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أعتقد أن الأسرة ستكون هناك فقط.",
 			"Egyptian Arabic Audio": "eca-0277-11.mp3",
 			"Standard Arabic Audio": "msa-0277-11.mp3"
 		},
@@ -121,7 +121,7 @@
 			"English": "You have lots of friends. They will be there, too!",
 			"Word Count": 10,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لديك الكثير من الأصدقاء. وسوف يكون هناك، أيضا!",
 			"Egyptian Arabic Audio": "eca-0277-12.mp3",
 			"Standard Arabic Audio": "msa-0277-12.mp3"
 		}

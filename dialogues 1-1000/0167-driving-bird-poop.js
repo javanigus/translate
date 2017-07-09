@@ -11,7 +11,7 @@
 			"English": "I cleaned my car yesterday.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنا تنظيف سيارتي أمس.",
 			"Egyptian Arabic Audio": "eca-0167-1.mp3",
 			"Standard Arabic Audio": "msa-0167-1.mp3"
 		},
@@ -21,7 +21,7 @@
 			"English": "It's not clean anymore.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انها ليست نظيفة بعد الآن.",
 			"Egyptian Arabic Audio": "eca-0167-2.mp3",
 			"Standard Arabic Audio": "msa-0167-2.mp3"
 		},
@@ -31,7 +31,7 @@
 			"English": "What happened?",
 			"Word Count": 2,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ماذا حدث؟",
 			"Egyptian Arabic Audio": "eca-0167-3.mp3",
 			"Standard Arabic Audio": "msa-0167-3.mp3"
 		},
@@ -41,7 +41,7 @@
 			"English": "Take a look.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "إلق نظرة.",
 			"Egyptian Arabic Audio": "eca-0167-4.mp3",
 			"Standard Arabic Audio": "msa-0167-4.mp3"
 		},
@@ -51,7 +51,7 @@
 			"English": "Oh, no! There's bird poop.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أوه، لا! هناك أنبوب الطيور.",
 			"Egyptian Arabic Audio": "eca-0167-5.mp3",
 			"Standard Arabic Audio": "msa-0167-5.mp3"
 		},
@@ -61,7 +61,7 @@
 			"English": "That's unfortunate, since you just washed it.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هذا أمر مؤسف، لأنك مجرد غسلها.",
 			"Egyptian Arabic Audio": "eca-0167-6.mp3",
 			"Standard Arabic Audio": "msa-0167-6.mp3"
 		},
@@ -71,7 +71,7 @@
 			"English": "Can you wash my car?",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يمكنك غسل سيارتي؟",
 			"Egyptian Arabic Audio": "eca-0167-7.mp3",
 			"Standard Arabic Audio": "msa-0167-7.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "I'll wash it for $15.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "سأغسله مقابل 15 دولارا.",
 			"Egyptian Arabic Audio": "eca-0167-8.mp3",
 			"Standard Arabic Audio": "msa-0167-8.mp3"
 		},
@@ -91,7 +91,7 @@
 			"English": "This can be your birthday gift to me.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هذا يمكن أن يكون هدية عيد ميلاد لي.",
 			"Egyptian Arabic Audio": "eca-0167-9.mp3",
 			"Standard Arabic Audio": "msa-0167-9.mp3"
 		},
@@ -101,7 +101,7 @@
 			"English": "It's a deal.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انها صفقة.",
 			"Egyptian Arabic Audio": "eca-0167-10.mp3",
 			"Standard Arabic Audio": "msa-0167-10.mp3"
 		},
@@ -111,7 +111,7 @@
 			"English": "Have fun washing the poop off.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "المتعة غسل أنبوب قبالة.",
 			"Egyptian Arabic Audio": "eca-0167-11.mp3",
 			"Standard Arabic Audio": "msa-0167-11.mp3"
 		},
@@ -121,7 +121,7 @@
 			"English": "Sometimes I wonder why we're friends.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أحيانا أتساءل لماذا نحن أصدقاء.",
 			"Egyptian Arabic Audio": "eca-0167-12.mp3",
 			"Standard Arabic Audio": "msa-0167-12.mp3"
 		}

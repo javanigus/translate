@@ -11,7 +11,7 @@
 			"English": "I need your help.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انا بحاجة الى مساعدتكم.",
 			"Egyptian Arabic Audio": "eca-1442-1.mp3",
 			"Standard Arabic Audio": "msa-1442-1.mp3"
 		},
@@ -21,7 +21,7 @@
 			"English": "What's up?",
 			"Word Count": 2,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ماذا تفعل؟",
 			"Egyptian Arabic Audio": "eca-1442-2.mp3",
 			"Standard Arabic Audio": "msa-1442-2.mp3"
 		},
@@ -31,7 +31,7 @@
 			"English": "I'm lost.",
 			"Word Count": 2,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انا ضائع.",
 			"Egyptian Arabic Audio": "eca-1442-3.mp3",
 			"Standard Arabic Audio": "msa-1442-3.mp3"
 		},
@@ -41,7 +41,7 @@
 			"English": "Where exactly are you trying to go?",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أين أنت بالضبط تحاول أن تذهب؟",
 			"Egyptian Arabic Audio": "eca-1442-4.mp3",
 			"Standard Arabic Audio": "msa-1442-4.mp3"
 		},
@@ -51,7 +51,7 @@
 			"English": "I want to go see a movie.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أريد أن أذهب لرؤية فيلم.",
 			"Egyptian Arabic Audio": "eca-1442-5.mp3",
 			"Standard Arabic Audio": "msa-1442-5.mp3"
 		},
@@ -61,7 +61,7 @@
 			"English": "You can't find a theater?",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لا يمكنك العثور على المسرح؟",
 			"Egyptian Arabic Audio": "eca-1442-6.mp3",
 			"Standard Arabic Audio": "msa-1442-6.mp3"
 		},
@@ -71,7 +71,7 @@
 			"English": "No, I have absolutely no idea where one is.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لا، ليس لدي أي فكرة عن أي مكان.",
 			"Egyptian Arabic Audio": "eca-1442-7.mp3",
 			"Standard Arabic Audio": "msa-1442-7.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "Do you know where the mall is?",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هل تعرف أين مول هو؟",
 			"Egyptian Arabic Audio": "eca-1442-8.mp3",
 			"Standard Arabic Audio": "msa-1442-8.mp3"
 		},
@@ -91,7 +91,7 @@
 			"English": "Yes, I know where the mall is.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "نعم، أنا أعرف أين المركز التجاري.",
 			"Egyptian Arabic Audio": "eca-1442-9.mp3",
 			"Standard Arabic Audio": "msa-1442-9.mp3"
 		},
@@ -101,7 +101,7 @@
 			"English": "Go to the mall; there's a movie theater inside.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "اذهب إلى المجمع التجاري؛ هناك مسرح سينمائي داخل.",
 			"Egyptian Arabic Audio": "eca-1442-10.mp3",
 			"Standard Arabic Audio": "msa-1442-10.mp3"
 		},
@@ -111,7 +111,7 @@
 			"English": "I did not know that.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لم اكن اعرف ذلك.",
 			"Egyptian Arabic Audio": "eca-1442-11.mp3",
 			"Standard Arabic Audio": "msa-1442-11.mp3"
 		},
@@ -121,7 +121,7 @@
 			"English": "It's a new theater. Enjoy your movie.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "إنه مسرح جديد. استمتع بفلمك.",
 			"Egyptian Arabic Audio": "eca-1442-12.mp3",
 			"Standard Arabic Audio": "msa-1442-12.mp3"
 		},
@@ -131,7 +131,7 @@
 			"English": "Could you help me?",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هل يمكن أن تساعدني؟",
 			"Egyptian Arabic Audio": "eca-1442-13.mp3",
 			"Standard Arabic Audio": "msa-1442-13.mp3"
 		},
@@ -141,7 +141,7 @@
 			"English": "What's wrong?",
 			"Word Count": 2,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ماالخطب؟",
 			"Egyptian Arabic Audio": "eca-1442-14.mp3",
 			"Standard Arabic Audio": "msa-1442-14.mp3"
 		},
@@ -151,7 +151,7 @@
 			"English": "I think I'm lost.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أعتقد أنني فقدت.",
 			"Egyptian Arabic Audio": "eca-1442-15.mp3",
 			"Standard Arabic Audio": "msa-1442-15.mp3"
 		},
@@ -161,7 +161,7 @@
 			"English": "Where are you going?",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "إلى أين تذهب؟",
 			"Egyptian Arabic Audio": "eca-1442-16.mp3",
 			"Standard Arabic Audio": "msa-1442-16.mp3"
 		},
@@ -171,7 +171,7 @@
 			"English": "I need to find the movie theater.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أحتاج إلى العثور على مسرح السينما.",
 			"Egyptian Arabic Audio": "eca-1442-17.mp3",
 			"Standard Arabic Audio": "msa-1442-17.mp3"
 		},
@@ -181,7 +181,7 @@
 			"English": "You're not sure where it is?",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كنت غير متأكد من أين هو؟",
 			"Egyptian Arabic Audio": "eca-1442-18.mp3",
 			"Standard Arabic Audio": "msa-1442-18.mp3"
 		},
@@ -191,7 +191,7 @@
 			"English": "I really don't know.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنا حقا لا أعرف.",
 			"Egyptian Arabic Audio": "eca-1442-19.mp3",
 			"Standard Arabic Audio": "msa-1442-19.mp3"
 		},
@@ -201,7 +201,7 @@
 			"English": "You do know where the mall is, right?",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كنت أعرف أين مول هو، أليس كذلك؟",
 			"Egyptian Arabic Audio": "eca-1442-20.mp3",
 			"Standard Arabic Audio": "msa-1442-20.mp3"
 		},
@@ -211,7 +211,7 @@
 			"English": "I know exactly where that is.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أعرف بالضبط أين هو.",
 			"Egyptian Arabic Audio": "eca-1442-21.mp3",
 			"Standard Arabic Audio": "msa-1442-21.mp3"
 		},
@@ -221,7 +221,7 @@
 			"English": "There's a movie theater inside the mall.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هناك مسرح سينما داخل المركز التجاري.",
 			"Egyptian Arabic Audio": "eca-1442-22.mp3",
 			"Standard Arabic Audio": "msa-1442-22.mp3"
 		},
@@ -231,7 +231,7 @@
 			"English": "When did they get a theater?",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "متى حصلوا على مسرح؟",
 			"Egyptian Arabic Audio": "eca-1442-23.mp3",
 			"Standard Arabic Audio": "msa-1442-23.mp3"
 		},
@@ -241,7 +241,7 @@
 			"English": "They just built it.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنها مجرد بناء عليه.",
 			"Egyptian Arabic Audio": "eca-1442-24.mp3",
 			"Standard Arabic Audio": "msa-1442-24.mp3"
 		},
@@ -251,7 +251,7 @@
 			"English": "I need your assistance.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أحتاج إلى مساعدتكم.",
 			"Egyptian Arabic Audio": "eca-1442-25.mp3",
 			"Standard Arabic Audio": "msa-1442-25.mp3"
 		},
@@ -261,7 +261,7 @@
 			"English": "What's the problem?",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ما هي المشكلة؟",
 			"Egyptian Arabic Audio": "eca-1442-26.mp3",
 			"Standard Arabic Audio": "msa-1442-26.mp3"
 		},
@@ -271,7 +271,7 @@
 			"English": "I can't find the place I'm looking for.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لا أستطيع العثور على المكان الذي أبحث عنه.",
 			"Egyptian Arabic Audio": "eca-1442-27.mp3",
 			"Standard Arabic Audio": "msa-1442-27.mp3"
 		},
@@ -281,7 +281,7 @@
 			"English": "What are you looking for?",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "عما تبحث؟",
 			"Egyptian Arabic Audio": "eca-1442-28.mp3",
 			"Standard Arabic Audio": "msa-1442-28.mp3"
 		},
@@ -291,7 +291,7 @@
 			"English": "I am trying to go see a movie.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أحاول أن أرى فيلم.",
 			"Egyptian Arabic Audio": "eca-1442-29.mp3",
 			"Standard Arabic Audio": "msa-1442-29.mp3"
 		},
@@ -301,7 +301,7 @@
 			"English": "You don't know where the theater is?",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كنت لا تعرف أين المسرح هو؟",
 			"Egyptian Arabic Audio": "eca-1442-30.mp3",
 			"Standard Arabic Audio": "msa-1442-30.mp3"
 		},
@@ -311,7 +311,7 @@
 			"English": "I'm completely lost.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لقد فقدت تماما.",
 			"Egyptian Arabic Audio": "eca-1442-31.mp3",
 			"Standard Arabic Audio": "msa-1442-31.mp3"
 		},
@@ -321,7 +321,7 @@
 			"English": "Do you have any idea where the mall is?",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هل لديك أي فكرة عن المركز التجاري؟",
 			"Egyptian Arabic Audio": "eca-1442-32.mp3",
 			"Standard Arabic Audio": "msa-1442-32.mp3"
 		},
@@ -331,7 +331,7 @@
 			"English": "Yes, I do.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أجل أقبل.",
 			"Egyptian Arabic Audio": "eca-1442-33.mp3",
 			"Standard Arabic Audio": "msa-1442-33.mp3"
 		},
@@ -341,7 +341,7 @@
 			"English": "The mall has its own movie theater.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يحتوي المركز التجاري على مسرح سينمائي خاص به.",
 			"Egyptian Arabic Audio": "eca-1442-34.mp3",
 			"Standard Arabic Audio": "msa-1442-34.mp3"
 		},
@@ -351,7 +351,7 @@
 			"English": "I didn't know the mall had a movie theater.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لم أكن أعرف مول كان المسرح والسينما.",
 			"Egyptian Arabic Audio": "eca-1442-35.mp3",
 			"Standard Arabic Audio": "msa-1442-35.mp3"
 		},
@@ -361,7 +361,7 @@
 			"English": "It's newly opened.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "تم فتحه حديثا.",
 			"Egyptian Arabic Audio": "eca-1442-36.mp3",
 			"Standard Arabic Audio": "msa-1442-36.mp3"
 		}

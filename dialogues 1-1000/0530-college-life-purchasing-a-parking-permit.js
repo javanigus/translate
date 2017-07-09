@@ -11,7 +11,7 @@
 			"English": "The parking permit is $200 per semester, right?",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "تصريح وقوف السيارات هو 200 $ لكل فصل دراسي، أليس كذلك؟",
 			"Egyptian Arabic Audio": "eca-0530-1.mp3",
 			"Standard Arabic Audio": "msa-0530-1.mp3"
 		},
@@ -21,7 +21,7 @@
 			"English": "It's actually $300.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انها في الواقع 300 دولار.",
 			"Egyptian Arabic Audio": "eca-0530-2.mp3",
 			"Standard Arabic Audio": "msa-0530-2.mp3"
 		},
@@ -31,7 +31,7 @@
 			"English": "Why?! That's ridiculous.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لماذا ا؟! هذا كلام سخيف.",
 			"Egyptian Arabic Audio": "eca-0530-3.mp3",
 			"Standard Arabic Audio": "msa-0530-3.mp3"
 		},
@@ -41,7 +41,7 @@
 			"English": "It's because of the budget cuts.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انها بسبب تخفيضات الميزانية.",
 			"Egyptian Arabic Audio": "eca-0530-4.mp3",
 			"Standard Arabic Audio": "msa-0530-4.mp3"
 		},
@@ -51,7 +51,7 @@
 			"English": "That's a terrible excuse.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هذا عذر رهيب.",
 			"Egyptian Arabic Audio": "eca-0530-5.mp3",
 			"Standard Arabic Audio": "msa-0530-5.mp3"
 		},
@@ -61,7 +61,7 @@
 			"English": "It's the truth.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "إنها الحقيقة.",
 			"Egyptian Arabic Audio": "eca-0530-6.mp3",
 			"Standard Arabic Audio": "msa-0530-6.mp3"
 		},
@@ -71,7 +71,7 @@
 			"English": "Give me something better than that.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أعطني شيئا أفضل من ذلك.",
 			"Egyptian Arabic Audio": "eca-0530-7.mp3",
 			"Standard Arabic Audio": "msa-0530-7.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "Miss, if you don't want to pay, then don't.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ملكة جمال، إذا كنت لا تريد أن تدفع، ثم لا.",
 			"Egyptian Arabic Audio": "eca-0530-8.mp3",
 			"Standard Arabic Audio": "msa-0530-8.mp3"
 		},
@@ -91,7 +91,7 @@
 			"English": "This is so stressful.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هذا أمر مرهق جدا.",
 			"Egyptian Arabic Audio": "eca-0530-9.mp3",
 			"Standard Arabic Audio": "msa-0530-9.mp3"
 		},
@@ -101,7 +101,7 @@
 			"English": "I advise writing a letter to the dean.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنصحك برسالة إلى العميد.",
 			"Egyptian Arabic Audio": "eca-0530-10.mp3",
 			"Standard Arabic Audio": "msa-0530-10.mp3"
 		},
@@ -111,7 +111,7 @@
 			"English": "I bet he'll just throw it away.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أراهن انه سوف مجرد رميها بعيدا.",
 			"Egyptian Arabic Audio": "eca-0530-11.mp3",
 			"Standard Arabic Audio": "msa-0530-11.mp3"
 		},
@@ -121,7 +121,7 @@
 			"English": "You would be surprised.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "سوف يفاجأ.",
 			"Egyptian Arabic Audio": "eca-0530-12.mp3",
 			"Standard Arabic Audio": "msa-0530-12.mp3"
 		}

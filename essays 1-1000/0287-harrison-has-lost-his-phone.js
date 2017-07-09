@@ -9,7 +9,7 @@
 			"English": "Harrison needs a new phone.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هاريسون يحتاج إلى هاتف جديد.",
 			"Egyptian Arabic Audio": "eca-0287-1.mp3",
 			"Standard Arabic Audio": "msa-0287-1.mp3"
 		},
@@ -18,7 +18,7 @@
 			"English": "He has never had a phone for more than a year.",
 			"Word Count": 11,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لم يكن لديه هاتف لأكثر من عام.",
 			"Egyptian Arabic Audio": "eca-0287-2.mp3",
 			"Standard Arabic Audio": "msa-0287-2.mp3"
 		},
@@ -27,7 +27,7 @@
 			"English": "Bad things always happen.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أشياء سيئة يحدث دائما.",
 			"Egyptian Arabic Audio": "eca-0287-3.mp3",
 			"Standard Arabic Audio": "msa-0287-3.mp3"
 		},
@@ -36,7 +36,7 @@
 			"English": "Harrison has lost his phone before.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هاريسون فقد هاتفه من قبل.",
 			"Egyptian Arabic Audio": "eca-0287-4.mp3",
 			"Standard Arabic Audio": "msa-0287-4.mp3"
 		},
@@ -45,7 +45,7 @@
 			"English": "He left it at school.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "تركه في المدرسة.",
 			"Egyptian Arabic Audio": "eca-0287-5.mp3",
 			"Standard Arabic Audio": "msa-0287-5.mp3"
 		},
@@ -54,7 +54,7 @@
 			"English": "He tried to go back and get it.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "حاول العودة والعودة.",
 			"Egyptian Arabic Audio": "eca-0287-6.mp3",
 			"Standard Arabic Audio": "msa-0287-6.mp3"
 		},
@@ -63,7 +63,7 @@
 			"English": "But it was gone.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ولكن ذهبت.",
 			"Egyptian Arabic Audio": "eca-0287-7.mp3",
 			"Standard Arabic Audio": "msa-0287-7.mp3"
 		},
@@ -72,7 +72,7 @@
 			"English": "Harrison has had his phone stolen before.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هاريسون قد سرق هاتفه من قبل.",
 			"Egyptian Arabic Audio": "eca-0287-8.mp3",
 			"Standard Arabic Audio": "msa-0287-8.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "He had it in his pocket.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كان في جيبه.",
 			"Egyptian Arabic Audio": "eca-0287-9.mp3",
 			"Standard Arabic Audio": "msa-0287-9.mp3"
 		},
@@ -90,7 +90,7 @@
 			"English": "It was gone.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لقد ذهب.",
 			"Egyptian Arabic Audio": "eca-0287-10.mp3",
 			"Standard Arabic Audio": "msa-0287-10.mp3"
 		},
@@ -99,7 +99,7 @@
 			"English": "He saw the person taking it, but the person ran away quickly.",
 			"Word Count": 12,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "رأى الشخص الذي يأخذها، ولكن الشخص هرب بسرعة.",
 			"Egyptian Arabic Audio": "eca-0287-11.mp3",
 			"Standard Arabic Audio": "msa-0287-11.mp3"
 		},
@@ -108,7 +108,7 @@
 			"English": "Harrison has dropped his phone in the toilet before.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هاريسون انخفض هاتفه في المرحاض من قبل.",
 			"Egyptian Arabic Audio": "eca-0287-12.mp3",
 			"Standard Arabic Audio": "msa-0287-12.mp3"
 		},
@@ -117,7 +117,7 @@
 			"English": "He was texting someone, and the phone slipped out.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كان ينقل شخص ما، وتراجع الهاتف.",
 			"Egyptian Arabic Audio": "eca-0287-13.mp3",
 			"Standard Arabic Audio": "msa-0287-13.mp3"
 		},
@@ -126,7 +126,7 @@
 			"English": "His parents do not want to buy him another phone.",
 			"Word Count": 10,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "والديه لا يريدون شراء له هاتف آخر.",
 			"Egyptian Arabic Audio": "eca-0287-14.mp3",
 			"Standard Arabic Audio": "msa-0287-14.mp3"
 		},
@@ -135,7 +135,7 @@
 			"English": "They know that it will get messed up somehow.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنهم يعرفون أنها سوف تحصل على الفوضى بطريقة أو بأخرى.",
 			"Egyptian Arabic Audio": "eca-0287-15.mp3",
 			"Standard Arabic Audio": "msa-0287-15.mp3"
 		}

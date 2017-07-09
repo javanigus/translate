@@ -11,7 +11,7 @@
 			"English": "Before you go to that interview, check yourself.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "قبل أن تذهب إلى تلك المقابلة، تحقق نفسك.",
 			"Egyptian Arabic Audio": "eca-0393-1.mp3",
 			"Standard Arabic Audio": "msa-0393-1.mp3"
 		},
@@ -21,7 +21,7 @@
 			"English": "What's to check?",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ما هو الاختيار؟",
 			"Egyptian Arabic Audio": "eca-0393-2.mp3",
 			"Standard Arabic Audio": "msa-0393-2.mp3"
 		},
@@ -31,7 +31,7 @@
 			"English": "Are your nails clean?",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هل أظافرك نظيفة؟",
 			"Egyptian Arabic Audio": "eca-0393-3.mp3",
 			"Standard Arabic Audio": "msa-0393-3.mp3"
 		},
@@ -41,7 +41,7 @@
 			"English": "Yes, they are.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "نعم إنهم هم.",
 			"Egyptian Arabic Audio": "eca-0393-4.mp3",
 			"Standard Arabic Audio": "msa-0393-4.mp3"
 		},
@@ -51,7 +51,7 @@
 			"English": "Did you double-check your nose and teeth?",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هل تحققت من أنفك وأسنانك مرة أخرى؟",
 			"Egyptian Arabic Audio": "eca-0393-5.mp3",
 			"Standard Arabic Audio": "msa-0393-5.mp3"
 		},
@@ -61,7 +61,7 @@
 			"English": "They are clean, too.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "فهي نظيفة أيضا.",
 			"Egyptian Arabic Audio": "eca-0393-6.mp3",
 			"Standard Arabic Audio": "msa-0393-6.mp3"
 		},
@@ -71,7 +71,7 @@
 			"English": "Did you shine your shoes?",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هل تلمع حذائك؟",
 			"Egyptian Arabic Audio": "eca-0393-7.mp3",
 			"Standard Arabic Audio": "msa-0393-7.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "My shoes are shined.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أطفالي تشرق.",
 			"Egyptian Arabic Audio": "eca-0393-8.mp3",
 			"Standard Arabic Audio": "msa-0393-8.mp3"
 		},
@@ -91,7 +91,7 @@
 			"English": "Do your socks match?",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هل مباراة الجوارب الخاصة بك؟",
 			"Egyptian Arabic Audio": "eca-0393-9.mp3",
 			"Standard Arabic Audio": "msa-0393-9.mp3"
 		},
@@ -101,7 +101,7 @@
 			"English": "Of course they match.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "بالطبع أنها تطابق.",
 			"Egyptian Arabic Audio": "eca-0393-10.mp3",
 			"Standard Arabic Audio": "msa-0393-10.mp3"
 		},
@@ -111,7 +111,7 @@
 			"English": "No, they don't. One is black and one is dark blue.",
 			"Word Count": 11,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لا، لا يفعلون ذلك. واحد هو الأسود واحد هو الأزرق الداكن.",
 			"Egyptian Arabic Audio": "eca-0393-11.mp3",
 			"Standard Arabic Audio": "msa-0393-11.mp3"
 		},
@@ -121,7 +121,7 @@
 			"English": "Yikes! Thank you.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ييكيس! شكرا.",
 			"Egyptian Arabic Audio": "eca-0393-12.mp3",
 			"Standard Arabic Audio": "msa-0393-12.mp3"
 		}

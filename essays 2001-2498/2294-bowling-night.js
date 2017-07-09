@@ -9,7 +9,7 @@
 			"English": "Before long, the two friends were bowling away in their new team and league.",
 			"Word Count": 14,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "قبل فترة طويلة، كان الصديقان يرتديان البولينج في فريقهما الجديد والدوري.",
 			"Egyptian Arabic Audio": "eca-2294-1.mp3",
 			"Standard Arabic Audio": "msa-2294-1.mp3"
 		},
@@ -18,7 +18,7 @@
 			"English": "The manager was right.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كان المدير على حق.",
 			"Egyptian Arabic Audio": "eca-2294-2.mp3",
 			"Standard Arabic Audio": "msa-2294-2.mp3"
 		},
@@ -27,7 +27,7 @@
 			"English": "Paul and Jennifer were among the best players.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وكان بول وجينيفر من بين أفضل اللاعبين.",
 			"Egyptian Arabic Audio": "eca-2294-3.mp3",
 			"Standard Arabic Audio": "msa-2294-3.mp3"
 		},
@@ -36,7 +36,7 @@
 			"English": "They both loved bowling in a league.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كلاهما يحب البولينج في الدوري.",
 			"Egyptian Arabic Audio": "eca-2294-4.mp3",
 			"Standard Arabic Audio": "msa-2294-4.mp3"
 		},
@@ -45,7 +45,7 @@
 			"English": "They got to wear team bowling shirts and hats, and all the refreshments were included in the league fees.",
 			"Word Count": 19,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وحصلوا على ارتداء فريق قمصان البولينج والقبعات، وأدرجت جميع المرطبات في رسوم الدوري.",
 			"Egyptian Arabic Audio": "eca-2294-5.mp3",
 			"Standard Arabic Audio": "msa-2294-5.mp3"
 		},
@@ -54,7 +54,7 @@
 			"English": "Soon they were knocking down pins.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "قريبا كانوا يطرقون دبابيس.",
 			"Egyptian Arabic Audio": "eca-2294-6.mp3",
 			"Standard Arabic Audio": "msa-2294-6.mp3"
 		},
@@ -63,7 +63,7 @@
 			"English": "At the end of the season, their team won the trophy for coming in the first place!.",
 			"Word Count": 17,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "في نهاية الموسم، فاز فريقهم الكأس القادمة في المقام الأول !.",
 			"Egyptian Arabic Audio": "eca-2294-7.mp3",
 			"Standard Arabic Audio": "msa-2294-7.mp3"
 		}

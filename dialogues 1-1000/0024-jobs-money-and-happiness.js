@@ -11,7 +11,7 @@
 			"English": "I want to be a doctor.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "اريد ان اكون طبيبا.",
 			"Egyptian Arabic Audio": "eca-0024-1.mp3",
 			"Standard Arabic Audio": "msa-0024-1.mp3"
 		},
@@ -21,7 +21,7 @@
 			"English": "Why do you want to be a doctor?",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لماذا تريد أن تكون طبيبا؟",
 			"Egyptian Arabic Audio": "eca-0024-2.mp3",
 			"Standard Arabic Audio": "msa-0024-2.mp3"
 		},
@@ -31,7 +31,7 @@
 			"English": "Doctors make a lot of money.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "الأطباء جعل الكثير من المال.",
 			"Egyptian Arabic Audio": "eca-0024-3.mp3",
 			"Standard Arabic Audio": "msa-0024-3.mp3"
 		},
@@ -41,7 +41,7 @@
 			"English": "Doctors also have to go to school for a long time.",
 			"Word Count": 11,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كما يتعين على الأطباء الذهاب إلى المدرسة لفترة طويلة.",
 			"Egyptian Arabic Audio": "eca-0024-4.mp3",
 			"Standard Arabic Audio": "msa-0024-4.mp3"
 		},
@@ -51,7 +51,7 @@
 			"English": "Never mind, I want to be an engineer.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لا يهمني، أريد أن أكون مهندس.",
 			"Egyptian Arabic Audio": "eca-0024-5.mp3",
 			"Standard Arabic Audio": "msa-0024-5.mp3"
 		},
@@ -61,7 +61,7 @@
 			"English": "Why do you want to be an engineer?",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لماذا تريد أن تكون مهندسا؟",
 			"Egyptian Arabic Audio": "eca-0024-6.mp3",
 			"Standard Arabic Audio": "msa-0024-6.mp3"
 		},
@@ -71,7 +71,7 @@
 			"English": "Engineers make a lot of money.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "المهندسين جعل الكثير من المال.",
 			"Egyptian Arabic Audio": "eca-0024-7.mp3",
 			"Standard Arabic Audio": "msa-0024-7.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "Will you be happy though?",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "سوف تكون سعيدا على الرغم من؟",
 			"Egyptian Arabic Audio": "eca-0024-8.mp3",
 			"Standard Arabic Audio": "msa-0024-8.mp3"
 		},
@@ -91,7 +91,7 @@
 			"English": "If I have a lot of money, I will be happy.",
 			"Word Count": 11,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "إذا كان لدي الكثير من المال، وسوف نكون سعداء.",
 			"Egyptian Arabic Audio": "eca-0024-9.mp3",
 			"Standard Arabic Audio": "msa-0024-9.mp3"
 		},
@@ -101,7 +101,7 @@
 			"English": "Money doesn't equal happiness.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "المال لا يساوي السعادة.",
 			"Egyptian Arabic Audio": "eca-0024-10.mp3",
 			"Standard Arabic Audio": "msa-0024-10.mp3"
 		},
@@ -111,7 +111,7 @@
 			"English": "But I can buy whatever I want with money.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ولكن يمكنني شراء ما أريد مع المال.",
 			"Egyptian Arabic Audio": "eca-0024-11.mp3",
 			"Standard Arabic Audio": "msa-0024-11.mp3"
 		},
@@ -121,7 +121,7 @@
 			"English": "You can't buy friends or family or love.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لا يمكنك شراء الأصدقاء أو العائلة أو الحب.",
 			"Egyptian Arabic Audio": "eca-0024-12.mp3",
 			"Standard Arabic Audio": "msa-0024-12.mp3"
 		}

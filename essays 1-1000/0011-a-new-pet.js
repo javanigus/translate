@@ -9,7 +9,7 @@
 			"English": "Kate is walking.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كيت هو المشي.",
 			"Egyptian Arabic Audio": "eca-0011-1.mp3",
 			"Standard Arabic Audio": "msa-0011-1.mp3"
 		},
@@ -18,7 +18,7 @@
 			"English": "She sees a dog.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ترى كلب.",
 			"Egyptian Arabic Audio": "eca-0011-2.mp3",
 			"Standard Arabic Audio": "msa-0011-2.mp3"
 		},
@@ -27,7 +27,7 @@
 			"English": "The dog wags its tail.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "الكلب، الذئب، إيتس، ذيل.",
 			"Egyptian Arabic Audio": "eca-0011-3.mp3",
 			"Standard Arabic Audio": "msa-0011-3.mp3"
 		},
@@ -36,7 +36,7 @@
 			"English": "Kate likes the dog.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كيت يحب الكلب.",
 			"Egyptian Arabic Audio": "eca-0011-4.mp3",
 			"Standard Arabic Audio": "msa-0011-4.mp3"
 		},
@@ -45,7 +45,7 @@
 			"English": "It has no collar.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ليس لديه طوق.",
 			"Egyptian Arabic Audio": "eca-0011-5.mp3",
 			"Standard Arabic Audio": "msa-0011-5.mp3"
 		},
@@ -54,7 +54,7 @@
 			"English": "Kate takes it home.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كيت يأخذها المنزل.",
 			"Egyptian Arabic Audio": "eca-0011-6.mp3",
 			"Standard Arabic Audio": "msa-0011-6.mp3"
 		},
@@ -63,7 +63,7 @@
 			"English": "She washes the dog.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "تغسل الكلب.",
 			"Egyptian Arabic Audio": "eca-0011-7.mp3",
 			"Standard Arabic Audio": "msa-0011-7.mp3"
 		},
@@ -72,7 +72,7 @@
 			"English": "She names him \"Toby.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "تسميته &quot;توبي.",
 			"Egyptian Arabic Audio": "eca-0011-8.mp3",
 			"Standard Arabic Audio": "msa-0011-8.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "\" She takes Toby to the vet.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "&quot;تأخذ توبي إلى الطبيب البيطري.",
 			"Egyptian Arabic Audio": "eca-0011-9.mp3",
 			"Standard Arabic Audio": "msa-0011-9.mp3"
 		},
@@ -90,7 +90,7 @@
 			"English": "Toby is healthy.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "توبي هو صحي.",
 			"Egyptian Arabic Audio": "eca-0011-10.mp3",
 			"Standard Arabic Audio": "msa-0011-10.mp3"
 		},
@@ -99,7 +99,7 @@
 			"English": "Kate walks Toby every day.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كيت يمشي توبي كل يوم.",
 			"Egyptian Arabic Audio": "eca-0011-11.mp3",
 			"Standard Arabic Audio": "msa-0011-11.mp3"
 		},
@@ -108,7 +108,7 @@
 			"English": "They love each other.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هم يحبون بعضهم البعض.",
 			"Egyptian Arabic Audio": "eca-0011-12.mp3",
 			"Standard Arabic Audio": "msa-0011-12.mp3"
 		}

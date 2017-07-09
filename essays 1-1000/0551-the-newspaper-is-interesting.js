@@ -9,7 +9,7 @@
 			"English": "He hears a sound from outside.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يسمع صوت من الخارج.",
 			"Egyptian Arabic Audio": "eca-0551-1.mp3",
 			"Standard Arabic Audio": "msa-0551-1.mp3"
 		},
@@ -18,7 +18,7 @@
 			"English": "He looks out his window.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انه ينظر الى نافذته.",
 			"Egyptian Arabic Audio": "eca-0551-2.mp3",
 			"Standard Arabic Audio": "msa-0551-2.mp3"
 		},
@@ -27,7 +27,7 @@
 			"English": "The newspaper has arrived! He loves the newspaper.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وصلت الصحيفة! يحب الصحيفة.",
 			"Egyptian Arabic Audio": "eca-0551-3.mp3",
 			"Standard Arabic Audio": "msa-0551-3.mp3"
 		},
@@ -36,7 +36,7 @@
 			"English": "It's just so interesting.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انها مجرد مثيرة جدا للاهتمام.",
 			"Egyptian Arabic Audio": "eca-0551-4.mp3",
 			"Standard Arabic Audio": "msa-0551-4.mp3"
 		},
@@ -45,7 +45,7 @@
 			"English": "He reads the cover story.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يقرأ قصة الغلاف.",
 			"Egyptian Arabic Audio": "eca-0551-5.mp3",
 			"Standard Arabic Audio": "msa-0551-5.mp3"
 		},
@@ -54,7 +54,7 @@
 			"English": "It is about a homeless man who won the lottery.",
 			"Word Count": 10,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هو عن رجل بلا مأوى الذي فاز في اليانصيب.",
 			"Egyptian Arabic Audio": "eca-0551-6.mp3",
 			"Standard Arabic Audio": "msa-0551-6.mp3"
 		},
@@ -63,7 +63,7 @@
 			"English": "Then, he looks at the cartoons.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ثم، وقال انه ينظر في الرسوم المتحركة.",
 			"Egyptian Arabic Audio": "eca-0551-7.mp3",
 			"Standard Arabic Audio": "msa-0551-7.mp3"
 		},
@@ -72,7 +72,7 @@
 			"English": "They are so funny.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هم مضحك جدا.",
 			"Egyptian Arabic Audio": "eca-0551-8.mp3",
 			"Standard Arabic Audio": "msa-0551-8.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "He loves the newspaper.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يحب الصحيفة.",
 			"Egyptian Arabic Audio": "eca-0551-9.mp3",
 			"Standard Arabic Audio": "msa-0551-9.mp3"
 		}

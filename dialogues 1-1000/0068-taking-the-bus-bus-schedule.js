@@ -11,7 +11,7 @@
 			"English": "There are so many buses going to Montebello.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هناك الكثير من الحافلات الذهاب إلى مونتيبيلو.",
 			"Egyptian Arabic Audio": "eca-0068-1.mp3",
 			"Standard Arabic Audio": "msa-0068-1.mp3"
 		},
@@ -21,7 +21,7 @@
 			"English": "There are many places in Montebello.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هناك العديد من الأماكن في مونتيبيلو.",
 			"Egyptian Arabic Audio": "eca-0068-2.mp3",
 			"Standard Arabic Audio": "msa-0068-2.mp3"
 		},
@@ -31,7 +31,7 @@
 			"English": "How do I know which bus to take?",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كيف يمكنني معرفة الحافلة التي يجب اتخاذها؟",
 			"Egyptian Arabic Audio": "eca-0068-3.mp3",
 			"Standard Arabic Audio": "msa-0068-3.mp3"
 		},
@@ -41,7 +41,7 @@
 			"English": "First, choose where you want to go in Montelello.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أولا، اختيار المكان الذي تريد أن تذهب في مونتيليلو.",
 			"Egyptian Arabic Audio": "eca-0068-4.mp3",
 			"Standard Arabic Audio": "msa-0068-4.mp3"
 		},
@@ -51,7 +51,7 @@
 			"English": "Alright, then what's next?",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "حسنا، ثم ما هي الخطوة التالية؟",
 			"Egyptian Arabic Audio": "eca-0068-5.mp3",
 			"Standard Arabic Audio": "msa-0068-5.mp3"
 		},
@@ -61,7 +61,7 @@
 			"English": "Read the list of Montebello buses going to that stop.",
 			"Word Count": 10,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "قراءة قائمة الحافلات مونتيبيلو الذهاب إلى تلك المحطة.",
 			"Egyptian Arabic Audio": "eca-0068-6.mp3",
 			"Standard Arabic Audio": "msa-0068-6.mp3"
 		},
@@ -71,7 +71,7 @@
 			"English": "There are three. How do I choose one?",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هناك ثلاثة. كيف يمكنني اختيار واحد؟",
 			"Egyptian Arabic Audio": "eca-0068-7.mp3",
 			"Standard Arabic Audio": "msa-0068-7.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "They're all going to the same place?",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انهم جميعا الذهاب الى نفس المكان؟",
 			"Egyptian Arabic Audio": "eca-0068-8.mp3",
 			"Standard Arabic Audio": "msa-0068-8.mp3"
 		},
@@ -91,7 +91,7 @@
 			"English": "Yes, it looks like they are.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "نعم، يبدو كما هي.",
 			"Egyptian Arabic Audio": "eca-0068-9.mp3",
 			"Standard Arabic Audio": "msa-0068-9.mp3"
 		},
@@ -101,7 +101,7 @@
 			"English": "Then choose the bus based on the timetable.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ثم اختيار الحافلة على أساس الجدول الزمني.",
 			"Egyptian Arabic Audio": "eca-0068-10.mp3",
 			"Standard Arabic Audio": "msa-0068-10.mp3"
 		},
@@ -111,7 +111,7 @@
 			"English": "This is the bus that gets me there the soonest.",
 			"Word Count": 10,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هذا هو الحافلة التي يحصل لي هناك قريبا.",
 			"Egyptian Arabic Audio": "eca-0068-11.mp3",
 			"Standard Arabic Audio": "msa-0068-11.mp3"
 		},
@@ -121,7 +121,7 @@
 			"English": "You'd better get moving; it'll be here soon!",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كنت أفضل الحصول على التحرك. انها سوف تكون هنا قريبا!",
 			"Egyptian Arabic Audio": "eca-0068-12.mp3",
 			"Standard Arabic Audio": "msa-0068-12.mp3"
 		}

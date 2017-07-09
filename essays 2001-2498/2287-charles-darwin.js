@@ -9,7 +9,7 @@
 			"English": "One of the most influential figures in human history is Charles Darwin.",
 			"Word Count": 12,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "تشارلز داروين أحد الشخصيات الأكثر تأثيرا في تاريخ البشرية.",
 			"Egyptian Arabic Audio": "eca-2287-1.mp3",
 			"Standard Arabic Audio": "msa-2287-1.mp3"
 		},
@@ -18,7 +18,7 @@
 			"English": "Darwin has been called the father of evolution for his work in evolutionary science.",
 			"Word Count": 14,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وقد دعا داروين والد التطور لعمله في العلوم التطورية.",
 			"Egyptian Arabic Audio": "eca-2287-2.mp3",
 			"Standard Arabic Audio": "msa-2287-2.mp3"
 		},
@@ -27,7 +27,7 @@
 			"English": "In the United States, Darwin has become the symbol for atheists in the country as his theory of evolution smacks in the face of creationism.",
 			"Word Count": 25,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "في الولايات المتحدة، أصبح داروين رمزا للملحدين في البلاد كما تصور نظريته للتطور في مواجهة الخلقية.",
 			"Egyptian Arabic Audio": "eca-2287-3.mp3",
 			"Standard Arabic Audio": "msa-2287-3.mp3"
 		},
@@ -36,7 +36,7 @@
 			"English": "His theory claims that all of earth�s species have descended from their ancestors, and that they have adapted to their surroundings throughout history.",
 			"Word Count": 23,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "تدعي نظريته أن جميع أنواع الأرض قد انحدرت من أسلافهم، وأنهم تكيفوا مع محيطهم عبر التاريخ.",
 			"Egyptian Arabic Audio": "eca-2287-4.mp3",
 			"Standard Arabic Audio": "msa-2287-4.mp3"
 		},
@@ -45,7 +45,7 @@
 			"English": "It also claims that every species has a common ancestor.",
 			"Word Count": 10,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ويدعي أيضا أن كل نوع له سلف مشترك.",
 			"Egyptian Arabic Audio": "eca-2287-5.mp3",
 			"Standard Arabic Audio": "msa-2287-5.mp3"
 		},
@@ -54,7 +54,7 @@
 			"English": "Darwin introduced his theory in his landmark book.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "قدم داروين نظريته في كتابه التاريخي.",
 			"Egyptian Arabic Audio": "eca-2287-6.mp3",
 			"Standard Arabic Audio": "msa-2287-6.mp3"
 		}

@@ -11,7 +11,7 @@
 			"English": "I have a few questions regarding the neighborhood.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لدي بعض الأسئلة حول الحي.",
 			"Egyptian Arabic Audio": "eca-0655-1.mp3",
 			"Standard Arabic Audio": "msa-0655-1.mp3"
 		},
@@ -21,7 +21,7 @@
 			"English": "Alright, let's hear them.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "حسنا، دعونا نسمع لهم.",
 			"Egyptian Arabic Audio": "eca-0655-2.mp3",
 			"Standard Arabic Audio": "msa-0655-2.mp3"
 		},
@@ -31,7 +31,7 @@
 			"English": "Does the neighborhood look good aesthetically?",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هل الحي تبدو جيدة جماليا؟",
 			"Egyptian Arabic Audio": "eca-0655-3.mp3",
 			"Standard Arabic Audio": "msa-0655-3.mp3"
 		},
@@ -41,7 +41,7 @@
 			"English": "Yes, very much so.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "نعم كثيرا جدا.",
 			"Egyptian Arabic Audio": "eca-0655-4.mp3",
 			"Standard Arabic Audio": "msa-0655-4.mp3"
 		},
@@ -51,7 +51,7 @@
 			"English": "That's good news. Can you describe how?",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "إنه خبر سار. يمكنك وصف كيف؟",
 			"Egyptian Arabic Audio": "eca-0655-5.mp3",
 			"Standard Arabic Audio": "msa-0655-5.mp3"
 		},
@@ -61,7 +61,7 @@
 			"English": "The neighborhood is abundant with plant life.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "الحي وفيرة مع الحياة النباتية.",
 			"Egyptian Arabic Audio": "eca-0655-6.mp3",
 			"Standard Arabic Audio": "msa-0655-6.mp3"
 		},
@@ -71,7 +71,7 @@
 			"English": "You mean like trees and bushes?",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "تقصد مثل الأشجار والشجيرات؟",
 			"Egyptian Arabic Audio": "eca-0655-7.mp3",
 			"Standard Arabic Audio": "msa-0655-7.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "Yes, and not just any regular trees and bushes. The ones here are beautiful.",
 			"Word Count": 14,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "نعم، وليس فقط أي الأشجار العادية والشجيرات. تلك هنا جميلة.",
 			"Egyptian Arabic Audio": "eca-0655-8.mp3",
 			"Standard Arabic Audio": "msa-0655-8.mp3"
 		},
@@ -91,7 +91,7 @@
 			"English": "Anything else you can describe?",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أي شيء آخر يمكنك وصفه؟",
 			"Egyptian Arabic Audio": "eca-0655-9.mp3",
 			"Standard Arabic Audio": "msa-0655-9.mp3"
 		},
@@ -101,7 +101,7 @@
 			"English": "Yes. The streets are nicely paved, and the street lights are quite quaint.",
 			"Word Count": 13,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "نعم فعلا. الشوارع معبدة بشكل جيد، وأضواء الشوارع غريبة جدا.",
 			"Egyptian Arabic Audio": "eca-0655-10.mp3",
 			"Standard Arabic Audio": "msa-0655-10.mp3"
 		},
@@ -111,7 +111,7 @@
 			"English": "Wow, I could just picture it now.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "نجاح باهر، أنا يمكن أن مجرد صورة عليه الآن.",
 			"Egyptian Arabic Audio": "eca-0655-11.mp3",
 			"Standard Arabic Audio": "msa-0655-11.mp3"
 		},
@@ -121,7 +121,7 @@
 			"English": "The neighborhood will look even better in person.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "سوف حي تبدو أفضل في شخص.",
 			"Egyptian Arabic Audio": "eca-0655-12.mp3",
 			"Standard Arabic Audio": "msa-0655-12.mp3"
 		}

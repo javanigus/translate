@@ -9,7 +9,7 @@
 			"English": "\"I'm sorry,\" said the officer.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وقال الضابط &quot;انا اسف&quot;.",
 			"Egyptian Arabic Audio": "eca-2187-1.mp3",
 			"Standard Arabic Audio": "msa-2187-1.mp3"
 		},
@@ -18,7 +18,7 @@
 			"English": "\"That's not against the law.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "&quot;هذا ليس ضد القانون.",
 			"Egyptian Arabic Audio": "eca-2187-2.mp3",
 			"Standard Arabic Audio": "msa-2187-2.mp3"
 		},
@@ -27,7 +27,7 @@
 			"English": "If you see him actually steal something, give us a call.",
 			"Word Count": 11,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "إذا كنت ترى له في الواقع سرقة شيء، تعطينا مكالمة.",
 			"Egyptian Arabic Audio": "eca-2187-3.mp3",
 			"Standard Arabic Audio": "msa-2187-3.mp3"
 		},
@@ -36,7 +36,7 @@
 			"English": "\".",
 			"Word Count": 1,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "&quot;.",
 			"Egyptian Arabic Audio": "eca-2187-4.mp3",
 			"Standard Arabic Audio": "msa-2187-4.mp3"
 		}

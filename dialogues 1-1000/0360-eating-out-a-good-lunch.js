@@ -11,7 +11,7 @@
 			"English": "Lunch was delicious.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "مطعم جيد.",
 			"Egyptian Arabic Audio": "eca-0360-1.mp3",
 			"Standard Arabic Audio": "msa-0360-1.mp3"
 		},
@@ -21,7 +21,7 @@
 			"English": "Thank you.",
 			"Word Count": 2,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "شكرا.",
 			"Egyptian Arabic Audio": "eca-0360-2.mp3",
 			"Standard Arabic Audio": "msa-0360-2.mp3"
 		},
@@ -31,7 +31,7 @@
 			"English": "What kind of soup was that?",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أي نوع من الحساء كان ذلك؟",
 			"Egyptian Arabic Audio": "eca-0360-3.mp3",
 			"Standard Arabic Audio": "msa-0360-3.mp3"
 		},
@@ -41,7 +41,7 @@
 			"English": "It was tomato soup.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كان حساء الطماطم.",
 			"Egyptian Arabic Audio": "eca-0360-4.mp3",
 			"Standard Arabic Audio": "msa-0360-4.mp3"
 		},
@@ -51,7 +51,7 @@
 			"English": "That tasted so good.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "التي ذاقت جيدة جدا.",
 			"Egyptian Arabic Audio": "eca-0360-5.mp3",
 			"Standard Arabic Audio": "msa-0360-5.mp3"
 		},
@@ -61,7 +61,7 @@
 			"English": "I put lemon and butter in it.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أضع الليمون والزبدة في ذلك.",
 			"Egyptian Arabic Audio": "eca-0360-6.mp3",
 			"Standard Arabic Audio": "msa-0360-6.mp3"
 		},
@@ -71,7 +71,7 @@
 			"English": "The sandwich was good, too.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كانت شطيرة جيدة أيضا.",
 			"Egyptian Arabic Audio": "eca-0360-7.mp3",
 			"Standard Arabic Audio": "msa-0360-7.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "Everyone likes bacon and tomato sandwiches.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "الجميع يحب لحم الخنزير المقدد والسندويشات الطماطم.",
 			"Egyptian Arabic Audio": "eca-0360-8.mp3",
 			"Standard Arabic Audio": "msa-0360-8.mp3"
 		},
@@ -91,7 +91,7 @@
 			"English": "Especially on toast.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وخاصة على نخب.",
 			"Egyptian Arabic Audio": "eca-0360-9.mp3",
 			"Standard Arabic Audio": "msa-0360-9.mp3"
 		},
@@ -101,7 +101,7 @@
 			"English": "And the pickles were great, too.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "والمخللات كانت كبيرة، أيضا.",
 			"Egyptian Arabic Audio": "eca-0360-10.mp3",
 			"Standard Arabic Audio": "msa-0360-10.mp3"
 		},
@@ -111,7 +111,7 @@
 			"English": "Tomorrow we'll have rice and fish for lunch.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "غدا سيكون لدينا الأرز والأسماك لتناول طعام الغداء.",
 			"Egyptian Arabic Audio": "eca-0360-11.mp3",
 			"Standard Arabic Audio": "msa-0360-11.mp3"
 		},
@@ -121,7 +121,7 @@
 			"English": "I can't wait.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لا استطيع الانتظار.",
 			"Egyptian Arabic Audio": "eca-0360-12.mp3",
 			"Standard Arabic Audio": "msa-0360-12.mp3"
 		}

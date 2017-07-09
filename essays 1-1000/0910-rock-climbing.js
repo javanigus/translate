@@ -9,7 +9,7 @@
 			"English": "They drove to the rock climbing place.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "قادوا إلى مكان تسلق الصخور.",
 			"Egyptian Arabic Audio": "eca-0910-1.mp3",
 			"Standard Arabic Audio": "msa-0910-1.mp3"
 		},
@@ -18,7 +18,7 @@
 			"English": "They paid 10 dollars to go inside.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ودفعوا 10 دولارات للذهاب الى الداخل.",
 			"Egyptian Arabic Audio": "eca-0910-2.mp3",
 			"Standard Arabic Audio": "msa-0910-2.mp3"
 		},
@@ -27,7 +27,7 @@
 			"English": "They saw all the walls and harnesses.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "رأوا جميع الجدران ويسخر.",
 			"Egyptian Arabic Audio": "eca-0910-3.mp3",
 			"Standard Arabic Audio": "msa-0910-3.mp3"
 		},
@@ -36,7 +36,7 @@
 			"English": "Brad and his friends got excited.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "براد وأصدقائه حصلت على الحماس.",
 			"Egyptian Arabic Audio": "eca-0910-4.mp3",
 			"Standard Arabic Audio": "msa-0910-4.mp3"
 		},
@@ -45,7 +45,7 @@
 			"English": "They started to get all their equipment.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وبدأوا في الحصول على جميع معداتهم.",
 			"Egyptian Arabic Audio": "eca-0910-5.mp3",
 			"Standard Arabic Audio": "msa-0910-5.mp3"
 		},
@@ -54,7 +54,7 @@
 			"English": "They raced.",
 			"Word Count": 2,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "تسابقوا.",
 			"Egyptian Arabic Audio": "eca-0910-6.mp3",
 			"Standard Arabic Audio": "msa-0910-6.mp3"
 		},
@@ -63,7 +63,7 @@
 			"English": "Jeremy was the first one to climb the whole wall.",
 			"Word Count": 10,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كان جيريمي أول واحد لتسلق الجدار كله.",
 			"Egyptian Arabic Audio": "eca-0910-7.mp3",
 			"Standard Arabic Audio": "msa-0910-7.mp3"
 		},
@@ -72,7 +72,7 @@
 			"English": "All of them had tons of fun.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وكان كل منهم طن من المرح.",
 			"Egyptian Arabic Audio": "eca-0910-8.mp3",
 			"Standard Arabic Audio": "msa-0910-8.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "They did not want to go home.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لم يرغبوا في العودة إلى ديارهم.",
 			"Egyptian Arabic Audio": "eca-0910-9.mp3",
 			"Standard Arabic Audio": "msa-0910-9.mp3"
 		}

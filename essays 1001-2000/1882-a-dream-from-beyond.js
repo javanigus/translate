@@ -9,7 +9,7 @@
 			"English": "\"�Since mom's birthday six years ago?\".",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "&quot;� منذ عيد ميلاد أمي قبل ست سنوات؟&quot;.",
 			"Egyptian Arabic Audio": "eca-1882-1.mp3",
 			"Standard Arabic Audio": "msa-1882-1.mp3"
 		}

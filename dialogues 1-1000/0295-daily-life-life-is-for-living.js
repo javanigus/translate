@@ -11,7 +11,7 @@
 			"English": "What's the point?",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ما هي النقطة؟",
 			"Egyptian Arabic Audio": "eca-0295-1.mp3",
 			"Standard Arabic Audio": "msa-0295-1.mp3"
 		},
@@ -21,7 +21,7 @@
 			"English": "The point of what?",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "نقطة ما؟",
 			"Egyptian Arabic Audio": "eca-0295-2.mp3",
 			"Standard Arabic Audio": "msa-0295-2.mp3"
 		},
@@ -31,7 +31,7 @@
 			"English": "Of living.",
 			"Word Count": 2,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "المعيشة.",
 			"Egyptian Arabic Audio": "eca-0295-3.mp3",
 			"Standard Arabic Audio": "msa-0295-3.mp3"
 		},
@@ -41,7 +41,7 @@
 			"English": "Who knows? You live, and then you die.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "من تعرف؟ كنت تعيش، ومن ثم تموت.",
 			"Egyptian Arabic Audio": "eca-0295-4.mp3",
 			"Standard Arabic Audio": "msa-0295-4.mp3"
 		},
@@ -51,7 +51,7 @@
 			"English": "We must be here for some reason.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يجب أن نكون هنا لسبب ما.",
 			"Egyptian Arabic Audio": "eca-0295-5.mp3",
 			"Standard Arabic Audio": "msa-0295-5.mp3"
 		},
@@ -61,7 +61,7 @@
 			"English": "Maybe we're here to have fun.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ربما نحن هنا للحصول على المتعة.",
 			"Egyptian Arabic Audio": "eca-0295-6.mp3",
 			"Standard Arabic Audio": "msa-0295-6.mp3"
 		},
@@ -71,7 +71,7 @@
 			"English": "Then why aren't I having fun?",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ثم لماذا لا يلهون؟",
 			"Egyptian Arabic Audio": "eca-0295-7.mp3",
 			"Standard Arabic Audio": "msa-0295-7.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "Because you're thinking too much.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لأنك تفكر كثيرا.",
 			"Egyptian Arabic Audio": "eca-0295-8.mp3",
 			"Standard Arabic Audio": "msa-0295-8.mp3"
 		},
@@ -91,7 +91,7 @@
 			"English": "So I should stop thinking?",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لذا يجب التوقف عن التفكير؟",
 			"Egyptian Arabic Audio": "eca-0295-9.mp3",
 			"Standard Arabic Audio": "msa-0295-9.mp3"
 		},
@@ -101,7 +101,7 @@
 			"English": "Stop thinking about what the point is.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "التوقف عن التفكير في ما هي النقطة.",
 			"Egyptian Arabic Audio": "eca-0295-10.mp3",
 			"Standard Arabic Audio": "msa-0295-10.mp3"
 		},
@@ -111,7 +111,7 @@
 			"English": "Okay. I'll start thinking about having some fun.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "حسنا. سأبدأ التفكير في وجود بعض المرح.",
 			"Egyptian Arabic Audio": "eca-0295-11.mp3",
 			"Standard Arabic Audio": "msa-0295-11.mp3"
 		},
@@ -121,7 +121,7 @@
 			"English": "Just be patient. Fun doesn't come along every five minutes.",
 			"Word Count": 10,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كن صبورا. المرح لا يأتي على طول كل خمس دقائق.",
 			"Egyptian Arabic Audio": "eca-0295-12.mp3",
 			"Standard Arabic Audio": "msa-0295-12.mp3"
 		}

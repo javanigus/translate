@@ -11,7 +11,7 @@
 			"English": "Hey, Professor Hill.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "مهلا، أستاذ هيل.",
 			"Egyptian Arabic Audio": "eca-0511-1.mp3",
 			"Standard Arabic Audio": "msa-0511-1.mp3"
 		},
@@ -21,7 +21,7 @@
 			"English": "What is it?",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ما هذا؟",
 			"Egyptian Arabic Audio": "eca-0511-2.mp3",
 			"Standard Arabic Audio": "msa-0511-2.mp3"
 		},
@@ -31,7 +31,7 @@
 			"English": "I've been having trouble with derivatives.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لقد واجهت مشكلة مع المشتقات.",
 			"Egyptian Arabic Audio": "eca-0511-3.mp3",
 			"Standard Arabic Audio": "msa-0511-3.mp3"
 		},
@@ -41,7 +41,7 @@
 			"English": "That's not good. There's a test on derivatives next week.",
 			"Word Count": 10,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هذا ليس جيدا. هناك اختبار على المشتقات الأسبوع المقبل.",
 			"Egyptian Arabic Audio": "eca-0511-4.mp3",
 			"Standard Arabic Audio": "msa-0511-4.mp3"
 		},
@@ -51,7 +51,7 @@
 			"English": "I know. Can I make an appointment with you for some help?",
 			"Word Count": 12,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "اعرف. هل يمكنني تحديد موعد معك للحصول على بعض المساعدة؟",
 			"Egyptian Arabic Audio": "eca-0511-5.mp3",
 			"Standard Arabic Audio": "msa-0511-5.mp3"
 		},
@@ -61,7 +61,7 @@
 			"English": "I'm a busy man.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنا رجل مشغول.",
 			"Egyptian Arabic Audio": "eca-0511-6.mp3",
 			"Standard Arabic Audio": "msa-0511-6.mp3"
 		},
@@ -71,7 +71,7 @@
 			"English": "You didn't even check your schedule yet!",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنت لم تحقق حتى الجدول الزمني الخاص بك حتى الآن!",
 			"Egyptian Arabic Audio": "eca-0511-7.mp3",
 			"Standard Arabic Audio": "msa-0511-7.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "I know I'm busy, because many people already made appointments.",
 			"Word Count": 10,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أعرف أنني مشغول، لأن العديد من الناس بالفعل التعيينات.",
 			"Egyptian Arabic Audio": "eca-0511-8.mp3",
 			"Standard Arabic Audio": "msa-0511-8.mp3"
 		},
@@ -91,7 +91,7 @@
 			"English": "So I'm hopeless?",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لذلك أنا ميؤوس منها؟",
 			"Egyptian Arabic Audio": "eca-0511-9.mp3",
 			"Standard Arabic Audio": "msa-0511-9.mp3"
 		},
@@ -101,7 +101,7 @@
 			"English": "Of course not! There's the tutoring center.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "بالطبع لا! هناك مركز الدروس الخصوصية.",
 			"Egyptian Arabic Audio": "eca-0511-10.mp3",
 			"Standard Arabic Audio": "msa-0511-10.mp3"
 		},
@@ -111,7 +111,7 @@
 			"English": "But the tutors are not professors. They're just students.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ولكن المعلمين ليسوا أساتذة. انهم مجرد الطلاب.",
 			"Egyptian Arabic Audio": "eca-0511-11.mp3",
 			"Standard Arabic Audio": "msa-0511-11.mp3"
 		},
@@ -121,7 +121,7 @@
 			"English": "They might surprise you.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "قد مفاجأة لك.",
 			"Egyptian Arabic Audio": "eca-0511-12.mp3",
 			"Standard Arabic Audio": "msa-0511-12.mp3"
 		}

@@ -9,7 +9,7 @@
 			"English": "All 23 murals, created about 1791, are now at the Museum of Native American Art.",
 			"Word Count": 15,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "جميع 23 الجداريات، التي أنشئت حول 1791، والآن في متحف الفن الأمريكيين الأصليين.",
 			"Egyptian Arabic Audio": "eca-2081-1.mp3",
 			"Standard Arabic Audio": "msa-2081-1.mp3"
 		},
@@ -18,7 +18,7 @@
 			"English": "They will be inspected, cleaned, archived, and examined by experts.",
 			"Word Count": 10,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وسوف يتم تفتيشها وتنظيفها وأرشفة وفحصها من قبل الخبراء.",
 			"Egyptian Arabic Audio": "eca-2081-2.mp3",
 			"Standard Arabic Audio": "msa-2081-2.mp3"
 		},
@@ -27,7 +27,7 @@
 			"English": "They will not be put on public display until early next year.",
 			"Word Count": 12,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ولن يتم عرضها على الجمهور حتى مطلع العام المقبل.",
 			"Egyptian Arabic Audio": "eca-2081-3.mp3",
 			"Standard Arabic Audio": "msa-2081-3.mp3"
 		},
@@ -36,7 +36,7 @@
 			"English": "Museum officials expect a huge turnout when that day occurs.",
 			"Word Count": 10,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ويتوقع مسؤولو المتحف إقبالا كبيرا عندما يحدث ذلك اليوم.",
 			"Egyptian Arabic Audio": "eca-2081-4.mp3",
 			"Standard Arabic Audio": "msa-2081-4.mp3"
 		},
@@ -45,7 +45,7 @@
 			"English": "\"This is truly rare,\" said one official.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وقال احد المسؤولين &quot;هذا نادر حقا&quot;.",
 			"Egyptian Arabic Audio": "eca-2081-5.mp3",
 			"Standard Arabic Audio": "msa-2081-5.mp3"
 		},
@@ -54,7 +54,7 @@
 			"English": "\"I wonder how many more treasures are out there waiting for someone to drop a dime on them.",
 			"Word Count": 18,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "&quot;أتساءل كم من الكنوز أكثر هناك ينتظر شخص لإسقاط سنت واحد عليهم.",
 			"Egyptian Arabic Audio": "eca-2081-6.mp3",
 			"Standard Arabic Audio": "msa-2081-6.mp3"
 		},
@@ -63,7 +63,7 @@
 			"English": "\".",
 			"Word Count": 1,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "&quot;.",
 			"Egyptian Arabic Audio": "eca-2081-7.mp3",
 			"Standard Arabic Audio": "msa-2081-7.mp3"
 		}

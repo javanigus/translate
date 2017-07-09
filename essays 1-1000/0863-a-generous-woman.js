@@ -9,7 +9,7 @@
 			"English": "The homeless people loved her.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "الناس بلا مأوى أحبها.",
 			"Egyptian Arabic Audio": "eca-0863-1.mp3",
 			"Standard Arabic Audio": "msa-0863-1.mp3"
 		},
@@ -18,7 +18,7 @@
 			"English": "One homeless man even gave her a penny.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "رجل واحد بلا مأوى حتى أعطى لها فلسا واحدا.",
 			"Egyptian Arabic Audio": "eca-0863-2.mp3",
 			"Standard Arabic Audio": "msa-0863-2.mp3"
 		},
@@ -27,7 +27,7 @@
 			"English": "She said to keep it for himself.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "قالت لإبقائه لنفسه.",
 			"Egyptian Arabic Audio": "eca-0863-3.mp3",
 			"Standard Arabic Audio": "msa-0863-3.mp3"
 		},
@@ -36,7 +36,7 @@
 			"English": "She decided to do more.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وقررت أن تفعل المزيد.",
 			"Egyptian Arabic Audio": "eca-0863-4.mp3",
 			"Standard Arabic Audio": "msa-0863-4.mp3"
 		},
@@ -45,7 +45,7 @@
 			"English": "She gave $50 to every homeless person she saw.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وأعطت 50 دولارا لكل شخص بلا مأوى رأته.",
 			"Egyptian Arabic Audio": "eca-0863-5.mp3",
 			"Standard Arabic Audio": "msa-0863-5.mp3"
 		},
@@ -54,7 +54,7 @@
 			"English": "She felt good.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "شعرت جيدة.",
 			"Egyptian Arabic Audio": "eca-0863-6.mp3",
 			"Standard Arabic Audio": "msa-0863-6.mp3"
 		}

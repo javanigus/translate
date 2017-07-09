@@ -11,7 +11,7 @@
 			"English": "Are you the Rental Agent?",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هل أنت وكيل الإيجار؟",
 			"Egyptian Arabic Audio": "eca-0650-1.mp3",
 			"Standard Arabic Audio": "msa-0650-1.mp3"
 		},
@@ -21,7 +21,7 @@
 			"English": "Yes, I am. Welcome to my office.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "نعم انا. مرحبا بكم في مكتبي.",
 			"Egyptian Arabic Audio": "eca-0650-2.mp3",
 			"Standard Arabic Audio": "msa-0650-2.mp3"
 		},
@@ -31,7 +31,7 @@
 			"English": "It's nice to meet you. Thank you.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "من اللطيف مقابلتك. شكرا.",
 			"Egyptian Arabic Audio": "eca-0650-3.mp3",
 			"Standard Arabic Audio": "msa-0650-3.mp3"
 		},
@@ -41,7 +41,7 @@
 			"English": "How did you hear about me?",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كيف سمعت عني؟",
 			"Egyptian Arabic Audio": "eca-0650-4.mp3",
 			"Standard Arabic Audio": "msa-0650-4.mp3"
 		},
@@ -51,7 +51,7 @@
 			"English": "A friend referred me to you.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أشار صديق لي لك.",
 			"Egyptian Arabic Audio": "eca-0650-5.mp3",
 			"Standard Arabic Audio": "msa-0650-5.mp3"
 		},
@@ -61,7 +61,7 @@
 			"English": "Oh really. I'm glad.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "حقا. أنا سعيد.",
 			"Egyptian Arabic Audio": "eca-0650-6.mp3",
 			"Standard Arabic Audio": "msa-0650-6.mp3"
 		},
@@ -71,7 +71,7 @@
 			"English": "He said you were the right person to talk to about renting an apartment.",
 			"Word Count": 14,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وقال إنك الشخص المناسب للتحدث عن استئجار شقة.",
 			"Egyptian Arabic Audio": "eca-0650-7.mp3",
 			"Standard Arabic Audio": "msa-0650-7.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "That's nice to hear. I'm flattered. How can I help you?",
 			"Word Count": 11,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "من الجيد سماع هذا. أنا أشعر بالإطراء. كيف بإمكاني مساعدتك؟",
 			"Egyptian Arabic Audio": "eca-0650-8.mp3",
 			"Standard Arabic Audio": "msa-0650-8.mp3"
 		},
@@ -91,7 +91,7 @@
 			"English": "I found an apartment in Pasadena, and I wanted a second opinion.",
 			"Word Count": 12,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وجدت شقة في باسادينا، وكنت أرغب في رأي ثان.",
 			"Egyptian Arabic Audio": "eca-0650-9.mp3",
 			"Standard Arabic Audio": "msa-0650-9.mp3"
 		},
@@ -101,7 +101,7 @@
 			"English": "Sure. Do you have the apartment's information?",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "بالتأكيد. هل لديك معلومات الشقة؟",
 			"Egyptian Arabic Audio": "eca-0650-10.mp3",
 			"Standard Arabic Audio": "msa-0650-10.mp3"
 		},
@@ -111,7 +111,7 @@
 			"English": "Yes, I do. Here it is.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أجل أقبل. ها هو.",
 			"Egyptian Arabic Audio": "eca-0650-11.mp3",
 			"Standard Arabic Audio": "msa-0650-11.mp3"
 		},
@@ -121,7 +121,7 @@
 			"English": "Thank you.",
 			"Word Count": 2,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "شكرا.",
 			"Egyptian Arabic Audio": "eca-0650-12.mp3",
 			"Standard Arabic Audio": "msa-0650-12.mp3"
 		}

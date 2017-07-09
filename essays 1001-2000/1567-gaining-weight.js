@@ -9,7 +9,7 @@
 			"English": "She grunted.",
 			"Word Count": 2,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وقالت انها غرونتيد.",
 			"Egyptian Arabic Audio": "eca-1567-1.mp3",
 			"Standard Arabic Audio": "msa-1567-1.mp3"
 		},
@@ -18,7 +18,7 @@
 			"English": "She was pulling up her slacks.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كانت تسحب بنطلتها.",
 			"Egyptian Arabic Audio": "eca-1567-2.mp3",
 			"Standard Arabic Audio": "msa-1567-2.mp3"
 		},
@@ -27,7 +27,7 @@
 			"English": "She had bought them a year ago.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كانت قد اشترتها قبل عام.",
 			"Egyptian Arabic Audio": "eca-1567-3.mp3",
 			"Standard Arabic Audio": "msa-1567-3.mp3"
 		},
@@ -36,7 +36,7 @@
 			"English": "She tried to button the top button.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "حاولت زر الزر العلوي.",
 			"Egyptian Arabic Audio": "eca-1567-4.mp3",
 			"Standard Arabic Audio": "msa-1567-4.mp3"
 		},
@@ -45,7 +45,7 @@
 			"English": "She couldn't get it close to the button hole.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وقالت انها لا يمكن الحصول عليه على مقربة من ثقب زر.",
 			"Egyptian Arabic Audio": "eca-1567-5.mp3",
 			"Standard Arabic Audio": "msa-1567-5.mp3"
 		},
@@ -54,7 +54,7 @@
 			"English": "\"Look at this,\" she told her husband.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "تقول زوجها: &quot;انظر إلى ذلك&quot;.",
 			"Egyptian Arabic Audio": "eca-1567-6.mp3",
 			"Standard Arabic Audio": "msa-1567-6.mp3"
 		},
@@ -63,7 +63,7 @@
 			"English": "\"Are those the slacks that I shrunk?\" he asked.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "&quot;هل هؤلاء من الركود التي تقلصت؟&quot; سأل.",
 			"Egyptian Arabic Audio": "eca-1567-7.mp3",
 			"Standard Arabic Audio": "msa-1567-7.mp3"
 		},
@@ -72,7 +72,7 @@
 			"English": "She said no.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وقالت لا.",
 			"Egyptian Arabic Audio": "eca-1567-8.mp3",
 			"Standard Arabic Audio": "msa-1567-8.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "These were different slacks.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وكانت هذه الركود مختلفة.",
 			"Egyptian Arabic Audio": "eca-1567-9.mp3",
 			"Standard Arabic Audio": "msa-1567-9.mp3"
 		},
@@ -90,7 +90,7 @@
 			"English": "They weren't the ones he had shrunk.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لم تكن تلك التي تقلصها.",
 			"Egyptian Arabic Audio": "eca-1567-10.mp3",
 			"Standard Arabic Audio": "msa-1567-10.mp3"
 		},
@@ -99,7 +99,7 @@
 			"English": "They had fit a year ago.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كان لديهم صالح قبل عام.",
 			"Egyptian Arabic Audio": "eca-1567-11.mp3",
 			"Standard Arabic Audio": "msa-1567-11.mp3"
 		},
@@ -108,7 +108,7 @@
 			"English": "He told her to try dieting.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وقال لها لمحاولة اتباع نظام غذائي.",
 			"Egyptian Arabic Audio": "eca-1567-12.mp3",
 			"Standard Arabic Audio": "msa-1567-12.mp3"
 		},
@@ -117,7 +117,7 @@
 			"English": "He told her to eat 10 percent less.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وقال لها أن تأكل أقل بنسبة 10 في المئة.",
 			"Egyptian Arabic Audio": "eca-1567-13.mp3",
 			"Standard Arabic Audio": "msa-1567-13.mp3"
 		},
@@ -126,7 +126,7 @@
 			"English": "\"A diet doesn't have to hurt,\" he said.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وقال &quot;ان النظام الغذائي لا يجب ان يضر&quot;.",
 			"Egyptian Arabic Audio": "eca-1567-14.mp3",
 			"Standard Arabic Audio": "msa-1567-14.mp3"
 		},
@@ -135,7 +135,7 @@
 			"English": "He said to use a smaller bowl for her rice.",
 			"Word Count": 10,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وقال لاستخدام وعاء أصغر لأرزها.",
 			"Egyptian Arabic Audio": "eca-1567-15.mp3",
 			"Standard Arabic Audio": "msa-1567-15.mp3"
 		},
@@ -144,7 +144,7 @@
 			"English": "\"Rice is full of empty calories,\" he said.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وقال &quot;ان الارز مليء بالسعرات الحرارية الفارغة&quot;.",
 			"Egyptian Arabic Audio": "eca-1567-16.mp3",
 			"Standard Arabic Audio": "msa-1567-16.mp3"
 		},
@@ -153,7 +153,7 @@
 			"English": "He told her to eat less fruit.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وقال لها أن تأكل أقل الفاكهة.",
 			"Egyptian Arabic Audio": "eca-1567-17.mp3",
 			"Standard Arabic Audio": "msa-1567-17.mp3"
 		},
@@ -162,7 +162,7 @@
 			"English": "\"Eat all the vegetables and meat you like,\" he said.",
 			"Word Count": 10,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "&quot;أكل كل الخضروات واللحوم تريد&quot;، قال.",
 			"Egyptian Arabic Audio": "eca-1567-18.mp3",
 			"Standard Arabic Audio": "msa-1567-18.mp3"
 		},
@@ -171,7 +171,7 @@
 			"English": "\"You'll lose your extra weight.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "&quot;سوف تفقد الوزن الزائد.",
 			"Egyptian Arabic Audio": "eca-1567-19.mp3",
 			"Standard Arabic Audio": "msa-1567-19.mp3"
 		},
@@ -180,7 +180,7 @@
 			"English": "\" \"Will you still love me if I get fat?\" she asked.",
 			"Word Count": 12,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "&quot;&quot; سوف لا تزال تحبني إذا كنت تحصل على الدهون؟ &quot;سألت.",
 			"Egyptian Arabic Audio": "eca-1567-20.mp3",
 			"Standard Arabic Audio": "msa-1567-20.mp3"
 		},
@@ -189,7 +189,7 @@
 			"English": "\"Of course,\" he said.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وقال &quot;بالطبع&quot;.",
 			"Egyptian Arabic Audio": "eca-1567-21.mp3",
 			"Standard Arabic Audio": "msa-1567-21.mp3"
 		},
@@ -198,7 +198,7 @@
 			"English": "\"There will be more to love.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "&quot;سيكون هناك المزيد من الحب.",
 			"Egyptian Arabic Audio": "eca-1567-22.mp3",
 			"Standard Arabic Audio": "msa-1567-22.mp3"
 		},
@@ -207,7 +207,7 @@
 			"English": "\".",
 			"Word Count": 1,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "&quot;.",
 			"Egyptian Arabic Audio": "eca-1567-23.mp3",
 			"Standard Arabic Audio": "msa-1567-23.mp3"
 		}

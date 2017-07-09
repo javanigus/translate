@@ -9,7 +9,7 @@
 			"English": "\"You have very sharp eyes,\" Martin said.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وقال مارتن &quot;لديك عيون حادة جدا&quot;.",
 			"Egyptian Arabic Audio": "eca-1872-1.mp3",
 			"Standard Arabic Audio": "msa-1872-1.mp3"
 		},
@@ -18,7 +18,7 @@
 			"English": "They went back to their car.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "عادوا إلى سيارتهم.",
 			"Egyptian Arabic Audio": "eca-1872-2.mp3",
 			"Standard Arabic Audio": "msa-1872-2.mp3"
 		},
@@ -27,7 +27,7 @@
 			"English": "Martin drove around to the other side of the mall, and they parked in the area marked \"6.",
 			"Word Count": 18,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "مارتن توجه إلى الجانب الآخر من المركز التجاري، وأنها واقفة في المنطقة ملحوظ &quot;6.",
 			"Egyptian Arabic Audio": "eca-1872-3.mp3",
 			"Standard Arabic Audio": "msa-1872-3.mp3"
 		},
@@ -36,7 +36,7 @@
 			"English": "\".",
 			"Word Count": 1,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "&quot;.",
 			"Egyptian Arabic Audio": "eca-1872-4.mp3",
 			"Standard Arabic Audio": "msa-1872-4.mp3"
 		}

@@ -11,7 +11,7 @@
 			"English": "Hi, could you help me find a place where I could buy some lunch?",
 			"Word Count": 14,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "مرحبا، هل يمكن أن تساعدني في العثور على مكان حيث يمكنني شراء بعض الغداء؟",
 			"Egyptian Arabic Audio": "eca-1023-1.mp3",
 			"Standard Arabic Audio": "msa-1023-1.mp3"
 		},
@@ -21,7 +21,7 @@
 			"English": "Sure! What kind of food would you like?",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "بالتأكيد! أي نوع من الطعام تريد؟",
 			"Egyptian Arabic Audio": "eca-1023-2.mp3",
 			"Standard Arabic Audio": "msa-1023-2.mp3"
 		},
@@ -31,7 +31,7 @@
 			"English": "I was thinking of pizza or something else Italian, maybe.",
 			"Word Count": 10,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كنت أفكر في البيتزا أو شيء آخر الإيطالية، ربما.",
 			"Egyptian Arabic Audio": "eca-1023-3.mp3",
 			"Standard Arabic Audio": "msa-1023-3.mp3"
 		},
@@ -41,7 +41,7 @@
 			"English": "I know the perfect place!",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنا أعرف المكان المثالي!",
 			"Egyptian Arabic Audio": "eca-1023-4.mp3",
 			"Standard Arabic Audio": "msa-1023-4.mp3"
 		},
@@ -51,7 +51,7 @@
 			"English": "Good! Where is it?",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "جيد! أين هي؟",
 			"Egyptian Arabic Audio": "eca-1023-5.mp3",
 			"Standard Arabic Audio": "msa-1023-5.mp3"
 		},
@@ -61,7 +61,7 @@
 			"English": "It's right past that last building on the left. Do you want me to go with you?",
 			"Word Count": 17,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انها الماضي الحق أن آخر مبنى على اليسار. هل تريد مني أن أذهب معك؟",
 			"Egyptian Arabic Audio": "eca-1023-6.mp3",
 			"Standard Arabic Audio": "msa-1023-6.mp3"
 		},
@@ -71,7 +71,7 @@
 			"English": "That would be great.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هذا سيكون رائع.",
 			"Egyptian Arabic Audio": "eca-1023-7.mp3",
 			"Standard Arabic Audio": "msa-1023-7.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "Glad you asked me to join you. This will be fun!",
 			"Word Count": 11,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "سعيد طلبت مني أن أنضم إليكم. وهذا سيكون متعة!",
 			"Egyptian Arabic Audio": "eca-1023-8.mp3",
 			"Standard Arabic Audio": "msa-1023-8.mp3"
 		},
@@ -91,7 +91,7 @@
 			"English": "Man, I'm hungry. Do you know a good place to have lunch?",
 			"Word Count": 12,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "رجل، أنا جائع. هل تعرف مكانا جيدا لتناول الغداء؟",
 			"Egyptian Arabic Audio": "eca-1023-9.mp3",
 			"Standard Arabic Audio": "msa-1023-9.mp3"
 		},
@@ -101,7 +101,7 @@
 			"English": "Yes, I know a great place. What types of food do you like?",
 			"Word Count": 13,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "نعم، أنا أعرف مكانا رائعا. ما هي أنواع الطعام التي تحبها؟",
 			"Egyptian Arabic Audio": "eca-1023-10.mp3",
 			"Standard Arabic Audio": "msa-1023-10.mp3"
 		},
@@ -111,7 +111,7 @@
 			"English": "Mexican, Japanese or Chinese would be great.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "المكسيكية واليابانية والصينية ستكون كبيرة.",
 			"Egyptian Arabic Audio": "eca-1023-11.mp3",
 			"Standard Arabic Audio": "msa-1023-11.mp3"
 		},
@@ -121,7 +121,7 @@
 			"English": "Oh, I know a place where you might like to eat.",
 			"Word Count": 11,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أوه، أنا أعرف المكان الذي قد ترغب في تناول الطعام.",
 			"Egyptian Arabic Audio": "eca-1023-12.mp3",
 			"Standard Arabic Audio": "msa-1023-12.mp3"
 		},
@@ -131,7 +131,7 @@
 			"English": "Is it close by?",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هل هو قريب؟",
 			"Egyptian Arabic Audio": "eca-1023-13.mp3",
 			"Standard Arabic Audio": "msa-1023-13.mp3"
 		},
@@ -141,7 +141,7 @@
 			"English": "It's down a block on the right; can I show you the way?",
 			"Word Count": 13,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انها أسفل كتلة على اليمين. يمكن أن تظهر لك الطريق؟",
 			"Egyptian Arabic Audio": "eca-1023-14.mp3",
 			"Standard Arabic Audio": "msa-1023-14.mp3"
 		},
@@ -151,7 +151,7 @@
 			"English": "OK, I'd love the company.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "حسنا، أحب الشركة.",
 			"Egyptian Arabic Audio": "eca-1023-15.mp3",
 			"Standard Arabic Audio": "msa-1023-15.mp3"
 		},
@@ -161,7 +161,7 @@
 			"English": "This will work out well. I'm getting hungry just thinking about it.",
 			"Word Count": 12,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وهذا سيعمل بشكل جيد. أنا أحصل على الجوع مجرد التفكير في ذلك.",
 			"Egyptian Arabic Audio": "eca-1023-16.mp3",
 			"Standard Arabic Audio": "msa-1023-16.mp3"
 		},
@@ -171,7 +171,7 @@
 			"English": "Let's have some lunch; do you know of a great restaurant somewhere?",
 			"Word Count": 12,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "دعونا لدينا بعض الغداء. هل تعرف من مطعم كبير في مكان ما؟",
 			"Egyptian Arabic Audio": "eca-1023-17.mp3",
 			"Standard Arabic Audio": "msa-1023-17.mp3"
 		},
@@ -181,7 +181,7 @@
 			"English": "I'm hungry, too. What types of food sound good?",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انا ايضا جائع. ما هي أنواع المواد الغذائية السليمة؟",
 			"Egyptian Arabic Audio": "eca-1023-18.mp3",
 			"Standard Arabic Audio": "msa-1023-18.mp3"
 		},
@@ -191,7 +191,7 @@
 			"English": "Maybe just a quick sandwich, salad, or something.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ربما مجرد شطيرة سريعة، سلطة، أو شيء من هذا.",
 			"Egyptian Arabic Audio": "eca-1023-19.mp3",
 			"Standard Arabic Audio": "msa-1023-19.mp3"
 		},
@@ -201,7 +201,7 @@
 			"English": "I have a great idea of where you might like to go.",
 			"Word Count": 12,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لدي فكرة عظيمة عن المكان الذي قد ترغب في الذهاب إليه.",
 			"Egyptian Arabic Audio": "eca-1023-20.mp3",
 			"Standard Arabic Audio": "msa-1023-20.mp3"
 		},
@@ -211,7 +211,7 @@
 			"English": "Can we walk there?",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هل يمكننا السير هناك؟",
 			"Egyptian Arabic Audio": "eca-1023-21.mp3",
 			"Standard Arabic Audio": "msa-1023-21.mp3"
 		},
@@ -221,7 +221,7 @@
 			"English": "It's on the second floor. May I join you?",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "إنه في الطابق الثاني. هل يمكنني الانضمام إليكم؟",
 			"Egyptian Arabic Audio": "eca-1023-22.mp3",
 			"Standard Arabic Audio": "msa-1023-22.mp3"
 		},
@@ -231,7 +231,7 @@
 			"English": "Of course! Let's go.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "بالتاكيد! لنذهب.",
 			"Egyptian Arabic Audio": "eca-1023-23.mp3",
 			"Standard Arabic Audio": "msa-1023-23.mp3"
 		},
@@ -241,7 +241,7 @@
 			"English": "Let's hurry. I'm starving!",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "دعونا عجل. أنا جائع!",
 			"Egyptian Arabic Audio": "eca-1023-24.mp3",
 			"Standard Arabic Audio": "msa-1023-24.mp3"
 		}

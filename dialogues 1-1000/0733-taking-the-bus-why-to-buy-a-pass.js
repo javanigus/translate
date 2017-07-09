@@ -11,7 +11,7 @@
 			"English": "I'm going to commute to school by bus this year.",
 			"Word Count": 10,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "سأذهب إلى المدرسة بالحافلة هذا العام.",
 			"Egyptian Arabic Audio": "eca-0733-1.mp3",
 			"Standard Arabic Audio": "msa-0733-1.mp3"
 		},
@@ -21,7 +21,7 @@
 			"English": "You should consider getting a bus pass.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يجب عليك التفكير في الحصول على تمريرة حافلة.",
 			"Egyptian Arabic Audio": "eca-0733-2.mp3",
 			"Standard Arabic Audio": "msa-0733-2.mp3"
 		},
@@ -31,7 +31,7 @@
 			"English": "Why should I buy a bus pass?",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لماذا يجب شراء تذكرة الحافلة؟",
 			"Egyptian Arabic Audio": "eca-0733-3.mp3",
 			"Standard Arabic Audio": "msa-0733-3.mp3"
 		},
@@ -41,7 +41,7 @@
 			"English": "It's cheaper compared to manually paying every day.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انها أرخص بالمقارنة مع دفع يدويا كل يوم.",
 			"Egyptian Arabic Audio": "eca-0733-4.mp3",
 			"Standard Arabic Audio": "msa-0733-4.mp3"
 		},
@@ -51,7 +51,7 @@
 			"English": "What kind of pass do you recommend I get?",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أي نوع من التمريرات تنصحني بالحصول عليها؟",
 			"Egyptian Arabic Audio": "eca-0733-5.mp3",
 			"Standard Arabic Audio": "msa-0733-5.mp3"
 		},
@@ -61,7 +61,7 @@
 			"English": "You should get the monthly pass.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يجب أن تحصل على تصريح شهري.",
 			"Egyptian Arabic Audio": "eca-0733-6.mp3",
 			"Standard Arabic Audio": "msa-0733-6.mp3"
 		},
@@ -71,7 +71,7 @@
 			"English": "How much is a monthly pass?",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كم هو تمريرة شهرية؟",
 			"Egyptian Arabic Audio": "eca-0733-7.mp3",
 			"Standard Arabic Audio": "msa-0733-7.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "It is $64, but because you're a student, you can get a student discount.",
 			"Word Count": 14,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هو 64 $، ولكن لأنك طالب، يمكنك الحصول على خصم الطالب.",
 			"Egyptian Arabic Audio": "eca-0733-8.mp3",
 			"Standard Arabic Audio": "msa-0733-8.mp3"
 		},
@@ -91,7 +91,7 @@
 			"English": "How much will it be with a student discount?",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كم سيكون مع خصم الطالب؟",
 			"Egyptian Arabic Audio": "eca-0733-9.mp3",
 			"Standard Arabic Audio": "msa-0733-9.mp3"
 		},
@@ -101,7 +101,7 @@
 			"English": "It will be 35 dollars.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وسوف يكون 35 دولارا.",
 			"Egyptian Arabic Audio": "eca-0733-10.mp3",
 			"Standard Arabic Audio": "msa-0733-10.mp3"
 		},
@@ -111,7 +111,7 @@
 			"English": "Wow, that is cheap.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "نجاح باهر، وهذا هو رخيصة.",
 			"Egyptian Arabic Audio": "eca-0733-11.mp3",
 			"Standard Arabic Audio": "msa-0733-11.mp3"
 		},
@@ -121,7 +121,7 @@
 			"English": "You'll need your student ID.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ستحتاج إلى معرف الطالب.",
 			"Egyptian Arabic Audio": "eca-0733-12.mp3",
 			"Standard Arabic Audio": "msa-0733-12.mp3"
 		}

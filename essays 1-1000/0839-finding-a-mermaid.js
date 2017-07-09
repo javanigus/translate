@@ -9,7 +9,7 @@
 			"English": "\"Look!\" called out Clark.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "&quot;نظرة!&quot; ودعا كلارك.",
 			"Egyptian Arabic Audio": "eca-0839-1.mp3",
 			"Standard Arabic Audio": "msa-0839-1.mp3"
 		},
@@ -18,7 +18,7 @@
 			"English": "He pointed to something swimming in the distance.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وأشار إلى شيء السباحة في المسافة.",
 			"Egyptian Arabic Audio": "eca-0839-2.mp3",
 			"Standard Arabic Audio": "msa-0839-2.mp3"
 		},
@@ -27,7 +27,7 @@
 			"English": "\"Do you know what that is?\" he asked his son.",
 			"Word Count": 10,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "&quot;هل تعرف ما هذا؟&quot; سأل ابنه.",
 			"Egyptian Arabic Audio": "eca-0839-3.mp3",
 			"Standard Arabic Audio": "msa-0839-3.mp3"
 		},
@@ -36,7 +36,7 @@
 			"English": "\"A mermaid!\" shouted James, \"A real mermaid!\" Clark fell to ground laughing.",
 			"Word Count": 12,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "&quot;حورية بحر!&quot; صاح جيمس، &quot;حورية البحر الحقيقي!&quot; سقطت كلارك على الأرض يضحك.",
 			"Egyptian Arabic Audio": "eca-0839-4.mp3",
 			"Standard Arabic Audio": "msa-0839-4.mp3"
 		},
@@ -45,7 +45,7 @@
 			"English": "James was confused.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كان جيمس الخلط.",
 			"Egyptian Arabic Audio": "eca-0839-5.mp3",
 			"Standard Arabic Audio": "msa-0839-5.mp3"
 		},
@@ -54,7 +54,7 @@
 			"English": "He did not understand what was so funny.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لم يفهم ما كان مضحكا جدا.",
 			"Egyptian Arabic Audio": "eca-0839-6.mp3",
 			"Standard Arabic Audio": "msa-0839-6.mp3"
 		},
@@ -63,7 +63,7 @@
 			"English": "\"That's not a mermaid!\" explained Clark.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "&quot;هذا ليس حورية البحر!&quot; أوضح كلارك.",
 			"Egyptian Arabic Audio": "eca-0839-7.mp3",
 			"Standard Arabic Audio": "msa-0839-7.mp3"
 		},
@@ -72,7 +72,7 @@
 			"English": "\"That's called a manatee.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "&quot;هذا ما يسمى خروف البحر.",
 			"Egyptian Arabic Audio": "eca-0839-8.mp3",
 			"Standard Arabic Audio": "msa-0839-8.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "Their nickname is �sea-cows'.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لقبهم هو �sea الأبقار.",
 			"Egyptian Arabic Audio": "eca-0839-9.mp3",
 			"Standard Arabic Audio": "msa-0839-9.mp3"
 		},
@@ -90,7 +90,7 @@
 			"English": "\".",
 			"Word Count": 1,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "&quot;.",
 			"Egyptian Arabic Audio": "eca-0839-10.mp3",
 			"Standard Arabic Audio": "msa-0839-10.mp3"
 		}

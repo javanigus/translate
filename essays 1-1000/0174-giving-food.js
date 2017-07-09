@@ -9,7 +9,7 @@
 			"English": "She is in the car.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هي في السيارة.",
 			"Egyptian Arabic Audio": "eca-0174-1.mp3",
 			"Standard Arabic Audio": "msa-0174-1.mp3"
 		},
@@ -18,7 +18,7 @@
 			"English": "She waits for the car in front to move.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "تنتظر السيارة أمام التحرك.",
 			"Egyptian Arabic Audio": "eca-0174-2.mp3",
 			"Standard Arabic Audio": "msa-0174-2.mp3"
 		},
@@ -27,7 +27,7 @@
 			"English": "The traffic is bad.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "حركة المرور سيئة.",
 			"Egyptian Arabic Audio": "eca-0174-3.mp3",
 			"Standard Arabic Audio": "msa-0174-3.mp3"
 		},
@@ -36,7 +36,7 @@
 			"English": "A man on the street knocks on her window.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أداة تعريف إنجليزية غير معروفة، انسان، على الشارع، تدق، عن، رايتها، صمام.",
 			"Egyptian Arabic Audio": "eca-0174-4.mp3",
 			"Standard Arabic Audio": "msa-0174-4.mp3"
 		},
@@ -45,7 +45,7 @@
 			"English": "She opens the window.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "فتحت النافذة.",
 			"Egyptian Arabic Audio": "eca-0174-5.mp3",
 			"Standard Arabic Audio": "msa-0174-5.mp3"
 		},
@@ -54,7 +54,7 @@
 			"English": "He asks for money.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يسأل عن المال.",
 			"Egyptian Arabic Audio": "eca-0174-6.mp3",
 			"Standard Arabic Audio": "msa-0174-6.mp3"
 		},
@@ -63,7 +63,7 @@
 			"English": "She has no money.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ليس لديها مال.",
 			"Egyptian Arabic Audio": "eca-0174-7.mp3",
 			"Standard Arabic Audio": "msa-0174-7.mp3"
 		},
@@ -72,7 +72,7 @@
 			"English": "She gives him a sandwich.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انها تعطي له شطيرة.",
 			"Egyptian Arabic Audio": "eca-0174-8.mp3",
 			"Standard Arabic Audio": "msa-0174-8.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "He is so happy.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انه سعيد جدا.",
 			"Egyptian Arabic Audio": "eca-0174-9.mp3",
 			"Standard Arabic Audio": "msa-0174-9.mp3"
 		},
@@ -90,7 +90,7 @@
 			"English": "He asks another driver for money.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يسأل سائق آخر مقابل المال.",
 			"Egyptian Arabic Audio": "eca-0174-10.mp3",
 			"Standard Arabic Audio": "msa-0174-10.mp3"
 		}

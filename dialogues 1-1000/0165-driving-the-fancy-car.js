@@ -11,7 +11,7 @@
 			"English": "You got a new car!",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لقد حصلت على سيارة جديدة!",
 			"Egyptian Arabic Audio": "eca-0165-1.mp3",
 			"Standard Arabic Audio": "msa-0165-1.mp3"
 		},
@@ -21,7 +21,7 @@
 			"English": "How did you know?",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كيف عرفت؟",
 			"Egyptian Arabic Audio": "eca-0165-2.mp3",
 			"Standard Arabic Audio": "msa-0165-2.mp3"
 		},
@@ -31,7 +31,7 @@
 			"English": "I saw it in your driveway.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "رأيت ذلك في درب الخاص بك.",
 			"Egyptian Arabic Audio": "eca-0165-3.mp3",
 			"Standard Arabic Audio": "msa-0165-3.mp3"
 		},
@@ -41,7 +41,7 @@
 			"English": "What do you think of it?",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ما رأيك في ذلك؟",
 			"Egyptian Arabic Audio": "eca-0165-4.mp3",
 			"Standard Arabic Audio": "msa-0165-4.mp3"
 		},
@@ -51,7 +51,7 @@
 			"English": "It's really fancy.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انها حقا الهوى.",
 			"Egyptian Arabic Audio": "eca-0165-5.mp3",
 			"Standard Arabic Audio": "msa-0165-5.mp3"
 		},
@@ -61,7 +61,7 @@
 			"English": "Yeah, it was expensive.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "نعم، كان مكلفا.",
 			"Egyptian Arabic Audio": "eca-0165-6.mp3",
 			"Standard Arabic Audio": "msa-0165-6.mp3"
 		},
@@ -71,7 +71,7 @@
 			"English": "How much was it?",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كم كان ذلك؟",
 			"Egyptian Arabic Audio": "eca-0165-7.mp3",
 			"Standard Arabic Audio": "msa-0165-7.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "It was over $100,000.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وقد تجاوزت 000 100 دولار.",
 			"Egyptian Arabic Audio": "eca-0165-8.mp3",
 			"Standard Arabic Audio": "msa-0165-8.mp3"
 		},
@@ -91,7 +91,7 @@
 			"English": "That's four times as much as my car.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هذا أربع مرات بقدر سيارتي.",
 			"Egyptian Arabic Audio": "eca-0165-9.mp3",
 			"Standard Arabic Audio": "msa-0165-9.mp3"
 		},
@@ -101,7 +101,7 @@
 			"English": "It's a brand-name car.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انها سيارة ذات اسم العلامة التجارية.",
 			"Egyptian Arabic Audio": "eca-0165-10.mp3",
 			"Standard Arabic Audio": "msa-0165-10.mp3"
 		},
@@ -111,7 +111,7 @@
 			"English": "You must be pretty rich then.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يجب أن تكون غنية جدا بعد ذلك.",
 			"Egyptian Arabic Audio": "eca-0165-11.mp3",
 			"Standard Arabic Audio": "msa-0165-11.mp3"
 		},
@@ -121,7 +121,7 @@
 			"English": "No, I just really like fancy cars.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لا، أنا فقط أحب السيارات الفاخرة.",
 			"Egyptian Arabic Audio": "eca-0165-12.mp3",
 			"Standard Arabic Audio": "msa-0165-12.mp3"
 		}

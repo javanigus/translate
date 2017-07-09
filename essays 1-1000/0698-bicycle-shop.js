@@ -9,7 +9,7 @@
 			"English": "He went to a bicycle shop.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ذهب إلى متجر للدراجات الهوائية.",
 			"Egyptian Arabic Audio": "eca-0698-1.mp3",
 			"Standard Arabic Audio": "msa-0698-1.mp3"
 		},
@@ -18,7 +18,7 @@
 			"English": "He wanted to buy a bike.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أراد أن يشتري دراجة.",
 			"Egyptian Arabic Audio": "eca-0698-2.mp3",
 			"Standard Arabic Audio": "msa-0698-2.mp3"
 		},
@@ -27,7 +27,7 @@
 			"English": "His old bike was too old.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كانت الدراجة القديمة قديمة جدا.",
 			"Egyptian Arabic Audio": "eca-0698-3.mp3",
 			"Standard Arabic Audio": "msa-0698-3.mp3"
 		},
@@ -36,7 +36,7 @@
 			"English": "It had stopped working.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وقد توقفت عن العمل.",
 			"Egyptian Arabic Audio": "eca-0698-4.mp3",
 			"Standard Arabic Audio": "msa-0698-4.mp3"
 		},
@@ -45,7 +45,7 @@
 			"English": "He entered the bike shop.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "دخل متجر الدراجات.",
 			"Egyptian Arabic Audio": "eca-0698-5.mp3",
 			"Standard Arabic Audio": "msa-0698-5.mp3"
 		},
@@ -54,7 +54,7 @@
 			"English": "There were bikes all around.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كانت هناك دراجات في جميع أنحاء.",
 			"Egyptian Arabic Audio": "eca-0698-6.mp3",
 			"Standard Arabic Audio": "msa-0698-6.mp3"
 		},
@@ -63,7 +63,7 @@
 			"English": "There were bikes on the walls.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كانت هناك دراجات على الجدران.",
 			"Egyptian Arabic Audio": "eca-0698-7.mp3",
 			"Standard Arabic Audio": "msa-0698-7.mp3"
 		},
@@ -72,7 +72,7 @@
 			"English": "There were bikes in aisles.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كانت هناك الدراجات في الممرات.",
 			"Egyptian Arabic Audio": "eca-0698-8.mp3",
 			"Standard Arabic Audio": "msa-0698-8.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "Some bikes were even hung upside-down from the ceiling.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "بعض الدراجات كانت معلقة حتى رأسا على عقب من السقف.",
 			"Egyptian Arabic Audio": "eca-0698-9.mp3",
 			"Standard Arabic Audio": "msa-0698-9.mp3"
 		},
@@ -90,7 +90,7 @@
 			"English": "He knew what bike he wanted.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كان يعرف ما الدراجة أراد.",
 			"Egyptian Arabic Audio": "eca-0698-10.mp3",
 			"Standard Arabic Audio": "msa-0698-10.mp3"
 		},
@@ -99,7 +99,7 @@
 			"English": "He approached the sales man.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "واقترب من رجل المبيعات.",
 			"Egyptian Arabic Audio": "eca-0698-11.mp3",
 			"Standard Arabic Audio": "msa-0698-11.mp3"
 		},
@@ -108,7 +108,7 @@
 			"English": "He told him what bike he wanted.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وقال له ما الدراجة أراد.",
 			"Egyptian Arabic Audio": "eca-0698-12.mp3",
 			"Standard Arabic Audio": "msa-0698-12.mp3"
 		},
@@ -117,7 +117,7 @@
 			"English": "The sales man took him to a room.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أخذه رجل المبيعات إلى غرفة.",
 			"Egyptian Arabic Audio": "eca-0698-13.mp3",
 			"Standard Arabic Audio": "msa-0698-13.mp3"
 		},
@@ -126,7 +126,7 @@
 			"English": "There were more bikes in the room.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كان هناك المزيد من الدراجات في الغرفة.",
 			"Egyptian Arabic Audio": "eca-0698-14.mp3",
 			"Standard Arabic Audio": "msa-0698-14.mp3"
 		},
@@ -135,7 +135,7 @@
 			"English": "He liked what he saw.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كان يحب ما رآه.",
 			"Egyptian Arabic Audio": "eca-0698-15.mp3",
 			"Standard Arabic Audio": "msa-0698-15.mp3"
 		},
@@ -144,7 +144,7 @@
 			"English": "He quickly chose a bike to buy.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وسرعان ما اختار الدراجة لشراء.",
 			"Egyptian Arabic Audio": "eca-0698-16.mp3",
 			"Standard Arabic Audio": "msa-0698-16.mp3"
 		},
@@ -153,7 +153,7 @@
 			"English": "It was a small black bike.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كانت دراجة سوداء صغيرة.",
 			"Egyptian Arabic Audio": "eca-0698-17.mp3",
 			"Standard Arabic Audio": "msa-0698-17.mp3"
 		},
@@ -162,7 +162,7 @@
 			"English": "He paid for it and rode it home.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "دفع ثمنها وركب المنزل.",
 			"Egyptian Arabic Audio": "eca-0698-18.mp3",
 			"Standard Arabic Audio": "msa-0698-18.mp3"
 		},
@@ -171,7 +171,7 @@
 			"English": "It cost him five hundred dollars.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يكلفه خمسمائة دولار.",
 			"Egyptian Arabic Audio": "eca-0698-19.mp3",
 			"Standard Arabic Audio": "msa-0698-19.mp3"
 		},
@@ -180,7 +180,7 @@
 			"English": "It was worth the price.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كان يستحق الثمن.",
 			"Egyptian Arabic Audio": "eca-0698-20.mp3",
 			"Standard Arabic Audio": "msa-0698-20.mp3"
 		},
@@ -189,7 +189,7 @@
 			"English": "He used the bike for tricks and stunts.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كان يستخدم الدراجة للحيل والمثيرة.",
 			"Egyptian Arabic Audio": "eca-0698-21.mp3",
 			"Standard Arabic Audio": "msa-0698-21.mp3"
 		},
@@ -198,7 +198,7 @@
 			"English": "He never fell.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لم يسقط.",
 			"Egyptian Arabic Audio": "eca-0698-22.mp3",
 			"Standard Arabic Audio": "msa-0698-22.mp3"
 		},
@@ -207,7 +207,7 @@
 			"English": "He was a professional bike rider.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كان متسابق الدراجة المهنية.",
 			"Egyptian Arabic Audio": "eca-0698-23.mp3",
 			"Standard Arabic Audio": "msa-0698-23.mp3"
 		}

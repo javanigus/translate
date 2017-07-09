@@ -9,7 +9,7 @@
 			"English": "After only one trip, Carla had earned enough points for a free one-way ticket.",
 			"Word Count": 14,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وبعد رحلة واحدة فقط، حصلت كارلا على نقاط كافية للحصول على تذكرة مجانية في اتجاه واحد.",
 			"Egyptian Arabic Audio": "eca-2201-1.mp3",
 			"Standard Arabic Audio": "msa-2201-1.mp3"
 		},
@@ -18,7 +18,7 @@
 			"English": "That saved her almost $500.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنقذت لها ما يقرب من 500 $.",
 			"Egyptian Arabic Audio": "eca-2201-2.mp3",
 			"Standard Arabic Audio": "msa-2201-2.mp3"
 		},
@@ -27,7 +27,7 @@
 			"English": "It felt like traveling for free.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "شعرت مثل السفر مجانا.",
 			"Egyptian Arabic Audio": "eca-2201-3.mp3",
 			"Standard Arabic Audio": "msa-2201-3.mp3"
 		},
@@ -36,7 +36,7 @@
 			"English": "Carla decided to stay loyal to this airline.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "قررت كارلا أن تبقى موالية لهذه الشركة.",
 			"Egyptian Arabic Audio": "eca-2201-4.mp3",
 			"Standard Arabic Audio": "msa-2201-4.mp3"
 		}

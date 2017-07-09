@@ -11,7 +11,7 @@
 			"English": "What are you here for today?",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ما أنت هنا لهذا اليوم؟",
 			"Egyptian Arabic Audio": "eca-1292-2.mp3",
 			"Standard Arabic Audio": "msa-1292-2.mp3"
 		},
@@ -21,7 +21,7 @@
 			"English": "I need to fight this ticket that I got.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أحتاج لمحاربة هذه التذكرة التي حصلت عليها.",
 			"Egyptian Arabic Audio": "eca-1292-3.mp3",
 			"Standard Arabic Audio": "msa-1292-3.mp3"
 		},
@@ -31,7 +31,7 @@
 			"English": "Is the arresting officer here?",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هل ضابط الاعتقال هنا؟",
 			"Egyptian Arabic Audio": "eca-1292-4.mp3",
 			"Standard Arabic Audio": "msa-1292-4.mp3"
 		},
@@ -41,7 +41,7 @@
 			"English": "Yes, he is, Your Honor.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "نعم، هو، شرفك.",
 			"Egyptian Arabic Audio": "eca-1292-5.mp3",
 			"Standard Arabic Audio": "msa-1292-5.mp3"
 		},
@@ -51,7 +51,7 @@
 			"English": "Plead your case.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "نداء قضيتك.",
 			"Egyptian Arabic Audio": "eca-1292-6.mp3",
 			"Standard Arabic Audio": "msa-1292-6.mp3"
 		},
@@ -61,7 +61,7 @@
 			"English": "I was told by the officer that I ran a red light. That information isn't  true.",
 			"Word Count": 16,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أخبرني الضابط بأنني أدارت ضوءا أحمر. هذه المعلومات غير صحيحة.",
 			"Egyptian Arabic Audio": "eca-1292-7.mp3",
 			"Standard Arabic Audio": "msa-1292-7.mp3"
 		},
@@ -71,7 +71,7 @@
 			"English": "Why would the officer lie?",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لماذا يكمن الضابط؟",
 			"Egyptian Arabic Audio": "eca-1292-8.mp3",
 			"Standard Arabic Audio": "msa-1292-8.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "I'm not sure, but the signal had a camera on it.",
 			"Word Count": 11,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لست متأكدا، ولكن إشارة كان كاميرا على ذلك.",
 			"Egyptian Arabic Audio": "eca-1292-9.mp3",
 			"Standard Arabic Audio": "msa-1292-9.mp3"
 		},
@@ -91,7 +91,7 @@
 			"English": "Did the camera take a picture of your license plate?",
 			"Word Count": 10,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هل التقطت الكاميرا صورة لوحة ترخيصك؟",
 			"Egyptian Arabic Audio": "eca-1292-10.mp3",
 			"Standard Arabic Audio": "msa-1292-10.mp3"
 		},
@@ -101,7 +101,7 @@
 			"English": "No, my picture wasn't taken.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لا، لم يتم التقاط صورتي.",
 			"Egyptian Arabic Audio": "eca-1292-11.mp3",
 			"Standard Arabic Audio": "msa-1292-11.mp3"
 		},
@@ -111,7 +111,7 @@
 			"English": "There was no picture taken, so I'll let you go.",
 			"Word Count": 10,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لم يكن هناك صورة مأخوذة، لذلك سوف تتيح لك الذهاب.",
 			"Egyptian Arabic Audio": "eca-1292-12.mp3",
 			"Standard Arabic Audio": "msa-1292-12.mp3"
 		},
@@ -121,7 +121,7 @@
 			"English": "Thank you very much, Your Honor.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "شكرا جزيلا لكم، شرفكم.",
 			"Egyptian Arabic Audio": "eca-1292-13.mp3",
 			"Standard Arabic Audio": "msa-1292-13.mp3"
 		},
@@ -131,7 +131,7 @@
 			"English": "Why are you in court today?",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لماذا أنت في المحكمة اليوم؟",
 			"Egyptian Arabic Audio": "eca-1292-15.mp3",
 			"Standard Arabic Audio": "msa-1292-15.mp3"
 		},
@@ -141,7 +141,7 @@
 			"English": "I got a ticket, and I would like to fight it.",
 			"Word Count": 11,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "حصلت على تذكرة، وأود أن محاربته.",
 			"Egyptian Arabic Audio": "eca-1292-16.mp3",
 			"Standard Arabic Audio": "msa-1292-16.mp3"
 		},
@@ -151,7 +151,7 @@
 			"English": "Is the officer that pulled you over here today?",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هو الضابط الذي سحب لكم أكثر من هنا اليوم؟",
 			"Egyptian Arabic Audio": "eca-1292-17.mp3",
 			"Standard Arabic Audio": "msa-1292-17.mp3"
 		},
@@ -161,7 +161,7 @@
 			"English": "He's here.",
 			"Word Count": 2,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انه هنا.",
 			"Egyptian Arabic Audio": "eca-1292-18.mp3",
 			"Standard Arabic Audio": "msa-1292-18.mp3"
 		},
@@ -171,7 +171,7 @@
 			"English": "Tell me what happened.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أخبرني بما حدث.",
 			"Egyptian Arabic Audio": "eca-1292-19.mp3",
 			"Standard Arabic Audio": "msa-1292-19.mp3"
 		},
@@ -181,7 +181,7 @@
 			"English": "The officer says that I ran a red light, but I didn't.",
 			"Word Count": 12,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يقول الضابط إنني أدارت ضوءا أحمر، لكنني لم أكن.",
 			"Egyptian Arabic Audio": "eca-1292-20.mp3",
 			"Standard Arabic Audio": "msa-1292-20.mp3"
 		},
@@ -191,7 +191,7 @@
 			"English": "The officer wouldn't lie about that.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "الضابط لن يكذب عن ذلك.",
 			"Egyptian Arabic Audio": "eca-1292-21.mp3",
 			"Standard Arabic Audio": "msa-1292-21.mp3"
 		},
@@ -201,7 +201,7 @@
 			"English": "He must've, because the signal had a camera on top of it.",
 			"Word Count": 12,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وقال انه يجب، لأن إشارة كان كاميرا على أعلى من ذلك.",
 			"Egyptian Arabic Audio": "eca-1292-22.mp3",
 			"Standard Arabic Audio": "msa-1292-22.mp3"
 		},
@@ -211,7 +211,7 @@
 			"English": "There was no picture taken of your license plate?",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لم يكن هناك صورة مأخوذة من لوحة الترخيص الخاصة بك؟",
 			"Egyptian Arabic Audio": "eca-1292-23.mp3",
 			"Standard Arabic Audio": "msa-1292-23.mp3"
 		},
@@ -221,7 +221,7 @@
 			"English": "I don't believe it took my picture.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنا لا أعتقد أنها أخذت صورتي.",
 			"Egyptian Arabic Audio": "eca-1292-24.mp3",
 			"Standard Arabic Audio": "msa-1292-24.mp3"
 		},
@@ -231,7 +231,7 @@
 			"English": "I'm just going to let you go.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنا فقط سوف تتيح لك الذهاب.",
 			"Egyptian Arabic Audio": "eca-1292-25.mp3",
 			"Standard Arabic Audio": "msa-1292-25.mp3"
 		},
@@ -241,7 +241,7 @@
 			"English": "I appreciate that.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وأنا أقدر ذلك.",
 			"Egyptian Arabic Audio": "eca-1292-26.mp3",
 			"Standard Arabic Audio": "msa-1292-26.mp3"
 		},
@@ -251,7 +251,7 @@
 			"English": "What are you doing here today?",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ماذا تفعل هنا اليوم؟",
 			"Egyptian Arabic Audio": "eca-1292-28.mp3",
 			"Standard Arabic Audio": "msa-1292-28.mp3"
 		},
@@ -261,7 +261,7 @@
 			"English": "I would like to fight my ticket.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وأود أن مكافحة تذكرتي.",
 			"Egyptian Arabic Audio": "eca-1292-29.mp3",
 			"Standard Arabic Audio": "msa-1292-29.mp3"
 		},
@@ -271,7 +271,7 @@
 			"English": "Is the arresting officer in the courtroom today?",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هل ضابط الاعتقال في قاعة المحكمة اليوم؟",
 			"Egyptian Arabic Audio": "eca-1292-30.mp3",
 			"Standard Arabic Audio": "msa-1292-30.mp3"
 		},
@@ -281,7 +281,7 @@
 			"English": "Yes, the officer is here today.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "نعم، الضابط هنا اليوم.",
 			"Egyptian Arabic Audio": "eca-1292-31.mp3",
 			"Standard Arabic Audio": "msa-1292-31.mp3"
 		},
@@ -291,7 +291,7 @@
 			"English": "What's your case?",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ما هي حالتك؟",
 			"Egyptian Arabic Audio": "eca-1292-32.mp3",
 			"Standard Arabic Audio": "msa-1292-32.mp3"
 		},
@@ -301,7 +301,7 @@
 			"English": "I was pulled over for running a red light, but I never did.",
 			"Word Count": 13,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لقد سحبت على تشغيل ضوء أحمر، ولكن لم أفعل.",
 			"Egyptian Arabic Audio": "eca-1292-33.mp3",
 			"Standard Arabic Audio": "msa-1292-33.mp3"
 		},
@@ -311,7 +311,7 @@
 			"English": "Do you believe that the officer lied?",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هل تعتقد أن الضابط كذب؟",
 			"Egyptian Arabic Audio": "eca-1292-34.mp3",
 			"Standard Arabic Audio": "msa-1292-34.mp3"
 		},
@@ -321,7 +321,7 @@
 			"English": "There was a camera on the signal. So, he was obviously lying.",
 			"Word Count": 12,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كانت هناك كاميرا على الإشارة. لذلك، كان من الواضح الكذب.",
 			"Egyptian Arabic Audio": "eca-1292-35.mp3",
 			"Standard Arabic Audio": "msa-1292-35.mp3"
 		},
@@ -331,7 +331,7 @@
 			"English": "Your license plate was caught on camera?",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "تم التقاط لوحة الترخيص الخاصة بك على الكاميرا؟",
 			"Egyptian Arabic Audio": "eca-1292-36.mp3",
 			"Standard Arabic Audio": "msa-1292-36.mp3"
 		},
@@ -341,7 +341,7 @@
 			"English": "A picture of my license plate was never taken.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لم يتم التقاط صورة من لوحة ترخيص بلدي.",
 			"Egyptian Arabic Audio": "eca-1292-37.mp3",
 			"Standard Arabic Audio": "msa-1292-37.mp3"
 		},
@@ -351,7 +351,7 @@
 			"English": "Since there is no picture of your license plate on record, I'm going to let  you go.",
 			"Word Count": 17,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "منذ لا توجد صورة لوحة الترخيص الخاصة بك على السجل، وأنا ذاهب لتمكنك من الذهاب.",
 			"Egyptian Arabic Audio": "eca-1292-38.mp3",
 			"Standard Arabic Audio": "msa-1292-38.mp3"
 		},
@@ -361,7 +361,7 @@
 			"English": "Thank you. I'm glad that you believe me.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "شكرا. أنا سعيد أن كنت صدقوني.",
 			"Egyptian Arabic Audio": "eca-1292-39.mp3",
 			"Standard Arabic Audio": "msa-1292-39.mp3"
 		}

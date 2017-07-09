@@ -11,7 +11,7 @@
 			"English": "Everything is going wrong today.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كل شيء يسير الخطأ اليوم.",
 			"Egyptian Arabic Audio": "eca-0483-1.mp3",
 			"Standard Arabic Audio": "msa-0483-1.mp3"
 		},
@@ -21,7 +21,7 @@
 			"English": "Well, at least the weather is nice.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "حسنا، على الأقل الطقس لطيف.",
 			"Egyptian Arabic Audio": "eca-0483-2.mp3",
 			"Standard Arabic Audio": "msa-0483-2.mp3"
 		},
@@ -31,7 +31,7 @@
 			"English": "Oh, yeah. Imagine if it had rained like they said it would.",
 			"Word Count": 12,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "آه أجل. تخيل لو كان قد أمطر كما قالوا ذلك.",
 			"Egyptian Arabic Audio": "eca-0483-3.mp3",
 			"Standard Arabic Audio": "msa-0483-3.mp3"
 		},
@@ -41,7 +41,7 @@
 			"English": "I know, I would have gotten soaked walking home.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أعرف، كنت قد حصلت على منزل المشي غارقة.",
 			"Egyptian Arabic Audio": "eca-0483-4.mp3",
 			"Standard Arabic Audio": "msa-0483-4.mp3"
 		},
@@ -51,7 +51,7 @@
 			"English": "Yeah, I love when the sun is shining, but it's not too hot.",
 			"Word Count": 13,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "نعم، أنا أحب عندما تكون الشمس مشرقة، لكنها ليست ساخنة جدا.",
 			"Egyptian Arabic Audio": "eca-0483-5.mp3",
 			"Standard Arabic Audio": "msa-0483-5.mp3"
 		},
@@ -61,7 +61,7 @@
 			"English": "I do, too. This weather is pretty sweet.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انا افعل ذلك ايضا. هذا الطقس جميل جدا.",
 			"Egyptian Arabic Audio": "eca-0483-6.mp3",
 			"Standard Arabic Audio": "msa-0483-6.mp3"
 		},
@@ -71,7 +71,7 @@
 			"English": "I guess everything will be okay in the end.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أعتقد أن كل شيء سيكون بخير في النهاية.",
 			"Egyptian Arabic Audio": "eca-0483-7.mp3",
 			"Standard Arabic Audio": "msa-0483-7.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "So all you needed was some sunshine.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لذلك كل ما تحتاجه كان بعض أشعة الشمس.",
 			"Egyptian Arabic Audio": "eca-0483-8.mp3",
 			"Standard Arabic Audio": "msa-0483-8.mp3"
 		},
@@ -91,7 +91,7 @@
 			"English": "Yeah, I guess you were right � for once",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "نعم، أعتقد أنك كنت على حق � لمرة واحدة",
 			"Egyptian Arabic Audio": "eca-0483-9.mp3",
 			"Standard Arabic Audio": "msa-0483-9.mp3"
 		}

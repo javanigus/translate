@@ -9,7 +9,7 @@
 			"English": "Jackie loves the news.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "جاكي يحب الأخبار.",
 			"Egyptian Arabic Audio": "eca-1244-1.mp3",
 			"Standard Arabic Audio": "msa-1244-1.mp3"
 		},
@@ -18,7 +18,7 @@
 			"English": "She listens to the news on the radio.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "تستمع إلى الأخبار على الراديو.",
 			"Egyptian Arabic Audio": "eca-1244-2.mp3",
 			"Standard Arabic Audio": "msa-1244-2.mp3"
 		},
@@ -27,7 +27,7 @@
 			"English": "She watches the news on TV.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وهي تشاهد الأخبار على شاشة التلفزيون.",
 			"Egyptian Arabic Audio": "eca-1244-3.mp3",
 			"Standard Arabic Audio": "msa-1244-3.mp3"
 		},
@@ -36,7 +36,7 @@
 			"English": "She reads the news in the newspaper.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وتقرأ الأخبار في الصحيفة.",
 			"Egyptian Arabic Audio": "eca-1244-4.mp3",
 			"Standard Arabic Audio": "msa-1244-4.mp3"
 		},
@@ -45,7 +45,7 @@
 			"English": "She reads the news in magazines.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يقرأ الأخبار في المجلات.",
 			"Egyptian Arabic Audio": "eca-1244-5.mp3",
 			"Standard Arabic Audio": "msa-1244-5.mp3"
 		},
@@ -54,7 +54,7 @@
 			"English": "She loves the news because it is always new.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "تحب الأخبار لأنها دائما جديدة.",
 			"Egyptian Arabic Audio": "eca-1244-6.mp3",
 			"Standard Arabic Audio": "msa-1244-6.mp3"
 		},
@@ -63,7 +63,7 @@
 			"English": "It is always fresh.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هو دائما طازجة.",
 			"Egyptian Arabic Audio": "eca-1244-7.mp3",
 			"Standard Arabic Audio": "msa-1244-7.mp3"
 		},
@@ -72,7 +72,7 @@
 			"English": "It is always interesting.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ومن المثير للاهتمام دائما.",
 			"Egyptian Arabic Audio": "eca-1244-8.mp3",
 			"Standard Arabic Audio": "msa-1244-8.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "There is news every day.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هناك أخبار كل يوم.",
 			"Egyptian Arabic Audio": "eca-1244-9.mp3",
 			"Standard Arabic Audio": "msa-1244-9.mp3"
 		},
@@ -90,7 +90,7 @@
 			"English": "There is news in every country.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هناك أخبار في كل بلد.",
 			"Egyptian Arabic Audio": "eca-1244-10.mp3",
 			"Standard Arabic Audio": "msa-1244-10.mp3"
 		},
@@ -99,7 +99,7 @@
 			"English": "There is news in every state.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هناك أخبار في كل ولاية.",
 			"Egyptian Arabic Audio": "eca-1244-11.mp3",
 			"Standard Arabic Audio": "msa-1244-11.mp3"
 		},
@@ -108,7 +108,7 @@
 			"English": "There is news in every city.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هناك أخبار في كل مدينة.",
 			"Egyptian Arabic Audio": "eca-1244-12.mp3",
 			"Standard Arabic Audio": "msa-1244-12.mp3"
 		},
@@ -117,7 +117,7 @@
 			"English": "Everyone all over the world talks about the news every day.",
 			"Word Count": 11,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "الجميع في جميع أنحاء العالم يتحدث عن الأخبار كل يوم.",
 			"Egyptian Arabic Audio": "eca-1244-13.mp3",
 			"Standard Arabic Audio": "msa-1244-13.mp3"
 		},
@@ -126,7 +126,7 @@
 			"English": "But Jackie has a question about the news.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ولكن جاكي لديه سؤال حول الأخبار.",
 			"Egyptian Arabic Audio": "eca-1244-14.mp3",
 			"Standard Arabic Audio": "msa-1244-14.mp3"
 		},
@@ -135,7 +135,7 @@
 			"English": "Why is the news usually bad? Why isn't the news usually good? No one knows the answer.",
 			"Word Count": 17,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لماذا الأخبار عادة سيئة؟ لماذا ليست الأخبار جيدة عادة؟ لا أحد يعرف الجواب.",
 			"Egyptian Arabic Audio": "eca-1244-15.mp3",
 			"Standard Arabic Audio": "msa-1244-15.mp3"
 		}

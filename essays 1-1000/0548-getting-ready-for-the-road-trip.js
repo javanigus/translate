@@ -9,7 +9,7 @@
 			"English": "Her family is going to another state.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وعائلتها تذهب إلى دولة أخرى.",
 			"Egyptian Arabic Audio": "eca-0548-1.mp3",
 			"Standard Arabic Audio": "msa-0548-1.mp3"
 		},
@@ -18,7 +18,7 @@
 			"English": "It is far away.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انه بعيد جدا.",
 			"Egyptian Arabic Audio": "eca-0548-2.mp3",
 			"Standard Arabic Audio": "msa-0548-2.mp3"
 		},
@@ -27,7 +27,7 @@
 			"English": "It will take them 48 hours to get there.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وسوف يستغرق منهم 48 ساعة للوصول الى هناك.",
 			"Egyptian Arabic Audio": "eca-0548-3.mp3",
 			"Standard Arabic Audio": "msa-0548-3.mp3"
 		},
@@ -36,7 +36,7 @@
 			"English": "They have to prepare.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لديهم لإعداد.",
 			"Egyptian Arabic Audio": "eca-0548-4.mp3",
 			"Standard Arabic Audio": "msa-0548-4.mp3"
 		},
@@ -45,7 +45,7 @@
 			"English": "Her mom brings a map so that she knows where to go.",
 			"Word Count": 12,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أمها يجلب خريطة بحيث تعرف أين تذهب.",
 			"Egyptian Arabic Audio": "eca-0548-5.mp3",
 			"Standard Arabic Audio": "msa-0548-5.mp3"
 		},
@@ -54,7 +54,7 @@
 			"English": "Her dad buys sandwiches and bottles of water.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "والدها يشتري السندويشات وزجاجات من الماء.",
 			"Egyptian Arabic Audio": "eca-0548-6.mp3",
 			"Standard Arabic Audio": "msa-0548-6.mp3"
 		},
@@ -63,7 +63,7 @@
 			"English": "She brings a camera.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "إنها تجلب كاميرا.",
 			"Egyptian Arabic Audio": "eca-0548-7.mp3",
 			"Standard Arabic Audio": "msa-0548-7.mp3"
 		},
@@ -72,7 +72,7 @@
 			"English": "Now, they can remember this moment forever.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "الآن، يمكن أن نتذكر هذه اللحظة إلى الأبد.",
 			"Egyptian Arabic Audio": "eca-0548-8.mp3",
 			"Standard Arabic Audio": "msa-0548-8.mp3"
 		}

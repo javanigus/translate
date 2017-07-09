@@ -9,7 +9,7 @@
 			"English": "Her boyfriend is sweet.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "صديقها حلو.",
 			"Egyptian Arabic Audio": "eca-1070-1.mp3",
 			"Standard Arabic Audio": "msa-1070-1.mp3"
 		},
@@ -18,7 +18,7 @@
 			"English": "She loves him.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنها تحبه.",
 			"Egyptian Arabic Audio": "eca-1070-2.mp3",
 			"Standard Arabic Audio": "msa-1070-2.mp3"
 		},
@@ -27,7 +27,7 @@
 			"English": "He loves her.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هو يحبها.",
 			"Egyptian Arabic Audio": "eca-1070-3.mp3",
 			"Standard Arabic Audio": "msa-1070-3.mp3"
 		},
@@ -36,7 +36,7 @@
 			"English": "He carries her books.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يحمل كتبها.",
 			"Egyptian Arabic Audio": "eca-1070-4.mp3",
 			"Standard Arabic Audio": "msa-1070-4.mp3"
 		},
@@ -45,7 +45,7 @@
 			"English": "He sharpens her pencils.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يشحذ أقلامها.",
 			"Egyptian Arabic Audio": "eca-1070-5.mp3",
 			"Standard Arabic Audio": "msa-1070-5.mp3"
 		},
@@ -54,7 +54,7 @@
 			"English": "He helps her do her homework.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ويساعدها على القيام بواجباتها المنزلية.",
 			"Egyptian Arabic Audio": "eca-1070-6.mp3",
 			"Standard Arabic Audio": "msa-1070-6.mp3"
 		},
@@ -63,7 +63,7 @@
 			"English": "He takes her to dinner.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يأخذها إلى العشاء.",
 			"Egyptian Arabic Audio": "eca-1070-7.mp3",
 			"Standard Arabic Audio": "msa-1070-7.mp3"
 		},
@@ -72,7 +72,7 @@
 			"English": "He takes her to the movies.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يأخذها إلى الأفلام.",
 			"Egyptian Arabic Audio": "eca-1070-8.mp3",
 			"Standard Arabic Audio": "msa-1070-8.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "He gives presents to her.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انه يعطي الهدايا لها.",
 			"Egyptian Arabic Audio": "eca-1070-9.mp3",
 			"Standard Arabic Audio": "msa-1070-9.mp3"
 		},
@@ -90,7 +90,7 @@
 			"English": "He writes love letters to her.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يكتب رسائل الحب لها.",
 			"Egyptian Arabic Audio": "eca-1070-10.mp3",
 			"Standard Arabic Audio": "msa-1070-10.mp3"
 		},
@@ -99,7 +99,7 @@
 			"English": "He is too good to be true!.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انه جيد جدا ليكون صحيحا !.",
 			"Egyptian Arabic Audio": "eca-1070-11.mp3",
 			"Standard Arabic Audio": "msa-1070-11.mp3"
 		}

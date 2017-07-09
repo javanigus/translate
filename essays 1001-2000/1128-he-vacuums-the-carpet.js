@@ -9,7 +9,7 @@
 			"English": "He looks at the living room carpet.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انه ينظر الى السجاد غرفة المعيشة.",
 			"Egyptian Arabic Audio": "eca-1128-1.mp3",
 			"Standard Arabic Audio": "msa-1128-1.mp3"
 		},
@@ -18,7 +18,7 @@
 			"English": "It looks dirty.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يبدو قذرة.",
 			"Egyptian Arabic Audio": "eca-1128-2.mp3",
 			"Standard Arabic Audio": "msa-1128-2.mp3"
 		},
@@ -27,7 +27,7 @@
 			"English": "He sees strands of hair.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يرى خيوط الشعر.",
 			"Egyptian Arabic Audio": "eca-1128-3.mp3",
 			"Standard Arabic Audio": "msa-1128-3.mp3"
 		},
@@ -36,7 +36,7 @@
 			"English": "He sees food crumbs.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يرى فتات الطعام.",
 			"Egyptian Arabic Audio": "eca-1128-4.mp3",
 			"Standard Arabic Audio": "msa-1128-4.mp3"
 		},
@@ -45,7 +45,7 @@
 			"English": "He sees dust balls.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يرى كرات الغبار.",
 			"Egyptian Arabic Audio": "eca-1128-5.mp3",
 			"Standard Arabic Audio": "msa-1128-5.mp3"
 		},
@@ -54,7 +54,7 @@
 			"English": "He grabs the vacuum cleaner.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انه الاستيلاء على مكنسة كهربائية.",
 			"Egyptian Arabic Audio": "eca-1128-6.mp3",
 			"Standard Arabic Audio": "msa-1128-6.mp3"
 		},
@@ -63,7 +63,7 @@
 			"English": "He turns it on.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انه يتحول على.",
 			"Egyptian Arabic Audio": "eca-1128-7.mp3",
 			"Standard Arabic Audio": "msa-1128-7.mp3"
 		},
@@ -72,7 +72,7 @@
 			"English": "He vacuums the carpet back and forth.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انه الفراغ السجاد ذهابا وإيابا.",
 			"Egyptian Arabic Audio": "eca-1128-8.mp3",
 			"Standard Arabic Audio": "msa-1128-8.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "He turns off the vacuum cleaner.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انه يطفئ مكنسة كهربائية.",
 			"Egyptian Arabic Audio": "eca-1128-9.mp3",
 			"Standard Arabic Audio": "msa-1128-9.mp3"
 		},
@@ -90,7 +90,7 @@
 			"English": "He empties the canister.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انه يفرغ العلبة.",
 			"Egyptian Arabic Audio": "eca-1128-10.mp3",
 			"Standard Arabic Audio": "msa-1128-10.mp3"
 		},
@@ -99,7 +99,7 @@
 			"English": "The carpet is clean.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "السجادة نظيفة.",
 			"Egyptian Arabic Audio": "eca-1128-11.mp3",
 			"Standard Arabic Audio": "msa-1128-11.mp3"
 		}

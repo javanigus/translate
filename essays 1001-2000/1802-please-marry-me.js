@@ -9,7 +9,7 @@
 			"English": "\"Hmm.",
 			"Word Count": 1,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "&quot;هم.",
 			"Egyptian Arabic Audio": "eca-1802-1.mp3",
 			"Standard Arabic Audio": "msa-1802-1.mp3"
 		},
@@ -18,7 +18,7 @@
 			"English": "What did these men look like?\".",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ماذا بدا هؤلاء الرجال؟ &quot;.",
 			"Egyptian Arabic Audio": "eca-1802-2.mp3",
 			"Standard Arabic Audio": "msa-1802-2.mp3"
 		}

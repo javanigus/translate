@@ -9,7 +9,7 @@
 			"English": "She goes to the carnival.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "تذهب إلى الكرنفال.",
 			"Egyptian Arabic Audio": "eca-0607-1.mp3",
 			"Standard Arabic Audio": "msa-0607-1.mp3"
 		},
@@ -18,7 +18,7 @@
 			"English": "She enters the pie-eating contest.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وقالت انها يدخل في مسابقة فطيرة الأكل.",
 			"Egyptian Arabic Audio": "eca-0607-2.mp3",
 			"Standard Arabic Audio": "msa-0607-2.mp3"
 		},
@@ -27,7 +27,7 @@
 			"English": "She sits down on a chair.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وهي تجلس على كرسي.",
 			"Egyptian Arabic Audio": "eca-0607-3.mp3",
 			"Standard Arabic Audio": "msa-0607-3.mp3"
 		},
@@ -36,7 +36,7 @@
 			"English": "There are many pies in front of her.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هناك العديد من الفطائر أمامها.",
 			"Egyptian Arabic Audio": "eca-0607-4.mp3",
 			"Standard Arabic Audio": "msa-0607-4.mp3"
 		},
@@ -45,7 +45,7 @@
 			"English": "She cannot use her hands.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وقالت إنها لا يمكن استخدام يديها.",
 			"Egyptian Arabic Audio": "eca-0607-5.mp3",
 			"Standard Arabic Audio": "msa-0607-5.mp3"
 		},
@@ -54,7 +54,7 @@
 			"English": "She begins to eat.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وقالت انها تبدأ في تناول الطعام.",
 			"Egyptian Arabic Audio": "eca-0607-6.mp3",
 			"Standard Arabic Audio": "msa-0607-6.mp3"
 		},
@@ -63,7 +63,7 @@
 			"English": "She eats the apple pie first.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انها تأكل فطيرة التفاح أولا.",
 			"Egyptian Arabic Audio": "eca-0607-7.mp3",
 			"Standard Arabic Audio": "msa-0607-7.mp3"
 		},
@@ -72,7 +72,7 @@
 			"English": "It takes her five minutes to finish it.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يستغرقها خمس دقائق لإنهاء ذلك.",
 			"Egyptian Arabic Audio": "eca-0607-8.mp3",
 			"Standard Arabic Audio": "msa-0607-8.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "She eats ten more pies.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انها تأكل عشرة فطائر أخرى.",
 			"Egyptian Arabic Audio": "eca-0607-9.mp3",
 			"Standard Arabic Audio": "msa-0607-9.mp3"
 		}

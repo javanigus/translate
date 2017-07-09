@@ -11,7 +11,7 @@
 			"English": "I really feel like eating a salad.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنا حقا أشعر بأن أكل سلطة.",
 			"Egyptian Arabic Audio": "eca-1234-1.mp3",
 			"Standard Arabic Audio": "msa-1234-1.mp3"
 		},
@@ -21,7 +21,7 @@
 			"English": "What kind are you going to make?",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أي نوع أنت ذاهب لجعل؟",
 			"Egyptian Arabic Audio": "eca-1234-2.mp3",
 			"Standard Arabic Audio": "msa-1234-2.mp3"
 		},
@@ -31,7 +31,7 @@
 			"English": "I'm really not sure.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنا لست متأكدا حقا.",
 			"Egyptian Arabic Audio": "eca-1234-3.mp3",
 			"Standard Arabic Audio": "msa-1234-3.mp3"
 		},
@@ -41,7 +41,7 @@
 			"English": "I really like Caesar salads.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنا حقا مثل سلطة قيصر.",
 			"Egyptian Arabic Audio": "eca-1234-4.mp3",
 			"Standard Arabic Audio": "msa-1234-4.mp3"
 		},
@@ -51,7 +51,7 @@
 			"English": "Caesar salads are pretty good.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "سلطة قيصر جيدة جدا.",
 			"Egyptian Arabic Audio": "eca-1234-5.mp3",
 			"Standard Arabic Audio": "msa-1234-5.mp3"
 		},
@@ -61,7 +61,7 @@
 			"English": "What kind of salad do you want to make?",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أي نوع من السلطة هل تريد أن تجعل؟",
 			"Egyptian Arabic Audio": "eca-1234-6.mp3",
 			"Standard Arabic Audio": "msa-1234-6.mp3"
 		},
@@ -71,7 +71,7 @@
 			"English": "I want a salad with some chicken.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أريد سلطة مع بعض الدجاج.",
 			"Egyptian Arabic Audio": "eca-1234-7.mp3",
 			"Standard Arabic Audio": "msa-1234-7.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "I love chicken salads.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أحب سلطات الدجاج.",
 			"Egyptian Arabic Audio": "eca-1234-8.mp3",
 			"Standard Arabic Audio": "msa-1234-8.mp3"
 		},
@@ -91,7 +91,7 @@
 			"English": "I like my salads to have croutons, almonds, and shredded cheese.",
 			"Word Count": 11,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أحب سلطات بلدي أن يكون الصلصال واللوز والجبن تمزيقه.",
 			"Egyptian Arabic Audio": "eca-1234-9.mp3",
 			"Standard Arabic Audio": "msa-1234-9.mp3"
 		},
@@ -101,7 +101,7 @@
 			"English": "That sounds really tasty.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هذا يبدو لذيذ حقا.",
 			"Egyptian Arabic Audio": "eca-1234-10.mp3",
 			"Standard Arabic Audio": "msa-1234-10.mp3"
 		},
@@ -111,7 +111,7 @@
 			"English": "You should make a salad like that.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يجب أن تجعل سلطة من هذا القبيل.",
 			"Egyptian Arabic Audio": "eca-1234-11.mp3",
 			"Standard Arabic Audio": "msa-1234-11.mp3"
 		},
@@ -121,7 +121,7 @@
 			"English": "I think that I will.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أعتقد أنني سوف.",
 			"Egyptian Arabic Audio": "eca-1234-12.mp3",
 			"Standard Arabic Audio": "msa-1234-12.mp3"
 		},
@@ -131,7 +131,7 @@
 			"English": "I feel like I'm craving a salad.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أشعر أنني أشعر بالسلطة.",
 			"Egyptian Arabic Audio": "eca-1234-13.mp3",
 			"Standard Arabic Audio": "msa-1234-13.mp3"
 		},
@@ -141,7 +141,7 @@
 			"English": "What kind do you want?",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ما نوع هل تريد؟",
 			"Egyptian Arabic Audio": "eca-1234-14.mp3",
 			"Standard Arabic Audio": "msa-1234-14.mp3"
 		},
@@ -151,7 +151,7 @@
 			"English": "I have no idea.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ليس لدي أي فكرة.",
 			"Egyptian Arabic Audio": "eca-1234-15.mp3",
 			"Standard Arabic Audio": "msa-1234-15.mp3"
 		},
@@ -161,7 +161,7 @@
 			"English": "Caesar salads are good.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "سلطة قيصر جيدة.",
 			"Egyptian Arabic Audio": "eca-1234-16.mp3",
 			"Standard Arabic Audio": "msa-1234-16.mp3"
 		},
@@ -171,7 +171,7 @@
 			"English": "I like those too.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أحب تلك أيضا.",
 			"Egyptian Arabic Audio": "eca-1234-17.mp3",
 			"Standard Arabic Audio": "msa-1234-17.mp3"
 		},
@@ -181,7 +181,7 @@
 			"English": "What kind do you plan on making?",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أي نوع تنوي صنعه؟",
 			"Egyptian Arabic Audio": "eca-1234-18.mp3",
 			"Standard Arabic Audio": "msa-1234-18.mp3"
 		},
@@ -191,7 +191,7 @@
 			"English": "I'd really like a salad with chicken.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أود حقا سلطة مع الدجاج.",
 			"Egyptian Arabic Audio": "eca-1234-19.mp3",
 			"Standard Arabic Audio": "msa-1234-19.mp3"
 		},
@@ -201,7 +201,7 @@
 			"English": "Chicken salads are really good.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "سلطات الدجاج جيدة حقا.",
 			"Egyptian Arabic Audio": "eca-1234-20.mp3",
 			"Standard Arabic Audio": "msa-1234-20.mp3"
 		},
@@ -211,7 +211,7 @@
 			"English": "I always make my salads with shredded cheese, croutons, and almonds.",
 			"Word Count": 11,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنا دائما جعل السلطات بلدي مع الجبن تمزيقه، والخبز المحمص واللوز.",
 			"Egyptian Arabic Audio": "eca-1234-21.mp3",
 			"Standard Arabic Audio": "msa-1234-21.mp3"
 		},
@@ -221,7 +221,7 @@
 			"English": "That sounds like a great salad.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هذا يبدو وكأنه سلطة كبيرة.",
 			"Egyptian Arabic Audio": "eca-1234-22.mp3",
 			"Standard Arabic Audio": "msa-1234-22.mp3"
 		},
@@ -231,7 +231,7 @@
 			"English": "Why don't you put it in your salad?",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لماذا لا تضعه في سلطتك؟",
 			"Egyptian Arabic Audio": "eca-1234-23.mp3",
 			"Standard Arabic Audio": "msa-1234-23.mp3"
 		},
@@ -241,7 +241,7 @@
 			"English": "That sounds like a plan to me.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هذا يبدو وكأنه خطة بالنسبة لي.",
 			"Egyptian Arabic Audio": "eca-1234-24.mp3",
 			"Standard Arabic Audio": "msa-1234-24.mp3"
 		},
@@ -251,7 +251,7 @@
 			"English": "I really want to make a salad.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنا حقا تريد أن تجعل سلطة.",
 			"Egyptian Arabic Audio": "eca-1234-25.mp3",
 			"Standard Arabic Audio": "msa-1234-25.mp3"
 		},
@@ -261,7 +261,7 @@
 			"English": "Do you know what kind of salad that you want?",
 			"Word Count": 10,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هل تعرف أي نوع من السلطة التي تريد؟",
 			"Egyptian Arabic Audio": "eca-1234-26.mp3",
 			"Standard Arabic Audio": "msa-1234-26.mp3"
 		},
@@ -271,7 +271,7 @@
 			"English": "I'm not sure what kind that I want.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لست متأكدا من نوع ما أريد.",
 			"Egyptian Arabic Audio": "eca-1234-27.mp3",
 			"Standard Arabic Audio": "msa-1234-27.mp3"
 		},
@@ -281,7 +281,7 @@
 			"English": "I usually make a Caesar salad.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وعادة ما جعل سلطة قيصر.",
 			"Egyptian Arabic Audio": "eca-1234-28.mp3",
 			"Standard Arabic Audio": "msa-1234-28.mp3"
 		},
@@ -291,7 +291,7 @@
 			"English": "Those taste really good.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "تلك الطعم جيدة حقا.",
 			"Egyptian Arabic Audio": "eca-1234-29.mp3",
 			"Standard Arabic Audio": "msa-1234-29.mp3"
 		},
@@ -301,7 +301,7 @@
 			"English": "Which kind of salad are you going to make?",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أي نوع من السلطة أنت ذاهب لجعل؟",
 			"Egyptian Arabic Audio": "eca-1234-30.mp3",
 			"Standard Arabic Audio": "msa-1234-30.mp3"
 		},
@@ -311,7 +311,7 @@
 			"English": "I want a chicken salad.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أريد سلطة الدجاج.",
 			"Egyptian Arabic Audio": "eca-1234-31.mp3",
 			"Standard Arabic Audio": "msa-1234-31.mp3"
 		},
@@ -321,7 +321,7 @@
 			"English": "I enjoy chicken salads.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنا أستمتع سلطة الدجاج.",
 			"Egyptian Arabic Audio": "eca-1234-32.mp3",
 			"Standard Arabic Audio": "msa-1234-32.mp3"
 		},
@@ -331,7 +331,7 @@
 			"English": "I like salads with croutons, almonds, and shredded cheese.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أحب السلطات مع الصلصات واللوز والجبن الممزق.",
 			"Egyptian Arabic Audio": "eca-1234-33.mp3",
 			"Standard Arabic Audio": "msa-1234-33.mp3"
 		},
@@ -341,7 +341,7 @@
 			"English": "I really like how that sounds.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنا حقا أحب كيف أن الأصوات.",
 			"Egyptian Arabic Audio": "eca-1234-34.mp3",
 			"Standard Arabic Audio": "msa-1234-34.mp3"
 		},
@@ -351,7 +351,7 @@
 			"English": "Why don't you make a salad like that?",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لماذا لا تجعل سلطة من هذا القبيل؟",
 			"Egyptian Arabic Audio": "eca-1234-35.mp3",
 			"Standard Arabic Audio": "msa-1234-35.mp3"
 		},
@@ -361,7 +361,7 @@
 			"English": "I'm going to do that then.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "سأفعل ذلك بعد ذلك.",
 			"Egyptian Arabic Audio": "eca-1234-36.mp3",
 			"Standard Arabic Audio": "msa-1234-36.mp3"
 		}

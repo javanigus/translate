@@ -11,7 +11,7 @@
 			"English": "What are you doing here?",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ما الذي تفعله هنا؟",
 			"Egyptian Arabic Audio": "eca-1208-1.mp3",
 			"Standard Arabic Audio": "msa-1208-1.mp3"
 		},
@@ -21,7 +21,7 @@
 			"English": "I'm just shopping.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنا مجرد التسوق.",
 			"Egyptian Arabic Audio": "eca-1208-2.mp3",
 			"Standard Arabic Audio": "msa-1208-2.mp3"
 		},
@@ -31,7 +31,7 @@
 			"English": "What are you shopping for?",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ما كنت تسوق ل؟",
 			"Egyptian Arabic Audio": "eca-1208-3.mp3",
 			"Standard Arabic Audio": "msa-1208-3.mp3"
 		},
@@ -41,7 +41,7 @@
 			"English": "Some new clothes. How about you?",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "بعض الملابس الجديدة. ماذا عنك؟",
 			"Egyptian Arabic Audio": "eca-1208-4.mp3",
 			"Standard Arabic Audio": "msa-1208-4.mp3"
 		},
@@ -51,7 +51,7 @@
 			"English": "Same here.",
 			"Word Count": 2,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كذلك هنا.",
 			"Egyptian Arabic Audio": "eca-1208-5.mp3",
 			"Standard Arabic Audio": "msa-1208-5.mp3"
 		},
@@ -61,7 +61,7 @@
 			"English": "Have you found anything nice yet?",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هل وجدت أي شيء لطيف حتى الآن؟",
 			"Egyptian Arabic Audio": "eca-1208-6.mp3",
 			"Standard Arabic Audio": "msa-1208-6.mp3"
 		},
@@ -71,7 +71,7 @@
 			"English": "I found a few pairs of pants.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لقد وجدت بضعة أزواج من السراويل.",
 			"Egyptian Arabic Audio": "eca-1208-7.mp3",
 			"Standard Arabic Audio": "msa-1208-7.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "Where'd you get those?",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أين تحصل على تلك؟",
 			"Egyptian Arabic Audio": "eca-1208-8.mp3",
 			"Standard Arabic Audio": "msa-1208-8.mp3"
 		},
@@ -91,7 +91,7 @@
 			"English": "I found them at JCPennies.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وجدت لهم في جسبنيس.",
 			"Egyptian Arabic Audio": "eca-1208-9.mp3",
 			"Standard Arabic Audio": "msa-1208-9.mp3"
 		},
@@ -101,7 +101,7 @@
 			"English": "Those are really cute.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "تلك هي لطيف حقا.",
 			"Egyptian Arabic Audio": "eca-1208-10.mp3",
 			"Standard Arabic Audio": "msa-1208-10.mp3"
 		},
@@ -111,7 +111,7 @@
 			"English": "Do you want me to show you where I found them?",
 			"Word Count": 11,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هل تريد مني أن أراك أين وجدت لهم؟",
 			"Egyptian Arabic Audio": "eca-1208-11.mp3",
 			"Standard Arabic Audio": "msa-1208-11.mp3"
 		},
@@ -121,7 +121,7 @@
 			"English": "I would like that. Thank you.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "سوف احب ذلك. شكرا.",
 			"Egyptian Arabic Audio": "eca-1208-12.mp3",
 			"Standard Arabic Audio": "msa-1208-12.mp3"
 		},
@@ -131,7 +131,7 @@
 			"English": "What are you doing here today?",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ماذا تفعل هنا اليوم؟",
 			"Egyptian Arabic Audio": "eca-1208-13.mp3",
 			"Standard Arabic Audio": "msa-1208-13.mp3"
 		},
@@ -141,7 +141,7 @@
 			"English": "I felt like doing some shopping.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "شعرت مثل القيام ببعض التسوق.",
 			"Egyptian Arabic Audio": "eca-1208-14.mp3",
 			"Standard Arabic Audio": "msa-1208-14.mp3"
 		},
@@ -151,7 +151,7 @@
 			"English": "What are you going to buy?",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "مادا ستشتري؟",
 			"Egyptian Arabic Audio": "eca-1208-15.mp3",
 			"Standard Arabic Audio": "msa-1208-15.mp3"
 		},
@@ -161,7 +161,7 @@
 			"English": "I need some new clothes. What about you?",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أحتاج إلى بعض الملابس الجديدة. ماذا عنك؟",
 			"Egyptian Arabic Audio": "eca-1208-16.mp3",
 			"Standard Arabic Audio": "msa-1208-16.mp3"
 		},
@@ -171,7 +171,7 @@
 			"English": "I'm trying tofind some clothes myself.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أحاول توفيند بعض الملابس بنفسي.",
 			"Egyptian Arabic Audio": "eca-1208-17.mp3",
 			"Standard Arabic Audio": "msa-1208-17.mp3"
 		},
@@ -181,7 +181,7 @@
 			"English": "Have you found anything that you like?",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هل وجدت أي شيء تريد؟",
 			"Egyptian Arabic Audio": "eca-1208-18.mp3",
 			"Standard Arabic Audio": "msa-1208-18.mp3"
 		},
@@ -191,7 +191,7 @@
 			"English": "I got a new pair of pants.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "حصلت على زوج جديد من السراويل.",
 			"Egyptian Arabic Audio": "eca-1208-19.mp3",
 			"Standard Arabic Audio": "msa-1208-19.mp3"
 		},
@@ -201,7 +201,7 @@
 			"English": "Those are cute. Where'd you get them.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "تلك هي لطيف. أين كنت تحصل عليها.",
 			"Egyptian Arabic Audio": "eca-1208-20.mp3",
 			"Standard Arabic Audio": "msa-1208-20.mp3"
 		},
@@ -211,7 +211,7 @@
 			"English": "I bought them at JCPennies.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "اشتريتها في جسبنيس.",
 			"Egyptian Arabic Audio": "eca-1208-21.mp3",
 			"Standard Arabic Audio": "msa-1208-21.mp3"
 		},
@@ -221,7 +221,7 @@
 			"English": "I really like those.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنا حقا أحب تلك.",
 			"Egyptian Arabic Audio": "eca-1208-22.mp3",
 			"Standard Arabic Audio": "msa-1208-22.mp3"
 		},
@@ -231,7 +231,7 @@
 			"English": "I'll show you where to get them at.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "سوف تظهر لك أين يمكن الحصول عليها في.",
 			"Egyptian Arabic Audio": "eca-1208-23.mp3",
 			"Standard Arabic Audio": "msa-1208-23.mp3"
 		},
@@ -241,7 +241,7 @@
 			"English": "That would be great.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هذا سيكون رائع.",
 			"Egyptian Arabic Audio": "eca-1208-24.mp3",
 			"Standard Arabic Audio": "msa-1208-24.mp3"
 		},
@@ -251,7 +251,7 @@
 			"English": "Funny seeing you here.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "مضحك رؤيتكم هنا.",
 			"Egyptian Arabic Audio": "eca-1208-25.mp3",
 			"Standard Arabic Audio": "msa-1208-25.mp3"
 		},
@@ -261,7 +261,7 @@
 			"English": "I'm doing a little bit of shopping.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنا أفعل قليلا من التسوق.",
 			"Egyptian Arabic Audio": "eca-1208-26.mp3",
 			"Standard Arabic Audio": "msa-1208-26.mp3"
 		},
@@ -271,7 +271,7 @@
 			"English": "What are you looking for?",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "عما تبحث؟",
 			"Egyptian Arabic Audio": "eca-1208-27.mp3",
 			"Standard Arabic Audio": "msa-1208-27.mp3"
 		},
@@ -281,7 +281,7 @@
 			"English": "I'm looking for new clothes. How about you?",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أبحث عن ملابس جديدة. ماذا عنك؟",
 			"Egyptian Arabic Audio": "eca-1208-28.mp3",
 			"Standard Arabic Audio": "msa-1208-28.mp3"
 		},
@@ -291,7 +291,7 @@
 			"English": "I'm shopping for clothes too.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنا التسوق للملابس أيضا.",
 			"Egyptian Arabic Audio": "eca-1208-29.mp3",
 			"Standard Arabic Audio": "msa-1208-29.mp3"
 		},
@@ -301,7 +301,7 @@
 			"English": "What have you bought so far?",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ما الذي اشتريته حتى الآن؟",
 			"Egyptian Arabic Audio": "eca-1208-30.mp3",
 			"Standard Arabic Audio": "msa-1208-30.mp3"
 		},
@@ -311,7 +311,7 @@
 			"English": "I got these new pants.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "حصلت على هذه السراويل الجديدة.",
 			"Egyptian Arabic Audio": "eca-1208-31.mp3",
 			"Standard Arabic Audio": "msa-1208-31.mp3"
 		},
@@ -321,7 +321,7 @@
 			"English": "Where'd you find those at?",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أين تجد تلك في؟",
 			"Egyptian Arabic Audio": "eca-1208-32.mp3",
 			"Standard Arabic Audio": "msa-1208-32.mp3"
 		},
@@ -331,7 +331,7 @@
 			"English": "I got them at JCPennies.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "حصلت عليها في جسبنيس.",
 			"Egyptian Arabic Audio": "eca-1208-33.mp3",
 			"Standard Arabic Audio": "msa-1208-33.mp3"
 		},
@@ -341,7 +341,7 @@
 			"English": "Those are beautiful.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "تلك جميلة.",
 			"Egyptian Arabic Audio": "eca-1208-34.mp3",
 			"Standard Arabic Audio": "msa-1208-34.mp3"
 		},
@@ -351,7 +351,7 @@
 			"English": "I can show you where to find them, if you'd like.",
 			"Word Count": 11,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أستطيع أن تظهر لك أين تجد لهم، إذا كنت ترغب.",
 			"Egyptian Arabic Audio": "eca-1208-35.mp3",
 			"Standard Arabic Audio": "msa-1208-35.mp3"
 		},
@@ -361,7 +361,7 @@
 			"English": "Sure. Thanks a lot.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "بالتأكيد. شكرا جزيلا.",
 			"Egyptian Arabic Audio": "eca-1208-36.mp3",
 			"Standard Arabic Audio": "msa-1208-36.mp3"
 		}

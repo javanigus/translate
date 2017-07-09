@@ -9,7 +9,7 @@
 			"English": "He wants to get something for his teacher.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انه يريد الحصول على شيء لمعلمه.",
 			"Egyptian Arabic Audio": "eca-0048-1.mp3",
 			"Standard Arabic Audio": "msa-0048-1.mp3"
 		},
@@ -18,7 +18,7 @@
 			"English": "He has no money though.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ليس لديه المال على الرغم من.",
 			"Egyptian Arabic Audio": "eca-0048-2.mp3",
 			"Standard Arabic Audio": "msa-0048-2.mp3"
 		},
@@ -27,7 +27,7 @@
 			"English": "He gets creative.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انه يحصل على الإبداع.",
 			"Egyptian Arabic Audio": "eca-0048-3.mp3",
 			"Standard Arabic Audio": "msa-0048-3.mp3"
 		},
@@ -36,7 +36,7 @@
 			"English": "He goes to his backyard.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يذهب إلى الفناء الخلفي له.",
 			"Egyptian Arabic Audio": "eca-0048-4.mp3",
 			"Standard Arabic Audio": "msa-0048-4.mp3"
 		},
@@ -45,7 +45,7 @@
 			"English": "He looks at his rose bush.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وهو ينظر إلى بوش روز.",
 			"Egyptian Arabic Audio": "eca-0048-5.mp3",
 			"Standard Arabic Audio": "msa-0048-5.mp3"
 		},
@@ -54,7 +54,7 @@
 			"English": "He cuts a nice, red one.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انه يقطع لطيفة، واحدة حمراء.",
 			"Egyptian Arabic Audio": "eca-0048-6.mp3",
 			"Standard Arabic Audio": "msa-0048-6.mp3"
 		},
@@ -63,7 +63,7 @@
 			"English": "He puts it in a vase.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يضعها في مزهرية.",
 			"Egyptian Arabic Audio": "eca-0048-7.mp3",
 			"Standard Arabic Audio": "msa-0048-7.mp3"
 		},
@@ -72,7 +72,7 @@
 			"English": "He pours some water in the vase.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يصب بعض الماء في الزهرية.",
 			"Egyptian Arabic Audio": "eca-0048-8.mp3",
 			"Standard Arabic Audio": "msa-0048-8.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "His gift is complete.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هديته كاملة.",
 			"Egyptian Arabic Audio": "eca-0048-9.mp3",
 			"Standard Arabic Audio": "msa-0048-9.mp3"
 		}

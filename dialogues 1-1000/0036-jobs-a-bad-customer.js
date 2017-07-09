@@ -11,7 +11,7 @@
 			"English": "Hi! How are you doing today?",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "مرحبا! كيف حالك اليوم؟",
 			"Egyptian Arabic Audio": "eca-0036-1.mp3",
 			"Standard Arabic Audio": "msa-0036-1.mp3"
 		},
@@ -21,7 +21,7 @@
 			"English": "I am fine.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنا بخير.",
 			"Egyptian Arabic Audio": "eca-0036-2.mp3",
 			"Standard Arabic Audio": "msa-0036-2.mp3"
 		},
@@ -31,7 +31,7 @@
 			"English": "Just so you know, we have a huge sale today.",
 			"Word Count": 10,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "فقط حتى تعرف، لدينا بيع ضخمة اليوم.",
 			"Egyptian Arabic Audio": "eca-0036-3.mp3",
 			"Standard Arabic Audio": "msa-0036-3.mp3"
 		},
@@ -41,7 +41,7 @@
 			"English": "Good to know.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "جيد ان تعلم.",
 			"Egyptian Arabic Audio": "eca-0036-4.mp3",
 			"Standard Arabic Audio": "msa-0036-4.mp3"
 		},
@@ -51,7 +51,7 @@
 			"English": "We also have dresses that just came in today.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لدينا أيضا الفساتين التي جاءت للتو في اليوم.",
 			"Egyptian Arabic Audio": "eca-0036-5.mp3",
 			"Standard Arabic Audio": "msa-0036-5.mp3"
 		},
@@ -61,7 +61,7 @@
 			"English": "Can you please stop talking?",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هل يمكنك التوقف عن الكلام؟",
 			"Egyptian Arabic Audio": "eca-0036-6.mp3",
 			"Standard Arabic Audio": "msa-0036-6.mp3"
 		},
@@ -71,7 +71,7 @@
 			"English": "I beg your pardon?",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "استسمحك عذرا؟",
 			"Egyptian Arabic Audio": "eca-0036-7.mp3",
 			"Standard Arabic Audio": "msa-0036-7.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "I just want to shop, but you keep talking.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أريد فقط أن تسوق، لكنك تواصل الحديث.",
 			"Egyptian Arabic Audio": "eca-0036-8.mp3",
 			"Standard Arabic Audio": "msa-0036-8.mp3"
 		},
@@ -91,7 +91,7 @@
 			"English": "I'm just doing my job.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنا مجرد القيام بوظيفتي.",
 			"Egyptian Arabic Audio": "eca-0036-9.mp3",
 			"Standard Arabic Audio": "msa-0036-9.mp3"
 		},
@@ -101,7 +101,7 @@
 			"English": "You're not very good at doing your job.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنت لست جيدا جدا في القيام بعملك.",
 			"Egyptian Arabic Audio": "eca-0036-10.mp3",
 			"Standard Arabic Audio": "msa-0036-10.mp3"
 		},
@@ -111,7 +111,7 @@
 			"English": "It's my job to tell you about our sale.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انها وظيفتي أن أقول لكم عن بيعنا.",
 			"Egyptian Arabic Audio": "eca-0036-11.mp3",
 			"Standard Arabic Audio": "msa-0036-11.mp3"
 		},
@@ -121,7 +121,7 @@
 			"English": "You're just really annoying.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كنت مجرد مزعج حقا.",
 			"Egyptian Arabic Audio": "eca-0036-12.mp3",
 			"Standard Arabic Audio": "msa-0036-12.mp3"
 		}

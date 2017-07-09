@@ -9,7 +9,7 @@
 			"English": "He stands in front of a supermarket.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وهو يقف أمام سوبر ماركت.",
 			"Egyptian Arabic Audio": "eca-0120-1.mp3",
 			"Standard Arabic Audio": "msa-0120-1.mp3"
 		},
@@ -18,7 +18,7 @@
 			"English": "He stands behind a table.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يقف وراء طاولة.",
 			"Egyptian Arabic Audio": "eca-0120-2.mp3",
 			"Standard Arabic Audio": "msa-0120-2.mp3"
 		},
@@ -27,7 +27,7 @@
 			"English": "His chocolate is on the table.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "الشوكولاته على الطاولة.",
 			"Egyptian Arabic Audio": "eca-0120-3.mp3",
 			"Standard Arabic Audio": "msa-0120-3.mp3"
 		},
@@ -36,7 +36,7 @@
 			"English": "He has four boxes of chocolate.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لديه أربعة صناديق من الشوكولاته.",
 			"Egyptian Arabic Audio": "eca-0120-4.mp3",
 			"Standard Arabic Audio": "msa-0120-4.mp3"
 		},
@@ -45,7 +45,7 @@
 			"English": "They are all different kinds.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هم جميعا أنواع مختلفة.",
 			"Egyptian Arabic Audio": "eca-0120-5.mp3",
 			"Standard Arabic Audio": "msa-0120-5.mp3"
 		},
@@ -54,7 +54,7 @@
 			"English": "One chocolate bar costs $1.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يكلف قضيب شوكولاتة دولار واحد.",
 			"Egyptian Arabic Audio": "eca-0120-6.mp3",
 			"Standard Arabic Audio": "msa-0120-6.mp3"
 		},
@@ -63,7 +63,7 @@
 			"English": "00.",
 			"Word Count": 1,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "00.",
 			"Egyptian Arabic Audio": "eca-0120-7.mp3",
 			"Standard Arabic Audio": "msa-0120-7.mp3"
 		},
@@ -72,7 +72,7 @@
 			"English": "He is fundraising for the soccer team.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وهو جمع التبرعات لفريق كرة القدم.",
 			"Egyptian Arabic Audio": "eca-0120-8.mp3",
 			"Standard Arabic Audio": "msa-0120-8.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "A family buys one whole box.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "عائلة تشتري مربع واحد كامل.",
 			"Egyptian Arabic Audio": "eca-0120-9.mp3",
 			"Standard Arabic Audio": "msa-0120-9.mp3"
 		},
@@ -90,7 +90,7 @@
 			"English": "It costs $40.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يكلف 40 دولارا.",
 			"Egyptian Arabic Audio": "eca-0120-10.mp3",
 			"Standard Arabic Audio": "msa-0120-10.mp3"
 		}

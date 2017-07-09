@@ -11,7 +11,7 @@
 			"English": "Hello, my name is Angela Davis.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "مرحبا، اسمي أنجيلا ديفيس.",
 			"Egyptian Arabic Audio": "eca-0745-1.mp3",
 			"Standard Arabic Audio": "msa-0745-1.mp3"
 		},
@@ -21,7 +21,7 @@
 			"English": "Good morning, Angela. I am Dick Williams. I'll be interviewing you today.",
 			"Word Count": 12,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "صباح الخير، أنجيلا. أنا ديك ويليامز. سأقوم بمقابلتك اليوم.",
 			"Egyptian Arabic Audio": "eca-0745-2.mp3",
 			"Standard Arabic Audio": "msa-0745-2.mp3"
 		},
@@ -31,7 +31,7 @@
 			"English": "Good morning, Mr. Williams.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "صباح الخير، السيد وليامز.",
 			"Egyptian Arabic Audio": "eca-0745-3.mp3",
 			"Standard Arabic Audio": "msa-0745-3.mp3"
 		},
@@ -41,7 +41,7 @@
 			"English": "So, what do you know about our company, Angela?",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لذلك، ماذا تعرف عن شركتنا، أنجيلا؟",
 			"Egyptian Arabic Audio": "eca-0745-4.mp3",
 			"Standard Arabic Audio": "msa-0745-4.mp3"
 		},
@@ -51,7 +51,7 @@
 			"English": "Well, I did a little Internet research last night, and I know the company is growing.",
 			"Word Count": 16,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "حسنا، فعلت القليل من الأبحاث على الإنترنت الليلة الماضية، وأنا أعلم أن الشركة تنمو.",
 			"Egyptian Arabic Audio": "eca-0745-5.mp3",
 			"Standard Arabic Audio": "msa-0745-5.mp3"
 		},
@@ -61,7 +61,7 @@
 			"English": "Excellent! What else?",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ممتاز! ماذا بعد؟",
 			"Egyptian Arabic Audio": "eca-0745-6.mp3",
 			"Standard Arabic Audio": "msa-0745-6.mp3"
 		},
@@ -71,7 +71,7 @@
 			"English": "I learned the company is a leading seller of office technology equipment.",
 			"Word Count": 12,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "تعلمت أن الشركة هي البائع الرئيسي للمعدات تكنولوجيا المكاتب.",
 			"Egyptian Arabic Audio": "eca-0745-7.mp3",
 			"Standard Arabic Audio": "msa-0745-7.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "That's good, Angela. I'm happy to see you taking the time to do research.",
 			"Word Count": 14,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هذا جيد، أنجيلا. أنا سعيد لرؤيتك أخذ الوقت لإجراء البحوث.",
 			"Egyptian Arabic Audio": "eca-0745-8.mp3",
 			"Standard Arabic Audio": "msa-0745-8.mp3"
 		},
@@ -91,7 +91,7 @@
 			"English": "Thank you, Mr. Williams.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "شكرا لك، السيد ويليامز.",
 			"Egyptian Arabic Audio": "eca-0745-9.mp3",
 			"Standard Arabic Audio": "msa-0745-9.mp3"
 		},
@@ -101,7 +101,7 @@
 			"English": "I am going to recommend you for the job.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنا ذاهب إلى أن يوصي لك لهذا المنصب.",
 			"Egyptian Arabic Audio": "eca-0745-10.mp3",
 			"Standard Arabic Audio": "msa-0745-10.mp3"
 		},
@@ -111,7 +111,7 @@
 			"English": "Thanks again.",
 			"Word Count": 2,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "شكرًا لك مرة أخرى.",
 			"Egyptian Arabic Audio": "eca-0745-11.mp3",
 			"Standard Arabic Audio": "msa-0745-11.mp3"
 		},
@@ -121,7 +121,7 @@
 			"English": "Someone will contact you soon. Congratulations!",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "سيتصل بك شخص ما قريبا. تهانينا!",
 			"Egyptian Arabic Audio": "eca-0745-12.mp3",
 			"Standard Arabic Audio": "msa-0745-12.mp3"
 		}

@@ -11,7 +11,7 @@
 			"English": "911. How may I help you?",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "911. كيف يمكنني مساعدتك؟",
 			"Egyptian Arabic Audio": "eca-1454-1.mp3",
 			"Standard Arabic Audio": "msa-1454-1.mp3"
 		},
@@ -21,7 +21,7 @@
 			"English": "I need to report a break-in.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنا بحاجة إلى الإبلاغ عن انقطاع في.",
 			"Egyptian Arabic Audio": "eca-1454-2.mp3",
 			"Standard Arabic Audio": "msa-1454-2.mp3"
 		},
@@ -31,7 +31,7 @@
 			"English": "When did this break-in occur?",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "متى حدث هذا الانقطاع؟",
 			"Egyptian Arabic Audio": "eca-1454-3.mp3",
 			"Standard Arabic Audio": "msa-1454-3.mp3"
 		},
@@ -41,7 +41,7 @@
 			"English": "Last night.",
 			"Word Count": 2,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "اخر مساء.",
 			"Egyptian Arabic Audio": "eca-1454-4.mp3",
 			"Standard Arabic Audio": "msa-1454-4.mp3"
 		},
@@ -51,7 +51,7 @@
 			"English": "Where did the break-in happen?",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أين حدث الانقطاع؟",
 			"Egyptian Arabic Audio": "eca-1454-5.mp3",
 			"Standard Arabic Audio": "msa-1454-5.mp3"
 		},
@@ -61,7 +61,7 @@
 			"English": "It happened at my house.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "حدث ذلك في منزلي.",
 			"Egyptian Arabic Audio": "eca-1454-6.mp3",
 			"Standard Arabic Audio": "msa-1454-6.mp3"
 		},
@@ -71,7 +71,7 @@
 			"English": "Was anything taken?",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هل تم اتخاذ أي شيء؟",
 			"Egyptian Arabic Audio": "eca-1454-7.mp3",
 			"Standard Arabic Audio": "msa-1454-7.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "I'm not sure yet.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لست متأكدا بعد.",
 			"Egyptian Arabic Audio": "eca-1454-8.mp3",
 			"Standard Arabic Audio": "msa-1454-8.mp3"
 		},
@@ -91,7 +91,7 @@
 			"English": "What makes you think there was a break-in?",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ما الذي يجعلك تعتقد أن هناك انقطاعا؟",
 			"Egyptian Arabic Audio": "eca-1454-9.mp3",
 			"Standard Arabic Audio": "msa-1454-9.mp3"
 		},
@@ -101,7 +101,7 @@
 			"English": "My front window was busted.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "تم تحطيم النافذة الأمامية.",
 			"Egyptian Arabic Audio": "eca-1454-10.mp3",
 			"Standard Arabic Audio": "msa-1454-10.mp3"
 		},
@@ -111,7 +111,7 @@
 			"English": "I'll send a squad car.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "سأرسل سيارة فرقة.",
 			"Egyptian Arabic Audio": "eca-1454-11.mp3",
 			"Standard Arabic Audio": "msa-1454-11.mp3"
 		},
@@ -121,7 +121,7 @@
 			"English": "Please hurry.",
 			"Word Count": 2,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أسرع من فضلك.",
 			"Egyptian Arabic Audio": "eca-1454-12.mp3",
 			"Standard Arabic Audio": "msa-1454-12.mp3"
 		},
@@ -131,7 +131,7 @@
 			"English": "911. What can I do for you?",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "911. ماذا يمكنني أن أفعل لك؟",
 			"Egyptian Arabic Audio": "eca-1454-13.mp3",
 			"Standard Arabic Audio": "msa-1454-13.mp3"
 		},
@@ -141,7 +141,7 @@
 			"English": "I am reporting a break-in.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنا أبلغ عن انقطاع في.",
 			"Egyptian Arabic Audio": "eca-1454-14.mp3",
 			"Standard Arabic Audio": "msa-1454-14.mp3"
 		},
@@ -151,7 +151,7 @@
 			"English": "When did it happen?",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "متى حدث ذلك؟",
 			"Egyptian Arabic Audio": "eca-1454-15.mp3",
 			"Standard Arabic Audio": "msa-1454-15.mp3"
 		},
@@ -161,7 +161,7 @@
 			"English": "It happened last night.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "حدث ذلك الليلة الماضية.",
 			"Egyptian Arabic Audio": "eca-1454-16.mp3",
 			"Standard Arabic Audio": "msa-1454-16.mp3"
 		},
@@ -171,7 +171,7 @@
 			"English": "Where did it happen?",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أين حدث هذا ؟",
 			"Egyptian Arabic Audio": "eca-1454-17.mp3",
 			"Standard Arabic Audio": "msa-1454-17.mp3"
 		},
@@ -181,7 +181,7 @@
 			"English": "It happened at my house.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "حدث ذلك في منزلي.",
 			"Egyptian Arabic Audio": "eca-1454-18.mp3",
 			"Standard Arabic Audio": "msa-1454-18.mp3"
 		},
@@ -191,7 +191,7 @@
 			"English": "What was taken?",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ما الذي اتخذ؟",
 			"Egyptian Arabic Audio": "eca-1454-19.mp3",
 			"Standard Arabic Audio": "msa-1454-19.mp3"
 		},
@@ -201,7 +201,7 @@
 			"English": "I don't know.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انا لا اعرف.",
 			"Egyptian Arabic Audio": "eca-1454-20.mp3",
 			"Standard Arabic Audio": "msa-1454-20.mp3"
 		},
@@ -211,7 +211,7 @@
 			"English": "How do you know there was a break-in?",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كيف تعرف أن هناك انقطاع؟",
 			"Egyptian Arabic Audio": "eca-1454-21.mp3",
 			"Standard Arabic Audio": "msa-1454-21.mp3"
 		},
@@ -221,7 +221,7 @@
 			"English": "Someone busted my window.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "قام أحدهم بإيقاف النافذة.",
 			"Egyptian Arabic Audio": "eca-1454-22.mp3",
 			"Standard Arabic Audio": "msa-1454-22.mp3"
 		},
@@ -231,7 +231,7 @@
 			"English": "I will send a squad car to your house right now.",
 			"Word Count": 11,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "سأرسل سيارة فرقة إلى منزلك الآن.",
 			"Egyptian Arabic Audio": "eca-1454-23.mp3",
 			"Standard Arabic Audio": "msa-1454-23.mp3"
 		},
@@ -241,7 +241,7 @@
 			"English": "Please do.",
 			"Word Count": 2,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "افعل من فضلك.",
 			"Egyptian Arabic Audio": "eca-1454-24.mp3",
 			"Standard Arabic Audio": "msa-1454-24.mp3"
 		},
@@ -251,7 +251,7 @@
 			"English": "911 emergency. What is the problem?",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "911 الطوارئ. ما المشكلة؟",
 			"Egyptian Arabic Audio": "eca-1454-25.mp3",
 			"Standard Arabic Audio": "msa-1454-25.mp3"
 		},
@@ -261,7 +261,7 @@
 			"English": "I would like to report a break-in.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وأود أن أبلغ عن انقطاع.",
 			"Egyptian Arabic Audio": "eca-1454-26.mp3",
 			"Standard Arabic Audio": "msa-1454-26.mp3"
 		},
@@ -271,7 +271,7 @@
 			"English": "When was this break-in?",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "متى كان هذا الانقطاع؟",
 			"Egyptian Arabic Audio": "eca-1454-27.mp3",
 			"Standard Arabic Audio": "msa-1454-27.mp3"
 		},
@@ -281,7 +281,7 @@
 			"English": "I believe it happened last night.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وأعتقد أنه حدث الليلة الماضية.",
 			"Egyptian Arabic Audio": "eca-1454-28.mp3",
 			"Standard Arabic Audio": "msa-1454-28.mp3"
 		},
@@ -291,7 +291,7 @@
 			"English": "Where was the break-in?",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أين كان الانقطاع؟",
 			"Egyptian Arabic Audio": "eca-1454-29.mp3",
 			"Standard Arabic Audio": "msa-1454-29.mp3"
 		},
@@ -301,7 +301,7 @@
 			"English": "It happened at my house.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "حدث ذلك في منزلي.",
 			"Egyptian Arabic Audio": "eca-1454-30.mp3",
 			"Standard Arabic Audio": "msa-1454-30.mp3"
 		},
@@ -311,7 +311,7 @@
 			"English": "Was anything stolen?",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هل سرق أي شيء؟",
 			"Egyptian Arabic Audio": "eca-1454-31.mp3",
 			"Standard Arabic Audio": "msa-1454-31.mp3"
 		},
@@ -321,7 +321,7 @@
 			"English": "I haven't checked yet.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لم أتحقق بعد.",
 			"Egyptian Arabic Audio": "eca-1454-32.mp3",
 			"Standard Arabic Audio": "msa-1454-32.mp3"
 		},
@@ -331,7 +331,7 @@
 			"English": "Why do you think there was a break-in?",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لماذا تعتقد أن هناك انقطاع؟",
 			"Egyptian Arabic Audio": "eca-1454-33.mp3",
 			"Standard Arabic Audio": "msa-1454-33.mp3"
 		},
@@ -341,7 +341,7 @@
 			"English": "My front window was broken.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "تم كسر بلدي النافذة الأمامية.",
 			"Egyptian Arabic Audio": "eca-1454-34.mp3",
 			"Standard Arabic Audio": "msa-1454-34.mp3"
 		},
@@ -351,7 +351,7 @@
 			"English": "We'll send a squad car shortly.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "سنرسل سيارة فريق قريبا.",
 			"Egyptian Arabic Audio": "eca-1454-35.mp3",
 			"Standard Arabic Audio": "msa-1454-35.mp3"
 		},
@@ -361,7 +361,7 @@
 			"English": "I'd appreciate that.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "سأقدر ذلك.",
 			"Egyptian Arabic Audio": "eca-1454-36.mp3",
 			"Standard Arabic Audio": "msa-1454-36.mp3"
 		}

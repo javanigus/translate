@@ -11,7 +11,7 @@
 			"English": "Today is Friday the thirteenth.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "اليوم هو يوم الجمعة الثالث عشر.",
 			"Egyptian Arabic Audio": "eca-0261-1.mp3",
 			"Standard Arabic Audio": "msa-0261-1.mp3"
 		},
@@ -21,7 +21,7 @@
 			"English": "That's a bad day.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هذا يوم سيء.",
 			"Egyptian Arabic Audio": "eca-0261-2.mp3",
 			"Standard Arabic Audio": "msa-0261-2.mp3"
 		},
@@ -31,7 +31,7 @@
 			"English": "It's supposed to be unlucky.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "من المفترض أن يكون محظوظا.",
 			"Egyptian Arabic Audio": "eca-0261-3.mp3",
 			"Standard Arabic Audio": "msa-0261-3.mp3"
 		},
@@ -41,7 +41,7 @@
 			"English": "You're supposed to stay home all day.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كنت من المفترض أن البقاء في المنزل طوال اليوم.",
 			"Egyptian Arabic Audio": "eca-0261-4.mp3",
 			"Standard Arabic Audio": "msa-0261-4.mp3"
 		},
@@ -51,7 +51,7 @@
 			"English": "That's what I do.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هذا ما افعله.",
 			"Egyptian Arabic Audio": "eca-0261-5.mp3",
 			"Standard Arabic Audio": "msa-0261-5.mp3"
 		},
@@ -61,7 +61,7 @@
 			"English": "My friend stayed in a hotel on Friday the thirteenth.",
 			"Word Count": 10,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "بقي صديقي في فندق يوم الجمعة الثالث عشر.",
 			"Egyptian Arabic Audio": "eca-0261-6.mp3",
 			"Standard Arabic Audio": "msa-0261-6.mp3"
 		},
@@ -71,7 +71,7 @@
 			"English": "That was a mistake.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هذا كان خطأ.",
 			"Egyptian Arabic Audio": "eca-0261-7.mp3",
 			"Standard Arabic Audio": "msa-0261-7.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "He stayed on the thirteenth floor.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "بقي في الطابق الثالث عشر.",
 			"Egyptian Arabic Audio": "eca-0261-8.mp3",
 			"Standard Arabic Audio": "msa-0261-8.mp3"
 		},
@@ -91,7 +91,7 @@
 			"English": "What happened?",
 			"Word Count": 2,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ماذا حدث؟",
 			"Egyptian Arabic Audio": "eca-0261-9.mp3",
 			"Standard Arabic Audio": "msa-0261-9.mp3"
 		},
@@ -101,7 +101,7 @@
 			"English": "Someone stole his laptop.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "سرق شخص ما جهاز الكمبيوتر المحمول.",
 			"Egyptian Arabic Audio": "eca-0261-10.mp3",
 			"Standard Arabic Audio": "msa-0261-10.mp3"
 		},
@@ -111,7 +111,7 @@
 			"English": "He was asking for it.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كان يسأل عن ذلك.",
 			"Egyptian Arabic Audio": "eca-0261-11.mp3",
 			"Standard Arabic Audio": "msa-0261-11.mp3"
 		},
@@ -121,7 +121,7 @@
 			"English": "He learned his lesson. He's home today.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "تعلمت درسه. انه المنزل اليوم.",
 			"Egyptian Arabic Audio": "eca-0261-12.mp3",
 			"Standard Arabic Audio": "msa-0261-12.mp3"
 		}

@@ -11,7 +11,7 @@
 			"English": "Do you have a favorite genre of music?",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هل لديك نوع مفضل من الموسيقى؟",
 			"Egyptian Arabic Audio": "eca-0494-1.mp3",
 			"Standard Arabic Audio": "msa-0494-1.mp3"
 		},
@@ -21,7 +21,7 @@
 			"English": "No, but I have favorite bands.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لا، ولكن لدي فرق المفضلة.",
 			"Egyptian Arabic Audio": "eca-0494-2.mp3",
 			"Standard Arabic Audio": "msa-0494-2.mp3"
 		},
@@ -31,7 +31,7 @@
 			"English": "What bands would you consider your favorites?",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ما العصابات التي سوف تنظر المفضلة لديك؟",
 			"Egyptian Arabic Audio": "eca-0494-3.mp3",
 			"Standard Arabic Audio": "msa-0494-3.mp3"
 		},
@@ -41,7 +41,7 @@
 			"English": "The Beatles are the first. Edward Sharpe and the Magnetic Zeros are the  second.",
 			"Word Count": 14,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "البيتلز هي الأولى. إدوارد شارب و زيروس المغناطيسي هي الثانية.",
 			"Egyptian Arabic Audio": "eca-0494-4.mp3",
 			"Standard Arabic Audio": "msa-0494-4.mp3"
 		},
@@ -51,7 +51,7 @@
 			"English": "Is that all?",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هل هذا كل شيء؟",
 			"Egyptian Arabic Audio": "eca-0494-5.mp3",
 			"Standard Arabic Audio": "msa-0494-5.mp3"
 		},
@@ -61,7 +61,7 @@
 			"English": "No, I really like The Clash. They are third.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لا، أنا حقا أحب الصدام. وهي الثالثة.",
 			"Egyptian Arabic Audio": "eca-0494-6.mp3",
 			"Standard Arabic Audio": "msa-0494-6.mp3"
 		},
@@ -71,7 +71,7 @@
 			"English": "I've only heard of The Beatles.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لقد سمعت فقط من البيتلز.",
 			"Egyptian Arabic Audio": "eca-0494-7.mp3",
 			"Standard Arabic Audio": "msa-0494-7.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "You should check out the other two bands. They are good.",
 			"Word Count": 11,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يجب عليك التحقق من اثنين من العصابات الأخرى. انهم بخير.",
 			"Egyptian Arabic Audio": "eca-0494-8.mp3",
 			"Standard Arabic Audio": "msa-0494-8.mp3"
 		},
@@ -91,7 +91,7 @@
 			"English": "Do you have any of their music that you could show me?",
 			"Word Count": 12,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هل لديك أي من الموسيقى الخاصة بك التي يمكن أن تظهر لي؟",
 			"Egyptian Arabic Audio": "eca-0494-9.mp3",
 			"Standard Arabic Audio": "msa-0494-9.mp3"
 		},
@@ -101,7 +101,7 @@
 			"English": "Sure, come over to my house after school, and I will show you their music.",
 			"Word Count": 15,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "بالتأكيد، تأتي إلى بيتي بعد المدرسة، وسوف تظهر لك الموسيقى الخاصة بهم.",
 			"Egyptian Arabic Audio": "eca-0494-10.mp3",
 			"Standard Arabic Audio": "msa-0494-10.mp3"
 		},
@@ -111,7 +111,7 @@
 			"English": "Great! I've been looking for new music to listen to.",
 			"Word Count": 10,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "عظيم! لقد كنت تبحث عن موسيقى جديدة للاستماع إليها.",
 			"Egyptian Arabic Audio": "eca-0494-11.mp3",
 			"Standard Arabic Audio": "msa-0494-11.mp3"
 		},
@@ -121,7 +121,7 @@
 			"English": "Don't worry; I will get you into a lot of new stuff.",
 			"Word Count": 12,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لا تقلق؛ وسوف تحصل في الكثير من الاشياء الجديدة.",
 			"Egyptian Arabic Audio": "eca-0494-12.mp3",
 			"Standard Arabic Audio": "msa-0494-12.mp3"
 		}

@@ -11,7 +11,7 @@
 			"English": "I have an early meeting, so can I get a wake-up call?",
 			"Word Count": 12,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لدي اجتماع مبكر، حتى يمكنني الحصول على مكالمة إيقاظ؟",
 			"Egyptian Arabic Audio": "eca-0834-1.mp3",
 			"Standard Arabic Audio": "msa-0834-1.mp3"
 		},
@@ -21,7 +21,7 @@
 			"English": "Sure! What time should we call you?",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "بالتأكيد! ما الوقت يجب أن ندعو لك؟",
 			"Egyptian Arabic Audio": "eca-0834-2.mp3",
 			"Standard Arabic Audio": "msa-0834-2.mp3"
 		},
@@ -31,7 +31,7 @@
 			"English": "Can you call my room at six in the morning?",
 			"Word Count": 10,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يمكنك استدعاء غرفتي في السادسة في الصباح؟",
 			"Egyptian Arabic Audio": "eca-0834-3.mp3",
 			"Standard Arabic Audio": "msa-0834-3.mp3"
 		},
@@ -41,7 +41,7 @@
 			"English": "Just tell me your room number.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "قل لي رقم الغرفة الخاصة بك.",
 			"Egyptian Arabic Audio": "eca-0834-4.mp3",
 			"Standard Arabic Audio": "msa-0834-4.mp3"
 		},
@@ -51,7 +51,7 @@
 			"English": "I'm staying in room 302.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أقيم في الغرفة 302.",
 			"Egyptian Arabic Audio": "eca-0834-5.mp3",
 			"Standard Arabic Audio": "msa-0834-5.mp3"
 		},
@@ -61,7 +61,7 @@
 			"English": "Okay, Mr. Roberts. We'll call you at 6 a.m.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "حسنا، السيد روبرتس. سنتصل بك في الساعة 6 صباحا",
 			"Egyptian Arabic Audio": "eca-0834-6.mp3",
 			"Standard Arabic Audio": "msa-0834-6.mp3"
 		},
@@ -71,7 +71,7 @@
 			"English": "What happens if I don't answer?",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ماذا يحدث إذا لم أجيب؟",
 			"Egyptian Arabic Audio": "eca-0834-7.mp3",
 			"Standard Arabic Audio": "msa-0834-7.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "Then you'll probably miss your meeting.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ثم عليك ربما تفوت اجتماعك.",
 			"Egyptian Arabic Audio": "eca-0834-8.mp3",
 			"Standard Arabic Audio": "msa-0834-8.mp3"
 		},
@@ -91,7 +91,7 @@
 			"English": "Can I request a second wake-up call?",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هل يمكنني طلب مكالمة إيقاظ ثانية؟",
 			"Egyptian Arabic Audio": "eca-0834-9.mp3",
 			"Standard Arabic Audio": "msa-0834-9.mp3"
 		},
@@ -101,7 +101,7 @@
 			"English": "What time should we schedule the second wake-up call?",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "في أي وقت يجب علينا جدولة مكالمة إيقاظ ثانية؟",
 			"Egyptian Arabic Audio": "eca-0834-10.mp3",
 			"Standard Arabic Audio": "msa-0834-10.mp3"
 		},
@@ -111,7 +111,7 @@
 			"English": "Call me again at 6:15 a.m. if I don't answer at six.",
 			"Word Count": 12,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "اتصل بي مرة أخرى في 6:15 صباحا إذا لم أجيب على ستة.",
 			"Egyptian Arabic Audio": "eca-0834-11.mp3",
 			"Standard Arabic Audio": "msa-0834-11.mp3"
 		},
@@ -121,7 +121,7 @@
 			"English": "So we have one wake-up call at six and a second one fifteen minutes later.",
 			"Word Count": 15,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لذلك لدينا مكالمة واحدة للاستيقاظ في ست وثانية واحدة بعد 15 دقيقة.",
 			"Egyptian Arabic Audio": "eca-0834-12.mp3",
 			"Standard Arabic Audio": "msa-0834-12.mp3"
 		}

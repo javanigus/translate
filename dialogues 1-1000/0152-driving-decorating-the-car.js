@@ -11,7 +11,7 @@
 			"English": "Do you like my new car?",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هل تحب سيارتي الجديدة؟",
 			"Egyptian Arabic Audio": "eca-0152-1.mp3",
 			"Standard Arabic Audio": "msa-0152-1.mp3"
 		},
@@ -21,7 +21,7 @@
 			"English": "Yeah, but it's a little plain.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "نعم، لكنه سهل قليلا.",
 			"Egyptian Arabic Audio": "eca-0152-2.mp3",
 			"Standard Arabic Audio": "msa-0152-2.mp3"
 		},
@@ -31,7 +31,7 @@
 			"English": "What should I do to make it less plain?",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ماذا علي أن أفعل لجعله أقل وضوحا؟",
 			"Egyptian Arabic Audio": "eca-0152-3.mp3",
 			"Standard Arabic Audio": "msa-0152-3.mp3"
 		},
@@ -41,7 +41,7 @@
 			"English": "Decorate it. That's what I did.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "تزيين ذلك. هذا ما فعلته.",
 			"Egyptian Arabic Audio": "eca-0152-4.mp3",
 			"Standard Arabic Audio": "msa-0152-4.mp3"
 		},
@@ -51,7 +51,7 @@
 			"English": "I know! I'll put stuffed animals in the back.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "اعرف! سأضع الحيوانات المحنطة في الظهر.",
 			"Egyptian Arabic Audio": "eca-0152-5.mp3",
 			"Standard Arabic Audio": "msa-0152-5.mp3"
 		},
@@ -61,7 +61,7 @@
 			"English": "You can also get a steering wheel cover.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يمكنك أيضا الحصول على غطاء عجلة القيادة.",
 			"Egyptian Arabic Audio": "eca-0152-6.mp3",
 			"Standard Arabic Audio": "msa-0152-6.mp3"
 		},
@@ -71,7 +71,7 @@
 			"English": "I might as well get matching seat covers too.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنا قد كذلك الحصول على مطابقة أغطية المقاعد أيضا.",
 			"Egyptian Arabic Audio": "eca-0152-7.mp3",
 			"Standard Arabic Audio": "msa-0152-7.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "I'll give you my sister's seat and steering wheel covers.",
 			"Word Count": 10,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "سأعطيك مقعد أختي وأغطية عجلة القيادة.",
 			"Egyptian Arabic Audio": "eca-0152-8.mp3",
 			"Standard Arabic Audio": "msa-0152-8.mp3"
 		},
@@ -91,7 +91,7 @@
 			"English": "Are they new?",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هل هم جدد؟",
 			"Egyptian Arabic Audio": "eca-0152-9.mp3",
 			"Standard Arabic Audio": "msa-0152-9.mp3"
 		},
@@ -101,7 +101,7 @@
 			"English": "Yeah, she never used them.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "نعم، وقالت انها لم تستخدم لهم.",
 			"Egyptian Arabic Audio": "eca-0152-10.mp3",
 			"Standard Arabic Audio": "msa-0152-10.mp3"
 		},
@@ -111,7 +111,7 @@
 			"English": "Thanks! How much do you want for them?",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "شكر! كم كنت تريد لهم؟",
 			"Egyptian Arabic Audio": "eca-0152-11.mp3",
 			"Standard Arabic Audio": "msa-0152-11.mp3"
 		},
@@ -121,7 +121,7 @@
 			"English": "Consider the covers your birthday present.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "النظر في يغطي هدية عيد ميلادك.",
 			"Egyptian Arabic Audio": "eca-0152-12.mp3",
 			"Standard Arabic Audio": "msa-0152-12.mp3"
 		}

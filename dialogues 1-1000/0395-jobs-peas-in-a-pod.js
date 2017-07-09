@@ -11,7 +11,7 @@
 			"English": "I'm sleepy.",
 			"Word Count": 2,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يغلبني النعاس.",
 			"Egyptian Arabic Audio": "eca-0395-1.mp3",
 			"Standard Arabic Audio": "msa-0395-1.mp3"
 		},
@@ -21,7 +21,7 @@
 			"English": "So am I.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وكذلك أنا.",
 			"Egyptian Arabic Audio": "eca-0395-2.mp3",
 			"Standard Arabic Audio": "msa-0395-2.mp3"
 		},
@@ -31,7 +31,7 @@
 			"English": "I had a long day.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كان لي يوم طويل.",
 			"Egyptian Arabic Audio": "eca-0395-3.mp3",
 			"Standard Arabic Audio": "msa-0395-3.mp3"
 		},
@@ -41,7 +41,7 @@
 			"English": "So did I.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وأنا كذلك.",
 			"Egyptian Arabic Audio": "eca-0395-4.mp3",
 			"Standard Arabic Audio": "msa-0395-4.mp3"
 		},
@@ -51,7 +51,7 @@
 			"English": "I didn't even have lunch.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لم أكن حتى الغداء.",
 			"Egyptian Arabic Audio": "eca-0395-5.mp3",
 			"Standard Arabic Audio": "msa-0395-5.mp3"
 		},
@@ -61,7 +61,7 @@
 			"English": "Neither did I.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ولا أنا.",
 			"Egyptian Arabic Audio": "eca-0395-6.mp3",
 			"Standard Arabic Audio": "msa-0395-6.mp3"
 		},
@@ -71,7 +71,7 @@
 			"English": "I was busy the whole day.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كنت مشغولا طوال اليوم.",
 			"Egyptian Arabic Audio": "eca-0395-7.mp3",
 			"Standard Arabic Audio": "msa-0395-7.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "So was I.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كذلك كنت انا.",
 			"Egyptian Arabic Audio": "eca-0395-8.mp3",
 			"Standard Arabic Audio": "msa-0395-8.mp3"
 		},
@@ -91,7 +91,7 @@
 			"English": "I had to bring work home with me.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كان علي أن أحضر العمل معي.",
 			"Egyptian Arabic Audio": "eca-0395-9.mp3",
 			"Standard Arabic Audio": "msa-0395-9.mp3"
 		},
@@ -101,7 +101,7 @@
 			"English": "I did too.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "فعلت أيضا.",
 			"Egyptian Arabic Audio": "eca-0395-10.mp3",
 			"Standard Arabic Audio": "msa-0395-10.mp3"
 		},
@@ -111,7 +111,7 @@
 			"English": "Your day was just like mine.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كان يومك تماما مثل بلدي.",
 			"Egyptian Arabic Audio": "eca-0395-11.mp3",
 			"Standard Arabic Audio": "msa-0395-11.mp3"
 		},
@@ -121,7 +121,7 @@
 			"English": "Of course it was. We work together!",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "بالطبع كان. نحن نعمل معا!",
 			"Egyptian Arabic Audio": "eca-0395-12.mp3",
 			"Standard Arabic Audio": "msa-0395-12.mp3"
 		}

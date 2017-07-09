@@ -11,7 +11,7 @@
 			"English": "I am so nervous for the class presentation",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنا عصبية جدا للعرض الطبقي",
 			"Egyptian Arabic Audio": "eca-0016-1.mp3",
 			"Standard Arabic Audio": "msa-0016-1.mp3"
 		},
@@ -21,7 +21,7 @@
 			"English": "Don't be. You're so smart.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لا يكون. كنت ذكية جدا.",
 			"Egyptian Arabic Audio": "eca-0016-2.mp3",
 			"Standard Arabic Audio": "msa-0016-2.mp3"
 		},
@@ -31,7 +31,7 @@
 			"English": "I know, but I don't like a big audience.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وأنا أعلم، ولكن أنا لا أحب جمهور كبير.",
 			"Egyptian Arabic Audio": "eca-0016-3.mp3",
 			"Standard Arabic Audio": "msa-0016-3.mp3"
 		},
@@ -41,7 +41,7 @@
 			"English": "Do you want my advice?",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هل تريد نصيحتي؟",
 			"Egyptian Arabic Audio": "eca-0016-4.mp3",
 			"Standard Arabic Audio": "msa-0016-4.mp3"
 		},
@@ -51,7 +51,7 @@
 			"English": "Of course, I do.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "بالطبع افعل.",
 			"Egyptian Arabic Audio": "eca-0016-5.mp3",
 			"Standard Arabic Audio": "msa-0016-5.mp3"
 		},
@@ -61,7 +61,7 @@
 			"English": "Imagine the audience in their underwear.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "تخيل الجمهور في ملابسهم الداخلية.",
 			"Egyptian Arabic Audio": "eca-0016-6.mp3",
 			"Standard Arabic Audio": "msa-0016-6.mp3"
 		},
@@ -71,7 +71,7 @@
 			"English": "That is insane!",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هذا مجنون!",
 			"Egyptian Arabic Audio": "eca-0016-7.mp3",
 			"Standard Arabic Audio": "msa-0016-7.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "It really works.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنه يعمل حقا.",
 			"Egyptian Arabic Audio": "eca-0016-8.mp3",
 			"Standard Arabic Audio": "msa-0016-8.mp3"
 		},
@@ -91,7 +91,7 @@
 			"English": "Have you tried it?",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هل جربته؟",
 			"Egyptian Arabic Audio": "eca-0016-9.mp3",
 			"Standard Arabic Audio": "msa-0016-9.mp3"
 		},
@@ -101,7 +101,7 @@
 			"English": "Yes. I got an A on my presentation.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "نعم فعلا. حصلت على A في العرض التقديمي.",
 			"Egyptian Arabic Audio": "eca-0016-10.mp3",
 			"Standard Arabic Audio": "msa-0016-10.mp3"
 		},
@@ -111,7 +111,7 @@
 			"English": "I'll try it then.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "سأحاول ذلك الحين.",
 			"Egyptian Arabic Audio": "eca-0016-11.mp3",
 			"Standard Arabic Audio": "msa-0016-11.mp3"
 		},
@@ -121,7 +121,7 @@
 			"English": "You can do it!",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يمكنك أن تفعل ذلك!",
 			"Egyptian Arabic Audio": "eca-0016-12.mp3",
 			"Standard Arabic Audio": "msa-0016-12.mp3"
 		}

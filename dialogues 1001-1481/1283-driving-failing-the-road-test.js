@@ -11,7 +11,7 @@
 			"English": "So how did I do on my driving test?",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "فكيف فعلت على اختبار القيادة الخاص بي؟",
 			"Egyptian Arabic Audio": "eca-1283-2.mp3",
 			"Standard Arabic Audio": "msa-1283-2.mp3"
 		},
@@ -21,7 +21,7 @@
 			"English": "Do you want the truth?",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هل تريد الحقيقة؟",
 			"Egyptian Arabic Audio": "eca-1283-3.mp3",
 			"Standard Arabic Audio": "msa-1283-3.mp3"
 		},
@@ -31,7 +31,7 @@
 			"English": "Of course, I do.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "بالطبع افعل.",
 			"Egyptian Arabic Audio": "eca-1283-4.mp3",
 			"Standard Arabic Audio": "msa-1283-4.mp3"
 		},
@@ -41,7 +41,7 @@
 			"English": "Well, you really didn't do all that well.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "حسنا، كنت حقا لم تفعل كل ذلك بشكل جيد.",
 			"Egyptian Arabic Audio": "eca-1283-5.mp3",
 			"Standard Arabic Audio": "msa-1283-5.mp3"
 		},
@@ -51,7 +51,7 @@
 			"English": "How bad did I do?",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كيف أفعل سيئة؟",
 			"Egyptian Arabic Audio": "eca-1283-6.mp3",
 			"Standard Arabic Audio": "msa-1283-6.mp3"
 		},
@@ -61,7 +61,7 @@
 			"English": "To be completely honest, you failed your test.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أن نكون صادقين تماما، كنت فشلت الاختبار الخاص بك.",
 			"Egyptian Arabic Audio": "eca-1283-7.mp3",
 			"Standard Arabic Audio": "msa-1283-7.mp3"
 		},
@@ -71,7 +71,7 @@
 			"English": "How?",
 			"Word Count": 1,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ماذا؟",
 			"Egyptian Arabic Audio": "eca-1283-8.mp3",
 			"Standard Arabic Audio": "msa-1283-8.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "There were a number of reasons.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وكان هناك عدد من الأسباب.",
 			"Egyptian Arabic Audio": "eca-1283-9.mp3",
 			"Standard Arabic Audio": "msa-1283-9.mp3"
 		},
@@ -91,7 +91,7 @@
 			"English": "What were they?",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ماذا كانوا؟",
 			"Egyptian Arabic Audio": "eca-1283-10.mp3",
 			"Standard Arabic Audio": "msa-1283-10.mp3"
 		},
@@ -101,7 +101,7 @@
 			"English": "Basically, you just can't drive.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "في الأساس، أنت فقط لا يمكن أن تدفع.",
 			"Egyptian Arabic Audio": "eca-1283-11.mp3",
 			"Standard Arabic Audio": "msa-1283-11.mp3"
 		},
@@ -111,7 +111,7 @@
 			"English": "Can I have another try?",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هل يمكنني تجربة أخرى؟",
 			"Egyptian Arabic Audio": "eca-1283-12.mp3",
 			"Standard Arabic Audio": "msa-1283-12.mp3"
 		},
@@ -121,7 +121,7 @@
 			"English": "You can take it in a couple weeks.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يمكنك أن تأخذ في غضون بضعة أسابيع.",
 			"Egyptian Arabic Audio": "eca-1283-13.mp3",
 			"Standard Arabic Audio": "msa-1283-13.mp3"
 		},
@@ -131,7 +131,7 @@
 			"English": "How did I do?",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كيف فعلت؟",
 			"Egyptian Arabic Audio": "eca-1283-15.mp3",
 			"Standard Arabic Audio": "msa-1283-15.mp3"
 		},
@@ -141,7 +141,7 @@
 			"English": "Do you really want to know?",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هل حقا تريد أن تعرف؟",
 			"Egyptian Arabic Audio": "eca-1283-16.mp3",
 			"Standard Arabic Audio": "msa-1283-16.mp3"
 		},
@@ -151,7 +151,7 @@
 			"English": "Yes, I do.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أجل أقبل.",
 			"Egyptian Arabic Audio": "eca-1283-17.mp3",
 			"Standard Arabic Audio": "msa-1283-17.mp3"
 		},
@@ -161,7 +161,7 @@
 			"English": "You did pretty bad.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لقد فعلت سيئة للغاية.",
 			"Egyptian Arabic Audio": "eca-1283-18.mp3",
 			"Standard Arabic Audio": "msa-1283-18.mp3"
 		},
@@ -171,7 +171,7 @@
 			"English": "Exactly how bad?",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "بالضبط كيف سيئة؟",
 			"Egyptian Arabic Audio": "eca-1283-19.mp3",
 			"Standard Arabic Audio": "msa-1283-19.mp3"
 		},
@@ -181,7 +181,7 @@
 			"English": "You didn't pass the test.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لم تجتاز الاختبار.",
 			"Egyptian Arabic Audio": "eca-1283-20.mp3",
 			"Standard Arabic Audio": "msa-1283-20.mp3"
 		},
@@ -191,7 +191,7 @@
 			"English": "I don't understand how I could've failed it.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنا لا أفهم كيف يمكن أن فشلت.",
 			"Egyptian Arabic Audio": "eca-1283-21.mp3",
 			"Standard Arabic Audio": "msa-1283-21.mp3"
 		},
@@ -201,7 +201,7 @@
 			"English": "There are a few reasons why you failed.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هناك بعض الأسباب التي أدت إلى فشلك.",
 			"Egyptian Arabic Audio": "eca-1283-22.mp3",
 			"Standard Arabic Audio": "msa-1283-22.mp3"
 		},
@@ -211,7 +211,7 @@
 			"English": "What are the reasons?",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ما هي الأسباب؟",
 			"Egyptian Arabic Audio": "eca-1283-23.mp3",
 			"Standard Arabic Audio": "msa-1283-23.mp3"
 		},
@@ -221,7 +221,7 @@
 			"English": "The main reason is the fact that you're a horrible driver.",
 			"Word Count": 11,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "السبب الرئيسي هو حقيقة أنك سائق رهيبة.",
 			"Egyptian Arabic Audio": "eca-1283-24.mp3",
 			"Standard Arabic Audio": "msa-1283-24.mp3"
 		},
@@ -231,7 +231,7 @@
 			"English": "Can I take the test again?",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هل يمكنني إجراء الاختبار مرة أخرى؟",
 			"Egyptian Arabic Audio": "eca-1283-25.mp3",
 			"Standard Arabic Audio": "msa-1283-25.mp3"
 		},
@@ -241,7 +241,7 @@
 			"English": "You'll be able to take the test again in a couple weeks.",
 			"Word Count": 12,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ستتمكن من إجراء الاختبار مرة أخرى في غضون أسبوعين.",
 			"Egyptian Arabic Audio": "eca-1283-26.mp3",
 			"Standard Arabic Audio": "msa-1283-26.mp3"
 		},
@@ -251,7 +251,7 @@
 			"English": "Did I do well on my test?",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هل فعلت بشكل جيد في اختباري؟",
 			"Egyptian Arabic Audio": "eca-1283-28.mp3",
 			"Standard Arabic Audio": "msa-1283-28.mp3"
 		},
@@ -261,7 +261,7 @@
 			"English": "Do you want to know the honest answer?",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هل تريد أن تعرف الجواب صادقة؟",
 			"Egyptian Arabic Audio": "eca-1283-29.mp3",
 			"Standard Arabic Audio": "msa-1283-29.mp3"
 		},
@@ -271,7 +271,7 @@
 			"English": "Why wouldn't I want to know?",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لماذا لا أريد أن أعرف؟",
 			"Egyptian Arabic Audio": "eca-1283-30.mp3",
 			"Standard Arabic Audio": "msa-1283-30.mp3"
 		},
@@ -281,7 +281,7 @@
 			"English": "You had pretty bad scores.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كان لديك عشرات سيئة للغاية.",
 			"Egyptian Arabic Audio": "eca-1283-31.mp3",
 			"Standard Arabic Audio": "msa-1283-31.mp3"
 		},
@@ -291,7 +291,7 @@
 			"English": "Exactly what do you mean by bad?",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "بالضبط ماذا تقصد بالسوء؟",
 			"Egyptian Arabic Audio": "eca-1283-32.mp3",
 			"Standard Arabic Audio": "msa-1283-32.mp3"
 		},
@@ -301,7 +301,7 @@
 			"English": "You failed.",
 			"Word Count": 2,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنت فشلت.",
 			"Egyptian Arabic Audio": "eca-1283-33.mp3",
 			"Standard Arabic Audio": "msa-1283-33.mp3"
 		},
@@ -311,7 +311,7 @@
 			"English": "How'd I fail it?",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كيف فشلت؟",
 			"Egyptian Arabic Audio": "eca-1283-34.mp3",
 			"Standard Arabic Audio": "msa-1283-34.mp3"
 		},
@@ -321,7 +321,7 @@
 			"English": "There are a couple of reasons why you didn't pass.",
 			"Word Count": 10,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هناك سببان وراء عدم تمريرك.",
 			"Egyptian Arabic Audio": "eca-1283-35.mp3",
 			"Standard Arabic Audio": "msa-1283-35.mp3"
 		},
@@ -331,7 +331,7 @@
 			"English": "What did I do wrong?",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أي خطأ ارتكبت؟",
 			"Egyptian Arabic Audio": "eca-1283-36.mp3",
 			"Standard Arabic Audio": "msa-1283-36.mp3"
 		},
@@ -341,7 +341,7 @@
 			"English": "To sum it all up, you really just don't know how to drive.",
 			"Word Count": 13,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وخلاصة القول كل شيء، كنت حقا فقط لا أعرف كيفية القيادة.",
 			"Egyptian Arabic Audio": "eca-1283-37.mp3",
 			"Standard Arabic Audio": "msa-1283-37.mp3"
 		},
@@ -351,7 +351,7 @@
 			"English": "Will I be able to take a retest?",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هل سأكون قادرا على إعادة الاختبار؟",
 			"Egyptian Arabic Audio": "eca-1283-38.mp3",
 			"Standard Arabic Audio": "msa-1283-38.mp3"
 		},
@@ -361,7 +361,7 @@
 			"English": "Sure you can, in about two and a half weeks.",
 			"Word Count": 10,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "بالتأكيد يمكنك، في حوالي أسبوعين ونصف.",
 			"Egyptian Arabic Audio": "eca-1283-39.mp3",
 			"Standard Arabic Audio": "msa-1283-39.mp3"
 		}

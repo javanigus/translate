@@ -11,7 +11,7 @@
 			"English": "Is this where I go to register for classes?",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هل هذا هو المكان الذي أذهب فيه للتسجيل في الفصول الدراسية؟",
 			"Egyptian Arabic Audio": "eca-1050-1.mp3",
 			"Standard Arabic Audio": "msa-1050-1.mp3"
 		},
@@ -21,7 +21,7 @@
 			"English": "This is it.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هذه هي.",
 			"Egyptian Arabic Audio": "eca-1050-2.mp3",
 			"Standard Arabic Audio": "msa-1050-2.mp3"
 		},
@@ -31,7 +31,7 @@
 			"English": "I need to add a few classes.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنا بحاجة إلى إضافة عدد قليل من الطبقات.",
 			"Egyptian Arabic Audio": "eca-1050-3.mp3",
 			"Standard Arabic Audio": "msa-1050-3.mp3"
 		},
@@ -41,7 +41,7 @@
 			"English": "What classes would you like to add?",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ما هي الفئات التي ترغب في إضافتها؟",
 			"Egyptian Arabic Audio": "eca-1050-4.mp3",
 			"Standard Arabic Audio": "msa-1050-4.mp3"
 		},
@@ -51,7 +51,7 @@
 			"English": "I need to take some classes that will help me transfer.",
 			"Word Count": 11,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنا بحاجة إلى اتخاذ بعض الطبقات التي سوف تساعدني على نقل.",
 			"Egyptian Arabic Audio": "eca-1050-5.mp3",
 			"Standard Arabic Audio": "msa-1050-5.mp3"
 		},
@@ -61,7 +61,7 @@
 			"English": "Have you finished any classes so far?",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هل انتهيت من أي فصول حتى الآن؟",
 			"Egyptian Arabic Audio": "eca-1050-6.mp3",
 			"Standard Arabic Audio": "msa-1050-6.mp3"
 		},
@@ -71,7 +71,7 @@
 			"English": "This is my first semester.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هذا هو الفصل الدراسي الأول.",
 			"Egyptian Arabic Audio": "eca-1050-7.mp3",
 			"Standard Arabic Audio": "msa-1050-7.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "Did you already take the placement test?",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هل أجريت اختبار المواضع بالفعل؟",
 			"Egyptian Arabic Audio": "eca-1050-8.mp3",
 			"Standard Arabic Audio": "msa-1050-8.mp3"
 		},
@@ -91,7 +91,7 @@
 			"English": "I took it last month.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أخذته الشهر الماضي.",
 			"Egyptian Arabic Audio": "eca-1050-9.mp3",
 			"Standard Arabic Audio": "msa-1050-9.mp3"
 		},
@@ -101,7 +101,7 @@
 			"English": "What English and math classes were you placed in?",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ما هي دروس اللغة الإنجليزية والرياضيات التي وضعت فيها؟",
 			"Egyptian Arabic Audio": "eca-1050-10.mp3",
 			"Standard Arabic Audio": "msa-1050-10.mp3"
 		},
@@ -111,7 +111,7 @@
 			"English": "I got placed in Math 131 and English 1A.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "حصلت على وضعها في الرياضيات 131 و 1A الإنجليزية.",
 			"Egyptian Arabic Audio": "eca-1050-11.mp3",
 			"Standard Arabic Audio": "msa-1050-11.mp3"
 		},
@@ -121,7 +121,7 @@
 			"English": "Okay. I'll register you for both of those classes.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "حسنا. سوف أسجل لك على حد سواء من تلك الفئات.",
 			"Egyptian Arabic Audio": "eca-1050-12.mp3",
 			"Standard Arabic Audio": "msa-1050-12.mp3"
 		},
@@ -131,7 +131,7 @@
 			"English": "Do I need to register here?",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هل أحتاج إلى التسجيل هنا؟",
 			"Egyptian Arabic Audio": "eca-1050-14.mp3",
 			"Standard Arabic Audio": "msa-1050-14.mp3"
 		},
@@ -141,7 +141,7 @@
 			"English": "You're in the right place.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنت في المكان الصحيح.",
 			"Egyptian Arabic Audio": "eca-1050-15.mp3",
 			"Standard Arabic Audio": "msa-1050-15.mp3"
 		},
@@ -151,7 +151,7 @@
 			"English": "I would like to add some classes.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وأود أن أضيف بعض الطبقات.",
 			"Egyptian Arabic Audio": "eca-1050-16.mp3",
 			"Standard Arabic Audio": "msa-1050-16.mp3"
 		},
@@ -161,7 +161,7 @@
 			"English": "What classes do you need?",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ما هي الفئات التي تحتاجها؟",
 			"Egyptian Arabic Audio": "eca-1050-17.mp3",
 			"Standard Arabic Audio": "msa-1050-17.mp3"
 		},
@@ -171,7 +171,7 @@
 			"English": "I need to take some GE classes.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنا بحاجة إلى اتخاذ بعض الطبقات غي.",
 			"Egyptian Arabic Audio": "eca-1050-18.mp3",
 			"Standard Arabic Audio": "msa-1050-18.mp3"
 		},
@@ -181,7 +181,7 @@
 			"English": "What classes have you finished so far?",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ما هي الفئات التي انتهيت منها حتى الآن؟",
 			"Egyptian Arabic Audio": "eca-1050-19.mp3",
 			"Standard Arabic Audio": "msa-1050-19.mp3"
 		},
@@ -191,7 +191,7 @@
 			"English": "I just started here.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لقد بدأت للتو هنا.",
 			"Egyptian Arabic Audio": "eca-1050-20.mp3",
 			"Standard Arabic Audio": "msa-1050-20.mp3"
 		},
@@ -201,7 +201,7 @@
 			"English": "You're going to need to take the placement test.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ستحتاج إلى إجراء اختبار تحديد الموضع.",
 			"Egyptian Arabic Audio": "eca-1050-21.mp3",
 			"Standard Arabic Audio": "msa-1050-21.mp3"
 		},
@@ -211,7 +211,7 @@
 			"English": "I took it a month ago.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أخذته قبل شهر.",
 			"Egyptian Arabic Audio": "eca-1050-22.mp3",
 			"Standard Arabic Audio": "msa-1050-22.mp3"
 		},
@@ -221,7 +221,7 @@
 			"English": "Do you know what English and math classes you placed in?",
 			"Word Count": 11,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هل تعرف ما هي دروس اللغة الإنجليزية والرياضيات التي وضعتها في؟",
 			"Egyptian Arabic Audio": "eca-1050-23.mp3",
 			"Standard Arabic Audio": "msa-1050-23.mp3"
 		},
@@ -231,7 +231,7 @@
 			"English": "The test placed me in English 1A and Math 131.",
 			"Word Count": 10,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وضعني الاختبار في اللغة الإنجليزية 1A والرياضيات 131.",
 			"Egyptian Arabic Audio": "eca-1050-24.mp3",
 			"Standard Arabic Audio": "msa-1050-24.mp3"
 		},
@@ -241,7 +241,7 @@
 			"English": "I'll add those classes to your schedule.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "سأضيف تلك الفئات إلى الجدول الزمني الخاص بك.",
 			"Egyptian Arabic Audio": "eca-1050-25.mp3",
 			"Standard Arabic Audio": "msa-1050-25.mp3"
 		},
@@ -251,7 +251,7 @@
 			"English": "Is this the registration desk?",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هل هذا مكتب التسجيل؟",
 			"Egyptian Arabic Audio": "eca-1050-26.mp3",
 			"Standard Arabic Audio": "msa-1050-26.mp3"
 		},
@@ -261,7 +261,7 @@
 			"English": "Yes, this is the place.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "نعم، هذا هو المكان.",
 			"Egyptian Arabic Audio": "eca-1050-27.mp3",
 			"Standard Arabic Audio": "msa-1050-27.mp3"
 		},
@@ -271,7 +271,7 @@
 			"English": "I need to get some classes.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنا بحاجة للحصول على بعض الطبقات.",
 			"Egyptian Arabic Audio": "eca-1050-28.mp3",
 			"Standard Arabic Audio": "msa-1050-28.mp3"
 		},
@@ -281,7 +281,7 @@
 			"English": "What classes would you like?",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ما هي الطبقات التي تريد؟",
 			"Egyptian Arabic Audio": "eca-1050-29.mp3",
 			"Standard Arabic Audio": "msa-1050-29.mp3"
 		},
@@ -291,7 +291,7 @@
 			"English": "I need to finish my GE classes so that I can transfer.",
 			"Word Count": 12,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنا بحاجة لإنهاء بلدي غي الطبقات حتى أستطيع أن نقل.",
 			"Egyptian Arabic Audio": "eca-1050-30.mp3",
 			"Standard Arabic Audio": "msa-1050-30.mp3"
 		},
@@ -301,7 +301,7 @@
 			"English": "Have you finished any of your GE classes yet?",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هل انتهيت من أي من الطبقات غي الخاص بك حتى الآن؟",
 			"Egyptian Arabic Audio": "eca-1050-31.mp3",
 			"Standard Arabic Audio": "msa-1050-31.mp3"
 		},
@@ -311,7 +311,7 @@
 			"English": "This is going to be my first semester.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هذا سيكون الفصل الدراسي الأول.",
 			"Egyptian Arabic Audio": "eca-1050-32.mp3",
 			"Standard Arabic Audio": "msa-1050-32.mp3"
 		},
@@ -321,7 +321,7 @@
 			"English": "Have you taken the placement test yet?",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هل أجريت اختبار تحديد المستوى بعد؟",
 			"Egyptian Arabic Audio": "eca-1050-33.mp3",
 			"Standard Arabic Audio": "msa-1050-33.mp3"
 		},
@@ -331,7 +331,7 @@
 			"English": "I believe I already took the placement test last month.",
 			"Word Count": 10,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أعتقد أنني أخذت بالفعل اختبار التنسيب الشهر الماضي.",
 			"Egyptian Arabic Audio": "eca-1050-34.mp3",
 			"Standard Arabic Audio": "msa-1050-34.mp3"
 		},
@@ -341,7 +341,7 @@
 			"English": "What math and English classes did you get placed in?",
 			"Word Count": 10,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ما هي دروس الرياضيات والانجليزية التي حصلت عليها؟",
 			"Egyptian Arabic Audio": "eca-1050-35.mp3",
 			"Standard Arabic Audio": "msa-1050-35.mp3"
 		},
@@ -351,7 +351,7 @@
 			"English": "I was placed in English 1A and Math 131.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنا وضعت في اللغة الإنجليزية 1A والرياضيات 131.",
 			"Egyptian Arabic Audio": "eca-1050-36.mp3",
 			"Standard Arabic Audio": "msa-1050-36.mp3"
 		},
@@ -361,7 +361,7 @@
 			"English": "I'll make sure you have those classes this semester.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "سوف نتأكد من أن لديك هذه الطبقات هذا الفصل الدراسي.",
 			"Egyptian Arabic Audio": "eca-1050-37.mp3",
 			"Standard Arabic Audio": "msa-1050-37.mp3"
 		}

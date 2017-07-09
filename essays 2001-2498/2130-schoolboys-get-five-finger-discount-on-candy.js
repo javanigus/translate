@@ -9,7 +9,7 @@
 			"English": "\"Come back here.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "&quot;عد إلى هنا.",
 			"Egyptian Arabic Audio": "eca-2130-1.mp3",
 			"Standard Arabic Audio": "msa-2130-1.mp3"
 		},
@@ -18,7 +18,7 @@
 			"English": "You forgot your change!\" Mr Cobb yelled at them.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كنت نسيت التغيير الخاص بك! &quot;السيد كوب صرخ عليهم.",
 			"Egyptian Arabic Audio": "eca-2130-2.mp3",
 			"Standard Arabic Audio": "msa-2130-2.mp3"
 		}

@@ -11,7 +11,7 @@
 			"English": "Can I please have a rum and coke?",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هل يمكن أن يكون لديك رم وفحم الكوك؟",
 			"Egyptian Arabic Audio": "eca-0880-1.mp3",
 			"Standard Arabic Audio": "msa-0880-1.mp3"
 		},
@@ -21,7 +21,7 @@
 			"English": "You are going to have to wait until we take off and are at a cruising  altitude.",
 			"Word Count": 17,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنت ذاهب إلى أن ننتظر حتى تقلع ونحن على ارتفاع المبحرة.",
 			"Egyptian Arabic Audio": "eca-0880-2.mp3",
 			"Standard Arabic Audio": "msa-0880-2.mp3"
 		},
@@ -31,7 +31,7 @@
 			"English": "I hate flying though, and I really need something to take the edge off.",
 			"Word Count": 14,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أكره الطيران على الرغم من أنني حقا بحاجة إلى شيء على حافة قبالة.",
 			"Egyptian Arabic Audio": "eca-0880-3.mp3",
 			"Standard Arabic Audio": "msa-0880-3.mp3"
 		},
@@ -41,7 +41,7 @@
 			"English": "I'm sorry we don't serve anything until after take-off.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنا آسف لأننا لا نخدم أي شيء حتى بعد الإقلاع.",
 			"Egyptian Arabic Audio": "eca-0880-4.mp3",
 			"Standard Arabic Audio": "msa-0880-4.mp3"
 		},
@@ -51,7 +51,7 @@
 			"English": "I can pay you in cash.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنا يمكن أن تدفع لك نقدا.",
 			"Egyptian Arabic Audio": "eca-0880-5.mp3",
 			"Standard Arabic Audio": "msa-0880-5.mp3"
 		},
@@ -61,7 +61,7 @@
 			"English": "We don't take cash on the plane anymore.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "نحن لا تأخذ النقدية على متن الطائرة بعد الآن.",
 			"Egyptian Arabic Audio": "eca-0880-6.mp3",
 			"Standard Arabic Audio": "msa-0880-6.mp3"
 		},
@@ -71,7 +71,7 @@
 			"English": "So how can I pay?",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "فكيف يمكنني دفع؟",
 			"Egyptian Arabic Audio": "eca-0880-7.mp3",
 			"Standard Arabic Audio": "msa-0880-7.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "When I come around after we take off, you can pay with a debit or credit card.",
 			"Word Count": 17,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "عندما جئت بعد أن تقلع، يمكنك الدفع بواسطة بطاقة الخصم أو الائتمان.",
 			"Egyptian Arabic Audio": "eca-0880-8.mp3",
 			"Standard Arabic Audio": "msa-0880-8.mp3"
 		},
@@ -91,7 +91,7 @@
 			"English": "I only have cash.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنا فقط النقدية.",
 			"Egyptian Arabic Audio": "eca-0880-9.mp3",
 			"Standard Arabic Audio": "msa-0880-9.mp3"
 		},
@@ -101,7 +101,7 @@
 			"English": "See if someone will buy you a drink then.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "معرفة ما إذا كان شخص ما سوف يشتري لك شراب ثم.",
 			"Egyptian Arabic Audio": "eca-0880-10.mp3",
 			"Standard Arabic Audio": "msa-0880-10.mp3"
 		},
@@ -111,7 +111,7 @@
 			"English": "Can I smoke a cigarette to relax in the meantime?",
 			"Word Count": 10,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هل يمكنني تدخين سيجارة للاسترخاء في هذه الأثناء؟",
 			"Egyptian Arabic Audio": "eca-0880-11.mp3",
 			"Standard Arabic Audio": "msa-0880-11.mp3"
 		},
@@ -121,7 +121,7 @@
 			"English": "Smoking isn't allowed on flights.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لا يسمح بالتدخين على الرحلات الجوية.",
 			"Egyptian Arabic Audio": "eca-0880-12.mp3",
 			"Standard Arabic Audio": "msa-0880-12.mp3"
 		}

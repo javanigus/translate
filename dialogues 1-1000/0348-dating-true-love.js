@@ -11,7 +11,7 @@
 			"English": "I love you.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أحبك.",
 			"Egyptian Arabic Audio": "eca-0348-1.mp3",
 			"Standard Arabic Audio": "msa-0348-1.mp3"
 		},
@@ -21,7 +21,7 @@
 			"English": "I love you, too.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "احبك ايضا.",
 			"Egyptian Arabic Audio": "eca-0348-2.mp3",
 			"Standard Arabic Audio": "msa-0348-2.mp3"
 		},
@@ -31,7 +31,7 @@
 			"English": "I loved you the first day I saw you.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنا أحبك في اليوم الأول رأيت لك.",
 			"Egyptian Arabic Audio": "eca-0348-3.mp3",
 			"Standard Arabic Audio": "msa-0348-3.mp3"
 		},
@@ -41,7 +41,7 @@
 			"English": "It was love at first sight?",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كان حبا من النظرة الأولى؟",
 			"Egyptian Arabic Audio": "eca-0348-4.mp3",
 			"Standard Arabic Audio": "msa-0348-4.mp3"
 		},
@@ -51,7 +51,7 @@
 			"English": "Yes, it was love at first sight.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "نعم، كان الحب من النظرة الأولى.",
 			"Egyptian Arabic Audio": "eca-0348-5.mp3",
 			"Standard Arabic Audio": "msa-0348-5.mp3"
 		},
@@ -61,7 +61,7 @@
 			"English": "I didn't love you at first.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لم أكن أحبك في البداية.",
 			"Egyptian Arabic Audio": "eca-0348-6.mp3",
 			"Standard Arabic Audio": "msa-0348-6.mp3"
 		},
@@ -71,7 +71,7 @@
 			"English": "I know. I had to chase you for a while.",
 			"Word Count": 10,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "اعرف. اضطررت لمطاردة لك لفترة من الوقت.",
 			"Egyptian Arabic Audio": "eca-0348-7.mp3",
 			"Standard Arabic Audio": "msa-0348-7.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "Yes, you chased me and then you caught me.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "نعم، كنت مطاردة لي ثم اشتعلت لي.",
 			"Egyptian Arabic Audio": "eca-0348-8.mp3",
 			"Standard Arabic Audio": "msa-0348-8.mp3"
 		},
@@ -91,7 +91,7 @@
 			"English": "Now you're mine forever.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "الآن أنت الألغام إلى الأبد.",
 			"Egyptian Arabic Audio": "eca-0348-9.mp3",
 			"Standard Arabic Audio": "msa-0348-9.mp3"
 		},
@@ -101,7 +101,7 @@
 			"English": "And you're mine forever.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وكنت الألغام إلى الأبد.",
 			"Egyptian Arabic Audio": "eca-0348-10.mp3",
 			"Standard Arabic Audio": "msa-0348-10.mp3"
 		},
@@ -111,7 +111,7 @@
 			"English": "We'll grow old together.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "سنعمل على النمو معا.",
 			"Egyptian Arabic Audio": "eca-0348-11.mp3",
 			"Standard Arabic Audio": "msa-0348-11.mp3"
 		},
@@ -121,7 +121,7 @@
 			"English": "And be happy together.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وتكون سعيدا معا.",
 			"Egyptian Arabic Audio": "eca-0348-12.mp3",
 			"Standard Arabic Audio": "msa-0348-12.mp3"
 		}

@@ -11,7 +11,7 @@
 			"English": "I would like to exchange this dress.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وأود أن تبادل هذا اللباس.",
 			"Egyptian Arabic Audio": "eca-1190-1.mp3",
 			"Standard Arabic Audio": "msa-1190-1.mp3"
 		},
@@ -21,7 +21,7 @@
 			"English": "You can exchange this dress with anything of the same value.",
 			"Word Count": 11,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يمكنك تبادل هذا اللباس مع أي شيء من نفس القيمة.",
 			"Egyptian Arabic Audio": "eca-1190-2.mp3",
 			"Standard Arabic Audio": "msa-1190-2.mp3"
 		},
@@ -31,7 +31,7 @@
 			"English": "Is there anything on sale today?",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هل هناك أي شيء للبيع اليوم؟",
 			"Egyptian Arabic Audio": "eca-1190-3.mp3",
 			"Standard Arabic Audio": "msa-1190-3.mp3"
 		},
@@ -41,7 +41,7 @@
 			"English": "I'm sorry. There are no sales today.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنا آسف. لا توجد مبيعات اليوم.",
 			"Egyptian Arabic Audio": "eca-1190-4.mp3",
 			"Standard Arabic Audio": "msa-1190-4.mp3"
 		},
@@ -51,7 +51,7 @@
 			"English": "Are dresses going to be on sale?",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هل الفساتين ستكون للبيع؟",
 			"Egyptian Arabic Audio": "eca-1190-5.mp3",
 			"Standard Arabic Audio": "msa-1190-5.mp3"
 		},
@@ -61,7 +61,7 @@
 			"English": "Everything's going to be on sale next weekend.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كل شيء سيكون للبيع في نهاية الأسبوع المقبل.",
 			"Egyptian Arabic Audio": "eca-1190-6.mp3",
 			"Standard Arabic Audio": "msa-1190-6.mp3"
 		},
@@ -71,7 +71,7 @@
 			"English": "That's great. I'll wait. See you next weekend.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ذلك رائع. سوف انتظر. نراكم الأسبوع المقبل.",
 			"Egyptian Arabic Audio": "eca-1190-7.mp3",
 			"Standard Arabic Audio": "msa-1190-7.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "Okay. I'll see you then.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "حسنا. سوف أراك بعد ذلك.",
 			"Egyptian Arabic Audio": "eca-1190-8.mp3",
 			"Standard Arabic Audio": "msa-1190-8.mp3"
 		},
@@ -91,7 +91,7 @@
 			"English": "I want to exchange this dress.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أريد أن تبادل هذا اللباس.",
 			"Egyptian Arabic Audio": "eca-1190-9.mp3",
 			"Standard Arabic Audio": "msa-1190-9.mp3"
 		},
@@ -101,7 +101,7 @@
 			"English": "You can exchange it with anything of the same price.",
 			"Word Count": 10,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يمكنك تبادلها مع أي شيء من نفس السعر.",
 			"Egyptian Arabic Audio": "eca-1190-10.mp3",
 			"Standard Arabic Audio": "msa-1190-10.mp3"
 		},
@@ -111,7 +111,7 @@
 			"English": "Are there any sales today?",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هل هناك أي مبيعات اليوم؟",
 			"Egyptian Arabic Audio": "eca-1190-11.mp3",
 			"Standard Arabic Audio": "msa-1190-11.mp3"
 		},
@@ -121,7 +121,7 @@
 			"English": "We're having a big sale next weekend, but nothing today.",
 			"Word Count": 10,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "نحن نملك بيع كبير في نهاية الأسبوع المقبل، ولكن لا شيء اليوم.",
 			"Egyptian Arabic Audio": "eca-1190-12.mp3",
 			"Standard Arabic Audio": "msa-1190-12.mp3"
 		},
@@ -131,7 +131,7 @@
 			"English": "What's going to be on sale?",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ماذا سيكون للبيع؟",
 			"Egyptian Arabic Audio": "eca-1190-13.mp3",
 			"Standard Arabic Audio": "msa-1190-13.mp3"
 		},
@@ -141,7 +141,7 @@
 			"English": "Dresses, skirts, blouses, pantsuits…everything will be on sale",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "فساتين، التنانير، البلوزات، بانتسويتس ... كل شيء سيكون للبيع",
 			"Egyptian Arabic Audio": "eca-1190-14.mp3",
 			"Standard Arabic Audio": "msa-1190-14.mp3"
 		}

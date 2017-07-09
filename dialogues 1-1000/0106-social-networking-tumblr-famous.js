@@ -11,7 +11,7 @@
 			"English": "I am following my favorite artist on Tumblr.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنا أتابع الفنان المفضل لدي على تومبلر.",
 			"Egyptian Arabic Audio": "eca-0106-1.mp3",
 			"Standard Arabic Audio": "msa-0106-1.mp3"
 		},
@@ -21,7 +21,7 @@
 			"English": "Why are you following their blogs?",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لماذا تتابع مدوناتهم؟",
 			"Egyptian Arabic Audio": "eca-0106-2.mp3",
 			"Standard Arabic Audio": "msa-0106-2.mp3"
 		},
@@ -31,7 +31,7 @@
 			"English": "I am hoping they will see my drawings.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "آمل أن نرى رسوماتي.",
 			"Egyptian Arabic Audio": "eca-0106-3.mp3",
 			"Standard Arabic Audio": "msa-0106-3.mp3"
 		},
@@ -41,7 +41,7 @@
 			"English": "What would that do?",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ماذا يفعل ذلك؟",
 			"Egyptian Arabic Audio": "eca-0106-4.mp3",
 			"Standard Arabic Audio": "msa-0106-4.mp3"
 		},
@@ -51,7 +51,7 @@
 			"English": "I heard that some artists find jobs this way.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "سمعت أن بعض الفنانين يجدون وظائف بهذه الطريقة.",
 			"Egyptian Arabic Audio": "eca-0106-5.mp3",
 			"Standard Arabic Audio": "msa-0106-5.mp3"
 		},
@@ -61,7 +61,7 @@
 			"English": "You mean the artist hires them?",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يعني أن الفنان يستأجرهم؟",
 			"Egyptian Arabic Audio": "eca-0106-6.mp3",
 			"Standard Arabic Audio": "msa-0106-6.mp3"
 		},
@@ -71,7 +71,7 @@
 			"English": "Sometimes, if their art is good.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "في بعض الأحيان، إذا كان فنهم جيد.",
 			"Egyptian Arabic Audio": "eca-0106-7.mp3",
 			"Standard Arabic Audio": "msa-0106-7.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "That sounds amazing.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هذا رائع.",
 			"Egyptian Arabic Audio": "eca-0106-8.mp3",
 			"Standard Arabic Audio": "msa-0106-8.mp3"
 		},
@@ -91,7 +91,7 @@
 			"English": "Tumblr is very good for getting noticed.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "نعرفكم جيدة جدا للحصول على لاحظت.",
 			"Egyptian Arabic Audio": "eca-0106-9.mp3",
 			"Standard Arabic Audio": "msa-0106-9.mp3"
 		},
@@ -101,7 +101,7 @@
 			"English": "I want to be a singer.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أريد أن أكون مغنية.",
 			"Egyptian Arabic Audio": "eca-0106-10.mp3",
 			"Standard Arabic Audio": "msa-0106-10.mp3"
 		},
@@ -111,7 +111,7 @@
 			"English": "Maybe you can post some songs on Tumblr.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ربما يمكنك نشر بعض الأغاني على نعرفكم.",
 			"Egyptian Arabic Audio": "eca-0106-11.mp3",
 			"Standard Arabic Audio": "msa-0106-11.mp3"
 		},
@@ -121,7 +121,7 @@
 			"English": "I don't think Lady Gaga will notice me.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لا أعتقد أن السيدة غاغا ستلاحظني.",
 			"Egyptian Arabic Audio": "eca-0106-12.mp3",
 			"Standard Arabic Audio": "msa-0106-12.mp3"
 		}

@@ -9,7 +9,7 @@
 			"English": "It is flu season.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "إنه موسم الإنفلونزا.",
 			"Egyptian Arabic Audio": "eca-1264-1.mp3",
 			"Standard Arabic Audio": "msa-1264-1.mp3"
 		},
@@ -18,7 +18,7 @@
 			"English": "You must be careful.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يجب أن تكون حذرا.",
 			"Egyptian Arabic Audio": "eca-1264-2.mp3",
 			"Standard Arabic Audio": "msa-1264-2.mp3"
 		},
@@ -27,7 +27,7 @@
 			"English": "It is very easy to catch the flu.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "فمن السهل جدا للقبض على الانفلونزا.",
 			"Egyptian Arabic Audio": "eca-1264-3.mp3",
 			"Standard Arabic Audio": "msa-1264-3.mp3"
 		},
@@ -36,7 +36,7 @@
 			"English": "You should wash your hands often.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يجب غسل يديك في كثير من الأحيان.",
 			"Egyptian Arabic Audio": "eca-1264-4.mp3",
 			"Standard Arabic Audio": "msa-1264-4.mp3"
 		},
@@ -45,7 +45,7 @@
 			"English": "You should get a flu shot.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يجب أن تحصل على انفلونزا النار.",
 			"Egyptian Arabic Audio": "eca-1264-5.mp3",
 			"Standard Arabic Audio": "msa-1264-5.mp3"
 		},
@@ -54,7 +54,7 @@
 			"English": "A flu shot will help protect you.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "سوف انفلونزا النار تساعد على حمايتك.",
 			"Egyptian Arabic Audio": "eca-1264-6.mp3",
 			"Standard Arabic Audio": "msa-1264-6.mp3"
 		},
@@ -63,7 +63,7 @@
 			"English": "But there is a problem with a flu shot.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ولكن هناك مشكلة مع انفلونزا النار.",
 			"Egyptian Arabic Audio": "eca-1264-7.mp3",
 			"Standard Arabic Audio": "msa-1264-7.mp3"
 		},
@@ -72,7 +72,7 @@
 			"English": "The problem is the needle.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "المشكلة هي الإبرة.",
 			"Egyptian Arabic Audio": "eca-1264-8.mp3",
 			"Standard Arabic Audio": "msa-1264-8.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "The nurse will stick a needle in your arm.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "سوف الممرضة عصا إبرة في ذراعك.",
 			"Egyptian Arabic Audio": "eca-1264-9.mp3",
 			"Standard Arabic Audio": "msa-1264-9.mp3"
 		},
@@ -90,7 +90,7 @@
 			"English": "Your arm will be sore for a day.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "سوف يكون ذراعك قرحة ليوم واحد.",
 			"Egyptian Arabic Audio": "eca-1264-10.mp3",
 			"Standard Arabic Audio": "msa-1264-10.mp3"
 		},
@@ -99,7 +99,7 @@
 			"English": "Maybe two days.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ربما يومين.",
 			"Egyptian Arabic Audio": "eca-1264-11.mp3",
 			"Standard Arabic Audio": "msa-1264-11.mp3"
 		},
@@ -108,7 +108,7 @@
 			"English": "Nobody likes to have a sore arm.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لا أحد يحب أن يكون الذراع قرحة.",
 			"Egyptian Arabic Audio": "eca-1264-12.mp3",
 			"Standard Arabic Audio": "msa-1264-12.mp3"
 		},
@@ -117,7 +117,7 @@
 			"English": "But which is worse�a sore arm, or a sore body? A sore body is worse than a sore arm.",
 			"Word Count": 19,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ولكن ما هو أسوأ الذراع قرحة، أو هيئة قرحة؟ الجسم القرحة هو أسوأ من الذراع القرحة.",
 			"Egyptian Arabic Audio": "eca-1264-13.mp3",
 			"Standard Arabic Audio": "msa-1264-13.mp3"
 		},
@@ -126,7 +126,7 @@
 			"English": "Do you want your arm to hurt, or do you want your whole body to hurt? Your body will hurt for a week.",
 			"Word Count": 23,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هل تريد ذراعك إلى الأذى، أو هل تريد الجسم كله إلى الأذى؟ سوف يضر جسمك لمدة أسبوع.",
 			"Egyptian Arabic Audio": "eca-1264-14.mp3",
 			"Standard Arabic Audio": "msa-1264-14.mp3"
 		},
@@ -135,7 +135,7 @@
 			"English": "Maybe it will hurt for two weeks.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ربما سوف يضر لمدة أسبوعين.",
 			"Egyptian Arabic Audio": "eca-1264-15.mp3",
 			"Standard Arabic Audio": "msa-1264-15.mp3"
 		}

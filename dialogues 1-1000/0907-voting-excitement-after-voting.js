@@ -11,7 +11,7 @@
 			"English": "That was such a rush.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كان هذا الاندفاع.",
 			"Egyptian Arabic Audio": "eca-0907-1.mp3",
 			"Standard Arabic Audio": "msa-0907-1.mp3"
 		},
@@ -21,7 +21,7 @@
 			"English": "What did you do?",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ما الذي فعلته؟",
 			"Egyptian Arabic Audio": "eca-0907-2.mp3",
 			"Standard Arabic Audio": "msa-0907-2.mp3"
 		},
@@ -31,7 +31,7 @@
 			"English": "It was my first time voting in an election.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لقد كانت المرة الأولى التي تصوت فيها في الانتخابات.",
 			"Egyptian Arabic Audio": "eca-0907-3.mp3",
 			"Standard Arabic Audio": "msa-0907-3.mp3"
 		},
@@ -41,7 +41,7 @@
 			"English": "Oh wow! Congratulations, but why is that so exciting for you?",
 			"Word Count": 11,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يا نجاح باهر! تهانينا، ولكن لماذا هذا مثير جدا بالنسبة لك؟",
 			"Egyptian Arabic Audio": "eca-0907-4.mp3",
 			"Standard Arabic Audio": "msa-0907-4.mp3"
 		},
@@ -51,7 +51,7 @@
 			"English": "Are you kidding? I just played a role in history.",
 			"Word Count": 10,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنت تمزح؟ لقد لعبت دورا في التاريخ.",
 			"Egyptian Arabic Audio": "eca-0907-5.mp3",
 			"Standard Arabic Audio": "msa-0907-5.mp3"
 		},
@@ -61,7 +61,7 @@
 			"English": "What if the incumbent wins?",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ماذا لو فاز شاغل الوظيفة؟",
 			"Egyptian Arabic Audio": "eca-0907-6.mp3",
 			"Standard Arabic Audio": "msa-0907-6.mp3"
 		},
@@ -71,7 +71,7 @@
 			"English": "Still, participating in U.S. democracy is great.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ومع ذلك، فإن المشاركة في الديمقراطية الأمريكية كبيرة.",
 			"Egyptian Arabic Audio": "eca-0907-7.mp3",
 			"Standard Arabic Audio": "msa-0907-7.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "Maybe because I've done it so many times, and it doesn't seem like a big deal to me.",
 			"Word Count": 18,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ربما لأنني فعلت ذلك مرات عديدة، وأنه لا يبدو وكأنه صفقة كبيرة بالنسبة لي.",
 			"Egyptian Arabic Audio": "eca-0907-8.mp3",
 			"Standard Arabic Audio": "msa-0907-8.mp3"
 		},
@@ -91,7 +91,7 @@
 			"English": "I can't wait to vote again next election.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لا أستطيع الانتظار للتصويت مرة أخرى الانتخابات المقبلة.",
 			"Egyptian Arabic Audio": "eca-0907-9.mp3",
 			"Standard Arabic Audio": "msa-0907-9.mp3"
 		},
@@ -101,7 +101,7 @@
 			"English": "Not everyone votes, so it's good that you take it seriously.",
 			"Word Count": 11,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ليس الجميع يصوت، لذلك فمن الجيد أن كنت تأخذ على محمل الجد.",
 			"Egyptian Arabic Audio": "eca-0907-10.mp3",
 			"Standard Arabic Audio": "msa-0907-10.mp3"
 		},
@@ -111,7 +111,7 @@
 			"English": "Everyone should take it seriously.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يجب على الجميع أن يأخذ على محمل الجد.",
 			"Egyptian Arabic Audio": "eca-0907-11.mp3",
 			"Standard Arabic Audio": "msa-0907-11.mp3"
 		},
@@ -121,7 +121,7 @@
 			"English": "You're a great example.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنت مثال رائع.",
 			"Egyptian Arabic Audio": "eca-0907-12.mp3",
 			"Standard Arabic Audio": "msa-0907-12.mp3"
 		}

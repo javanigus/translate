@@ -9,7 +9,7 @@
 			"English": "When the moving day came, he couldn't do it.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "عندما جاء يوم التحرك، وقال انه لا يمكن القيام بذلك.",
 			"Egyptian Arabic Audio": "eca-0831-1.mp3",
 			"Standard Arabic Audio": "msa-0831-1.mp3"
 		},
@@ -18,7 +18,7 @@
 			"English": "Mitchell ran to his room and grabbed Buddy.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ركض ميتشل إلى غرفته وأمسك الأصدقاء.",
 			"Egyptian Arabic Audio": "eca-0831-2.mp3",
 			"Standard Arabic Audio": "msa-0831-2.mp3"
 		},
@@ -27,7 +27,7 @@
 			"English": "He hid him in his suitcase.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "اختبأ له في حقيبته.",
 			"Egyptian Arabic Audio": "eca-0831-3.mp3",
 			"Standard Arabic Audio": "msa-0831-3.mp3"
 		},
@@ -36,7 +36,7 @@
 			"English": "Then he hid him under his pillow at college.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ثم اختبأه تحت وسادته في الكلية.",
 			"Egyptian Arabic Audio": "eca-0831-4.mp3",
 			"Standard Arabic Audio": "msa-0831-4.mp3"
 		},
@@ -45,7 +45,7 @@
 			"English": "No one ever found out that Mitchell slept with a teddy bear.",
 			"Word Count": 12,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لم يجد أحد أن ميتشل ينام مع دمية دب.",
 			"Egyptian Arabic Audio": "eca-0831-5.mp3",
 			"Standard Arabic Audio": "msa-0831-5.mp3"
 		}

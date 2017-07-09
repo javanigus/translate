@@ -11,7 +11,7 @@
 			"English": "Would you put suntan lotion on my back, please?",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هل تضع محلول سونتان على ظهري، من فضلك؟",
 			"Egyptian Arabic Audio": "eca-0446-1.mp3",
 			"Standard Arabic Audio": "msa-0446-1.mp3"
 		},
@@ -21,7 +21,7 @@
 			"English": "Sure.",
 			"Word Count": 1,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "بالتأكيد.",
 			"Egyptian Arabic Audio": "eca-0446-2.mp3",
 			"Standard Arabic Audio": "msa-0446-2.mp3"
 		},
@@ -31,7 +31,7 @@
 			"English": "Thank you.",
 			"Word Count": 2,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "شكرا.",
 			"Egyptian Arabic Audio": "eca-0446-3.mp3",
 			"Standard Arabic Audio": "msa-0446-3.mp3"
 		},
@@ -41,7 +41,7 @@
 			"English": "You shouldn't lie in the sun for too long.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يجب أن لا تكذب في الشمس لفترة طويلة جدا.",
 			"Egyptian Arabic Audio": "eca-0446-4.mp3",
 			"Standard Arabic Audio": "msa-0446-4.mp3"
 		},
@@ -51,7 +51,7 @@
 			"English": "I want to get a tan. I don't want to look so pale.",
 			"Word Count": 13,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أريد الحصول على تان. أنا لا أريد أن تبدو شاحب جدا.",
 			"Egyptian Arabic Audio": "eca-0446-5.mp3",
 			"Standard Arabic Audio": "msa-0446-5.mp3"
 		},
@@ -61,7 +61,7 @@
 			"English": "What's wrong with looking pale?",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ما هو الخطأ في النظر شاحب؟",
 			"Egyptian Arabic Audio": "eca-0446-6.mp3",
 			"Standard Arabic Audio": "msa-0446-6.mp3"
 		},
@@ -71,7 +71,7 @@
 			"English": "People think you might be sick.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "الناس يعتقدون أنك قد تكون مريضة.",
 			"Egyptian Arabic Audio": "eca-0446-7.mp3",
 			"Standard Arabic Audio": "msa-0446-7.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "Who thinks that?",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "من يعتقد ذلك؟",
 			"Egyptian Arabic Audio": "eca-0446-8.mp3",
 			"Standard Arabic Audio": "msa-0446-8.mp3"
 		},
@@ -91,7 +91,7 @@
 			"English": "I don't know.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انا لا اعرف.",
 			"Egyptian Arabic Audio": "eca-0446-9.mp3",
 			"Standard Arabic Audio": "msa-0446-9.mp3"
 		},
@@ -101,7 +101,7 @@
 			"English": "It's better to be pale than to have skin cancer.",
 			"Word Count": 10,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "فمن الأفضل أن تكون شاحب من أن يكون سرطان الجلد.",
 			"Egyptian Arabic Audio": "eca-0446-10.mp3",
 			"Standard Arabic Audio": "msa-0446-10.mp3"
 		},
@@ -111,7 +111,7 @@
 			"English": "I know that.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وأنا أعلم ذلك.",
 			"Egyptian Arabic Audio": "eca-0446-11.mp3",
 			"Standard Arabic Audio": "msa-0446-11.mp3"
 		},
@@ -121,7 +121,7 @@
 			"English": "So why are you arguing with me? Don't lie in the sun too long!",
 			"Word Count": 14,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "فلماذا تجادلون معي؟ لا تكذب في الشمس طويلة جدا!",
 			"Egyptian Arabic Audio": "eca-0446-12.mp3",
 			"Standard Arabic Audio": "msa-0446-12.mp3"
 		}

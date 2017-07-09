@@ -9,7 +9,7 @@
 			"English": "Jennifer pulled the trash can out to the street.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "سحبت جنيفر سلة المهملات إلى الشارع.",
 			"Egyptian Arabic Audio": "eca-1227-1.mp3",
 			"Standard Arabic Audio": "msa-1227-1.mp3"
 		},
@@ -18,7 +18,7 @@
 			"English": "She pulled the trash can out to the street on Monday morning.",
 			"Word Count": 12,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وقد سحبت سلة المهملات الى الشارع صباح يوم الاثنين.",
 			"Egyptian Arabic Audio": "eca-1227-2.mp3",
 			"Standard Arabic Audio": "msa-1227-2.mp3"
 		},
@@ -27,7 +27,7 @@
 			"English": "Monday was trash day.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وكان يوم الاثنين هو سلة المهملات.",
 			"Egyptian Arabic Audio": "eca-1227-3.mp3",
 			"Standard Arabic Audio": "msa-1227-3.mp3"
 		},
@@ -36,7 +36,7 @@
 			"English": "The trash truck came to her house.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وجاءت شاحنة القمامة إلى منزلها.",
 			"Egyptian Arabic Audio": "eca-1227-4.mp3",
 			"Standard Arabic Audio": "msa-1227-4.mp3"
 		},
@@ -45,7 +45,7 @@
 			"English": "The truck had a metal arm.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كان للشاحنة ذراع معدني.",
 			"Egyptian Arabic Audio": "eca-1227-5.mp3",
 			"Standard Arabic Audio": "msa-1227-5.mp3"
 		},
@@ -54,7 +54,7 @@
 			"English": "The metal arm picked up the trash can.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "الذراع المعدني التقطت سلة المهملات.",
 			"Egyptian Arabic Audio": "eca-1227-6.mp3",
 			"Standard Arabic Audio": "msa-1227-6.mp3"
 		},
@@ -63,7 +63,7 @@
 			"English": "It raised the trash can into the sky.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "رفعت سلة المهملات إلى السماء.",
 			"Egyptian Arabic Audio": "eca-1227-7.mp3",
 			"Standard Arabic Audio": "msa-1227-7.mp3"
 		},
@@ -72,7 +72,7 @@
 			"English": "It emptied the trash can into the truck.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنها أفرغت سلة المهملات في الشاحنة.",
 			"Egyptian Arabic Audio": "eca-1227-8.mp3",
 			"Standard Arabic Audio": "msa-1227-8.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "Then the arm put the can back on the street.",
 			"Word Count": 10,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ثم وضع الذراع العلبة مرة أخرى على الشارع.",
 			"Egyptian Arabic Audio": "eca-1227-9.mp3",
 			"Standard Arabic Audio": "msa-1227-9.mp3"
 		},
@@ -90,7 +90,7 @@
 			"English": "On Monday afternoon Jennifer walked out to the street.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "بعد ظهر يوم الاثنين خرجت جنيفر إلى الشارع.",
 			"Egyptian Arabic Audio": "eca-1227-10.mp3",
 			"Standard Arabic Audio": "msa-1227-10.mp3"
 		},
@@ -99,7 +99,7 @@
 			"English": "The trash can was empty.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كانت سلة المهملات فارغة.",
 			"Egyptian Arabic Audio": "eca-1227-11.mp3",
 			"Standard Arabic Audio": "msa-1227-11.mp3"
 		},
@@ -108,7 +108,7 @@
 			"English": "She pulled the trash can back into her yard.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "سحبت سلة المهملات مرة أخرى إلى ساحة لها.",
 			"Egyptian Arabic Audio": "eca-1227-12.mp3",
 			"Standard Arabic Audio": "msa-1227-12.mp3"
 		},
@@ -117,7 +117,7 @@
 			"English": "Next Monday she would pull it out to the street again.",
 			"Word Count": 11,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يوم الاثنين المقبل انها سوف سحبه إلى الشارع مرة أخرى.",
 			"Egyptian Arabic Audio": "eca-1227-13.mp3",
 			"Standard Arabic Audio": "msa-1227-13.mp3"
 		}

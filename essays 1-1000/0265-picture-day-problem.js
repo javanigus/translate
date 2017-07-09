@@ -9,7 +9,7 @@
 			"English": "At North High School, students had to wear a uniform.",
 			"Word Count": 10,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "في المدرسة الثانوية الشمالية، كان على الطلاب ارتداء الزي الموحد.",
 			"Egyptian Arabic Audio": "eca-0265-1.mp3",
 			"Standard Arabic Audio": "msa-0265-1.mp3"
 		},
@@ -18,7 +18,7 @@
 			"English": "Picture Day was special though.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وكان يوم الصورة خاصة على الرغم من.",
 			"Egyptian Arabic Audio": "eca-0265-2.mp3",
 			"Standard Arabic Audio": "msa-0265-2.mp3"
 		},
@@ -27,7 +27,7 @@
 			"English": "On Picture Day, students could wear whatever they want.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "في يوم الصورة، يمكن للطلاب ارتداء ما يريدون.",
 			"Egyptian Arabic Audio": "eca-0265-3.mp3",
 			"Standard Arabic Audio": "msa-0265-3.mp3"
 		},
@@ -36,7 +36,7 @@
 			"English": "Girls took this chance to wear dresses.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أخذت الفتيات هذه الفرصة لارتداء الثياب.",
 			"Egyptian Arabic Audio": "eca-0265-4.mp3",
 			"Standard Arabic Audio": "msa-0265-4.mp3"
 		},
@@ -45,7 +45,7 @@
 			"English": "Boys took this chance to wear casual clothes.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "استغل الفتيان هذه الفرصة لارتداء ملابس عادية.",
 			"Egyptian Arabic Audio": "eca-0265-5.mp3",
 			"Standard Arabic Audio": "msa-0265-5.mp3"
 		},
@@ -54,7 +54,7 @@
 			"English": "Jimmy wanted everyone to notice him.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "جيمي يريد الجميع أن يلاحظه.",
 			"Egyptian Arabic Audio": "eca-0265-6.mp3",
 			"Standard Arabic Audio": "msa-0265-6.mp3"
 		},
@@ -63,7 +63,7 @@
 			"English": "He wore a shirt with a curse word on it.",
 			"Word Count": 10,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ارتدى قميص مع كلمة لعنة على ذلك.",
 			"Egyptian Arabic Audio": "eca-0265-7.mp3",
 			"Standard Arabic Audio": "msa-0265-7.mp3"
 		},
@@ -72,7 +72,7 @@
 			"English": "He walked proudly in the hallways.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "مشى بفخر في الممرات.",
 			"Egyptian Arabic Audio": "eca-0265-8.mp3",
 			"Standard Arabic Audio": "msa-0265-8.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "People noticed him.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لاحظ الناس له.",
 			"Egyptian Arabic Audio": "eca-0265-9.mp3",
 			"Standard Arabic Audio": "msa-0265-9.mp3"
 		},
@@ -90,7 +90,7 @@
 			"English": "His plan definitely worked.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "خطته عملت بالتأكيد.",
 			"Egyptian Arabic Audio": "eca-0265-10.mp3",
 			"Standard Arabic Audio": "msa-0265-10.mp3"
 		},
@@ -99,7 +99,7 @@
 			"English": "A teacher saw him.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "شاهده معلم.",
 			"Egyptian Arabic Audio": "eca-0265-11.mp3",
 			"Standard Arabic Audio": "msa-0265-11.mp3"
 		},
@@ -108,7 +108,7 @@
 			"English": "He was in trouble.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كان في ورطة.",
 			"Egyptian Arabic Audio": "eca-0265-12.mp3",
 			"Standard Arabic Audio": "msa-0265-12.mp3"
 		},
@@ -117,7 +117,7 @@
 			"English": "He ran away.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هرب.",
 			"Egyptian Arabic Audio": "eca-0265-13.mp3",
 			"Standard Arabic Audio": "msa-0265-13.mp3"
 		},
@@ -126,7 +126,7 @@
 			"English": "He ran inside the girl's bathroom.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ركض داخل حمام الفتاة.",
 			"Egyptian Arabic Audio": "eca-0265-14.mp3",
 			"Standard Arabic Audio": "msa-0265-14.mp3"
 		},
@@ -135,7 +135,7 @@
 			"English": "No one would find him in there.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لا أحد سيجده هناك.",
 			"Egyptian Arabic Audio": "eca-0265-15.mp3",
 			"Standard Arabic Audio": "msa-0265-15.mp3"
 		}

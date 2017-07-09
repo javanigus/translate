@@ -11,7 +11,7 @@
 			"English": "Can I borrow $5?",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هل يمكنني اقتراض $ 5؟",
 			"Egyptian Arabic Audio": "eca-0237-1.mp3",
 			"Standard Arabic Audio": "msa-0237-1.mp3"
 		},
@@ -21,7 +21,7 @@
 			"English": "Sure. Why do you need it?",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "بالتأكيد. لماذا تحتاج إليها؟",
 			"Egyptian Arabic Audio": "eca-0237-2.mp3",
 			"Standard Arabic Audio": "msa-0237-2.mp3"
 		},
@@ -31,7 +31,7 @@
 			"English": "I want to buy lunch.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أريد شراء الغداء.",
 			"Egyptian Arabic Audio": "eca-0237-3.mp3",
 			"Standard Arabic Audio": "msa-0237-3.mp3"
 		},
@@ -41,7 +41,7 @@
 			"English": "Where's your money?",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أين أموالك؟",
 			"Egyptian Arabic Audio": "eca-0237-4.mp3",
 			"Standard Arabic Audio": "msa-0237-4.mp3"
 		},
@@ -51,7 +51,7 @@
 			"English": "It's not in my wallet.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انها ليست في محفظتي.",
 			"Egyptian Arabic Audio": "eca-0237-5.mp3",
 			"Standard Arabic Audio": "msa-0237-5.mp3"
 		},
@@ -61,7 +61,7 @@
 			"English": "Your wallet is empty?",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "محفظتك فارغة؟",
 			"Egyptian Arabic Audio": "eca-0237-6.mp3",
 			"Standard Arabic Audio": "msa-0237-6.mp3"
 		},
@@ -71,7 +71,7 @@
 			"English": "I don't have even one dollar in it.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ليس لدي حتى دولار واحد في ذلك.",
 			"Egyptian Arabic Audio": "eca-0237-7.mp3",
 			"Standard Arabic Audio": "msa-0237-7.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "Being broke is no fun.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يجري كسر لا متعة.",
 			"Egyptian Arabic Audio": "eca-0237-8.mp3",
 			"Standard Arabic Audio": "msa-0237-8.mp3"
 		},
@@ -91,7 +91,7 @@
 			"English": "Even if it's only for a short while.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "حتى لو كان فقط لفترة قصيرة.",
 			"Egyptian Arabic Audio": "eca-0237-9.mp3",
 			"Standard Arabic Audio": "msa-0237-9.mp3"
 		},
@@ -101,7 +101,7 @@
 			"English": "It's always good to have friends.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انها دائما جيدة أن يكون الأصدقاء.",
 			"Egyptian Arabic Audio": "eca-0237-10.mp3",
 			"Standard Arabic Audio": "msa-0237-10.mp3"
 		},
@@ -111,7 +111,7 @@
 			"English": "Friends will lend you money when you're broke.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "سوف الأصدقاء تقدم لك المال عندما كنت كسر.",
 			"Egyptian Arabic Audio": "eca-0237-11.mp3",
 			"Standard Arabic Audio": "msa-0237-11.mp3"
 		},
@@ -121,7 +121,7 @@
 			"English": "As long as you pay them back.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "طالما كنت تدفع لهم مرة أخرى.",
 			"Egyptian Arabic Audio": "eca-0237-12.mp3",
 			"Standard Arabic Audio": "msa-0237-12.mp3"
 		}

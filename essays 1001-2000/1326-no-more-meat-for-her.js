@@ -9,7 +9,7 @@
 			"English": "She used to eat meat.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كانت تأكل اللحوم.",
 			"Egyptian Arabic Audio": "eca-1326-1.mp3",
 			"Standard Arabic Audio": "msa-1326-1.mp3"
 		},
@@ -18,7 +18,7 @@
 			"English": "She used to eat a lot of meat.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انها كانت تأكل الكثير من اللحوم.",
 			"Egyptian Arabic Audio": "eca-1326-2.mp3",
 			"Standard Arabic Audio": "msa-1326-2.mp3"
 		},
@@ -27,7 +27,7 @@
 			"English": "She used to eat beef.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كانت تأكل لحوم البقر.",
 			"Egyptian Arabic Audio": "eca-1326-3.mp3",
 			"Standard Arabic Audio": "msa-1326-3.mp3"
 		},
@@ -36,7 +36,7 @@
 			"English": "She used to eat pork.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كانت تأكل لحم الخنزير.",
 			"Egyptian Arabic Audio": "eca-1326-4.mp3",
 			"Standard Arabic Audio": "msa-1326-4.mp3"
 		},
@@ -45,7 +45,7 @@
 			"English": "She used to eat ham.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انها كانت تأكل لحم الخنزير.",
 			"Egyptian Arabic Audio": "eca-1326-5.mp3",
 			"Standard Arabic Audio": "msa-1326-5.mp3"
 		},
@@ -54,7 +54,7 @@
 			"English": "She used to eat chicken.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كانت تأكل الدجاج.",
 			"Egyptian Arabic Audio": "eca-1326-6.mp3",
 			"Standard Arabic Audio": "msa-1326-6.mp3"
 		},
@@ -63,7 +63,7 @@
 			"English": "She ate meat every day.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أكلت اللحوم كل يوم.",
 			"Egyptian Arabic Audio": "eca-1326-7.mp3",
 			"Standard Arabic Audio": "msa-1326-7.mp3"
 		},
@@ -72,7 +72,7 @@
 			"English": "She ate bacon for breakfast.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أكلت لحم الخنزير المقدد لتناول الإفطار.",
 			"Egyptian Arabic Audio": "eca-1326-8.mp3",
 			"Standard Arabic Audio": "msa-1326-8.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "She ate a hamburger or hot dog for lunch.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أكلت همبرغر أو هوت دوج لتناول طعام الغداء.",
 			"Egyptian Arabic Audio": "eca-1326-9.mp3",
 			"Standard Arabic Audio": "msa-1326-9.mp3"
 		},
@@ -90,7 +90,7 @@
 			"English": "She ate meat loaf for dinner.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أكلت رغيف اللحم للعشاء.",
 			"Egyptian Arabic Audio": "eca-1326-10.mp3",
 			"Standard Arabic Audio": "msa-1326-10.mp3"
 		},
@@ -99,7 +99,7 @@
 			"English": "She ate vegetables sometimes.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أكلت الخضروات أحيانا.",
 			"Egyptian Arabic Audio": "eca-1326-11.mp3",
 			"Standard Arabic Audio": "msa-1326-11.mp3"
 		},
@@ -108,7 +108,7 @@
 			"English": "She ate fruit sometimes.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أكلت الفاكهة أحيانا.",
 			"Egyptian Arabic Audio": "eca-1326-12.mp3",
 			"Standard Arabic Audio": "msa-1326-12.mp3"
 		},
@@ -117,7 +117,7 @@
 			"English": "She ate salad sometimes.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أكلت السلطة في بعض الأحيان.",
 			"Egyptian Arabic Audio": "eca-1326-13.mp3",
 			"Standard Arabic Audio": "msa-1326-13.mp3"
 		},
@@ -126,7 +126,7 @@
 			"English": "But she ate meat all the time.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لكنها أكلت اللحوم طوال الوقت.",
 			"Egyptian Arabic Audio": "eca-1326-14.mp3",
 			"Standard Arabic Audio": "msa-1326-14.mp3"
 		},
@@ -135,7 +135,7 @@
 			"English": "One day she walked by a dumpster.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يوم واحد وقالت انها يمشي من قبل القمامة.",
 			"Egyptian Arabic Audio": "eca-1326-15.mp3",
 			"Standard Arabic Audio": "msa-1326-15.mp3"
 		},
@@ -144,7 +144,7 @@
 			"English": "She smelled something.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انها رائحة شيء.",
 			"Egyptian Arabic Audio": "eca-1326-16.mp3",
 			"Standard Arabic Audio": "msa-1326-16.mp3"
 		},
@@ -153,7 +153,7 @@
 			"English": "It smelled bad.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "رائحة سيئة.",
 			"Egyptian Arabic Audio": "eca-1326-17.mp3",
 			"Standard Arabic Audio": "msa-1326-17.mp3"
 		},
@@ -162,7 +162,7 @@
 			"English": "It smelled really bad.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انها رائحة سيئة حقا.",
 			"Egyptian Arabic Audio": "eca-1326-18.mp3",
 			"Standard Arabic Audio": "msa-1326-18.mp3"
 		},
@@ -171,7 +171,7 @@
 			"English": "She opened the dumpster lid.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "فتحت غطاء القمامة.",
 			"Egyptian Arabic Audio": "eca-1326-19.mp3",
 			"Standard Arabic Audio": "msa-1326-19.mp3"
 		},
@@ -180,7 +180,7 @@
 			"English": "She looked in.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "نظرت في.",
 			"Egyptian Arabic Audio": "eca-1326-20.mp3",
 			"Standard Arabic Audio": "msa-1326-20.mp3"
 		},
@@ -189,7 +189,7 @@
 			"English": "She saw an opened package of raw hamburger meat.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ورأت حزمة مفتوحة من لحم همبرغر الخام.",
 			"Egyptian Arabic Audio": "eca-1326-21.mp3",
 			"Standard Arabic Audio": "msa-1326-21.mp3"
 		},
@@ -198,7 +198,7 @@
 			"English": "It was covered with flies and ants.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كانت مغطاة بالذباب والنمل.",
 			"Egyptian Arabic Audio": "eca-1326-22.mp3",
 			"Standard Arabic Audio": "msa-1326-22.mp3"
 		},
@@ -207,7 +207,7 @@
 			"English": "It stunk.",
 			"Word Count": 2,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انها ستونك.",
 			"Egyptian Arabic Audio": "eca-1326-23.mp3",
 			"Standard Arabic Audio": "msa-1326-23.mp3"
 		},
@@ -216,7 +216,7 @@
 			"English": "She closed the lid.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أغلقت الغطاء.",
 			"Egyptian Arabic Audio": "eca-1326-24.mp3",
 			"Standard Arabic Audio": "msa-1326-24.mp3"
 		},
@@ -225,7 +225,7 @@
 			"English": "She stopped eating meat.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "توقفت عن تناول اللحوم.",
 			"Egyptian Arabic Audio": "eca-1326-25.mp3",
 			"Standard Arabic Audio": "msa-1326-25.mp3"
 		}

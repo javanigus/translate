@@ -11,7 +11,7 @@
 			"English": "This is 911. What is your emergency?",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هذا هو 911. ما هو الطوارئ الخاصة بك؟",
 			"Egyptian Arabic Audio": "eca-0807-1.mp3",
 			"Standard Arabic Audio": "msa-0807-1.mp3"
 		},
@@ -21,7 +21,7 @@
 			"English": "I think my wife just had a stroke or a heart attack.",
 			"Word Count": 12,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وأعتقد أن زوجتي كان مجرد سكتة دماغية أو نوبة قلبية.",
 			"Egyptian Arabic Audio": "eca-0807-2.mp3",
 			"Standard Arabic Audio": "msa-0807-2.mp3"
 		},
@@ -31,7 +31,7 @@
 			"English": "Can you describe her symptoms?",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هل يمكنك وصف أعراضها؟",
 			"Egyptian Arabic Audio": "eca-0807-3.mp3",
 			"Standard Arabic Audio": "msa-0807-3.mp3"
 		},
@@ -41,7 +41,7 @@
 			"English": "She is unconscious but breathing. She won't wake up.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انها فاقد الوعي ولكن التنفس. وقالت انها لن يستيقظ.",
 			"Egyptian Arabic Audio": "eca-0807-4.mp3",
 			"Standard Arabic Audio": "msa-0807-4.mp3"
 		},
@@ -51,7 +51,7 @@
 			"English": "We are sending an ambulance right now.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "نحن نرسل سيارة إسعاف الآن.",
 			"Egyptian Arabic Audio": "eca-0807-5.mp3",
 			"Standard Arabic Audio": "msa-0807-5.mp3"
 		},
@@ -61,7 +61,7 @@
 			"English": "How do you know my address?",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كيف تعرف عنواني؟",
 			"Egyptian Arabic Audio": "eca-0807-6.mp3",
 			"Standard Arabic Audio": "msa-0807-6.mp3"
 		},
@@ -71,7 +71,7 @@
 			"English": "We can track it down through our phone system.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يمكننا تتبع ذلك من خلال نظام الهاتف لدينا.",
 			"Egyptian Arabic Audio": "eca-0807-7.mp3",
 			"Standard Arabic Audio": "msa-0807-7.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "How long will it take for the ambulance to get here?",
 			"Word Count": 11,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كم من الوقت سيستغرق سيارة الإسعاف للوصول إلى هنا؟",
 			"Egyptian Arabic Audio": "eca-0807-8.mp3",
 			"Standard Arabic Audio": "msa-0807-8.mp3"
 		},
@@ -91,7 +91,7 @@
 			"English": "It should be there in less than five minutes, sir.",
 			"Word Count": 10,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يجب أن يكون هناك في أقل من خمس دقائق، يا سيدي.",
 			"Egyptian Arabic Audio": "eca-0807-9.mp3",
 			"Standard Arabic Audio": "msa-0807-9.mp3"
 		},
@@ -101,7 +101,7 @@
 			"English": "I think I hear the ambulance coming now.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أعتقد أنني أسمع سيارة الإسعاف القادمة الآن.",
 			"Egyptian Arabic Audio": "eca-0807-10.mp3",
 			"Standard Arabic Audio": "msa-0807-10.mp3"
 		},
@@ -111,7 +111,7 @@
 			"English": "Please let the paramedics in so they can take your wife to the nearest hospital.",
 			"Word Count": 15,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يرجى ترك المسعفين حتى يتمكنوا من أخذ زوجتك إلى أقرب مستشفى.",
 			"Egyptian Arabic Audio": "eca-0807-11.mp3",
 			"Standard Arabic Audio": "msa-0807-11.mp3"
 		},
@@ -121,7 +121,7 @@
 			"English": "Thank you. I'll open the door.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "شكرا. سأفتح الباب.",
 			"Egyptian Arabic Audio": "eca-0807-12.mp3",
 			"Standard Arabic Audio": "msa-0807-12.mp3"
 		}

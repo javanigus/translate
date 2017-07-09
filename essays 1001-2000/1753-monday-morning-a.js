@@ -9,7 +9,7 @@
 			"English": "Mike had known this, but he needed to know where the iron was at.",
 			"Word Count": 14,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كان مايك يعرف هذا، لكنه كان بحاجة لمعرفة أين كان الحديد في.",
 			"Egyptian Arabic Audio": "eca-1753-1.mp3",
 			"Standard Arabic Audio": "msa-1753-1.mp3"
 		},
@@ -18,7 +18,7 @@
 			"English": "\"Where is the iron, Maria?\" he quickly asked.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "&quot;أين الحديد، ماريا؟&quot; سرعان ما طلب.",
 			"Egyptian Arabic Audio": "eca-1753-2.mp3",
 			"Standard Arabic Audio": "msa-1753-2.mp3"
 		},
@@ -27,7 +27,7 @@
 			"English": "\"It's in the closet,\" she answered.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وقالت &quot;انها في خزانة&quot;، أجابت.",
 			"Egyptian Arabic Audio": "eca-1753-3.mp3",
 			"Standard Arabic Audio": "msa-1753-3.mp3"
 		},
@@ -36,7 +36,7 @@
 			"English": "\"No, it's not,\" he replied.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "&quot;لا، انها ليست&quot;، أجاب.",
 			"Egyptian Arabic Audio": "eca-1753-4.mp3",
 			"Standard Arabic Audio": "msa-1753-4.mp3"
 		},
@@ -45,7 +45,7 @@
 			"English": "Maria then remembered where the location of the iron was.",
 			"Word Count": 10,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ثم تذكرت ماريا حيث كان موقع الحديد.",
 			"Egyptian Arabic Audio": "eca-1753-5.mp3",
 			"Standard Arabic Audio": "msa-1753-5.mp3"
 		},
@@ -54,7 +54,7 @@
 			"English": "\"Check under the bed,\" she said and turned to her side.",
 			"Word Count": 11,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "&quot;تحقق تحت السرير&quot;، وقالت وتحولت إلى جانبها.",
 			"Egyptian Arabic Audio": "eca-1753-6.mp3",
 			"Standard Arabic Audio": "msa-1753-6.mp3"
 		},
@@ -63,7 +63,7 @@
 			"English": "Mike poked his head under their bed and found what he was looking for.",
 			"Word Count": 14,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "سخر مايك رأسه تحت سريره ووجد ما كان يبحث عنه.",
 			"Egyptian Arabic Audio": "eca-1753-7.mp3",
 			"Standard Arabic Audio": "msa-1753-7.mp3"
 		},
@@ -72,7 +72,7 @@
 			"English": "He hurried and ironed his clothes for work.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "سارع وسخر ملابسه للعمل.",
 			"Egyptian Arabic Audio": "eca-1753-8.mp3",
 			"Standard Arabic Audio": "msa-1753-8.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "After, he went to the kitchen and had a small bowl of cereal.",
 			"Word Count": 13,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "بعد ذلك، ذهب إلى المطبخ وكان وعاء صغير من الحبوب.",
 			"Egyptian Arabic Audio": "eca-1753-9.mp3",
 			"Standard Arabic Audio": "msa-1753-9.mp3"
 		},
@@ -90,7 +90,7 @@
 			"English": "Maria entered the kitchen and sat down with Mike.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "دخلت ماريا المطبخ وجلست مع مايك.",
 			"Egyptian Arabic Audio": "eca-1753-10.mp3",
 			"Standard Arabic Audio": "msa-1753-10.mp3"
 		}

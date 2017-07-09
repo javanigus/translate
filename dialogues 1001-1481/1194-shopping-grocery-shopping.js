@@ -11,7 +11,7 @@
 			"English": "Can you tell me where the produce is?",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هل يمكن أن تخبرني أين هي المنتجات؟",
 			"Egyptian Arabic Audio": "eca-1194-1.mp3",
 			"Standard Arabic Audio": "msa-1194-1.mp3"
 		},
@@ -21,7 +21,7 @@
 			"English": "It's in aisle A.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انها في الممر A.",
 			"Egyptian Arabic Audio": "eca-1194-2.mp3",
 			"Standard Arabic Audio": "msa-1194-2.mp3"
 		},
@@ -31,7 +31,7 @@
 			"English": "Do you know what produce is on sale?",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هل تعرف ما هي المنتجات المعروضة للبيع؟",
 			"Egyptian Arabic Audio": "eca-1194-3.mp3",
 			"Standard Arabic Audio": "msa-1194-3.mp3"
 		},
@@ -41,7 +41,7 @@
 			"English": "I don't know. Check the flyer or check with the produce person.",
 			"Word Count": 12,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انا لا اعرف. تحقق نشرة أو تحقق مع الشخص المنتجة.",
 			"Egyptian Arabic Audio": "eca-1194-4.mp3",
 			"Standard Arabic Audio": "msa-1194-4.mp3"
 		},
@@ -51,7 +51,7 @@
 			"English": "Where is the produce?",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أين هو المنتج؟",
 			"Egyptian Arabic Audio": "eca-1194-5.mp3",
 			"Standard Arabic Audio": "msa-1194-5.mp3"
 		},
@@ -61,7 +61,7 @@
 			"English": "It's on the south wall of the store, in aisle A.",
 			"Word Count": 11,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انها على الجدار الجنوبي للمخزن، في الممر A.",
 			"Egyptian Arabic Audio": "eca-1194-6.mp3",
 			"Standard Arabic Audio": "msa-1194-6.mp3"
 		},
@@ -71,7 +71,7 @@
 			"English": "Is there any produce on sale?",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هل هناك أي منتج للبيع؟",
 			"Egyptian Arabic Audio": "eca-1194-7.mp3",
 			"Standard Arabic Audio": "msa-1194-7.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "I don't know. The produce person can tell you, though.",
 			"Word Count": 10,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انا لا اعرف. الشخص إنتاج يمكن أن أقول لكم، على الرغم من.",
 			"Egyptian Arabic Audio": "eca-1194-8.mp3",
 			"Standard Arabic Audio": "msa-1194-8.mp3"
 		},
@@ -91,7 +91,7 @@
 			"English": "Where can I find the produce?",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أين يمكنني العثور على المنتجات؟",
 			"Egyptian Arabic Audio": "eca-1194-9.mp3",
 			"Standard Arabic Audio": "msa-1194-9.mp3"
 		},
@@ -101,7 +101,7 @@
 			"English": "Aisle A is where you'll find all the produce.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "الممر A هو المكان الذي ستجد جميع المنتجات.",
 			"Egyptian Arabic Audio": "eca-1194-10.mp3",
 			"Standard Arabic Audio": "msa-1194-10.mp3"
 		},
@@ -111,7 +111,7 @@
 			"English": "What sales do they have today?",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ما هي المبيعات التي لديهم اليوم؟",
 			"Egyptian Arabic Audio": "eca-1194-11.mp3",
 			"Standard Arabic Audio": "msa-1194-11.mp3"
 		},
@@ -121,7 +121,7 @@
 			"English": "I'm sure something is on sale. Please check with the produce person.",
 			"Word Count": 12,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنا متأكد من أن هناك شيئا للبيع. يرجى مراجعة مع إنتاج الشخص.",
 			"Egyptian Arabic Audio": "eca-1194-12.mp3",
 			"Standard Arabic Audio": "msa-1194-12.mp3"
 		},
@@ -131,7 +131,7 @@
 			"English": "Which aisle has the produce?",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أي الممر لديه إنتاج؟",
 			"Egyptian Arabic Audio": "eca-1194-13.mp3",
 			"Standard Arabic Audio": "msa-1194-13.mp3"
 		},
@@ -141,7 +141,7 @@
 			"English": "Aisle A is where you'll find all the produce.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "الممر A هو المكان الذي ستجد جميع المنتجات.",
 			"Egyptian Arabic Audio": "eca-1194-14.mp3",
 			"Standard Arabic Audio": "msa-1194-14.mp3"
 		},
@@ -151,7 +151,7 @@
 			"English": "Are cherries on sale today?",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هل الكرز للبيع اليوم؟",
 			"Egyptian Arabic Audio": "eca-1194-15.mp3",
 			"Standard Arabic Audio": "msa-1194-15.mp3"
 		},
@@ -161,7 +161,7 @@
 			"English": "I don't know, but I'm sure the produce person can tell you.",
 			"Word Count": 12,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنا لا أعرف، ولكن أنا متأكد من أن إنتاج شخص يمكن أن أقول لكم.",
 			"Egyptian Arabic Audio": "eca-1194-16.mp3",
 			"Standard Arabic Audio": "msa-1194-16.mp3"
 		},
@@ -171,7 +171,7 @@
 			"English": "I'm looking for the produce section, please.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أبحث عن قسم المنتجات، من فضلك.",
 			"Egyptian Arabic Audio": "eca-1194-17.mp3",
 			"Standard Arabic Audio": "msa-1194-17.mp3"
 		},
@@ -181,7 +181,7 @@
 			"English": "All of the produce is in aisle A.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "جميع المنتجات في الممر A.",
 			"Egyptian Arabic Audio": "eca-1194-18.mp3",
 			"Standard Arabic Audio": "msa-1194-18.mp3"
 		},
@@ -191,7 +191,7 @@
 			"English": "Are bananas on sale today?",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هل الموز للبيع اليوم؟",
 			"Egyptian Arabic Audio": "eca-1194-19.mp3",
 			"Standard Arabic Audio": "msa-1194-19.mp3"
 		},
@@ -201,7 +201,7 @@
 			"English": "Here you go. Look in this flyer, or check with the produce person.",
 			"Word Count": 13,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ها أنت ذا. ننظر في هذا نشرة، أو تحقق مع الشخص المنتجة.",
 			"Egyptian Arabic Audio": "eca-1194-20.mp3",
 			"Standard Arabic Audio": "msa-1194-20.mp3"
 		}

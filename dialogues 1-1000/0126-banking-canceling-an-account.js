@@ -11,7 +11,7 @@
 			"English": "I want to close my account.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أريد إغلاق حسابي.",
 			"Egyptian Arabic Audio": "eca-0126-1.mp3",
 			"Standard Arabic Audio": "msa-0126-1.mp3"
 		},
@@ -21,7 +21,7 @@
 			"English": "We're sorry to lose you as a customer. Can I ask why?",
 			"Word Count": 12,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "نأسف لانقاصك كعميل. هل يمكنني أن أسأل لماذا؟",
 			"Egyptian Arabic Audio": "eca-0126-2.mp3",
 			"Standard Arabic Audio": "msa-0126-2.mp3"
 		},
@@ -31,7 +31,7 @@
 			"English": "I keep getting hit by fees.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وأظل الحصول على ضرب من الرسوم.",
 			"Egyptian Arabic Audio": "eca-0126-3.mp3",
 			"Standard Arabic Audio": "msa-0126-3.mp3"
 		},
@@ -41,7 +41,7 @@
 			"English": "We have a new low fee checking account.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لدينا حساب جديد فحص رسوم منخفضة.",
 			"Egyptian Arabic Audio": "eca-0126-4.mp3",
 			"Standard Arabic Audio": "msa-0126-4.mp3"
 		},
@@ -51,7 +51,7 @@
 			"English": "I was already on the basic checking plan and you guys still charged a ton of  fees.",
 			"Word Count": 17,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كنت بالفعل على خطة التحقق الأساسية، وكنت لا يزال الرجال اتهم طن من الرسوم.",
 			"Egyptian Arabic Audio": "eca-0126-5.mp3",
 			"Standard Arabic Audio": "msa-0126-5.mp3"
 		},
@@ -61,7 +61,7 @@
 			"English": "Have you registered for online banking?",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هل سجلت في الخدمات المصرفية عبر الإنترنت؟",
 			"Egyptian Arabic Audio": "eca-0126-6.mp3",
 			"Standard Arabic Audio": "msa-0126-6.mp3"
 		},
@@ -71,7 +71,7 @@
 			"English": "Yeah, and I never got my statements.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "نعم، وأنا لم أحصل على أقوالي.",
 			"Egyptian Arabic Audio": "eca-0126-7.mp3",
 			"Standard Arabic Audio": "msa-0126-7.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "Have you tried our mobile app with text alerts?",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هل حاولت التطبيق المحمول لدينا مع تنبيهات النص؟",
 			"Egyptian Arabic Audio": "eca-0126-8.mp3",
 			"Standard Arabic Audio": "msa-0126-8.mp3"
 		},
@@ -91,7 +91,7 @@
 			"English": "My phone isn't compatible. Just close the account.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هاتفي غير متوافق. ما عليك سوى إغلاق الحساب.",
 			"Egyptian Arabic Audio": "eca-0126-9.mp3",
 			"Standard Arabic Audio": "msa-0126-9.mp3"
 		},
@@ -101,7 +101,7 @@
 			"English": "You have $425 in the account.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لديك 425 دولارا في الحساب.",
 			"Egyptian Arabic Audio": "eca-0126-10.mp3",
 			"Standard Arabic Audio": "msa-0126-10.mp3"
 		},
@@ -111,7 +111,7 @@
 			"English": "Pay it to me in cash.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "دفع لي نقدا.",
 			"Egyptian Arabic Audio": "eca-0126-11.mp3",
 			"Standard Arabic Audio": "msa-0126-11.mp3"
 		},
@@ -121,7 +121,7 @@
 			"English": "We hope you will try banking with us again.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "نأمل أن تحاول المصرفية معنا مرة أخرى.",
 			"Egyptian Arabic Audio": "eca-0126-12.mp3",
 			"Standard Arabic Audio": "msa-0126-12.mp3"
 		}

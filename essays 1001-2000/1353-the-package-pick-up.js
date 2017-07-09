@@ -9,7 +9,7 @@
 			"English": "The phone rang at 8:15 a.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "الهاتف رن في 8:15 أ.",
 			"Egyptian Arabic Audio": "eca-1353-1.mp3",
 			"Standard Arabic Audio": "msa-1353-1.mp3"
 		},
@@ -18,7 +18,7 @@
 			"English": "m.",
 			"Word Count": 1,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "م.",
 			"Egyptian Arabic Audio": "eca-1353-2.mp3",
 			"Standard Arabic Audio": "msa-1353-2.mp3"
 		},
@@ -27,7 +27,7 @@
 			"English": "It was a recording.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كان تسجيل.",
 			"Egyptian Arabic Audio": "eca-1353-3.mp3",
 			"Standard Arabic Audio": "msa-1353-3.mp3"
 		},
@@ -36,7 +36,7 @@
 			"English": "\"A UPS driver will pick up your package today.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "&quot;سوف يو بي إس سائق التقاط الحزمة الخاصة بك اليوم.",
 			"Egyptian Arabic Audio": "eca-1353-4.mp3",
 			"Standard Arabic Audio": "msa-1353-4.mp3"
 		},
@@ -45,7 +45,7 @@
 			"English": "He will arrive between 8 a.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وسوف يصل بين 8 أ.",
 			"Egyptian Arabic Audio": "eca-1353-5.mp3",
 			"Standard Arabic Audio": "msa-1353-5.mp3"
 		},
@@ -54,7 +54,7 @@
 			"English": "m.",
 			"Word Count": 1,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "م.",
 			"Egyptian Arabic Audio": "eca-1353-6.mp3",
 			"Standard Arabic Audio": "msa-1353-6.mp3"
 		},
@@ -63,7 +63,7 @@
 			"English": "and 7 p.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "و 7 ص.",
 			"Egyptian Arabic Audio": "eca-1353-7.mp3",
 			"Standard Arabic Audio": "msa-1353-7.mp3"
 		},
@@ -72,7 +72,7 @@
 			"English": "m.",
 			"Word Count": 1,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "م.",
 			"Egyptian Arabic Audio": "eca-1353-8.mp3",
 			"Standard Arabic Audio": "msa-1353-8.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "\" That's nice, Craig thought.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "&quot;هذا لطيف، فكر كريغ.",
 			"Egyptian Arabic Audio": "eca-1353-9.mp3",
 			"Standard Arabic Audio": "msa-1353-9.mp3"
 		},
@@ -90,7 +90,7 @@
 			"English": "All I have to do is wait for 11 hours.",
 			"Word Count": 10,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كل ما عليك القيام به هو الانتظار لمدة 11 ساعة.",
 			"Egyptian Arabic Audio": "eca-1353-10.mp3",
 			"Standard Arabic Audio": "msa-1353-10.mp3"
 		},
@@ -99,7 +99,7 @@
 			"English": "I can't even take a shower.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لا أستطيع حتى الاستحمام.",
 			"Egyptian Arabic Audio": "eca-1353-11.mp3",
 			"Standard Arabic Audio": "msa-1353-11.mp3"
 		},
@@ -108,7 +108,7 @@
 			"English": "I can't hear the doorbell while I'm in the shower.",
 			"Word Count": 10,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لا أستطيع سماع جرس الباب بينما أنا في الحمام.",
 			"Egyptian Arabic Audio": "eca-1353-12.mp3",
 			"Standard Arabic Audio": "msa-1353-12.mp3"
 		},
@@ -117,7 +117,7 @@
 			"English": "Craig heard the doorbell at 4:40 p.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "سمع كريغ جرس الباب في 4:40 ص.",
 			"Egyptian Arabic Audio": "eca-1353-13.mp3",
 			"Standard Arabic Audio": "msa-1353-13.mp3"
 		},
@@ -126,7 +126,7 @@
 			"English": "m.",
 			"Word Count": 1,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "م.",
 			"Egyptian Arabic Audio": "eca-1353-14.mp3",
 			"Standard Arabic Audio": "msa-1353-14.mp3"
 		},
@@ -135,7 +135,7 @@
 			"English": "\"I'm so glad you're here,\" he told the driver.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وقال للسائق &quot;انا مسرور جدا لانكم هنا&quot;.",
 			"Egyptian Arabic Audio": "eca-1353-15.mp3",
 			"Standard Arabic Audio": "msa-1353-15.mp3"
 		},
@@ -144,7 +144,7 @@
 			"English": "\"This box has been sitting in my bedroom for two weeks.",
 			"Word Count": 11,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "&quot;هذا المربع كان يجلس في غرفتي نوم لمدة أسبوعين.",
 			"Egyptian Arabic Audio": "eca-1353-16.mp3",
 			"Standard Arabic Audio": "msa-1353-16.mp3"
 		},
@@ -153,7 +153,7 @@
 			"English": "\" He handed the box to the driver.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "&quot;سلم الصندوق للسائق.",
 			"Egyptian Arabic Audio": "eca-1353-17.mp3",
 			"Standard Arabic Audio": "msa-1353-17.mp3"
 		},
@@ -162,7 +162,7 @@
 			"English": "The driver said, \"Where's the call tag? I can't take this without the call tag.",
 			"Word Count": 15,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وقال السائق: &quot;أين هي علامة المكالمة؟ لا أستطيع أن أغتنم ذلك بدون علامة المكالمة.",
 			"Egyptian Arabic Audio": "eca-1353-18.mp3",
 			"Standard Arabic Audio": "msa-1353-18.mp3"
 		},
@@ -171,7 +171,7 @@
 			"English": "\" Craig said, \"What? What's a call tag?\" The driver said, \"A call tag is a return label.",
 			"Word Count": 18,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "&quot;وقال كريغ،&quot; ماذا؟ ما هي علامة الاتصال؟ &quot;وقال السائق،&quot; علامة الدعوة هي تسمية العودة.",
 			"Egyptian Arabic Audio": "eca-1353-19.mp3",
 			"Standard Arabic Audio": "msa-1353-19.mp3"
 		},
@@ -180,7 +180,7 @@
 			"English": "It tells us where to ship the box.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "فإنه يخبرنا أين لشحن مربع.",
 			"Egyptian Arabic Audio": "eca-1353-20.mp3",
 			"Standard Arabic Audio": "msa-1353-20.mp3"
 		},
@@ -189,7 +189,7 @@
 			"English": "Maybe it's inside the box.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ربما يكون داخل المربع.",
 			"Egyptian Arabic Audio": "eca-1353-21.mp3",
 			"Standard Arabic Audio": "msa-1353-21.mp3"
 		},
@@ -198,7 +198,7 @@
 			"English": "\" Craig rolled his eyes.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "&quot;كريغ توالت عينيه.",
 			"Egyptian Arabic Audio": "eca-1353-22.mp3",
 			"Standard Arabic Audio": "msa-1353-22.mp3"
 		},
@@ -207,7 +207,7 @@
 			"English": "Why was returning a package so difficult?.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لماذا كان عودته حزمة صعبة للغاية؟.",
 			"Egyptian Arabic Audio": "eca-1353-23.mp3",
 			"Standard Arabic Audio": "msa-1353-23.mp3"
 		}

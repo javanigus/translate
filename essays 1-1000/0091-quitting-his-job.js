@@ -9,7 +9,7 @@
 			"English": "He works at a fast-food restaurant.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وهو يعمل في مطعم للوجبات السريعة.",
 			"Egyptian Arabic Audio": "eca-0091-1.mp3",
 			"Standard Arabic Audio": "msa-0091-1.mp3"
 		},
@@ -18,7 +18,7 @@
 			"English": "He hates his job.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يكره عمله.",
 			"Egyptian Arabic Audio": "eca-0091-2.mp3",
 			"Standard Arabic Audio": "msa-0091-2.mp3"
 		},
@@ -27,7 +27,7 @@
 			"English": "He flips burgers.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يقلب البرغر.",
 			"Egyptian Arabic Audio": "eca-0091-3.mp3",
 			"Standard Arabic Audio": "msa-0091-3.mp3"
 		},
@@ -36,7 +36,7 @@
 			"English": "He cuts potatoes.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يقطع البطاطا.",
 			"Egyptian Arabic Audio": "eca-0091-4.mp3",
 			"Standard Arabic Audio": "msa-0091-4.mp3"
 		},
@@ -45,7 +45,7 @@
 			"English": "He pours soda in cups.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يصب الصودا في الكؤوس.",
 			"Egyptian Arabic Audio": "eca-0091-5.mp3",
 			"Standard Arabic Audio": "msa-0091-5.mp3"
 		},
@@ -54,7 +54,7 @@
 			"English": "He thinks doing these things is boring.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انه يعتقد ان تفعل هذه الأشياء مملة.",
 			"Egyptian Arabic Audio": "eca-0091-6.mp3",
 			"Standard Arabic Audio": "msa-0091-6.mp3"
 		},
@@ -63,7 +63,7 @@
 			"English": "He does not like talking to customers.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انه لا يحب التحدث مع العملاء.",
 			"Egyptian Arabic Audio": "eca-0091-7.mp3",
 			"Standard Arabic Audio": "msa-0091-7.mp3"
 		},
@@ -72,7 +72,7 @@
 			"English": "His boss, Susan Wright, is mean.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "رئيسه، سوزان رايت، يعني.",
 			"Egyptian Arabic Audio": "eca-0091-8.mp3",
 			"Standard Arabic Audio": "msa-0091-8.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "She always makes him work extra hours.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انها دائما يجعله يعمل ساعات اضافية.",
 			"Egyptian Arabic Audio": "eca-0091-9.mp3",
 			"Standard Arabic Audio": "msa-0091-9.mp3"
 		},
@@ -90,7 +90,7 @@
 			"English": "He finally quits his job.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وأخيرا أنهى عمله.",
 			"Egyptian Arabic Audio": "eca-0091-10.mp3",
 			"Standard Arabic Audio": "msa-0091-10.mp3"
 		}

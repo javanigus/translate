@@ -11,7 +11,7 @@
 			"English": "what are you doing on Friday night?",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ماذا تفعل ليلة الجمعة؟",
 			"Egyptian Arabic Audio": "eca-0794-1.mp3",
 			"Standard Arabic Audio": "msa-0794-1.mp3"
 		},
@@ -21,7 +21,7 @@
 			"English": "I was just going to stay in and watch a movie on Netflix.",
 			"Word Count": 13,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كنت مجرد الذهاب إلى ومشاهدة فيلم على نيتفليكس.",
 			"Egyptian Arabic Audio": "eca-0794-2.mp3",
 			"Standard Arabic Audio": "msa-0794-2.mp3"
 		},
@@ -31,7 +31,7 @@
 			"English": "How about you let me take you out to a movie?",
 			"Word Count": 11,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ماذا عنك اسمحوا لي أن أخذك إلى فيلم؟",
 			"Egyptian Arabic Audio": "eca-0794-3.mp3",
 			"Standard Arabic Audio": "msa-0794-3.mp3"
 		},
@@ -41,7 +41,7 @@
 			"English": "That would be really nice.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أن يكون لطيفا حقا.",
 			"Egyptian Arabic Audio": "eca-0794-4.mp3",
 			"Standard Arabic Audio": "msa-0794-4.mp3"
 		},
@@ -51,7 +51,7 @@
 			"English": "We could even grab a bite to eat afterwards.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يمكننا حتى الاستيلاء على لدغة لتناول الطعام بعد ذلك.",
 			"Egyptian Arabic Audio": "eca-0794-5.mp3",
 			"Standard Arabic Audio": "msa-0794-5.mp3"
 		},
@@ -61,7 +61,7 @@
 			"English": "I would really like that.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أود ذلك حقيقة.",
 			"Egyptian Arabic Audio": "eca-0794-6.mp3",
 			"Standard Arabic Audio": "msa-0794-6.mp3"
 		},
@@ -71,7 +71,7 @@
 			"English": "Great! If I pick you up at 6 p.m., would that work?",
 			"Word Count": 12,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "عظيم! إذا كنت يقلك في الساعة 6 مساء، هل هذا العمل؟",
 			"Egyptian Arabic Audio": "eca-0794-7.mp3",
 			"Standard Arabic Audio": "msa-0794-7.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "Yeah, that gives me time to change after work.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "نعم، هذا يعطيني الوقت للتغيير بعد العمل.",
 			"Egyptian Arabic Audio": "eca-0794-8.mp3",
 			"Standard Arabic Audio": "msa-0794-8.mp3"
 		},
@@ -91,7 +91,7 @@
 			"English": "Can I have your phone number so I can call when I'm on my way?",
 			"Word Count": 15,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هل يمكنني الحصول على رقم هاتفك حتى أستطيع الاتصال عندما أكون في طريقي؟",
 			"Egyptian Arabic Audio": "eca-0794-9.mp3",
 			"Standard Arabic Audio": "msa-0794-9.mp3"
 		},
@@ -101,7 +101,7 @@
 			"English": "That's a great idea. And you should give me your number, too.",
 			"Word Count": 12,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هذه فكرة عظيمة. ويجب أن تعطيني رقمك أيضا.",
 			"Egyptian Arabic Audio": "eca-0794-10.mp3",
 			"Standard Arabic Audio": "msa-0794-10.mp3"
 		},
@@ -111,7 +111,7 @@
 			"English": "Okay, I'm really looking forward to Friday.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "حسنا، أنا أتطلع إلى يوم الجمعة.",
 			"Egyptian Arabic Audio": "eca-0794-11.mp3",
 			"Standard Arabic Audio": "msa-0794-11.mp3"
 		},
@@ -121,7 +121,7 @@
 			"English": "We're going to have a really nice time.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "سنكون لدينا وقت لطيف حقا.",
 			"Egyptian Arabic Audio": "eca-0794-12.mp3",
 			"Standard Arabic Audio": "msa-0794-12.mp3"
 		}

@@ -11,7 +11,7 @@
 			"English": "All the TV stations are going to go digital.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كل محطات التلفزيون سوف تذهب الرقمية.",
 			"Egyptian Arabic Audio": "eca-0344-1.mp3",
 			"Standard Arabic Audio": "msa-0344-1.mp3"
 		},
@@ -21,7 +21,7 @@
 			"English": "Yes, that will occur next month.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "نعم، سيحدث ذلك الشهر المقبل.",
 			"Egyptian Arabic Audio": "eca-0344-2.mp3",
 			"Standard Arabic Audio": "msa-0344-2.mp3"
 		},
@@ -31,7 +31,7 @@
 			"English": "Most of them are already broadcasting in digital.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "معظمها بالفعل البث الرقمي.",
 			"Egyptian Arabic Audio": "eca-0344-3.mp3",
 			"Standard Arabic Audio": "msa-0344-3.mp3"
 		},
@@ -41,7 +41,7 @@
 			"English": "The digital signal is very clear.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "والإشارة الرقمية واضحة جدا.",
 			"Egyptian Arabic Audio": "eca-0344-4.mp3",
 			"Standard Arabic Audio": "msa-0344-4.mp3"
 		},
@@ -51,7 +51,7 @@
 			"English": "Oh, no, it isn't!",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أوه، لا، فإنه ليس!",
 			"Egyptian Arabic Audio": "eca-0344-5.mp3",
 			"Standard Arabic Audio": "msa-0344-5.mp3"
 		},
@@ -61,7 +61,7 @@
 			"English": "What do you mean?",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ماذا تعني؟",
 			"Egyptian Arabic Audio": "eca-0344-6.mp3",
 			"Standard Arabic Audio": "msa-0344-6.mp3"
 		},
@@ -71,7 +71,7 @@
 			"English": "I can't get a single channel.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لا يمكنني الحصول على قناة واحدة.",
 			"Egyptian Arabic Audio": "eca-0344-7.mp3",
 			"Standard Arabic Audio": "msa-0344-7.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "Do you have a digital TV?",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هل لديك تلفزيون رقمي؟",
 			"Egyptian Arabic Audio": "eca-0344-8.mp3",
 			"Standard Arabic Audio": "msa-0344-8.mp3"
 		},
@@ -91,7 +91,7 @@
 			"English": "Of course. But I don't have cable.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "بالتاكيد. ولكن ليس لدي كابل.",
 			"Egyptian Arabic Audio": "eca-0344-9.mp3",
 			"Standard Arabic Audio": "msa-0344-9.mp3"
 		},
@@ -101,7 +101,7 @@
 			"English": "You don't need to have cable, but you do need a good antenna.",
 			"Word Count": 13,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنت لا تحتاج إلى أن يكون كابل، ولكن كنت في حاجة الى هوائي جيد.",
 			"Egyptian Arabic Audio": "eca-0344-10.mp3",
 			"Standard Arabic Audio": "msa-0344-10.mp3"
 		},
@@ -111,7 +111,7 @@
 			"English": "But I have rabbit ears.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ولكن لدي آذان أرنب.",
 			"Egyptian Arabic Audio": "eca-0344-11.mp3",
 			"Standard Arabic Audio": "msa-0344-11.mp3"
 		},
@@ -121,7 +121,7 @@
 			"English": "Rabbit ears aren't strong enough. Buy a digital antenna.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "آذان أرنب ليست قوية بما فيه الكفاية. شراء هوائي رقمي.",
 			"Egyptian Arabic Audio": "eca-0344-12.mp3",
 			"Standard Arabic Audio": "msa-0344-12.mp3"
 		}

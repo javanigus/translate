@@ -9,7 +9,7 @@
 			"English": "\"This is a victory for TSA,\" announced a TSA spokesman.",
 			"Word Count": 10,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "&quot;هذا هو انتصار ل تسا&quot;، أعلن متحدث باسم تسا.",
 			"Egyptian Arabic Audio": "eca-2039-1.mp3",
 			"Standard Arabic Audio": "msa-2039-1.mp3"
 		},
@@ -18,7 +18,7 @@
 			"English": "\"It allows us to focus on life and death issues rather than waste our valuable time waiting for travelers to remove all their jewelry.",
 			"Word Count": 24,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "&quot;إنها تتيح لنا التركيز على قضايا الحياة والموت بدلا من إضاعة الوقت الثمين في انتظار المسافرين لإزالة جميع المجوهرات الخاصة بهم.",
 			"Egyptian Arabic Audio": "eca-2039-2.mp3",
 			"Standard Arabic Audio": "msa-2039-2.mp3"
 		},
@@ -27,7 +27,7 @@
 			"English": "\".",
 			"Word Count": 1,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "&quot;.",
 			"Egyptian Arabic Audio": "eca-2039-3.mp3",
 			"Standard Arabic Audio": "msa-2039-3.mp3"
 		}

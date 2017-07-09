@@ -11,7 +11,7 @@
 			"English": "Hello, Mr. Smith. It's nice to finally meet you.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "مرحبا، السيد سميث. من الجميل أن تلتقي بكم أخيرا.",
 			"Egyptian Arabic Audio": "eca-0475-1.mp3",
 			"Standard Arabic Audio": "msa-0475-1.mp3"
 		},
@@ -21,7 +21,7 @@
 			"English": "Likewise, Mrs. Jones. Please sit down.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وبالمثل، السيدة جونز. من فضلك اجلس.",
 			"Egyptian Arabic Audio": "eca-0475-2.mp3",
 			"Standard Arabic Audio": "msa-0475-2.mp3"
 		},
@@ -31,7 +31,7 @@
 			"English": "Is James in trouble again?",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هل جيمس في ورطة مرة أخرى؟",
 			"Egyptian Arabic Audio": "eca-0475-3.mp3",
 			"Standard Arabic Audio": "msa-0475-3.mp3"
 		},
@@ -41,7 +41,7 @@
 			"English": "Actually, no, he's not.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "في الواقع، لا، انه ليس كذلك.",
 			"Egyptian Arabic Audio": "eca-0475-4.mp3",
 			"Standard Arabic Audio": "msa-0475-4.mp3"
 		},
@@ -51,7 +51,7 @@
 			"English": "What's the purpose of this meeting exactly?",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ما هو الغرض من هذا الاجتماع بالضبط؟",
 			"Egyptian Arabic Audio": "eca-0475-5.mp3",
 			"Standard Arabic Audio": "msa-0475-5.mp3"
 		},
@@ -61,7 +61,7 @@
 			"English": "I just wanted to let you know that James is doing very well.",
 			"Word Count": 13,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أردت فقط أن أخبركم بأن جيمس يقوم بعمل جيد جدا.",
 			"Egyptian Arabic Audio": "eca-0475-6.mp3",
 			"Standard Arabic Audio": "msa-0475-6.mp3"
 		},
@@ -71,7 +71,7 @@
 			"English": "Oh, is that right? I'm so proud!",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أوه، هل هذا صحيح؟ انا فخور جدا!",
 			"Egyptian Arabic Audio": "eca-0475-7.mp3",
 			"Standard Arabic Audio": "msa-0475-7.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "He has been staying for tutoring and his marks have skyrocketed!",
 			"Word Count": 11,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لقد كان يقيم للدروس الخصوصية وقد ارتفعت علاماته!",
 			"Egyptian Arabic Audio": "eca-0475-8.mp3",
 			"Standard Arabic Audio": "msa-0475-8.mp3"
 		},
@@ -91,7 +91,7 @@
 			"English": "I always knew he had it in him!",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كنت أعرف دائما أنه كان في ذلك!",
 			"Egyptian Arabic Audio": "eca-0475-9.mp3",
 			"Standard Arabic Audio": "msa-0475-9.mp3"
 		},
@@ -101,7 +101,7 @@
 			"English": "He behaves better in the classroom, too.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انه يتصرف بشكل أفضل في الفصول الدراسية، أيضا.",
 			"Egyptian Arabic Audio": "eca-0475-10.mp3",
 			"Standard Arabic Audio": "msa-0475-10.mp3"
 		},
@@ -111,7 +111,7 @@
 			"English": "I do believe my James is growing up!",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أعتقد أن جيمس يكبر!",
 			"Egyptian Arabic Audio": "eca-0475-11.mp3",
 			"Standard Arabic Audio": "msa-0475-11.mp3"
 		},
@@ -121,7 +121,7 @@
 			"English": "All children need to mature is motivation!",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "جميع الأطفال بحاجة إلى أن تنضج هو الدافع!",
 			"Egyptian Arabic Audio": "eca-0475-12.mp3",
 			"Standard Arabic Audio": "msa-0475-12.mp3"
 		}

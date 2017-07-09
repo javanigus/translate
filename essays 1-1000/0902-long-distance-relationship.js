@@ -9,7 +9,7 @@
 			"English": "It was hard though.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كان من الصعب على الرغم من.",
 			"Egyptian Arabic Audio": "eca-0902-1.mp3",
 			"Standard Arabic Audio": "msa-0902-1.mp3"
 		},
@@ -18,7 +18,7 @@
 			"English": "Arthur and Betty had to deal with the time difference.",
 			"Word Count": 10,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وكان آرثر وبيتي للتعامل مع فارق التوقيت.",
 			"Egyptian Arabic Audio": "eca-0902-2.mp3",
 			"Standard Arabic Audio": "msa-0902-2.mp3"
 		},
@@ -27,7 +27,7 @@
 			"English": "Massachusetts was three hours ahead of California.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كان ماساتشوستس قبل ثلاث ساعات من ولاية كاليفورنيا.",
 			"Egyptian Arabic Audio": "eca-0902-3.mp3",
 			"Standard Arabic Audio": "msa-0902-3.mp3"
 		},
@@ -36,7 +36,7 @@
 			"English": "Sometimes Arthur forgets to call.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أحيانا ينسى آرثر للاتصال.",
 			"Egyptian Arabic Audio": "eca-0902-4.mp3",
 			"Standard Arabic Audio": "msa-0902-4.mp3"
 		},
@@ -45,7 +45,7 @@
 			"English": "He tried to talk to her at 11 P.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "حاول التحدث معها في 11 ص.",
 			"Egyptian Arabic Audio": "eca-0902-5.mp3",
 			"Standard Arabic Audio": "msa-0902-5.mp3"
 		},
@@ -54,7 +54,7 @@
 			"English": "M.",
 			"Word Count": 1,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "M.",
 			"Egyptian Arabic Audio": "eca-0902-6.mp3",
 			"Standard Arabic Audio": "msa-0902-6.mp3"
 		},
@@ -63,7 +63,7 @@
 			"English": "California time.",
 			"Word Count": 2,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كاليفورنيا الوقت.",
 			"Egyptian Arabic Audio": "eca-0902-7.mp3",
 			"Standard Arabic Audio": "msa-0902-7.mp3"
 		},
@@ -72,7 +72,7 @@
 			"English": "It was 2 A.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كان 2 أ.",
 			"Egyptian Arabic Audio": "eca-0902-8.mp3",
 			"Standard Arabic Audio": "msa-0902-8.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "M.",
 			"Word Count": 1,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "M.",
 			"Egyptian Arabic Audio": "eca-0902-9.mp3",
 			"Standard Arabic Audio": "msa-0902-9.mp3"
 		},
@@ -90,7 +90,7 @@
 			"English": "in Massachusetts though.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "في ماساتشوستس على الرغم من.",
 			"Egyptian Arabic Audio": "eca-0902-10.mp3",
 			"Standard Arabic Audio": "msa-0902-10.mp3"
 		},
@@ -99,7 +99,7 @@
 			"English": "They miss each other a lot.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انهم يغيبون بعضهم البعض الكثير.",
 			"Egyptian Arabic Audio": "eca-0902-11.mp3",
 			"Standard Arabic Audio": "msa-0902-11.mp3"
 		}

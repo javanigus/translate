@@ -9,7 +9,7 @@
 			"English": "After a week, Mia didn't hear from the interviewer.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "بعد أسبوع، لم تسمع ميا من المقابلة.",
 			"Egyptian Arabic Audio": "eca-1038-1.mp3",
 			"Standard Arabic Audio": "msa-1038-1.mp3"
 		},
@@ -18,7 +18,7 @@
 			"English": "She decided to call.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "قررت الاتصال.",
 			"Egyptian Arabic Audio": "eca-1038-2.mp3",
 			"Standard Arabic Audio": "msa-1038-2.mp3"
 		},
@@ -27,7 +27,7 @@
 			"English": "She asked if she got hired.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وسألت عما إذا كانت قد استأجرت.",
 			"Egyptian Arabic Audio": "eca-1038-3.mp3",
 			"Standard Arabic Audio": "msa-1038-3.mp3"
 		},
@@ -36,7 +36,7 @@
 			"English": "The interviewer said she was not.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وقالت المستجوبة إنها لم تكن كذلك.",
 			"Egyptian Arabic Audio": "eca-1038-4.mp3",
 			"Standard Arabic Audio": "msa-1038-4.mp3"
 		},
@@ -45,7 +45,7 @@
 			"English": "Mia asked why.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "سأل ميا لماذا.",
 			"Egyptian Arabic Audio": "eca-1038-5.mp3",
 			"Standard Arabic Audio": "msa-1038-5.mp3"
 		},
@@ -54,7 +54,7 @@
 			"English": "The interviewer said it was because her co-workers wouldn't take her seriously.",
 			"Word Count": 12,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وقالت المستجوبة إن سبب ذلك هو أن زملاء عملها لن يأخذوها بجدية.",
 			"Egyptian Arabic Audio": "eca-1038-6.mp3",
 			"Standard Arabic Audio": "msa-1038-6.mp3"
 		},
@@ -63,7 +63,7 @@
 			"English": "He also said that the company needed to have employees who looked mature.",
 			"Word Count": 13,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وقال أيضا أن الشركة بحاجة إلى الموظفين الذين بدا ناضجة.",
 			"Egyptian Arabic Audio": "eca-1038-7.mp3",
 			"Standard Arabic Audio": "msa-1038-7.mp3"
 		},
@@ -72,7 +72,7 @@
 			"English": "Mia was upset that her appearance was such a big disadvantage to her.",
 			"Word Count": 13,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "شعرت ميا بالضيق لأن مظهرها كان عيبا كبيرا لها.",
 			"Egyptian Arabic Audio": "eca-1038-8.mp3",
 			"Standard Arabic Audio": "msa-1038-8.mp3"
 		}

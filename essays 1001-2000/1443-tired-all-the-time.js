@@ -9,7 +9,7 @@
 			"English": "She was 40.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كانت 40 عاما.",
 			"Egyptian Arabic Audio": "eca-1443-1.mp3",
 			"Standard Arabic Audio": "msa-1443-1.mp3"
 		},
@@ -18,7 +18,7 @@
 			"English": "She was tired.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كانت متعبة.",
 			"Egyptian Arabic Audio": "eca-1443-2.mp3",
 			"Standard Arabic Audio": "msa-1443-2.mp3"
 		},
@@ -27,7 +27,7 @@
 			"English": "She felt tired all the time.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "شعرت بالتعب طوال الوقت.",
 			"Egyptian Arabic Audio": "eca-1443-3.mp3",
 			"Standard Arabic Audio": "msa-1443-3.mp3"
 		},
@@ -36,7 +36,7 @@
 			"English": "She went to the doctor.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ذهبت إلى الطبيب.",
 			"Egyptian Arabic Audio": "eca-1443-4.mp3",
 			"Standard Arabic Audio": "msa-1443-4.mp3"
 		},
@@ -45,7 +45,7 @@
 			"English": "The doctor asked, \"What's the matter? What's your problem?\" She said, \"I'm tired.",
 			"Word Count": 13,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "سأل الطبيب: &quot;ما هي المشكلة؟ ما مشكلتك؟&quot; وقالت: &quot;أنا متعب.",
 			"Egyptian Arabic Audio": "eca-1443-5.mp3",
 			"Standard Arabic Audio": "msa-1443-5.mp3"
 		},
@@ -54,7 +54,7 @@
 			"English": "I feel tired all the time.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أشعر بالتعب طوال الوقت.",
 			"Egyptian Arabic Audio": "eca-1443-6.mp3",
 			"Standard Arabic Audio": "msa-1443-6.mp3"
 		},
@@ -63,7 +63,7 @@
 			"English": "\" The doctor examined her.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "&quot;فحصها الطبيب.",
 			"Egyptian Arabic Audio": "eca-1443-7.mp3",
 			"Standard Arabic Audio": "msa-1443-7.mp3"
 		},
@@ -72,7 +72,7 @@
 			"English": "The doctor asked her a lot of questions.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "سألها الطبيب الكثير من الأسئلة.",
 			"Egyptian Arabic Audio": "eca-1443-8.mp3",
 			"Standard Arabic Audio": "msa-1443-8.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "The doctor asked for a blood sample.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "طلب الطبيب عينة دم.",
 			"Egyptian Arabic Audio": "eca-1443-9.mp3",
 			"Standard Arabic Audio": "msa-1443-9.mp3"
 		},
@@ -90,7 +90,7 @@
 			"English": "He took some blood from her arm.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أخذ بعض الدم من ذراعها.",
 			"Egyptian Arabic Audio": "eca-1443-10.mp3",
 			"Standard Arabic Audio": "msa-1443-10.mp3"
 		},
@@ -99,7 +99,7 @@
 			"English": "The doctor asked for a urine sample.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "طلب الطبيب عينة البول.",
 			"Egyptian Arabic Audio": "eca-1443-11.mp3",
 			"Standard Arabic Audio": "msa-1443-11.mp3"
 		},
@@ -108,7 +108,7 @@
 			"English": "He told her to pee in a cup.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وقال لها أن تبول في كوب.",
 			"Egyptian Arabic Audio": "eca-1443-12.mp3",
 			"Standard Arabic Audio": "msa-1443-12.mp3"
 		},
@@ -117,7 +117,7 @@
 			"English": "A week later, the doctor called her.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وبعد أسبوع، اتصل بها الطبيب.",
 			"Egyptian Arabic Audio": "eca-1443-13.mp3",
 			"Standard Arabic Audio": "msa-1443-13.mp3"
 		},
@@ -126,7 +126,7 @@
 			"English": "He said, \"Your samples are okay.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وقال: &quot;العينات الخاصة بك على ما يرام.",
 			"Egyptian Arabic Audio": "eca-1443-14.mp3",
 			"Standard Arabic Audio": "msa-1443-14.mp3"
 		},
@@ -135,7 +135,7 @@
 			"English": "There is nothing wrong with you.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هناك حرج عليك.",
 			"Egyptian Arabic Audio": "eca-1443-15.mp3",
 			"Standard Arabic Audio": "msa-1443-15.mp3"
 		},
@@ -144,7 +144,7 @@
 			"English": "You are tired because you don't exercise.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كنت متعبا لأنك لا تمارس.",
 			"Egyptian Arabic Audio": "eca-1443-16.mp3",
 			"Standard Arabic Audio": "msa-1443-16.mp3"
 		},
@@ -153,7 +153,7 @@
 			"English": "You need to exercise.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "تحتاج إلى ممارسة الرياضة.",
 			"Egyptian Arabic Audio": "eca-1443-17.mp3",
 			"Standard Arabic Audio": "msa-1443-17.mp3"
 		},
@@ -162,7 +162,7 @@
 			"English": "Take a walk every day.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "خذ نزهة كل يوم.",
 			"Egyptian Arabic Audio": "eca-1443-18.mp3",
 			"Standard Arabic Audio": "msa-1443-18.mp3"
 		},
@@ -171,7 +171,7 @@
 			"English": "Ride a bike every day.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ركوب الدراجة كل يوم.",
 			"Egyptian Arabic Audio": "eca-1443-19.mp3",
 			"Standard Arabic Audio": "msa-1443-19.mp3"
 		},
@@ -180,7 +180,7 @@
 			"English": "Walk up stairs every day.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "المشي الدرج كل يوم.",
 			"Egyptian Arabic Audio": "eca-1443-20.mp3",
 			"Standard Arabic Audio": "msa-1443-20.mp3"
 		},
@@ -189,7 +189,7 @@
 			"English": "If you exercise, you won't feel tired.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "إذا كنت تمارس، فلن تشعر بالتعب.",
 			"Egyptian Arabic Audio": "eca-1443-21.mp3",
 			"Standard Arabic Audio": "msa-1443-21.mp3"
 		},
@@ -198,7 +198,7 @@
 			"English": "\" She didn't believe her doctor.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "&quot;لم تصدق طبيبها.",
 			"Egyptian Arabic Audio": "eca-1443-22.mp3",
 			"Standard Arabic Audio": "msa-1443-22.mp3"
 		},
@@ -207,7 +207,7 @@
 			"English": "She didn't exercise.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لم تمارس.",
 			"Egyptian Arabic Audio": "eca-1443-23.mp3",
 			"Standard Arabic Audio": "msa-1443-23.mp3"
 		},
@@ -216,7 +216,7 @@
 			"English": "If I exercise, she thought, I will feel even more tired.",
 			"Word Count": 11,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "إذا كنت ممارسة، وقالت انها اعتقدت، وسوف أشعر أكثر تعبت.",
 			"Egyptian Arabic Audio": "eca-1443-24.mp3",
 			"Standard Arabic Audio": "msa-1443-24.mp3"
 		}

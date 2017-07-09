@@ -9,7 +9,7 @@
 			"English": "Shirley went to the mall with her friends.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ذهبت شيرلي إلى المركز التجاري مع صديقاتها.",
 			"Egyptian Arabic Audio": "eca-0289-1.mp3",
 			"Standard Arabic Audio": "msa-0289-1.mp3"
 		},
@@ -18,7 +18,7 @@
 			"English": "They walk in.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يسيرون في.",
 			"Egyptian Arabic Audio": "eca-0289-2.mp3",
 			"Standard Arabic Audio": "msa-0289-2.mp3"
 		},
@@ -27,7 +27,7 @@
 			"English": "There are so many stores.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هناك الكثير من المتاجر.",
 			"Egyptian Arabic Audio": "eca-0289-3.mp3",
 			"Standard Arabic Audio": "msa-0289-3.mp3"
 		},
@@ -36,7 +36,7 @@
 			"English": "They first go to a candle shop.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يذهبون أولا إلى محل شمعة.",
 			"Egyptian Arabic Audio": "eca-0289-4.mp3",
 			"Standard Arabic Audio": "msa-0289-4.mp3"
 		},
@@ -45,7 +45,7 @@
 			"English": "The shop is having a huge sale.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "المحل هو وجود بيع ضخمة.",
 			"Egyptian Arabic Audio": "eca-0289-5.mp3",
 			"Standard Arabic Audio": "msa-0289-5.mp3"
 		},
@@ -54,7 +54,7 @@
 			"English": "Shirley picks up a green candle and smells it.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "شيرلي تلتقط شمعة خضراء ورائحة.",
 			"Egyptian Arabic Audio": "eca-0289-6.mp3",
 			"Standard Arabic Audio": "msa-0289-6.mp3"
 		},
@@ -63,7 +63,7 @@
 			"English": "It smells like a pine cone forest.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انها رائحة مثل غابة الصنوبر المخروط.",
 			"Egyptian Arabic Audio": "eca-0289-7.mp3",
 			"Standard Arabic Audio": "msa-0289-7.mp3"
 		},
@@ -72,7 +72,7 @@
 			"English": "It reminds her of her grandfather.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ويذكرها جدها.",
 			"Egyptian Arabic Audio": "eca-0289-8.mp3",
 			"Standard Arabic Audio": "msa-0289-8.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "He passed away two years ago.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لقد توفي قبل عامين.",
 			"Egyptian Arabic Audio": "eca-0289-9.mp3",
 			"Standard Arabic Audio": "msa-0289-9.mp3"
 		},
@@ -90,7 +90,7 @@
 			"English": "She feels that she should visit him.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "تشعر أنها يجب زيارته.",
 			"Egyptian Arabic Audio": "eca-0289-10.mp3",
 			"Standard Arabic Audio": "msa-0289-10.mp3"
 		},
@@ -99,7 +99,7 @@
 			"English": "She decides to buy the candle.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وقالت انها تقرر لشراء الشمعة.",
 			"Egyptian Arabic Audio": "eca-0289-11.mp3",
 			"Standard Arabic Audio": "msa-0289-11.mp3"
 		},
@@ -108,7 +108,7 @@
 			"English": "Shirley drops her friends off at their houses.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "شيرلي تسقط صديقاتها في منازلهم.",
 			"Egyptian Arabic Audio": "eca-0289-12.mp3",
 			"Standard Arabic Audio": "msa-0289-12.mp3"
 		},
@@ -117,7 +117,7 @@
 			"English": "She drives to the cemetery.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انها تدفع إلى المقبرة.",
 			"Egyptian Arabic Audio": "eca-0289-13.mp3",
 			"Standard Arabic Audio": "msa-0289-13.mp3"
 		},
@@ -126,7 +126,7 @@
 			"English": "She puts the candle on her grandfather's tombstone.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "إنها تضع الشمعة على قبر جدها.",
 			"Egyptian Arabic Audio": "eca-0289-14.mp3",
 			"Standard Arabic Audio": "msa-0289-14.mp3"
 		},
@@ -135,7 +135,7 @@
 			"English": "She smiles.",
 			"Word Count": 2,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هي تضحك.",
 			"Egyptian Arabic Audio": "eca-0289-15.mp3",
 			"Standard Arabic Audio": "msa-0289-15.mp3"
 		},
@@ -144,7 +144,7 @@
 			"English": "He would like the candle.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وقال انه يرغب في الشمعة.",
 			"Egyptian Arabic Audio": "eca-0289-16.mp3",
 			"Standard Arabic Audio": "msa-0289-16.mp3"
 		},
@@ -153,7 +153,7 @@
 			"English": "She drives back home.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انها تدفع الى الوطن.",
 			"Egyptian Arabic Audio": "eca-0289-17.mp3",
 			"Standard Arabic Audio": "msa-0289-17.mp3"
 		}

@@ -11,7 +11,7 @@
 			"English": "It's been very sunny lately, hasn't it?",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لقد كان مشمس جدا في الآونة الأخيرة، أليس كذلك؟",
 			"Egyptian Arabic Audio": "eca-0228-1.mp3",
 			"Standard Arabic Audio": "msa-0228-1.mp3"
 		},
@@ -21,7 +21,7 @@
 			"English": "Yes, it has. Some rain would be very nice.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "نعم لديها. بعض المطر سيكون لطيفا جدا.",
 			"Egyptian Arabic Audio": "eca-0228-2.mp3",
 			"Standard Arabic Audio": "msa-0228-2.mp3"
 		},
@@ -31,7 +31,7 @@
 			"English": "I don't think it will rain for quite some time.",
 			"Word Count": 10,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنا لا أعتقد أنه سوف المطر لبعض الوقت.",
 			"Egyptian Arabic Audio": "eca-0228-3.mp3",
 			"Standard Arabic Audio": "msa-0228-3.mp3"
 		},
@@ -41,7 +41,7 @@
 			"English": "Maybe we can do a rain dance and summon rain.",
 			"Word Count": 10,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ربما يمكننا أن نفعل رقص المطر واستدعاء المطر.",
 			"Egyptian Arabic Audio": "eca-0228-4.mp3",
 			"Standard Arabic Audio": "msa-0228-4.mp3"
 		},
@@ -51,7 +51,7 @@
 			"English": "Do you really believe in that?",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هل تعتقد حقا في ذلك؟",
 			"Egyptian Arabic Audio": "eca-0228-5.mp3",
 			"Standard Arabic Audio": "msa-0228-5.mp3"
 		},
@@ -61,7 +61,7 @@
 			"English": "No, but who knows, maybe it does work.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لا، ولكن من يدري، ربما يعمل.",
 			"Egyptian Arabic Audio": "eca-0228-6.mp3",
 			"Standard Arabic Audio": "msa-0228-6.mp3"
 		},
@@ -71,7 +71,7 @@
 			"English": "I don't see how dancing around would bring rain.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنا لا أرى كيف الرقص حولها سيجلب المطر.",
 			"Egyptian Arabic Audio": "eca-0228-7.mp3",
 			"Standard Arabic Audio": "msa-0228-7.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "Well, it would be pretty funny-looking.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "حسنا، سيكون من المضحك جدا.",
 			"Egyptian Arabic Audio": "eca-0228-8.mp3",
 			"Standard Arabic Audio": "msa-0228-8.mp3"
 		},
@@ -91,7 +91,7 @@
 			"English": "The rain gods would laugh at us.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "سوف الآلهة المطر تضحك علينا.",
 			"Egyptian Arabic Audio": "eca-0228-9.mp3",
 			"Standard Arabic Audio": "msa-0228-9.mp3"
 		},
@@ -101,7 +101,7 @@
 			"English": "Maybe they'll laugh so hard they'll cry.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ربما أنها سوف تضحك بجد أنها سوف تبكي.",
 			"Egyptian Arabic Audio": "eca-0228-10.mp3",
 			"Standard Arabic Audio": "msa-0228-10.mp3"
 		},
@@ -111,7 +111,7 @@
 			"English": "I don't think I want tears as rain!",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنا لا أعتقد أنني أريد الدموع والمطر!",
 			"Egyptian Arabic Audio": "eca-0228-11.mp3",
 			"Standard Arabic Audio": "msa-0228-11.mp3"
 		},
@@ -121,7 +121,7 @@
 			"English": "Me neither. I suddenly don't mind the sunny weather.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وأنا كذلك. أنا فجأة لا تمانع في الطقس المشمس.",
 			"Egyptian Arabic Audio": "eca-0228-12.mp3",
 			"Standard Arabic Audio": "msa-0228-12.mp3"
 		}

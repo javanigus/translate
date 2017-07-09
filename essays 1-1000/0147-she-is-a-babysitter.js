@@ -9,7 +9,7 @@
 			"English": "She is a babysitter.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هي جليسة الأطفال.",
 			"Egyptian Arabic Audio": "eca-0147-1.mp3",
 			"Standard Arabic Audio": "msa-0147-1.mp3"
 		},
@@ -18,7 +18,7 @@
 			"English": "She charges parents $10 per hour.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وتتقاضى الوالدين 10 دولارات في الساعة.",
 			"Egyptian Arabic Audio": "eca-0147-2.mp3",
 			"Standard Arabic Audio": "msa-0147-2.mp3"
 		},
@@ -27,7 +27,7 @@
 			"English": "Babysitting is a part-time job for her.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "رعاية الأطفال هي وظيفة بدوام جزئي بالنسبة لها.",
 			"Egyptian Arabic Audio": "eca-0147-3.mp3",
 			"Standard Arabic Audio": "msa-0147-3.mp3"
 		},
@@ -36,7 +36,7 @@
 			"English": "She goes to the house.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "تذهب إلى المنزل.",
 			"Egyptian Arabic Audio": "eca-0147-4.mp3",
 			"Standard Arabic Audio": "msa-0147-4.mp3"
 		},
@@ -45,7 +45,7 @@
 			"English": "She plays with the kids.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انها تلعب مع الاطفال.",
 			"Egyptian Arabic Audio": "eca-0147-5.mp3",
 			"Standard Arabic Audio": "msa-0147-5.mp3"
 		},
@@ -54,7 +54,7 @@
 			"English": "She helps them with their homework.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انها تساعدهم على واجباتهم المنزلية.",
 			"Egyptian Arabic Audio": "eca-0147-6.mp3",
 			"Standard Arabic Audio": "msa-0147-6.mp3"
 		},
@@ -63,7 +63,7 @@
 			"English": "She cooks for them.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وقالت انها طهاة بالنسبة لهم.",
 			"Egyptian Arabic Audio": "eca-0147-7.mp3",
 			"Standard Arabic Audio": "msa-0147-7.mp3"
 		},
@@ -72,7 +72,7 @@
 			"English": "The parents come back from work.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يعود الوالدان من العمل.",
 			"Egyptian Arabic Audio": "eca-0147-8.mp3",
 			"Standard Arabic Audio": "msa-0147-8.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "They thank her.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "شكرا لهم.",
 			"Egyptian Arabic Audio": "eca-0147-9.mp3",
 			"Standard Arabic Audio": "msa-0147-9.mp3"
 		},
@@ -90,7 +90,7 @@
 			"English": "They pay her $80.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يدفعون لها 80 دولارا.",
 			"Egyptian Arabic Audio": "eca-0147-10.mp3",
 			"Standard Arabic Audio": "msa-0147-10.mp3"
 		}

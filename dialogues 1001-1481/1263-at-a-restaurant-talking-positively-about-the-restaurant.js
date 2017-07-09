@@ -11,7 +11,7 @@
 			"English": "So, how did you like the restaurant?",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لذا، كيف أعجبك المطعم؟",
 			"Egyptian Arabic Audio": "eca-1263-1.mp3",
 			"Standard Arabic Audio": "msa-1263-1.mp3"
 		},
@@ -21,7 +21,7 @@
 			"English": "I thought that it was very good.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "اعتقدت انه كان جيدا جدا.",
 			"Egyptian Arabic Audio": "eca-1263-2.mp3",
 			"Standard Arabic Audio": "msa-1263-2.mp3"
 		},
@@ -31,7 +31,7 @@
 			"English": "I felt the food was excellent.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "شعرت الطعام كان ممتازا.",
 			"Egyptian Arabic Audio": "eca-1263-3.mp3",
 			"Standard Arabic Audio": "msa-1263-3.mp3"
 		},
@@ -41,7 +41,7 @@
 			"English": "What did you like the best?",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ما الذي أعجبك؟",
 			"Egyptian Arabic Audio": "eca-1263-4.mp3",
 			"Standard Arabic Audio": "msa-1263-4.mp3"
 		},
@@ -51,7 +51,7 @@
 			"English": "I liked the fish the best.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنا أحب الأسماك أفضل.",
 			"Egyptian Arabic Audio": "eca-1263-5.mp3",
 			"Standard Arabic Audio": "msa-1263-5.mp3"
 		},
@@ -61,7 +61,7 @@
 			"English": "I liked the fish also, but I really enjoyed the dessert the most.",
 			"Word Count": 13,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنا أحب الأسماك أيضا، ولكن أنا حقا تتمتع الحلوى أكثر من غيرها.",
 			"Egyptian Arabic Audio": "eca-1263-6.mp3",
 			"Standard Arabic Audio": "msa-1263-6.mp3"
 		},
@@ -71,7 +71,7 @@
 			"English": "Yes, the macadamia cakes were wonderful.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "نعم، كانت الكعك المكاديميا رائعة.",
 			"Egyptian Arabic Audio": "eca-1263-7.mp3",
 			"Standard Arabic Audio": "msa-1263-7.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "Wasn't the service top-notch?",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لم تكن الخدمة أرفع؟",
 			"Egyptian Arabic Audio": "eca-1263-8.mp3",
 			"Standard Arabic Audio": "msa-1263-8.mp3"
 		},
@@ -91,7 +91,7 @@
 			"English": "Yes, the waiter was very attentive.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "نعم، كان النادل يقظة جدا.",
 			"Egyptian Arabic Audio": "eca-1263-9.mp3",
 			"Standard Arabic Audio": "msa-1263-9.mp3"
 		},
@@ -101,7 +101,7 @@
 			"English": "I hope to be able to come back to this restaurant soon.",
 			"Word Count": 12,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "آمل أن تكون قادرة على العودة إلى هذا المطعم قريبا.",
 			"Egyptian Arabic Audio": "eca-1263-10.mp3",
 			"Standard Arabic Audio": "msa-1263-10.mp3"
 		},
@@ -111,7 +111,7 @@
 			"English": "Did you like the restaurant?",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هل أعجبك المطعم؟",
 			"Egyptian Arabic Audio": "eca-1263-11.mp3",
 			"Standard Arabic Audio": "msa-1263-11.mp3"
 		},
@@ -121,7 +121,7 @@
 			"English": "It was pretty good.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كان جيد جدا.",
 			"Egyptian Arabic Audio": "eca-1263-12.mp3",
 			"Standard Arabic Audio": "msa-1263-12.mp3"
 		},
@@ -131,7 +131,7 @@
 			"English": "The food was wonderful.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كان الطعام رائع.",
 			"Egyptian Arabic Audio": "eca-1263-13.mp3",
 			"Standard Arabic Audio": "msa-1263-13.mp3"
 		},
@@ -141,7 +141,7 @@
 			"English": "What was your favorite dish?",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ما هو الطبق المفضل لديك؟",
 			"Egyptian Arabic Audio": "eca-1263-14.mp3",
 			"Standard Arabic Audio": "msa-1263-14.mp3"
 		},
@@ -151,7 +151,7 @@
 			"English": "The fish was my favorite.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كانت الأسماك المفضلة لدي.",
 			"Egyptian Arabic Audio": "eca-1263-15.mp3",
 			"Standard Arabic Audio": "msa-1263-15.mp3"
 		},
@@ -161,7 +161,7 @@
 			"English": "Yes, the fish was great, but the dessert was awesome.",
 			"Word Count": 10,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "نعم، كانت الأسماك كبيرة، ولكن الحلوى كانت رهيبة.",
 			"Egyptian Arabic Audio": "eca-1263-16.mp3",
 			"Standard Arabic Audio": "msa-1263-16.mp3"
 		},
@@ -171,7 +171,7 @@
 			"English": "I agree that the macadamia cake was awesome.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أوافق على أن كعكة الماكاداميا كانت رهيبة.",
 			"Egyptian Arabic Audio": "eca-1263-17.mp3",
 			"Standard Arabic Audio": "msa-1263-17.mp3"
 		},
@@ -181,7 +181,7 @@
 			"English": "Didn't you think that the service was the best?",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ألم تعتقد أن الخدمة كانت الأفضل؟",
 			"Egyptian Arabic Audio": "eca-1263-18.mp3",
 			"Standard Arabic Audio": "msa-1263-18.mp3"
 		},
@@ -191,7 +191,7 @@
 			"English": "Yes, our waiter really went out of the way for us.",
 			"Word Count": 11,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "نعم، لدينا النادل ذهب حقا من الطريق بالنسبة لنا.",
 			"Egyptian Arabic Audio": "eca-1263-19.mp3",
 			"Standard Arabic Audio": "msa-1263-19.mp3"
 		},
@@ -201,7 +201,7 @@
 			"English": "I would like to return to this restaurant soon.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أود أن أعود إلى هذا المطعم قريبا.",
 			"Egyptian Arabic Audio": "eca-1263-20.mp3",
 			"Standard Arabic Audio": "msa-1263-20.mp3"
 		},
@@ -211,7 +211,7 @@
 			"English": "How do you feel about this restaurant?",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ما هو شعورك حيال هذا المطعم؟",
 			"Egyptian Arabic Audio": "eca-1263-21.mp3",
 			"Standard Arabic Audio": "msa-1263-21.mp3"
 		},
@@ -221,7 +221,7 @@
 			"English": "I really liked it!",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنا حقا أحب ذلك!",
 			"Egyptian Arabic Audio": "eca-1263-22.mp3",
 			"Standard Arabic Audio": "msa-1263-22.mp3"
 		},
@@ -231,7 +231,7 @@
 			"English": "I really enjoyed the food.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لقد استمتعت حقا الطعام.",
 			"Egyptian Arabic Audio": "eca-1263-23.mp3",
 			"Standard Arabic Audio": "msa-1263-23.mp3"
 		},
@@ -241,7 +241,7 @@
 			"English": "What did you enjoy the most?",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ماذا استمتعت أكثر؟",
 			"Egyptian Arabic Audio": "eca-1263-24.mp3",
 			"Standard Arabic Audio": "msa-1263-24.mp3"
 		},
@@ -251,7 +251,7 @@
 			"English": "I enjoyed the fish the most.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لقد استمتعت الأسماك أكثر.",
 			"Egyptian Arabic Audio": "eca-1263-25.mp3",
 			"Standard Arabic Audio": "msa-1263-25.mp3"
 		},
@@ -261,7 +261,7 @@
 			"English": "The fish was pretty special, but I loved the dessert.",
 			"Word Count": 10,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وكانت الأسماك خاصة جدا، ولكن أنا أحب الحلوى.",
 			"Egyptian Arabic Audio": "eca-1263-26.mp3",
 			"Standard Arabic Audio": "msa-1263-26.mp3"
 		},
@@ -271,7 +271,7 @@
 			"English": "The macadamia cake was out-of-this-world!",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كانت كعكة الماكاداميا خارج هذا العالم!",
 			"Egyptian Arabic Audio": "eca-1263-27.mp3",
 			"Standard Arabic Audio": "msa-1263-27.mp3"
 		},
@@ -281,7 +281,7 @@
 			"English": "I really felt that the service was exceptionally good.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "شعرت حقا أن الخدمة كانت جيدة بشكل استثنائي.",
 			"Egyptian Arabic Audio": "eca-1263-28.mp3",
 			"Standard Arabic Audio": "msa-1263-28.mp3"
 		},
@@ -291,7 +291,7 @@
 			"English": "Yes, the service really added to the experience.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "نعم، الخدمة المضافة حقا إلى التجربة.",
 			"Egyptian Arabic Audio": "eca-1263-29.mp3",
 			"Standard Arabic Audio": "msa-1263-29.mp3"
 		},
@@ -301,7 +301,7 @@
 			"English": "I am looking forward to returning to this restaurant.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وإنني أتطلع إلى العودة إلى هذا المطعم.",
 			"Egyptian Arabic Audio": "eca-1263-30.mp3",
 			"Standard Arabic Audio": "msa-1263-30.mp3"
 		}

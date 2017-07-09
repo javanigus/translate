@@ -11,7 +11,7 @@
 			"English": "I'm having trouble with my personal statement.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أواجه مشكلة مع بياني الشخصي.",
 			"Egyptian Arabic Audio": "eca-0574-1.mp3",
 			"Standard Arabic Audio": "msa-0574-1.mp3"
 		},
@@ -21,7 +21,7 @@
 			"English": "You should go to the personal statement workshop.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يجب أن تذهب إلى ورشة عمل بيان الشخصية.",
 			"Egyptian Arabic Audio": "eca-0574-2.mp3",
 			"Standard Arabic Audio": "msa-0574-2.mp3"
 		},
@@ -31,7 +31,7 @@
 			"English": "What is that?",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ما هذا؟",
 			"Egyptian Arabic Audio": "eca-0574-3.mp3",
 			"Standard Arabic Audio": "msa-0574-3.mp3"
 		},
@@ -41,7 +41,7 @@
 			"English": "It's where a professional will give you tips and revise your personal  statement.",
 			"Word Count": 13,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انها حيث المهنية سوف تعطيك النصائح ومراجعة بيان الشخصية.",
 			"Egyptian Arabic Audio": "eca-0574-4.mp3",
 			"Standard Arabic Audio": "msa-0574-4.mp3"
 		},
@@ -51,7 +51,7 @@
 			"English": "That sounds helpful.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هذا يبدو مفيدا.",
 			"Egyptian Arabic Audio": "eca-0574-5.mp3",
 			"Standard Arabic Audio": "msa-0574-5.mp3"
 		},
@@ -61,7 +61,7 @@
 			"English": "It is. I went to one last week.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنه. ذهبت إلى أسبوع واحد.",
 			"Egyptian Arabic Audio": "eca-0574-6.mp3",
 			"Standard Arabic Audio": "msa-0574-6.mp3"
 		},
@@ -71,7 +71,7 @@
 			"English": "How was it?",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كيف وجدته؟",
 			"Egyptian Arabic Audio": "eca-0574-7.mp3",
 			"Standard Arabic Audio": "msa-0574-7.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "The person leading the workshop was an English professor, so it was  informative.",
 			"Word Count": 13,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وكان الشخص الذي قاد ورشة العمل أستاذا للغة الإنجليزية، لذلك كان مفيدا.",
 			"Egyptian Arabic Audio": "eca-0574-8.mp3",
 			"Standard Arabic Audio": "msa-0574-8.mp3"
 		},
@@ -91,7 +91,7 @@
 			"English": "I'm kind of embarrassed to show my personal statement, though.",
 			"Word Count": 10,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنا نوع من الحرج لإظهار بيان شخصي، على الرغم من.",
 			"Egyptian Arabic Audio": "eca-0574-9.mp3",
 			"Standard Arabic Audio": "msa-0574-9.mp3"
 		},
@@ -101,7 +101,7 @@
 			"English": "You shouldn't be.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يجب أن لا تكون.",
 			"Egyptian Arabic Audio": "eca-0574-10.mp3",
 			"Standard Arabic Audio": "msa-0574-10.mp3"
 		},
@@ -111,7 +111,7 @@
 			"English": "I feel like I'll be laughed at.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أشعر أنني سوف يضحك في.",
 			"Egyptian Arabic Audio": "eca-0574-11.mp3",
 			"Standard Arabic Audio": "msa-0574-11.mp3"
 		},
@@ -121,7 +121,7 @@
 			"English": "The workshop will improve your writing. You really should go.",
 			"Word Count": 10,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "سوف تعمل ورشة العمل على تحسين الكتابة. أنت حقا يجب أن تذهب.",
 			"Egyptian Arabic Audio": "eca-0574-12.mp3",
 			"Standard Arabic Audio": "msa-0574-12.mp3"
 		}

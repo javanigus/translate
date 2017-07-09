@@ -9,7 +9,7 @@
 			"English": "Sammy gathered the pile into his arms and trudged back upstairs.",
 			"Word Count": 11,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "جمع سامي كومة في ذراعيه و ترودجد الظهر في الطابق العلوي.",
 			"Egyptian Arabic Audio": "eca-1812-1.mp3",
 			"Standard Arabic Audio": "msa-1812-1.mp3"
 		},
@@ -18,7 +18,7 @@
 			"English": "Pleased that he still had not dropped any paper, he lowered the pile back onto the floor.",
 			"Word Count": 17,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يسر أنه لا يزال لم يسقط أي ورقة، وقال انه خفض كومة مرة أخرى على الأرض.",
 			"Egyptian Arabic Audio": "eca-1812-2.mp3",
 			"Standard Arabic Audio": "msa-1812-2.mp3"
 		},
@@ -27,7 +27,7 @@
 			"English": "Then he stood up, but just a little bit too fast.",
 			"Word Count": 11,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ثم وقفت، ولكن قليلا فقط سريع جدا.",
 			"Egyptian Arabic Audio": "eca-1812-3.mp3",
 			"Standard Arabic Audio": "msa-1812-3.mp3"
 		}

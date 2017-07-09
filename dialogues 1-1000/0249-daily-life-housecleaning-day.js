@@ -11,7 +11,7 @@
 			"English": "I have to clean the house.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لدي لتنظيف المنزل.",
 			"Egyptian Arabic Audio": "eca-0249-1.mp3",
 			"Standard Arabic Audio": "msa-0249-1.mp3"
 		},
@@ -21,7 +21,7 @@
 			"English": "Yes, it's very dirty.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "نعم، انها قذرة جدا.",
 			"Egyptian Arabic Audio": "eca-0249-2.mp3",
 			"Standard Arabic Audio": "msa-0249-2.mp3"
 		},
@@ -31,7 +31,7 @@
 			"English": "You can help me.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يمكنك مساعدتي.",
 			"Egyptian Arabic Audio": "eca-0249-3.mp3",
 			"Standard Arabic Audio": "msa-0249-3.mp3"
 		},
@@ -41,7 +41,7 @@
 			"English": "Why me?",
 			"Word Count": 2,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لماذا أنا؟",
 			"Egyptian Arabic Audio": "eca-0249-4.mp3",
 			"Standard Arabic Audio": "msa-0249-4.mp3"
 		},
@@ -51,7 +51,7 @@
 			"English": "Because you helped make it dirty.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لأنك ساعدت على جعلها متسخة.",
 			"Egyptian Arabic Audio": "eca-0249-5.mp3",
 			"Standard Arabic Audio": "msa-0249-5.mp3"
 		},
@@ -61,7 +61,7 @@
 			"English": "What do you want me to do?",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ماذا تريدني ان افعل؟",
 			"Egyptian Arabic Audio": "eca-0249-6.mp3",
 			"Standard Arabic Audio": "msa-0249-6.mp3"
 		},
@@ -71,7 +71,7 @@
 			"English": "I want you to clean the bathroom.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أريدك أن تنظف الحمام.",
 			"Egyptian Arabic Audio": "eca-0249-7.mp3",
 			"Standard Arabic Audio": "msa-0249-7.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "Oh, that's easy.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أوه، هذا أمر سهل.",
 			"Egyptian Arabic Audio": "eca-0249-8.mp3",
 			"Standard Arabic Audio": "msa-0249-8.mp3"
 		},
@@ -91,7 +91,7 @@
 			"English": "Clean the sink, the tub, the counter, and the toilet.",
 			"Word Count": 10,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "تنظيف بالوعة، الحوض، العداد، والمرحاض.",
 			"Egyptian Arabic Audio": "eca-0249-9.mp3",
 			"Standard Arabic Audio": "msa-0249-9.mp3"
 		},
@@ -101,7 +101,7 @@
 			"English": "That's a lot of work.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هذا الكثير من العمل.",
 			"Egyptian Arabic Audio": "eca-0249-10.mp3",
 			"Standard Arabic Audio": "msa-0249-10.mp3"
 		},
@@ -111,7 +111,7 @@
 			"English": "Tell me when you finish.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "قل لي عند الانتهاء.",
 			"Egyptian Arabic Audio": "eca-0249-11.mp3",
 			"Standard Arabic Audio": "msa-0249-11.mp3"
 		},
@@ -121,7 +121,7 @@
 			"English": "I don't think so. You'll just give me more work.",
 			"Word Count": 10,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لا أعتقد ذلك. عليك أن تعطي لي المزيد من العمل.",
 			"Egyptian Arabic Audio": "eca-0249-12.mp3",
 			"Standard Arabic Audio": "msa-0249-12.mp3"
 		}

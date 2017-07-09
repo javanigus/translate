@@ -11,7 +11,7 @@
 			"English": "Mom, can you buy me a laptop?",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أمي، يمكنك شراء لي جهاز كمبيوتر محمول؟",
 			"Egyptian Arabic Audio": "eca-0019-1.mp3",
 			"Standard Arabic Audio": "msa-0019-1.mp3"
 		},
@@ -21,7 +21,7 @@
 			"English": "You are only 13.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنت فقط 13.",
 			"Egyptian Arabic Audio": "eca-0019-2.mp3",
 			"Standard Arabic Audio": "msa-0019-2.mp3"
 		},
@@ -31,7 +31,7 @@
 			"English": "Everyone in school has one.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كل شخص في المدرسة لديه واحد.",
 			"Egyptian Arabic Audio": "eca-0019-3.mp3",
 			"Standard Arabic Audio": "msa-0019-3.mp3"
 		},
@@ -41,7 +41,7 @@
 			"English": "They must be rich then.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يجب أن تكون غنية ثم.",
 			"Egyptian Arabic Audio": "eca-0019-4.mp3",
 			"Standard Arabic Audio": "msa-0019-4.mp3"
 		},
@@ -51,7 +51,7 @@
 			"English": "I really need it.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انا حقا احتاجه.",
 			"Egyptian Arabic Audio": "eca-0019-5.mp3",
 			"Standard Arabic Audio": "msa-0019-5.mp3"
 		},
@@ -61,7 +61,7 @@
 			"English": "What do you need it for?",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ماذا كنت في حاجة إليها ل؟",
 			"Egyptian Arabic Audio": "eca-0019-6.mp3",
 			"Standard Arabic Audio": "msa-0019-6.mp3"
 		},
@@ -71,7 +71,7 @@
 			"English": "I want to bring it to school for homework.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أريد أن أحضرها إلى المدرسة للواجبات المنزلية.",
 			"Egyptian Arabic Audio": "eca-0019-7.mp3",
 			"Standard Arabic Audio": "msa-0019-7.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "Aren't there computers at school?",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أليس هناك أجهزة كمبيوتر في المدرسة؟",
 			"Egyptian Arabic Audio": "eca-0019-8.mp3",
 			"Standard Arabic Audio": "msa-0019-8.mp3"
 		},
@@ -91,7 +91,7 @@
 			"English": "They are way too slow.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "فهي طريقة بطيئة جدا.",
 			"Egyptian Arabic Audio": "eca-0019-9.mp3",
 			"Standard Arabic Audio": "msa-0019-9.mp3"
 		},
@@ -101,7 +101,7 @@
 			"English": "Back in my day, there were no computers.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "مرة أخرى في اليوم، لم يكن هناك أجهزة الكمبيوتر.",
 			"Egyptian Arabic Audio": "eca-0019-10.mp3",
 			"Standard Arabic Audio": "msa-0019-10.mp3"
 		},
@@ -111,7 +111,7 @@
 			"English": "I hate it when you say that.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أكره عندما تقول ذلك.",
 			"Egyptian Arabic Audio": "eca-0019-11.mp3",
 			"Standard Arabic Audio": "msa-0019-11.mp3"
 		},
@@ -121,7 +121,7 @@
 			"English": "I hate it when you ask for things.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أكره عندما تسأل عن الأشياء.",
 			"Egyptian Arabic Audio": "eca-0019-12.mp3",
 			"Standard Arabic Audio": "msa-0019-12.mp3"
 		}

@@ -9,7 +9,7 @@
 			"English": "Edward is a secretary in a doctor's office.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "إدوارد هو سكرتير في مكتب الطبيب.",
 			"Egyptian Arabic Audio": "eca-0560-1.mp3",
 			"Standard Arabic Audio": "msa-0560-1.mp3"
 		},
@@ -18,7 +18,7 @@
 			"English": "He does a lot of things.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انه يفعل الكثير من الامور.",
 			"Egyptian Arabic Audio": "eca-0560-2.mp3",
 			"Standard Arabic Audio": "msa-0560-2.mp3"
 		},
@@ -27,7 +27,7 @@
 			"English": "He greets patients.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انه يحيي المرضى.",
 			"Egyptian Arabic Audio": "eca-0560-3.mp3",
 			"Standard Arabic Audio": "msa-0560-3.mp3"
 		},
@@ -36,7 +36,7 @@
 			"English": "He asks for their information.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ويطلب معلوماتهم.",
 			"Egyptian Arabic Audio": "eca-0560-4.mp3",
 			"Standard Arabic Audio": "msa-0560-4.mp3"
 		},
@@ -45,7 +45,7 @@
 			"English": "He records their height and weight.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يسجل طوله ووزنها.",
 			"Egyptian Arabic Audio": "eca-0560-5.mp3",
 			"Standard Arabic Audio": "msa-0560-5.mp3"
 		},
@@ -54,7 +54,7 @@
 			"English": "He tells them how long they have to wait.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يقول لهم كم من الوقت يجب أن تنتظر.",
 			"Egyptian Arabic Audio": "eca-0560-6.mp3",
 			"Standard Arabic Audio": "msa-0560-6.mp3"
 		},
@@ -63,7 +63,7 @@
 			"English": "He answers phone calls.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يجيب على المكالمات الهاتفية.",
 			"Egyptian Arabic Audio": "eca-0560-7.mp3",
 			"Standard Arabic Audio": "msa-0560-7.mp3"
 		},
@@ -72,7 +72,7 @@
 			"English": "He always knows what to say.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هو دائما يعرف ما يقول.",
 			"Egyptian Arabic Audio": "eca-0560-8.mp3",
 			"Standard Arabic Audio": "msa-0560-8.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "Edward also keeps the files organized.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "إدوارد أيضا يحتفظ الملفات المنظمة.",
 			"Egyptian Arabic Audio": "eca-0560-9.mp3",
 			"Standard Arabic Audio": "msa-0560-9.mp3"
 		}

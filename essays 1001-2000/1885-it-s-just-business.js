@@ -9,7 +9,7 @@
 			"English": "May went back out to her car and waited.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "قد عاد إلى سيارتها وانتظر.",
 			"Egyptian Arabic Audio": "eca-1885-1.mp3",
 			"Standard Arabic Audio": "msa-1885-1.mp3"
 		},
@@ -18,7 +18,7 @@
 			"English": "Mr Wang was whistling as he returned to the car.",
 			"Word Count": 10,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وكان السيد وانغ صفير كما عاد إلى السيارة.",
 			"Egyptian Arabic Audio": "eca-1885-2.mp3",
 			"Standard Arabic Audio": "msa-1885-2.mp3"
 		},
@@ -27,7 +27,7 @@
 			"English": "He apologized for making her wait.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "اعتذر عن جعلها تنتظر.",
 			"Egyptian Arabic Audio": "eca-1885-3.mp3",
 			"Standard Arabic Audio": "msa-1885-3.mp3"
 		},
@@ -36,7 +36,7 @@
 			"English": "She said it was no problem.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وقالت إنها ليست مشكلة.",
 			"Egyptian Arabic Audio": "eca-1885-4.mp3",
 			"Standard Arabic Audio": "msa-1885-4.mp3"
 		},
@@ -45,7 +45,7 @@
 			"English": "Then she drove Mr.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ثم قادت السيد",
 			"Egyptian Arabic Audio": "eca-1885-5.mp3",
 			"Standard Arabic Audio": "msa-1885-5.mp3"
 		},
@@ -54,7 +54,7 @@
 			"English": "Wang back to his hotel.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وانغ مرة أخرى إلى الفندق.",
 			"Egyptian Arabic Audio": "eca-1885-6.mp3",
 			"Standard Arabic Audio": "msa-1885-6.mp3"
 		},
@@ -63,7 +63,7 @@
 			"English": "He thanked her for her help, and said he was returning to China the next day.",
 			"Word Count": 16,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وشكرها على مساعدتها، وقال إنه سيعود إلى الصين في اليوم التالي.",
 			"Egyptian Arabic Audio": "eca-1885-7.mp3",
 			"Standard Arabic Audio": "msa-1885-7.mp3"
 		},
@@ -72,7 +72,7 @@
 			"English": "She didn't say anything about what she had overheard.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لم تقل شيئا عن ما سمعته.",
 			"Egyptian Arabic Audio": "eca-1885-8.mp3",
 			"Standard Arabic Audio": "msa-1885-8.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "She went home and tried not to cry about what had just happened�she must be strong.",
 			"Word Count": 16,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ذهبت إلى البيت وحاولت عدم البكاء حول ما حدث للتو &quot;يجب أن تكون قوية.",
 			"Egyptian Arabic Audio": "eca-1885-9.mp3",
 			"Standard Arabic Audio": "msa-1885-9.mp3"
 		}

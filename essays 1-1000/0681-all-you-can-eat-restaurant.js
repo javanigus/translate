@@ -9,7 +9,7 @@
 			"English": "Today was a big day.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كان اليوم يوما كبيرا.",
 			"Egyptian Arabic Audio": "eca-0681-1.mp3",
 			"Standard Arabic Audio": "msa-0681-1.mp3"
 		},
@@ -18,7 +18,7 @@
 			"English": "Five friends had planned to go out.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وكان خمسة أصدقاء قد خططوا للخروج.",
 			"Egyptian Arabic Audio": "eca-0681-2.mp3",
 			"Standard Arabic Audio": "msa-0681-2.mp3"
 		},
@@ -27,7 +27,7 @@
 			"English": "The plan was to go to a restaurant.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كانت الخطة للذهاب إلى مطعم.",
 			"Egyptian Arabic Audio": "eca-0681-3.mp3",
 			"Standard Arabic Audio": "msa-0681-3.mp3"
 		},
@@ -36,7 +36,7 @@
 			"English": "It was a good restaurant.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كان مطعم جيد.",
 			"Egyptian Arabic Audio": "eca-0681-4.mp3",
 			"Standard Arabic Audio": "msa-0681-4.mp3"
 		},
@@ -45,7 +45,7 @@
 			"English": "It served all you can eat food.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "خدم كل ما يمكنك تناول الطعام.",
 			"Egyptian Arabic Audio": "eca-0681-5.mp3",
 			"Standard Arabic Audio": "msa-0681-5.mp3"
 		},
@@ -54,7 +54,7 @@
 			"English": "Everybody was excited.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كان الجميع متحمس.",
 			"Egyptian Arabic Audio": "eca-0681-6.mp3",
 			"Standard Arabic Audio": "msa-0681-6.mp3"
 		},
@@ -63,7 +63,7 @@
 			"English": "They had gone there before.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كانوا قد ذهبوا إلى هناك من قبل.",
 			"Egyptian Arabic Audio": "eca-0681-7.mp3",
 			"Standard Arabic Audio": "msa-0681-7.mp3"
 		},
@@ -72,7 +72,7 @@
 			"English": "It was their favorite restaurant.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كان المطعم المفضل لديهم.",
 			"Egyptian Arabic Audio": "eca-0681-8.mp3",
 			"Standard Arabic Audio": "msa-0681-8.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "The restaurant was far.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "المطعم كان بعيدا.",
 			"Egyptian Arabic Audio": "eca-0681-9.mp3",
 			"Standard Arabic Audio": "msa-0681-9.mp3"
 		},
@@ -90,7 +90,7 @@
 			"English": "It took one hour to drive there.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "استغرق الأمر ساعة واحدة لقيادة هناك.",
 			"Egyptian Arabic Audio": "eca-0681-10.mp3",
 			"Standard Arabic Audio": "msa-0681-10.mp3"
 		},
@@ -99,7 +99,7 @@
 			"English": "It took two hours on the bus.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "استغرق الأمر ساعتين في الحافلة.",
 			"Egyptian Arabic Audio": "eca-0681-11.mp3",
 			"Standard Arabic Audio": "msa-0681-11.mp3"
 		},
@@ -108,7 +108,7 @@
 			"English": "One of the friends drove a car.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "واحد من الأصدقاء قاد سيارة.",
 			"Egyptian Arabic Audio": "eca-0681-12.mp3",
 			"Standard Arabic Audio": "msa-0681-12.mp3"
 		},
@@ -117,7 +117,7 @@
 			"English": "He had just purchased it.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كان قد اشترى للتو.",
 			"Egyptian Arabic Audio": "eca-0681-13.mp3",
 			"Standard Arabic Audio": "msa-0681-13.mp3"
 		},
@@ -126,7 +126,7 @@
 			"English": "He drove his friends to the restaurant.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "قاد أصدقائه إلى المطعم.",
 			"Egyptian Arabic Audio": "eca-0681-14.mp3",
 			"Standard Arabic Audio": "msa-0681-14.mp3"
 		},
@@ -135,7 +135,7 @@
 			"English": "There was no traffic on the way.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لم يكن هناك حركة المرور على الطريق.",
 			"Egyptian Arabic Audio": "eca-0681-15.mp3",
 			"Standard Arabic Audio": "msa-0681-15.mp3"
 		},
@@ -144,7 +144,7 @@
 			"English": "They arrived in thirty minutes.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وصلوا إلى ثلاثين دقيقة.",
 			"Egyptian Arabic Audio": "eca-0681-16.mp3",
 			"Standard Arabic Audio": "msa-0681-16.mp3"
 		},
@@ -153,7 +153,7 @@
 			"English": "Everybody was starving.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كان الجميع يتضورون جوعا.",
 			"Egyptian Arabic Audio": "eca-0681-17.mp3",
 			"Standard Arabic Audio": "msa-0681-17.mp3"
 		},
@@ -162,7 +162,7 @@
 			"English": "They ordered their food.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أمروا طعامهم.",
 			"Egyptian Arabic Audio": "eca-0681-18.mp3",
 			"Standard Arabic Audio": "msa-0681-18.mp3"
 		},
@@ -171,7 +171,7 @@
 			"English": "The restaurant was full of customers.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "المطعم مليء بالعملاء.",
 			"Egyptian Arabic Audio": "eca-0681-19.mp3",
 			"Standard Arabic Audio": "msa-0681-19.mp3"
 		},
@@ -180,7 +180,7 @@
 			"English": "The restaurant was special.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "المطعم كان خاصا.",
 			"Egyptian Arabic Audio": "eca-0681-20.mp3",
 			"Standard Arabic Audio": "msa-0681-20.mp3"
 		},
@@ -189,7 +189,7 @@
 			"English": "It served raw food.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كان يقدم الطعام الخام.",
 			"Egyptian Arabic Audio": "eca-0681-21.mp3",
 			"Standard Arabic Audio": "msa-0681-21.mp3"
 		},
@@ -198,7 +198,7 @@
 			"English": "You had to cook your own food.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كان لديك لطهي الطعام الخاص بك.",
 			"Egyptian Arabic Audio": "eca-0681-22.mp3",
 			"Standard Arabic Audio": "msa-0681-22.mp3"
 		},
@@ -207,7 +207,7 @@
 			"English": "There was a grill on the table.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كان هناك شواء على الطاولة.",
 			"Egyptian Arabic Audio": "eca-0681-23.mp3",
 			"Standard Arabic Audio": "msa-0681-23.mp3"
 		},
@@ -216,7 +216,7 @@
 			"English": "It was fun.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كان ممتعا.",
 			"Egyptian Arabic Audio": "eca-0681-24.mp3",
 			"Standard Arabic Audio": "msa-0681-24.mp3"
 		},
@@ -225,7 +225,7 @@
 			"English": "Everybody ate a lot of food.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أكل الجميع الكثير من الطعام.",
 			"Egyptian Arabic Audio": "eca-0681-25.mp3",
 			"Standard Arabic Audio": "msa-0681-25.mp3"
 		},
@@ -234,7 +234,7 @@
 			"English": "The bill was expensive.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وكان مشروع القانون مكلفا.",
 			"Egyptian Arabic Audio": "eca-0681-26.mp3",
 			"Standard Arabic Audio": "msa-0681-26.mp3"
 		}

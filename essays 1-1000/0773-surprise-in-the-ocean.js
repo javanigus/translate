@@ -9,7 +9,7 @@
 			"English": "When she came back up, she had a big smile on her face.",
 			"Word Count": 13,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "عندما عادت، كانت لديها ابتسامة كبيرة على وجهها.",
 			"Egyptian Arabic Audio": "eca-0773-1.mp3",
 			"Standard Arabic Audio": "msa-0773-1.mp3"
 		},
@@ -18,7 +18,7 @@
 			"English": "She was laughing very loud.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كانت تضحك بصوت عال جدا.",
 			"Egyptian Arabic Audio": "eca-0773-2.mp3",
 			"Standard Arabic Audio": "msa-0773-2.mp3"
 		},
@@ -27,7 +27,7 @@
 			"English": "\"This isn't funny!\" said Jason.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "&quot;هذا ليس مضحك!&quot; .",
 			"Egyptian Arabic Audio": "eca-0773-3.mp3",
 			"Standard Arabic Audio": "msa-0773-3.mp3"
 		},
@@ -36,7 +36,7 @@
 			"English": "Suddenly, a baby seal jumped onto Jason's surf board.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "فجأة، قفز ختم الطفل على لوحة تصفح جيسون.",
 			"Egyptian Arabic Audio": "eca-0773-4.mp3",
 			"Standard Arabic Audio": "msa-0773-4.mp3"
 		},
@@ -45,7 +45,7 @@
 			"English": "Jason screamed and jumped into the water.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "صرخ جاسون وقفز في الماء.",
 			"Egyptian Arabic Audio": "eca-0773-5.mp3",
 			"Standard Arabic Audio": "msa-0773-5.mp3"
 		},
@@ -54,7 +54,7 @@
 			"English": "He hid there for almost a minute.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "اختبأ هناك لمدة دقيقة تقريبا.",
 			"Egyptian Arabic Audio": "eca-0773-6.mp3",
 			"Standard Arabic Audio": "msa-0773-6.mp3"
 		},
@@ -63,7 +63,7 @@
 			"English": "\"That's the shark!\" said Kimberly.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "&quot;هذا هو القرش!&quot; وفقا لما ذكره كيمبرلى.",
 			"Egyptian Arabic Audio": "eca-0773-7.mp3",
 			"Standard Arabic Audio": "msa-0773-7.mp3"
 		},
@@ -72,7 +72,7 @@
 			"English": "Jason was very embarrassed.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كان جيسون بالحرج جدا.",
 			"Egyptian Arabic Audio": "eca-0773-8.mp3",
 			"Standard Arabic Audio": "msa-0773-8.mp3"
 		}

@@ -11,7 +11,7 @@
 			"English": "Do you have the notes from last week's class?",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هل لديك ملاحظات من فصل الأسبوع الماضي؟",
 			"Egyptian Arabic Audio": "eca-1015-1.mp3",
 			"Standard Arabic Audio": "msa-1015-1.mp3"
 		},
@@ -21,7 +21,7 @@
 			"English": "Did you come late?",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هل تأخرت؟",
 			"Egyptian Arabic Audio": "eca-1015-2.mp3",
 			"Standard Arabic Audio": "msa-1015-2.mp3"
 		},
@@ -31,7 +31,7 @@
 			"English": "I couldn't make it.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لم أستطع جعله.",
 			"Egyptian Arabic Audio": "eca-1015-3.mp3",
 			"Standard Arabic Audio": "msa-1015-3.mp3"
 		},
@@ -41,7 +41,7 @@
 			"English": "Why is that?",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لماذا هذا؟",
 			"Egyptian Arabic Audio": "eca-1015-4.mp3",
 			"Standard Arabic Audio": "msa-1015-4.mp3"
 		},
@@ -51,7 +51,7 @@
 			"English": "I was sick.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كنت مريضا.",
 			"Egyptian Arabic Audio": "eca-1015-5.mp3",
 			"Standard Arabic Audio": "msa-1015-5.mp3"
 		},
@@ -61,7 +61,7 @@
 			"English": "Oh, okay. Well, here you go.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "حسنا. حسنا، هنا تذهب.",
 			"Egyptian Arabic Audio": "eca-1015-6.mp3",
 			"Standard Arabic Audio": "msa-1015-6.mp3"
 		},
@@ -71,7 +71,7 @@
 			"English": "Are these all of them?",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هل هذه كلها؟",
 			"Egyptian Arabic Audio": "eca-1015-7.mp3",
 			"Standard Arabic Audio": "msa-1015-7.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "Oh, wait, here are the rest.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أوه، انتظر، وهنا بقية.",
 			"Egyptian Arabic Audio": "eca-1015-8.mp3",
 			"Standard Arabic Audio": "msa-1015-8.mp3"
 		},
@@ -91,7 +91,7 @@
 			"English": "Thanks a bunch.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "اشكرك كثيرا.",
 			"Egyptian Arabic Audio": "eca-1015-9.mp3",
 			"Standard Arabic Audio": "msa-1015-9.mp3"
 		},
@@ -101,7 +101,7 @@
 			"English": "Don't mention it.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لا تذكرها.",
 			"Egyptian Arabic Audio": "eca-1015-10.mp3",
 			"Standard Arabic Audio": "msa-1015-10.mp3"
 		},
@@ -111,7 +111,7 @@
 			"English": "Do you mind if I borrow the notes from last week?",
 			"Word Count": 11,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هل تمانع إذا كنت أقترض الملاحظات من الأسبوع الماضي؟",
 			"Egyptian Arabic Audio": "eca-1015-11.mp3",
 			"Standard Arabic Audio": "msa-1015-11.mp3"
 		},
@@ -121,7 +121,7 @@
 			"English": "Were you here last week?",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هل كنت هنا الأسبوع الماضي؟",
 			"Egyptian Arabic Audio": "eca-1015-12.mp3",
 			"Standard Arabic Audio": "msa-1015-12.mp3"
 		},
@@ -131,7 +131,7 @@
 			"English": "I was unable to make it.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لم أتمكن من إجراء ذلك.",
 			"Egyptian Arabic Audio": "eca-1015-13.mp3",
 			"Standard Arabic Audio": "msa-1015-13.mp3"
 		},
@@ -141,7 +141,7 @@
 			"English": "How come?",
 			"Word Count": 2,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كيف ذلك؟",
 			"Egyptian Arabic Audio": "eca-1015-14.mp3",
 			"Standard Arabic Audio": "msa-1015-14.mp3"
 		},
@@ -151,7 +151,7 @@
 			"English": "I was sick that day, and couldn't make it.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كنت مريضة في ذلك اليوم، ولم أستطع أن أجعلها.",
 			"Egyptian Arabic Audio": "eca-1015-15.mp3",
 			"Standard Arabic Audio": "msa-1015-15.mp3"
 		},
@@ -161,7 +161,7 @@
 			"English": "Well, here are the notes.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "حسنا، هنا الملاحظات.",
 			"Egyptian Arabic Audio": "eca-1015-16.mp3",
 			"Standard Arabic Audio": "msa-1015-16.mp3"
 		},
@@ -171,7 +171,7 @@
 			"English": "Are there any more?",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هل هناك أكثر من ذلك؟",
 			"Egyptian Arabic Audio": "eca-1015-17.mp3",
 			"Standard Arabic Audio": "msa-1015-17.mp3"
 		},
@@ -181,7 +181,7 @@
 			"English": "Sorry, here you go.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "عذرا، هنا تذهب.",
 			"Egyptian Arabic Audio": "eca-1015-18.mp3",
 			"Standard Arabic Audio": "msa-1015-18.mp3"
 		},
@@ -191,7 +191,7 @@
 			"English": "Thanks a lot.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "شكرا جزيلا.",
 			"Egyptian Arabic Audio": "eca-1015-19.mp3",
 			"Standard Arabic Audio": "msa-1015-19.mp3"
 		},
@@ -201,7 +201,7 @@
 			"English": "No problem.",
 			"Word Count": 2,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ليس هناك أى مشكلة.",
 			"Egyptian Arabic Audio": "eca-1015-20.mp3",
 			"Standard Arabic Audio": "msa-1015-20.mp3"
 		},
@@ -211,7 +211,7 @@
 			"English": "Let me get last week's notes.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "واسمحوا لي أن أحصل على ملاحظات الأسبوع الماضي.",
 			"Egyptian Arabic Audio": "eca-1015-21.mp3",
 			"Standard Arabic Audio": "msa-1015-21.mp3"
 		},
@@ -221,7 +221,7 @@
 			"English": "Yeah, sure--you didn't come to class that day?",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "نعم، بالتأكيد - أنت لم يأت إلى الصف في ذلك اليوم؟",
 			"Egyptian Arabic Audio": "eca-1015-22.mp3",
 			"Standard Arabic Audio": "msa-1015-22.mp3"
 		},
@@ -231,7 +231,7 @@
 			"English": "I couldn't come.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لم أتمكن من الحضور.",
 			"Egyptian Arabic Audio": "eca-1015-23.mp3",
 			"Standard Arabic Audio": "msa-1015-23.mp3"
 		},
@@ -241,7 +241,7 @@
 			"English": "Why not?",
 			"Word Count": 2,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لما لا؟",
 			"Egyptian Arabic Audio": "eca-1015-24.mp3",
 			"Standard Arabic Audio": "msa-1015-24.mp3"
 		},
@@ -251,7 +251,7 @@
 			"English": "I wasn't feeling well.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لم أكن أشعر أنني بحالة جيدة.",
 			"Egyptian Arabic Audio": "eca-1015-25.mp3",
 			"Standard Arabic Audio": "msa-1015-25.mp3"
 		},
@@ -261,7 +261,7 @@
 			"English": "Here they are.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ها هم.",
 			"Egyptian Arabic Audio": "eca-1015-26.mp3",
 			"Standard Arabic Audio": "msa-1015-26.mp3"
 		},
@@ -271,7 +271,7 @@
 			"English": "Thanks a lot; are these all the notes?",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "شكرا جزيلا؛ هي هذه كل الملاحظات؟",
 			"Egyptian Arabic Audio": "eca-1015-27.mp3",
 			"Standard Arabic Audio": "msa-1015-27.mp3"
 		},
@@ -281,7 +281,7 @@
 			"English": "Oh, no, this is the rest.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أوه، لا، هذا هو الباقي.",
 			"Egyptian Arabic Audio": "eca-1015-28.mp3",
 			"Standard Arabic Audio": "msa-1015-28.mp3"
 		},
@@ -291,7 +291,7 @@
 			"English": "Thank you very much.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "شكرا جزيلا.",
 			"Egyptian Arabic Audio": "eca-1015-29.mp3",
 			"Standard Arabic Audio": "msa-1015-29.mp3"
 		},
@@ -301,7 +301,7 @@
 			"English": "It's no problem at all.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انها لا مشكلة على الإطلاق.",
 			"Egyptian Arabic Audio": "eca-1015-30.mp3",
 			"Standard Arabic Audio": "msa-1015-30.mp3"
 		}

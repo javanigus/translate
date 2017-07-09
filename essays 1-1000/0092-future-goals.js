@@ -9,7 +9,7 @@
 			"English": "She thinks about the future a lot.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انها تفكر في المستقبل الكثير.",
 			"Egyptian Arabic Audio": "eca-0092-1.mp3",
 			"Standard Arabic Audio": "msa-0092-1.mp3"
 		},
@@ -18,7 +18,7 @@
 			"English": "She wants to be a doctor.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هي تريد ان تصبح طبيبه.",
 			"Egyptian Arabic Audio": "eca-0092-2.mp3",
 			"Standard Arabic Audio": "msa-0092-2.mp3"
 		},
@@ -27,7 +27,7 @@
 			"English": "Doctors have cool uniforms.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "الأطباء لديهم زي بارد.",
 			"Egyptian Arabic Audio": "eca-0092-3.mp3",
 			"Standard Arabic Audio": "msa-0092-3.mp3"
 		},
@@ -36,7 +36,7 @@
 			"English": "Doctors make people feel better.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "الأطباء يجعل الناس يشعرون على نحو أفضل.",
 			"Egyptian Arabic Audio": "eca-0092-4.mp3",
 			"Standard Arabic Audio": "msa-0092-4.mp3"
 		},
@@ -45,7 +45,7 @@
 			"English": "Doctors make a lot of money.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "الأطباء جعل الكثير من المال.",
 			"Egyptian Arabic Audio": "eca-0092-5.mp3",
 			"Standard Arabic Audio": "msa-0092-5.mp3"
 		},
@@ -54,7 +54,7 @@
 			"English": "She wants to live in Beverly Hills, California.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "إنها تريد أن تعيش في بيفرلي هيلز، كاليفورنيا.",
 			"Egyptian Arabic Audio": "eca-0092-6.mp3",
 			"Standard Arabic Audio": "msa-0092-6.mp3"
 		},
@@ -63,7 +63,7 @@
 			"English": "The city is very clean.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "المدينة نظيفة جدا.",
 			"Egyptian Arabic Audio": "eca-0092-7.mp3",
 			"Standard Arabic Audio": "msa-0092-7.mp3"
 		},
@@ -72,7 +72,7 @@
 			"English": "The houses there are nice.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "المنازل هناك لطيفة.",
 			"Egyptian Arabic Audio": "eca-0092-8.mp3",
 			"Standard Arabic Audio": "msa-0092-8.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "She wants to get married and have kids too.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "إنها تريد الزواج و الأطفال أيضا.",
 			"Egyptian Arabic Audio": "eca-0092-9.mp3",
 			"Standard Arabic Audio": "msa-0092-9.mp3"
 		}

@@ -9,7 +9,7 @@
 			"English": "She looks at the candy bar.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انها تنظر في الحلوى.",
 			"Egyptian Arabic Audio": "eca-1127-1.mp3",
 			"Standard Arabic Audio": "msa-1127-1.mp3"
 		},
@@ -18,7 +18,7 @@
 			"English": "It says Butterfinger on the wrapper.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يقول بوتيرفينجر على المجمع.",
 			"Egyptian Arabic Audio": "eca-1127-2.mp3",
 			"Standard Arabic Audio": "msa-1127-2.mp3"
 		},
@@ -27,7 +27,7 @@
 			"English": "She takes off the wrapper.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وقالت انها تقلع قبالة المجمع.",
 			"Egyptian Arabic Audio": "eca-1127-3.mp3",
 			"Standard Arabic Audio": "msa-1127-3.mp3"
 		},
@@ -36,7 +36,7 @@
 			"English": "She throws it into the trashcan.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انها رميها في سلة المهملات.",
 			"Egyptian Arabic Audio": "eca-1127-4.mp3",
 			"Standard Arabic Audio": "msa-1127-4.mp3"
 		},
@@ -45,7 +45,7 @@
 			"English": "She bites into the candy.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انها لدغ في الحلوى.",
 			"Egyptian Arabic Audio": "eca-1127-5.mp3",
 			"Standard Arabic Audio": "msa-1127-5.mp3"
 		},
@@ -54,7 +54,7 @@
 			"English": "She chews it.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وقالت انها يمضغ ذلك.",
 			"Egyptian Arabic Audio": "eca-1127-6.mp3",
 			"Standard Arabic Audio": "msa-1127-6.mp3"
 		},
@@ -63,7 +63,7 @@
 			"English": "It tastes good.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "طعمه لذيذ.",
 			"Egyptian Arabic Audio": "eca-1127-7.mp3",
 			"Standard Arabic Audio": "msa-1127-7.mp3"
 		},
@@ -72,7 +72,7 @@
 			"English": "She swallows it.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انها ابتلاع ذلك.",
 			"Egyptian Arabic Audio": "eca-1127-8.mp3",
 			"Standard Arabic Audio": "msa-1127-8.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "She takes another bite.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انها تأخذ لدغة أخرى.",
 			"Egyptian Arabic Audio": "eca-1127-9.mp3",
 			"Standard Arabic Audio": "msa-1127-9.mp3"
 		},
@@ -90,7 +90,7 @@
 			"English": "Soon the candy bar is all gone.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "قريبا ذهبت الحلوى كل شيء.",
 			"Egyptian Arabic Audio": "eca-1127-10.mp3",
 			"Standard Arabic Audio": "msa-1127-10.mp3"
 		},
@@ -99,7 +99,7 @@
 			"English": "Nothing remains except the wrapper.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لا شيء ما عدا المجمع.",
 			"Egyptian Arabic Audio": "eca-1127-11.mp3",
 			"Standard Arabic Audio": "msa-1127-11.mp3"
 		}

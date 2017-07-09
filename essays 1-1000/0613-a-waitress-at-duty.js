@@ -9,7 +9,7 @@
 			"English": "She is a waitress.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وهي نادلة.",
 			"Egyptian Arabic Audio": "eca-0613-1.mp3",
 			"Standard Arabic Audio": "msa-0613-1.mp3"
 		},
@@ -18,7 +18,7 @@
 			"English": "She works at a restaurant.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وهي تعمل في مطعم.",
 			"Egyptian Arabic Audio": "eca-0613-2.mp3",
 			"Standard Arabic Audio": "msa-0613-2.mp3"
 		},
@@ -27,7 +27,7 @@
 			"English": "A customer walks in.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "عميل يمشي في.",
 			"Egyptian Arabic Audio": "eca-0613-3.mp3",
 			"Standard Arabic Audio": "msa-0613-3.mp3"
 		},
@@ -36,7 +36,7 @@
 			"English": "She walks him to a table.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وقالت انها يمشي الى طاولة.",
 			"Egyptian Arabic Audio": "eca-0613-4.mp3",
 			"Standard Arabic Audio": "msa-0613-4.mp3"
 		},
@@ -45,7 +45,7 @@
 			"English": "She gives him a menu.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وقالت انه يعطيه القائمة.",
 			"Egyptian Arabic Audio": "eca-0613-5.mp3",
 			"Standard Arabic Audio": "msa-0613-5.mp3"
 		},
@@ -54,7 +54,7 @@
 			"English": "She puts a plate, fork, and spoon in front of him.",
 			"Word Count": 11,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انها تضع لوحة، شوكة، وملعقة أمامه.",
 			"Egyptian Arabic Audio": "eca-0613-6.mp3",
 			"Standard Arabic Audio": "msa-0613-6.mp3"
 		},
@@ -63,7 +63,7 @@
 			"English": "He orders fried chicken.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يأمر الدجاج المقلي.",
 			"Egyptian Arabic Audio": "eca-0613-7.mp3",
 			"Standard Arabic Audio": "msa-0613-7.mp3"
 		},
@@ -72,7 +72,7 @@
 			"English": "She smiles.",
 			"Word Count": 2,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هي تضحك.",
 			"Egyptian Arabic Audio": "eca-0613-8.mp3",
 			"Standard Arabic Audio": "msa-0613-8.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "She is very quick.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انها سريعة جدا.",
 			"Egyptian Arabic Audio": "eca-0613-9.mp3",
 			"Standard Arabic Audio": "msa-0613-9.mp3"
 		},
@@ -90,7 +90,7 @@
 			"English": "She gives him his meal.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وقالت انه يعطي له وجبة له.",
 			"Egyptian Arabic Audio": "eca-0613-10.mp3",
 			"Standard Arabic Audio": "msa-0613-10.mp3"
 		},
@@ -99,7 +99,7 @@
 			"English": "He finishes eating.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انه ينتهي الأكل.",
 			"Egyptian Arabic Audio": "eca-0613-11.mp3",
 			"Standard Arabic Audio": "msa-0613-11.mp3"
 		},
@@ -108,7 +108,7 @@
 			"English": "He gives her a big tip.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انه يعطي لها نصيحة كبيرة.",
 			"Egyptian Arabic Audio": "eca-0613-12.mp3",
 			"Standard Arabic Audio": "msa-0613-12.mp3"
 		}

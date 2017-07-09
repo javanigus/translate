@@ -11,7 +11,7 @@
 			"English": "Excuse me, but I'd like to make an appointment for next week.",
 			"Word Count": 12,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "عفوا، ولكن أود أن تحديد موعد للأسبوع المقبل.",
 			"Egyptian Arabic Audio": "eca-0623-1.mp3",
 			"Standard Arabic Audio": "msa-0623-1.mp3"
 		},
@@ -21,7 +21,7 @@
 			"English": "I can help with that. Did you try doing it over the phone or online?",
 			"Word Count": 15,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنا يمكن أن تساعد في ذلك. هل حاولت القيام بذلك عبر الهاتف أو عبر الإنترنت؟",
 			"Egyptian Arabic Audio": "eca-0623-2.mp3",
 			"Standard Arabic Audio": "msa-0623-2.mp3"
 		},
@@ -31,7 +31,7 @@
 			"English": "Yes, but it seemed so confusing.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "نعم، ولكن يبدو مربكا جدا.",
 			"Egyptian Arabic Audio": "eca-0623-3.mp3",
 			"Standard Arabic Audio": "msa-0623-3.mp3"
 		},
@@ -41,7 +41,7 @@
 			"English": "I know what you mean. They are working on it.",
 			"Word Count": 10,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنا أعرف ما تعنيه. أنهم يعملون على ذلك.",
 			"Egyptian Arabic Audio": "eca-0623-4.mp3",
 			"Standard Arabic Audio": "msa-0623-4.mp3"
 		},
@@ -51,7 +51,7 @@
 			"English": "Great. So, I wanted to come in sometime next week.",
 			"Word Count": 10,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "عظيم. لذلك، أردت أن تأتي في وقت ما الأسبوع المقبل.",
 			"Egyptian Arabic Audio": "eca-0623-5.mp3",
 			"Standard Arabic Audio": "msa-0623-5.mp3"
 		},
@@ -61,7 +61,7 @@
 			"English": "How does Monday sound?",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كيف صوت الاثنين؟",
 			"Egyptian Arabic Audio": "eca-0623-6.mp3",
 			"Standard Arabic Audio": "msa-0623-6.mp3"
 		},
@@ -71,7 +71,7 @@
 			"English": "Monday is no good. Is Wednesday okay?",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "الاثنين ليست جيدة. هو الأربعاء حسنا؟",
 			"Egyptian Arabic Audio": "eca-0623-7.mp3",
 			"Standard Arabic Audio": "msa-0623-7.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "Yes, Wednesday works. We have these times available.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "نعم، يعمل الأربعاء. لدينا هذه الأوقات المتاحة.",
 			"Egyptian Arabic Audio": "eca-0623-8.mp3",
 			"Standard Arabic Audio": "msa-0623-8.mp3"
 		},
@@ -91,7 +91,7 @@
 			"English": "I can come in at 10 a.m.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يمكنني أن أكون في الساعة 10 صباحا",
 			"Egyptian Arabic Audio": "eca-0623-9.mp3",
 			"Standard Arabic Audio": "msa-0623-9.mp3"
 		},
@@ -101,7 +101,7 @@
 			"English": "Great. I need your name and phone number.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "عظيم. أحتاج اسمك ورقم هاتفك.",
 			"Egyptian Arabic Audio": "eca-0623-10.mp3",
 			"Standard Arabic Audio": "msa-0623-10.mp3"
 		},
@@ -111,7 +111,7 @@
 			"English": "My name is Christopher Clark and my phone number is (555) 323-2465",
 			"Word Count": 12,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "اسمي كريستوفر كلارك ورقم هاتفي هو (555) 323-2465",
 			"Egyptian Arabic Audio": "eca-0623-11.mp3",
 			"Standard Arabic Audio": "msa-0623-11.mp3"
 		},
@@ -121,7 +121,7 @@
 			"English": "Great. We will see you on Wednesday.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "عظيم. سنراكم يوم الأربعاء.",
 			"Egyptian Arabic Audio": "eca-0623-12.mp3",
 			"Standard Arabic Audio": "msa-0623-12.mp3"
 		}

@@ -11,7 +11,7 @@
 			"English": "I need to pay the fine on my ticket.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنا بحاجة لدفع غرامة على تذكرتي.",
 			"Egyptian Arabic Audio": "eca-1293-2.mp3",
 			"Standard Arabic Audio": "msa-1293-2.mp3"
 		},
@@ -21,7 +21,7 @@
 			"English": "Do you have the ticket with you?",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هل لديك تذكرة معك؟",
 			"Egyptian Arabic Audio": "eca-1293-3.mp3",
 			"Standard Arabic Audio": "msa-1293-3.mp3"
 		},
@@ -31,7 +31,7 @@
 			"English": "Yes, I have my ticket with me.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "نعم، لدي تذكرة معي.",
 			"Egyptian Arabic Audio": "eca-1293-4.mp3",
 			"Standard Arabic Audio": "msa-1293-4.mp3"
 		},
@@ -41,7 +41,7 @@
 			"English": "Let me see your ID.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "اسمحوا لي أن أرى هويتك.",
 			"Egyptian Arabic Audio": "eca-1293-5.mp3",
 			"Standard Arabic Audio": "msa-1293-5.mp3"
 		},
@@ -51,7 +51,7 @@
 			"English": "I forgot to bring that with me.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لقد نسيت أن تجلب ذلك معي.",
 			"Egyptian Arabic Audio": "eca-1293-6.mp3",
 			"Standard Arabic Audio": "msa-1293-6.mp3"
 		},
@@ -61,7 +61,7 @@
 			"English": "You need it to pay your fine.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كنت في حاجة إليها لدفع غرامة الخاص بك.",
 			"Egyptian Arabic Audio": "eca-1293-7.mp3",
 			"Standard Arabic Audio": "msa-1293-7.mp3"
 		},
@@ -71,7 +71,7 @@
 			"English": "Why can't I just give you the money for the fine?",
 			"Word Count": 11,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لماذا لا يمكنني فقط أعطيك المال للغرامة؟",
 			"Egyptian Arabic Audio": "eca-1293-8.mp3",
 			"Standard Arabic Audio": "msa-1293-8.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "Because, I need to see a photo ID in order to verify who you are.",
 			"Word Count": 15,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لأن، أنا بحاجة لرؤية صورة الهوية من أجل التحقق من أنت.",
 			"Egyptian Arabic Audio": "eca-1293-9.mp3",
 			"Standard Arabic Audio": "msa-1293-9.mp3"
 		},
@@ -91,7 +91,7 @@
 			"English": "I think I understand.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "اعتقد انني فهمت.",
 			"Egyptian Arabic Audio": "eca-1293-10.mp3",
 			"Standard Arabic Audio": "msa-1293-10.mp3"
 		},
@@ -101,7 +101,7 @@
 			"English": "All right, come back and bring your ID.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كل الحق، أعود وجلب الهوية الخاصة بك.",
 			"Egyptian Arabic Audio": "eca-1293-11.mp3",
 			"Standard Arabic Audio": "msa-1293-11.mp3"
 		},
@@ -111,7 +111,7 @@
 			"English": "So once I pay this off, my record will be cleared?",
 			"Word Count": 11,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لذلك بمجرد أن أدفع هذا الخروج، سيتم مسح سجل بلدي؟",
 			"Egyptian Arabic Audio": "eca-1293-12.mp3",
 			"Standard Arabic Audio": "msa-1293-12.mp3"
 		},
@@ -121,7 +121,7 @@
 			"English": "Once you pay it, your record will be cleared.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "بمجرد الدفع، سيتم مسح السجل الخاص بك.",
 			"Egyptian Arabic Audio": "eca-1293-13.mp3",
 			"Standard Arabic Audio": "msa-1293-13.mp3"
 		},
@@ -131,7 +131,7 @@
 			"English": "Could I pay for my parking ticket?",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هل يمكنني دفع ثمن تذكرة وقوف السيارات؟",
 			"Egyptian Arabic Audio": "eca-1293-15.mp3",
 			"Standard Arabic Audio": "msa-1293-15.mp3"
 		},
@@ -141,7 +141,7 @@
 			"English": "I need to see your ticket. Do you have it?",
 			"Word Count": 10,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنا بحاجة لرؤية التذكرة الخاصة بك. هل تمتلكه؟",
 			"Egyptian Arabic Audio": "eca-1293-16.mp3",
 			"Standard Arabic Audio": "msa-1293-16.mp3"
 		},
@@ -151,7 +151,7 @@
 			"English": "Here's my ticket right here.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هنا تذكرتي هنا.",
 			"Egyptian Arabic Audio": "eca-1293-17.mp3",
 			"Standard Arabic Audio": "msa-1293-17.mp3"
 		},
@@ -161,7 +161,7 @@
 			"English": "I'm going to need to see your ID.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "سأحتاج إلى رؤية هويتك.",
 			"Egyptian Arabic Audio": "eca-1293-18.mp3",
 			"Standard Arabic Audio": "msa-1293-18.mp3"
 		},
@@ -171,7 +171,7 @@
 			"English": "I don't have it.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ليس لدي ذلك.",
 			"Egyptian Arabic Audio": "eca-1293-19.mp3",
 			"Standard Arabic Audio": "msa-1293-19.mp3"
 		},
@@ -181,7 +181,7 @@
 			"English": "You can't pay your fine without your ID.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لا يمكنك دفع غرامة الخاص بك دون الهوية الخاصة بك.",
 			"Egyptian Arabic Audio": "eca-1293-20.mp3",
 			"Standard Arabic Audio": "msa-1293-20.mp3"
 		},
@@ -191,7 +191,7 @@
 			"English": "I don't understand why I can't just pay you.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنا لا أفهم لماذا لا أستطيع فقط دفع لك.",
 			"Egyptian Arabic Audio": "eca-1293-21.mp3",
 			"Standard Arabic Audio": "msa-1293-21.mp3"
 		},
@@ -201,7 +201,7 @@
 			"English": "We have to make sure that the person issued the ticket is the one paying it.",
 			"Word Count": 16,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وعلينا أن نتأكد من أن الشخص أصدر التذكرة هو الشخص الذي يدفعها.",
 			"Egyptian Arabic Audio": "eca-1293-22.mp3",
 			"Standard Arabic Audio": "msa-1293-22.mp3"
 		},
@@ -211,7 +211,7 @@
 			"English": "I get it now.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "استلمتها الان.",
 			"Egyptian Arabic Audio": "eca-1293-23.mp3",
 			"Standard Arabic Audio": "msa-1293-23.mp3"
 		},
@@ -221,7 +221,7 @@
 			"English": "Just come back when you have your ID with you.",
 			"Word Count": 10,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "عد فقط عندما يكون لديك هويتك معك.",
 			"Egyptian Arabic Audio": "eca-1293-24.mp3",
 			"Standard Arabic Audio": "msa-1293-24.mp3"
 		},
@@ -231,7 +231,7 @@
 			"English": "Will my record be cleared after I pay the fine?",
 			"Word Count": 10,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هل سيتم مسح سجلي بعد دفع الغرامة؟",
 			"Egyptian Arabic Audio": "eca-1293-25.mp3",
 			"Standard Arabic Audio": "msa-1293-25.mp3"
 		},
@@ -241,7 +241,7 @@
 			"English": "Only if you pay your fine.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "فقط إذا كنت تدفع غرامة الخاص بك.",
 			"Egyptian Arabic Audio": "eca-1293-26.mp3",
 			"Standard Arabic Audio": "msa-1293-26.mp3"
 		},
@@ -251,7 +251,7 @@
 			"English": "I have a parking ticket to pay for.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لدي تذكرة وقوف السيارات لدفع ثمن.",
 			"Egyptian Arabic Audio": "eca-1293-28.mp3",
 			"Standard Arabic Audio": "msa-1293-28.mp3"
 		},
@@ -261,7 +261,7 @@
 			"English": "Did you bring your ticket?",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هل جلبت تذكرتك؟",
 			"Egyptian Arabic Audio": "eca-1293-29.mp3",
 			"Standard Arabic Audio": "msa-1293-29.mp3"
 		},
@@ -271,7 +271,7 @@
 			"English": "Yes, I remembered to bring my ticket with me today.",
 			"Word Count": 10,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "نعم، تذكرت أن أحضر تذكرتي معي اليوم.",
 			"Egyptian Arabic Audio": "eca-1293-30.mp3",
 			"Standard Arabic Audio": "msa-1293-30.mp3"
 		},
@@ -281,7 +281,7 @@
 			"English": "Did you bring your ID?",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هل جلبت الهوية الخاصة بك؟",
 			"Egyptian Arabic Audio": "eca-1293-31.mp3",
 			"Standard Arabic Audio": "msa-1293-31.mp3"
 		},
@@ -291,7 +291,7 @@
 			"English": "I didn't bring my ID.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لم أحضر هويتي.",
 			"Egyptian Arabic Audio": "eca-1293-32.mp3",
 			"Standard Arabic Audio": "msa-1293-32.mp3"
 		},
@@ -301,7 +301,7 @@
 			"English": "You're going to need your ID to pay the ticket.",
 			"Word Count": 10,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "سوف تحتاج إلى بطاقة الهوية الخاصة بك لدفع التذكرة.",
 			"Egyptian Arabic Audio": "eca-1293-33.mp3",
 			"Standard Arabic Audio": "msa-1293-33.mp3"
 		},
@@ -311,7 +311,7 @@
 			"English": "What do you need my ID for?",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ماذا تحتاج إلى هويتي؟",
 			"Egyptian Arabic Audio": "eca-1293-34.mp3",
 			"Standard Arabic Audio": "msa-1293-34.mp3"
 		},
@@ -321,7 +321,7 @@
 			"English": "We have to know that this ticket is really yours.",
 			"Word Count": 10,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "علينا أن نعرف أن هذه التذكرة هي حقا لك.",
 			"Egyptian Arabic Audio": "eca-1293-35.mp3",
 			"Standard Arabic Audio": "msa-1293-35.mp3"
 		},
@@ -331,7 +331,7 @@
 			"English": "All right, I see what you mean.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "حسنا، أرى ما تقصده.",
 			"Egyptian Arabic Audio": "eca-1293-36.mp3",
 			"Standard Arabic Audio": "msa-1293-36.mp3"
 		},
@@ -341,7 +341,7 @@
 			"English": "Next time you come back, bring your ID.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "في المرة القادمة التي عدت، جلب الهوية الخاصة بك.",
 			"Egyptian Arabic Audio": "eca-1293-37.mp3",
 			"Standard Arabic Audio": "msa-1293-37.mp3"
 		},
@@ -351,7 +351,7 @@
 			"English": "Will everything be cleared from my record?",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هل سيتم مسح كل شيء من سجلي؟",
 			"Egyptian Arabic Audio": "eca-1293-38.mp3",
 			"Standard Arabic Audio": "msa-1293-38.mp3"
 		},
@@ -361,7 +361,7 @@
 			"English": "Yes, everything will be cleared.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "نعم، سيتم مسح كل شيء.",
 			"Egyptian Arabic Audio": "eca-1293-39.mp3",
 			"Standard Arabic Audio": "msa-1293-39.mp3"
 		}

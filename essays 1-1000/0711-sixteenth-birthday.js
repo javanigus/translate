@@ -9,7 +9,7 @@
 			"English": "It was her birthday.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كان عيد ميلادها.",
 			"Egyptian Arabic Audio": "eca-0711-1.mp3",
 			"Standard Arabic Audio": "msa-0711-1.mp3"
 		},
@@ -18,7 +18,7 @@
 			"English": "She was turning sixteen.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كانت تحول ستة عشر.",
 			"Egyptian Arabic Audio": "eca-0711-2.mp3",
 			"Standard Arabic Audio": "msa-0711-2.mp3"
 		},
@@ -27,7 +27,7 @@
 			"English": "She was born on the fifth of August.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ولدت في الخامس من أغسطس.",
 			"Egyptian Arabic Audio": "eca-0711-3.mp3",
 			"Standard Arabic Audio": "msa-0711-3.mp3"
 		},
@@ -36,7 +36,7 @@
 			"English": "She was having a birthday party.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كانت لديها حفلة عيد ميلاد.",
 			"Egyptian Arabic Audio": "eca-0711-4.mp3",
 			"Standard Arabic Audio": "msa-0711-4.mp3"
 		},
@@ -45,7 +45,7 @@
 			"English": "Everybody was coming.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كان الجميع قادمين.",
 			"Egyptian Arabic Audio": "eca-0711-5.mp3",
 			"Standard Arabic Audio": "msa-0711-5.mp3"
 		},
@@ -54,7 +54,7 @@
 			"English": "She invited her friends.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "دعت صديقاتها.",
 			"Egyptian Arabic Audio": "eca-0711-6.mp3",
 			"Standard Arabic Audio": "msa-0711-6.mp3"
 		},
@@ -63,7 +63,7 @@
 			"English": "She had a lot of friends.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كان لديها الكثير من الأصدقاء.",
 			"Egyptian Arabic Audio": "eca-0711-7.mp3",
 			"Standard Arabic Audio": "msa-0711-7.mp3"
 		},
@@ -72,7 +72,7 @@
 			"English": "She also had a lot of aunts and uncles.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كان لديها أيضا الكثير من العمات والأعمام.",
 			"Egyptian Arabic Audio": "eca-0711-8.mp3",
 			"Standard Arabic Audio": "msa-0711-8.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "This made her happy, because it meant more presents for her.",
 			"Word Count": 11,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هذا جعلها سعيدة، لأنه يعني المزيد من الهدايا بالنسبة لها.",
 			"Egyptian Arabic Audio": "eca-0711-9.mp3",
 			"Standard Arabic Audio": "msa-0711-9.mp3"
 		},
@@ -90,7 +90,7 @@
 			"English": "She was getting ready for her party.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كانت تستعد لحزبها.",
 			"Egyptian Arabic Audio": "eca-0711-10.mp3",
 			"Standard Arabic Audio": "msa-0711-10.mp3"
 		},
@@ -99,7 +99,7 @@
 			"English": "She dressed up in her best outfit.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انها ترتدي ملابسها في أفضل الزي.",
 			"Egyptian Arabic Audio": "eca-0711-11.mp3",
 			"Standard Arabic Audio": "msa-0711-11.mp3"
 		},
@@ -108,7 +108,7 @@
 			"English": "Her mom prepared the food.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أعدت أمها الطعام.",
 			"Egyptian Arabic Audio": "eca-0711-12.mp3",
 			"Standard Arabic Audio": "msa-0711-12.mp3"
 		},
@@ -117,7 +117,7 @@
 			"English": "Her dad went to pick up the cake.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ذهب والدها لالتقاط الكعكة.",
 			"Egyptian Arabic Audio": "eca-0711-13.mp3",
 			"Standard Arabic Audio": "msa-0711-13.mp3"
 		},
@@ -126,7 +126,7 @@
 			"English": "Her brother set the tables and chairs.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "شقيقها تعيين الجداول والكراسي.",
 			"Egyptian Arabic Audio": "eca-0711-14.mp3",
 			"Standard Arabic Audio": "msa-0711-14.mp3"
 		},
@@ -135,7 +135,7 @@
 			"English": "The party was happening in the backyard.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كان الحزب يحدث في الفناء الخلفي.",
 			"Egyptian Arabic Audio": "eca-0711-15.mp3",
 			"Standard Arabic Audio": "msa-0711-15.mp3"
 		},
@@ -144,7 +144,7 @@
 			"English": "The party was in four hours.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وكان الحزب في أربع ساعات.",
 			"Egyptian Arabic Audio": "eca-0711-16.mp3",
 			"Standard Arabic Audio": "msa-0711-16.mp3"
 		},
@@ -153,7 +153,7 @@
 			"English": "They were almost ready.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كانوا على استعداد تقريبا.",
 			"Egyptian Arabic Audio": "eca-0711-17.mp3",
 			"Standard Arabic Audio": "msa-0711-17.mp3"
 		},
@@ -162,7 +162,7 @@
 			"English": "Dad brought back chocolate cake.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "جلب أبي كعكة الشوكولاته مرة أخرى.",
 			"Egyptian Arabic Audio": "eca-0711-18.mp3",
 			"Standard Arabic Audio": "msa-0711-18.mp3"
 		},
@@ -171,7 +171,7 @@
 			"English": "Mom cooked all the food.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أمي طبخ كل الطعام.",
 			"Egyptian Arabic Audio": "eca-0711-19.mp3",
 			"Standard Arabic Audio": "msa-0711-19.mp3"
 		},
@@ -180,7 +180,7 @@
 			"English": "Her brother got the backyard ready.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "شقيقها حصلت على الفناء الخلفي جاهزة.",
 			"Egyptian Arabic Audio": "eca-0711-20.mp3",
 			"Standard Arabic Audio": "msa-0711-20.mp3"
 		},
@@ -189,7 +189,7 @@
 			"English": "The birthday party was a success.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وكان حفلة عيد ميلاد نجاحا.",
 			"Egyptian Arabic Audio": "eca-0711-21.mp3",
 			"Standard Arabic Audio": "msa-0711-21.mp3"
 		}

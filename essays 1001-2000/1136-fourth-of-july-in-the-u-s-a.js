@@ -9,7 +9,7 @@
 			"English": "It is Fourth of July in the U.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هو الرابع من يوليو في الولايات المتحدة.",
 			"Egyptian Arabic Audio": "eca-1136-1.mp3",
 			"Standard Arabic Audio": "msa-1136-1.mp3"
 		},
@@ -18,7 +18,7 @@
 			"English": "S.",
 			"Word Count": 1,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "S.",
 			"Egyptian Arabic Audio": "eca-1136-2.mp3",
 			"Standard Arabic Audio": "msa-1136-2.mp3"
 		},
@@ -27,7 +27,7 @@
 			"English": "A.",
 			"Word Count": 1,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ا.",
 			"Egyptian Arabic Audio": "eca-1136-3.mp3",
 			"Standard Arabic Audio": "msa-1136-3.mp3"
 		},
@@ -36,7 +36,7 @@
 			"English": "It is hot and sunny.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "الجو حار ومشمس.",
 			"Egyptian Arabic Audio": "eca-1136-4.mp3",
 			"Standard Arabic Audio": "msa-1136-4.mp3"
 		},
@@ -45,7 +45,7 @@
 			"English": "People fly the U.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "الناس يطيرون U.",
 			"Egyptian Arabic Audio": "eca-1136-5.mp3",
 			"Standard Arabic Audio": "msa-1136-5.mp3"
 		},
@@ -54,7 +54,7 @@
 			"English": "S.",
 			"Word Count": 1,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "S.",
 			"Egyptian Arabic Audio": "eca-1136-6.mp3",
 			"Standard Arabic Audio": "msa-1136-6.mp3"
 		},
@@ -63,7 +63,7 @@
 			"English": "flag.",
 			"Word Count": 1,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "العلم.",
 			"Egyptian Arabic Audio": "eca-1136-7.mp3",
 			"Standard Arabic Audio": "msa-1136-7.mp3"
 		},
@@ -72,7 +72,7 @@
 			"English": "Flags are everywhere.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أعلام في كل مكان.",
 			"Egyptian Arabic Audio": "eca-1136-8.mp3",
 			"Standard Arabic Audio": "msa-1136-8.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "People have picnics.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "الناس نزهة.",
 			"Egyptian Arabic Audio": "eca-1136-9.mp3",
 			"Standard Arabic Audio": "msa-1136-9.mp3"
 		},
@@ -90,7 +90,7 @@
 			"English": "They put hamburgers and hot dogs on the barbecue grill.",
 			"Word Count": 10,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وضعوا الهامبرغر والكلاب الساخنة على الشواء.",
 			"Egyptian Arabic Audio": "eca-1136-10.mp3",
 			"Standard Arabic Audio": "msa-1136-10.mp3"
 		},
@@ -99,7 +99,7 @@
 			"English": "They eat corn on the cob.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يأكلون الذرة على الكوز.",
 			"Egyptian Arabic Audio": "eca-1136-11.mp3",
 			"Standard Arabic Audio": "msa-1136-11.mp3"
 		},
@@ -108,7 +108,7 @@
 			"English": "They watch fireworks at night.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وهم يشاهدون الألعاب النارية ليلا.",
 			"Egyptian Arabic Audio": "eca-1136-12.mp3",
 			"Standard Arabic Audio": "msa-1136-12.mp3"
 		},
@@ -117,7 +117,7 @@
 			"English": "They celebrate the birthday of the U.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وهم يحتفلون بعيد ميلاد U.",
 			"Egyptian Arabic Audio": "eca-1136-13.mp3",
 			"Standard Arabic Audio": "msa-1136-13.mp3"
 		},
@@ -126,7 +126,7 @@
 			"English": "S.",
 			"Word Count": 1,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "S.",
 			"Egyptian Arabic Audio": "eca-1136-14.mp3",
 			"Standard Arabic Audio": "msa-1136-14.mp3"
 		},
@@ -135,7 +135,7 @@
 			"English": "A.",
 			"Word Count": 1,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ا.",
 			"Egyptian Arabic Audio": "eca-1136-15.mp3",
 			"Standard Arabic Audio": "msa-1136-15.mp3"
 		}

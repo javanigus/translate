@@ -11,7 +11,7 @@
 			"English": "Do you know any good jokes?",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هل تعرف أي نكت جيدة؟",
 			"Egyptian Arabic Audio": "eca-0298-1.mp3",
 			"Standard Arabic Audio": "msa-0298-1.mp3"
 		},
@@ -21,7 +21,7 @@
 			"English": "I can't remember jokes.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لا أستطيع أن أتذكر النكات.",
 			"Egyptian Arabic Audio": "eca-0298-2.mp3",
 			"Standard Arabic Audio": "msa-0298-2.mp3"
 		},
@@ -31,7 +31,7 @@
 			"English": "Neither can I.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ولا انا.",
 			"Egyptian Arabic Audio": "eca-0298-3.mp3",
 			"Standard Arabic Audio": "msa-0298-3.mp3"
 		},
@@ -41,7 +41,7 @@
 			"English": "They go in one ear and out the other.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يذهبون في أذن واحدة ومن جهة أخرى.",
 			"Egyptian Arabic Audio": "eca-0298-4.mp3",
 			"Standard Arabic Audio": "msa-0298-4.mp3"
 		},
@@ -51,7 +51,7 @@
 			"English": "Who makes up all these jokes?",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "الذي يشكل كل هذه النكات؟",
 			"Egyptian Arabic Audio": "eca-0298-5.mp3",
 			"Standard Arabic Audio": "msa-0298-5.mp3"
 		},
@@ -61,7 +61,7 @@
 			"English": "Who knows? But there must be a hundred new ones every day.",
 			"Word Count": 12,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "من تعرف؟ ولكن يجب أن يكون هناك مئة جديدة كل يوم.",
 			"Egyptian Arabic Audio": "eca-0298-6.mp3",
 			"Standard Arabic Audio": "msa-0298-6.mp3"
 		},
@@ -71,7 +71,7 @@
 			"English": "Yes, just in English alone.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "نعم، فقط باللغة الإنجليزية وحدها.",
 			"Egyptian Arabic Audio": "eca-0298-7.mp3",
 			"Standard Arabic Audio": "msa-0298-7.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "I wonder if every language has jokes.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وأتساءل عما إذا كان كل لغة لديها النكات.",
 			"Egyptian Arabic Audio": "eca-0298-8.mp3",
 			"Standard Arabic Audio": "msa-0298-8.mp3"
 		},
@@ -91,7 +91,7 @@
 			"English": "Of course! People everywhere like good jokes.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "بالتاكيد! الناس في كل مكان مثل النكات الجيدة.",
 			"Egyptian Arabic Audio": "eca-0298-9.mp3",
 			"Standard Arabic Audio": "msa-0298-9.mp3"
 		},
@@ -101,7 +101,7 @@
 			"English": "What do you think people joke about the most?",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ما رأيك في الناس نكتة أكثر؟",
 			"Egyptian Arabic Audio": "eca-0298-10.mp3",
 			"Standard Arabic Audio": "msa-0298-10.mp3"
 		},
@@ -111,7 +111,7 @@
 			"English": "I think most jokes are about women.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أعتقد أن معظم النكات حول النساء.",
 			"Egyptian Arabic Audio": "eca-0298-11.mp3",
 			"Standard Arabic Audio": "msa-0298-11.mp3"
 		},
@@ -121,7 +121,7 @@
 			"English": "Oh, really? I think most jokes are about men!",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "حقا؟ أعتقد أن معظم النكات حول الرجال!",
 			"Egyptian Arabic Audio": "eca-0298-12.mp3",
 			"Standard Arabic Audio": "msa-0298-12.mp3"
 		}

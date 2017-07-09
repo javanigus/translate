@@ -11,7 +11,7 @@
 			"English": "You're new in town, right?",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنت جديد في المدينة، أليس كذلك؟",
 			"Egyptian Arabic Audio": "eca-0217-1.mp3",
 			"Standard Arabic Audio": "msa-0217-1.mp3"
 		},
@@ -21,7 +21,7 @@
 			"English": "Yes, I just moved in last week.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "نعم، لقد انتقلت للتو في الأسبوع الماضي.",
 			"Egyptian Arabic Audio": "eca-0217-2.mp3",
 			"Standard Arabic Audio": "msa-0217-2.mp3"
 		},
@@ -31,7 +31,7 @@
 			"English": "Do you want to come see a movie tonight?",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هل تريد أن تأتي رؤية فيلم الليلة؟",
 			"Egyptian Arabic Audio": "eca-0217-3.mp3",
 			"Standard Arabic Audio": "msa-0217-3.mp3"
 		},
@@ -41,7 +41,7 @@
 			"English": "Who else is coming?",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "من قادم أيضا؟",
 			"Egyptian Arabic Audio": "eca-0217-4.mp3",
 			"Standard Arabic Audio": "msa-0217-4.mp3"
 		},
@@ -51,7 +51,7 @@
 			"English": "Just a few of my friends.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "فقط عدد قليل من أصدقائي.",
 			"Egyptian Arabic Audio": "eca-0217-5.mp3",
 			"Standard Arabic Audio": "msa-0217-5.mp3"
 		},
@@ -61,7 +61,7 @@
 			"English": "I'm not sure. I don't know anyone yet.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لست متأكد. أنا لا أعرف أي شخص حتى الآن.",
 			"Egyptian Arabic Audio": "eca-0217-6.mp3",
 			"Standard Arabic Audio": "msa-0217-6.mp3"
 		},
@@ -71,7 +71,7 @@
 			"English": "No, but I think you will get along.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لا، ولكن أعتقد أنك سوف تحصل على طول.",
 			"Egyptian Arabic Audio": "eca-0217-7.mp3",
 			"Standard Arabic Audio": "msa-0217-7.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "I hope so. I'm shy around strangers.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "آمل ذلك. أنا خجول حول الغرباء.",
 			"Egyptian Arabic Audio": "eca-0217-8.mp3",
 			"Standard Arabic Audio": "msa-0217-8.mp3"
 		},
@@ -91,7 +91,7 @@
 			"English": "Just be confident. You'll make a lot of new friends here.",
 			"Word Count": 11,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "فقط كن واثقا. سوف تجعل الكثير من الأصدقاء الجدد هنا.",
 			"Egyptian Arabic Audio": "eca-0217-9.mp3",
 			"Standard Arabic Audio": "msa-0217-9.mp3"
 		},
@@ -101,7 +101,7 @@
 			"English": "I'll try that. Thank you for the invitation.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "سأحاول ذلك. شكرا لدعوتك.",
 			"Egyptian Arabic Audio": "eca-0217-10.mp3",
 			"Standard Arabic Audio": "msa-0217-10.mp3"
 		},
@@ -111,7 +111,7 @@
 			"English": "No problem. We'll pick you up at 8:00.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ليس هناك أى مشكلة. ونحن سوف يقلك في الساعة 8:00.",
 			"Egyptian Arabic Audio": "eca-0217-11.mp3",
 			"Standard Arabic Audio": "msa-0217-11.mp3"
 		}

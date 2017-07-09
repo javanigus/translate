@@ -11,7 +11,7 @@
 			"English": "I just turned 16 yesterday.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لقد تحولت للتو 16 أمس.",
 			"Egyptian Arabic Audio": "eca-0025-1.mp3",
 			"Standard Arabic Audio": "msa-0025-1.mp3"
 		},
@@ -21,7 +21,7 @@
 			"English": "16 is a great age.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "16 هو عصر عظيم.",
 			"Egyptian Arabic Audio": "eca-0025-2.mp3",
 			"Standard Arabic Audio": "msa-0025-2.mp3"
 		},
@@ -31,7 +31,7 @@
 			"English": "What's so great about being 16?",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ما هو عظيم جدا عن يجري 16؟",
 			"Egyptian Arabic Audio": "eca-0025-3.mp3",
 			"Standard Arabic Audio": "msa-0025-3.mp3"
 		},
@@ -41,7 +41,7 @@
 			"English": "You can get a job!",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يمكنك الحصول على وظيفة!",
 			"Egyptian Arabic Audio": "eca-0025-4.mp3",
 			"Standard Arabic Audio": "msa-0025-4.mp3"
 		},
@@ -51,7 +51,7 @@
 			"English": "I didn't know that.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لم أكن أعرف ذلك.",
 			"Egyptian Arabic Audio": "eca-0025-5.mp3",
 			"Standard Arabic Audio": "msa-0025-5.mp3"
 		},
@@ -61,7 +61,7 @@
 			"English": "You have to get a work permit though.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لديك للحصول على تصريح عمل رغم ذلك.",
 			"Egyptian Arabic Audio": "eca-0025-6.mp3",
 			"Standard Arabic Audio": "msa-0025-6.mp3"
 		},
@@ -71,7 +71,7 @@
 			"English": "Thanks for telling me!",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "شكرا لإخباري!",
 			"Egyptian Arabic Audio": "eca-0025-7.mp3",
 			"Standard Arabic Audio": "msa-0025-7.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "No problem. Tell me when you get a job.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ليس هناك أى مشكلة. قل لي عندما تحصل على وظيفة.",
 			"Egyptian Arabic Audio": "eca-0025-8.mp3",
 			"Standard Arabic Audio": "msa-0025-8.mp3"
 		},
@@ -91,7 +91,7 @@
 			"English": "Is it hard to get one?",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هل من الصعب الحصول على واحد؟",
 			"Egyptian Arabic Audio": "eca-0025-9.mp3",
 			"Standard Arabic Audio": "msa-0025-9.mp3"
 		},
@@ -101,7 +101,7 @@
 			"English": "Yes, employers don't like to hire people under 18.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "نعم، لا يرغب أصحاب العمل في توظيف أشخاص تقل أعمارهم عن 18 عاما.",
 			"Egyptian Arabic Audio": "eca-0025-10.mp3",
 			"Standard Arabic Audio": "msa-0025-10.mp3"
 		},
@@ -111,7 +111,7 @@
 			"English": "That's going to change when they meet me.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هذا سوف يتغير عندما يلتقون بي.",
 			"Egyptian Arabic Audio": "eca-0025-11.mp3",
 			"Standard Arabic Audio": "msa-0025-11.mp3"
 		},
@@ -121,7 +121,7 @@
 			"English": "Your confidence will surely get you a job!",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ثقتكم سوف تحصل بالتأكيد على وظيفة!",
 			"Egyptian Arabic Audio": "eca-0025-12.mp3",
 			"Standard Arabic Audio": "msa-0025-12.mp3"
 		}

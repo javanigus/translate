@@ -9,7 +9,7 @@
 			"English": "The kids would meet at his grave every Sunday afternoon.",
 			"Word Count": 10,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وسيجتمع الاطفال فى قبره بعد ظهر يوم الاحد.",
 			"Egyptian Arabic Audio": "eca-0800-1.mp3",
 			"Standard Arabic Audio": "msa-0800-1.mp3"
 		},
@@ -18,7 +18,7 @@
 			"English": "This went on for many years.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "استمر هذا لسنوات عديدة.",
 			"Egyptian Arabic Audio": "eca-0800-2.mp3",
 			"Standard Arabic Audio": "msa-0800-2.mp3"
 		},
@@ -27,7 +27,7 @@
 			"English": "They would sit around and tell old jokes.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كانوا يجلسون ويقولون النكات القديمة.",
 			"Egyptian Arabic Audio": "eca-0800-3.mp3",
 			"Standard Arabic Audio": "msa-0800-3.mp3"
 		},
@@ -36,7 +36,7 @@
 			"English": "They always brought ice cream.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنها دائما جلبت الآيس كريم.",
 			"Egyptian Arabic Audio": "eca-0800-4.mp3",
 			"Standard Arabic Audio": "msa-0800-4.mp3"
 		}

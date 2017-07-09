@@ -11,7 +11,7 @@
 			"English": "Give me a hug.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "احضني.",
 			"Egyptian Arabic Audio": "eca-0350-1.mp3",
 			"Standard Arabic Audio": "msa-0350-1.mp3"
 		},
@@ -21,7 +21,7 @@
 			"English": "I'm not in the mood.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنا لست في مزاج جيد.",
 			"Egyptian Arabic Audio": "eca-0350-2.mp3",
 			"Standard Arabic Audio": "msa-0350-2.mp3"
 		},
@@ -31,7 +31,7 @@
 			"English": "What's the matter?",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ما الأمر؟",
 			"Egyptian Arabic Audio": "eca-0350-3.mp3",
 			"Standard Arabic Audio": "msa-0350-3.mp3"
 		},
@@ -41,7 +41,7 @@
 			"English": "I saw you looking at that woman.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "رأيت كنت تبحث في تلك المرأة.",
 			"Egyptian Arabic Audio": "eca-0350-4.mp3",
 			"Standard Arabic Audio": "msa-0350-4.mp3"
 		},
@@ -51,7 +51,7 @@
 			"English": "What woman?",
 			"Word Count": 2,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ما هي المرأة؟",
 			"Egyptian Arabic Audio": "eca-0350-5.mp3",
 			"Standard Arabic Audio": "msa-0350-5.mp3"
 		},
@@ -61,7 +61,7 @@
 			"English": "You know, that woman with the big boobs.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كما تعلمون، أن المرأة مع كبير الثدي.",
 			"Egyptian Arabic Audio": "eca-0350-6.mp3",
 			"Standard Arabic Audio": "msa-0350-6.mp3"
 		},
@@ -71,7 +71,7 @@
 			"English": "I was not looking at her.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لم أكن أبحث عنها.",
 			"Egyptian Arabic Audio": "eca-0350-7.mp3",
 			"Standard Arabic Audio": "msa-0350-7.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "You were, too.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كنت أيضا.",
 			"Egyptian Arabic Audio": "eca-0350-8.mp3",
 			"Standard Arabic Audio": "msa-0350-8.mp3"
 		},
@@ -91,7 +91,7 @@
 			"English": "I'm not interested in her.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لست مهتما بها.",
 			"Egyptian Arabic Audio": "eca-0350-9.mp3",
 			"Standard Arabic Audio": "msa-0350-9.mp3"
 		},
@@ -101,7 +101,7 @@
 			"English": "Then why were you looking at her?",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ثم لماذا كنت تبحث في بلدها؟",
 			"Egyptian Arabic Audio": "eca-0350-10.mp3",
 			"Standard Arabic Audio": "msa-0350-10.mp3"
 		},
@@ -111,7 +111,7 @@
 			"English": "I was looking at something else.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كنت أبحث في شيء آخر.",
 			"Egyptian Arabic Audio": "eca-0350-11.mp3",
 			"Standard Arabic Audio": "msa-0350-11.mp3"
 		},
@@ -121,7 +121,7 @@
 			"English": "Oh, really? Then spend tonight looking at the sofa.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "حقا؟ ثم قضاء الليلة تبحث في الأريكة.",
 			"Egyptian Arabic Audio": "eca-0350-12.mp3",
 			"Standard Arabic Audio": "msa-0350-12.mp3"
 		}

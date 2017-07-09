@@ -11,7 +11,7 @@
 			"English": "What can I do for you?",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ما الذي يمكنني أن أفعله من أجلك؟",
 			"Egyptian Arabic Audio": "eca-1037-1.mp3",
 			"Standard Arabic Audio": "msa-1037-1.mp3"
 		},
@@ -21,7 +21,7 @@
 			"English": "I am trying to find this book.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أحاول العثور على هذا الكتاب.",
 			"Egyptian Arabic Audio": "eca-1037-2.mp3",
 			"Standard Arabic Audio": "msa-1037-2.mp3"
 		},
@@ -31,7 +31,7 @@
 			"English": "What's the problem?",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ما هي المشكلة؟",
 			"Egyptian Arabic Audio": "eca-1037-3.mp3",
 			"Standard Arabic Audio": "msa-1037-3.mp3"
 		},
@@ -41,7 +41,7 @@
 			"English": "It doesn't seem like this library has it.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لا يبدو أن هذه المكتبة لديها.",
 			"Egyptian Arabic Audio": "eca-1037-4.mp3",
 			"Standard Arabic Audio": "msa-1037-4.mp3"
 		},
@@ -51,7 +51,7 @@
 			"English": "Have you checked the computer?",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هل فحصت الكمبيوتر؟",
 			"Egyptian Arabic Audio": "eca-1037-5.mp3",
 			"Standard Arabic Audio": "msa-1037-5.mp3"
 		},
@@ -61,7 +61,7 @@
 			"English": "I have already.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "فعلت مسبقا.",
 			"Egyptian Arabic Audio": "eca-1037-6.mp3",
 			"Standard Arabic Audio": "msa-1037-6.mp3"
 		},
@@ -71,7 +71,7 @@
 			"English": "What did it say?",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ماذا قلت؟",
 			"Egyptian Arabic Audio": "eca-1037-7.mp3",
 			"Standard Arabic Audio": "msa-1037-7.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "It says the book is on the shelf, but I didn't find it there.",
 			"Word Count": 14,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وتقول الكتاب على الرف، ولكن لم أجد هناك.",
 			"Egyptian Arabic Audio": "eca-1037-8.mp3",
 			"Standard Arabic Audio": "msa-1037-8.mp3"
 		},
@@ -91,7 +91,7 @@
 			"English": "I can always borrow the book from another library.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أستطيع دائما استعارة الكتاب من مكتبة أخرى.",
 			"Egyptian Arabic Audio": "eca-1037-9.mp3",
 			"Standard Arabic Audio": "msa-1037-9.mp3"
 		},
@@ -101,7 +101,7 @@
 			"English": "You can do that?",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "تستطيع فعل ذلك؟",
 			"Egyptian Arabic Audio": "eca-1037-10.mp3",
 			"Standard Arabic Audio": "msa-1037-10.mp3"
 		},
@@ -111,7 +111,7 @@
 			"English": "I'll make the call and contact you when it gets in.",
 			"Word Count": 11,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "سأجري المكالمة والاتصال بك عندما يحصل في.",
 			"Egyptian Arabic Audio": "eca-1037-11.mp3",
 			"Standard Arabic Audio": "msa-1037-11.mp3"
 		},
@@ -121,7 +121,7 @@
 			"English": "That's fantastic. Thank you.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هذا رائع. شكرا.",
 			"Egyptian Arabic Audio": "eca-1037-12.mp3",
 			"Standard Arabic Audio": "msa-1037-12.mp3"
 		},
@@ -131,7 +131,7 @@
 			"English": "May I help you?",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هل لى أن أساعدك؟",
 			"Egyptian Arabic Audio": "eca-1037-13.mp3",
 			"Standard Arabic Audio": "msa-1037-13.mp3"
 		},
@@ -141,7 +141,7 @@
 			"English": "I would like to find this book.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أود أن أجد هذا الكتاب.",
 			"Egyptian Arabic Audio": "eca-1037-14.mp3",
 			"Standard Arabic Audio": "msa-1037-14.mp3"
 		},
@@ -151,7 +151,7 @@
 			"English": "Is there a problem?",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هل هناك مشكلة؟",
 			"Egyptian Arabic Audio": "eca-1037-15.mp3",
 			"Standard Arabic Audio": "msa-1037-15.mp3"
 		},
@@ -161,7 +161,7 @@
 			"English": "I don't think you guys have it.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنا لا أعتقد أن الرجال لديك ذلك.",
 			"Egyptian Arabic Audio": "eca-1037-16.mp3",
 			"Standard Arabic Audio": "msa-1037-16.mp3"
 		},
@@ -171,7 +171,7 @@
 			"English": "You should look it up on our computer.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يجب أن تبحث عنه على جهاز الكمبيوتر الخاص بنا.",
 			"Egyptian Arabic Audio": "eca-1037-17.mp3",
 			"Standard Arabic Audio": "msa-1037-17.mp3"
 		},
@@ -181,7 +181,7 @@
 			"English": "I did that.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنا فعلت ذلك.",
 			"Egyptian Arabic Audio": "eca-1037-18.mp3",
 			"Standard Arabic Audio": "msa-1037-18.mp3"
 		},
@@ -191,7 +191,7 @@
 			"English": "What came up?",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ما الذي حدث؟",
 			"Egyptian Arabic Audio": "eca-1037-19.mp3",
 			"Standard Arabic Audio": "msa-1037-19.mp3"
 		},
@@ -201,7 +201,7 @@
 			"English": "It should be on the shelf, but I didn't see it.",
 			"Word Count": 11,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يجب أن يكون على الرف، ولكن لم أكن أرى ذلك.",
 			"Egyptian Arabic Audio": "eca-1037-20.mp3",
 			"Standard Arabic Audio": "msa-1037-20.mp3"
 		},
@@ -211,7 +211,7 @@
 			"English": "I can try to get the book from a different library.",
 			"Word Count": 11,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يمكنني محاولة الحصول على الكتاب من مكتبة مختلفة.",
 			"Egyptian Arabic Audio": "eca-1037-21.mp3",
 			"Standard Arabic Audio": "msa-1037-21.mp3"
 		},
@@ -221,7 +221,7 @@
 			"English": "I didn't know you could do that.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لم أكن أعلم أنك يمكن أن تفعل ذلك.",
 			"Egyptian Arabic Audio": "eca-1037-22.mp3",
 			"Standard Arabic Audio": "msa-1037-22.mp3"
 		},
@@ -231,7 +231,7 @@
 			"English": "I will call you when I find it.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "سأتصل بك عندما أجدها.",
 			"Egyptian Arabic Audio": "eca-1037-23.mp3",
 			"Standard Arabic Audio": "msa-1037-23.mp3"
 		},
@@ -241,7 +241,7 @@
 			"English": "I appreciate your help.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انا اقدر مساعدتك.",
 			"Egyptian Arabic Audio": "eca-1037-24.mp3",
 			"Standard Arabic Audio": "msa-1037-24.mp3"
 		},
@@ -251,7 +251,7 @@
 			"English": "Do you need help with something?",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هل تحتاج إلى مساعدة في شيء ما؟",
 			"Egyptian Arabic Audio": "eca-1037-25.mp3",
 			"Standard Arabic Audio": "msa-1037-25.mp3"
 		},
@@ -261,7 +261,7 @@
 			"English": "I'm looking for this book.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنا أبحث عن هذا الكتاب.",
 			"Egyptian Arabic Audio": "eca-1037-26.mp3",
 			"Standard Arabic Audio": "msa-1037-26.mp3"
 		},
@@ -271,7 +271,7 @@
 			"English": "Is there something wrong?",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هل هناك شيء خاطيء؟",
 			"Egyptian Arabic Audio": "eca-1037-27.mp3",
 			"Standard Arabic Audio": "msa-1037-27.mp3"
 		},
@@ -281,7 +281,7 @@
 			"English": "I don't see it on the shelf.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنا لا أرى ذلك على الرف.",
 			"Egyptian Arabic Audio": "eca-1037-28.mp3",
 			"Standard Arabic Audio": "msa-1037-28.mp3"
 		},
@@ -291,7 +291,7 @@
 			"English": "Did you check the computer?",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هل فحصت الكمبيوتر؟",
 			"Egyptian Arabic Audio": "eca-1037-29.mp3",
 			"Standard Arabic Audio": "msa-1037-29.mp3"
 		},
@@ -301,7 +301,7 @@
 			"English": "I already looked.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لقد نظرت بالفعل.",
 			"Egyptian Arabic Audio": "eca-1037-30.mp3",
 			"Standard Arabic Audio": "msa-1037-30.mp3"
 		},
@@ -311,7 +311,7 @@
 			"English": "Did it say anything?",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هل قلت أي شيء؟",
 			"Egyptian Arabic Audio": "eca-1037-31.mp3",
 			"Standard Arabic Audio": "msa-1037-31.mp3"
 		},
@@ -321,7 +321,7 @@
 			"English": "It said that the book is on the shelf, but it isn't.",
 			"Word Count": 12,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وقال إن الكتاب على الرف، لكنه ليس كذلك.",
 			"Egyptian Arabic Audio": "eca-1037-32.mp3",
 			"Standard Arabic Audio": "msa-1037-32.mp3"
 		},
@@ -331,7 +331,7 @@
 			"English": "I'm sure I can get it from another library.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنا متأكد من أنني يمكن الحصول عليها من مكتبة أخرى.",
 			"Egyptian Arabic Audio": "eca-1037-33.mp3",
 			"Standard Arabic Audio": "msa-1037-33.mp3"
 		},
@@ -341,7 +341,7 @@
 			"English": "Could you do that?",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هل يمكن أن تفعل ذلك؟",
 			"Egyptian Arabic Audio": "eca-1037-34.mp3",
 			"Standard Arabic Audio": "msa-1037-34.mp3"
 		},
@@ -351,7 +351,7 @@
 			"English": "I'll let you know when I get the book in.",
 			"Word Count": 10,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "سأخبرك عندما أحصل على الكتاب.",
 			"Egyptian Arabic Audio": "eca-1037-35.mp3",
 			"Standard Arabic Audio": "msa-1037-35.mp3"
 		},
@@ -361,7 +361,7 @@
 			"English": "That's great. Thank you so much.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ذلك رائع. شكرا جزيلا.",
 			"Egyptian Arabic Audio": "eca-1037-36.mp3",
 			"Standard Arabic Audio": "msa-1037-36.mp3"
 		}

@@ -9,7 +9,7 @@
 			"English": "\"No, of course not,\" he lied again.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "&quot;لا، بالطبع لا،&quot; كذب مرة أخرى.",
 			"Egyptian Arabic Audio": "eca-2110-1.mp3",
 			"Standard Arabic Audio": "msa-2110-1.mp3"
 		},
@@ -18,7 +18,7 @@
 			"English": "\"I don't know.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "&quot;انا لا اعرف.",
 			"Egyptian Arabic Audio": "eca-2110-2.mp3",
 			"Standard Arabic Audio": "msa-2110-2.mp3"
 		},
@@ -27,7 +27,7 @@
 			"English": "I'm like everybody else�you're either attracted to a certain person or you're not.",
 			"Word Count": 13,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنا مثل الجميع &quot;أنت إما جذبت إلى شخص معين أو كنت لا.",
 			"Egyptian Arabic Audio": "eca-2110-3.mp3",
 			"Standard Arabic Audio": "msa-2110-3.mp3"
 		},
@@ -36,7 +36,7 @@
 			"English": "\".",
 			"Word Count": 1,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "&quot;.",
 			"Egyptian Arabic Audio": "eca-2110-4.mp3",
 			"Standard Arabic Audio": "msa-2110-4.mp3"
 		}

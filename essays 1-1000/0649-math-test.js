@@ -9,7 +9,7 @@
 			"English": "The day of the math test was next Monday.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وكان يوم اختبار الرياضيات يوم الاثنين المقبل.",
 			"Egyptian Arabic Audio": "eca-0649-1.mp3",
 			"Standard Arabic Audio": "msa-0649-1.mp3"
 		},
@@ -18,7 +18,7 @@
 			"English": "He had three days to study.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كان لديه ثلاثة أيام للدراسة.",
 			"Egyptian Arabic Audio": "eca-0649-2.mp3",
 			"Standard Arabic Audio": "msa-0649-2.mp3"
 		},
@@ -27,7 +27,7 @@
 			"English": "He did not like math.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لم يحب الرياضيات.",
 			"Egyptian Arabic Audio": "eca-0649-3.mp3",
 			"Standard Arabic Audio": "msa-0649-3.mp3"
 		},
@@ -36,7 +36,7 @@
 			"English": "It was his hardest subject.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وكان أصعب موضوع له.",
 			"Egyptian Arabic Audio": "eca-0649-4.mp3",
 			"Standard Arabic Audio": "msa-0649-4.mp3"
 		},
@@ -45,7 +45,7 @@
 			"English": "He had to study in order to pass.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كان عليه أن يدرس من أجل تمرير.",
 			"Egyptian Arabic Audio": "eca-0649-5.mp3",
 			"Standard Arabic Audio": "msa-0649-5.mp3"
 		},
@@ -54,7 +54,7 @@
 			"English": "He locked himself in his room.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أقفل نفسه في غرفته.",
 			"Egyptian Arabic Audio": "eca-0649-6.mp3",
 			"Standard Arabic Audio": "msa-0649-6.mp3"
 		},
@@ -63,7 +63,7 @@
 			"English": "He turned off his phone.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أوقف هاتفه.",
 			"Egyptian Arabic Audio": "eca-0649-7.mp3",
 			"Standard Arabic Audio": "msa-0649-7.mp3"
 		},
@@ -72,7 +72,7 @@
 			"English": "He shut off his computer.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أغلق جهاز الكمبيوتر الخاص به.",
 			"Egyptian Arabic Audio": "eca-0649-8.mp3",
 			"Standard Arabic Audio": "msa-0649-8.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "There could be no distractions.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لا يمكن أن يكون هناك الانحرافات.",
 			"Egyptian Arabic Audio": "eca-0649-9.mp3",
 			"Standard Arabic Audio": "msa-0649-9.mp3"
 		},
@@ -90,7 +90,7 @@
 			"English": "He left his radio on.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ترك راديوه على.",
 			"Egyptian Arabic Audio": "eca-0649-10.mp3",
 			"Standard Arabic Audio": "msa-0649-10.mp3"
 		},
@@ -99,7 +99,7 @@
 			"English": "Music helped him study.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "الموسيقى ساعدته الدراسة.",
 			"Egyptian Arabic Audio": "eca-0649-11.mp3",
 			"Standard Arabic Audio": "msa-0649-11.mp3"
 		},
@@ -108,7 +108,7 @@
 			"English": "Every day he studied for hours.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كل يوم درس لساعات.",
 			"Egyptian Arabic Audio": "eca-0649-12.mp3",
 			"Standard Arabic Audio": "msa-0649-12.mp3"
 		},
@@ -117,7 +117,7 @@
 			"English": "After two days he stopped.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "بعد يومين توقف.",
 			"Egyptian Arabic Audio": "eca-0649-13.mp3",
 			"Standard Arabic Audio": "msa-0649-13.mp3"
 		},
@@ -126,7 +126,7 @@
 			"English": "He needed help.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وقال انه يحتاج الى مساعدة.",
 			"Egyptian Arabic Audio": "eca-0649-14.mp3",
 			"Standard Arabic Audio": "msa-0649-14.mp3"
 		},
@@ -135,7 +135,7 @@
 			"English": "He could not solve a math problem.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وقال انه لا يمكن حل مشكلة الرياضيات.",
 			"Egyptian Arabic Audio": "eca-0649-15.mp3",
 			"Standard Arabic Audio": "msa-0649-15.mp3"
 		},
@@ -144,7 +144,7 @@
 			"English": "He called his friend.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ودعا صديقه.",
 			"Egyptian Arabic Audio": "eca-0649-16.mp3",
 			"Standard Arabic Audio": "msa-0649-16.mp3"
 		},
@@ -153,7 +153,7 @@
 			"English": "His friend was good at math.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "صديقه كان جيدا في الرياضيات.",
 			"Egyptian Arabic Audio": "eca-0649-17.mp3",
 			"Standard Arabic Audio": "msa-0649-17.mp3"
 		},
@@ -162,7 +162,7 @@
 			"English": "He asked his friend if he could help.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "سأل صديقه إذا كان يمكن أن يساعد.",
 			"Egyptian Arabic Audio": "eca-0649-18.mp3",
 			"Standard Arabic Audio": "msa-0649-18.mp3"
 		},
@@ -171,7 +171,7 @@
 			"English": "His friend said yes and came over.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وقال صديقه نعم وجاء أكثر.",
 			"Egyptian Arabic Audio": "eca-0649-19.mp3",
 			"Standard Arabic Audio": "msa-0649-19.mp3"
 		},
@@ -180,7 +180,7 @@
 			"English": "His friend helped him study for three hours.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ساعده صديقه الدراسة لمدة ثلاث ساعات.",
 			"Egyptian Arabic Audio": "eca-0649-20.mp3",
 			"Standard Arabic Audio": "msa-0649-20.mp3"
 		},
@@ -189,7 +189,7 @@
 			"English": "He was ready to take the test.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كان مستعدا لإجراء الاختبار.",
 			"Egyptian Arabic Audio": "eca-0649-21.mp3",
 			"Standard Arabic Audio": "msa-0649-21.mp3"
 		},
@@ -198,7 +198,7 @@
 			"English": "His friend wished him good luck.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "صديقه تمنى له حظا سعيدا.",
 			"Egyptian Arabic Audio": "eca-0649-22.mp3",
 			"Standard Arabic Audio": "msa-0649-22.mp3"
 		},
@@ -207,7 +207,7 @@
 			"English": "The day of the test came.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وجاء يوم الاختبار.",
 			"Egyptian Arabic Audio": "eca-0649-23.mp3",
 			"Standard Arabic Audio": "msa-0649-23.mp3"
 		},
@@ -216,7 +216,7 @@
 			"English": "He took the test.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أخذ الاختبار.",
 			"Egyptian Arabic Audio": "eca-0649-24.mp3",
 			"Standard Arabic Audio": "msa-0649-24.mp3"
 		},
@@ -225,7 +225,7 @@
 			"English": "He passed the test.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "اجتاز الاختبار.",
 			"Egyptian Arabic Audio": "eca-0649-25.mp3",
 			"Standard Arabic Audio": "msa-0649-25.mp3"
 		},
@@ -234,7 +234,7 @@
 			"English": "Studying had paid off.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وقد دفعت الدراسة.",
 			"Egyptian Arabic Audio": "eca-0649-26.mp3",
 			"Standard Arabic Audio": "msa-0649-26.mp3"
 		}

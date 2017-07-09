@@ -11,7 +11,7 @@
 			"English": "What's on TV?",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ما الذي على التلفاز؟",
 			"Egyptian Arabic Audio": "eca-0330-1.mp3",
 			"Standard Arabic Audio": "msa-0330-1.mp3"
 		},
@@ -21,7 +21,7 @@
 			"English": "Nothing much.",
 			"Word Count": 2,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لا شىء اكثر.",
 			"Egyptian Arabic Audio": "eca-0330-2.mp3",
 			"Standard Arabic Audio": "msa-0330-2.mp3"
 		},
@@ -31,7 +31,7 @@
 			"English": "What about the baseball game?",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ماذا عن لعبة البيسبول؟",
 			"Egyptian Arabic Audio": "eca-0330-3.mp3",
 			"Standard Arabic Audio": "msa-0330-3.mp3"
 		},
@@ -41,7 +41,7 @@
 			"English": "It got rained out.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انها حصلت على المطر.",
 			"Egyptian Arabic Audio": "eca-0330-4.mp3",
 			"Standard Arabic Audio": "msa-0330-4.mp3"
 		},
@@ -51,7 +51,7 @@
 			"English": "Rained out?",
 			"Word Count": 2,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أمطر؟",
 			"Egyptian Arabic Audio": "eca-0330-5.mp3",
 			"Standard Arabic Audio": "msa-0330-5.mp3"
 		},
@@ -61,7 +61,7 @@
 			"English": "Yes, rained out.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "نعم، هطلت.",
 			"Egyptian Arabic Audio": "eca-0330-6.mp3",
 			"Standard Arabic Audio": "msa-0330-6.mp3"
 		},
@@ -71,7 +71,7 @@
 			"English": "How could that be?",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كيف يمكن لذلك ان يحدث؟",
 			"Egyptian Arabic Audio": "eca-0330-7.mp3",
 			"Standard Arabic Audio": "msa-0330-7.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "Well, you can't play baseball in a rainstorm.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "حسنا، لا يمكنك لعب البيسبول في عاصفة ممطرة.",
 			"Egyptian Arabic Audio": "eca-0330-8.mp3",
 			"Standard Arabic Audio": "msa-0330-8.mp3"
 		},
@@ -91,7 +91,7 @@
 			"English": "I thought they were playing under a dome.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "اعتقدت أنهم كانوا يلعبون تحت قبة.",
 			"Egyptian Arabic Audio": "eca-0330-9.mp3",
 			"Standard Arabic Audio": "msa-0330-9.mp3"
 		},
@@ -101,7 +101,7 @@
 			"English": "The dome doesn't close.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "القبة لا تغلق.",
 			"Egyptian Arabic Audio": "eca-0330-10.mp3",
 			"Standard Arabic Audio": "msa-0330-10.mp3"
 		},
@@ -111,7 +111,7 @@
 			"English": "Why doesn't it close?",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لماذا لا يغلق؟",
 			"Egyptian Arabic Audio": "eca-0330-11.mp3",
 			"Standard Arabic Audio": "msa-0330-11.mp3"
 		},
@@ -121,7 +121,7 @@
 			"English": "Who knows? They said they'll fix it before next season.",
 			"Word Count": 10,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "من تعرف؟ وقالوا انهم سوف إصلاحه قبل الموسم المقبل.",
 			"Egyptian Arabic Audio": "eca-0330-12.mp3",
 			"Standard Arabic Audio": "msa-0330-12.mp3"
 		}

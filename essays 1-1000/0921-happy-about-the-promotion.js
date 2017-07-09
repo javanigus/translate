@@ -9,7 +9,7 @@
 			"English": "Jim was confident, and did well in the interview.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كان جيم واثقا، وفعل جيدا في المقابلة.",
 			"Egyptian Arabic Audio": "eca-0921-1.mp3",
 			"Standard Arabic Audio": "msa-0921-1.mp3"
 		},
@@ -18,7 +18,7 @@
 			"English": "After a week he heard back.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "بعد أسبوع سمع مرة أخرى.",
 			"Egyptian Arabic Audio": "eca-0921-2.mp3",
 			"Standard Arabic Audio": "msa-0921-2.mp3"
 		},
@@ -27,7 +27,7 @@
 			"English": "He had gotten the position.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وقد حصل على الموقف.",
 			"Egyptian Arabic Audio": "eca-0921-3.mp3",
 			"Standard Arabic Audio": "msa-0921-3.mp3"
 		},
@@ -36,7 +36,7 @@
 			"English": "Jim loved his new job very much.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "جيم يحب عمله الجديد كثيرا.",
 			"Egyptian Arabic Audio": "eca-0921-4.mp3",
 			"Standard Arabic Audio": "msa-0921-4.mp3"
 		},
@@ -45,7 +45,7 @@
 			"English": "He was happy about his promotion.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كان سعيدا عن ترقيته.",
 			"Egyptian Arabic Audio": "eca-0921-5.mp3",
 			"Standard Arabic Audio": "msa-0921-5.mp3"
 		},
@@ -54,7 +54,7 @@
 			"English": "He began to think of ways to help the store.",
 			"Word Count": 10,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "بدأ التفكير في طرق لمساعدة المخزن.",
 			"Egyptian Arabic Audio": "eca-0921-6.mp3",
 			"Standard Arabic Audio": "msa-0921-6.mp3"
 		}

@@ -9,7 +9,7 @@
 			"English": "The teacher is talking about U.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "المعلم يتحدث عن U.",
 			"Egyptian Arabic Audio": "eca-0075-1.mp3",
 			"Standard Arabic Audio": "msa-0075-1.mp3"
 		},
@@ -18,7 +18,7 @@
 			"English": "S.",
 			"Word Count": 1,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "S.",
 			"Egyptian Arabic Audio": "eca-0075-2.mp3",
 			"Standard Arabic Audio": "msa-0075-2.mp3"
 		},
@@ -27,7 +27,7 @@
 			"English": "government.",
 			"Word Count": 1,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "حكومة.",
 			"Egyptian Arabic Audio": "eca-0075-3.mp3",
 			"Standard Arabic Audio": "msa-0075-3.mp3"
 		},
@@ -36,7 +36,7 @@
 			"English": "She thinks it is boring.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انها تعتقد انها مملة.",
 			"Egyptian Arabic Audio": "eca-0075-4.mp3",
 			"Standard Arabic Audio": "msa-0075-4.mp3"
 		},
@@ -45,7 +45,7 @@
 			"English": "She stares at her desk.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وقالت انها يحدق في مكتبها.",
 			"Egyptian Arabic Audio": "eca-0075-5.mp3",
 			"Standard Arabic Audio": "msa-0075-5.mp3"
 		},
@@ -54,7 +54,7 @@
 			"English": "She starts to daydream.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وقالت انها تبدأ في أحلام اليقظة.",
 			"Egyptian Arabic Audio": "eca-0075-6.mp3",
 			"Standard Arabic Audio": "msa-0075-6.mp3"
 		},
@@ -63,7 +63,7 @@
 			"English": "She dreams about her friends.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "إنها تحلم بصديقاتها.",
 			"Egyptian Arabic Audio": "eca-0075-7.mp3",
 			"Standard Arabic Audio": "msa-0075-7.mp3"
 		},
@@ -72,7 +72,7 @@
 			"English": "They invite her to a party.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يدعونها إلى حفلة.",
 			"Egyptian Arabic Audio": "eca-0075-8.mp3",
 			"Standard Arabic Audio": "msa-0075-8.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "The party is fun.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "الحزب هو متعة.",
 			"Egyptian Arabic Audio": "eca-0075-9.mp3",
 			"Standard Arabic Audio": "msa-0075-9.mp3"
 		},
@@ -90,7 +90,7 @@
 			"English": "She dances and sings.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انها ترقص وغني.",
 			"Egyptian Arabic Audio": "eca-0075-10.mp3",
 			"Standard Arabic Audio": "msa-0075-10.mp3"
 		},
@@ -99,7 +99,7 @@
 			"English": "She listens to good music.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "تستمع إلى الموسيقى الجيدة.",
 			"Egyptian Arabic Audio": "eca-0075-11.mp3",
 			"Standard Arabic Audio": "msa-0075-11.mp3"
 		},
@@ -108,7 +108,7 @@
 			"English": "The teacher wakes her up.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "المعلم يستيقظ لها.",
 			"Egyptian Arabic Audio": "eca-0075-12.mp3",
 			"Standard Arabic Audio": "msa-0075-12.mp3"
 		}

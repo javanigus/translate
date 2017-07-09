@@ -9,7 +9,7 @@
 			"English": "Kenneth cleaned his apartment.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كينيث تنظيف شقته.",
 			"Egyptian Arabic Audio": "eca-1253-1.mp3",
 			"Standard Arabic Audio": "msa-1253-1.mp3"
 		},
@@ -18,7 +18,7 @@
 			"English": "He emptied the trash.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لقد أفرغ القمامة.",
 			"Egyptian Arabic Audio": "eca-1253-2.mp3",
 			"Standard Arabic Audio": "msa-1253-2.mp3"
 		},
@@ -27,7 +27,7 @@
 			"English": "He washed the dirty dishes.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "غسل الأطباق القذرة.",
 			"Egyptian Arabic Audio": "eca-1253-3.mp3",
 			"Standard Arabic Audio": "msa-1253-3.mp3"
 		},
@@ -36,7 +36,7 @@
 			"English": "He looked in his bathroom.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "بدا في حمامه.",
 			"Egyptian Arabic Audio": "eca-1253-4.mp3",
 			"Standard Arabic Audio": "msa-1253-4.mp3"
 		},
@@ -45,7 +45,7 @@
 			"English": "The sink and bathtub were dirty.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كان حوض الاستحمام وحوض الاستحمام متسخة.",
 			"Egyptian Arabic Audio": "eca-1253-5.mp3",
 			"Standard Arabic Audio": "msa-1253-5.mp3"
 		},
@@ -54,7 +54,7 @@
 			"English": "He scrubbed the sink and bathtub.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كان ينظف الحوض وحوض الاستحمام.",
 			"Egyptian Arabic Audio": "eca-1253-6.mp3",
 			"Standard Arabic Audio": "msa-1253-6.mp3"
 		},
@@ -63,7 +63,7 @@
 			"English": "He looked in his bedroom.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "بدا في غرفة نومه.",
 			"Egyptian Arabic Audio": "eca-1253-7.mp3",
 			"Standard Arabic Audio": "msa-1253-7.mp3"
 		},
@@ -72,7 +72,7 @@
 			"English": "Clothes were on the floor.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وكانت الملابس على الأرض.",
 			"Egyptian Arabic Audio": "eca-1253-8.mp3",
 			"Standard Arabic Audio": "msa-1253-8.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "He picked up the clothes.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "التقط الملابس.",
 			"Egyptian Arabic Audio": "eca-1253-9.mp3",
 			"Standard Arabic Audio": "msa-1253-9.mp3"
 		},
@@ -90,7 +90,7 @@
 			"English": "He put the shirts on hangers.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وضع القمصان على الشماعات.",
 			"Egyptian Arabic Audio": "eca-1253-10.mp3",
 			"Standard Arabic Audio": "msa-1253-10.mp3"
 		},
@@ -99,7 +99,7 @@
 			"English": "He folded the pants.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "طوى السراويل.",
 			"Egyptian Arabic Audio": "eca-1253-11.mp3",
 			"Standard Arabic Audio": "msa-1253-11.mp3"
 		},
@@ -108,7 +108,7 @@
 			"English": "He put the pants in the dresser.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وضع السراويل في مضمد.",
 			"Egyptian Arabic Audio": "eca-1253-12.mp3",
 			"Standard Arabic Audio": "msa-1253-12.mp3"
 		},
@@ -117,7 +117,7 @@
 			"English": "He washed the dirty clothes.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "غسل الملابس القذرة.",
 			"Egyptian Arabic Audio": "eca-1253-13.mp3",
 			"Standard Arabic Audio": "msa-1253-13.mp3"
 		},
@@ -126,7 +126,7 @@
 			"English": "He looked in his living room.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وقال انه ينظر في غرفة المعيشة له.",
 			"Egyptian Arabic Audio": "eca-1253-14.mp3",
 			"Standard Arabic Audio": "msa-1253-14.mp3"
 		},
@@ -135,7 +135,7 @@
 			"English": "Papers were on the floor.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وكانت الأوراق على الأرض.",
 			"Egyptian Arabic Audio": "eca-1253-15.mp3",
 			"Standard Arabic Audio": "msa-1253-15.mp3"
 		},
@@ -144,7 +144,7 @@
 			"English": "Books and newspapers and magazines were on the floor.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وكانت الكتب والصحف والمجلات على الأرض.",
 			"Egyptian Arabic Audio": "eca-1253-16.mp3",
 			"Standard Arabic Audio": "msa-1253-16.mp3"
 		},
@@ -153,7 +153,7 @@
 			"English": "He picked them all up.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "اختارهم جميعا.",
 			"Egyptian Arabic Audio": "eca-1253-17.mp3",
 			"Standard Arabic Audio": "msa-1253-17.mp3"
 		},
@@ -162,7 +162,7 @@
 			"English": "He put them on the book shelves.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وضعهم على رفوف الكتب.",
 			"Egyptian Arabic Audio": "eca-1253-18.mp3",
 			"Standard Arabic Audio": "msa-1253-18.mp3"
 		},
@@ -171,7 +171,7 @@
 			"English": "Then he vacuumed his whole apartment.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ثم قام بتفريغ شقته بأكملها.",
 			"Egyptian Arabic Audio": "eca-1253-19.mp3",
 			"Standard Arabic Audio": "msa-1253-19.mp3"
 		}

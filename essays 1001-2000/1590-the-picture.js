@@ -9,7 +9,7 @@
 			"English": "Emily and Grant were inside Macy's on 34th Street.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كانت إميلي و غرانت داخل ميسي في الشارع 34.",
 			"Egyptian Arabic Audio": "eca-1590-1.mp3",
 			"Standard Arabic Audio": "msa-1590-1.mp3"
 		},
@@ -18,7 +18,7 @@
 			"English": "Macy's was having its annual flower show.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كان ميسي في وجود معرض زهرة السنوي.",
 			"Egyptian Arabic Audio": "eca-1590-2.mp3",
 			"Standard Arabic Audio": "msa-1590-2.mp3"
 		},
@@ -27,7 +27,7 @@
 			"English": "The store was full of flowers.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كان المتجر مليئا بالزهور.",
 			"Egyptian Arabic Audio": "eca-1590-3.mp3",
 			"Standard Arabic Audio": "msa-1590-3.mp3"
 		},
@@ -36,7 +36,7 @@
 			"English": "They were beautiful to look at and beautiful to smell.",
 			"Word Count": 10,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كانت جميلة للنظر في وجميلة رائحة.",
 			"Egyptian Arabic Audio": "eca-1590-4.mp3",
 			"Standard Arabic Audio": "msa-1590-4.mp3"
 		},
@@ -45,7 +45,7 @@
 			"English": "It was like being in a forest or jungle.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كان مثل يجري في الغابة أو الغابة.",
 			"Egyptian Arabic Audio": "eca-1590-5.mp3",
 			"Standard Arabic Audio": "msa-1590-5.mp3"
 		},
@@ -54,7 +54,7 @@
 			"English": "Flowers were everywhere.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كانت الزهور في كل مكان.",
 			"Egyptian Arabic Audio": "eca-1590-6.mp3",
 			"Standard Arabic Audio": "msa-1590-6.mp3"
 		},
@@ -63,7 +63,7 @@
 			"English": "The store was packed with people.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كان معبأة مخزن مع الناس.",
 			"Egyptian Arabic Audio": "eca-1590-7.mp3",
 			"Standard Arabic Audio": "msa-1590-7.mp3"
 		},
@@ -72,7 +72,7 @@
 			"English": "Everyone inside the store was taking pictures.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وكان الجميع داخل المخزن التقاط الصور.",
 			"Egyptian Arabic Audio": "eca-1590-8.mp3",
 			"Standard Arabic Audio": "msa-1590-8.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "They took pictures of the flowers.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أخذوا صورا للزهور.",
 			"Egyptian Arabic Audio": "eca-1590-9.mp3",
 			"Standard Arabic Audio": "msa-1590-9.mp3"
 		},
@@ -90,7 +90,7 @@
 			"English": "They took pictures of one another standing next to the flowers.",
 			"Word Count": 11,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أخذوا صورا لبعضهم البعض بجانب الزهور.",
 			"Egyptian Arabic Audio": "eca-1590-10.mp3",
 			"Standard Arabic Audio": "msa-1590-10.mp3"
 		},
@@ -99,7 +99,7 @@
 			"English": "People were asking strangers to take their pictures.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كان الناس يطلبون الغرباء لالتقاط صورهم.",
 			"Egyptian Arabic Audio": "eca-1590-11.mp3",
 			"Standard Arabic Audio": "msa-1590-11.mp3"
 		},
@@ -108,7 +108,7 @@
 			"English": "Emily took pictures of Grant.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أخذت إميلي صور جرانت.",
 			"Egyptian Arabic Audio": "eca-1590-12.mp3",
 			"Standard Arabic Audio": "msa-1590-12.mp3"
 		},
@@ -117,7 +117,7 @@
 			"English": "Grant took pictures of Emily.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أخذت غرانت صور إميلي.",
 			"Egyptian Arabic Audio": "eca-1590-13.mp3",
 			"Standard Arabic Audio": "msa-1590-13.mp3"
 		},
@@ -126,7 +126,7 @@
 			"English": "Emily asked a stranger to take their picture.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "طلبت إميلي من شخص غريب أن يأخذ صورته.",
 			"Egyptian Arabic Audio": "eca-1590-14.mp3",
 			"Standard Arabic Audio": "msa-1590-14.mp3"
 		},
@@ -135,7 +135,7 @@
 			"English": "The stranger took the picture.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أخذ الغريب الصورة.",
 			"Egyptian Arabic Audio": "eca-1590-15.mp3",
 			"Standard Arabic Audio": "msa-1590-15.mp3"
 		},
@@ -144,7 +144,7 @@
 			"English": "It was out of focus.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كان خارج التركيز.",
 			"Egyptian Arabic Audio": "eca-1590-16.mp3",
 			"Standard Arabic Audio": "msa-1590-16.mp3"
 		},
@@ -153,7 +153,7 @@
 			"English": "Emily asked another stranger to take their picture.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "طلبت إميلي من شخص آخر أن يأخذ صورته.",
 			"Egyptian Arabic Audio": "eca-1590-17.mp3",
 			"Standard Arabic Audio": "msa-1590-17.mp3"
 		},
@@ -162,7 +162,7 @@
 			"English": "It was also out of focus.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وكان أيضا خارج نطاق التركيز.",
 			"Egyptian Arabic Audio": "eca-1590-18.mp3",
 			"Standard Arabic Audio": "msa-1590-18.mp3"
 		},
@@ -171,7 +171,7 @@
 			"English": "Grant asked a stranger to take their picture.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "طلبت غرانت من شخص غريب أن يأخذ صورتهم.",
 			"Egyptian Arabic Audio": "eca-1590-19.mp3",
 			"Standard Arabic Audio": "msa-1590-19.mp3"
 		},
@@ -180,7 +180,7 @@
 			"English": "The picture was in focus.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وكانت الصورة في التركيز.",
 			"Egyptian Arabic Audio": "eca-1590-20.mp3",
 			"Standard Arabic Audio": "msa-1590-20.mp3"
 		},
@@ -189,7 +189,7 @@
 			"English": "It was a beautiful picture.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كانت صورة جميلة.",
 			"Egyptian Arabic Audio": "eca-1590-21.mp3",
 			"Standard Arabic Audio": "msa-1590-21.mp3"
 		},
@@ -198,7 +198,7 @@
 			"English": "\"The third time is the charm,\" said Grant.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "&quot;المرة الثالثة هي سحر&quot;، وقال غرانت.",
 			"Egyptian Arabic Audio": "eca-1590-22.mp3",
 			"Standard Arabic Audio": "msa-1590-22.mp3"
 		}

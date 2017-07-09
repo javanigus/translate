@@ -9,7 +9,7 @@
 			"English": "Brian is the oldest brother.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "بريان هو الأخ الأكبر.",
 			"Egyptian Arabic Audio": "eca-0027-1.mp3",
 			"Standard Arabic Audio": "msa-0027-1.mp3"
 		},
@@ -18,7 +18,7 @@
 			"English": "He has two younger brothers.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لديه اثنين من الاخوة الاصغر سنا.",
 			"Egyptian Arabic Audio": "eca-0027-2.mp3",
 			"Standard Arabic Audio": "msa-0027-2.mp3"
 		},
@@ -27,7 +27,7 @@
 			"English": "Brian helps his parents around the house.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "براين يساعد والديه في جميع أنحاء المنزل.",
 			"Egyptian Arabic Audio": "eca-0027-3.mp3",
 			"Standard Arabic Audio": "msa-0027-3.mp3"
 		},
@@ -36,7 +36,7 @@
 			"English": "He washes the dishes.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هو يغسل الاطباق.",
 			"Egyptian Arabic Audio": "eca-0027-4.mp3",
 			"Standard Arabic Audio": "msa-0027-4.mp3"
 		},
@@ -45,7 +45,7 @@
 			"English": "He mops the floor.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انه مماسح الأرض.",
 			"Egyptian Arabic Audio": "eca-0027-5.mp3",
 			"Standard Arabic Audio": "msa-0027-5.mp3"
 		},
@@ -54,7 +54,7 @@
 			"English": "He picks up his younger brothers from school.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يختار أخوه الأصغر سنا من المدرسة.",
 			"Egyptian Arabic Audio": "eca-0027-6.mp3",
 			"Standard Arabic Audio": "msa-0027-6.mp3"
 		},
@@ -63,7 +63,7 @@
 			"English": "Brian also teaches his brothers to do the right thing.",
 			"Word Count": 10,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كما يعلم بريان إخوته أن يفعلوا الشيء الصحيح.",
 			"Egyptian Arabic Audio": "eca-0027-7.mp3",
 			"Standard Arabic Audio": "msa-0027-7.mp3"
 		},
@@ -72,7 +72,7 @@
 			"English": "He tells them to be honest, kind, and friendly.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يقول لهم أن تكون صادقة، نوع، ودية.",
 			"Egyptian Arabic Audio": "eca-0027-8.mp3",
 			"Standard Arabic Audio": "msa-0027-8.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "Brian loves his family.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "بريان يحب عائلته.",
 			"Egyptian Arabic Audio": "eca-0027-9.mp3",
 			"Standard Arabic Audio": "msa-0027-9.mp3"
 		}

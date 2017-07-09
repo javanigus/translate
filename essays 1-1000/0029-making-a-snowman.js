@@ -9,7 +9,7 @@
 			"English": "She wants to make a snowman.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "إنها تريد أن تجعل ثلج.",
 			"Egyptian Arabic Audio": "eca-0029-1.mp3",
 			"Standard Arabic Audio": "msa-0029-1.mp3"
 		},
@@ -18,7 +18,7 @@
 			"English": "First, she rolls a large ball of snow.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أولا، انها لفات كرة كبيرة من الثلوج.",
 			"Egyptian Arabic Audio": "eca-0029-2.mp3",
 			"Standard Arabic Audio": "msa-0029-2.mp3"
 		},
@@ -27,7 +27,7 @@
 			"English": "Second, she rolls a medium ball of snow.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "الثانية، انها لفات كرة متوسطة من الثلوج.",
 			"Egyptian Arabic Audio": "eca-0029-3.mp3",
 			"Standard Arabic Audio": "msa-0029-3.mp3"
 		},
@@ -36,7 +36,7 @@
 			"English": "Finally, she rolls a small ball of snow for the snowman's head.",
 			"Word Count": 12,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وأخيرا، انها لفات كرة صغيرة من الثلوج لرأس ثلج.",
 			"Egyptian Arabic Audio": "eca-0029-4.mp3",
 			"Standard Arabic Audio": "msa-0029-4.mp3"
 		},
@@ -45,7 +45,7 @@
 			"English": "She stacks them up.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انها تكدس لهم.",
 			"Egyptian Arabic Audio": "eca-0029-5.mp3",
 			"Standard Arabic Audio": "msa-0029-5.mp3"
 		},
@@ -54,7 +54,7 @@
 			"English": "The largest ball is on the bottom.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أكبر الكرة هي في الجزء السفلي.",
 			"Egyptian Arabic Audio": "eca-0029-6.mp3",
 			"Standard Arabic Audio": "msa-0029-6.mp3"
 		},
@@ -63,7 +63,7 @@
 			"English": "She puts a carrot for the nose.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "إنها تضع جزرة للأنف.",
 			"Egyptian Arabic Audio": "eca-0029-7.mp3",
 			"Standard Arabic Audio": "msa-0029-7.mp3"
 		},
@@ -72,7 +72,7 @@
 			"English": "She uses buttons for the eyes and mouth.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انها تستخدم أزرار للعيون والفم.",
 			"Egyptian Arabic Audio": "eca-0029-8.mp3",
 			"Standard Arabic Audio": "msa-0029-8.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "The last thing she adds is a scarf.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "آخر شيء تضيفه هو وشاح.",
 			"Egyptian Arabic Audio": "eca-0029-9.mp3",
 			"Standard Arabic Audio": "msa-0029-9.mp3"
 		}

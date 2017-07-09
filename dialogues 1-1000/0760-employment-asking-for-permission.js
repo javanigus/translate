@@ -11,7 +11,7 @@
 			"English": "Hello, this is my first time here. I could use some help.",
 			"Word Count": 12,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "مرحبا، هذه هي المرة الأولى هنا. ويمكنني أن استخدام بعض المساعدة.",
 			"Egyptian Arabic Audio": "eca-0760-1.mp3",
 			"Standard Arabic Audio": "msa-0760-1.mp3"
 		},
@@ -21,7 +21,7 @@
 			"English": "Okay, I can help. What is it you want to do?",
 			"Word Count": 11,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "حسنا، يمكنني المساعدة. ما هو أنت تريد أن تفعل؟",
 			"Egyptian Arabic Audio": "eca-0760-2.mp3",
 			"Standard Arabic Audio": "msa-0760-2.mp3"
 		},
@@ -31,7 +31,7 @@
 			"English": "I need to use the database on your computer.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنا بحاجة إلى استخدام قاعدة البيانات على جهاز الكمبيوتر الخاص بك.",
 			"Egyptian Arabic Audio": "eca-0760-3.mp3",
 			"Standard Arabic Audio": "msa-0760-3.mp3"
 		},
@@ -41,7 +41,7 @@
 			"English": "Well, I need something from you before I can allow you to do that.",
 			"Word Count": 14,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "حسنا، أنا بحاجة إلى شيء منكم قبل أن أسمح لك أن تفعل ذلك.",
 			"Egyptian Arabic Audio": "eca-0760-4.mp3",
 			"Standard Arabic Audio": "msa-0760-4.mp3"
 		},
@@ -51,7 +51,7 @@
 			"English": "What do you need from me?",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ماذا تريد مني؟",
 			"Egyptian Arabic Audio": "eca-0760-5.mp3",
 			"Standard Arabic Audio": "msa-0760-5.mp3"
 		},
@@ -61,7 +61,7 @@
 			"English": "I will need you to fill out this form, and show me identification.",
 			"Word Count": 13,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "سأحتاج منك لملء هذا النموذج، وتبين لي تحديد الهوية.",
 			"Egyptian Arabic Audio": "eca-0760-6.mp3",
 			"Standard Arabic Audio": "msa-0760-6.mp3"
 		},
@@ -71,7 +71,7 @@
 			"English": "Okay, I'll do that. I can then search your database?",
 			"Word Count": 10,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "حسنا، سأفعل ذلك. يمكنني ثم البحث في قاعدة البيانات الخاصة بك؟",
 			"Egyptian Arabic Audio": "eca-0760-7.mp3",
 			"Standard Arabic Audio": "msa-0760-7.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "Oh, no. You'll need to ask for permission.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أوه، لا. ستحتاج إلى طلب إذن.",
 			"Egyptian Arabic Audio": "eca-0760-8.mp3",
 			"Standard Arabic Audio": "msa-0760-8.mp3"
 		},
@@ -91,7 +91,7 @@
 			"English": "Here's the form and my ID.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "إليك النموذج و هويتي.",
 			"Egyptian Arabic Audio": "eca-0760-9.mp3",
 			"Standard Arabic Audio": "msa-0760-9.mp3"
 		},
@@ -101,7 +101,7 @@
 			"English": "Wonderful. You can ask Mr. Lee for permission now.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "رائع. يمكنك أن تطلب السيد لي للحصول على إذن الآن.",
 			"Egyptian Arabic Audio": "eca-0760-10.mp3",
 			"Standard Arabic Audio": "msa-0760-10.mp3"
 		},
@@ -111,7 +111,7 @@
 			"English": "That's super. Thanks.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هذا السوبر. شكر.",
 			"Egyptian Arabic Audio": "eca-0760-11.mp3",
 			"Standard Arabic Audio": "msa-0760-11.mp3"
 		},
@@ -121,7 +121,7 @@
 			"English": "You're welcome. Good luck.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "على الرحب و السعة. حظا طيبا وفقك الله.",
 			"Egyptian Arabic Audio": "eca-0760-12.mp3",
 			"Standard Arabic Audio": "msa-0760-12.mp3"
 		}

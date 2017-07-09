@@ -9,7 +9,7 @@
 			"English": "She had watched the news last night.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كانت قد شاهدت الأخبار الليلة الماضية.",
 			"Egyptian Arabic Audio": "eca-1315-1.mp3",
 			"Standard Arabic Audio": "msa-1315-1.mp3"
 		},
@@ -18,7 +18,7 @@
 			"English": "The weatherman had said it was going to rain today.",
 			"Word Count": 10,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وكان رجل الاحوال الجوية قال انها سوف تسير اليوم.",
 			"Egyptian Arabic Audio": "eca-1315-2.mp3",
 			"Standard Arabic Audio": "msa-1315-2.mp3"
 		},
@@ -27,7 +27,7 @@
 			"English": "It was going to rain all day today.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كان على وشك المطر كل يوم اليوم.",
 			"Egyptian Arabic Audio": "eca-1315-3.mp3",
 			"Standard Arabic Audio": "msa-1315-3.mp3"
 		},
@@ -36,7 +36,7 @@
 			"English": "She got dressed.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وقالت انها حصلت على اللباس.",
 			"Egyptian Arabic Audio": "eca-1315-4.mp3",
 			"Standard Arabic Audio": "msa-1315-4.mp3"
 		},
@@ -45,7 +45,7 @@
 			"English": "She put on her rain boots.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وضعت على أحذية المطر لها.",
 			"Egyptian Arabic Audio": "eca-1315-5.mp3",
 			"Standard Arabic Audio": "msa-1315-5.mp3"
 		},
@@ -54,7 +54,7 @@
 			"English": "She put on her raincoat.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وضعت على معطف واق من المطر لها.",
 			"Egyptian Arabic Audio": "eca-1315-6.mp3",
 			"Standard Arabic Audio": "msa-1315-6.mp3"
 		},
@@ -63,7 +63,7 @@
 			"English": "She grabbed her umbrella.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أمسكت مظلة لها.",
 			"Egyptian Arabic Audio": "eca-1315-7.mp3",
 			"Standard Arabic Audio": "msa-1315-7.mp3"
 		},
@@ -72,7 +72,7 @@
 			"English": "She was ready for the rain.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كانت مستعدة للمطر.",
 			"Egyptian Arabic Audio": "eca-1315-8.mp3",
 			"Standard Arabic Audio": "msa-1315-8.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "She was wearing her rain boots.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كانت ترتدي حذاء المطر.",
 			"Egyptian Arabic Audio": "eca-1315-9.mp3",
 			"Standard Arabic Audio": "msa-1315-9.mp3"
 		},
@@ -90,7 +90,7 @@
 			"English": "She was wearing her raincoat.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كانت ترتدي معطف واق من المطر.",
 			"Egyptian Arabic Audio": "eca-1315-10.mp3",
 			"Standard Arabic Audio": "msa-1315-10.mp3"
 		},
@@ -99,7 +99,7 @@
 			"English": "She had an umbrella in her hand.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كان لها مظلة في يدها.",
 			"Egyptian Arabic Audio": "eca-1315-11.mp3",
 			"Standard Arabic Audio": "msa-1315-11.mp3"
 		},
@@ -108,7 +108,7 @@
 			"English": "She walked outside.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "سارت خارج.",
 			"Egyptian Arabic Audio": "eca-1315-12.mp3",
 			"Standard Arabic Audio": "msa-1315-12.mp3"
 		},
@@ -117,7 +117,7 @@
 			"English": "Something was wrong.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كان هناك شيء خاطئ.",
 			"Egyptian Arabic Audio": "eca-1315-13.mp3",
 			"Standard Arabic Audio": "msa-1315-13.mp3"
 		},
@@ -126,7 +126,7 @@
 			"English": "What was wrong? It wasn't raining.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ما هو الخطأ؟ لم يكن تمطر.",
 			"Egyptian Arabic Audio": "eca-1315-14.mp3",
 			"Standard Arabic Audio": "msa-1315-14.mp3"
 		},
@@ -135,7 +135,7 @@
 			"English": "Where was the rain? She looked up.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أين كان المطر؟ رفعت بصرها.",
 			"Egyptian Arabic Audio": "eca-1315-15.mp3",
 			"Standard Arabic Audio": "msa-1315-15.mp3"
 		},
@@ -144,7 +144,7 @@
 			"English": "She looked at the blue sky.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "نظرت إلى السماء الزرقاء.",
 			"Egyptian Arabic Audio": "eca-1315-16.mp3",
 			"Standard Arabic Audio": "msa-1315-16.mp3"
 		},
@@ -153,7 +153,7 @@
 			"English": "She went back inside.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "عادت إلى الداخل.",
 			"Egyptian Arabic Audio": "eca-1315-17.mp3",
 			"Standard Arabic Audio": "msa-1315-17.mp3"
 		},
@@ -162,7 +162,7 @@
 			"English": "She took off her raincoat.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أخذت معطف واق من المطر.",
 			"Egyptian Arabic Audio": "eca-1315-18.mp3",
 			"Standard Arabic Audio": "msa-1315-18.mp3"
 		},
@@ -171,7 +171,7 @@
 			"English": "She took off her rain boots.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أخذت من أحذيةها المطر.",
 			"Egyptian Arabic Audio": "eca-1315-19.mp3",
 			"Standard Arabic Audio": "msa-1315-19.mp3"
 		},
@@ -180,7 +180,7 @@
 			"English": "She went back outside.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "عادت للخارج.",
 			"Egyptian Arabic Audio": "eca-1315-20.mp3",
 			"Standard Arabic Audio": "msa-1315-20.mp3"
 		},
@@ -189,7 +189,7 @@
 			"English": "She still had her umbrella.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كانت لا تزال لديها مظلة لها.",
 			"Egyptian Arabic Audio": "eca-1315-21.mp3",
 			"Standard Arabic Audio": "msa-1315-21.mp3"
 		},
@@ -198,7 +198,7 @@
 			"English": "You never know about the weather, she thought.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنت لا تعرف أبدا عن الطقس، وقالت انها فكرت.",
 			"Egyptian Arabic Audio": "eca-1315-22.mp3",
 			"Standard Arabic Audio": "msa-1315-22.mp3"
 		}

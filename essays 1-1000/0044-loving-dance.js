@@ -9,7 +9,7 @@
 			"English": "She loves to dance.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "تحب الرقص.",
 			"Egyptian Arabic Audio": "eca-0044-1.mp3",
 			"Standard Arabic Audio": "msa-0044-1.mp3"
 		},
@@ -18,7 +18,7 @@
 			"English": "She dances on her school's team.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وهي ترقص على فريق مدرستها.",
 			"Egyptian Arabic Audio": "eca-0044-2.mp3",
 			"Standard Arabic Audio": "msa-0044-2.mp3"
 		},
@@ -27,7 +27,7 @@
 			"English": "She dances after school.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انها ترقص بعد المدرسة.",
 			"Egyptian Arabic Audio": "eca-0044-3.mp3",
 			"Standard Arabic Audio": "msa-0044-3.mp3"
 		},
@@ -36,7 +36,7 @@
 			"English": "She loves to dance in her room.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "تحب الرقص في غرفتها.",
 			"Egyptian Arabic Audio": "eca-0044-4.mp3",
 			"Standard Arabic Audio": "msa-0044-4.mp3"
 		},
@@ -45,7 +45,7 @@
 			"English": "She loves to dance in the kitchen.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "تحب الرقص في المطبخ.",
 			"Egyptian Arabic Audio": "eca-0044-5.mp3",
 			"Standard Arabic Audio": "msa-0044-5.mp3"
 		},
@@ -54,7 +54,7 @@
 			"English": "She even loves to dance in the bathroom.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "حتى أنها تحب الرقص في الحمام.",
 			"Egyptian Arabic Audio": "eca-0044-6.mp3",
 			"Standard Arabic Audio": "msa-0044-6.mp3"
 		},
@@ -63,7 +63,7 @@
 			"English": "Anyone can see that she is passionate.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يمكن لأي شخص أن يرى أنها عاطفي.",
 			"Egyptian Arabic Audio": "eca-0044-7.mp3",
 			"Standard Arabic Audio": "msa-0044-7.mp3"
 		},
@@ -72,7 +72,7 @@
 			"English": "People say she is the best dancer in the world.",
 			"Word Count": 10,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يقول الناس أنها أفضل راقصة في العالم.",
 			"Egyptian Arabic Audio": "eca-0044-8.mp3",
 			"Standard Arabic Audio": "msa-0044-8.mp3"
 		}

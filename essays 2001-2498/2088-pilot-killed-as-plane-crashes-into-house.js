@@ -9,7 +9,7 @@
 			"English": "They immediately called 911 when they discovered the cause of the thunderous sound.",
 			"Word Count": 13,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "اتصلوا على الفور 911 عندما اكتشفوا سبب الصوت الرعد.",
 			"Egyptian Arabic Audio": "eca-2088-1.mp3",
 			"Standard Arabic Audio": "msa-2088-1.mp3"
 		},
@@ -18,7 +18,7 @@
 			"English": "The family was lucky because there was no fire.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كانت الأسرة محظوظة لأنه لم يكن هناك حريق.",
 			"Egyptian Arabic Audio": "eca-2088-2.mp3",
 			"Standard Arabic Audio": "msa-2088-2.mp3"
 		},
@@ -27,7 +27,7 @@
 			"English": "Authorities suspect that a lack of fuel contributed to the crash.",
 			"Word Count": 11,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وتشتبه السلطات في أن نقص الوقود ساهم في تحطم الطائرة.",
 			"Egyptian Arabic Audio": "eca-2088-3.mp3",
 			"Standard Arabic Audio": "msa-2088-3.mp3"
 		},
@@ -36,7 +36,7 @@
 			"English": "Mr Carol said that they might have to move out until they can get the house repaired.",
 			"Word Count": 17,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وقال السيد كارول أنه قد تضطر إلى الخروج حتى يتمكنوا من الحصول على إصلاح المنزل.",
 			"Egyptian Arabic Audio": "eca-2088-4.mp3",
 			"Standard Arabic Audio": "msa-2088-4.mp3"
 		},
@@ -45,7 +45,7 @@
 			"English": "The police will release the pilot's name after they have notified his next of kin.",
 			"Word Count": 15,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وسوف تقوم الشرطة بإطلاق سراح اسم الطيار بعد إخطاره بأقرب أقربائه.",
 			"Egyptian Arabic Audio": "eca-2088-5.mp3",
 			"Standard Arabic Audio": "msa-2088-5.mp3"
 		}

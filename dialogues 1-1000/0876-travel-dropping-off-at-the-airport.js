@@ -11,7 +11,7 @@
 			"English": "Can you give me a ride to the airport tomorrow?",
 			"Word Count": 10,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يمكنك أن تعطيني ركوب إلى المطار غدا؟",
 			"Egyptian Arabic Audio": "eca-0876-1.mp3",
 			"Standard Arabic Audio": "msa-0876-1.mp3"
 		},
@@ -21,7 +21,7 @@
 			"English": "Depends on what time you need to be at the airport.",
 			"Word Count": 11,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يعتمد على ما الوقت الذي تحتاج إلى أن تكون في المطار.",
 			"Egyptian Arabic Audio": "eca-0876-2.mp3",
 			"Standard Arabic Audio": "msa-0876-2.mp3"
 		},
@@ -31,7 +31,7 @@
 			"English": "Well, my flight leaves at 10:30 in the morning.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "حسنا، تغادر رحلتي في الساعة 10:30 صباحا.",
 			"Egyptian Arabic Audio": "eca-0876-3.mp3",
 			"Standard Arabic Audio": "msa-0876-3.mp3"
 		},
@@ -41,7 +41,7 @@
 			"English": "Did you check in online already?",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هل سجلت الدخول عبر الإنترنت من قبل؟",
 			"Egyptian Arabic Audio": "eca-0876-4.mp3",
 			"Standard Arabic Audio": "msa-0876-4.mp3"
 		},
@@ -51,7 +51,7 @@
 			"English": "Yes, I checked in and I don't have any bags to check.",
 			"Word Count": 12,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "نعم، تحققت في وليس لدي أي أكياس للتحقق.",
 			"Egyptian Arabic Audio": "eca-0876-5.mp3",
 			"Standard Arabic Audio": "msa-0876-5.mp3"
 		},
@@ -61,7 +61,7 @@
 			"English": "So we should leave by 9:00, so you can be there by 9:30.",
 			"Word Count": 13,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لذلك يجب أن نترك بحلول الساعة 9:00، حتى تتمكن من أن يكون هناك قبل 9:30.",
 			"Egyptian Arabic Audio": "eca-0876-6.mp3",
 			"Standard Arabic Audio": "msa-0876-6.mp3"
 		},
@@ -71,7 +71,7 @@
 			"English": "It's an international flight.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انها رحلة دولية.",
 			"Egyptian Arabic Audio": "eca-0876-7.mp3",
 			"Standard Arabic Audio": "msa-0876-7.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "Oh, so you need to be there two hours before your flight.",
 			"Word Count": 12,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أوه، لذلك عليك أن تكون هناك قبل ساعتين من الرحلة.",
 			"Egyptian Arabic Audio": "eca-0876-8.mp3",
 			"Standard Arabic Audio": "msa-0876-8.mp3"
 		},
@@ -91,7 +91,7 @@
 			"English": "Can you get me to the airport by 8:30?",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يمكنك الحصول على لي إلى المطار قبل 8:30؟",
 			"Egyptian Arabic Audio": "eca-0876-9.mp3",
 			"Standard Arabic Audio": "msa-0876-9.mp3"
 		},
@@ -101,7 +101,7 @@
 			"English": "That's when I take the kids to school, so no.",
 			"Word Count": 10,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هذا عندما أخذ الأطفال إلى المدرسة، لذلك لا.",
 			"Egyptian Arabic Audio": "eca-0876-10.mp3",
 			"Standard Arabic Audio": "msa-0876-10.mp3"
 		},
@@ -111,7 +111,7 @@
 			"English": "So how am I going to get to the airport then?",
 			"Word Count": 11,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "فكيف سأصل إلى المطار بعد ذلك؟",
 			"Egyptian Arabic Audio": "eca-0876-11.mp3",
 			"Standard Arabic Audio": "msa-0876-11.mp3"
 		},
@@ -121,7 +121,7 @@
 			"English": "Guess you'll have to pay for a cab.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "تخمين سيكون لديك لدفع ثمن سيارة أجرة.",
 			"Egyptian Arabic Audio": "eca-0876-12.mp3",
 			"Standard Arabic Audio": "msa-0876-12.mp3"
 		}

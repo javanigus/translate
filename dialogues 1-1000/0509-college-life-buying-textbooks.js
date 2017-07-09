@@ -11,7 +11,7 @@
 			"English": "I can't spend anymore money after I buy my English textbook.",
 			"Word Count": 11,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لا أستطيع قضاء بعد الآن المال بعد أن أشتري كتاب اللغة الإنجليزية.",
 			"Egyptian Arabic Audio": "eca-0509-1.mp3",
 			"Standard Arabic Audio": "msa-0509-1.mp3"
 		},
@@ -21,7 +21,7 @@
 			"English": "How much is your English textbook?",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كم هو كتاب اللغة الإنجليزية الخاص بك؟",
 			"Egyptian Arabic Audio": "eca-0509-2.mp3",
 			"Standard Arabic Audio": "msa-0509-2.mp3"
 		},
@@ -31,7 +31,7 @@
 			"English": "It's $198. I'm not kidding.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "إنه 198 دولارا. انا لا امزح.",
 			"Egyptian Arabic Audio": "eca-0509-3.mp3",
 			"Standard Arabic Audio": "msa-0509-3.mp3"
 		},
@@ -41,7 +41,7 @@
 			"English": "That's ridiculously expensive! What's the title of the textbook?",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هذا مكلف للغاية! ما هو عنوان الكتاب المدرسي؟",
 			"Egyptian Arabic Audio": "eca-0509-4.mp3",
 			"Standard Arabic Audio": "msa-0509-4.mp3"
 		},
@@ -51,7 +51,7 @@
 			"English": "It's called How to Write Well.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انها تسمى كيفية كتابة حسنا.",
 			"Egyptian Arabic Audio": "eca-0509-5.mp3",
 			"Standard Arabic Audio": "msa-0509-5.mp3"
 		},
@@ -61,7 +61,7 @@
 			"English": "Dude, someone is selling that book for $30.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "المتأنق، شخص ما يبيع هذا الكتاب لمدة 30 $.",
 			"Egyptian Arabic Audio": "eca-0509-6.mp3",
 			"Standard Arabic Audio": "msa-0509-6.mp3"
 		},
@@ -71,7 +71,7 @@
 			"English": "No way. What edition is it?",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لا يمكن. ما الطبعة هو؟",
 			"Egyptian Arabic Audio": "eca-0509-7.mp3",
 			"Standard Arabic Audio": "msa-0509-7.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "I think it was the 10th edition.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أعتقد أنها كانت الطبعة العاشرة.",
 			"Egyptian Arabic Audio": "eca-0509-8.mp3",
 			"Standard Arabic Audio": "msa-0509-8.mp3"
 		},
@@ -91,7 +91,7 @@
 			"English": "Oh, no wonder he or she is selling it for only $30.",
 			"Word Count": 12,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أوه، لا عجب انه أو انها هي بيعه فقط 30 $.",
 			"Egyptian Arabic Audio": "eca-0509-9.mp3",
 			"Standard Arabic Audio": "msa-0509-9.mp3"
 		},
@@ -101,7 +101,7 @@
 			"English": "What edition do you need?",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ما الطبعة التي تحتاج إليها؟",
 			"Egyptian Arabic Audio": "eca-0509-10.mp3",
 			"Standard Arabic Audio": "msa-0509-10.mp3"
 		},
@@ -111,7 +111,7 @@
 			"English": "I need the 21st edition.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أحتاج إلى الطبعة الحادية والعشرين.",
 			"Egyptian Arabic Audio": "eca-0509-11.mp3",
 			"Standard Arabic Audio": "msa-0509-11.mp3"
 		},
@@ -121,7 +121,7 @@
 			"English": "The publisher seems to be really making money, considering the number of  editions.",
 			"Word Count": 13,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "الناشر يبدو أن كسب حقا المال، النظر في عدد من الطبعات.",
 			"Egyptian Arabic Audio": "eca-0509-12.mp3",
 			"Standard Arabic Audio": "msa-0509-12.mp3"
 		}

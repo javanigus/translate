@@ -9,7 +9,7 @@
 			"English": "She stands outside the house.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وتقف خارج المنزل.",
 			"Egyptian Arabic Audio": "eca-0194-1.mp3",
 			"Standard Arabic Audio": "msa-0194-1.mp3"
 		},
@@ -18,7 +18,7 @@
 			"English": "She looks to the left.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انها تتطلع الى اليسار.",
 			"Egyptian Arabic Audio": "eca-0194-2.mp3",
 			"Standard Arabic Audio": "msa-0194-2.mp3"
 		},
@@ -27,7 +27,7 @@
 			"English": "She looks to the right.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انها تتطلع الى اليمين.",
 			"Egyptian Arabic Audio": "eca-0194-3.mp3",
 			"Standard Arabic Audio": "msa-0194-3.mp3"
 		},
@@ -36,7 +36,7 @@
 			"English": "She waits for the mail carrier.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "تنتظر الناقل البريد.",
 			"Egyptian Arabic Audio": "eca-0194-4.mp3",
 			"Standard Arabic Audio": "msa-0194-4.mp3"
 		},
@@ -45,7 +45,7 @@
 			"English": "A package from her mom is arriving.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "حزمة من والدتها وصلت.",
 			"Egyptian Arabic Audio": "eca-0194-5.mp3",
 			"Standard Arabic Audio": "msa-0194-5.mp3"
 		},
@@ -54,7 +54,7 @@
 			"English": "She sees the mail carrier.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ترى الناقل البريدي.",
 			"Egyptian Arabic Audio": "eca-0194-6.mp3",
 			"Standard Arabic Audio": "msa-0194-6.mp3"
 		},
@@ -63,7 +63,7 @@
 			"English": "He is wearing a blue shirt.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هو يرتدي قميص أزرق.",
 			"Egyptian Arabic Audio": "eca-0194-7.mp3",
 			"Standard Arabic Audio": "msa-0194-7.mp3"
 		},
@@ -72,7 +72,7 @@
 			"English": "He waves hello.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انه موجات مرحبا.",
 			"Egyptian Arabic Audio": "eca-0194-8.mp3",
 			"Standard Arabic Audio": "msa-0194-8.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "He gives her the package.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انه يعطيها الحزمة.",
 			"Egyptian Arabic Audio": "eca-0194-9.mp3",
 			"Standard Arabic Audio": "msa-0194-9.mp3"
 		},
@@ -90,7 +90,7 @@
 			"English": "She signs it.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انها توقع عليه.",
 			"Egyptian Arabic Audio": "eca-0194-10.mp3",
 			"Standard Arabic Audio": "msa-0194-10.mp3"
 		},
@@ -99,7 +99,7 @@
 			"English": "She runs into her house.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "تدير في منزلها.",
 			"Egyptian Arabic Audio": "eca-0194-11.mp3",
 			"Standard Arabic Audio": "msa-0194-11.mp3"
 		}

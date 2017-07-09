@@ -9,7 +9,7 @@
 			"English": "It was January in Manhattan.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وكان يناير في مانهاتن.",
 			"Egyptian Arabic Audio": "eca-1359-1.mp3",
 			"Standard Arabic Audio": "msa-1359-1.mp3"
 		},
@@ -18,7 +18,7 @@
 			"English": "It was a mild, sunny day.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كان يوم خفيف، مشمس.",
 			"Egyptian Arabic Audio": "eca-1359-2.mp3",
 			"Standard Arabic Audio": "msa-1359-2.mp3"
 		},
@@ -27,7 +27,7 @@
 			"English": "A man stood at 42nd Street and Broadway.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وقف رجل في شارع 42 وبرودواي.",
 			"Egyptian Arabic Audio": "eca-1359-3.mp3",
 			"Standard Arabic Audio": "msa-1359-3.mp3"
 		},
@@ -36,7 +36,7 @@
 			"English": "His blond hair hung down to his broad shoulders.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "شعره الأشقر معلقة إلى كتفيه واسعة.",
 			"Egyptian Arabic Audio": "eca-1359-4.mp3",
 			"Standard Arabic Audio": "msa-1359-4.mp3"
 		},
@@ -45,7 +45,7 @@
 			"English": "He was wearing a cowboy hat.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كان يرتدي قبعة رعاة البقر.",
 			"Egyptian Arabic Audio": "eca-1359-5.mp3",
 			"Standard Arabic Audio": "msa-1359-5.mp3"
 		},
@@ -54,7 +54,7 @@
 			"English": "He was wearing cowboy boots.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كان يرتدي أحذية رعاة البقر.",
 			"Egyptian Arabic Audio": "eca-1359-6.mp3",
 			"Standard Arabic Audio": "msa-1359-6.mp3"
 		},
@@ -63,7 +63,7 @@
 			"English": "He was wearing tight, white underwear.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كان يرتدي ملابس داخلية بيضاء ضيقة.",
 			"Egyptian Arabic Audio": "eca-1359-7.mp3",
 			"Standard Arabic Audio": "msa-1359-7.mp3"
 		},
@@ -72,7 +72,7 @@
 			"English": "He wasn't wearing a shirt.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لم يكن يرتدي قميصا.",
 			"Egyptian Arabic Audio": "eca-1359-8.mp3",
 			"Standard Arabic Audio": "msa-1359-8.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "He wasn't wearing pants.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لم يكن يرتدي السراويل.",
 			"Egyptian Arabic Audio": "eca-1359-9.mp3",
 			"Standard Arabic Audio": "msa-1359-9.mp3"
 		},
@@ -90,7 +90,7 @@
 			"English": "Written on the back of his white underwear was \"The Naked Cowboy.",
 			"Word Count": 12,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كتب على ظهر ملابسه الداخلية البيضاء &quot;عارية رعاة البقر.",
 			"Egyptian Arabic Audio": "eca-1359-10.mp3",
 			"Standard Arabic Audio": "msa-1359-10.mp3"
 		},
@@ -99,7 +99,7 @@
 			"English": "\" He was playing his guitar.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "&quot;كان يلعب غيتاره.",
 			"Egyptian Arabic Audio": "eca-1359-11.mp3",
 			"Standard Arabic Audio": "msa-1359-11.mp3"
 		},
@@ -108,7 +108,7 @@
 			"English": "People stopped to look at him.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "توقف الناس لإلقاء نظرة عليه.",
 			"Egyptian Arabic Audio": "eca-1359-12.mp3",
 			"Standard Arabic Audio": "msa-1359-12.mp3"
 		},
@@ -117,7 +117,7 @@
 			"English": "A young couple looked at him.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "نظر إليه زوجين شابين.",
 			"Egyptian Arabic Audio": "eca-1359-13.mp3",
 			"Standard Arabic Audio": "msa-1359-13.mp3"
 		},
@@ -126,7 +126,7 @@
 			"English": "The woman was laughing.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كانت المرأة تضحك.",
 			"Egyptian Arabic Audio": "eca-1359-14.mp3",
 			"Standard Arabic Audio": "msa-1359-14.mp3"
 		},
@@ -135,7 +135,7 @@
 			"English": "She said something to her boyfriend.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "قالت شيئا لصديقها.",
 			"Egyptian Arabic Audio": "eca-1359-15.mp3",
 			"Standard Arabic Audio": "msa-1359-15.mp3"
 		},
@@ -144,7 +144,7 @@
 			"English": "She said something to the cowboy.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "قالت شيئا لرعاة البقر.",
 			"Egyptian Arabic Audio": "eca-1359-16.mp3",
 			"Standard Arabic Audio": "msa-1359-16.mp3"
 		},
@@ -153,7 +153,7 @@
 			"English": "He waved her over.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ولوح لها.",
 			"Egyptian Arabic Audio": "eca-1359-17.mp3",
 			"Standard Arabic Audio": "msa-1359-17.mp3"
 		},
@@ -162,7 +162,7 @@
 			"English": "She walked over to him.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "سارت إليه.",
 			"Egyptian Arabic Audio": "eca-1359-18.mp3",
 			"Standard Arabic Audio": "msa-1359-18.mp3"
 		},
@@ -171,7 +171,7 @@
 			"English": "He put his muscular arm around her.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وضع ذراعه العضلي حولها.",
 			"Egyptian Arabic Audio": "eca-1359-19.mp3",
 			"Standard Arabic Audio": "msa-1359-19.mp3"
 		},
@@ -180,7 +180,7 @@
 			"English": "Her boyfriend took a picture.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أخذ صديقها صورة.",
 			"Egyptian Arabic Audio": "eca-1359-20.mp3",
 			"Standard Arabic Audio": "msa-1359-20.mp3"
 		},
@@ -189,7 +189,7 @@
 			"English": "She gave the cowboy a $5 bill.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أعطت رعاة البقر فاتورة 5 $.",
 			"Egyptian Arabic Audio": "eca-1359-21.mp3",
 			"Standard Arabic Audio": "msa-1359-21.mp3"
 		},
@@ -198,7 +198,7 @@
 			"English": "He put it into his guitar.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وضعه في غيتاره.",
 			"Egyptian Arabic Audio": "eca-1359-22.mp3",
 			"Standard Arabic Audio": "msa-1359-22.mp3"
 		},
@@ -207,7 +207,7 @@
 			"English": "Another woman walked over to him.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "مشى امرأة أخرى له.",
 			"Egyptian Arabic Audio": "eca-1359-23.mp3",
 			"Standard Arabic Audio": "msa-1359-23.mp3"
 		},
@@ -216,7 +216,7 @@
 			"English": "He put his arm around her.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وضع ذراعه حولها.",
 			"Egyptian Arabic Audio": "eca-1359-24.mp3",
 			"Standard Arabic Audio": "msa-1359-24.mp3"
 		},
@@ -225,7 +225,7 @@
 			"English": "Her friend took their picture.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أخذ صديقها صورتهم.",
 			"Egyptian Arabic Audio": "eca-1359-25.mp3",
 			"Standard Arabic Audio": "msa-1359-25.mp3"
 		}

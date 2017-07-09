@@ -11,7 +11,7 @@
 			"English": "Have you bought your bus pass yet?",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هل اشتريت تذكرة الحافلة الخاصة بك حتى الآن؟",
 			"Egyptian Arabic Audio": "eca-1146-2.mp3",
 			"Standard Arabic Audio": "msa-1146-2.mp3"
 		},
@@ -21,7 +21,7 @@
 			"English": "I didn't get it yet.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لم أحصل عليه بعد.",
 			"Egyptian Arabic Audio": "eca-1146-3.mp3",
 			"Standard Arabic Audio": "msa-1146-3.mp3"
 		},
@@ -31,7 +31,7 @@
 			"English": "Why not?",
 			"Word Count": 2,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لما لا؟",
 			"Egyptian Arabic Audio": "eca-1146-4.mp3",
 			"Standard Arabic Audio": "msa-1146-4.mp3"
 		},
@@ -41,7 +41,7 @@
 			"English": "I have no idea where to get it from.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ليس لدي أي فكرة أين يمكن الحصول عليه من.",
 			"Egyptian Arabic Audio": "eca-1146-5.mp3",
 			"Standard Arabic Audio": "msa-1146-5.mp3"
 		},
@@ -51,7 +51,7 @@
 			"English": "You should've just asked me.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يجب عليك أن تسألني فقط.",
 			"Egyptian Arabic Audio": "eca-1146-6.mp3",
 			"Standard Arabic Audio": "msa-1146-6.mp3"
 		},
@@ -61,7 +61,7 @@
 			"English": "Well then, where do I get it?",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "حسنا، أين يمكنني الحصول عليه؟",
 			"Egyptian Arabic Audio": "eca-1146-7.mp3",
 			"Standard Arabic Audio": "msa-1146-7.mp3"
 		},
@@ -71,7 +71,7 @@
 			"English": "You can get it from the student business office.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يمكنك الحصول عليها من مكتب الأعمال الطلابية.",
 			"Egyptian Arabic Audio": "eca-1146-8.mp3",
 			"Standard Arabic Audio": "msa-1146-8.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "I didn't know that.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لم أكن أعرف ذلك.",
 			"Egyptian Arabic Audio": "eca-1146-9.mp3",
 			"Standard Arabic Audio": "msa-1146-9.mp3"
 		},
@@ -91,7 +91,7 @@
 			"English": "I know you didn't.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنا أعلم أنك لم تفعل ذلك.",
 			"Egyptian Arabic Audio": "eca-1146-10.mp3",
 			"Standard Arabic Audio": "msa-1146-10.mp3"
 		},
@@ -101,7 +101,7 @@
 			"English": "I appreciate you telling me.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنا أقدر لك تقول لي.",
 			"Egyptian Arabic Audio": "eca-1146-11.mp3",
 			"Standard Arabic Audio": "msa-1146-11.mp3"
 		},
@@ -111,7 +111,7 @@
 			"English": "No problem.",
 			"Word Count": 2,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ليس هناك أى مشكلة.",
 			"Egyptian Arabic Audio": "eca-1146-12.mp3",
 			"Standard Arabic Audio": "msa-1146-12.mp3"
 		},
@@ -121,7 +121,7 @@
 			"English": "I'll make sure to get it tomorrow.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "سوف نتأكد من الحصول عليه غدا.",
 			"Egyptian Arabic Audio": "eca-1146-13.mp3",
 			"Standard Arabic Audio": "msa-1146-13.mp3"
 		},
@@ -131,7 +131,7 @@
 			"English": "Did you get your bus pass?",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هل حصلت على تمريرة الحافلة الخاصة بك؟",
 			"Egyptian Arabic Audio": "eca-1146-15.mp3",
 			"Standard Arabic Audio": "msa-1146-15.mp3"
 		},
@@ -141,7 +141,7 @@
 			"English": "I haven't gone to get it yet.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنا لم أذهب للحصول عليه حتى الآن.",
 			"Egyptian Arabic Audio": "eca-1146-16.mp3",
 			"Standard Arabic Audio": "msa-1146-16.mp3"
 		},
@@ -151,7 +151,7 @@
 			"English": "Why haven't you got it?",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لماذا لم تحصل عليه؟",
 			"Egyptian Arabic Audio": "eca-1146-17.mp3",
 			"Standard Arabic Audio": "msa-1146-17.mp3"
 		},
@@ -161,7 +161,7 @@
 			"English": "I don't know where to go to get one.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنا لا أعرف إلى أين أذهب للحصول على واحد.",
 			"Egyptian Arabic Audio": "eca-1146-18.mp3",
 			"Standard Arabic Audio": "msa-1146-18.mp3"
 		},
@@ -171,7 +171,7 @@
 			"English": "I know where to get them from.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنا أعرف من أين الحصول عليها من.",
 			"Egyptian Arabic Audio": "eca-1146-19.mp3",
 			"Standard Arabic Audio": "msa-1146-19.mp3"
 		},
@@ -181,7 +181,7 @@
 			"English": "Where do I get it?",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أين يمكنني الحصول عليه؟",
 			"Egyptian Arabic Audio": "eca-1146-20.mp3",
 			"Standard Arabic Audio": "msa-1146-20.mp3"
 		},
@@ -191,7 +191,7 @@
 			"English": "They sell them at the business office on campus.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يبيعونها في المكاتب التجارية في الحرم الجامعي.",
 			"Egyptian Arabic Audio": "eca-1146-21.mp3",
 			"Standard Arabic Audio": "msa-1146-21.mp3"
 		},
@@ -201,7 +201,7 @@
 			"English": "I had no idea.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لا يوجد لدي فكرة.",
 			"Egyptian Arabic Audio": "eca-1146-22.mp3",
 			"Standard Arabic Audio": "msa-1146-22.mp3"
 		},
@@ -211,7 +211,7 @@
 			"English": "I'm sure you didn't.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنا متأكد من أنك لم تفعل ذلك.",
 			"Egyptian Arabic Audio": "eca-1146-23.mp3",
 			"Standard Arabic Audio": "msa-1146-23.mp3"
 		},
@@ -221,7 +221,7 @@
 			"English": "Thank you.",
 			"Word Count": 2,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "شكرا.",
 			"Egyptian Arabic Audio": "eca-1146-24.mp3",
 			"Standard Arabic Audio": "msa-1146-24.mp3"
 		},
@@ -231,7 +231,7 @@
 			"English": "Don't mention it.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لا تذكرها.",
 			"Egyptian Arabic Audio": "eca-1146-25.mp3",
 			"Standard Arabic Audio": "msa-1146-25.mp3"
 		},
@@ -241,7 +241,7 @@
 			"English": "I'll buy it later on today.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "سأشتريه في وقت لاحق اليوم.",
 			"Egyptian Arabic Audio": "eca-1146-26.mp3",
 			"Standard Arabic Audio": "msa-1146-26.mp3"
 		},
@@ -251,7 +251,7 @@
 			"English": "Did you go and buy your bus pass?",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هل ذهبت وشراء تذكرة الحافلة الخاصة بك؟",
 			"Egyptian Arabic Audio": "eca-1146-28.mp3",
 			"Standard Arabic Audio": "msa-1146-28.mp3"
 		},
@@ -261,7 +261,7 @@
 			"English": "No, I didn't.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لا، لم أفعل ذلك.",
 			"Egyptian Arabic Audio": "eca-1146-29.mp3",
 			"Standard Arabic Audio": "msa-1146-29.mp3"
 		},
@@ -271,7 +271,7 @@
 			"English": "When are you going to go get it?",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "متى أنت ذاهب للذهاب الحصول عليه؟",
 			"Egyptian Arabic Audio": "eca-1146-30.mp3",
 			"Standard Arabic Audio": "msa-1146-30.mp3"
 		},
@@ -281,7 +281,7 @@
 			"English": "I'm not sure where they sell bus passes at.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لست متأكدا من حيث يبيعون تذاكر الحافلات.",
 			"Egyptian Arabic Audio": "eca-1146-31.mp3",
 			"Standard Arabic Audio": "msa-1146-31.mp3"
 		},
@@ -291,7 +291,7 @@
 			"English": "Why didn't you just ask me?",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لماذا لم تسألني فقط؟",
 			"Egyptian Arabic Audio": "eca-1146-32.mp3",
 			"Standard Arabic Audio": "msa-1146-32.mp3"
 		},
@@ -301,7 +301,7 @@
 			"English": "Where should I go?",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "إلى أين يجب أن أذهب؟",
 			"Egyptian Arabic Audio": "eca-1146-33.mp3",
 			"Standard Arabic Audio": "msa-1146-33.mp3"
 		},
@@ -311,7 +311,7 @@
 			"English": "You can get one from student services.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يمكنك الحصول على واحد من خدمات الطلاب.",
 			"Egyptian Arabic Audio": "eca-1146-34.mp3",
 			"Standard Arabic Audio": "msa-1146-34.mp3"
 		},
@@ -321,7 +321,7 @@
 			"English": "I had no clue that I could get it there.",
 			"Word Count": 10,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لم يكن لدي أي فكرة بأنني يمكن الحصول عليه هناك.",
 			"Egyptian Arabic Audio": "eca-1146-35.mp3",
 			"Standard Arabic Audio": "msa-1146-35.mp3"
 		},
@@ -331,7 +331,7 @@
 			"English": "I already knew that.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كنت أعرف ذلك بالفعل.",
 			"Egyptian Arabic Audio": "eca-1146-36.mp3",
 			"Standard Arabic Audio": "msa-1146-36.mp3"
 		},
@@ -341,7 +341,7 @@
 			"English": "Thanks for letting me know.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "شكرا على إعلامي.",
 			"Egyptian Arabic Audio": "eca-1146-37.mp3",
 			"Standard Arabic Audio": "msa-1146-37.mp3"
 		},
@@ -351,7 +351,7 @@
 			"English": "You're welcome.",
 			"Word Count": 2,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "على الرحب و السعة.",
 			"Egyptian Arabic Audio": "eca-1146-38.mp3",
 			"Standard Arabic Audio": "msa-1146-38.mp3"
 		},
@@ -361,7 +361,7 @@
 			"English": "I'm going to go and get it right now.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنا ذاهب للذهاب والحصول عليه الآن.",
 			"Egyptian Arabic Audio": "eca-1146-39.mp3",
 			"Standard Arabic Audio": "msa-1146-39.mp3"
 		}

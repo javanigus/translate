@@ -9,7 +9,7 @@
 			"English": "She is very talented.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انها موهوبة جدا.",
 			"Egyptian Arabic Audio": "eca-0591-1.mp3",
 			"Standard Arabic Audio": "msa-0591-1.mp3"
 		},
@@ -18,7 +18,7 @@
 			"English": "She is good at taking tests.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انها جيدة في أخذ الاختبارات.",
 			"Egyptian Arabic Audio": "eca-0591-2.mp3",
 			"Standard Arabic Audio": "msa-0591-2.mp3"
 		},
@@ -27,7 +27,7 @@
 			"English": "She is good at dancing.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انها جيدة في الرقص.",
 			"Egyptian Arabic Audio": "eca-0591-3.mp3",
 			"Standard Arabic Audio": "msa-0591-3.mp3"
 		},
@@ -36,7 +36,7 @@
 			"English": "She is good at singing.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انها جيدة في الغناء.",
 			"Egyptian Arabic Audio": "eca-0591-4.mp3",
 			"Standard Arabic Audio": "msa-0591-4.mp3"
 		},
@@ -45,7 +45,7 @@
 			"English": "She is good at teaching.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انها جيدة في التدريس.",
 			"Egyptian Arabic Audio": "eca-0591-5.mp3",
 			"Standard Arabic Audio": "msa-0591-5.mp3"
 		},
@@ -54,7 +54,7 @@
 			"English": "She is good at fishing.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انها جيدة في الصيد.",
 			"Egyptian Arabic Audio": "eca-0591-6.mp3",
 			"Standard Arabic Audio": "msa-0591-6.mp3"
 		},
@@ -63,7 +63,7 @@
 			"English": "She is good at playing the cello.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انها جيدة في العزف على التشيلو.",
 			"Egyptian Arabic Audio": "eca-0591-7.mp3",
 			"Standard Arabic Audio": "msa-0591-7.mp3"
 		},
@@ -72,7 +72,7 @@
 			"English": "She is good at making scarves.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انها جيدة في صنع الأوشحة.",
 			"Egyptian Arabic Audio": "eca-0591-8.mp3",
 			"Standard Arabic Audio": "msa-0591-8.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "She is good at running.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انها جيدة في الجري.",
 			"Egyptian Arabic Audio": "eca-0591-9.mp3",
 			"Standard Arabic Audio": "msa-0591-9.mp3"
 		},
@@ -90,7 +90,7 @@
 			"English": "She is good at cooking.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انها جيدة في الطبخ.",
 			"Egyptian Arabic Audio": "eca-0591-10.mp3",
 			"Standard Arabic Audio": "msa-0591-10.mp3"
 		}

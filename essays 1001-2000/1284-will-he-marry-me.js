@@ -9,7 +9,7 @@
 			"English": "She walked along the sidewalk.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "سارت على طول الرصيف.",
 			"Egyptian Arabic Audio": "eca-1284-1.mp3",
 			"Standard Arabic Audio": "msa-1284-1.mp3"
 		},
@@ -18,7 +18,7 @@
 			"English": "She wasn't paying attention.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وقالت انها لا تولي اهتماما.",
 			"Egyptian Arabic Audio": "eca-1284-2.mp3",
 			"Standard Arabic Audio": "msa-1284-2.mp3"
 		},
@@ -27,7 +27,7 @@
 			"English": "She was thinking about her boyfriend.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كانت تفكر في صديقها.",
 			"Egyptian Arabic Audio": "eca-1284-3.mp3",
 			"Standard Arabic Audio": "msa-1284-3.mp3"
 		},
@@ -36,7 +36,7 @@
 			"English": "He made her angry.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "جعلها غاضبة.",
 			"Egyptian Arabic Audio": "eca-1284-4.mp3",
 			"Standard Arabic Audio": "msa-1284-4.mp3"
 		},
@@ -45,7 +45,7 @@
 			"English": "He said he didn't want to marry her now.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وقال إنه لا يريد أن يتزوجها الآن.",
 			"Egyptian Arabic Audio": "eca-1284-5.mp3",
 			"Standard Arabic Audio": "msa-1284-5.mp3"
 		},
@@ -54,7 +54,7 @@
 			"English": "He wanted to marry her later.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أراد أن يتزوجها لاحقا.",
 			"Egyptian Arabic Audio": "eca-1284-6.mp3",
 			"Standard Arabic Audio": "msa-1284-6.mp3"
 		},
@@ -63,7 +63,7 @@
 			"English": "She wanted to get married now.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أرادت أن تتزوج الآن.",
 			"Egyptian Arabic Audio": "eca-1284-7.mp3",
 			"Standard Arabic Audio": "msa-1284-7.mp3"
 		},
@@ -72,7 +72,7 @@
 			"English": "She didn't want to get married later.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لم ترغب في الزواج لاحقا.",
 			"Egyptian Arabic Audio": "eca-1284-8.mp3",
 			"Standard Arabic Audio": "msa-1284-8.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "Why didn't he want to marry her now? Maybe he didn't want to marry her later, either.",
 			"Word Count": 17,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لماذا لم يريد أن يتزوجها الآن؟ ربما لم يكن يريد أن يتزوجها في وقت لاحق، إما.",
 			"Egyptian Arabic Audio": "eca-1284-9.mp3",
 			"Standard Arabic Audio": "msa-1284-9.mp3"
 		},
@@ -90,7 +90,7 @@
 			"English": "Maybe he didn't want to marry her ever.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ربما لم يكن يريد الزواج من أي وقت مضى.",
 			"Egyptian Arabic Audio": "eca-1284-10.mp3",
 			"Standard Arabic Audio": "msa-1284-10.mp3"
 		},
@@ -99,7 +99,7 @@
 			"English": "Maybe he wanted to meet someone else.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ربما كان يريد مقابلة شخص آخر.",
 			"Egyptian Arabic Audio": "eca-1284-11.mp3",
 			"Standard Arabic Audio": "msa-1284-11.mp3"
 		},
@@ -108,7 +108,7 @@
 			"English": "Maybe he wanted to marry someone else.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ربما أراد أن يتزوج شخص آخر.",
 			"Egyptian Arabic Audio": "eca-1284-12.mp3",
 			"Standard Arabic Audio": "msa-1284-12.mp3"
 		},
@@ -117,7 +117,7 @@
 			"English": "She walked straight into a bench.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "مشيت مباشرة إلى مقعد.",
 			"Egyptian Arabic Audio": "eca-1284-13.mp3",
 			"Standard Arabic Audio": "msa-1284-13.mp3"
 		},
@@ -126,7 +126,7 @@
 			"English": "She hurt her leg.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وقالت انها تؤذي ساقها.",
 			"Egyptian Arabic Audio": "eca-1284-14.mp3",
 			"Standard Arabic Audio": "msa-1284-14.mp3"
 		},
@@ -135,7 +135,7 @@
 			"English": "Her leg started bleeding.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "بدأت ساقها تنزف.",
 			"Egyptian Arabic Audio": "eca-1284-15.mp3",
 			"Standard Arabic Audio": "msa-1284-15.mp3"
 		},
@@ -144,7 +144,7 @@
 			"English": "She sat down on the bench.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "جلست على مقاعد البدلاء.",
 			"Egyptian Arabic Audio": "eca-1284-16.mp3",
 			"Standard Arabic Audio": "msa-1284-16.mp3"
 		},
@@ -153,7 +153,7 @@
 			"English": "Her leg hurt so much.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ساقها يصب كثيرا.",
 			"Egyptian Arabic Audio": "eca-1284-17.mp3",
 			"Standard Arabic Audio": "msa-1284-17.mp3"
 		},
@@ -162,7 +162,7 @@
 			"English": "She tried to stop the bleeding.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "حاولت وقف النزيف.",
 			"Egyptian Arabic Audio": "eca-1284-18.mp3",
 			"Standard Arabic Audio": "msa-1284-18.mp3"
 		}

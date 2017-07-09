@@ -11,7 +11,7 @@
 			"English": "Let's leave.",
 			"Word Count": 2,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لنرحل.",
 			"Egyptian Arabic Audio": "eca-0362-1.mp3",
 			"Standard Arabic Audio": "msa-0362-1.mp3"
 		},
@@ -21,7 +21,7 @@
 			"English": "But we just got here.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لكننا وصلنا للتو هنا.",
 			"Egyptian Arabic Audio": "eca-0362-2.mp3",
 			"Standard Arabic Audio": "msa-0362-2.mp3"
 		},
@@ -31,7 +31,7 @@
 			"English": "Did you see the waiter's hands?",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هل رأيت أيدي النادل؟",
 			"Egyptian Arabic Audio": "eca-0362-3.mp3",
 			"Standard Arabic Audio": "msa-0362-3.mp3"
 		},
@@ -41,7 +41,7 @@
 			"English": "No.",
 			"Word Count": 1,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لا.",
 			"Egyptian Arabic Audio": "eca-0362-4.mp3",
 			"Standard Arabic Audio": "msa-0362-4.mp3"
 		},
@@ -51,7 +51,7 @@
 			"English": "He had dirty fingernails.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كان له أظافر قذرة.",
 			"Egyptian Arabic Audio": "eca-0362-5.mp3",
 			"Standard Arabic Audio": "msa-0362-5.mp3"
 		},
@@ -61,7 +61,7 @@
 			"English": "Really?",
 			"Word Count": 1,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هل حقا؟",
 			"Egyptian Arabic Audio": "eca-0362-6.mp3",
 			"Standard Arabic Audio": "msa-0362-6.mp3"
 		},
@@ -71,7 +71,7 @@
 			"English": "His nails were black!",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كانت أظافره سوداء!",
 			"Egyptian Arabic Audio": "eca-0362-7.mp3",
 			"Standard Arabic Audio": "msa-0362-7.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "That's disgusting.",
 			"Word Count": 2,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هذا مقرف.",
 			"Egyptian Arabic Audio": "eca-0362-8.mp3",
 			"Standard Arabic Audio": "msa-0362-8.mp3"
 		},
@@ -91,7 +91,7 @@
 			"English": "And he poured water into our glasses.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وسكب الماء في نظاراتنا.",
 			"Egyptian Arabic Audio": "eca-0362-9.mp3",
 			"Standard Arabic Audio": "msa-0362-9.mp3"
 		},
@@ -101,7 +101,7 @@
 			"English": "Yuck! No water for me.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يوك! لا ماء بالنسبة لي.",
 			"Egyptian Arabic Audio": "eca-0362-10.mp3",
 			"Standard Arabic Audio": "msa-0362-10.mp3"
 		},
@@ -111,7 +111,7 @@
 			"English": "I wonder if the cooks' nails are dirty, too.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وأتساءل عما إذا كانت أظافر الطهاة متسخة أيضا.",
 			"Egyptian Arabic Audio": "eca-0362-11.mp3",
 			"Standard Arabic Audio": "msa-0362-11.mp3"
 		},
@@ -121,7 +121,7 @@
 			"English": "Who cares? Let's get out of here.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "من يهتم؟ فلنخرج من هنا.",
 			"Egyptian Arabic Audio": "eca-0362-12.mp3",
 			"Standard Arabic Audio": "msa-0362-12.mp3"
 		}

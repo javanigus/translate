@@ -9,7 +9,7 @@
 			"English": "Steven walks around his town.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ستيفن يمشي حول مدينته.",
 			"Egyptian Arabic Audio": "eca-0555-1.mp3",
 			"Standard Arabic Audio": "msa-0555-1.mp3"
 		},
@@ -18,7 +18,7 @@
 			"English": "He trips over something.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انه يرحل على شيء.",
 			"Egyptian Arabic Audio": "eca-0555-2.mp3",
 			"Standard Arabic Audio": "msa-0555-2.mp3"
 		},
@@ -27,7 +27,7 @@
 			"English": "He looks down.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انه ينظر الى أسفل.",
 			"Egyptian Arabic Audio": "eca-0555-3.mp3",
 			"Standard Arabic Audio": "msa-0555-3.mp3"
 		},
@@ -36,7 +36,7 @@
 			"English": "It is a wallet.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "إنها محفظة.",
 			"Egyptian Arabic Audio": "eca-0555-4.mp3",
 			"Standard Arabic Audio": "msa-0555-4.mp3"
 		},
@@ -45,7 +45,7 @@
 			"English": "There are $500 cash, credit cards, and a driver's license in the wallet.",
 			"Word Count": 13,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هناك 500 $ نقدا، وبطاقات الائتمان، ورخصة القيادة في المحفظة.",
 			"Egyptian Arabic Audio": "eca-0555-5.mp3",
 			"Standard Arabic Audio": "msa-0555-5.mp3"
 		},
@@ -54,7 +54,7 @@
 			"English": "Steven needs to return this to the owner.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ستيفن يحتاج إلى إعادة هذا إلى المالك.",
 			"Egyptian Arabic Audio": "eca-0555-6.mp3",
 			"Standard Arabic Audio": "msa-0555-6.mp3"
 		},
@@ -63,7 +63,7 @@
 			"English": "He takes the wallet to his town's lost and found center.",
 			"Word Count": 11,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ويأخذ المحفظة إلى مركز البلدة المفقود والمكتشف.",
 			"Egyptian Arabic Audio": "eca-0555-7.mp3",
 			"Standard Arabic Audio": "msa-0555-7.mp3"
 		},
@@ -72,7 +72,7 @@
 			"English": "Now, the owner can find it.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "الآن، يمكن للمالك العثور عليه.",
 			"Egyptian Arabic Audio": "eca-0555-8.mp3",
 			"Standard Arabic Audio": "msa-0555-8.mp3"
 		}

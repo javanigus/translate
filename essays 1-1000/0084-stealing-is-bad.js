@@ -9,7 +9,7 @@
 			"English": "Donna and her uncle go to a school supplies shop.",
 			"Word Count": 10,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "دونا وعمها تذهب إلى متجر اللوازم المدرسية.",
 			"Egyptian Arabic Audio": "eca-0084-1.mp3",
 			"Standard Arabic Audio": "msa-0084-1.mp3"
 		},
@@ -18,7 +18,7 @@
 			"English": "Donna sees a pink eraser.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "دونا يرى ممحاة وردي.",
 			"Egyptian Arabic Audio": "eca-0084-2.mp3",
 			"Standard Arabic Audio": "msa-0084-2.mp3"
 		},
@@ -27,7 +27,7 @@
 			"English": "She likes it.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انها تحبه.",
 			"Egyptian Arabic Audio": "eca-0084-3.mp3",
 			"Standard Arabic Audio": "msa-0084-3.mp3"
 		},
@@ -36,7 +36,7 @@
 			"English": "She does not have any money.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ليس لديها أي أموال.",
 			"Egyptian Arabic Audio": "eca-0084-4.mp3",
 			"Standard Arabic Audio": "msa-0084-4.mp3"
 		},
@@ -45,7 +45,7 @@
 			"English": "She puts the eraser in her pocket.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "إنها تضع الممحاة في جيبها.",
 			"Egyptian Arabic Audio": "eca-0084-5.mp3",
 			"Standard Arabic Audio": "msa-0084-5.mp3"
 		},
@@ -54,7 +54,7 @@
 			"English": "She runs out of the store.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انها نفدت من المخزن.",
 			"Egyptian Arabic Audio": "eca-0084-6.mp3",
 			"Standard Arabic Audio": "msa-0084-6.mp3"
 		},
@@ -63,7 +63,7 @@
 			"English": "Her uncle sees her.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "عمها يراها.",
 			"Egyptian Arabic Audio": "eca-0084-7.mp3",
 			"Standard Arabic Audio": "msa-0084-7.mp3"
 		},
@@ -72,7 +72,7 @@
 			"English": "He tells her that stealing is bad.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يقول لها أن السرقة سيئة.",
 			"Egyptian Arabic Audio": "eca-0084-8.mp3",
 			"Standard Arabic Audio": "msa-0084-8.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "He puts the eraser back.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انه يضع الممحاة الظهر.",
 			"Egyptian Arabic Audio": "eca-0084-9.mp3",
 			"Standard Arabic Audio": "msa-0084-9.mp3"
 		},
@@ -90,7 +90,7 @@
 			"English": "He makes Donna apologize to the manager.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انه يجعل دونا الاعتذار للمدير.",
 			"Egyptian Arabic Audio": "eca-0084-10.mp3",
 			"Standard Arabic Audio": "msa-0084-10.mp3"
 		}

@@ -9,7 +9,7 @@
 			"English": "He paid for his food, got his receipt, and walked out to his car.",
 			"Word Count": 14,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "دفع ثمن طعامه، وحصل على إيصاله، وخرج إلى سيارته.",
 			"Egyptian Arabic Audio": "eca-2184-1.mp3",
 			"Standard Arabic Audio": "msa-2184-1.mp3"
 		},
@@ -18,7 +18,7 @@
 			"English": "He put the food into his trunk and drove home.",
 			"Word Count": 10,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وضع الطعام في جذعه ودفع المنزل.",
 			"Egyptian Arabic Audio": "eca-2184-2.mp3",
 			"Standard Arabic Audio": "msa-2184-2.mp3"
 		}

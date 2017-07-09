@@ -11,7 +11,7 @@
 			"English": "Do you live in the dorms?",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هل تعيش في المسكن؟",
 			"Egyptian Arabic Audio": "eca-0013-1.mp3",
 			"Standard Arabic Audio": "msa-0013-1.mp3"
 		},
@@ -21,7 +21,7 @@
 			"English": "Yes, I do.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أجل أقبل.",
 			"Egyptian Arabic Audio": "eca-0013-2.mp3",
 			"Standard Arabic Audio": "msa-0013-2.mp3"
 		},
@@ -31,7 +31,7 @@
 			"English": "What do you like about it?",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ما الذي يعجبك في ذلك؟",
 			"Egyptian Arabic Audio": "eca-0013-3.mp3",
 			"Standard Arabic Audio": "msa-0013-3.mp3"
 		},
@@ -41,7 +41,7 @@
 			"English": "I get to see my friends almost all the time.",
 			"Word Count": 10,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أحصل على رؤية أصدقائي تقريبا في كل وقت.",
 			"Egyptian Arabic Audio": "eca-0013-4.mp3",
 			"Standard Arabic Audio": "msa-0013-4.mp3"
 		},
@@ -51,7 +51,7 @@
 			"English": "What else?",
 			"Word Count": 2,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ماذا بعد؟",
 			"Egyptian Arabic Audio": "eca-0013-5.mp3",
 			"Standard Arabic Audio": "msa-0013-5.mp3"
 		},
@@ -61,7 +61,7 @@
 			"English": "I don't have to see my parents.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنا لا يجب أن أرى والدي.",
 			"Egyptian Arabic Audio": "eca-0013-6.mp3",
 			"Standard Arabic Audio": "msa-0013-6.mp3"
 		},
@@ -71,7 +71,7 @@
 			"English": "How much does it cost to dorm?",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كم يكلف النوم؟",
 			"Egyptian Arabic Audio": "eca-0013-7.mp3",
 			"Standard Arabic Audio": "msa-0013-7.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "It is very expensive.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنها مكلفة للغاية.",
 			"Egyptian Arabic Audio": "eca-0013-8.mp3",
 			"Standard Arabic Audio": "msa-0013-8.mp3"
 		},
@@ -91,7 +91,7 @@
 			"English": "Tell me exactly how much.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "قل لي بالضبط كم.",
 			"Egyptian Arabic Audio": "eca-0013-9.mp3",
 			"Standard Arabic Audio": "msa-0013-9.mp3"
 		},
@@ -101,7 +101,7 @@
 			"English": "You're going to faint after I tell you.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنت ذاهب إلى خافت بعد أن أقول لك.",
 			"Egyptian Arabic Audio": "eca-0013-10.mp3",
 			"Standard Arabic Audio": "msa-0013-10.mp3"
 		},
@@ -111,7 +111,7 @@
 			"English": "Just tell me.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "فقط أخبرني.",
 			"Egyptian Arabic Audio": "eca-0013-11.mp3",
 			"Standard Arabic Audio": "msa-0013-11.mp3"
 		},
@@ -121,7 +121,7 @@
 			"English": "It costs $15,000 per year.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وتبلغ تكلفته 000 15 دولار في السنة.",
 			"Egyptian Arabic Audio": "eca-0013-12.mp3",
 			"Standard Arabic Audio": "msa-0013-12.mp3"
 		}

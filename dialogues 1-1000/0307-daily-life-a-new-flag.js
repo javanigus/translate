@@ -11,7 +11,7 @@
 			"English": "I don't like our flag.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنا لا أحب علمنا.",
 			"Egyptian Arabic Audio": "eca-0307-1.mp3",
 			"Standard Arabic Audio": "msa-0307-1.mp3"
 		},
@@ -21,7 +21,7 @@
 			"English": "What's the matter with it?",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ما المشكلة معها؟",
 			"Egyptian Arabic Audio": "eca-0307-2.mp3",
 			"Standard Arabic Audio": "msa-0307-2.mp3"
 		},
@@ -31,7 +31,7 @@
 			"English": "It's too much like other flags.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انها مثل الكثير من الأعلام الأخرى.",
 			"Egyptian Arabic Audio": "eca-0307-3.mp3",
 			"Standard Arabic Audio": "msa-0307-3.mp3"
 		},
@@ -41,7 +41,7 @@
 			"English": "Yes, a lot of flags have stripes.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "نعم، الكثير من الأعلام لديها المشارب.",
 			"Egyptian Arabic Audio": "eca-0307-4.mp3",
 			"Standard Arabic Audio": "msa-0307-4.mp3"
 		},
@@ -51,7 +51,7 @@
 			"English": "A flag should be pretty.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يجب أن يكون العلم جميلة.",
 			"Egyptian Arabic Audio": "eca-0307-5.mp3",
 			"Standard Arabic Audio": "msa-0307-5.mp3"
 		},
@@ -61,7 +61,7 @@
 			"English": "What should our flag look like?",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ما الذي يجب أن يكون عليه علمنا؟",
 			"Egyptian Arabic Audio": "eca-0307-6.mp3",
 			"Standard Arabic Audio": "msa-0307-6.mp3"
 		},
@@ -71,7 +71,7 @@
 			"English": "It should have a pretty woman on it.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يجب أن يكون امرأة جميلة على ذلك.",
 			"Egyptian Arabic Audio": "eca-0307-7.mp3",
 			"Standard Arabic Audio": "msa-0307-7.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "That's ridiculous!",
 			"Word Count": 2,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هذا كلام سخيف!",
 			"Egyptian Arabic Audio": "eca-0307-8.mp3",
 			"Standard Arabic Audio": "msa-0307-8.mp3"
 		},
@@ -91,7 +91,7 @@
 			"English": "You don't like pretty women?",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنت لا تحب النساء الجميلات؟",
 			"Egyptian Arabic Audio": "eca-0307-9.mp3",
 			"Standard Arabic Audio": "msa-0307-9.mp3"
 		},
@@ -101,7 +101,7 @@
 			"English": "Of course I do. But not on our flag!",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "بالطبع افعل. ولكن ليس على علمنا!",
 			"Egyptian Arabic Audio": "eca-0307-10.mp3",
 			"Standard Arabic Audio": "msa-0307-10.mp3"
 		},
@@ -111,7 +111,7 @@
 			"English": "Every nation should have a pretty woman on their flag.",
 			"Word Count": 10,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يجب أن يكون لكل أمة امرأة جميلة على علمها.",
 			"Egyptian Arabic Audio": "eca-0307-11.mp3",
 			"Standard Arabic Audio": "msa-0307-11.mp3"
 		},
@@ -121,7 +121,7 @@
 			"English": "You can't go to war carrying a flag with a woman on it!",
 			"Word Count": 13,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لا يمكنك الذهاب إلى الحرب تحمل العلم مع امرأة على ذلك!",
 			"Egyptian Arabic Audio": "eca-0307-12.mp3",
 			"Standard Arabic Audio": "msa-0307-12.mp3"
 		}

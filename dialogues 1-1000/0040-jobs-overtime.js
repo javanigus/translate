@@ -11,7 +11,7 @@
 			"English": "I have overtime next week.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لدي العمل الإضافي الأسبوع المقبل.",
 			"Egyptian Arabic Audio": "eca-0040-1.mp3",
 			"Standard Arabic Audio": "msa-0040-1.mp3"
 		},
@@ -21,7 +21,7 @@
 			"English": "What does that mean?",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ماذا يعني ذالك؟",
 			"Egyptian Arabic Audio": "eca-0040-2.mp3",
 			"Standard Arabic Audio": "msa-0040-2.mp3"
 		},
@@ -31,7 +31,7 @@
 			"English": "It means I'm working more hours than usual.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وهذا يعني أنني أعمل ساعات أكثر من المعتاد.",
 			"Egyptian Arabic Audio": "eca-0040-3.mp3",
 			"Standard Arabic Audio": "msa-0040-3.mp3"
 		},
@@ -41,7 +41,7 @@
 			"English": "What are your usual hours?",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ما هي ساعاتك المعتادة؟",
 			"Egyptian Arabic Audio": "eca-0040-4.mp3",
 			"Standard Arabic Audio": "msa-0040-4.mp3"
 		},
@@ -51,7 +51,7 @@
 			"English": "I usually work 8 hours a day for five days.",
 			"Word Count": 10,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "عادة ما أعمل 8 ساعات يوميا لمدة خمسة أيام.",
 			"Egyptian Arabic Audio": "eca-0040-5.mp3",
 			"Standard Arabic Audio": "msa-0040-5.mp3"
 		},
@@ -61,7 +61,7 @@
 			"English": "How about next week?",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ماذا عن الأسبوع المقبل؟",
 			"Egyptian Arabic Audio": "eca-0040-6.mp3",
 			"Standard Arabic Audio": "msa-0040-6.mp3"
 		},
@@ -71,7 +71,7 @@
 			"English": "I'm working another 8 hours on Saturday.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنا أعمل 8 ساعات أخرى يوم السبت.",
 			"Egyptian Arabic Audio": "eca-0040-7.mp3",
 			"Standard Arabic Audio": "msa-0040-7.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "But Mom was planning a party on Saturday.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ولكن أمي تخطط لحزب يوم السبت.",
 			"Egyptian Arabic Audio": "eca-0040-8.mp3",
 			"Standard Arabic Audio": "msa-0040-8.mp3"
 		},
@@ -91,7 +91,7 @@
 			"English": "I can't make it.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لا أستطيع جعله.",
 			"Egyptian Arabic Audio": "eca-0040-9.mp3",
 			"Standard Arabic Audio": "msa-0040-9.mp3"
 		},
@@ -101,7 +101,7 @@
 			"English": "Can't you tell your boss?",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لا يمكنك أن تخبر رئيسك في العمل؟",
 			"Egyptian Arabic Audio": "eca-0040-10.mp3",
 			"Standard Arabic Audio": "msa-0040-10.mp3"
 		},
@@ -111,7 +111,7 @@
 			"English": "That's not how the real world works.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هذه ليست الطريقة التي يعمل بها العالم الحقيقي.",
 			"Egyptian Arabic Audio": "eca-0040-11.mp3",
 			"Standard Arabic Audio": "msa-0040-11.mp3"
 		},
@@ -121,7 +121,7 @@
 			"English": "I wish the world was perfect.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أتمنى أن العالم كان مثاليا.",
 			"Egyptian Arabic Audio": "eca-0040-12.mp3",
 			"Standard Arabic Audio": "msa-0040-12.mp3"
 		}

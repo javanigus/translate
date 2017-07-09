@@ -9,7 +9,7 @@
 			"English": "The police charged Charles with driving under the influence, running a stop sign, causing an accident, reckless endangerment, and littering�broken beer bottles were all over the place.",
 			"Word Count": 27,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "واتهمت الشرطة تشارلز بالقيادة تحت النفوذ، وتدير علامة توقف، مما تسبب في وقوع حادث، وتعريض للخطر المتهور، والنفايات زجاجات البيرة المكسورة في كل مكان.",
 			"Egyptian Arabic Audio": "eca-2150-1.mp3",
 			"Standard Arabic Audio": "msa-2150-1.mp3"
 		},
@@ -18,7 +18,7 @@
 			"English": "They charged his two friends with drinking in a moving vehicle and littering.",
 			"Word Count": 13,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "واتهموا صديقاته بالشرب في سيارة متحركة ونفخ.",
 			"Egyptian Arabic Audio": "eca-2150-2.mp3",
 			"Standard Arabic Audio": "msa-2150-2.mp3"
 		}

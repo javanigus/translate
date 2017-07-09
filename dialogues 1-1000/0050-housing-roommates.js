@@ -11,7 +11,7 @@
 			"English": "How many roommates do you have?",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كم عدد غرف النزلاء لديك؟",
 			"Egyptian Arabic Audio": "eca-0050-1.mp3",
 			"Standard Arabic Audio": "msa-0050-1.mp3"
 		},
@@ -21,7 +21,7 @@
 			"English": "There are five of us in total.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هناك خمسة منا في المجموع.",
 			"Egyptian Arabic Audio": "eca-0050-2.mp3",
 			"Standard Arabic Audio": "msa-0050-2.mp3"
 		},
@@ -31,7 +31,7 @@
 			"English": "Wow! Don't you ever fight?",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "نجاح باهر لا تقاتل من أي وقت مضى؟",
 			"Egyptian Arabic Audio": "eca-0050-3.mp3",
 			"Standard Arabic Audio": "msa-0050-3.mp3"
 		},
@@ -41,7 +41,7 @@
 			"English": "Sometimes, but we try not to.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "في بعض الأحيان، ولكن نحن نحاول عدم.",
 			"Egyptian Arabic Audio": "eca-0050-4.mp3",
 			"Standard Arabic Audio": "msa-0050-4.mp3"
 		},
@@ -51,7 +51,7 @@
 			"English": "Who does all the household chores?",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "من يقوم بجميع الأعمال المنزلية؟",
 			"Egyptian Arabic Audio": "eca-0050-5.mp3",
 			"Standard Arabic Audio": "msa-0050-5.mp3"
 		},
@@ -61,7 +61,7 @@
 			"English": "We take turns so that it's fair.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "نحن يتناوبون بحيث يكون عادلا.",
 			"Egyptian Arabic Audio": "eca-0050-6.mp3",
 			"Standard Arabic Audio": "msa-0050-6.mp3"
 		},
@@ -71,7 +71,7 @@
 			"English": "That's a good way to do things.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هذا هو وسيلة جيدة للقيام بالأشياء.",
 			"Egyptian Arabic Audio": "eca-0050-7.mp3",
 			"Standard Arabic Audio": "msa-0050-7.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "Yes it is, and it helps us get along better.",
 			"Word Count": 10,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "نعم هو، وأنه يساعدنا على الحصول على طول أفضل.",
 			"Egyptian Arabic Audio": "eca-0050-8.mp3",
 			"Standard Arabic Audio": "msa-0050-8.mp3"
 		},
@@ -91,7 +91,7 @@
 			"English": "What about when one of you has a girlfriend over?",
 			"Word Count": 10,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ماذا عن عندما واحد منكم لديه صديقة أكثر؟",
 			"Egyptian Arabic Audio": "eca-0050-9.mp3",
 			"Standard Arabic Audio": "msa-0050-9.mp3"
 		},
@@ -101,7 +101,7 @@
 			"English": "We agreed to try not to have them over too often.",
 			"Word Count": 11,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "واتفقنا على ألا نحاول تجاوزها.",
 			"Egyptian Arabic Audio": "eca-0050-10.mp3",
 			"Standard Arabic Audio": "msa-0050-10.mp3"
 		},
@@ -111,7 +111,7 @@
 			"English": "I guess it would be a tight squeeze.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أعتقد أنه سيكون ضغط ضيق.",
 			"Egyptian Arabic Audio": "eca-0050-11.mp3",
 			"Standard Arabic Audio": "msa-0050-11.mp3"
 		},
@@ -121,7 +121,7 @@
 			"English": "Too tight for any of our liking.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ضيق جدا لأي من تروق لدينا.",
 			"Egyptian Arabic Audio": "eca-0050-12.mp3",
 			"Standard Arabic Audio": "msa-0050-12.mp3"
 		}

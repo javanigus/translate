@@ -9,7 +9,7 @@
 			"English": "The bus is full of passengers.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "الحافلة مليئة بالركاب.",
 			"Egyptian Arabic Audio": "eca-1147-1.mp3",
 			"Standard Arabic Audio": "msa-1147-1.mp3"
 		},
@@ -18,7 +18,7 @@
 			"English": "It is a tour bus.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "بل هو حافلة سياحية.",
 			"Egyptian Arabic Audio": "eca-1147-2.mp3",
 			"Standard Arabic Audio": "msa-1147-2.mp3"
 		},
@@ -27,7 +27,7 @@
 			"English": "It is a double-decker.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "بل هو طابقين.",
 			"Egyptian Arabic Audio": "eca-1147-3.mp3",
 			"Standard Arabic Audio": "msa-1147-3.mp3"
 		},
@@ -36,7 +36,7 @@
 			"English": "Tourists sit on the top deck.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "السياح يجلسون على سطح السفينة العلوي.",
 			"Egyptian Arabic Audio": "eca-1147-4.mp3",
 			"Standard Arabic Audio": "msa-1147-4.mp3"
 		},
@@ -45,7 +45,7 @@
 			"English": "A guide has a microphone.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يحتوي الدليل على ميكروفون.",
 			"Egyptian Arabic Audio": "eca-1147-5.mp3",
 			"Standard Arabic Audio": "msa-1147-5.mp3"
 		},
@@ -54,7 +54,7 @@
 			"English": "He tells the tourists about the city.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يقول السياح عن المدينة.",
 			"Egyptian Arabic Audio": "eca-1147-6.mp3",
 			"Standard Arabic Audio": "msa-1147-6.mp3"
 		},
@@ -63,7 +63,7 @@
 			"English": "He points out the buildings.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ويشير إلى المباني.",
 			"Egyptian Arabic Audio": "eca-1147-7.mp3",
 			"Standard Arabic Audio": "msa-1147-7.mp3"
 		},
@@ -72,7 +72,7 @@
 			"English": "He gives the history of each district.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انه يعطي تاريخ كل منطقة.",
 			"Egyptian Arabic Audio": "eca-1147-8.mp3",
 			"Standard Arabic Audio": "msa-1147-8.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "He tells jokes.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يقول النكات.",
 			"Egyptian Arabic Audio": "eca-1147-9.mp3",
 			"Standard Arabic Audio": "msa-1147-9.mp3"
 		},
@@ -90,7 +90,7 @@
 			"English": "Tourists enjoy looking, listening, and learning.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "السياح التمتع يبحث، والاستماع، والتعلم.",
 			"Egyptian Arabic Audio": "eca-1147-10.mp3",
 			"Standard Arabic Audio": "msa-1147-10.mp3"
 		}

@@ -9,7 +9,7 @@
 			"English": "A plastic bag lines the trashcan.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كيس من البلاستيك خطوط سلة المهملات.",
 			"Egyptian Arabic Audio": "eca-1101-1.mp3",
 			"Standard Arabic Audio": "msa-1101-1.mp3"
 		},
@@ -18,7 +18,7 @@
 			"English": "The bag is full of trash.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "الحقيبة مليئة القمامة.",
 			"Egyptian Arabic Audio": "eca-1101-2.mp3",
 			"Standard Arabic Audio": "msa-1101-2.mp3"
 		},
@@ -27,7 +27,7 @@
 			"English": "He ties the top of the bag.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يربط الجزء العلوي من الحقيبة.",
 			"Egyptian Arabic Audio": "eca-1101-3.mp3",
 			"Standard Arabic Audio": "msa-1101-3.mp3"
 		},
@@ -36,7 +36,7 @@
 			"English": "He takes it out of the trashcan.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انه يأخذ من سلة المهملات.",
 			"Egyptian Arabic Audio": "eca-1101-4.mp3",
 			"Standard Arabic Audio": "msa-1101-4.mp3"
 		},
@@ -45,7 +45,7 @@
 			"English": "He feels the bottom of the bag.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يشعر الجزء السفلي من الحقيبة.",
 			"Egyptian Arabic Audio": "eca-1101-5.mp3",
 			"Standard Arabic Audio": "msa-1101-5.mp3"
 		},
@@ -54,7 +54,7 @@
 			"English": "It is dry.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنها جافة.",
 			"Egyptian Arabic Audio": "eca-1101-6.mp3",
 			"Standard Arabic Audio": "msa-1101-6.mp3"
 		},
@@ -63,7 +63,7 @@
 			"English": "There is no leak.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لا يوجد تسرب.",
 			"Egyptian Arabic Audio": "eca-1101-7.mp3",
 			"Standard Arabic Audio": "msa-1101-7.mp3"
 		},
@@ -72,7 +72,7 @@
 			"English": "He puts an empty bag into the trashcan.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يضع حقيبة فارغة في سلة المهملات.",
 			"Egyptian Arabic Audio": "eca-1101-8.mp3",
 			"Standard Arabic Audio": "msa-1101-8.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "He takes the full bag outside.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يأخذ حقيبة كاملة خارج.",
 			"Egyptian Arabic Audio": "eca-1101-9.mp3",
 			"Standard Arabic Audio": "msa-1101-9.mp3"
 		}

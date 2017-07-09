@@ -11,7 +11,7 @@
 			"English": "Is this the water company?",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هل هذه هي شركة المياه؟",
 			"Egyptian Arabic Audio": "eca-1109-1.mp3",
 			"Standard Arabic Audio": "msa-1109-1.mp3"
 		},
@@ -21,7 +21,7 @@
 			"English": "This is the water company. May I help you?",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هذه هي شركة المياه. هل لى أن أساعدك؟",
 			"Egyptian Arabic Audio": "eca-1109-2.mp3",
 			"Standard Arabic Audio": "msa-1109-2.mp3"
 		},
@@ -31,7 +31,7 @@
 			"English": "As a matter of fact, you can.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "في الواقع، يمكنك.",
 			"Egyptian Arabic Audio": "eca-1109-3.mp3",
 			"Standard Arabic Audio": "msa-1109-3.mp3"
 		},
@@ -41,7 +41,7 @@
 			"English": "What do you need?",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ماذا تحتاج؟",
 			"Egyptian Arabic Audio": "eca-1109-4.mp3",
 			"Standard Arabic Audio": "msa-1109-4.mp3"
 		},
@@ -51,7 +51,7 @@
 			"English": "In a few days, I'm going to be moving.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "في غضون أيام قليلة، سوف أكون متحركا.",
 			"Egyptian Arabic Audio": "eca-1109-5.mp3",
 			"Standard Arabic Audio": "msa-1109-5.mp3"
 		},
@@ -61,7 +61,7 @@
 			"English": "Okay, and what do you need help with?",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "حسنا، وماذا تحتاج إلى مساعدة؟",
 			"Egyptian Arabic Audio": "eca-1109-6.mp3",
 			"Standard Arabic Audio": "msa-1109-6.mp3"
 		},
@@ -71,7 +71,7 @@
 			"English": "I'm going to need the water turned on in my new house.",
 			"Word Count": 12,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "سوف أحتاج إلى المياه تحولت في بيتي الجديد.",
 			"Egyptian Arabic Audio": "eca-1109-7.mp3",
 			"Standard Arabic Audio": "msa-1109-7.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "When do you need your water turned on?",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "متى تحتاج المياه الخاصة بك على تشغيل؟",
 			"Egyptian Arabic Audio": "eca-1109-8.mp3",
 			"Standard Arabic Audio": "msa-1109-8.mp3"
 		},
@@ -91,7 +91,7 @@
 			"English": "I'm going to need it done by Saturday.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "سوف أحتاج إلى القيام به بحلول يوم السبت.",
 			"Egyptian Arabic Audio": "eca-1109-9.mp3",
 			"Standard Arabic Audio": "msa-1109-9.mp3"
 		},
@@ -101,7 +101,7 @@
 			"English": "That shouldn't be a problem.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وينبغي ألا يكون ذلك مشكلة.",
 			"Egyptian Arabic Audio": "eca-1109-10.mp3",
 			"Standard Arabic Audio": "msa-1109-10.mp3"
 		},
@@ -111,7 +111,7 @@
 			"English": "What do you need from me in order to do that?",
 			"Word Count": 11,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ماذا تحتاج مني من أجل القيام بذلك؟",
 			"Egyptian Arabic Audio": "eca-1109-11.mp3",
 			"Standard Arabic Audio": "msa-1109-11.mp3"
 		},
@@ -121,7 +121,7 @@
 			"English": "All I need is your name, social security number, and your new address.",
 			"Word Count": 13,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كل ما أحتاج إليه هو اسمك ورقم الضمان الاجتماعي وعنوانك الجديد.",
 			"Egyptian Arabic Audio": "eca-1109-12.mp3",
 			"Standard Arabic Audio": "msa-1109-12.mp3"
 		},
@@ -131,7 +131,7 @@
 			"English": "Am I speaking with someone from the water company?",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هل أتحدث مع شخص من شركة المياه؟",
 			"Egyptian Arabic Audio": "eca-1109-13.mp3",
 			"Standard Arabic Audio": "msa-1109-13.mp3"
 		},
@@ -141,7 +141,7 @@
 			"English": "Yes. Can I assist you with something?",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "نعم فعلا. هل يمكنني مساعدتك بشيء ما؟",
 			"Egyptian Arabic Audio": "eca-1109-14.mp3",
 			"Standard Arabic Audio": "msa-1109-14.mp3"
 		},
@@ -151,7 +151,7 @@
 			"English": "I certainly hope so.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنا بالتأكيد نأمل ذلك.",
 			"Egyptian Arabic Audio": "eca-1109-15.mp3",
 			"Standard Arabic Audio": "msa-1109-15.mp3"
 		},
@@ -161,7 +161,7 @@
 			"English": "What's the problem?",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ما هي المشكلة؟",
 			"Egyptian Arabic Audio": "eca-1109-16.mp3",
 			"Standard Arabic Audio": "msa-1109-16.mp3"
 		},
@@ -171,7 +171,7 @@
 			"English": "I will be moving into a new house in a few days.",
 			"Word Count": 12,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "سوف أتحرك إلى منزل جديد في غضون أيام قليلة.",
 			"Egyptian Arabic Audio": "eca-1109-17.mp3",
 			"Standard Arabic Audio": "msa-1109-17.mp3"
 		},
@@ -181,7 +181,7 @@
 			"English": "What exactly do you need my help with?",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ما الذي تحتاجه بالضبط لمساعدتي؟",
 			"Egyptian Arabic Audio": "eca-1109-18.mp3",
 			"Standard Arabic Audio": "msa-1109-18.mp3"
 		},
@@ -191,7 +191,7 @@
 			"English": "I'll need you to turn the water on in my house.",
 			"Word Count": 11,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "سأحتاج لك لتحويل المياه في بيتي.",
 			"Egyptian Arabic Audio": "eca-1109-19.mp3",
 			"Standard Arabic Audio": "msa-1109-19.mp3"
 		},
@@ -201,7 +201,7 @@
 			"English": "What day are you moving in?",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ما هو اليوم الذي تتحرك فيه؟",
 			"Egyptian Arabic Audio": "eca-1109-20.mp3",
 			"Standard Arabic Audio": "msa-1109-20.mp3"
 		},
@@ -211,7 +211,7 @@
 			"English": "I'm moving in this Saturday.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنا تتحرك في هذا السبت.",
 			"Egyptian Arabic Audio": "eca-1109-21.mp3",
 			"Standard Arabic Audio": "msa-1109-21.mp3"
 		},
@@ -221,7 +221,7 @@
 			"English": "We can help you with that.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يمكننا مساعدتك في ذلك.",
 			"Egyptian Arabic Audio": "eca-1109-22.mp3",
 			"Standard Arabic Audio": "msa-1109-22.mp3"
 		},
@@ -231,7 +231,7 @@
 			"English": "Do I need to give you any information?",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هل أحتاج إلى إعطائك أي معلومات؟",
 			"Egyptian Arabic Audio": "eca-1109-23.mp3",
 			"Standard Arabic Audio": "msa-1109-23.mp3"
 		},
@@ -241,7 +241,7 @@
 			"English": "You need to give me your full name, social, and the address of your new  \thouse.",
 			"Word Count": 16,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "تحتاج إلى أن تعطيني اسمك الكامل، والاجتماعية، وعنوان المنزل الجديد الخاص بك.",
 			"Egyptian Arabic Audio": "eca-1109-24.mp3",
 			"Standard Arabic Audio": "msa-1109-24.mp3"
 		},
@@ -251,7 +251,7 @@
 			"English": "I need to speak with someone from the water company.",
 			"Word Count": 10,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أحتاج إلى التحدث مع شخص من شركة المياه.",
 			"Egyptian Arabic Audio": "eca-1109-25.mp3",
 			"Standard Arabic Audio": "msa-1109-25.mp3"
 		},
@@ -261,7 +261,7 @@
 			"English": "Is there something that I can do for you?",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هل هناك شيء يمكنني القيام به بالنسبة لك؟",
 			"Egyptian Arabic Audio": "eca-1109-26.mp3",
 			"Standard Arabic Audio": "msa-1109-26.mp3"
 		},
@@ -271,7 +271,7 @@
 			"English": "Actually, there is something I need help with.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "في الواقع، هناك شيء أنا بحاجة إلى مساعدة مع.",
 			"Egyptian Arabic Audio": "eca-1109-27.mp3",
 			"Standard Arabic Audio": "msa-1109-27.mp3"
 		},
@@ -281,7 +281,7 @@
 			"English": "How may I assist you?",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كيف يمكن أن نساعدك؟",
 			"Egyptian Arabic Audio": "eca-1109-28.mp3",
 			"Standard Arabic Audio": "msa-1109-28.mp3"
 		},
@@ -291,7 +291,7 @@
 			"English": "I'm going to be moving in a few days.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنا ذاهب إلى أن تتحرك في غضون أيام قليلة.",
 			"Egyptian Arabic Audio": "eca-1109-29.mp3",
 			"Standard Arabic Audio": "msa-1109-29.mp3"
 		},
@@ -301,7 +301,7 @@
 			"English": "How can I assist you with your move?",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كيف يمكنني مساعدتك في التحرك الخاص بك؟",
 			"Egyptian Arabic Audio": "eca-1109-30.mp3",
 			"Standard Arabic Audio": "msa-1109-30.mp3"
 		},
@@ -311,7 +311,7 @@
 			"English": "My water needs to be turned on.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يحتاج الماء إلى تشغيل.",
 			"Egyptian Arabic Audio": "eca-1109-31.mp3",
 			"Standard Arabic Audio": "msa-1109-31.mp3"
 		},
@@ -321,7 +321,7 @@
 			"English": "Okay, when exactly will you need this done?",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "حسنا، عندما بالضبط سوف تحتاج هذا القيام به؟",
 			"Egyptian Arabic Audio": "eca-1109-32.mp3",
 			"Standard Arabic Audio": "msa-1109-32.mp3"
 		},
@@ -331,7 +331,7 @@
 			"English": "I need the water turned on no later than Saturday evening.",
 			"Word Count": 11,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أحتاج إلى المياه في موعد لا يتجاوز مساء السبت.",
 			"Egyptian Arabic Audio": "eca-1109-33.mp3",
 			"Standard Arabic Audio": "msa-1109-33.mp3"
 		},
@@ -341,7 +341,7 @@
 			"English": "I can have it turned on for you by then.",
 			"Word Count": 10,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنا يمكن أن يكون تشغيله بالنسبة لك من قبل ذلك الحين.",
 			"Egyptian Arabic Audio": "eca-1109-34.mp3",
 			"Standard Arabic Audio": "msa-1109-34.mp3"
 		},
@@ -351,7 +351,7 @@
 			"English": "What information do I need to give you to have that done?",
 			"Word Count": 12,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ما هي المعلومات التي أحتاجها لتزويدك بذلك؟",
 			"Egyptian Arabic Audio": "eca-1109-35.mp3",
 			"Standard Arabic Audio": "msa-1109-35.mp3"
 		},
@@ -361,7 +361,7 @@
 			"English": "What I need is your social security number, full name, and your new  \taddress.",
 			"Word Count": 14,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ما أحتاجه هو رقم الضمان الاجتماعي، والاسم الكامل، وعنوانك الجديد.",
 			"Egyptian Arabic Audio": "eca-1109-36.mp3",
 			"Standard Arabic Audio": "msa-1109-36.mp3"
 		}

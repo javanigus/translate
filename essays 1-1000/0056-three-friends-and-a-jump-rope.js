@@ -9,7 +9,7 @@
 			"English": "It is break time.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "فمن كسر الوقت.",
 			"Egyptian Arabic Audio": "eca-0056-1.mp3",
 			"Standard Arabic Audio": "msa-0056-1.mp3"
 		},
@@ -18,7 +18,7 @@
 			"English": "The students go out to play.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يذهب الطلاب للعب.",
 			"Egyptian Arabic Audio": "eca-0056-2.mp3",
 			"Standard Arabic Audio": "msa-0056-2.mp3"
 		},
@@ -27,7 +27,7 @@
 			"English": "Three friends play with a jump rope.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ثلاثة أصدقاء اللعب مع قفزة القفز.",
 			"Egyptian Arabic Audio": "eca-0056-3.mp3",
 			"Standard Arabic Audio": "msa-0056-3.mp3"
 		},
@@ -36,7 +36,7 @@
 			"English": "Elizabeth holds one end.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "إليزابيث يحمل نهاية واحدة.",
 			"Egyptian Arabic Audio": "eca-0056-4.mp3",
 			"Standard Arabic Audio": "msa-0056-4.mp3"
 		},
@@ -45,7 +45,7 @@
 			"English": "Susan holds the other end.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "سوزان يحمل الطرف الآخر.",
 			"Egyptian Arabic Audio": "eca-0056-5.mp3",
 			"Standard Arabic Audio": "msa-0056-5.mp3"
 		},
@@ -54,7 +54,7 @@
 			"English": "They stand apart from each other.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنها تقف بعيدا عن بعضها البعض.",
 			"Egyptian Arabic Audio": "eca-0056-6.mp3",
 			"Standard Arabic Audio": "msa-0056-6.mp3"
 		},
@@ -63,7 +63,7 @@
 			"English": "They swing the rope.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنها تأرجح الحبل.",
 			"Egyptian Arabic Audio": "eca-0056-7.mp3",
 			"Standard Arabic Audio": "msa-0056-7.mp3"
 		},
@@ -72,7 +72,7 @@
 			"English": "Maria jumps in.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ماريا يقفز في.",
 			"Egyptian Arabic Audio": "eca-0056-8.mp3",
 			"Standard Arabic Audio": "msa-0056-8.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "The rope goes over her head.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "الحبل يذهب فوق رأسها.",
 			"Egyptian Arabic Audio": "eca-0056-9.mp3",
 			"Standard Arabic Audio": "msa-0056-9.mp3"
 		},
@@ -90,7 +90,7 @@
 			"English": "She is good.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "إنها جيده.",
 			"Egyptian Arabic Audio": "eca-0056-10.mp3",
 			"Standard Arabic Audio": "msa-0056-10.mp3"
 		},
@@ -99,7 +99,7 @@
 			"English": "She keeps jumping over the rope.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وقالت انها تحافظ على القفز فوق الحبل.",
 			"Egyptian Arabic Audio": "eca-0056-11.mp3",
 			"Standard Arabic Audio": "msa-0056-11.mp3"
 		}

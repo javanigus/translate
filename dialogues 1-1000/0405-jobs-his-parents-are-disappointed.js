@@ -11,7 +11,7 @@
 			"English": "I was going to be a doctor.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كنت ذاهبا ليكون طبيبا.",
 			"Egyptian Arabic Audio": "eca-0405-1.mp3",
 			"Standard Arabic Audio": "msa-0405-1.mp3"
 		},
@@ -21,7 +21,7 @@
 			"English": "What happened to your plans?",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ماذا حدث لخططك؟",
 			"Egyptian Arabic Audio": "eca-0405-2.mp3",
 			"Standard Arabic Audio": "msa-0405-2.mp3"
 		},
@@ -31,7 +31,7 @@
 			"English": "I got a D in college chemistry.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "حصلت على D في الكيمياء الكلية.",
 			"Egyptian Arabic Audio": "eca-0405-3.mp3",
 			"Standard Arabic Audio": "msa-0405-3.mp3"
 		},
@@ -41,7 +41,7 @@
 			"English": "Well, a D is better than an F.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "حسنا، D أفضل من F.",
 			"Egyptian Arabic Audio": "eca-0405-4.mp3",
 			"Standard Arabic Audio": "msa-0405-4.mp3"
 		},
@@ -51,7 +51,7 @@
 			"English": "A tutor helped me get the D!",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ساعدني المعلم في الحصول على D!",
 			"Egyptian Arabic Audio": "eca-0405-5.mp3",
 			"Standard Arabic Audio": "msa-0405-5.mp3"
 		},
@@ -61,7 +61,7 @@
 			"English": "So, you didn't become a doctor.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لذلك، أنت لم تصبح طبيبا.",
 			"Egyptian Arabic Audio": "eca-0405-6.mp3",
 			"Standard Arabic Audio": "msa-0405-6.mp3"
 		},
@@ -71,7 +71,7 @@
 			"English": "And now I'm glad that I didn't.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "والآن أنا سعيد لأنني لم أكن.",
 			"Egyptian Arabic Audio": "eca-0405-7.mp3",
 			"Standard Arabic Audio": "msa-0405-7.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "Why's that?",
 			"Word Count": 2,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لماذا هذا؟",
 			"Egyptian Arabic Audio": "eca-0405-8.mp3",
 			"Standard Arabic Audio": "msa-0405-8.mp3"
 		},
@@ -91,7 +91,7 @@
 			"English": "A hospital is the most dangerous place in the world.",
 			"Word Count": 10,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "المستشفى هو أخطر مكان في العالم.",
 			"Egyptian Arabic Audio": "eca-0405-9.mp3",
 			"Standard Arabic Audio": "msa-0405-9.mp3"
 		},
@@ -101,7 +101,7 @@
 			"English": "Oh, yes, because of all the killer germs.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أوه، نعم، بسبب كل الجراثيم القاتلة.",
 			"Egyptian Arabic Audio": "eca-0405-10.mp3",
 			"Standard Arabic Audio": "msa-0405-10.mp3"
 		},
@@ -111,7 +111,7 @@
 			"English": "If you're a smart doctor, you stay away from hospitals.",
 			"Word Count": 10,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "إذا كنت طبيبا ذكيا، يمكنك البقاء بعيدا عن المستشفيات.",
 			"Egyptian Arabic Audio": "eca-0405-11.mp3",
 			"Standard Arabic Audio": "msa-0405-11.mp3"
 		},
@@ -121,7 +121,7 @@
 			"English": "Yes, the smart doctors are those TV news doctors�no hospitals, no patients.",
 			"Word Count": 12,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "نعم، والأطباء الذكية هي تلك أخبار التلفزيون الأطباء�لا المستشفيات، لا المرضى.",
 			"Egyptian Arabic Audio": "eca-0405-12.mp3",
 			"Standard Arabic Audio": "msa-0405-12.mp3"
 		}

@@ -11,7 +11,7 @@
 			"English": "Did you wipe your feet?",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هل تمسح قدميك؟",
 			"Egyptian Arabic Audio": "eca-0305-1.mp3",
 			"Standard Arabic Audio": "msa-0305-1.mp3"
 		},
@@ -21,7 +21,7 @@
 			"English": "Yes, of course I wiped my feet.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "نعم، بالطبع مسحت قدمي.",
 			"Egyptian Arabic Audio": "eca-0305-2.mp3",
 			"Standard Arabic Audio": "msa-0305-2.mp3"
 		},
@@ -31,7 +31,7 @@
 			"English": "Then why is there mud on the carpet?",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ثم لماذا هناك الطين على السجاد؟",
 			"Egyptian Arabic Audio": "eca-0305-3.mp3",
 			"Standard Arabic Audio": "msa-0305-3.mp3"
 		},
@@ -41,7 +41,7 @@
 			"English": "I don't know. It's not my mud.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انا لا اعرف. انها ليست بلدي الطين.",
 			"Egyptian Arabic Audio": "eca-0305-4.mp3",
 			"Standard Arabic Audio": "msa-0305-4.mp3"
 		},
@@ -51,7 +51,7 @@
 			"English": "Well, someone brought it into the house.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "حسنا، شخص جلبته إلى المنزل.",
 			"Egyptian Arabic Audio": "eca-0305-5.mp3",
 			"Standard Arabic Audio": "msa-0305-5.mp3"
 		},
@@ -61,7 +61,7 @@
 			"English": "Look at the bottom of my shoes�they're clean",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ننظر إلى الجزء السفلي من حذائي ey&#39;eyey نظيفة",
 			"Egyptian Arabic Audio": "eca-0305-6.mp3",
 			"Standard Arabic Audio": "msa-0305-6.mp3"
 		}

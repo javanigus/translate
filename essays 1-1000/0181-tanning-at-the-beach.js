@@ -9,7 +9,7 @@
 			"English": "It is summer.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "إنه الصيف.",
 			"Egyptian Arabic Audio": "eca-0181-1.mp3",
 			"Standard Arabic Audio": "msa-0181-1.mp3"
 		},
@@ -18,7 +18,7 @@
 			"English": "The sun is out and shining.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "الشمس خارج و مشرقة.",
 			"Egyptian Arabic Audio": "eca-0181-2.mp3",
 			"Standard Arabic Audio": "msa-0181-2.mp3"
 		},
@@ -27,7 +27,7 @@
 			"English": "She goes to the beach.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "تذهب إلى الشاطئ.",
 			"Egyptian Arabic Audio": "eca-0181-3.mp3",
 			"Standard Arabic Audio": "msa-0181-3.mp3"
 		},
@@ -36,7 +36,7 @@
 			"English": "She lays a towel on the sand.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وهي تضع منشفة على الرمال.",
 			"Egyptian Arabic Audio": "eca-0181-4.mp3",
 			"Standard Arabic Audio": "msa-0181-4.mp3"
 		},
@@ -45,7 +45,7 @@
 			"English": "She puts on sunscreen.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انها تضع على واقية من الشمس.",
 			"Egyptian Arabic Audio": "eca-0181-5.mp3",
 			"Standard Arabic Audio": "msa-0181-5.mp3"
 		},
@@ -54,7 +54,7 @@
 			"English": "It protects her skin.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنه يحمي بشرتها.",
 			"Egyptian Arabic Audio": "eca-0181-6.mp3",
 			"Standard Arabic Audio": "msa-0181-6.mp3"
 		},
@@ -63,7 +63,7 @@
 			"English": "She puts on sunglasses.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انها تضع على النظارات الشمسية.",
 			"Egyptian Arabic Audio": "eca-0181-7.mp3",
 			"Standard Arabic Audio": "msa-0181-7.mp3"
 		},
@@ -72,7 +72,7 @@
 			"English": "She does not want the sun to hurt her eyes.",
 			"Word Count": 10,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وقالت إنها لا تريد أن تؤذي الشمس عينيها.",
 			"Egyptian Arabic Audio": "eca-0181-8.mp3",
 			"Standard Arabic Audio": "msa-0181-8.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "She lies down on the towel.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انها تقع على منشفة.",
 			"Egyptian Arabic Audio": "eca-0181-9.mp3",
 			"Standard Arabic Audio": "msa-0181-9.mp3"
 		},
@@ -90,7 +90,7 @@
 			"English": "She is excited to get tan.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انها متحمس للحصول على تان.",
 			"Egyptian Arabic Audio": "eca-0181-10.mp3",
 			"Standard Arabic Audio": "msa-0181-10.mp3"
 		}

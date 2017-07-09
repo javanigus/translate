@@ -9,7 +9,7 @@
 			"English": "Your grandma told you not to lie.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "جدتك قال لك لا يكذب.",
 			"Egyptian Arabic Audio": "eca-1492-1.mp3",
 			"Standard Arabic Audio": "msa-1492-1.mp3"
 		},
@@ -18,7 +18,7 @@
 			"English": "Your grandpa told you not to lie.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "جدك قال لك لا يكذب.",
 			"Egyptian Arabic Audio": "eca-1492-2.mp3",
 			"Standard Arabic Audio": "msa-1492-2.mp3"
 		},
@@ -27,7 +27,7 @@
 			"English": "Your mother said to tell the truth.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "قالت أمك أن تقول الحقيقة.",
 			"Egyptian Arabic Audio": "eca-1492-3.mp3",
 			"Standard Arabic Audio": "msa-1492-3.mp3"
 		},
@@ -36,7 +36,7 @@
 			"English": "Your father said to tell the truth.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "قال والدك ليقول الحقيقة.",
 			"Egyptian Arabic Audio": "eca-1492-4.mp3",
 			"Standard Arabic Audio": "msa-1492-4.mp3"
 		},
@@ -45,7 +45,7 @@
 			"English": "You try to tell the truth.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "تحاول أن تقول الحقيقة.",
 			"Egyptian Arabic Audio": "eca-1492-5.mp3",
 			"Standard Arabic Audio": "msa-1492-5.mp3"
 		},
@@ -54,7 +54,7 @@
 			"English": "You try to tell the truth all the time.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "تحاول أن تقول الحقيقة في كل وقت.",
 			"Egyptian Arabic Audio": "eca-1492-6.mp3",
 			"Standard Arabic Audio": "msa-1492-6.mp3"
 		},
@@ -63,7 +63,7 @@
 			"English": "But you cannot tell the truth all the time.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ولكن لا يمكنك أن تقول الحقيقة في كل وقت.",
 			"Egyptian Arabic Audio": "eca-1492-7.mp3",
 			"Standard Arabic Audio": "msa-1492-7.mp3"
 		},
@@ -72,7 +72,7 @@
 			"English": "No one can tell the truth all the time.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لا أحد يستطيع أن يقول الحقيقة في كل وقت.",
 			"Egyptian Arabic Audio": "eca-1492-8.mp3",
 			"Standard Arabic Audio": "msa-1492-8.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "Everyone lies sometimes.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "الجميع يكمن أحيانا.",
 			"Egyptian Arabic Audio": "eca-1492-9.mp3",
 			"Standard Arabic Audio": "msa-1492-9.mp3"
 		},
@@ -90,7 +90,7 @@
 			"English": "Your mother lies sometimes.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أمك تكمن أحيانا.",
 			"Egyptian Arabic Audio": "eca-1492-10.mp3",
 			"Standard Arabic Audio": "msa-1492-10.mp3"
 		},
@@ -99,7 +99,7 @@
 			"English": "Your father lies sometimes.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "والدك يكمن أحيانا.",
 			"Egyptian Arabic Audio": "eca-1492-11.mp3",
 			"Standard Arabic Audio": "msa-1492-11.mp3"
 		},
@@ -108,7 +108,7 @@
 			"English": "Your teacher lies sometimes.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "معلمك يكمن أحيانا.",
 			"Egyptian Arabic Audio": "eca-1492-12.mp3",
 			"Standard Arabic Audio": "msa-1492-12.mp3"
 		},
@@ -117,7 +117,7 @@
 			"English": "You lie sometimes.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "تكذب أحيانا.",
 			"Egyptian Arabic Audio": "eca-1492-13.mp3",
 			"Standard Arabic Audio": "msa-1492-13.mp3"
 		},
@@ -126,7 +126,7 @@
 			"English": "You lie to be polite.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنت تكذب أن تكون مهذبا.",
 			"Egyptian Arabic Audio": "eca-1492-14.mp3",
 			"Standard Arabic Audio": "msa-1492-14.mp3"
 		},
@@ -135,7 +135,7 @@
 			"English": "You lie to protect someone you love.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنت تكذب لحماية شخص تحبه.",
 			"Egyptian Arabic Audio": "eca-1492-15.mp3",
 			"Standard Arabic Audio": "msa-1492-15.mp3"
 		},
@@ -144,7 +144,7 @@
 			"English": "You lie to protect yourself.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنت تكذب لحماية نفسك.",
 			"Egyptian Arabic Audio": "eca-1492-16.mp3",
 			"Standard Arabic Audio": "msa-1492-16.mp3"
 		},
@@ -153,7 +153,7 @@
 			"English": "You lie when you get caught.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كنت تكذب عندما يتم القبض عليك.",
 			"Egyptian Arabic Audio": "eca-1492-17.mp3",
 			"Standard Arabic Audio": "msa-1492-17.mp3"
 		},
@@ -162,7 +162,7 @@
 			"English": "You lie to get something you want.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنت تكذب للحصول على شيء تريده.",
 			"Egyptian Arabic Audio": "eca-1492-18.mp3",
 			"Standard Arabic Audio": "msa-1492-18.mp3"
 		},
@@ -171,7 +171,7 @@
 			"English": "You lie to be popular.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "تكذب أن تكون شعبية.",
 			"Egyptian Arabic Audio": "eca-1492-19.mp3",
 			"Standard Arabic Audio": "msa-1492-19.mp3"
 		},
@@ -180,7 +180,7 @@
 			"English": "You lie to avoid work.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كنت تكذب لتجنب العمل.",
 			"Egyptian Arabic Audio": "eca-1492-20.mp3",
 			"Standard Arabic Audio": "msa-1492-20.mp3"
 		},
@@ -189,7 +189,7 @@
 			"English": "You lie to your family.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنت تكذب على عائلتك.",
 			"Egyptian Arabic Audio": "eca-1492-21.mp3",
 			"Standard Arabic Audio": "msa-1492-21.mp3"
 		},
@@ -198,7 +198,7 @@
 			"English": "You lie to your friends.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كنت تكذب على أصدقائك.",
 			"Egyptian Arabic Audio": "eca-1492-22.mp3",
 			"Standard Arabic Audio": "msa-1492-22.mp3"
 		},
@@ -207,7 +207,7 @@
 			"English": "You lie to strangers.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كنت تكذب على الغرباء.",
 			"Egyptian Arabic Audio": "eca-1492-23.mp3",
 			"Standard Arabic Audio": "msa-1492-23.mp3"
 		},
@@ -216,7 +216,7 @@
 			"English": "It's normal to lie.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "من الطبيعي أن تكذب.",
 			"Egyptian Arabic Audio": "eca-1492-24.mp3",
 			"Standard Arabic Audio": "msa-1492-24.mp3"
 		},
@@ -225,7 +225,7 @@
 			"English": "Some people say that lying is bad.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "بعض الناس يقولون أن الكذب سيء.",
 			"Egyptian Arabic Audio": "eca-1492-25.mp3",
 			"Standard Arabic Audio": "msa-1492-25.mp3"
 		},
@@ -234,7 +234,7 @@
 			"English": "They say that lying is evil.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يقولون أن الكذب هو الشر.",
 			"Egyptian Arabic Audio": "eca-1492-26.mp3",
 			"Standard Arabic Audio": "msa-1492-26.mp3"
 		},
@@ -243,7 +243,7 @@
 			"English": "They say that they never lie.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يقولون أنهم لا يكذبون أبدا.",
 			"Egyptian Arabic Audio": "eca-1492-27.mp3",
 			"Standard Arabic Audio": "msa-1492-27.mp3"
 		},
@@ -252,7 +252,7 @@
 			"English": "That is a big lie.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هذا هو كذبة كبيرة.",
 			"Egyptian Arabic Audio": "eca-1492-28.mp3",
 			"Standard Arabic Audio": "msa-1492-28.mp3"
 		},
@@ -261,7 +261,7 @@
 			"English": "Of course they lie sometimes! Everyone lies sometimes.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "بالطبع يكذبون أحيانا! الجميع يكمن أحيانا.",
 			"Egyptian Arabic Audio": "eca-1492-29.mp3",
 			"Standard Arabic Audio": "msa-1492-29.mp3"
 		},
@@ -270,7 +270,7 @@
 			"English": "Lying is like laughing; it is part of life.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "الكذب هو مثل الضحك. انه جزء من الحياة.",
 			"Egyptian Arabic Audio": "eca-1492-30.mp3",
 			"Standard Arabic Audio": "msa-1492-30.mp3"
 		}

@@ -9,7 +9,7 @@
 			"English": "At night, the top of the Empire State Building is lit up in different colors.",
 			"Word Count": 15,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "في الليل، يتم إضاءة الجزء العلوي من مبنى إمبير ستات بألوان مختلفة.",
 			"Egyptian Arabic Audio": "eca-1648-1.mp3",
 			"Standard Arabic Audio": "msa-1648-1.mp3"
 		},
@@ -18,7 +18,7 @@
 			"English": "It is red and green on Christmas, red for Lunar New Year, and blue for Hanukah.",
 			"Word Count": 16,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "فمن الأحمر والأخضر على عيد الميلاد، الأحمر للسنة القمرية الجديدة، والأزرق ل هانوكا.",
 			"Egyptian Arabic Audio": "eca-1648-2.mp3",
 			"Standard Arabic Audio": "msa-1648-2.mp3"
 		},
@@ -27,7 +27,7 @@
 			"English": "On the Fourth of July it is red, white, and blue.",
 			"Word Count": 11,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "في الرابع من يوليو هو الأحمر والأبيض والأزرق.",
 			"Egyptian Arabic Audio": "eca-1648-3.mp3",
 			"Standard Arabic Audio": "msa-1648-3.mp3"
 		}

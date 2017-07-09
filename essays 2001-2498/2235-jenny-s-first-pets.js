@@ -9,7 +9,7 @@
 			"English": "Jenny's dad was surprised when he found out what pet his daughter had chosen.",
 			"Word Count": 14,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "فاجأ والد جيني عندما اكتشف ما الحيوانات الأليفة التي اختارت ابنته.",
 			"Egyptian Arabic Audio": "eca-2235-1.mp3",
 			"Standard Arabic Audio": "msa-2235-1.mp3"
 		},
@@ -18,7 +18,7 @@
 			"English": "\"I want a horse,\" she declared when she walked back into her dad's bedroom.",
 			"Word Count": 14,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وقالت: &quot;أريد حصانا&quot;، عندما قالت إنها سارت إلى غرفة نوم والدها.",
 			"Egyptian Arabic Audio": "eca-2235-2.mp3",
 			"Standard Arabic Audio": "msa-2235-2.mp3"
 		},
@@ -27,7 +27,7 @@
 			"English": "\"How about something a little less expensive,\" he said to Jenny.",
 			"Word Count": 11,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وقال: &quot;ماذا عن شيء أقل تكلفة قليلا&quot;.",
 			"Egyptian Arabic Audio": "eca-2235-3.mp3",
 			"Standard Arabic Audio": "msa-2235-3.mp3"
 		},
@@ -36,7 +36,7 @@
 			"English": "\"A pony?\" she cleverly replied.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "&quot;مهر؟&quot; أجابت بذكاء.",
 			"Egyptian Arabic Audio": "eca-2235-4.mp3",
 			"Standard Arabic Audio": "msa-2235-4.mp3"
 		},
@@ -45,7 +45,7 @@
 			"English": "\"Let's go to the pet shop,\" Jenny's dad said.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "&quot;دعونا نذهب إلى متجر للحيوانات الاليفة،&quot; وقال أبي جيني.",
 			"Egyptian Arabic Audio": "eca-2235-5.mp3",
 			"Standard Arabic Audio": "msa-2235-5.mp3"
 		}

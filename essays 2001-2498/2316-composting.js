@@ -9,7 +9,7 @@
 			"English": "Ron was especially excited about what he bought to put in the compost bin.",
 			"Word Count": 14,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وكان رون متحمسا بشكل خاص حول ما اشترى لوضعه في بن السماد.",
 			"Egyptian Arabic Audio": "eca-2316-1.mp3",
 			"Standard Arabic Audio": "msa-2316-1.mp3"
 		},
@@ -18,7 +18,7 @@
 			"English": "He pulled out a small box and gave it to Debbie.",
 			"Word Count": 11,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انه سحب مربع صغير وأعطاه ديبي.",
 			"Egyptian Arabic Audio": "eca-2316-2.mp3",
 			"Standard Arabic Audio": "msa-2316-2.mp3"
 		},
@@ -27,7 +27,7 @@
 			"English": "She opened it and screamed before dropping the box on the floor.",
 			"Word Count": 12,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "فتحتها وصرخت قبل إسقاط الصندوق على الأرض.",
 			"Egyptian Arabic Audio": "eca-2316-3.mp3",
 			"Standard Arabic Audio": "msa-2316-3.mp3"
 		},
@@ -36,7 +36,7 @@
 			"English": "The box was filled with worms.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كان مربع مليئة الديدان.",
 			"Egyptian Arabic Audio": "eca-2316-4.mp3",
 			"Standard Arabic Audio": "msa-2316-4.mp3"
 		}

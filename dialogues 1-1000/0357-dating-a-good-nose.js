@@ -11,7 +11,7 @@
 			"English": "Some people have good noses.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "بعض الناس لديهم أنوف جيدة.",
 			"Egyptian Arabic Audio": "eca-0357-1.mp3",
 			"Standard Arabic Audio": "msa-0357-1.mp3"
 		},
@@ -21,7 +21,7 @@
 			"English": "I wish I had a good nose. Mine is way too big.",
 			"Word Count": 12,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أتمنى لو كان لدي أنف جيد. الألغام هو وسيلة كبيرة جدا.",
 			"Egyptian Arabic Audio": "eca-0357-2.mp3",
 			"Standard Arabic Audio": "msa-0357-2.mp3"
 		},
@@ -31,7 +31,7 @@
 			"English": "I don't mean good-looking. I mean good-smelling.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنا لا أقصد حسن المظهر. أعني رائحة جيدة.",
 			"Egyptian Arabic Audio": "eca-0357-3.mp3",
 			"Standard Arabic Audio": "msa-0357-3.mp3"
 		},
@@ -41,7 +41,7 @@
 			"English": "Oh. But that can be a curse.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يا. ولكن هذا يمكن أن يكون لعنة.",
 			"Egyptian Arabic Audio": "eca-0357-4.mp3",
 			"Standard Arabic Audio": "msa-0357-4.mp3"
 		},
@@ -51,7 +51,7 @@
 			"English": "Yes, because you can be too sensitive to odors.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "نعم، لأنك يمكن أن تكون حساسة جدا للروائح.",
 			"Egyptian Arabic Audio": "eca-0357-5.mp3",
 			"Standard Arabic Audio": "msa-0357-5.mp3"
 		},
@@ -61,7 +61,7 @@
 			"English": "I'll say. My girlfriend has a nose like a drug dog.",
 			"Word Count": 11,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنا سوف أقول. صديقتي لديها الأنف مثل كلب المخدرات.",
 			"Egyptian Arabic Audio": "eca-0357-6.mp3",
 			"Standard Arabic Audio": "msa-0357-6.mp3"
 		},
@@ -71,7 +71,7 @@
 			"English": "Did she catch you using drugs?",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هل قبضت عليك باستخدام المخدرات؟",
 			"Egyptian Arabic Audio": "eca-0357-7.mp3",
 			"Standard Arabic Audio": "msa-0357-7.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "Sort of. She knows whenever I sneak a cigarette.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "نوعا ما. انها تعرف كلما أنا التسلل سيجارة.",
 			"Egyptian Arabic Audio": "eca-0357-8.mp3",
 			"Standard Arabic Audio": "msa-0357-8.mp3"
 		},
@@ -91,7 +91,7 @@
 			"English": "You don't need a good nose for that�cigarettes stink",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنت لا تحتاج إلى أنف جيد ل ثاتسيغاريتس نتن",
 			"Egyptian Arabic Audio": "eca-0357-9.mp3",
 			"Standard Arabic Audio": "msa-0357-9.mp3"
 		}

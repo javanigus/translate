@@ -9,7 +9,7 @@
 			"English": "Kim was an average girl.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كان كيم فتاة متوسطة.",
 			"Egyptian Arabic Audio": "eca-1181-1.mp3",
 			"Standard Arabic Audio": "msa-1181-1.mp3"
 		},
@@ -18,7 +18,7 @@
 			"English": "She was not that pretty or ugly.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لم تكن جميلة أو قبيحة.",
 			"Egyptian Arabic Audio": "eca-1181-2.mp3",
 			"Standard Arabic Audio": "msa-1181-2.mp3"
 		},
@@ -27,7 +27,7 @@
 			"English": "She was decent-looking.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كانت محترمة المظهر.",
 			"Egyptian Arabic Audio": "eca-1181-3.mp3",
 			"Standard Arabic Audio": "msa-1181-3.mp3"
 		},
@@ -36,7 +36,7 @@
 			"English": "She was not very smart, nor very dumb.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لم تكن ذكية جدا، ولا غبية جدا.",
 			"Egyptian Arabic Audio": "eca-1181-4.mp3",
 			"Standard Arabic Audio": "msa-1181-4.mp3"
 		},
@@ -45,7 +45,7 @@
 			"English": "She was neither mean nor nice.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كانت لا تعني ولا لطيفة.",
 			"Egyptian Arabic Audio": "eca-1181-5.mp3",
 			"Standard Arabic Audio": "msa-1181-5.mp3"
 		},
@@ -54,7 +54,7 @@
 			"English": "She was always in between.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كانت دائما بين.",
 			"Egyptian Arabic Audio": "eca-1181-6.mp3",
 			"Standard Arabic Audio": "msa-1181-6.mp3"
 		},
@@ -63,7 +63,7 @@
 			"English": "Something happened though.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "حدث شيء على الرغم من.",
 			"Egyptian Arabic Audio": "eca-1181-7.mp3",
 			"Standard Arabic Audio": "msa-1181-7.mp3"
 		},
@@ -72,7 +72,7 @@
 			"English": "She was walking home from work one day.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كانت تسير في المنزل من العمل يوم واحد.",
 			"Egyptian Arabic Audio": "eca-1181-8.mp3",
 			"Standard Arabic Audio": "msa-1181-8.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "She heard a \"meow\" sound.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "سمعت صوت &quot;مواء&quot;.",
 			"Egyptian Arabic Audio": "eca-1181-9.mp3",
 			"Standard Arabic Audio": "msa-1181-9.mp3"
 		},
@@ -90,7 +90,7 @@
 			"English": "Where was it coming from? It was coming from a tree! A cat was stuck.",
 			"Word Count": 15,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "حيث أنها تأتي من؟ كان قادم من شجرة! كان القط عالقا.",
 			"Egyptian Arabic Audio": "eca-1181-10.mp3",
 			"Standard Arabic Audio": "msa-1181-10.mp3"
 		},
@@ -99,7 +99,7 @@
 			"English": "Kim climbed up the tree.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "تسلق كيم الشجرة.",
 			"Egyptian Arabic Audio": "eca-1181-11.mp3",
 			"Standard Arabic Audio": "msa-1181-11.mp3"
 		},
@@ -108,7 +108,7 @@
 			"English": "\"Here, kitty, kitty,\" she said.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "&quot;هنا، كيتي، كيتي&quot;، قالت.",
 			"Egyptian Arabic Audio": "eca-1181-12.mp3",
 			"Standard Arabic Audio": "msa-1181-12.mp3"
 		},
@@ -117,7 +117,7 @@
 			"English": "She carried the cat down.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "حملت القط أسفل.",
 			"Egyptian Arabic Audio": "eca-1181-13.mp3",
 			"Standard Arabic Audio": "msa-1181-13.mp3"
 		},
@@ -126,7 +126,7 @@
 			"English": "The owner thanked her and gave her $500.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "شكرها المالك وأعطتها 500 دولار.",
 			"Egyptian Arabic Audio": "eca-1181-14.mp3",
 			"Standard Arabic Audio": "msa-1181-14.mp3"
 		},
@@ -135,7 +135,7 @@
 			"English": "Kim was on the news.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كان كيم على الأخبار.",
 			"Egyptian Arabic Audio": "eca-1181-15.mp3",
 			"Standard Arabic Audio": "msa-1181-15.mp3"
 		},
@@ -144,7 +144,7 @@
 			"English": "Everyone in her town knew her.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "الجميع في بلدتها يعرفها.",
 			"Egyptian Arabic Audio": "eca-1181-16.mp3",
 			"Standard Arabic Audio": "msa-1181-16.mp3"
 		},
@@ -153,7 +153,7 @@
 			"English": "People even asked for her autograph.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "حتى أن الناس طلبوا توقيعها.",
 			"Egyptian Arabic Audio": "eca-1181-17.mp3",
 			"Standard Arabic Audio": "msa-1181-17.mp3"
 		}

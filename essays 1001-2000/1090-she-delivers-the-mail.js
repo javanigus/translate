@@ -9,7 +9,7 @@
 			"English": "She works for the post office.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وهي تعمل في مكتب البريد.",
 			"Egyptian Arabic Audio": "eca-1090-1.mp3",
 			"Standard Arabic Audio": "msa-1090-1.mp3"
 		},
@@ -18,7 +18,7 @@
 			"English": "She delivers mail.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وهي تسلم البريد.",
 			"Egyptian Arabic Audio": "eca-1090-2.mp3",
 			"Standard Arabic Audio": "msa-1090-2.mp3"
 		},
@@ -27,7 +27,7 @@
 			"English": "She fills up her mailbag with mail.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انها تملأ حقيبة البريد لها مع البريد.",
 			"Egyptian Arabic Audio": "eca-1090-3.mp3",
 			"Standard Arabic Audio": "msa-1090-3.mp3"
 		},
@@ -36,7 +36,7 @@
 			"English": "She pushes the mailbag on the sidewalk.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انها تدفع حقيبة البريد على الرصيف.",
 			"Egyptian Arabic Audio": "eca-1090-4.mp3",
 			"Standard Arabic Audio": "msa-1090-4.mp3"
 		},
@@ -45,7 +45,7 @@
 			"English": "She stops at each house.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وقالت انها توقف في كل بيت.",
 			"Egyptian Arabic Audio": "eca-1090-5.mp3",
 			"Standard Arabic Audio": "msa-1090-5.mp3"
 		},
@@ -54,7 +54,7 @@
 			"English": "She delivers mail to each house.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وقالت انها تسليم البريد إلى كل بيت.",
 			"Egyptian Arabic Audio": "eca-1090-6.mp3",
 			"Standard Arabic Audio": "msa-1090-6.mp3"
 		},
@@ -63,7 +63,7 @@
 			"English": "She picks up mail from each house.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وقالت انها تلتقط البريد من كل منزل.",
 			"Egyptian Arabic Audio": "eca-1090-7.mp3",
 			"Standard Arabic Audio": "msa-1090-7.mp3"
 		},
@@ -72,7 +72,7 @@
 			"English": "She works in all kinds of weather.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وهي تعمل في جميع أنواع الطقس.",
 			"Egyptian Arabic Audio": "eca-1090-8.mp3",
 			"Standard Arabic Audio": "msa-1090-8.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "That is her job.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هذا هو وظيفتها.",
 			"Egyptian Arabic Audio": "eca-1090-9.mp3",
 			"Standard Arabic Audio": "msa-1090-9.mp3"
 		}

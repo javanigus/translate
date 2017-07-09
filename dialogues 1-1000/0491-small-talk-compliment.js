@@ -11,7 +11,7 @@
 			"English": "That's an awesome shirt.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هذا قميص رهيبة.",
 			"Egyptian Arabic Audio": "eca-0491-1.mp3",
 			"Standard Arabic Audio": "msa-0491-1.mp3"
 		},
@@ -21,7 +21,7 @@
 			"English": "Thank you. It's so nice of you to say.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "شكرا. انها لطيفة جدا لك أن أقول.",
 			"Egyptian Arabic Audio": "eca-0491-2.mp3",
 			"Standard Arabic Audio": "msa-0491-2.mp3"
 		},
@@ -31,7 +31,7 @@
 			"English": "Where did you get it?",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "من اين حصلت عليه؟",
 			"Egyptian Arabic Audio": "eca-0491-3.mp3",
 			"Standard Arabic Audio": "msa-0491-3.mp3"
 		},
@@ -41,7 +41,7 @@
 			"English": "I got it at a store at the mall.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "حصلت عليه في متجر في المركز التجاري.",
 			"Egyptian Arabic Audio": "eca-0491-4.mp3",
 			"Standard Arabic Audio": "msa-0491-4.mp3"
 		},
@@ -51,7 +51,7 @@
 			"English": "The mall? Did it cost a lot? Things are usually overpriced there.",
 			"Word Count": 12,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "مول؟ هل تكلف الكثير؟ وعادة ما تكون المبالغة هناك.",
 			"Egyptian Arabic Audio": "eca-0491-5.mp3",
 			"Standard Arabic Audio": "msa-0491-5.mp3"
 		},
@@ -61,7 +61,7 @@
 			"English": "Actually, it was quite cheap. I got it for $15.99.",
 			"Word Count": 10,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "في الواقع، كانت رخيصة جدا. حصلت عليه مقابل 15،99 $.",
 			"Egyptian Arabic Audio": "eca-0491-6.mp3",
 			"Standard Arabic Audio": "msa-0491-6.mp3"
 		},
@@ -71,7 +71,7 @@
 			"English": "That is pretty cheap. Do they have it in other colors?",
 			"Word Count": 11,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هذه رخيصة جدا. هل لديهم في ألوان أخرى؟",
 			"Egyptian Arabic Audio": "eca-0491-7.mp3",
 			"Standard Arabic Audio": "msa-0491-7.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "You want to go get one?",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "تريد أن تذهب الحصول على واحد؟",
 			"Egyptian Arabic Audio": "eca-0491-8.mp3",
 			"Standard Arabic Audio": "msa-0491-8.mp3"
 		},
@@ -91,7 +91,7 @@
 			"English": "Yeah, I like how it looks. Would you want to come with me?",
 			"Word Count": 13,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "نعم، أنا أحب كيف يبدو. هل تريد أن تأتي معي؟",
 			"Egyptian Arabic Audio": "eca-0491-9.mp3",
 			"Standard Arabic Audio": "msa-0491-9.mp3"
 		},
@@ -101,7 +101,7 @@
 			"English": "We can go after school, if you want?",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يمكننا الذهاب بعد المدرسة، إذا كنت تريد؟",
 			"Egyptian Arabic Audio": "eca-0491-10.mp3",
 			"Standard Arabic Audio": "msa-0491-10.mp3"
 		},
@@ -111,7 +111,7 @@
 			"English": "That would be great. I need new clothes, but I don't know what to buy.",
 			"Word Count": 15,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هذا سيكون رائع. أنا بحاجة إلى ملابس جديدة، ولكن أنا لا أعرف ما لشراء.",
 			"Egyptian Arabic Audio": "eca-0491-11.mp3",
 			"Standard Arabic Audio": "msa-0491-11.mp3"
 		},
@@ -121,7 +121,7 @@
 			"English": "I'll help you pick out something cute.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنا سوف تساعدك على اختيار شيء لطيف.",
 			"Egyptian Arabic Audio": "eca-0491-12.mp3",
 			"Standard Arabic Audio": "msa-0491-12.mp3"
 		}

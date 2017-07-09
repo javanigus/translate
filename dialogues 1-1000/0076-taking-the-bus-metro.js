@@ -11,7 +11,7 @@
 			"English": "What bus do we need to take?",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ما الحافلة التي نحن بحاجة إلى اتخاذها؟",
 			"Egyptian Arabic Audio": "eca-0076-1.mp3",
 			"Standard Arabic Audio": "msa-0076-1.mp3"
 		},
@@ -21,7 +21,7 @@
 			"English": "We need to take the Metro.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "نحن بحاجة إلى اتخاذ المترو.",
 			"Egyptian Arabic Audio": "eca-0076-2.mp3",
 			"Standard Arabic Audio": "msa-0076-2.mp3"
 		},
@@ -31,7 +31,7 @@
 			"English": "The metro bus stop isn't here!",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "محطة الحافلات المترو ليست هنا!",
 			"Egyptian Arabic Audio": "eca-0076-3.mp3",
 			"Standard Arabic Audio": "msa-0076-3.mp3"
 		},
@@ -41,7 +41,7 @@
 			"English": "No, I meant the Metro Gold Line.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لا، أعني مترو الخط الذهبي.",
 			"Egyptian Arabic Audio": "eca-0076-4.mp3",
 			"Standard Arabic Audio": "msa-0076-4.mp3"
 		},
@@ -51,7 +51,7 @@
 			"English": "I've never ridden that bus line before.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنا لم تعصف أبدا أن خط الحافلات من قبل.",
 			"Egyptian Arabic Audio": "eca-0076-5.mp3",
 			"Standard Arabic Audio": "msa-0076-5.mp3"
 		},
@@ -61,7 +61,7 @@
 			"English": "It's not a bus, it's a Metrolink train.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انها ليست حافلة، انها قطار ميترولينك.",
 			"Egyptian Arabic Audio": "eca-0076-6.mp3",
 			"Standard Arabic Audio": "msa-0076-6.mp3"
 		},
@@ -71,7 +71,7 @@
 			"English": "Why do we need to take the train?",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لماذا نحن بحاجة إلى اتخاذ القطار؟",
 			"Egyptian Arabic Audio": "eca-0076-7.mp3",
 			"Standard Arabic Audio": "msa-0076-7.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "It'll take us to Pasadena faster.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انها سوف تأخذنا إلى باسادينا أسرع.",
 			"Egyptian Arabic Audio": "eca-0076-8.mp3",
 			"Standard Arabic Audio": "msa-0076-8.mp3"
 		},
@@ -91,7 +91,7 @@
 			"English": "How will it do that?",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كيف ستفعل ذلك؟",
 			"Egyptian Arabic Audio": "eca-0076-9.mp3",
 			"Standard Arabic Audio": "msa-0076-9.mp3"
 		},
@@ -101,7 +101,7 @@
 			"English": "Trains have fewer stops and never get stuck in traffic.",
 			"Word Count": 10,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "القطارات لديها محطات أقل وأبدا تتعثر في حركة المرور.",
 			"Egyptian Arabic Audio": "eca-0076-10.mp3",
 			"Standard Arabic Audio": "msa-0076-10.mp3"
 		},
@@ -111,7 +111,7 @@
 			"English": "That sounds very convenient!",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هذا يبدو مريحة للغاية!",
 			"Egyptian Arabic Audio": "eca-0076-11.mp3",
 			"Standard Arabic Audio": "msa-0076-11.mp3"
 		},
@@ -121,7 +121,7 @@
 			"English": "It is. Hurry and buy your tap card.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنه. عجل وشراء بطاقة الصنبور الخاص بك.",
 			"Egyptian Arabic Audio": "eca-0076-12.mp3",
 			"Standard Arabic Audio": "msa-0076-12.mp3"
 		}

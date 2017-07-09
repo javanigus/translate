@@ -9,7 +9,7 @@
 			"English": "Jimmy had fixed a two-year-old problem in less than an hour.",
 			"Word Count": 11,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كان جيمي قد حل مشكلة تبلغ من العمر عامين في أقل من ساعة.",
 			"Egyptian Arabic Audio": "eca-2077-1.mp3",
 			"Standard Arabic Audio": "msa-2077-1.mp3"
 		},
@@ -18,7 +18,7 @@
 			"English": "He was ecstatic.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كان النشوة.",
 			"Egyptian Arabic Audio": "eca-2077-2.mp3",
 			"Standard Arabic Audio": "msa-2077-2.mp3"
 		},
@@ -27,7 +27,7 @@
 			"English": "He returned the screwdriver to the toolbox, thinking \"I'm a genius.",
 			"Word Count": 11,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وعاد المفك إلى صندوق الأدوات، والتفكير &quot;أنا عبقري.",
 			"Egyptian Arabic Audio": "eca-2077-3.mp3",
 			"Standard Arabic Audio": "msa-2077-3.mp3"
 		},
@@ -36,7 +36,7 @@
 			"English": "\".",
 			"Word Count": 1,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "&quot;.",
 			"Egyptian Arabic Audio": "eca-2077-4.mp3",
 			"Standard Arabic Audio": "msa-2077-4.mp3"
 		}

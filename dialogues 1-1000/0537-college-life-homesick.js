@@ -11,7 +11,7 @@
 			"English": "Are you okay? You look really sad.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انت بخير؟ أنت تبدو حزينة حقا.",
 			"Egyptian Arabic Audio": "eca-0537-1.mp3",
 			"Standard Arabic Audio": "msa-0537-1.mp3"
 		},
@@ -21,7 +21,7 @@
 			"English": "I'm homesick. I feel so out of place here.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنا أشعر بالحنين إلى الوطن. أشعر بذلك من مكان هنا.",
 			"Egyptian Arabic Audio": "eca-0537-2.mp3",
 			"Standard Arabic Audio": "msa-0537-2.mp3"
 		},
@@ -31,7 +31,7 @@
 			"English": "But this college is so awesome.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ولكن هذه الكلية رهيبة جدا.",
 			"Egyptian Arabic Audio": "eca-0537-3.mp3",
 			"Standard Arabic Audio": "msa-0537-3.mp3"
 		},
@@ -41,7 +41,7 @@
 			"English": "I know, but I really miss home.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وأنا أعلم، ولكن أنا حقا تفوت المنزل.",
 			"Egyptian Arabic Audio": "eca-0537-4.mp3",
 			"Standard Arabic Audio": "msa-0537-4.mp3"
 		},
@@ -51,7 +51,7 @@
 			"English": "How far do you live?",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "إلى أي مدى تعيش؟",
 			"Egyptian Arabic Audio": "eca-0537-5.mp3",
 			"Standard Arabic Audio": "msa-0537-5.mp3"
 		},
@@ -61,7 +61,7 @@
 			"English": "Far. Let's just say I need an airplane to get there.",
 			"Word Count": 11,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "بعيدا. دعونا نقول فقط أنا بحاجة إلى طائرة للوصول الى هناك.",
 			"Egyptian Arabic Audio": "eca-0537-6.mp3",
 			"Standard Arabic Audio": "msa-0537-6.mp3"
 		},
@@ -71,7 +71,7 @@
 			"English": "It's almost winter break. Hang in there.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انها استراحة الشتاء تقريبا. أصبر.",
 			"Egyptian Arabic Audio": "eca-0537-7.mp3",
 			"Standard Arabic Audio": "msa-0537-7.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "I don't think I can handle it anymore.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لا أعتقد أنني يمكن التعامل معها بعد الآن.",
 			"Egyptian Arabic Audio": "eca-0537-8.mp3",
 			"Standard Arabic Audio": "msa-0537-8.mp3"
 		},
@@ -91,7 +91,7 @@
 			"English": "Try calling your friends and family from your hometown.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "حاول الاتصال بأصدقائك وعائلتك من مسقط رأسك.",
 			"Egyptian Arabic Audio": "eca-0537-9.mp3",
 			"Standard Arabic Audio": "msa-0537-9.mp3"
 		},
@@ -101,7 +101,7 @@
 			"English": "I don't want them to worry about me.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لا أريدهم أن يقلقوا عني.",
 			"Egyptian Arabic Audio": "eca-0537-10.mp3",
 			"Standard Arabic Audio": "msa-0537-10.mp3"
 		},
@@ -111,7 +111,7 @@
 			"English": "Just call them. Don't you want to stop feeling sad?",
 			"Word Count": 10,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "فقط اتصل بهم. لا تريد أن تتوقف عن الشعور بالحزن؟",
 			"Egyptian Arabic Audio": "eca-0537-11.mp3",
 			"Standard Arabic Audio": "msa-0537-11.mp3"
 		},
@@ -121,7 +121,7 @@
 			"English": "Okay, I'll call them now.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "حسنا، سأتصل بهم الآن.",
 			"Egyptian Arabic Audio": "eca-0537-12.mp3",
 			"Standard Arabic Audio": "msa-0537-12.mp3"
 		}

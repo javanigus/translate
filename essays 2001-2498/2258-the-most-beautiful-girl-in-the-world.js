@@ -9,7 +9,7 @@
 			"English": "Karen kept talking about how perfect the outfit she found was and that she \"absolutely had to find the right shoes to go with it.",
 			"Word Count": 25,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وظلت كارين تتحدث عن مدى الكمال الذي اكتشفته الزي، وأنها &quot;كانت على الاطلاق تجد الأحذية المناسبة للذهاب معها.",
 			"Egyptian Arabic Audio": "eca-2258-1.mp3",
 			"Standard Arabic Audio": "msa-2258-1.mp3"
 		},
@@ -18,7 +18,7 @@
 			"English": "Of course she did find those shoes, and that made her very happy, and Jack too.",
 			"Word Count": 16,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "بالطبع لم تجد تلك الأحذية، والتي جعلتها سعيدة جدا، وجاك أيضا.",
 			"Egyptian Arabic Audio": "eca-2258-2.mp3",
 			"Standard Arabic Audio": "msa-2258-2.mp3"
 		},
@@ -27,7 +27,7 @@
 			"English": "Julie is going to look so pretty in her new outfit.",
 			"Word Count": 11,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "جولي سوف تبدو جميلة جدا في الزي الجديد لها.",
 			"Egyptian Arabic Audio": "eca-2258-3.mp3",
 			"Standard Arabic Audio": "msa-2258-3.mp3"
 		}

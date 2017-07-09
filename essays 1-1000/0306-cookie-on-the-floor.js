@@ -9,7 +9,7 @@
 			"English": "She takes a cookie out of the package.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انها تأخذ ملف تعريف الارتباط من الحزمة.",
 			"Egyptian Arabic Audio": "eca-0306-1.mp3",
 			"Standard Arabic Audio": "msa-0306-1.mp3"
 		},
@@ -18,7 +18,7 @@
 			"English": "She drops the cookie.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وهي تسقط ملف تعريف الارتباط.",
 			"Egyptian Arabic Audio": "eca-0306-2.mp3",
 			"Standard Arabic Audio": "msa-0306-2.mp3"
 		},
@@ -27,7 +27,7 @@
 			"English": "It falls on the floor.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "تقع على الأرض.",
 			"Egyptian Arabic Audio": "eca-0306-3.mp3",
 			"Standard Arabic Audio": "msa-0306-3.mp3"
 		},
@@ -36,7 +36,7 @@
 			"English": "The cookie breaks.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "فواصل ملف تعريف الارتباط.",
 			"Egyptian Arabic Audio": "eca-0306-4.mp3",
 			"Standard Arabic Audio": "msa-0306-4.mp3"
 		},
@@ -45,7 +45,7 @@
 			"English": "It breaks into four pieces.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ينقسم إلى أربع قطع.",
 			"Egyptian Arabic Audio": "eca-0306-5.mp3",
 			"Standard Arabic Audio": "msa-0306-5.mp3"
 		},
@@ -54,7 +54,7 @@
 			"English": "Four pieces are on the floor.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أربع قطع على الأرض.",
 			"Egyptian Arabic Audio": "eca-0306-6.mp3",
 			"Standard Arabic Audio": "msa-0306-6.mp3"
 		},
@@ -63,7 +63,7 @@
 			"English": "She picks up the pieces.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انها تلتقط القطع.",
 			"Egyptian Arabic Audio": "eca-0306-7.mp3",
 			"Standard Arabic Audio": "msa-0306-7.mp3"
 		},
@@ -72,7 +72,7 @@
 			"English": "She takes them to the kitchen.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنها تأخذهم إلى المطبخ.",
 			"Egyptian Arabic Audio": "eca-0306-8.mp3",
 			"Standard Arabic Audio": "msa-0306-8.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "She throws them into the trashcan.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انها رمي لهم في سلة المهملات.",
 			"Egyptian Arabic Audio": "eca-0306-9.mp3",
 			"Standard Arabic Audio": "msa-0306-9.mp3"
 		},
@@ -90,7 +90,7 @@
 			"English": "She takes another cookie out of the package.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انها تأخذ ملف تعريف ارتباط آخر من الحزمة.",
 			"Egyptian Arabic Audio": "eca-0306-10.mp3",
 			"Standard Arabic Audio": "msa-0306-10.mp3"
 		}

@@ -9,7 +9,7 @@
 			"English": "Pam loves her job.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "بام يحب عملها.",
 			"Egyptian Arabic Audio": "eca-1178-1.mp3",
 			"Standard Arabic Audio": "msa-1178-1.mp3"
 		},
@@ -18,7 +18,7 @@
 			"English": "She is an artist.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هي فنانة.",
 			"Egyptian Arabic Audio": "eca-1178-2.mp3",
 			"Standard Arabic Audio": "msa-1178-2.mp3"
 		},
@@ -27,7 +27,7 @@
 			"English": "She mostly draws portraits.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انها غالبا ما توجه صور.",
 			"Egyptian Arabic Audio": "eca-1178-3.mp3",
 			"Standard Arabic Audio": "msa-1178-3.mp3"
 		},
@@ -36,7 +36,7 @@
 			"English": "People go up to her.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "الناس يرتفع لها.",
 			"Egyptian Arabic Audio": "eca-1178-4.mp3",
 			"Standard Arabic Audio": "msa-1178-4.mp3"
 		},
@@ -45,7 +45,7 @@
 			"English": "They pay $45.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يدفعون 45 دولارا.",
 			"Egyptian Arabic Audio": "eca-1178-5.mp3",
 			"Standard Arabic Audio": "msa-1178-5.mp3"
 		},
@@ -54,7 +54,7 @@
 			"English": "They sit down on a chair.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يجلسون على كرسي.",
 			"Egyptian Arabic Audio": "eca-1178-6.mp3",
 			"Standard Arabic Audio": "msa-1178-6.mp3"
 		},
@@ -63,7 +63,7 @@
 			"English": "She draws them.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انها توجه لهم.",
 			"Egyptian Arabic Audio": "eca-1178-7.mp3",
 			"Standard Arabic Audio": "msa-1178-7.mp3"
 		},
@@ -72,7 +72,7 @@
 			"English": "It takes about one hour to draw one person.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يستغرق حوالي ساعة واحدة لرسم شخص واحد.",
 			"Egyptian Arabic Audio": "eca-1178-8.mp3",
 			"Standard Arabic Audio": "msa-1178-8.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "She does not make a lot of money because she does not get a lot of customers.",
 			"Word Count": 17,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وقالت انها لا تجعل الكثير من المال لأنها لا تحصل على الكثير من الزبائن.",
 			"Egyptian Arabic Audio": "eca-1178-9.mp3",
 			"Standard Arabic Audio": "msa-1178-9.mp3"
 		},
@@ -90,7 +90,7 @@
 			"English": "People think $45 is too much.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "الناس يعتقدون 45 $ هو أكثر من اللازم.",
 			"Egyptian Arabic Audio": "eca-1178-10.mp3",
 			"Standard Arabic Audio": "msa-1178-10.mp3"
 		},
@@ -99,7 +99,7 @@
 			"English": "There have been days when she does not get any customers.",
 			"Word Count": 11,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كانت هناك أيام عندما لا تحصل على أي العملاء.",
 			"Egyptian Arabic Audio": "eca-1178-11.mp3",
 			"Standard Arabic Audio": "msa-1178-11.mp3"
 		},
@@ -108,7 +108,7 @@
 			"English": "She draw the portraits in Chinatown, Los Angeles, California.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انها رسم لوحات في الحي الصيني، لوس انجليس، كاليفورنيا.",
 			"Egyptian Arabic Audio": "eca-1178-12.mp3",
 			"Standard Arabic Audio": "msa-1178-12.mp3"
 		},
@@ -117,7 +117,7 @@
 			"English": "She is thinking of going to another place.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وهي تفكر في الذهاب إلى مكان آخر.",
 			"Egyptian Arabic Audio": "eca-1178-13.mp3",
 			"Standard Arabic Audio": "msa-1178-13.mp3"
 		},
@@ -126,7 +126,7 @@
 			"English": "She loves drawing.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "تحب الرسم.",
 			"Egyptian Arabic Audio": "eca-1178-14.mp3",
 			"Standard Arabic Audio": "msa-1178-14.mp3"
 		},
@@ -135,7 +135,7 @@
 			"English": "She just hates that she doesn't get a lot of customers.",
 			"Word Count": 11,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انها تكره فقط انها لا تحصل على الكثير من الزبائن.",
 			"Egyptian Arabic Audio": "eca-1178-15.mp3",
 			"Standard Arabic Audio": "msa-1178-15.mp3"
 		}

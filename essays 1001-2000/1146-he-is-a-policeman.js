@@ -9,7 +9,7 @@
 			"English": "He stands on the corner.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وهو يقف على الزاوية.",
 			"Egyptian Arabic Audio": "eca-1146-1.mp3",
 			"Standard Arabic Audio": "msa-1146-1.mp3"
 		},
@@ -18,7 +18,7 @@
 			"English": "He wears a blue uniform.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يرتدي الزي الأزرق.",
 			"Egyptian Arabic Audio": "eca-1146-2.mp3",
 			"Standard Arabic Audio": "msa-1146-2.mp3"
 		},
@@ -27,7 +27,7 @@
 			"English": "He wears a cap.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يرتدي قبعة.",
 			"Egyptian Arabic Audio": "eca-1146-3.mp3",
 			"Standard Arabic Audio": "msa-1146-3.mp3"
 		},
@@ -36,7 +36,7 @@
 			"English": "He has a gun.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لديه بندقية.",
 			"Egyptian Arabic Audio": "eca-1146-4.mp3",
 			"Standard Arabic Audio": "msa-1146-4.mp3"
 		},
@@ -45,7 +45,7 @@
 			"English": "He has a badge.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لديه شارة.",
 			"Egyptian Arabic Audio": "eca-1146-5.mp3",
 			"Standard Arabic Audio": "msa-1146-5.mp3"
 		},
@@ -54,7 +54,7 @@
 			"English": "He is a policeman.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انه شرطي.",
 			"Egyptian Arabic Audio": "eca-1146-6.mp3",
 			"Standard Arabic Audio": "msa-1146-6.mp3"
 		},
@@ -63,7 +63,7 @@
 			"English": "He is a cop.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وهو شرطي.",
 			"Egyptian Arabic Audio": "eca-1146-7.mp3",
 			"Standard Arabic Audio": "msa-1146-7.mp3"
 		},
@@ -72,7 +72,7 @@
 			"English": "He protects the public.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وهو يحمي الجمهور.",
 			"Egyptian Arabic Audio": "eca-1146-8.mp3",
 			"Standard Arabic Audio": "msa-1146-8.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "He watches everyone.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انه يشاهد الجميع.",
 			"Egyptian Arabic Audio": "eca-1146-9.mp3",
 			"Standard Arabic Audio": "msa-1146-9.mp3"
 		},
@@ -90,7 +90,7 @@
 			"English": "He watches for criminals.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انه يشاهد للمجرمين.",
 			"Egyptian Arabic Audio": "eca-1146-10.mp3",
 			"Standard Arabic Audio": "msa-1146-10.mp3"
 		},
@@ -99,7 +99,7 @@
 			"English": "He watches for terrorists.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وهو يشاهد الإرهابيين.",
 			"Egyptian Arabic Audio": "eca-1146-11.mp3",
 			"Standard Arabic Audio": "msa-1146-11.mp3"
 		},
@@ -108,7 +108,7 @@
 			"English": "He looks for suspicious behavior.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انه يبحث عن السلوك المشبوهة.",
 			"Egyptian Arabic Audio": "eca-1146-12.mp3",
 			"Standard Arabic Audio": "msa-1146-12.mp3"
 		},
@@ -117,7 +117,7 @@
 			"English": "He listens for suspicious sounds.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يستمع للأصوات المشبوهة.",
 			"Egyptian Arabic Audio": "eca-1146-13.mp3",
 			"Standard Arabic Audio": "msa-1146-13.mp3"
 		}

@@ -9,7 +9,7 @@
 			"English": "Nancy turned the engine on.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "تحولت نانسي المحرك.",
 			"Egyptian Arabic Audio": "eca-0780-1.mp3",
 			"Standard Arabic Audio": "msa-0780-1.mp3"
 		},
@@ -18,7 +18,7 @@
 			"English": "She backed the car up slowly.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "دعمت السيارة ببطء.",
 			"Egyptian Arabic Audio": "eca-0780-2.mp3",
 			"Standard Arabic Audio": "msa-0780-2.mp3"
 		},
@@ -27,7 +27,7 @@
 			"English": "Then, she pressed the gas pedal.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ثم، ضغطت دواسة الغاز.",
 			"Egyptian Arabic Audio": "eca-0780-3.mp3",
 			"Standard Arabic Audio": "msa-0780-3.mp3"
 		},
@@ -36,7 +36,7 @@
 			"English": "She had no idea the car was that fast.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لم يكن لديها فكرة أن السيارة كانت سريعة.",
 			"Egyptian Arabic Audio": "eca-0780-4.mp3",
 			"Standard Arabic Audio": "msa-0780-4.mp3"
 		},
@@ -45,7 +45,7 @@
 			"English": "Nancy hit a small bump and pressed the brake.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ضربت نانسي عثرة صغيرة وضغطت على الفرامل.",
 			"Egyptian Arabic Audio": "eca-0780-5.mp3",
 			"Standard Arabic Audio": "msa-0780-5.mp3"
 		},
@@ -54,7 +54,7 @@
 			"English": "When she looked back, she saw a dark shadow.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "عندما نظرت إلى الوراء، رأت الظل الداكن.",
 			"Egyptian Arabic Audio": "eca-0780-6.mp3",
 			"Standard Arabic Audio": "msa-0780-6.mp3"
 		},
@@ -63,7 +63,7 @@
 			"English": "She had run over her dog.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كانت تدير كلبها.",
 			"Egyptian Arabic Audio": "eca-0780-7.mp3",
 			"Standard Arabic Audio": "msa-0780-7.mp3"
 		}

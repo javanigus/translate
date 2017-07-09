@@ -9,7 +9,7 @@
 			"English": "They all went to Hawaii together.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ذهبوا جميعا إلى هاواي معا.",
 			"Egyptian Arabic Audio": "eca-0915-1.mp3",
 			"Standard Arabic Audio": "msa-0915-1.mp3"
 		},
@@ -18,7 +18,7 @@
 			"English": "They didn't worry about money when they were there.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لم يقلقوا المال عندما كانوا هناك.",
 			"Egyptian Arabic Audio": "eca-0915-2.mp3",
 			"Standard Arabic Audio": "msa-0915-2.mp3"
 		},
@@ -27,7 +27,7 @@
 			"English": "Josh stayed in the nicest hotel.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ظل جوش في أجمل الفنادق.",
 			"Egyptian Arabic Audio": "eca-0915-3.mp3",
 			"Standard Arabic Audio": "msa-0915-3.mp3"
 		},
@@ -36,7 +36,7 @@
 			"English": "He ate the fanciest food.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أكل أرقى الطعام.",
 			"Egyptian Arabic Audio": "eca-0915-4.mp3",
 			"Standard Arabic Audio": "msa-0915-4.mp3"
 		},
@@ -45,7 +45,7 @@
 			"English": "He flew back home first-class.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "طار الى الوطن من الدرجة الأولى.",
 			"Egyptian Arabic Audio": "eca-0915-5.mp3",
 			"Standard Arabic Audio": "msa-0915-5.mp3"
 		},
@@ -54,7 +54,7 @@
 			"English": "He had about $800,000 left.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كان لديه حوالي 800،000 $ اليسار.",
 			"Egyptian Arabic Audio": "eca-0915-6.mp3",
 			"Standard Arabic Audio": "msa-0915-6.mp3"
 		},
@@ -63,7 +63,7 @@
 			"English": "He decided to put it all in his bank account.",
 			"Word Count": 10,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "قرر أن يضع كل شيء في حسابه المصرفي.",
 			"Egyptian Arabic Audio": "eca-0915-7.mp3",
 			"Standard Arabic Audio": "msa-0915-7.mp3"
 		},
@@ -72,7 +72,7 @@
 			"English": "He didn't want to go too crazy.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لم يكن يريد أن يذهب مجنون جدا.",
 			"Egyptian Arabic Audio": "eca-0915-8.mp3",
 			"Standard Arabic Audio": "msa-0915-8.mp3"
 		}

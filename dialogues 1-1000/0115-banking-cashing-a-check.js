@@ -11,7 +11,7 @@
 			"English": "I would like to cash this check.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أود أن أصرف هذا الشيك.",
 			"Egyptian Arabic Audio": "eca-0115-1.mp3",
 			"Standard Arabic Audio": "msa-0115-1.mp3"
 		},
@@ -21,7 +21,7 @@
 			"English": "Did you endorse the check?",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هل تؤيد الشيك؟",
 			"Egyptian Arabic Audio": "eca-0115-2.mp3",
 			"Standard Arabic Audio": "msa-0115-2.mp3"
 		},
@@ -31,7 +31,7 @@
 			"English": "What does endorse mean?",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ماذا يعني تأييد؟",
 			"Egyptian Arabic Audio": "eca-0115-3.mp3",
 			"Standard Arabic Audio": "msa-0115-3.mp3"
 		},
@@ -41,7 +41,7 @@
 			"English": "It means you need to sign the back of the check.",
 			"Word Count": 11,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وهذا يعني أنك بحاجة إلى توقيع الجزء الخلفي من الاختيار.",
 			"Egyptian Arabic Audio": "eca-0115-4.mp3",
 			"Standard Arabic Audio": "msa-0115-4.mp3"
 		},
@@ -51,7 +51,7 @@
 			"English": "I will do that right now.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "سأفعل ذلك الآن.",
 			"Egyptian Arabic Audio": "eca-0115-5.mp3",
 			"Standard Arabic Audio": "msa-0115-5.mp3"
 		},
@@ -61,7 +61,7 @@
 			"English": "Can I have your account number and identification please?",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هل يمكنني الحصول على رقم حسابك والتعرف عليه؟",
 			"Egyptian Arabic Audio": "eca-0115-6.mp3",
 			"Standard Arabic Audio": "msa-0115-6.mp3"
 		},
@@ -71,7 +71,7 @@
 			"English": "Oh, I don't have an account here.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أوه، ليس لدي حساب هنا.",
 			"Egyptian Arabic Audio": "eca-0115-7.mp3",
 			"Standard Arabic Audio": "msa-0115-7.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "Then there will be a $10 fee to cash the check.",
 			"Word Count": 11,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ثم سيكون هناك رسوم 10 $ نقدا الشيك.",
 			"Egyptian Arabic Audio": "eca-0115-8.mp3",
 			"Standard Arabic Audio": "msa-0115-8.mp3"
 		},
@@ -91,7 +91,7 @@
 			"English": "Do I have to pay that fee?",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هل يجب علي دفع هذا الرسم؟",
 			"Egyptian Arabic Audio": "eca-0115-9.mp3",
 			"Standard Arabic Audio": "msa-0115-9.mp3"
 		},
@@ -101,7 +101,7 @@
 			"English": "An alternative would be to open an account here.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "البديل هو فتح حساب هنا.",
 			"Egyptian Arabic Audio": "eca-0115-10.mp3",
 			"Standard Arabic Audio": "msa-0115-10.mp3"
 		},
@@ -111,7 +111,7 @@
 			"English": "I already have a checking account at another bank.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لدي بالفعل حساب تدقيق في مصرف آخر.",
 			"Egyptian Arabic Audio": "eca-0115-11.mp3",
 			"Standard Arabic Audio": "msa-0115-11.mp3"
 		},
@@ -121,7 +121,7 @@
 			"English": "Then you should cash your check there.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ثم يجب عليك دفع الشيك الخاص بك هناك.",
 			"Egyptian Arabic Audio": "eca-0115-12.mp3",
 			"Standard Arabic Audio": "msa-0115-12.mp3"
 		}

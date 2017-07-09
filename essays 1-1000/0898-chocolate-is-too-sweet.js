@@ -9,7 +9,7 @@
 			"English": "\"Too sweet!\" Susie yells.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "&quot;حلو جدا!&quot; سوزي يلص.",
 			"Egyptian Arabic Audio": "eca-0898-1.mp3",
 			"Standard Arabic Audio": "msa-0898-1.mp3"
 		},
@@ -18,7 +18,7 @@
 			"English": "\"You never said what kind of drink you wanted,\" her mom says.",
 			"Word Count": 12,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وتقول والدتها: &quot;أنت لم تقول أبدا نوع الشراب الذي تريده.",
 			"Egyptian Arabic Audio": "eca-0898-2.mp3",
 			"Standard Arabic Audio": "msa-0898-2.mp3"
 		},
@@ -27,7 +27,7 @@
 			"English": "Susie gets up from her seat.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "سوزي يحصل من مقعدها.",
 			"Egyptian Arabic Audio": "eca-0898-3.mp3",
 			"Standard Arabic Audio": "msa-0898-3.mp3"
 		},
@@ -36,7 +36,7 @@
 			"English": "She grabs a water bottle.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انها الاستيلاء على زجاجة ماء.",
 			"Egyptian Arabic Audio": "eca-0898-4.mp3",
 			"Standard Arabic Audio": "msa-0898-4.mp3"
 		},
@@ -45,7 +45,7 @@
 			"English": "She drinks a lot of water.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انها تشرب الكثير من الماء.",
 			"Egyptian Arabic Audio": "eca-0898-5.mp3",
 			"Standard Arabic Audio": "msa-0898-5.mp3"
 		},
@@ -54,7 +54,7 @@
 			"English": "\"Much better,\" she says.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "&quot;أفضل بكثير&quot;، كما تقول.",
 			"Egyptian Arabic Audio": "eca-0898-6.mp3",
 			"Standard Arabic Audio": "msa-0898-6.mp3"
 		},
@@ -63,7 +63,7 @@
 			"English": "She continues eating the chocolate.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وهي تواصل تناول الشوكولاتة.",
 			"Egyptian Arabic Audio": "eca-0898-7.mp3",
 			"Standard Arabic Audio": "msa-0898-7.mp3"
 		}

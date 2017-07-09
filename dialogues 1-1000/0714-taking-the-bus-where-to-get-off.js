@@ -11,7 +11,7 @@
 			"English": "Is this your first time riding the bus?",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هل هذه هي المرة الأولى التي ركوب الحافلة؟",
 			"Egyptian Arabic Audio": "eca-0714-1.mp3",
 			"Standard Arabic Audio": "msa-0714-1.mp3"
 		},
@@ -21,7 +21,7 @@
 			"English": "Yes, it is. How did you tell?",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "نعم إنه كذلك. كيف قلت؟",
 			"Egyptian Arabic Audio": "eca-0714-2.mp3",
 			"Standard Arabic Audio": "msa-0714-2.mp3"
 		},
@@ -31,7 +31,7 @@
 			"English": "The look on your face gave it away.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أعطى نظرة على وجهك بعيدا.",
 			"Egyptian Arabic Audio": "eca-0714-3.mp3",
 			"Standard Arabic Audio": "msa-0714-3.mp3"
 		},
@@ -41,7 +41,7 @@
 			"English": "I really do look that confused?",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنا حقا لا تبدو أن الخلط؟",
 			"Egyptian Arabic Audio": "eca-0714-4.mp3",
 			"Standard Arabic Audio": "msa-0714-4.mp3"
 		},
@@ -51,7 +51,7 @@
 			"English": "I'm sorry to say so, but don't be embarrassed.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنا آسف أن أقول ذلك، ولكن لا يكون بالحرج.",
 			"Egyptian Arabic Audio": "eca-0714-5.mp3",
 			"Standard Arabic Audio": "msa-0714-5.mp3"
 		},
@@ -61,7 +61,7 @@
 			"English": "You seem friendly. Would you mind answering a question?",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يبدو أنك ودود. هل تمانع في الإجابة عن سؤال؟",
 			"Egyptian Arabic Audio": "eca-0714-6.mp3",
 			"Standard Arabic Audio": "msa-0714-6.mp3"
 		},
@@ -71,7 +71,7 @@
 			"English": "No, not at all. What's your question?",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لا، لا على الإطلاق. ما هو سؤالك؟",
 			"Egyptian Arabic Audio": "eca-0714-7.mp3",
 			"Standard Arabic Audio": "msa-0714-7.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "I'm trying to get to the airport. Do you know where I should get off?",
 			"Word Count": 15,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أحاول الوصول إلى المطار. هل تعرف أين يجب النزول؟",
 			"Egyptian Arabic Audio": "eca-0714-8.mp3",
 			"Standard Arabic Audio": "msa-0714-8.mp3"
 		},
@@ -91,7 +91,7 @@
 			"English": "This bus actually drops you off right in front of the airport.",
 			"Word Count": 12,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هذا الحافلة في الواقع قطرات قبالة لكم الحق أمام المطار.",
 			"Egyptian Arabic Audio": "eca-0714-9.mp3",
 			"Standard Arabic Audio": "msa-0714-9.mp3"
 		},
@@ -101,7 +101,7 @@
 			"English": "I know that it does. I've just forgotten on what street.",
 			"Word Count": 11,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وأنا أعلم أنه يفعل. لقد نسيت فقط على ما الشارع.",
 			"Egyptian Arabic Audio": "eca-0714-10.mp3",
 			"Standard Arabic Audio": "msa-0714-10.mp3"
 		},
@@ -111,7 +111,7 @@
 			"English": "The stop will say LAX Airport.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "المحطة سوف يقول مطار لاكس.",
 			"Egyptian Arabic Audio": "eca-0714-11.mp3",
 			"Standard Arabic Audio": "msa-0714-11.mp3"
 		},
@@ -121,7 +121,7 @@
 			"English": "Oh, really. That's pretty obvious.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "حقا. هذا واضح جدا.",
 			"Egyptian Arabic Audio": "eca-0714-12.mp3",
 			"Standard Arabic Audio": "msa-0714-12.mp3"
 		}

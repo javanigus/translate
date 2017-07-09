@@ -11,7 +11,7 @@
 			"English": "I'm planning a house warming party.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنا تخطط حزب الاحترار المنزل.",
 			"Egyptian Arabic Audio": "eca-0057-1.mp3",
 			"Standard Arabic Audio": "msa-0057-1.mp3"
 		},
@@ -21,7 +21,7 @@
 			"English": "Is that to celebrate buying a heater?",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هل هذا للاحتفال شراء سخان؟",
 			"Egyptian Arabic Audio": "eca-0057-2.mp3",
 			"Standard Arabic Audio": "msa-0057-2.mp3"
 		},
@@ -31,7 +31,7 @@
 			"English": "Don't be so sarcastic!",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لا تكون ساخرة جدا!",
 			"Egyptian Arabic Audio": "eca-0057-3.mp3",
 			"Standard Arabic Audio": "msa-0057-3.mp3"
 		},
@@ -41,7 +41,7 @@
 			"English": "I really don't know what that is.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنا حقا لا أعرف ما هو.",
 			"Egyptian Arabic Audio": "eca-0057-4.mp3",
 			"Standard Arabic Audio": "msa-0057-4.mp3"
 		},
@@ -51,7 +51,7 @@
 			"English": "It's so that we can meet our neighbors!",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انها حتى نتمكن من تلبية جيراننا!",
 			"Egyptian Arabic Audio": "eca-0057-5.mp3",
 			"Standard Arabic Audio": "msa-0057-5.mp3"
 		},
@@ -61,7 +61,7 @@
 			"English": "I don't really want to meet our neighbors.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنا لا أريد حقا أن يلتقي جيراننا.",
 			"Egyptian Arabic Audio": "eca-0057-6.mp3",
 			"Standard Arabic Audio": "msa-0057-6.mp3"
 		},
@@ -71,7 +71,7 @@
 			"English": "Quit being so negative.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "الاستغناء عن ذلك سلبية جدا.",
 			"Egyptian Arabic Audio": "eca-0057-7.mp3",
 			"Standard Arabic Audio": "msa-0057-7.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "What do we do at this party?",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ماذا نفعل في هذا الحزب؟",
 			"Egyptian Arabic Audio": "eca-0057-8.mp3",
 			"Standard Arabic Audio": "msa-0057-8.mp3"
 		},
@@ -91,7 +91,7 @@
 			"English": "Everyone brings a dish, and we sit, eat, and talk.",
 			"Word Count": 10,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "الجميع يجلب طبق، ونحن نجلس، وتناول الطعام، والحديث.",
 			"Egyptian Arabic Audio": "eca-0057-9.mp3",
 			"Standard Arabic Audio": "msa-0057-9.mp3"
 		},
@@ -101,7 +101,7 @@
 			"English": "Sounds like a regular party.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يبدو وكأنه حزب منتظم.",
 			"Egyptian Arabic Audio": "eca-0057-10.mp3",
 			"Standard Arabic Audio": "msa-0057-10.mp3"
 		},
@@ -111,7 +111,7 @@
 			"English": "It's a regular party.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "إنه حزب منتظم.",
 			"Egyptian Arabic Audio": "eca-0057-11.mp3",
 			"Standard Arabic Audio": "msa-0057-11.mp3"
 		},
@@ -121,7 +121,7 @@
 			"English": "Next time, don't call it something so strange.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "في المرة القادمة، لا يطلق عليه شيء غريب جدا.",
 			"Egyptian Arabic Audio": "eca-0057-12.mp3",
 			"Standard Arabic Audio": "msa-0057-12.mp3"
 		}

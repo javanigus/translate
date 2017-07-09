@@ -9,7 +9,7 @@
 			"English": "Hilary was surprised.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "فوجئت هيلاري.",
 			"Egyptian Arabic Audio": "eca-0865-1.mp3",
 			"Standard Arabic Audio": "msa-0865-1.mp3"
 		},
@@ -18,7 +18,7 @@
 			"English": "She had no idea.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لم يكن لديها أي فكرة.",
 			"Egyptian Arabic Audio": "eca-0865-2.mp3",
 			"Standard Arabic Audio": "msa-0865-2.mp3"
 		},
@@ -27,7 +27,7 @@
 			"English": "She always wore shoes inside the house.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كانت دائما ترتدي حذاء داخل المنزل.",
 			"Egyptian Arabic Audio": "eca-0865-3.mp3",
 			"Standard Arabic Audio": "msa-0865-3.mp3"
 		},
@@ -36,7 +36,7 @@
 			"English": "She didn't want to get her feet dirty.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "الوجه الصفع وقالت إنها لا تريد الحصول على قدميها القذرة.",
 			"Egyptian Arabic Audio": "eca-0865-4.mp3",
 			"Standard Arabic Audio": "msa-0865-4.mp3"
 		},
@@ -45,7 +45,7 @@
 			"English": "She didn't want to argue with Bree though.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وقالت إنها لا تريد أن تجادل مع بري على الرغم من.",
 			"Egyptian Arabic Audio": "eca-0865-5.mp3",
 			"Standard Arabic Audio": "msa-0865-5.mp3"
 		},
@@ -54,7 +54,7 @@
 			"English": "She said sorry.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وقالت آسف.",
 			"Egyptian Arabic Audio": "eca-0865-6.mp3",
 			"Standard Arabic Audio": "msa-0865-6.mp3"
 		},
@@ -63,7 +63,7 @@
 			"English": "Bree told Hillary to apologize to Lia.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وقال بري ل هيلاري للاعتذار ليا.",
 			"Egyptian Arabic Audio": "eca-0865-7.mp3",
 			"Standard Arabic Audio": "msa-0865-7.mp3"
 		},
@@ -72,7 +72,7 @@
 			"English": "Hilary called Lia and said sorry.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ودعا هيلاري ليا وقال آسف.",
 			"Egyptian Arabic Audio": "eca-0865-8.mp3",
 			"Standard Arabic Audio": "msa-0865-8.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "Lia said it was okay.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وقال ليا انه بخير.",
 			"Egyptian Arabic Audio": "eca-0865-9.mp3",
 			"Standard Arabic Audio": "msa-0865-9.mp3"
 		}

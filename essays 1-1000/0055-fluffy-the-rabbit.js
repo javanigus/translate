@@ -9,7 +9,7 @@
 			"English": "He has a pet.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لديه حيوان أليف.",
 			"Egyptian Arabic Audio": "eca-0055-1.mp3",
 			"Standard Arabic Audio": "msa-0055-1.mp3"
 		},
@@ -18,7 +18,7 @@
 			"English": "It is a rabbit.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "إنه أرنب.",
 			"Egyptian Arabic Audio": "eca-0055-2.mp3",
 			"Standard Arabic Audio": "msa-0055-2.mp3"
 		},
@@ -27,7 +27,7 @@
 			"English": "His rabbit's name is Fluffy.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "اسم أرنبه هو منفوش.",
 			"Egyptian Arabic Audio": "eca-0055-3.mp3",
 			"Standard Arabic Audio": "msa-0055-3.mp3"
 		},
@@ -36,7 +36,7 @@
 			"English": "Fluffy is female.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "منفوش هو أنثى.",
 			"Egyptian Arabic Audio": "eca-0055-4.mp3",
 			"Standard Arabic Audio": "msa-0055-4.mp3"
 		},
@@ -45,7 +45,7 @@
 			"English": "She is white.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هي بيضاء.",
 			"Egyptian Arabic Audio": "eca-0055-5.mp3",
 			"Standard Arabic Audio": "msa-0055-5.mp3"
 		},
@@ -54,7 +54,7 @@
 			"English": "She has black eyes.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لديها عيون سوداء.",
 			"Egyptian Arabic Audio": "eca-0055-6.mp3",
 			"Standard Arabic Audio": "msa-0055-6.mp3"
 		},
@@ -63,7 +63,7 @@
 			"English": "She is very soft.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انها لينة جدا.",
 			"Egyptian Arabic Audio": "eca-0055-7.mp3",
 			"Standard Arabic Audio": "msa-0055-7.mp3"
 		},
@@ -72,7 +72,7 @@
 			"English": "She is playful.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هي لعوب.",
 			"Egyptian Arabic Audio": "eca-0055-8.mp3",
 			"Standard Arabic Audio": "msa-0055-8.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "She weighs seven pounds.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انها تزن سبعة جنيه.",
 			"Egyptian Arabic Audio": "eca-0055-9.mp3",
 			"Standard Arabic Audio": "msa-0055-9.mp3"
 		},
@@ -90,7 +90,7 @@
 			"English": "She likes to hop around the house.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انها تحب أن تقفز في جميع أنحاء المنزل.",
 			"Egyptian Arabic Audio": "eca-0055-10.mp3",
 			"Standard Arabic Audio": "msa-0055-10.mp3"
 		},
@@ -99,7 +99,7 @@
 			"English": "She likes to eat carrots.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "إنها تحب أن تأكل الجزر.",
 			"Egyptian Arabic Audio": "eca-0055-11.mp3",
 			"Standard Arabic Audio": "msa-0055-11.mp3"
 		},
@@ -108,7 +108,7 @@
 			"English": "He gives Fluffy five carrots a day.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يعطي خمسة منفوش الجزر يوميا.",
 			"Egyptian Arabic Audio": "eca-0055-12.mp3",
 			"Standard Arabic Audio": "msa-0055-12.mp3"
 		}

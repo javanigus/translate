@@ -11,7 +11,7 @@
 			"English": "I'm hungry.",
 			"Word Count": 2,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "إنني جائع أنا جوعان.",
 			"Egyptian Arabic Audio": "eca-1240-1.mp3",
 			"Standard Arabic Audio": "msa-1240-1.mp3"
 		},
@@ -21,7 +21,7 @@
 			"English": "So am I.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وكذلك أنا.",
 			"Egyptian Arabic Audio": "eca-1240-2.mp3",
 			"Standard Arabic Audio": "msa-1240-2.mp3"
 		},
@@ -31,7 +31,7 @@
 			"English": "Where should we go eat today?",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أين ينبغي أن نذهب أكل اليوم؟",
 			"Egyptian Arabic Audio": "eca-1240-3.mp3",
 			"Standard Arabic Audio": "msa-1240-3.mp3"
 		},
@@ -41,7 +41,7 @@
 			"English": "How about we go eat in the cafeteria?",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ماذا عن نذهب أكل في الكافتيريا؟",
 			"Egyptian Arabic Audio": "eca-1240-4.mp3",
 			"Standard Arabic Audio": "msa-1240-4.mp3"
 		},
@@ -51,7 +51,7 @@
 			"English": "I never bought food from the cafeteria.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لم أشتر أبدا الطعام من الكافتيريا.",
 			"Egyptian Arabic Audio": "eca-1240-5.mp3",
 			"Standard Arabic Audio": "msa-1240-5.mp3"
 		},
@@ -61,7 +61,7 @@
 			"English": "You haven't? They have a lot of good stuff.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنت لم تفعل ذلك؟ لديهم الكثير من الأشياء الجيدة.",
 			"Egyptian Arabic Audio": "eca-1240-6.mp3",
 			"Standard Arabic Audio": "msa-1240-6.mp3"
 		},
@@ -71,7 +71,7 @@
 			"English": "What do they have?",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ماذا لديهم؟",
 			"Egyptian Arabic Audio": "eca-1240-7.mp3",
 			"Standard Arabic Audio": "msa-1240-7.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "They sell everything.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يبيعون كل شيء.",
 			"Egyptian Arabic Audio": "eca-1240-8.mp3",
 			"Standard Arabic Audio": "msa-1240-8.mp3"
 		},
@@ -91,7 +91,7 @@
 			"English": "I want Chinese food.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أريد الطعام الصيني.",
 			"Egyptian Arabic Audio": "eca-1240-9.mp3",
 			"Standard Arabic Audio": "msa-1240-9.mp3"
 		},
@@ -101,7 +101,7 @@
 			"English": "I've gotten chow mein from there before.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لقد حصلت تشاو مين من هناك من قبل.",
 			"Egyptian Arabic Audio": "eca-1240-10.mp3",
 			"Standard Arabic Audio": "msa-1240-10.mp3"
 		},
@@ -111,7 +111,7 @@
 			"English": "I guess we can eat there then.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أعتقد أننا يمكن أن تأكل هناك ثم.",
 			"Egyptian Arabic Audio": "eca-1240-11.mp3",
 			"Standard Arabic Audio": "msa-1240-11.mp3"
 		},
@@ -121,7 +121,7 @@
 			"English": "Trust me, the food isn't half bad.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ثق بي، الطعام ليس نصف سيئة.",
 			"Egyptian Arabic Audio": "eca-1240-12.mp3",
 			"Standard Arabic Audio": "msa-1240-12.mp3"
 		},
@@ -131,7 +131,7 @@
 			"English": "I am starving.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انا اتضور جوعا.",
 			"Egyptian Arabic Audio": "eca-1240-13.mp3",
 			"Standard Arabic Audio": "msa-1240-13.mp3"
 		},
@@ -141,7 +141,7 @@
 			"English": "Let's go get something to eat.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "دعونا نذهب الحصول على شيء لتناول الطعام.",
 			"Egyptian Arabic Audio": "eca-1240-14.mp3",
 			"Standard Arabic Audio": "msa-1240-14.mp3"
 		},
@@ -151,7 +151,7 @@
 			"English": "Is there somewhere you wanted to go eat at?",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هل هناك في مكان ما تريد أن تذهب أكل في؟",
 			"Egyptian Arabic Audio": "eca-1240-15.mp3",
 			"Standard Arabic Audio": "msa-1240-15.mp3"
 		},
@@ -161,7 +161,7 @@
 			"English": "We can always go to the cafeteria and eat.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يمكننا دائما الذهاب إلى الكافتيريا وتناول الطعام.",
 			"Egyptian Arabic Audio": "eca-1240-16.mp3",
 			"Standard Arabic Audio": "msa-1240-16.mp3"
 		},
@@ -171,7 +171,7 @@
 			"English": "I haven't eaten there before.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنا لم أكل هناك من قبل.",
 			"Egyptian Arabic Audio": "eca-1240-17.mp3",
 			"Standard Arabic Audio": "msa-1240-17.mp3"
 		},
@@ -181,7 +181,7 @@
 			"English": "The food there is pretty good.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "الطعام هناك جيدة جدا.",
 			"Egyptian Arabic Audio": "eca-1240-18.mp3",
 			"Standard Arabic Audio": "msa-1240-18.mp3"
 		},
@@ -191,7 +191,7 @@
 			"English": "What kind of food do they serve?",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ما نوع الطعام الذي يخدمونه؟",
 			"Egyptian Arabic Audio": "eca-1240-19.mp3",
 			"Standard Arabic Audio": "msa-1240-19.mp3"
 		},
@@ -201,7 +201,7 @@
 			"English": "You can get whatever you want at the cafeteria.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يمكنك الحصول على كل ما تريد في الكافتيريا.",
 			"Egyptian Arabic Audio": "eca-1240-20.mp3",
 			"Standard Arabic Audio": "msa-1240-20.mp3"
 		},
@@ -211,7 +211,7 @@
 			"English": "I have a taste for Chinese food.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لدي طعم الطعام الصيني.",
 			"Egyptian Arabic Audio": "eca-1240-21.mp3",
 			"Standard Arabic Audio": "msa-1240-21.mp3"
 		},
@@ -221,7 +221,7 @@
 			"English": "They have really good chow mein.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لديهم حقا جيدة تشاو مين.",
 			"Egyptian Arabic Audio": "eca-1240-22.mp3",
 			"Standard Arabic Audio": "msa-1240-22.mp3"
 		},
@@ -231,7 +231,7 @@
 			"English": "Let's go to the cafeteria.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "دعنا نذهب إلى الكافتيريا.",
 			"Egyptian Arabic Audio": "eca-1240-23.mp3",
 			"Standard Arabic Audio": "msa-1240-23.mp3"
 		},
@@ -241,7 +241,7 @@
 			"English": "It'll be fine.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "سوف تتحسن الامور.",
 			"Egyptian Arabic Audio": "eca-1240-24.mp3",
 			"Standard Arabic Audio": "msa-1240-24.mp3"
 		},
@@ -251,7 +251,7 @@
 			"English": "I am absolutely famished.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنا فامشيد تماما.",
 			"Egyptian Arabic Audio": "eca-1240-25.mp3",
 			"Standard Arabic Audio": "msa-1240-25.mp3"
 		},
@@ -261,7 +261,7 @@
 			"English": "Yeah. I am too.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "بلى. وأنا كذلك.",
 			"Egyptian Arabic Audio": "eca-1240-26.mp3",
 			"Standard Arabic Audio": "msa-1240-26.mp3"
 		},
@@ -271,7 +271,7 @@
 			"English": "Where did you want to go for lunch?",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أين تريد الذهاب لتناول طعام الغداء؟",
 			"Egyptian Arabic Audio": "eca-1240-27.mp3",
 			"Standard Arabic Audio": "msa-1240-27.mp3"
 		},
@@ -281,7 +281,7 @@
 			"English": "I was thinking we should just go to the cafeteria.",
 			"Word Count": 10,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كنت أفكر أننا يجب أن تذهب فقط إلى الكافتيريا.",
 			"Egyptian Arabic Audio": "eca-1240-28.mp3",
 			"Standard Arabic Audio": "msa-1240-28.mp3"
 		},
@@ -291,7 +291,7 @@
 			"English": "I don't think I ever got food from the cafeteria.",
 			"Word Count": 10,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لا أعتقد أنني حصلت على الطعام من الكافتيريا.",
 			"Egyptian Arabic Audio": "eca-1240-29.mp3",
 			"Standard Arabic Audio": "msa-1240-29.mp3"
 		},
@@ -301,7 +301,7 @@
 			"English": "I actually like the food there.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنا فعلا أحب الطعام هناك.",
 			"Egyptian Arabic Audio": "eca-1240-30.mp3",
 			"Standard Arabic Audio": "msa-1240-30.mp3"
 		},
@@ -311,7 +311,7 @@
 			"English": "Does the cafeteria sell a lot of different food?",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هل يبيع الكافتيريا الكثير من المواد الغذائية المختلفة؟",
 			"Egyptian Arabic Audio": "eca-1240-31.mp3",
 			"Standard Arabic Audio": "msa-1240-31.mp3"
 		},
@@ -321,7 +321,7 @@
 			"English": "They have anything you want.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لديهم أي شيء تريده.",
 			"Egyptian Arabic Audio": "eca-1240-32.mp3",
 			"Standard Arabic Audio": "msa-1240-32.mp3"
 		},
@@ -331,7 +331,7 @@
 			"English": "I was thinking about getting some Chinese food.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كنت أفكر في الحصول على بعض الطعام الصيني.",
 			"Egyptian Arabic Audio": "eca-1240-33.mp3",
 			"Standard Arabic Audio": "msa-1240-33.mp3"
 		},
@@ -341,7 +341,7 @@
 			"English": "I bought some chow mein at the cafeteria. It tasted great.",
 			"Word Count": 11,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "اشتريت بعض تشاو مين في الكافتيريا. ذاقت كبيرة.",
 			"Egyptian Arabic Audio": "eca-1240-34.mp3",
 			"Standard Arabic Audio": "msa-1240-34.mp3"
 		},
@@ -351,7 +351,7 @@
 			"English": "We can eat at the cafeteria.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يمكننا أن نأكل في الكافتيريا.",
 			"Egyptian Arabic Audio": "eca-1240-35.mp3",
 			"Standard Arabic Audio": "msa-1240-35.mp3"
 		},
@@ -361,7 +361,7 @@
 			"English": "I think you'll really like the food there.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أعتقد أنك سوف تحب الطعام هناك.",
 			"Egyptian Arabic Audio": "eca-1240-36.mp3",
 			"Standard Arabic Audio": "msa-1240-36.mp3"
 		}

@@ -9,7 +9,7 @@
 			"English": "It is an uphill race.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "إنه سباق شاق.",
 			"Egyptian Arabic Audio": "eca-1106-1.mp3",
 			"Standard Arabic Audio": "msa-1106-1.mp3"
 		},
@@ -18,7 +18,7 @@
 			"English": "The runners run up the stairs.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "المتسابقين تشغيل الدرج.",
 			"Egyptian Arabic Audio": "eca-1106-2.mp3",
 			"Standard Arabic Audio": "msa-1106-2.mp3"
 		},
@@ -27,7 +27,7 @@
 			"English": "They run up the stairs in the Empire State Building.",
 			"Word Count": 10,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وهم يديرون الدرج في مبنى إمباير ستيت.",
 			"Egyptian Arabic Audio": "eca-1106-3.mp3",
 			"Standard Arabic Audio": "msa-1106-3.mp3"
 		},
@@ -36,7 +36,7 @@
 			"English": "There are many steps.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هناك العديد من الخطوات.",
 			"Egyptian Arabic Audio": "eca-1106-4.mp3",
 			"Standard Arabic Audio": "msa-1106-4.mp3"
 		},
@@ -45,7 +45,7 @@
 			"English": "It is a difficult race.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "إنه سباق صعب.",
 			"Egyptian Arabic Audio": "eca-1106-5.mp3",
 			"Standard Arabic Audio": "msa-1106-5.mp3"
 		},
@@ -54,7 +54,7 @@
 			"English": "It takes a long time.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يستغرق وقتا طويلا.",
 			"Egyptian Arabic Audio": "eca-1106-6.mp3",
 			"Standard Arabic Audio": "msa-1106-6.mp3"
 		},
@@ -63,7 +63,7 @@
 			"English": "It is an annual race.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "إنه سباق سنوي.",
 			"Egyptian Arabic Audio": "eca-1106-7.mp3",
 			"Standard Arabic Audio": "msa-1106-7.mp3"
 		},
@@ -72,7 +72,7 @@
 			"English": "The runners are in very good condition.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "المتسابقين في حالة جيدة جدا.",
 			"Egyptian Arabic Audio": "eca-1106-8.mp3",
 			"Standard Arabic Audio": "msa-1106-8.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "They train all year round.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وهم يتدربون على مدار السنة.",
 			"Egyptian Arabic Audio": "eca-1106-9.mp3",
 			"Standard Arabic Audio": "msa-1106-9.mp3"
 		}

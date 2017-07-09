@@ -9,7 +9,7 @@
 			"English": "She goes to the zoo.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "تذهب إلى حديقة الحيوان.",
 			"Egyptian Arabic Audio": "eca-0001-1.mp3",
 			"Standard Arabic Audio": "msa-0001-1.mp3"
 		},
@@ -18,7 +18,7 @@
 			"English": "She sees a lion.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ترى أسد.",
 			"Egyptian Arabic Audio": "eca-0001-2.mp3",
 			"Standard Arabic Audio": "msa-0001-2.mp3"
 		},
@@ -27,7 +27,7 @@
 			"English": "The lion roars.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أسد الأسد.",
 			"Egyptian Arabic Audio": "eca-0001-3.mp3",
 			"Standard Arabic Audio": "msa-0001-3.mp3"
 		},
@@ -36,7 +36,7 @@
 			"English": "She sees an elephant.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ترى فيل.",
 			"Egyptian Arabic Audio": "eca-0001-4.mp3",
 			"Standard Arabic Audio": "msa-0001-4.mp3"
 		},
@@ -45,7 +45,7 @@
 			"English": "The elephant has a long trunk.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "الفيل لديه جذع طويل.",
 			"Egyptian Arabic Audio": "eca-0001-5.mp3",
 			"Standard Arabic Audio": "msa-0001-5.mp3"
 		},
@@ -54,7 +54,7 @@
 			"English": "She sees a turtle.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ترى سلحفاة.",
 			"Egyptian Arabic Audio": "eca-0001-6.mp3",
 			"Standard Arabic Audio": "msa-0001-6.mp3"
 		},
@@ -63,7 +63,7 @@
 			"English": "The turtle is slow.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "السلحفاة بطيئة.",
 			"Egyptian Arabic Audio": "eca-0001-7.mp3",
 			"Standard Arabic Audio": "msa-0001-7.mp3"
 		},
@@ -72,7 +72,7 @@
 			"English": "She sees a rabbit.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ترى أرنب.",
 			"Egyptian Arabic Audio": "eca-0001-8.mp3",
 			"Standard Arabic Audio": "msa-0001-8.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "The rabbit has soft fur.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "الأرنب لديه الفراء لينة.",
 			"Egyptian Arabic Audio": "eca-0001-9.mp3",
 			"Standard Arabic Audio": "msa-0001-9.mp3"
 		},
@@ -90,7 +90,7 @@
 			"English": "She sees a gorilla.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ترى غوريلا.",
 			"Egyptian Arabic Audio": "eca-0001-10.mp3",
 			"Standard Arabic Audio": "msa-0001-10.mp3"
 		},
@@ -99,7 +99,7 @@
 			"English": "The gorilla is eating a banana.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "الغوريلا هو تناول الموز.",
 			"Egyptian Arabic Audio": "eca-0001-11.mp3",
 			"Standard Arabic Audio": "msa-0001-11.mp3"
 		}

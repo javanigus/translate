@@ -11,7 +11,7 @@
 			"English": "I can't believe we're actually moved in.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لا أستطيع أن أصدق أننا في الواقع انتقلت.",
 			"Egyptian Arabic Audio": "eca-0960-1.mp3",
 			"Standard Arabic Audio": "msa-0960-1.mp3"
 		},
@@ -21,7 +21,7 @@
 			"English": "I know. It's like a dream come true.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "اعرف. انها مثل حلم تتحقق.",
 			"Egyptian Arabic Audio": "eca-0960-2.mp3",
 			"Standard Arabic Audio": "msa-0960-2.mp3"
 		},
@@ -31,7 +31,7 @@
 			"English": "We found the stores, and schools. It's time to find a church now.",
 			"Word Count": 13,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وجدنا مخازن، والمدارس. حان الوقت للعثور على الكنيسة الآن.",
 			"Egyptian Arabic Audio": "eca-0960-3.mp3",
 			"Standard Arabic Audio": "msa-0960-3.mp3"
 		},
@@ -41,7 +41,7 @@
 			"English": "Yes. I can't believe I forgot about that.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "نعم فعلا. لا أستطيع أن أصدق أنني نسيت ذلك.",
 			"Egyptian Arabic Audio": "eca-0960-4.mp3",
 			"Standard Arabic Audio": "msa-0960-4.mp3"
 		},
@@ -51,7 +51,7 @@
 			"English": "We've been very busy, Marcy. That's okay.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كنا مشغول جدا، مارسي. حسنا.",
 			"Egyptian Arabic Audio": "eca-0960-5.mp3",
 			"Standard Arabic Audio": "msa-0960-5.mp3"
 		},
@@ -61,7 +61,7 @@
 			"English": "How do we find one?",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كيف نجد واحدة؟",
 			"Egyptian Arabic Audio": "eca-0960-6.mp3",
 			"Standard Arabic Audio": "msa-0960-6.mp3"
 		},
@@ -71,7 +71,7 @@
 			"English": "I guess we can call our old pastor.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أعتقد أننا يمكن أن ندعو القس القديم لدينا.",
 			"Egyptian Arabic Audio": "eca-0960-7.mp3",
 			"Standard Arabic Audio": "msa-0960-7.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "That's right. He will know.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "صحيح. وقال انه سوف يعرف.",
 			"Egyptian Arabic Audio": "eca-0960-8.mp3",
 			"Standard Arabic Audio": "msa-0960-8.mp3"
 		},
@@ -91,7 +91,7 @@
 			"English": "It's either that, or check the Internet.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انها إما أن، أو التحقق من الإنترنت.",
 			"Egyptian Arabic Audio": "eca-0960-9.mp3",
 			"Standard Arabic Audio": "msa-0960-9.mp3"
 		},
@@ -101,7 +101,7 @@
 			"English": "I think I like the pastor idea better.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أعتقد أنني أحب فكرة القس أفضل.",
 			"Egyptian Arabic Audio": "eca-0960-10.mp3",
 			"Standard Arabic Audio": "msa-0960-10.mp3"
 		},
@@ -111,7 +111,7 @@
 			"English": "Yes. He can probably give us the name of the local pastor.",
 			"Word Count": 12,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "نعم فعلا. يمكن أن يعطينا على الأرجح اسم القس المحلي.",
 			"Egyptian Arabic Audio": "eca-0960-11.mp3",
 			"Standard Arabic Audio": "msa-0960-11.mp3"
 		},
@@ -121,7 +121,7 @@
 			"English": "I'm so eager to start now.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنا متحمس جدا للبدء الآن.",
 			"Egyptian Arabic Audio": "eca-0960-12.mp3",
 			"Standard Arabic Audio": "msa-0960-12.mp3"
 		}

@@ -11,7 +11,7 @@
 			"English": "Can I get you something to drink?",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هل يمكنني الحصول على شيء للشرب؟",
 			"Egyptian Arabic Audio": "eca-0863-1.mp3",
 			"Standard Arabic Audio": "msa-0863-1.mp3"
 		},
@@ -21,7 +21,7 @@
 			"English": "I would love something to drink.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أحب شيئا للشرب.",
 			"Egyptian Arabic Audio": "eca-0863-2.mp3",
 			"Standard Arabic Audio": "msa-0863-2.mp3"
 		},
@@ -31,7 +31,7 @@
 			"English": "I have water, juice, ice tea or did you want something stronger?",
 			"Word Count": 12,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لدي الماء والعصير والشاي الجليد أو هل تريد شيئا أقوى؟",
 			"Egyptian Arabic Audio": "eca-0863-3.mp3",
 			"Standard Arabic Audio": "msa-0863-3.mp3"
 		},
@@ -41,7 +41,7 @@
 			"English": "Something stronger would be great. Do you have wine?",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "شيء أقوى سيكون كبيرا. هل لديك النبيذ؟",
 			"Egyptian Arabic Audio": "eca-0863-4.mp3",
 			"Standard Arabic Audio": "msa-0863-4.mp3"
 		},
@@ -51,7 +51,7 @@
 			"English": "I do. Would you prefer red wine or white wine?",
 			"Word Count": 10,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنا افعل. هل تفضل النبيذ الأحمر أو النبيذ الأبيض؟",
 			"Egyptian Arabic Audio": "eca-0863-5.mp3",
 			"Standard Arabic Audio": "msa-0863-5.mp3"
 		},
@@ -61,7 +61,7 @@
 			"English": "I'd love white, but it depends what kind you have.",
 			"Word Count": 10,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أحب الأبيض، ولكن ذلك يعتمد أي نوع لديك.",
 			"Egyptian Arabic Audio": "eca-0863-6.mp3",
 			"Standard Arabic Audio": "msa-0863-6.mp3"
 		},
@@ -71,7 +71,7 @@
 			"English": "I have Chardonnay.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لدي شاردونيه.",
 			"Egyptian Arabic Audio": "eca-0863-7.mp3",
 			"Standard Arabic Audio": "msa-0863-7.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "That would be great. I'll take a glass.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هذا سيكون رائع. سوف تأخذ الزجاج.",
 			"Egyptian Arabic Audio": "eca-0863-8.mp3",
 			"Standard Arabic Audio": "msa-0863-8.mp3"
 		},
@@ -91,7 +91,7 @@
 			"English": "Excellent! Should I also bring out some cheese and crackers.",
 			"Word Count": 10,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ممتاز! يجب أن أخرج أيضا بعض الجبن و المفرقعات.",
 			"Egyptian Arabic Audio": "eca-0863-9.mp3",
 			"Standard Arabic Audio": "msa-0863-9.mp3"
 		},
@@ -101,7 +101,7 @@
 			"English": "That would go so well with the wine.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هذا من شأنه أن يذهب بشكل جيد مع النبيذ.",
 			"Egyptian Arabic Audio": "eca-0863-10.mp3",
 			"Standard Arabic Audio": "msa-0863-10.mp3"
 		},
@@ -111,7 +111,7 @@
 			"English": "Great! Just give me a moment to get that from the kitchen.",
 			"Word Count": 12,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "عظيم! فقط أعطني لحظة للحصول على ذلك من المطبخ.",
 			"Egyptian Arabic Audio": "eca-0863-11.mp3",
 			"Standard Arabic Audio": "msa-0863-11.mp3"
 		},
@@ -121,7 +121,7 @@
 			"English": "You are such a wonderful host.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كنت مثل هذا المضيف الرائع.",
 			"Egyptian Arabic Audio": "eca-0863-12.mp3",
 			"Standard Arabic Audio": "msa-0863-12.mp3"
 		}

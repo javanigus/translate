@@ -9,7 +9,7 @@
 			"English": "He has a school supplies box.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لديه صندوق اللوازم المدرسية.",
 			"Egyptian Arabic Audio": "eca-0112-1.mp3",
 			"Standard Arabic Audio": "msa-0112-1.mp3"
 		},
@@ -18,7 +18,7 @@
 			"English": "There are five pencils inside.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هناك خمسة أقلام الرصاص في الداخل.",
 			"Egyptian Arabic Audio": "eca-0112-2.mp3",
 			"Standard Arabic Audio": "msa-0112-2.mp3"
 		},
@@ -27,7 +27,7 @@
 			"English": "They are sharp.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "فهي حادة.",
 			"Egyptian Arabic Audio": "eca-0112-3.mp3",
 			"Standard Arabic Audio": "msa-0112-3.mp3"
 		},
@@ -36,7 +36,7 @@
 			"English": "They are all yellow.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وكلها أصفر.",
 			"Egyptian Arabic Audio": "eca-0112-4.mp3",
 			"Standard Arabic Audio": "msa-0112-4.mp3"
 		},
@@ -45,7 +45,7 @@
 			"English": "They all have a pink eraser at the end.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لديهم جميعا ممحاة وردي في نهاية المطاف.",
 			"Egyptian Arabic Audio": "eca-0112-5.mp3",
 			"Standard Arabic Audio": "msa-0112-5.mp3"
 		},
@@ -54,7 +54,7 @@
 			"English": "He has two erasers.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لديه اثنين من المحايات.",
 			"Egyptian Arabic Audio": "eca-0112-6.mp3",
 			"Standard Arabic Audio": "msa-0112-6.mp3"
 		},
@@ -63,7 +63,7 @@
 			"English": "One eraser is white.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ممحاة واحدة بيضاء.",
 			"Egyptian Arabic Audio": "eca-0112-7.mp3",
 			"Standard Arabic Audio": "msa-0112-7.mp3"
 		},
@@ -72,7 +72,7 @@
 			"English": "Another is pink.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "آخر هو الوردي.",
 			"Egyptian Arabic Audio": "eca-0112-8.mp3",
 			"Standard Arabic Audio": "msa-0112-8.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "He uses the pencil to write something.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يستخدم قلم الرصاص لكتابة شيء ما.",
 			"Egyptian Arabic Audio": "eca-0112-9.mp3",
 			"Standard Arabic Audio": "msa-0112-9.mp3"
 		},
@@ -90,7 +90,7 @@
 			"English": "He uses the eraser to fix his mistake.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انه يستخدم ممحاة لإصلاح خطأه.",
 			"Egyptian Arabic Audio": "eca-0112-10.mp3",
 			"Standard Arabic Audio": "msa-0112-10.mp3"
 		}

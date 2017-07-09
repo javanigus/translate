@@ -9,7 +9,7 @@
 			"English": "She has a baby brother.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لديها شقيق طفل.",
 			"Egyptian Arabic Audio": "eca-0384-1.mp3",
 			"Standard Arabic Audio": "msa-0384-1.mp3"
 		},
@@ -18,7 +18,7 @@
 			"English": "She loves him.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنها تحبه.",
 			"Egyptian Arabic Audio": "eca-0384-2.mp3",
 			"Standard Arabic Audio": "msa-0384-2.mp3"
 		},
@@ -27,7 +27,7 @@
 			"English": "She talks to him every day.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "تتحدث معه كل يوم.",
 			"Egyptian Arabic Audio": "eca-0384-3.mp3",
 			"Standard Arabic Audio": "msa-0384-3.mp3"
 		},
@@ -36,7 +36,7 @@
 			"English": "She pushes him in the stroller.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انها تدفع له في عربة.",
 			"Egyptian Arabic Audio": "eca-0384-4.mp3",
 			"Standard Arabic Audio": "msa-0384-4.mp3"
 		},
@@ -45,7 +45,7 @@
 			"English": "She changes his diapers.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انها تغير حفاضات له.",
 			"Egyptian Arabic Audio": "eca-0384-5.mp3",
 			"Standard Arabic Audio": "msa-0384-5.mp3"
 		},
@@ -54,7 +54,7 @@
 			"English": "She feeds him his bottle.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انها تغذي له زجاجة له.",
 			"Egyptian Arabic Audio": "eca-0384-6.mp3",
 			"Standard Arabic Audio": "msa-0384-6.mp3"
 		},
@@ -63,7 +63,7 @@
 			"English": "She burps him.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انها تجشؤ له.",
 			"Egyptian Arabic Audio": "eca-0384-7.mp3",
 			"Standard Arabic Audio": "msa-0384-7.mp3"
 		},
@@ -72,7 +72,7 @@
 			"English": "She puts him in the highchair.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "إنها تضعه في الكرسي العالي.",
 			"Egyptian Arabic Audio": "eca-0384-8.mp3",
 			"Standard Arabic Audio": "msa-0384-8.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "She feeds him dinner.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انها تغذي له العشاء.",
 			"Egyptian Arabic Audio": "eca-0384-9.mp3",
 			"Standard Arabic Audio": "msa-0384-9.mp3"
 		},
@@ -90,7 +90,7 @@
 			"English": "She wipes the food off his mouth.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "تمسح الطعام من فمه.",
 			"Egyptian Arabic Audio": "eca-0384-10.mp3",
 			"Standard Arabic Audio": "msa-0384-10.mp3"
 		},
@@ -99,7 +99,7 @@
 			"English": "She is a good sister.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "إنها شقيقة جيدة.",
 			"Egyptian Arabic Audio": "eca-0384-11.mp3",
 			"Standard Arabic Audio": "msa-0384-11.mp3"
 		}

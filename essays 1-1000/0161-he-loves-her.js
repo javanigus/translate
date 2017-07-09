@@ -9,7 +9,7 @@
 			"English": "He loves a girl.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يحب فتاة.",
 			"Egyptian Arabic Audio": "eca-0161-1.mp3",
 			"Standard Arabic Audio": "msa-0161-1.mp3"
 		},
@@ -18,7 +18,7 @@
 			"English": "He loves how she talks.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يحب كيف تتحدث.",
 			"Egyptian Arabic Audio": "eca-0161-2.mp3",
 			"Standard Arabic Audio": "msa-0161-2.mp3"
 		},
@@ -27,7 +27,7 @@
 			"English": "He loves how she walks.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يحب كيف يمشي.",
 			"Egyptian Arabic Audio": "eca-0161-3.mp3",
 			"Standard Arabic Audio": "msa-0161-3.mp3"
 		},
@@ -36,7 +36,7 @@
 			"English": "He thinks she is pretty.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انه يعتقد انها جميلة.",
 			"Egyptian Arabic Audio": "eca-0161-4.mp3",
 			"Standard Arabic Audio": "msa-0161-4.mp3"
 		},
@@ -45,7 +45,7 @@
 			"English": "He thinks she is smart.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انه يعتقد انها ذكية.",
 			"Egyptian Arabic Audio": "eca-0161-5.mp3",
 			"Standard Arabic Audio": "msa-0161-5.mp3"
 		},
@@ -54,7 +54,7 @@
 			"English": "She is perfect.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هي مثالية.",
 			"Egyptian Arabic Audio": "eca-0161-6.mp3",
 			"Standard Arabic Audio": "msa-0161-6.mp3"
 		},
@@ -63,7 +63,7 @@
 			"English": "She does not know he loves her.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انها لا تعرف انه يحب لها.",
 			"Egyptian Arabic Audio": "eca-0161-7.mp3",
 			"Standard Arabic Audio": "msa-0161-7.mp3"
 		},
@@ -72,7 +72,7 @@
 			"English": "He asks her out.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يسألها.",
 			"Egyptian Arabic Audio": "eca-0161-8.mp3",
 			"Standard Arabic Audio": "msa-0161-8.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "She says no.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "تقول لا.",
 			"Egyptian Arabic Audio": "eca-0161-9.mp3",
 			"Standard Arabic Audio": "msa-0161-9.mp3"
 		},
@@ -90,7 +90,7 @@
 			"English": "He is sad.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هو حزين.",
 			"Egyptian Arabic Audio": "eca-0161-10.mp3",
 			"Standard Arabic Audio": "msa-0161-10.mp3"
 		},
@@ -99,7 +99,7 @@
 			"English": "He still loves her.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لا يزال يحب لها.",
 			"Egyptian Arabic Audio": "eca-0161-11.mp3",
 			"Standard Arabic Audio": "msa-0161-11.mp3"
 		},
@@ -108,7 +108,7 @@
 			"English": "He will ask her out again.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وسوف يسألها مرة أخرى.",
 			"Egyptian Arabic Audio": "eca-0161-12.mp3",
 			"Standard Arabic Audio": "msa-0161-12.mp3"
 		}

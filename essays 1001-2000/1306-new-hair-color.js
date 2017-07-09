@@ -9,7 +9,7 @@
 			"English": "Susan didn't like the color of her hair.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لم تعجب سوزان لون شعرها.",
 			"Egyptian Arabic Audio": "eca-1306-1.mp3",
 			"Standard Arabic Audio": "msa-1306-1.mp3"
 		},
@@ -18,7 +18,7 @@
 			"English": "Her hair was changing color.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "شعرها يتغير لونها.",
 			"Egyptian Arabic Audio": "eca-1306-2.mp3",
 			"Standard Arabic Audio": "msa-1306-2.mp3"
 		},
@@ -27,7 +27,7 @@
 			"English": "It used to be all black.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كان كل الأسود.",
 			"Egyptian Arabic Audio": "eca-1306-3.mp3",
 			"Standard Arabic Audio": "msa-1306-3.mp3"
 		},
@@ -36,7 +36,7 @@
 			"English": "But now it was turning gray.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ولكن الآن تحول اللون الرمادي.",
 			"Egyptian Arabic Audio": "eca-1306-4.mp3",
 			"Standard Arabic Audio": "msa-1306-4.mp3"
 		},
@@ -45,7 +45,7 @@
 			"English": "She didn't like the gray hair.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وقالت انها لا تحب الشعر الرمادي.",
 			"Egyptian Arabic Audio": "eca-1306-5.mp3",
 			"Standard Arabic Audio": "msa-1306-5.mp3"
 		},
@@ -54,7 +54,7 @@
 			"English": "Gray hair made her look older.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "الشعر الرمادي جعلها تبدو كبار السن.",
 			"Egyptian Arabic Audio": "eca-1306-6.mp3",
 			"Standard Arabic Audio": "msa-1306-6.mp3"
 		},
@@ -63,7 +63,7 @@
 			"English": "She didn't want to look older.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وقالت إنها لا تريد أن تبدو كبار السن.",
 			"Egyptian Arabic Audio": "eca-1306-7.mp3",
 			"Standard Arabic Audio": "msa-1306-7.mp3"
 		},
@@ -72,7 +72,7 @@
 			"English": "She made an appointment with the beauty salon.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وقد حددت موعدا مع صالون التجميل.",
 			"Egyptian Arabic Audio": "eca-1306-8.mp3",
 			"Standard Arabic Audio": "msa-1306-8.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "A week later, she went to the beauty salon.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وبعد أسبوع، ذهبت إلى صالون التجميل.",
 			"Egyptian Arabic Audio": "eca-1306-9.mp3",
 			"Standard Arabic Audio": "msa-1306-9.mp3"
 		},
@@ -90,7 +90,7 @@
 			"English": "The hairdresser colored Susan's hair.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "تصفيف الشعر الملونة سوزان الشعر.",
 			"Egyptian Arabic Audio": "eca-1306-10.mp3",
 			"Standard Arabic Audio": "msa-1306-10.mp3"
 		},
@@ -99,7 +99,7 @@
 			"English": "She added a little bit of purple color to Susan's hair.",
 			"Word Count": 11,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وأضافت قليلا من اللون الأرجواني إلى شعر سوزان.",
 			"Egyptian Arabic Audio": "eca-1306-11.mp3",
 			"Standard Arabic Audio": "msa-1306-11.mp3"
 		},
@@ -108,7 +108,7 @@
 			"English": "When the hairdresser finished, Susan looked at her hair.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "عندما انتهى تصفيف الشعر، نظرت سوزان في شعرها.",
 			"Egyptian Arabic Audio": "eca-1306-12.mp3",
 			"Standard Arabic Audio": "msa-1306-12.mp3"
 		},
@@ -117,7 +117,7 @@
 			"English": "She liked it.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "احبته.",
 			"Egyptian Arabic Audio": "eca-1306-13.mp3",
 			"Standard Arabic Audio": "msa-1306-13.mp3"
 		},
@@ -126,7 +126,7 @@
 			"English": "She couldn't see any gray hair.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وقالت إنها لا يمكن أن نرى أي الشعر الرمادي.",
 			"Egyptian Arabic Audio": "eca-1306-14.mp3",
 			"Standard Arabic Audio": "msa-1306-14.mp3"
 		},
@@ -135,7 +135,7 @@
 			"English": "All she could see was black hair with a little bit of purple tint.",
 			"Word Count": 14,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كل ما يمكن أن نرى كان الشعر الأسود مع القليل من لون الأرجواني.",
 			"Egyptian Arabic Audio": "eca-1306-15.mp3",
 			"Standard Arabic Audio": "msa-1306-15.mp3"
 		},
@@ -144,7 +144,7 @@
 			"English": "The purple tint looked nice.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "بدا لون الأرجواني لطيف.",
 			"Egyptian Arabic Audio": "eca-1306-16.mp3",
 			"Standard Arabic Audio": "msa-1306-16.mp3"
 		},
@@ -153,7 +153,7 @@
 			"English": "Susan hoped her boyfriend would like it.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "سوزان تأمل صديقها ترغب في ذلك.",
 			"Egyptian Arabic Audio": "eca-1306-17.mp3",
 			"Standard Arabic Audio": "msa-1306-17.mp3"
 		}

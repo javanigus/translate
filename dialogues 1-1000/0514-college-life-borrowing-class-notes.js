@@ -11,7 +11,7 @@
 			"English": "Can I borrow your class notes from yesterday's lecture?",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هل يمكنني اقتراض ملاحظات صفك من محاضرة الأمس؟",
 			"Egyptian Arabic Audio": "eca-0514-1.mp3",
 			"Standard Arabic Audio": "msa-0514-1.mp3"
 		},
@@ -21,7 +21,7 @@
 			"English": "Heck no! You're so lazy.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هيك لا! أنت كسول جدا.",
 			"Egyptian Arabic Audio": "eca-0514-2.mp3",
 			"Standard Arabic Audio": "msa-0514-2.mp3"
 		},
@@ -31,7 +31,7 @@
 			"English": "What are you talking about? I was sick yesterday.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "عن ماذا تتحدث؟ كنت مريضا أمس.",
 			"Egyptian Arabic Audio": "eca-0514-3.mp3",
 			"Standard Arabic Audio": "msa-0514-3.mp3"
 		},
@@ -41,7 +41,7 @@
 			"English": "I don't care. Ask someone else.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لا أهتم. اسأل شخص آخر.",
 			"Egyptian Arabic Audio": "eca-0514-4.mp3",
 			"Standard Arabic Audio": "msa-0514-4.mp3"
 		},
@@ -51,7 +51,7 @@
 			"English": "You're so mean!",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انت فظ جدا!",
 			"Egyptian Arabic Audio": "eca-0514-5.mp3",
 			"Standard Arabic Audio": "msa-0514-5.mp3"
 		},
@@ -61,7 +61,7 @@
 			"English": "I can't let anyone borrow my class notes.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لا أستطيع السماح لأي شخص اقتراض الملاحظات صفتي.",
 			"Egyptian Arabic Audio": "eca-0514-6.mp3",
 			"Standard Arabic Audio": "msa-0514-6.mp3"
 		},
@@ -71,7 +71,7 @@
 			"English": "Why not? They're just notes.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لما لا؟ انهم مجرد ملاحظات.",
 			"Egyptian Arabic Audio": "eca-0514-7.mp3",
 			"Standard Arabic Audio": "msa-0514-7.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "I let a classmate borrow my notes once, and she sold copies to people.",
 			"Word Count": 14,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "اسمحوا لي زميل تقترض الملاحظات بلدي مرة واحدة، وبيعت نسخا للناس.",
 			"Egyptian Arabic Audio": "eca-0514-8.mp3",
 			"Standard Arabic Audio": "msa-0514-8.mp3"
 		},
@@ -91,7 +91,7 @@
 			"English": "That's crazy! For how much?",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هذا جنون! بكم؟",
 			"Egyptian Arabic Audio": "eca-0514-9.mp3",
 			"Standard Arabic Audio": "msa-0514-9.mp3"
 		},
@@ -101,7 +101,7 @@
 			"English": "She sold each class note set for $5.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "باعت كل فئة ملاحظة مجموعة ل $ 5.",
 			"Egyptian Arabic Audio": "eca-0514-10.mp3",
 			"Standard Arabic Audio": "msa-0514-10.mp3"
 		},
@@ -111,7 +111,7 @@
 			"English": "Don't worry, I promise not to sell your notes.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لا تقلق، أعدك بعدم بيع الملاحظات الخاصة بك.",
 			"Egyptian Arabic Audio": "eca-0514-11.mp3",
 			"Standard Arabic Audio": "msa-0514-11.mp3"
 		},
@@ -121,7 +121,7 @@
 			"English": "I can't take your word for it.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لا أستطيع أن تأخذ كلمتك لذلك.",
 			"Egyptian Arabic Audio": "eca-0514-12.mp3",
 			"Standard Arabic Audio": "msa-0514-12.mp3"
 		}

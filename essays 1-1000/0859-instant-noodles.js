@@ -9,7 +9,7 @@
 			"English": "She pours the seasoning on the noodles.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انها تصب التوابل على الشعرية.",
 			"Egyptian Arabic Audio": "eca-0859-1.mp3",
 			"Standard Arabic Audio": "msa-0859-1.mp3"
 		},
@@ -18,7 +18,7 @@
 			"English": "She fills the bowl with water.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انها تملأ وعاء بالماء.",
 			"Egyptian Arabic Audio": "eca-0859-2.mp3",
 			"Standard Arabic Audio": "msa-0859-2.mp3"
 		},
@@ -27,7 +27,7 @@
 			"English": "She closes the lid.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "تغلق الغطاء.",
 			"Egyptian Arabic Audio": "eca-0859-3.mp3",
 			"Standard Arabic Audio": "msa-0859-3.mp3"
 		},
@@ -36,7 +36,7 @@
 			"English": "She puts the bowl in the microwave.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انها تضع وعاء في الميكروويف.",
 			"Egyptian Arabic Audio": "eca-0859-4.mp3",
 			"Standard Arabic Audio": "msa-0859-4.mp3"
 		},
@@ -45,7 +45,7 @@
 			"English": "She heats it up for three minutes.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انها تسخن الامر لمدة ثلاث دقائق.",
 			"Egyptian Arabic Audio": "eca-0859-5.mp3",
 			"Standard Arabic Audio": "msa-0859-5.mp3"
 		},
@@ -54,7 +54,7 @@
 			"English": "She sits down.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "تجلس.",
 			"Egyptian Arabic Audio": "eca-0859-6.mp3",
 			"Standard Arabic Audio": "msa-0859-6.mp3"
 		},
@@ -63,7 +63,7 @@
 			"English": "She studies while she waits.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وقالت انها تدرس بينما تنتظر.",
 			"Egyptian Arabic Audio": "eca-0859-7.mp3",
 			"Standard Arabic Audio": "msa-0859-7.mp3"
 		},
@@ -72,7 +72,7 @@
 			"English": "She hears the \"ding.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انها تسمع &quot;دينغ.",
 			"Egyptian Arabic Audio": "eca-0859-8.mp3",
 			"Standard Arabic Audio": "msa-0859-8.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "\" It's ready!.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "&quot; إنه جاهز!.",
 			"Egyptian Arabic Audio": "eca-0859-9.mp3",
 			"Standard Arabic Audio": "msa-0859-9.mp3"
 		}

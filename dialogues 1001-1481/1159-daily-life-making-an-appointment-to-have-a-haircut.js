@@ -11,7 +11,7 @@
 			"English": "How are you doing today?",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كيف حالك اليوم؟",
 			"Egyptian Arabic Audio": "eca-1159-2.mp3",
 			"Standard Arabic Audio": "msa-1159-2.mp3"
 		},
@@ -21,7 +21,7 @@
 			"English": "Great. What can I help you with?",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "عظيم. بماذا يمكنني مساعدتك؟",
 			"Egyptian Arabic Audio": "eca-1159-3.mp3",
 			"Standard Arabic Audio": "msa-1159-3.mp3"
 		},
@@ -31,7 +31,7 @@
 			"English": "I need to make an appointment for a haircut.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنا بحاجة إلى تحديد موعد لحلاقة.",
 			"Egyptian Arabic Audio": "eca-1159-4.mp3",
 			"Standard Arabic Audio": "msa-1159-4.mp3"
 		},
@@ -41,7 +41,7 @@
 			"English": "Okay. What day would you like to come in?",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "حسنا. ما اليوم الذي تريد أن تأتي في؟",
 			"Egyptian Arabic Audio": "eca-1159-5.mp3",
 			"Standard Arabic Audio": "msa-1159-5.mp3"
 		},
@@ -51,7 +51,7 @@
 			"English": "How's Saturday?",
 			"Word Count": 2,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كيف يوم السبت؟",
 			"Egyptian Arabic Audio": "eca-1159-6.mp3",
 			"Standard Arabic Audio": "msa-1159-6.mp3"
 		},
@@ -61,7 +61,7 @@
 			"English": "Let me just check the books.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "اسمحوا لي أن تحقق فقط من الكتب.",
 			"Egyptian Arabic Audio": "eca-1159-7.mp3",
 			"Standard Arabic Audio": "msa-1159-7.mp3"
 		},
@@ -71,7 +71,7 @@
 			"English": "Okay.",
 			"Word Count": 1,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "حسنا.",
 			"Egyptian Arabic Audio": "eca-1159-8.mp3",
 			"Standard Arabic Audio": "msa-1159-8.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "Yes. We have openings only that morning.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "نعم فعلا. لدينا فتحات فقط في ذلك الصباح.",
 			"Egyptian Arabic Audio": "eca-1159-9.mp3",
 			"Standard Arabic Audio": "msa-1159-9.mp3"
 		},
@@ -91,7 +91,7 @@
 			"English": "Can I make it for 10:30?",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يمكنني جعله ل 10:30؟",
 			"Egyptian Arabic Audio": "eca-1159-10.mp3",
 			"Standard Arabic Audio": "msa-1159-10.mp3"
 		},
@@ -101,7 +101,7 @@
 			"English": "That'll be fine.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لا بأس بذلك.",
 			"Egyptian Arabic Audio": "eca-1159-11.mp3",
 			"Standard Arabic Audio": "msa-1159-11.mp3"
 		},
@@ -111,7 +111,7 @@
 			"English": "Sounds great, thank you.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يبدو رائعا، شكرا لك.",
 			"Egyptian Arabic Audio": "eca-1159-12.mp3",
 			"Standard Arabic Audio": "msa-1159-12.mp3"
 		},
@@ -121,7 +121,7 @@
 			"English": "No problem. See you Saturday morning.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ليس هناك أى مشكلة. نراكم صباح السبت.",
 			"Egyptian Arabic Audio": "eca-1159-13.mp3",
 			"Standard Arabic Audio": "msa-1159-13.mp3"
 		},
@@ -131,7 +131,7 @@
 			"English": "How's it going?",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كيف تجري الامور؟",
 			"Egyptian Arabic Audio": "eca-1159-15.mp3",
 			"Standard Arabic Audio": "msa-1159-15.mp3"
 		},
@@ -141,7 +141,7 @@
 			"English": "Perfect. What did you need?",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "في احسن الاحوال. ماذا كنت بحاجة؟",
 			"Egyptian Arabic Audio": "eca-1159-16.mp3",
 			"Standard Arabic Audio": "msa-1159-16.mp3"
 		},
@@ -151,7 +151,7 @@
 			"English": "I would like to schedule an appointment to get a haircut.",
 			"Word Count": 11,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أود أن تحديد موعد للحصول على حلاقة.",
 			"Egyptian Arabic Audio": "eca-1159-17.mp3",
 			"Standard Arabic Audio": "msa-1159-17.mp3"
 		},
@@ -161,7 +161,7 @@
 			"English": "What day are you free?",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ما اليوم أنت حر؟",
 			"Egyptian Arabic Audio": "eca-1159-18.mp3",
 			"Standard Arabic Audio": "msa-1159-18.mp3"
 		},
@@ -171,7 +171,7 @@
 			"English": "I'd like to come in on Saturday.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أود أن تأتي يوم السبت.",
 			"Egyptian Arabic Audio": "eca-1159-19.mp3",
 			"Standard Arabic Audio": "msa-1159-19.mp3"
 		},
@@ -181,7 +181,7 @@
 			"English": "I'll just see if we have any openings.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "سأرى فقط إذا كان لدينا أي فتحات.",
 			"Egyptian Arabic Audio": "eca-1159-20.mp3",
 			"Standard Arabic Audio": "msa-1159-20.mp3"
 		},
@@ -191,7 +191,7 @@
 			"English": "All right.",
 			"Word Count": 2,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "حسنا.",
 			"Egyptian Arabic Audio": "eca-1159-21.mp3",
 			"Standard Arabic Audio": "msa-1159-21.mp3"
 		},
@@ -201,7 +201,7 @@
 			"English": "The only time we have on Saturday is in the morning.",
 			"Word Count": 11,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "الوقت الوحيد الذي لدينا يوم السبت هو في الصباح.",
 			"Egyptian Arabic Audio": "eca-1159-22.mp3",
 			"Standard Arabic Audio": "msa-1159-22.mp3"
 		},
@@ -211,7 +211,7 @@
 			"English": "I'd like to schedule it for 10:30.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أود أن جدولة ذلك ل 10:30.",
 			"Egyptian Arabic Audio": "eca-1159-23.mp3",
 			"Standard Arabic Audio": "msa-1159-23.mp3"
 		},
@@ -221,7 +221,7 @@
 			"English": "That's perfect.",
 			"Word Count": 2,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هذا ممتاز.",
 			"Egyptian Arabic Audio": "eca-1159-24.mp3",
 			"Standard Arabic Audio": "msa-1159-24.mp3"
 		},
@@ -231,7 +231,7 @@
 			"English": "I appreciate that.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وأنا أقدر ذلك.",
 			"Egyptian Arabic Audio": "eca-1159-25.mp3",
 			"Standard Arabic Audio": "msa-1159-25.mp3"
 		},
@@ -241,7 +241,7 @@
 			"English": "We'll see you then.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "سنرى لك بعد ذلك.",
 			"Egyptian Arabic Audio": "eca-1159-26.mp3",
 			"Standard Arabic Audio": "msa-1159-26.mp3"
 		},
@@ -251,7 +251,7 @@
 			"English": "How are you?",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كيف حالك؟",
 			"Egyptian Arabic Audio": "eca-1159-28.mp3",
 			"Standard Arabic Audio": "msa-1159-28.mp3"
 		},
@@ -261,7 +261,7 @@
 			"English": "I'm fine. How can I help you?",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنا بخير. كيف بإمكاني مساعدتك؟",
 			"Egyptian Arabic Audio": "eca-1159-29.mp3",
 			"Standard Arabic Audio": "msa-1159-29.mp3"
 		},
@@ -271,7 +271,7 @@
 			"English": "I need to get a haircut, so can I schedule an appointment?",
 			"Word Count": 12,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنا بحاجة للحصول على حلاقة، لذلك يمكنني جدولة موعد؟",
 			"Egyptian Arabic Audio": "eca-1159-30.mp3",
 			"Standard Arabic Audio": "msa-1159-30.mp3"
 		},
@@ -281,7 +281,7 @@
 			"English": "What day would you like to make the appointment?",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ما اليوم الذي ترغب في جعل التعيين؟",
 			"Egyptian Arabic Audio": "eca-1159-31.mp3",
 			"Standard Arabic Audio": "msa-1159-31.mp3"
 		},
@@ -291,7 +291,7 @@
 			"English": "I was thinking Saturday.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كنت أفكر يوم السبت.",
 			"Egyptian Arabic Audio": "eca-1159-32.mp3",
 			"Standard Arabic Audio": "msa-1159-32.mp3"
 		},
@@ -301,7 +301,7 @@
 			"English": "All right. Let me check to see if we have any openings that day.",
 			"Word Count": 14,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "حسنا. اسمحوا لي أن تحقق لمعرفة ما إذا كان لدينا أي فتحات ذلك اليوم.",
 			"Egyptian Arabic Audio": "eca-1159-33.mp3",
 			"Standard Arabic Audio": "msa-1159-33.mp3"
 		},
@@ -311,7 +311,7 @@
 			"English": "That's fine.",
 			"Word Count": 2,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هذا جيّد.",
 			"Egyptian Arabic Audio": "eca-1159-34.mp3",
 			"Standard Arabic Audio": "msa-1159-34.mp3"
 		},
@@ -321,7 +321,7 @@
 			"English": "You can only make an appointment for Saturday morning.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يمكنك فقط تحديد موعد صباح السبت.",
 			"Egyptian Arabic Audio": "eca-1159-35.mp3",
 			"Standard Arabic Audio": "msa-1159-35.mp3"
 		},
@@ -331,7 +331,7 @@
 			"English": "Is 10:30 okay?",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هو 10:30 حسنا؟",
 			"Egyptian Arabic Audio": "eca-1159-36.mp3",
 			"Standard Arabic Audio": "msa-1159-36.mp3"
 		},
@@ -341,7 +341,7 @@
 			"English": "I'll pencil you in for that time.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنا قلم رصاص كنت في ذلك الوقت.",
 			"Egyptian Arabic Audio": "eca-1159-37.mp3",
 			"Standard Arabic Audio": "msa-1159-37.mp3"
 		},
@@ -351,7 +351,7 @@
 			"English": "Thank you very much.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "شكرا جزيلا.",
 			"Egyptian Arabic Audio": "eca-1159-38.mp3",
 			"Standard Arabic Audio": "msa-1159-38.mp3"
 		},
@@ -361,7 +361,7 @@
 			"English": "You're welcome. We'll see you on Saturday.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "على الرحب و السعة. سنرى لك يوم السبت.",
 			"Egyptian Arabic Audio": "eca-1159-39.mp3",
 			"Standard Arabic Audio": "msa-1159-39.mp3"
 		}

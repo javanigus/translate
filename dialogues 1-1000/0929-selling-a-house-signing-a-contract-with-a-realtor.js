@@ -11,7 +11,7 @@
 			"English": "Hello, Mr. Rogers. How are you today?",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "مرحبا، السيد روجرز. كيف حالك اليوم؟",
 			"Egyptian Arabic Audio": "eca-0929-1.mp3",
 			"Standard Arabic Audio": "msa-0929-1.mp3"
 		},
@@ -21,7 +21,7 @@
 			"English": "I'm doing well, Wendy. How are you?",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنا على ما يرام، ويندي. كيف حالك؟",
 			"Egyptian Arabic Audio": "eca-0929-2.mp3",
 			"Standard Arabic Audio": "msa-0929-2.mp3"
 		},
@@ -31,7 +31,7 @@
 			"English": "I'm great, thanks. So are you ready to make a decision?",
 			"Word Count": 11,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "في أحسن حال شكرا. هل أنت مستعد لاتخاذ قرار؟",
 			"Egyptian Arabic Audio": "eca-0929-3.mp3",
 			"Standard Arabic Audio": "msa-0929-3.mp3"
 		},
@@ -41,7 +41,7 @@
 			"English": "I certainly am. I'm going with your firm.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنا بالتأكيد أنا. أنا ذاهب مع شركتك.",
 			"Egyptian Arabic Audio": "eca-0929-4.mp3",
 			"Standard Arabic Audio": "msa-0929-4.mp3"
 		},
@@ -51,7 +51,7 @@
 			"English": "Oh, that's great news, Mr. Rogers.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أوه، هذا خبر عظيم، السيد روجرز.",
 			"Egyptian Arabic Audio": "eca-0929-5.mp3",
 			"Standard Arabic Audio": "msa-0929-5.mp3"
 		},
@@ -61,7 +61,7 @@
 			"English": "Okay, so what's next?",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "حسنا، فما هي الخطوة التالية؟",
 			"Egyptian Arabic Audio": "eca-0929-6.mp3",
 			"Standard Arabic Audio": "msa-0929-6.mp3"
 		},
@@ -71,7 +71,7 @@
 			"English": "I have a standard contract we use. You can look it over if you like.",
 			"Word Count": 15,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لدي عقد القياسية التي نستخدمها. يمكنك أن تبحث أكثر إذا أردت.",
 			"Egyptian Arabic Audio": "eca-0929-7.mp3",
 			"Standard Arabic Audio": "msa-0929-7.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "Sure I will, but can you give me an overview?",
 			"Word Count": 10,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "بالتأكيد سوف، ولكن يمكنك أن تعطيني لمحة عامة؟",
 			"Egyptian Arabic Audio": "eca-0929-8.mp3",
 			"Standard Arabic Audio": "msa-0929-8.mp3"
 		},
@@ -91,7 +91,7 @@
 			"English": "It basically reads that you agree to have us act as your agent.",
 			"Word Count": 13,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "فإنه يقرأ أساسا أنك توافق على أن يكون لنا بمثابة وكيلك.",
 			"Egyptian Arabic Audio": "eca-0929-9.mp3",
 			"Standard Arabic Audio": "msa-0929-9.mp3"
 		},
@@ -101,7 +101,7 @@
 			"English": "I still have the final say on the deal though, right?",
 			"Word Count": 11,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لا يزال لدي القول الأخير على الصفقة رغم ذلك، أليس كذلك؟",
 			"Egyptian Arabic Audio": "eca-0929-10.mp3",
 			"Standard Arabic Audio": "msa-0929-10.mp3"
 		},
@@ -111,7 +111,7 @@
 			"English": "Of course, you do, Mr. Rogers.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "بالطبع، يمكنك القيام به، السيد روجرز.",
 			"Egyptian Arabic Audio": "eca-0929-11.mp3",
 			"Standard Arabic Audio": "msa-0929-11.mp3"
 		},
@@ -121,7 +121,7 @@
 			"English": "I just wanted to be clear on that. Thanks.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أردت فقط أن أكون واضحا في ذلك. شكر.",
 			"Egyptian Arabic Audio": "eca-0929-12.mp3",
 			"Standard Arabic Audio": "msa-0929-12.mp3"
 		}

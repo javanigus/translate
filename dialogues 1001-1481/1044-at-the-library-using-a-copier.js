@@ -11,7 +11,7 @@
 			"English": "How may I help you today?",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كيف يمكن أن أساعدك اليوم؟",
 			"Egyptian Arabic Audio": "eca-1044-1.mp3",
 			"Standard Arabic Audio": "msa-1044-1.mp3"
 		},
@@ -21,7 +21,7 @@
 			"English": "I need to make some copies.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنا بحاجة إلى إجراء بعض النسخ.",
 			"Egyptian Arabic Audio": "eca-1044-2.mp3",
 			"Standard Arabic Audio": "msa-1044-2.mp3"
 		},
@@ -31,7 +31,7 @@
 			"English": "The copier is right over there.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ناسخة على حق هناك.",
 			"Egyptian Arabic Audio": "eca-1044-3.mp3",
 			"Standard Arabic Audio": "msa-1044-3.mp3"
 		},
@@ -41,7 +41,7 @@
 			"English": "Does it cost to use it?",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هل يكلف استخدامها؟",
 			"Egyptian Arabic Audio": "eca-1044-4.mp3",
 			"Standard Arabic Audio": "msa-1044-4.mp3"
 		},
@@ -51,7 +51,7 @@
 			"English": "We do charge to use the machine.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "نحن لا تهمة لاستخدام الجهاز.",
 			"Egyptian Arabic Audio": "eca-1044-5.mp3",
 			"Standard Arabic Audio": "msa-1044-5.mp3"
 		},
@@ -61,7 +61,7 @@
 			"English": "How much does it cost?",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كم يكلف؟",
 			"Egyptian Arabic Audio": "eca-1044-6.mp3",
 			"Standard Arabic Audio": "msa-1044-6.mp3"
 		},
@@ -71,7 +71,7 @@
 			"English": "We charge ten cents a copy.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "نحن نحمل عشرة سنتات نسخة.",
 			"Egyptian Arabic Audio": "eca-1044-7.mp3",
 			"Standard Arabic Audio": "msa-1044-7.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "How many copies am I allowed to make?",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كم عدد النسخ التي يسمح لي بإجراءها؟",
 			"Egyptian Arabic Audio": "eca-1044-8.mp3",
 			"Standard Arabic Audio": "msa-1044-8.mp3"
 		},
@@ -91,7 +91,7 @@
 			"English": "There is no limit to how many copies you can make.",
 			"Word Count": 11,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لا يوجد حد لعدد النسخ التي يمكنك إجراؤها.",
 			"Egyptian Arabic Audio": "eca-1044-9.mp3",
 			"Standard Arabic Audio": "msa-1044-9.mp3"
 		},
@@ -101,7 +101,7 @@
 			"English": "Would you mind showing me how to use it?",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هل تمانعني تبين لي كيفية استخدامه؟",
 			"Egyptian Arabic Audio": "eca-1044-10.mp3",
 			"Standard Arabic Audio": "msa-1044-10.mp3"
 		},
@@ -111,7 +111,7 @@
 			"English": "Please read the instructions on the copier.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يرجى قراءة التعليمات على الناسخة.",
 			"Egyptian Arabic Audio": "eca-1044-11.mp3",
 			"Standard Arabic Audio": "msa-1044-11.mp3"
 		},
@@ -121,7 +121,7 @@
 			"English": "Oh, okay. Thanks.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "حسنا. شكر.",
 			"Egyptian Arabic Audio": "eca-1044-12.mp3",
 			"Standard Arabic Audio": "msa-1044-12.mp3"
 		},
@@ -131,7 +131,7 @@
 			"English": "What can I do for you?",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ما الذي يمكنني أن أفعله من أجلك؟",
 			"Egyptian Arabic Audio": "eca-1044-13.mp3",
 			"Standard Arabic Audio": "msa-1044-13.mp3"
 		},
@@ -141,7 +141,7 @@
 			"English": "I would like to use the copy machine.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وأود أن استخدام آلة النسخ.",
 			"Egyptian Arabic Audio": "eca-1044-14.mp3",
 			"Standard Arabic Audio": "msa-1044-14.mp3"
 		},
@@ -151,7 +151,7 @@
 			"English": "The machine is over there.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "الجهاز هو هناك.",
 			"Egyptian Arabic Audio": "eca-1044-15.mp3",
 			"Standard Arabic Audio": "msa-1044-15.mp3"
 		},
@@ -161,7 +161,7 @@
 			"English": "Do I have to pay to use the machine?",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هل يجب علي الدفع لاستخدام الجهاز؟",
 			"Egyptian Arabic Audio": "eca-1044-16.mp3",
 			"Standard Arabic Audio": "msa-1044-16.mp3"
 		},
@@ -171,7 +171,7 @@
 			"English": "Yes, you will have to pay to use it.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "نعم، سيكون لديك لدفع لاستخدامها.",
 			"Egyptian Arabic Audio": "eca-1044-17.mp3",
 			"Standard Arabic Audio": "msa-1044-17.mp3"
 		},
@@ -181,7 +181,7 @@
 			"English": "How much?",
 			"Word Count": 2,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كم الثمن؟",
 			"Egyptian Arabic Audio": "eca-1044-18.mp3",
 			"Standard Arabic Audio": "msa-1044-18.mp3"
 		},
@@ -191,7 +191,7 @@
 			"English": "It costs ten cents a copy.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يكلف عشرة سنتات نسخة.",
 			"Egyptian Arabic Audio": "eca-1044-19.mp3",
 			"Standard Arabic Audio": "msa-1044-19.mp3"
 		},
@@ -201,7 +201,7 @@
 			"English": "Am I limited to a certain number of copies?",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هل أنا مقتصر على عدد معين من النسخ؟",
 			"Egyptian Arabic Audio": "eca-1044-20.mp3",
 			"Standard Arabic Audio": "msa-1044-20.mp3"
 		},
@@ -211,7 +211,7 @@
 			"English": "You can copy as much as you'd like.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يمكنك نسخ بقدر ما تريد.",
 			"Egyptian Arabic Audio": "eca-1044-21.mp3",
 			"Standard Arabic Audio": "msa-1044-21.mp3"
 		},
@@ -221,7 +221,7 @@
 			"English": "Could you show me how to use the copier?",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هل يمكن أن تبين لي كيفية استخدام الناسخة؟",
 			"Egyptian Arabic Audio": "eca-1044-22.mp3",
 			"Standard Arabic Audio": "msa-1044-22.mp3"
 		},
@@ -231,7 +231,7 @@
 			"English": "The instructions for the copier are posted on it.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يتم نشر تعليمات للناسخة على ذلك.",
 			"Egyptian Arabic Audio": "eca-1044-23.mp3",
 			"Standard Arabic Audio": "msa-1044-23.mp3"
 		},
@@ -241,7 +241,7 @@
 			"English": "That's fabulous. Thank you.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هذا رائع. شكرا.",
 			"Egyptian Arabic Audio": "eca-1044-24.mp3",
 			"Standard Arabic Audio": "msa-1044-24.mp3"
 		},
@@ -251,7 +251,7 @@
 			"English": "May I help you?",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هل لى أن أساعدك؟",
 			"Egyptian Arabic Audio": "eca-1044-25.mp3",
 			"Standard Arabic Audio": "msa-1044-25.mp3"
 		},
@@ -261,7 +261,7 @@
 			"English": "I need to copy some pages in my book.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أحتاج إلى نسخ بعض الصفحات في كتابي.",
 			"Egyptian Arabic Audio": "eca-1044-26.mp3",
 			"Standard Arabic Audio": "msa-1044-26.mp3"
 		},
@@ -271,7 +271,7 @@
 			"English": "The copier is right over there, in the corner.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ناسخة هو حق هناك، في الزاوية.",
 			"Egyptian Arabic Audio": "eca-1044-27.mp3",
 			"Standard Arabic Audio": "msa-1044-27.mp3"
 		},
@@ -281,7 +281,7 @@
 			"English": "Do I need to pay to use it?",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هل أحتاج إلى الدفع لاستخدامه؟",
 			"Egyptian Arabic Audio": "eca-1044-28.mp3",
 			"Standard Arabic Audio": "msa-1044-28.mp3"
 		},
@@ -291,7 +291,7 @@
 			"English": "You have to pay to use the copier.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "عليك أن تدفع لاستخدام ناسخة.",
 			"Egyptian Arabic Audio": "eca-1044-29.mp3",
 			"Standard Arabic Audio": "msa-1044-29.mp3"
 		},
@@ -301,7 +301,7 @@
 			"English": "How much do you charge?",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كم كنت تهمة؟",
 			"Egyptian Arabic Audio": "eca-1044-30.mp3",
 			"Standard Arabic Audio": "msa-1044-30.mp3"
 		},
@@ -311,7 +311,7 @@
 			"English": "You need to pay ten cents for every copy.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "تحتاج إلى دفع عشرة سنتات لكل نسخة.",
 			"Egyptian Arabic Audio": "eca-1044-31.mp3",
 			"Standard Arabic Audio": "msa-1044-31.mp3"
 		},
@@ -321,7 +321,7 @@
 			"English": "Is there a maximum number of copies I can make?",
 			"Word Count": 10,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هل هناك حد أقصى لعدد النسخ التي يمكنني إجراؤها؟",
 			"Egyptian Arabic Audio": "eca-1044-32.mp3",
 			"Standard Arabic Audio": "msa-1044-32.mp3"
 		},
@@ -331,7 +331,7 @@
 			"English": "You can make as many copies as you want.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يمكنك جعل العديد من النسخ كما تريد.",
 			"Egyptian Arabic Audio": "eca-1044-33.mp3",
 			"Standard Arabic Audio": "msa-1044-33.mp3"
 		},
@@ -341,7 +341,7 @@
 			"English": "I'm going to need you to show me how to use the machine.",
 			"Word Count": 13,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "سأحتاج لك أن تبين لي كيفية استخدام الجهاز.",
 			"Egyptian Arabic Audio": "eca-1044-34.mp3",
 			"Standard Arabic Audio": "msa-1044-34.mp3"
 		},
@@ -351,7 +351,7 @@
 			"English": "There are instructions posted on the copier.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هناك تعليمات نشرت على الناسخة.",
 			"Egyptian Arabic Audio": "eca-1044-35.mp3",
 			"Standard Arabic Audio": "msa-1044-35.mp3"
 		},
@@ -361,7 +361,7 @@
 			"English": "Thank you for your help.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "شكرا لك على مساعدتك.",
 			"Egyptian Arabic Audio": "eca-1044-36.mp3",
 			"Standard Arabic Audio": "msa-1044-36.mp3"
 		}

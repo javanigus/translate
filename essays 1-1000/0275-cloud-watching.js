@@ -9,7 +9,7 @@
 			"English": "Christina and her son like to cloud watch.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كريستينا وابنها مثل سحابة مشاهدة.",
 			"Egyptian Arabic Audio": "eca-0275-1.mp3",
 			"Standard Arabic Audio": "msa-0275-1.mp3"
 		},
@@ -18,7 +18,7 @@
 			"English": "They went outside.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ذهبوا خارج.",
 			"Egyptian Arabic Audio": "eca-0275-2.mp3",
 			"Standard Arabic Audio": "msa-0275-2.mp3"
 		},
@@ -27,7 +27,7 @@
 			"English": "They put down a towel.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وضعوا منشفة.",
 			"Egyptian Arabic Audio": "eca-0275-3.mp3",
 			"Standard Arabic Audio": "msa-0275-3.mp3"
 		},
@@ -36,7 +36,7 @@
 			"English": "They lay down on it.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انهم يضعون على ذلك.",
 			"Egyptian Arabic Audio": "eca-0275-4.mp3",
 			"Standard Arabic Audio": "msa-0275-4.mp3"
 		},
@@ -45,7 +45,7 @@
 			"English": "They looked up at the sky.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كانوا ينظرون إلى أعلى في السماء.",
 			"Egyptian Arabic Audio": "eca-0275-5.mp3",
 			"Standard Arabic Audio": "msa-0275-5.mp3"
 		},
@@ -54,7 +54,7 @@
 			"English": "Christina pointed at a cloud.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وأشارت كريستينا في سحابة.",
 			"Egyptian Arabic Audio": "eca-0275-6.mp3",
 			"Standard Arabic Audio": "msa-0275-6.mp3"
 		},
@@ -63,7 +63,7 @@
 			"English": "\"What do you think that one looks like?\" she asked.",
 			"Word Count": 10,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "&quot;ما رأيك في أن أحدا يبدو؟&quot; هي سألت.",
 			"Egyptian Arabic Audio": "eca-0275-7.mp3",
 			"Standard Arabic Audio": "msa-0275-7.mp3"
 		},
@@ -72,7 +72,7 @@
 			"English": "Her son looked at the cloud.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "نظر ابنها إلى السحابة.",
 			"Egyptian Arabic Audio": "eca-0275-8.mp3",
 			"Standard Arabic Audio": "msa-0275-8.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "\"It looks like a man chasing a deer,\" he said.",
 			"Word Count": 10,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وقال &quot;يبدو وكأنه رجل يطارد الغزلان&quot;.",
 			"Egyptian Arabic Audio": "eca-0275-9.mp3",
 			"Standard Arabic Audio": "msa-0275-9.mp3"
 		},
@@ -90,7 +90,7 @@
 			"English": "She was surprised.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "فوجئت.",
 			"Egyptian Arabic Audio": "eca-0275-10.mp3",
 			"Standard Arabic Audio": "msa-0275-10.mp3"
 		},
@@ -99,7 +99,7 @@
 			"English": "\"I think it looks like a girl crying,\" she said.",
 			"Word Count": 10,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وقالت &quot;اعتقد انها تبدو وكأنها فتاة تبكي&quot;.",
 			"Egyptian Arabic Audio": "eca-0275-11.mp3",
 			"Standard Arabic Audio": "msa-0275-11.mp3"
 		},
@@ -108,7 +108,7 @@
 			"English": "Her son laughed at her.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ضحك ابنها في وجهها.",
 			"Egyptian Arabic Audio": "eca-0275-12.mp3",
 			"Standard Arabic Audio": "msa-0275-12.mp3"
 		},
@@ -117,7 +117,7 @@
 			"English": "\"What do you think that one looks like?\" he asked.",
 			"Word Count": 10,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "&quot;ما رأيك في أن أحدا يبدو؟&quot; سأل.",
 			"Egyptian Arabic Audio": "eca-0275-13.mp3",
 			"Standard Arabic Audio": "msa-0275-13.mp3"
 		},
@@ -126,7 +126,7 @@
 			"English": "\"That one just looks like a regular cloud,\" she said.",
 			"Word Count": 10,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وقالت: &quot;هذا يبدو وكأنه سحابة عادية&quot;.",
 			"Egyptian Arabic Audio": "eca-0275-14.mp3",
 			"Standard Arabic Audio": "msa-0275-14.mp3"
 		},
@@ -135,7 +135,7 @@
 			"English": "\"I think it looks like you,\" her son said.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وقال ابنها: &quot;أعتقد أنه يبدو مثلك&quot;.",
 			"Egyptian Arabic Audio": "eca-0275-15.mp3",
 			"Standard Arabic Audio": "msa-0275-15.mp3"
 		},
@@ -144,7 +144,7 @@
 			"English": "She shook her head and laughed.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هزت رأسها وضحكت.",
 			"Egyptian Arabic Audio": "eca-0275-16.mp3",
 			"Standard Arabic Audio": "msa-0275-16.mp3"
 		}

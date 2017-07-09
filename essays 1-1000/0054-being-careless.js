@@ -9,7 +9,7 @@
 			"English": "Two brothers are bored.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أشعر بالملل.",
 			"Egyptian Arabic Audio": "eca-0054-1.mp3",
 			"Standard Arabic Audio": "msa-0054-1.mp3"
 		},
@@ -18,7 +18,7 @@
 			"English": "They play catch with each other inside the house.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنها تلعب الصيد مع بعضها البعض داخل المنزل.",
 			"Egyptian Arabic Audio": "eca-0054-2.mp3",
 			"Standard Arabic Audio": "msa-0054-2.mp3"
 		},
@@ -27,7 +27,7 @@
 			"English": "The older brother throws the ball to the younger brother.",
 			"Word Count": 10,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يلقي الأخ الأكبر الكرة إلى الأخ الأصغر.",
 			"Egyptian Arabic Audio": "eca-0054-3.mp3",
 			"Standard Arabic Audio": "msa-0054-3.mp3"
 		},
@@ -36,7 +36,7 @@
 			"English": "He catches it.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انه يمسك بها.",
 			"Egyptian Arabic Audio": "eca-0054-4.mp3",
 			"Standard Arabic Audio": "msa-0054-4.mp3"
 		},
@@ -45,7 +45,7 @@
 			"English": "He throws it back.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يلقيها مرة أخرى.",
 			"Egyptian Arabic Audio": "eca-0054-5.mp3",
 			"Standard Arabic Audio": "msa-0054-5.mp3"
 		},
@@ -54,7 +54,7 @@
 			"English": "The ball hits the window.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "الكرة يضرب النافذة.",
 			"Egyptian Arabic Audio": "eca-0054-6.mp3",
 			"Standard Arabic Audio": "msa-0054-6.mp3"
 		},
@@ -63,7 +63,7 @@
 			"English": "The window breaks.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "نافذة فواصل.",
 			"Egyptian Arabic Audio": "eca-0054-7.mp3",
 			"Standard Arabic Audio": "msa-0054-7.mp3"
 		},
@@ -72,7 +72,7 @@
 			"English": "Their mom hears the loud sound.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أمي يسمع صوت عال.",
 			"Egyptian Arabic Audio": "eca-0054-8.mp3",
 			"Standard Arabic Audio": "msa-0054-8.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "She is mad.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "إنها غاضبة.",
 			"Egyptian Arabic Audio": "eca-0054-9.mp3",
 			"Standard Arabic Audio": "msa-0054-9.mp3"
 		},
@@ -90,7 +90,7 @@
 			"English": "She takes the ball away.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انها تأخذ الكرة بعيدا.",
 			"Egyptian Arabic Audio": "eca-0054-10.mp3",
 			"Standard Arabic Audio": "msa-0054-10.mp3"
 		}

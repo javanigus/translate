@@ -9,7 +9,7 @@
 			"English": "The clever lizard with the British accent is now eight years old and stars in a new commercial every several months.",
 			"Word Count": 21,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "السحلية ذكية مع لهجة البريطانية هي الآن ثماني سنوات ونجوم في تجارية جديدة كل عدة أشهر.",
 			"Egyptian Arabic Audio": "eca-1834-1.mp3",
 			"Standard Arabic Audio": "msa-1834-1.mp3"
 		},
@@ -18,7 +18,7 @@
 			"English": "It has made GEICO famous - almost as famous as the gecko itself!.",
 			"Word Count": 13,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "جعلت جيكو الشهيرة - تقريبا مشهورة مثل أبو بريص نفسها!.",
 			"Egyptian Arabic Audio": "eca-1834-2.mp3",
 			"Standard Arabic Audio": "msa-1834-2.mp3"
 		}

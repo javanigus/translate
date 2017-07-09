@@ -11,7 +11,7 @@
 			"English": "How are you doing?",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كيف هي احوالك؟",
 			"Egyptian Arabic Audio": "eca-1214-1.mp3",
 			"Standard Arabic Audio": "msa-1214-1.mp3"
 		},
@@ -21,7 +21,7 @@
 			"English": "Great. Thanks for asking.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "عظيم. شكرا على السؤال.",
 			"Egyptian Arabic Audio": "eca-1214-2.mp3",
 			"Standard Arabic Audio": "msa-1214-2.mp3"
 		},
@@ -31,7 +31,7 @@
 			"English": "What can I do for you today?",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ماذا استطيع ان افعل لك اليوم؟",
 			"Egyptian Arabic Audio": "eca-1214-3.mp3",
 			"Standard Arabic Audio": "msa-1214-3.mp3"
 		},
@@ -41,7 +41,7 @@
 			"English": "I would like to deposit some money.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وأود أن إيداع بعض المال.",
 			"Egyptian Arabic Audio": "eca-1214-4.mp3",
 			"Standard Arabic Audio": "msa-1214-4.mp3"
 		},
@@ -51,7 +51,7 @@
 			"English": "Are you depositing cash or a check?",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هل تقوم بإيداع النقد أو الشيكات؟",
 			"Egyptian Arabic Audio": "eca-1214-5.mp3",
 			"Standard Arabic Audio": "msa-1214-5.mp3"
 		},
@@ -61,7 +61,7 @@
 			"English": "I want to deposit cash.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أريد إيداع النقد.",
 			"Egyptian Arabic Audio": "eca-1214-6.mp3",
 			"Standard Arabic Audio": "msa-1214-6.mp3"
 		},
@@ -71,7 +71,7 @@
 			"English": "How much are you depositing?",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كم أنت إيداع؟",
 			"Egyptian Arabic Audio": "eca-1214-7.mp3",
 			"Standard Arabic Audio": "msa-1214-7.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "I would like to deposit $300.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وأود أن أودع 300 دولار.",
 			"Egyptian Arabic Audio": "eca-1214-8.mp3",
 			"Standard Arabic Audio": "msa-1214-8.mp3"
 		},
@@ -91,7 +91,7 @@
 			"English": "What account do you want your money in?",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ما الحساب الذي تريد أموالك في؟",
 			"Egyptian Arabic Audio": "eca-1214-9.mp3",
 			"Standard Arabic Audio": "msa-1214-9.mp3"
 		},
@@ -101,7 +101,7 @@
 			"English": "I want to deposit it into my checking account.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أريد إيداعه في حساب التحقق الخاص بي.",
 			"Egyptian Arabic Audio": "eca-1214-10.mp3",
 			"Standard Arabic Audio": "msa-1214-10.mp3"
 		},
@@ -111,7 +111,7 @@
 			"English": "Do you need anything else?",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هل تحتاج شئ اخر؟",
 			"Egyptian Arabic Audio": "eca-1214-11.mp3",
 			"Standard Arabic Audio": "msa-1214-11.mp3"
 		},
@@ -121,7 +121,7 @@
 			"English": "No. That's all. Thank you.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لا هذا كله. شكرا.",
 			"Egyptian Arabic Audio": "eca-1214-12.mp3",
 			"Standard Arabic Audio": "msa-1214-12.mp3"
 		},
@@ -131,7 +131,7 @@
 			"English": "How are you?",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كيف حالك؟",
 			"Egyptian Arabic Audio": "eca-1214-13.mp3",
 			"Standard Arabic Audio": "msa-1214-13.mp3"
 		},
@@ -141,7 +141,7 @@
 			"English": "I'm fantastic!",
 			"Word Count": 2,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنا رائع!",
 			"Egyptian Arabic Audio": "eca-1214-14.mp3",
 			"Standard Arabic Audio": "msa-1214-14.mp3"
 		},
@@ -151,7 +151,7 @@
 			"English": "What can I help you with?",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "بماذا يمكنني مساعدتك؟",
 			"Egyptian Arabic Audio": "eca-1214-15.mp3",
 			"Standard Arabic Audio": "msa-1214-15.mp3"
 		},
@@ -161,7 +161,7 @@
 			"English": "I want to make a deposit today.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أريد أن أقدم وديعة اليوم.",
 			"Egyptian Arabic Audio": "eca-1214-16.mp3",
 			"Standard Arabic Audio": "msa-1214-16.mp3"
 		},
@@ -171,7 +171,7 @@
 			"English": "Cash or check?",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "نقدا أو شيك؟",
 			"Egyptian Arabic Audio": "eca-1214-17.mp3",
 			"Standard Arabic Audio": "msa-1214-17.mp3"
 		},
@@ -181,7 +181,7 @@
 			"English": "It will be cash today.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وسوف يكون النقد اليوم.",
 			"Egyptian Arabic Audio": "eca-1214-18.mp3",
 			"Standard Arabic Audio": "msa-1214-18.mp3"
 		},
@@ -191,7 +191,7 @@
 			"English": "How much do you want to deposit?",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كم تريد إيداع؟",
 			"Egyptian Arabic Audio": "eca-1214-19.mp3",
 			"Standard Arabic Audio": "msa-1214-19.mp3"
 		},
@@ -201,7 +201,7 @@
 			"English": "I need to deposit $300.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أحتاج إلى إيداع 300 دولار.",
 			"Egyptian Arabic Audio": "eca-1214-20.mp3",
 			"Standard Arabic Audio": "msa-1214-20.mp3"
 		},
@@ -211,7 +211,7 @@
 			"English": "What account will you be depositing this money into?",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ما الحساب الذي ستودعه هذه الأموال؟",
 			"Egyptian Arabic Audio": "eca-1214-21.mp3",
 			"Standard Arabic Audio": "msa-1214-21.mp3"
 		},
@@ -221,7 +221,7 @@
 			"English": "Deposit it into my checking account.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "إيداعه في حسابي التحقق.",
 			"Egyptian Arabic Audio": "eca-1214-22.mp3",
 			"Standard Arabic Audio": "msa-1214-22.mp3"
 		},
@@ -231,7 +231,7 @@
 			"English": "What else can I do for you today?",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ماذا يمكنني أن أفعل لك اليوم؟",
 			"Egyptian Arabic Audio": "eca-1214-23.mp3",
 			"Standard Arabic Audio": "msa-1214-23.mp3"
 		},
@@ -241,7 +241,7 @@
 			"English": "That's all I need today. Thanks.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هذا كل ما أحتاجه اليوم. شكر.",
 			"Egyptian Arabic Audio": "eca-1214-24.mp3",
 			"Standard Arabic Audio": "msa-1214-24.mp3"
 		},
@@ -251,7 +251,7 @@
 			"English": "How are things with you?",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كيف هي الأمور معك؟",
 			"Egyptian Arabic Audio": "eca-1214-25.mp3",
 			"Standard Arabic Audio": "msa-1214-25.mp3"
 		},
@@ -261,7 +261,7 @@
 			"English": "I'm fine. Thank you.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنا بخير. شكرا.",
 			"Egyptian Arabic Audio": "eca-1214-26.mp3",
 			"Standard Arabic Audio": "msa-1214-26.mp3"
 		},
@@ -271,7 +271,7 @@
 			"English": "How may I help you?",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كيف يمكنني مساعدتك؟",
 			"Egyptian Arabic Audio": "eca-1214-27.mp3",
 			"Standard Arabic Audio": "msa-1214-27.mp3"
 		},
@@ -281,7 +281,7 @@
 			"English": "I need to make a deposit.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنا بحاجة إلى إيداع.",
 			"Egyptian Arabic Audio": "eca-1214-28.mp3",
 			"Standard Arabic Audio": "msa-1214-28.mp3"
 		},
@@ -291,7 +291,7 @@
 			"English": "Will you be depositing cash or a check?",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هل سيتم إيداع النقود أو الشيكات؟",
 			"Egyptian Arabic Audio": "eca-1214-29.mp3",
 			"Standard Arabic Audio": "msa-1214-29.mp3"
 		},
@@ -301,7 +301,7 @@
 			"English": "I will be depositing cash.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وسوف أكون إيداع النقدية.",
 			"Egyptian Arabic Audio": "eca-1214-30.mp3",
 			"Standard Arabic Audio": "msa-1214-30.mp3"
 		},
@@ -311,7 +311,7 @@
 			"English": "How much would you like to deposit?",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كم تريد إيداع؟",
 			"Egyptian Arabic Audio": "eca-1214-31.mp3",
 			"Standard Arabic Audio": "msa-1214-31.mp3"
 		},
@@ -321,7 +321,7 @@
 			"English": "It's going to be $300.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "سيكون 300 دولار.",
 			"Egyptian Arabic Audio": "eca-1214-32.mp3",
 			"Standard Arabic Audio": "msa-1214-32.mp3"
 		},
@@ -331,7 +331,7 @@
 			"English": "What account would you like to deposit that into?",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ما الحساب الذي تريد إيداعه فيه؟",
 			"Egyptian Arabic Audio": "eca-1214-33.mp3",
 			"Standard Arabic Audio": "msa-1214-33.mp3"
 		},
@@ -341,7 +341,7 @@
 			"English": "Could you deposit that into my checking account, please?",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هل يمكنك إيداع ذلك في حساب التحقق الخاص بي، من فضلك؟",
 			"Egyptian Arabic Audio": "eca-1214-34.mp3",
 			"Standard Arabic Audio": "msa-1214-34.mp3"
 		},
@@ -351,7 +351,7 @@
 			"English": "Can I do anything else for you today?",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هل يمكنني أن أفعل أي شيء آخر بالنسبة لك اليوم؟",
 			"Egyptian Arabic Audio": "eca-1214-35.mp3",
 			"Standard Arabic Audio": "msa-1214-35.mp3"
 		},
@@ -361,7 +361,7 @@
 			"English": "That'll be all. Thank you very much.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "التي سوف تكون جميع. شكرا جزيلا.",
 			"Egyptian Arabic Audio": "eca-1214-36.mp3",
 			"Standard Arabic Audio": "msa-1214-36.mp3"
 		}

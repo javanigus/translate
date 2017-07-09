@@ -9,7 +9,7 @@
 			"English": "Julie was discouraged.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "جولي كان مثبطا.",
 			"Egyptian Arabic Audio": "eca-2347-1.mp3",
 			"Standard Arabic Audio": "msa-2347-1.mp3"
 		},
@@ -18,7 +18,7 @@
 			"English": "She decided not to move out yet.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وقالت انها قررت عدم الخروج حتى الان.",
 			"Egyptian Arabic Audio": "eca-2347-2.mp3",
 			"Standard Arabic Audio": "msa-2347-2.mp3"
 		}

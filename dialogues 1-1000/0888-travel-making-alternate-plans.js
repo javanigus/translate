@@ -11,7 +11,7 @@
 			"English": "I'm sorry, but today's bus tour has been canceled because of the weather.",
 			"Word Count": 13,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنا آسف، ولكن تم إلغاء جولة الحافلة اليوم بسبب الطقس.",
 			"Egyptian Arabic Audio": "eca-0888-1.mp3",
 			"Standard Arabic Audio": "msa-0888-1.mp3"
 		},
@@ -21,7 +21,7 @@
 			"English": "Now what am I supposed to do?",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "الآن ما أنا من المفترض أن أفعل؟",
 			"Egyptian Arabic Audio": "eca-0888-2.mp3",
 			"Standard Arabic Audio": "msa-0888-2.mp3"
 		},
@@ -31,7 +31,7 @@
 			"English": "The hotel's concierge will be happy to find you tickets to a local theater production.",
 			"Word Count": 15,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "سوف يسعد كونسيرج الفندق أن يجد لك تذاكر لإنتاج مسرح محلي.",
 			"Egyptian Arabic Audio": "eca-0888-3.mp3",
 			"Standard Arabic Audio": "msa-0888-3.mp3"
 		},
@@ -41,7 +41,7 @@
 			"English": "I'm not really a theater person.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنا لست حقا المسرح.",
 			"Egyptian Arabic Audio": "eca-0888-4.mp3",
 			"Standard Arabic Audio": "msa-0888-4.mp3"
 		},
@@ -51,7 +51,7 @@
 			"English": "How about we get you reservations to one of the city's finest restaurants?",
 			"Word Count": 13,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ماذا عن نحصل على تحفظات على واحدة من أرقى المطاعم في المدينة؟",
 			"Egyptian Arabic Audio": "eca-0888-5.mp3",
 			"Standard Arabic Audio": "msa-0888-5.mp3"
 		},
@@ -61,7 +61,7 @@
 			"English": "That sounds good.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هذا يبدو جيدا.",
 			"Egyptian Arabic Audio": "eca-0888-6.mp3",
 			"Standard Arabic Audio": "msa-0888-6.mp3"
 		},
@@ -71,7 +71,7 @@
 			"English": "What kind of food do you like?",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ما نوع الطعام الذي تفضله؟",
 			"Egyptian Arabic Audio": "eca-0888-7.mp3",
 			"Standard Arabic Audio": "msa-0888-7.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "I love seafood, especially lobster.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أحب المأكولات البحرية، وخاصة جراد البحر.",
 			"Egyptian Arabic Audio": "eca-0888-8.mp3",
 			"Standard Arabic Audio": "msa-0888-8.mp3"
 		},
@@ -91,7 +91,7 @@
 			"English": "I'll book you a table at the Lobster Shack restaurant then.",
 			"Word Count": 11,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "سأحجز لك طاولة في مطعم لوبستر شاك بعد ذلك.",
 			"Egyptian Arabic Audio": "eca-0888-9.mp3",
 			"Standard Arabic Audio": "msa-0888-9.mp3"
 		},
@@ -101,7 +101,7 @@
 			"English": "Will the hotel provide transportation?",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هل يوفر الفندق وسائل النقل؟",
 			"Egyptian Arabic Audio": "eca-0888-10.mp3",
 			"Standard Arabic Audio": "msa-0888-10.mp3"
 		},
@@ -111,7 +111,7 @@
 			"English": "We can get you a cab.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يمكننا الحصول على سيارة أجرة.",
 			"Egyptian Arabic Audio": "eca-0888-11.mp3",
 			"Standard Arabic Audio": "msa-0888-11.mp3"
 		},
@@ -121,7 +121,7 @@
 			"English": "I'd prefer a limo.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كنت تفضل ليمو.",
 			"Egyptian Arabic Audio": "eca-0888-12.mp3",
 			"Standard Arabic Audio": "msa-0888-12.mp3"
 		}

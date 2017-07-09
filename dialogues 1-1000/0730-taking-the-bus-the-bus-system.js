@@ -11,7 +11,7 @@
 			"English": "I have to go to Downtown Los Angeles today.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يجب أن أذهب إلى وسط مدينة لوس أنجلوس اليوم.",
 			"Egyptian Arabic Audio": "eca-0730-1.mp3",
 			"Standard Arabic Audio": "msa-0730-1.mp3"
 		},
@@ -21,7 +21,7 @@
 			"English": "What for? Are you visiting someone?",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لأي غرض؟ هل تزور شخصا ما؟",
 			"Egyptian Arabic Audio": "eca-0730-2.mp3",
 			"Standard Arabic Audio": "msa-0730-2.mp3"
 		},
@@ -31,7 +31,7 @@
 			"English": "No, I have an important job interview there.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لا، لدي مقابلة مهمة مهمة هناك.",
 			"Egyptian Arabic Audio": "eca-0730-3.mp3",
 			"Standard Arabic Audio": "msa-0730-3.mp3"
 		},
@@ -41,7 +41,7 @@
 			"English": "How are you planning on getting there?",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كيف تخططون للوصول إلى هناك؟",
 			"Egyptian Arabic Audio": "eca-0730-4.mp3",
 			"Standard Arabic Audio": "msa-0730-4.mp3"
 		},
@@ -51,7 +51,7 @@
 			"English": "I would drive. but my car overheated last night.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وأود أن تدفع. ولكن سيارتي المحموم الليلة الماضية.",
 			"Egyptian Arabic Audio": "eca-0730-5.mp3",
 			"Standard Arabic Audio": "msa-0730-5.mp3"
 		},
@@ -61,7 +61,7 @@
 			"English": "It looks like you're going to have to ride the bus.",
 			"Word Count": 11,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يبدو أنك ذاهب إلى ركوب الحافلة.",
 			"Egyptian Arabic Audio": "eca-0730-6.mp3",
 			"Standard Arabic Audio": "msa-0730-6.mp3"
 		},
@@ -71,7 +71,7 @@
 			"English": "I haven't ridden the bus in years.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنا لم تجتاح الحافلة في سنوات.",
 			"Egyptian Arabic Audio": "eca-0730-7.mp3",
 			"Standard Arabic Audio": "msa-0730-7.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "I can help you out if you want.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يمكنني مساعدتك إذا كنت تريد.",
 			"Egyptian Arabic Audio": "eca-0730-8.mp3",
 			"Standard Arabic Audio": "msa-0730-8.mp3"
 		},
@@ -91,7 +91,7 @@
 			"English": "That would be great! What could you tell me about the bus system in Los Angeles?",
 			"Word Count": 16,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هذا سيكون رائع! ماذا يمكن أن تخبرني عن نظام الحافلات في لوس أنجلوس؟",
 			"Egyptian Arabic Audio": "eca-0730-9.mp3",
 			"Standard Arabic Audio": "msa-0730-9.mp3"
 		},
@@ -101,7 +101,7 @@
 			"English": "Speaking from experience, I could tell you how efficient it is.",
 			"Word Count": 11,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "متحدثا من التجربة، يمكن أن أقول لكم مدى كفاءة ذلك.",
 			"Egyptian Arabic Audio": "eca-0730-10.mp3",
 			"Standard Arabic Audio": "msa-0730-10.mp3"
 		},
@@ -111,7 +111,7 @@
 			"English": "Do you take the bus to Los Angeles frequently?",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هل تأخذ الحافلة إلى لوس انجليس بشكل متكرر؟",
 			"Egyptian Arabic Audio": "eca-0730-11.mp3",
 			"Standard Arabic Audio": "msa-0730-11.mp3"
 		},
@@ -121,7 +121,7 @@
 			"English": "Only every week, Monday through Friday for the past two years.",
 			"Word Count": 11,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "فقط كل أسبوع، من الاثنين إلى الجمعة على مدى العامين الماضيين.",
 			"Egyptian Arabic Audio": "eca-0730-12.mp3",
 			"Standard Arabic Audio": "msa-0730-12.mp3"
 		}

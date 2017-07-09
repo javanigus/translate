@@ -9,7 +9,7 @@
 			"English": "She goes to the park.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "تذهب إلى الحديقة.",
 			"Egyptian Arabic Audio": "eca-0565-1.mp3",
 			"Standard Arabic Audio": "msa-0565-1.mp3"
 		},
@@ -18,7 +18,7 @@
 			"English": "She sees a lot of squirrels.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ترى الكثير من السناجب.",
 			"Egyptian Arabic Audio": "eca-0565-2.mp3",
 			"Standard Arabic Audio": "msa-0565-2.mp3"
 		},
@@ -27,7 +27,7 @@
 			"English": "They are small.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "فهي صغيرة.",
 			"Egyptian Arabic Audio": "eca-0565-3.mp3",
 			"Standard Arabic Audio": "msa-0565-3.mp3"
 		},
@@ -36,7 +36,7 @@
 			"English": "They are brown.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انهم بنيوا اللون.",
 			"Egyptian Arabic Audio": "eca-0565-4.mp3",
 			"Standard Arabic Audio": "msa-0565-4.mp3"
 		},
@@ -45,7 +45,7 @@
 			"English": "They have furry tails.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لديهم ذيل فروي.",
 			"Egyptian Arabic Audio": "eca-0565-5.mp3",
 			"Standard Arabic Audio": "msa-0565-5.mp3"
 		},
@@ -54,7 +54,7 @@
 			"English": "They run really fast.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنها تعمل بسرعة حقا.",
 			"Egyptian Arabic Audio": "eca-0565-6.mp3",
 			"Standard Arabic Audio": "msa-0565-6.mp3"
 		},
@@ -63,7 +63,7 @@
 			"English": "They have big eyes.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لديهم عيون كبيرة.",
 			"Egyptian Arabic Audio": "eca-0565-7.mp3",
 			"Standard Arabic Audio": "msa-0565-7.mp3"
 		},
@@ -72,7 +72,7 @@
 			"English": "They are cute.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انهم لطفاء.",
 			"Egyptian Arabic Audio": "eca-0565-8.mp3",
 			"Standard Arabic Audio": "msa-0565-8.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "She goes up to a squirrel.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انها ترتفع الى السنجاب.",
 			"Egyptian Arabic Audio": "eca-0565-9.mp3",
 			"Standard Arabic Audio": "msa-0565-9.mp3"
 		},
@@ -90,7 +90,7 @@
 			"English": "She feeds a nut to the squirrel.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "تغذي الجوز إلى السنجاب.",
 			"Egyptian Arabic Audio": "eca-0565-10.mp3",
 			"Standard Arabic Audio": "msa-0565-10.mp3"
 		},
@@ -99,7 +99,7 @@
 			"English": "The squirrel takes it, and runs away.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "السنجاب يأخذ، ويهرب.",
 			"Egyptian Arabic Audio": "eca-0565-11.mp3",
 			"Standard Arabic Audio": "msa-0565-11.mp3"
 		}

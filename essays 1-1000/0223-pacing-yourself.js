@@ -9,7 +9,7 @@
 			"English": "Everyone has to do the mile run test.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كل شخص لديه للقيام اختبار المدى ميل.",
 			"Egyptian Arabic Audio": "eca-0223-1.mp3",
 			"Standard Arabic Audio": "msa-0223-1.mp3"
 		},
@@ -18,7 +18,7 @@
 			"English": "Most people take it in middle school.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "معظم الناس يأخذه في المدرسة المتوسطة.",
 			"Egyptian Arabic Audio": "eca-0223-2.mp3",
 			"Standard Arabic Audio": "msa-0223-2.mp3"
 		},
@@ -27,7 +27,7 @@
 			"English": "The girls have to complete the mile under 12 minutes.",
 			"Word Count": 10,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "الفتيات لديهم لاستكمال ميل تحت 12 دقيقة.",
 			"Egyptian Arabic Audio": "eca-0223-3.mp3",
 			"Standard Arabic Audio": "msa-0223-3.mp3"
 		},
@@ -36,7 +36,7 @@
 			"English": "The guys have to complete the mile under 10 minutes.",
 			"Word Count": 10,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "الرجال لديهم لاستكمال ميل تحت 10 دقيقة.",
 			"Egyptian Arabic Audio": "eca-0223-4.mp3",
 			"Standard Arabic Audio": "msa-0223-4.mp3"
 		},
@@ -45,7 +45,7 @@
 			"English": "Most people passed.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "مرت معظم الناس.",
 			"Egyptian Arabic Audio": "eca-0223-5.mp3",
 			"Standard Arabic Audio": "msa-0223-5.mp3"
 		},
@@ -54,7 +54,7 @@
 			"English": "Some people failed.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "فشل بعض الناس.",
 			"Egyptian Arabic Audio": "eca-0223-6.mp3",
 			"Standard Arabic Audio": "msa-0223-6.mp3"
 		},
@@ -63,7 +63,7 @@
 			"English": "They had to take it again.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وكان عليهم أن يأخذوها مرة أخرى.",
 			"Egyptian Arabic Audio": "eca-0223-7.mp3",
 			"Standard Arabic Audio": "msa-0223-7.mp3"
 		},
@@ -72,7 +72,7 @@
 			"English": "Michelle failed it.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "فشل ميشيل ذلك.",
 			"Egyptian Arabic Audio": "eca-0223-8.mp3",
 			"Standard Arabic Audio": "msa-0223-8.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "She was doing well in the beginning.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كانت جيدا في البداية.",
 			"Egyptian Arabic Audio": "eca-0223-9.mp3",
 			"Standard Arabic Audio": "msa-0223-9.mp3"
 		},
@@ -90,7 +90,7 @@
 			"English": "She was in front of everyone.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كانت أمام الجميع.",
 			"Egyptian Arabic Audio": "eca-0223-10.mp3",
 			"Standard Arabic Audio": "msa-0223-10.mp3"
 		},
@@ -99,7 +99,7 @@
 			"English": "But she got tired.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لكنها تعبت.",
 			"Egyptian Arabic Audio": "eca-0223-11.mp3",
 			"Standard Arabic Audio": "msa-0223-11.mp3"
 		},
@@ -108,7 +108,7 @@
 			"English": "She started walking.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "بدأت المشي.",
 			"Egyptian Arabic Audio": "eca-0223-12.mp3",
 			"Standard Arabic Audio": "msa-0223-12.mp3"
 		},
@@ -117,7 +117,7 @@
 			"English": "She finished the mile in 17 minutes.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انها انتهت ميل في 17 دقيقة.",
 			"Egyptian Arabic Audio": "eca-0223-13.mp3",
 			"Standard Arabic Audio": "msa-0223-13.mp3"
 		},
@@ -126,7 +126,7 @@
 			"English": "She knew what to do the next time.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كانت تعرف ماذا تفعل في المرة القادمة.",
 			"Egyptian Arabic Audio": "eca-0223-14.mp3",
 			"Standard Arabic Audio": "msa-0223-14.mp3"
 		},
@@ -135,7 +135,7 @@
 			"English": "She was going to go a steady pace.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كانت تسير بخطى ثابتة.",
 			"Egyptian Arabic Audio": "eca-0223-15.mp3",
 			"Standard Arabic Audio": "msa-0223-15.mp3"
 		},
@@ -144,7 +144,7 @@
 			"English": "Not too fast, not too slow.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ليست سريعة جدا، ليست بطيئة جدا.",
 			"Egyptian Arabic Audio": "eca-0223-16.mp3",
 			"Standard Arabic Audio": "msa-0223-16.mp3"
 		}

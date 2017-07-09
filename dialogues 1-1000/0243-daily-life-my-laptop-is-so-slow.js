@@ -11,7 +11,7 @@
 			"English": "My laptop is so slow.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "جهاز الكمبيوتر المحمول بطيء جدا.",
 			"Egyptian Arabic Audio": "eca-0243-1.mp3",
 			"Standard Arabic Audio": "msa-0243-1.mp3"
 		},
@@ -21,7 +21,7 @@
 			"English": "Buy a new one.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "شراء واحدة جديدة.",
 			"Egyptian Arabic Audio": "eca-0243-2.mp3",
 			"Standard Arabic Audio": "msa-0243-2.mp3"
 		},
@@ -31,7 +31,7 @@
 			"English": "I would if I had the money.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وأود لو كان لدي المال.",
 			"Egyptian Arabic Audio": "eca-0243-3.mp3",
 			"Standard Arabic Audio": "msa-0243-3.mp3"
 		},
@@ -41,7 +41,7 @@
 			"English": "Why is it so slow?",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لماذا هو بطيء جدا؟",
 			"Egyptian Arabic Audio": "eca-0243-4.mp3",
 			"Standard Arabic Audio": "msa-0243-4.mp3"
 		},
@@ -51,7 +51,7 @@
 			"English": "That's a good question.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هذا سؤال جيد.",
 			"Egyptian Arabic Audio": "eca-0243-5.mp3",
 			"Standard Arabic Audio": "msa-0243-5.mp3"
 		},
@@ -61,7 +61,7 @@
 			"English": "Did you take it to a computer shop?",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هل أخذه إلى متجر كمبيوتر؟",
 			"Egyptian Arabic Audio": "eca-0243-6.mp3",
 			"Standard Arabic Audio": "msa-0243-6.mp3"
 		},
@@ -71,7 +71,7 @@
 			"English": "I would if I had the money.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وأود لو كان لدي المال.",
 			"Egyptian Arabic Audio": "eca-0243-7.mp3",
 			"Standard Arabic Audio": "msa-0243-7.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "Well, I guess you have to live with it.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "حسنا، أعتقد أن عليك أن تعيش معها.",
 			"Egyptian Arabic Audio": "eca-0243-8.mp3",
 			"Standard Arabic Audio": "msa-0243-8.mp3"
 		},
@@ -91,7 +91,7 @@
 			"English": "Sometimes I want to throw it out the window.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "في بعض الأحيان أريد أن رميها من النافذة.",
 			"Egyptian Arabic Audio": "eca-0243-9.mp3",
 			"Standard Arabic Audio": "msa-0243-9.mp3"
 		},
@@ -101,7 +101,7 @@
 			"English": "You don't want to do that.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنت لا تريد أن تفعل ذلك.",
 			"Egyptian Arabic Audio": "eca-0243-10.mp3",
 			"Standard Arabic Audio": "msa-0243-10.mp3"
 		},
@@ -111,7 +111,7 @@
 			"English": "Why not?",
 			"Word Count": 2,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لما لا؟",
 			"Egyptian Arabic Audio": "eca-0243-11.mp3",
 			"Standard Arabic Audio": "msa-0243-11.mp3"
 		},
@@ -121,7 +121,7 @@
 			"English": "You might hit someone in the head.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "قد تضرب شخصا ما في الرأس.",
 			"Egyptian Arabic Audio": "eca-0243-12.mp3",
 			"Standard Arabic Audio": "msa-0243-12.mp3"
 		}

@@ -9,7 +9,7 @@
 			"English": "She likes pony rides.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "تحب ركوب المهر.",
 			"Egyptian Arabic Audio": "eca-0371-1.mp3",
 			"Standard Arabic Audio": "msa-0371-1.mp3"
 		},
@@ -18,7 +18,7 @@
 			"English": "She goes to the corral.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "تذهب إلى الشعاب.",
 			"Egyptian Arabic Audio": "eca-0371-2.mp3",
 			"Standard Arabic Audio": "msa-0371-2.mp3"
 		},
@@ -27,7 +27,7 @@
 			"English": "She picks out a pony.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وقالت انها يختار من المهر.",
 			"Egyptian Arabic Audio": "eca-0371-3.mp3",
 			"Standard Arabic Audio": "msa-0371-3.mp3"
 		},
@@ -36,7 +36,7 @@
 			"English": "She gives a carrot to the pony.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انها تعطي الجزرة إلى المهر.",
 			"Egyptian Arabic Audio": "eca-0371-4.mp3",
 			"Standard Arabic Audio": "msa-0371-4.mp3"
 		},
@@ -45,7 +45,7 @@
 			"English": "She gets up on the pony.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انها تحصل على ما يصل على المهر.",
 			"Egyptian Arabic Audio": "eca-0371-5.mp3",
 			"Standard Arabic Audio": "msa-0371-5.mp3"
 		},
@@ -54,7 +54,7 @@
 			"English": "She sits in the saddle.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "تجلس في السرج.",
 			"Egyptian Arabic Audio": "eca-0371-6.mp3",
 			"Standard Arabic Audio": "msa-0371-6.mp3"
 		},
@@ -63,7 +63,7 @@
 			"English": "She pats the pony's head.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انها باتس رأس المهر.",
 			"Egyptian Arabic Audio": "eca-0371-7.mp3",
 			"Standard Arabic Audio": "msa-0371-7.mp3"
 		},
@@ -72,7 +72,7 @@
 			"English": "She pats the pony's neck.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انها باتس العنق المهر.",
 			"Egyptian Arabic Audio": "eca-0371-8.mp3",
 			"Standard Arabic Audio": "msa-0371-8.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "The pony walks around the corral.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ال التعريف، ترجمة حرفية، المشى، حوالي، ال التعريف، كورال.",
 			"Egyptian Arabic Audio": "eca-0371-9.mp3",
 			"Standard Arabic Audio": "msa-0371-9.mp3"
 		},
@@ -90,7 +90,7 @@
 			"English": "She holds on to the reins.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وقالت انها تحمل على زمام الأمور.",
 			"Egyptian Arabic Audio": "eca-0371-10.mp3",
 			"Standard Arabic Audio": "msa-0371-10.mp3"
 		},
@@ -99,7 +99,7 @@
 			"English": "She enjoys the ride.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انها تتمتع ركوب.",
 			"Egyptian Arabic Audio": "eca-0371-11.mp3",
 			"Standard Arabic Audio": "msa-0371-11.mp3"
 		}

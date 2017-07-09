@@ -9,7 +9,7 @@
 			"English": "High school students get lockers.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "طلاب المدارس الثانوية الحصول على خزائن.",
 			"Egyptian Arabic Audio": "eca-0586-1.mp3",
 			"Standard Arabic Audio": "msa-0586-1.mp3"
 		},
@@ -18,7 +18,7 @@
 			"English": "Lockers are awesome.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "خزائن رهيبة.",
 			"Egyptian Arabic Audio": "eca-0586-2.mp3",
 			"Standard Arabic Audio": "msa-0586-2.mp3"
 		},
@@ -27,7 +27,7 @@
 			"English": "You can put books in it.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يمكنك وضع الكتب فيه.",
 			"Egyptian Arabic Audio": "eca-0586-3.mp3",
 			"Standard Arabic Audio": "msa-0586-3.mp3"
 		},
@@ -36,7 +36,7 @@
 			"English": "You can put food in it.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يمكنك وضع الطعام في ذلك.",
 			"Egyptian Arabic Audio": "eca-0586-4.mp3",
 			"Standard Arabic Audio": "msa-0586-4.mp3"
 		},
@@ -45,7 +45,7 @@
 			"English": "You can put a first aid kit in it.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يمكنك وضع الإسعافات الأولية في ذلك.",
 			"Egyptian Arabic Audio": "eca-0586-5.mp3",
 			"Standard Arabic Audio": "msa-0586-5.mp3"
 		},
@@ -54,7 +54,7 @@
 			"English": "Thanks to lockers, you don't have to carry so much stuff.",
 			"Word Count": 11,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "بفضل الخزائن، لم يكن لديك لحمل الكثير من الاشياء.",
 			"Egyptian Arabic Audio": "eca-0586-6.mp3",
 			"Standard Arabic Audio": "msa-0586-6.mp3"
 		},
@@ -63,7 +63,7 @@
 			"English": "You can even decorate your locker.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يمكنك حتى تزيين خزانة الخاص بك.",
 			"Egyptian Arabic Audio": "eca-0586-7.mp3",
 			"Standard Arabic Audio": "msa-0586-7.mp3"
 		},
@@ -72,7 +72,7 @@
 			"English": "You can stick posters in it.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يمكنك عصا الملصقات في ذلك.",
 			"Egyptian Arabic Audio": "eca-0586-8.mp3",
 			"Standard Arabic Audio": "msa-0586-8.mp3"
 		}

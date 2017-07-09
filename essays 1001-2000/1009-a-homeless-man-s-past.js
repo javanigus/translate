@@ -9,7 +9,7 @@
 			"English": "Ricky had gotten used to being homeless.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ريكي قد اعتاد على أن يكون بلا مأوى.",
 			"Egyptian Arabic Audio": "eca-1009-1.mp3",
 			"Standard Arabic Audio": "msa-1009-1.mp3"
 		},
@@ -18,7 +18,7 @@
 			"English": "He has been homeless for five years, and he is now 23 years old.",
 			"Word Count": 14,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لقد ظل بلا مأوى لمدة خمس سنوات، وهو الآن يبلغ من العمر 23 عاما.",
 			"Egyptian Arabic Audio": "eca-1009-2.mp3",
 			"Standard Arabic Audio": "msa-1009-2.mp3"
 		},
@@ -27,7 +27,7 @@
 			"English": "He talks to people at the park and has good conversations.",
 			"Word Count": 11,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يتحدث إلى الناس في الحديقة ولديه محادثات جيدة.",
 			"Egyptian Arabic Audio": "eca-1009-3.mp3",
 			"Standard Arabic Audio": "msa-1009-3.mp3"
 		},
@@ -36,7 +36,7 @@
 			"English": "He gets food from the trash can.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يحصل الطعام من سلة المهملات.",
 			"Egyptian Arabic Audio": "eca-1009-4.mp3",
 			"Standard Arabic Audio": "msa-1009-4.mp3"
 		},
@@ -45,7 +45,7 @@
 			"English": "He doesn't mind.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انه لا يمانع.",
 			"Egyptian Arabic Audio": "eca-1009-5.mp3",
 			"Standard Arabic Audio": "msa-1009-5.mp3"
 		},
@@ -54,7 +54,7 @@
 			"English": "Ricky is homeless but happy.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ريكي بلا مأوى ولكن سعيدة.",
 			"Egyptian Arabic Audio": "eca-1009-6.mp3",
 			"Standard Arabic Audio": "msa-1009-6.mp3"
 		}

@@ -11,7 +11,7 @@
 			"English": "Do you have any other questions?",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هل لديك أسئله أخرى؟",
 			"Egyptian Arabic Audio": "eca-1223-1.mp3",
 			"Standard Arabic Audio": "msa-1223-1.mp3"
 		},
@@ -21,7 +21,7 @@
 			"English": "I want to know about fees.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أريد أن أعرف عن الرسوم.",
 			"Egyptian Arabic Audio": "eca-1223-2.mp3",
 			"Standard Arabic Audio": "msa-1223-2.mp3"
 		},
@@ -31,7 +31,7 @@
 			"English": "Which fees?",
 			"Word Count": 2,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ما هي الرسوم؟",
 			"Egyptian Arabic Audio": "eca-1223-3.mp3",
 			"Standard Arabic Audio": "msa-1223-3.mp3"
 		},
@@ -41,7 +41,7 @@
 			"English": "Overdraft fees.",
 			"Word Count": 2,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "رسوم السحب على المكشوف.",
 			"Egyptian Arabic Audio": "eca-1223-4.mp3",
 			"Standard Arabic Audio": "msa-1223-4.mp3"
 		},
@@ -51,7 +51,7 @@
 			"English": "You will be required to pay a small fee for every time you overdraft.",
 			"Word Count": 14,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وسوف يطلب منك دفع رسوم رمزية في كل مرة كنت السحب على المكشوف.",
 			"Egyptian Arabic Audio": "eca-1223-5.mp3",
 			"Standard Arabic Audio": "msa-1223-5.mp3"
 		},
@@ -61,7 +61,7 @@
 			"English": "How much is the fee?",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كم هي الرسوم؟",
 			"Egyptian Arabic Audio": "eca-1223-6.mp3",
 			"Standard Arabic Audio": "msa-1223-6.mp3"
 		},
@@ -71,7 +71,7 @@
 			"English": "You'll have to pay $25 every time you overdraft.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "سيكون لديك لدفع 25 $ في كل مرة كنت السحب على المكشوف.",
 			"Egyptian Arabic Audio": "eca-1223-7.mp3",
 			"Standard Arabic Audio": "msa-1223-7.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "That's a small fee?",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هذا رسم بسيط؟",
 			"Egyptian Arabic Audio": "eca-1223-8.mp3",
 			"Standard Arabic Audio": "msa-1223-8.mp3"
 		},
@@ -91,7 +91,7 @@
 			"English": "It should stop you from overdrafting.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يجب أن يمنعك من السحب على المكشوف.",
 			"Egyptian Arabic Audio": "eca-1223-9.mp3",
 			"Standard Arabic Audio": "msa-1223-9.mp3"
 		},
@@ -101,7 +101,7 @@
 			"English": "You would think it would, but it most likely won't.",
 			"Word Count": 10,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كنت أعتقد أنه سيكون، ولكن على الأرجح لن.",
 			"Egyptian Arabic Audio": "eca-1223-10.mp3",
 			"Standard Arabic Audio": "msa-1223-10.mp3"
 		},
@@ -111,7 +111,7 @@
 			"English": "Can I help you with anything else?",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هل يمكنني مساعدتك في أي شيء آخر؟",
 			"Egyptian Arabic Audio": "eca-1223-11.mp3",
 			"Standard Arabic Audio": "msa-1223-11.mp3"
 		},
@@ -121,7 +121,7 @@
 			"English": "That's it for today. Thank you.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هذا كل شيء لهذا اليوم. شكرا.",
 			"Egyptian Arabic Audio": "eca-1223-12.mp3",
 			"Standard Arabic Audio": "msa-1223-12.mp3"
 		},
@@ -131,7 +131,7 @@
 			"English": "Do you have any questions?",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هل لديك اسئلة؟",
 			"Egyptian Arabic Audio": "eca-1223-13.mp3",
 			"Standard Arabic Audio": "msa-1223-13.mp3"
 		},
@@ -141,7 +141,7 @@
 			"English": "Tell me about fees.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "قل لي عن الرسوم.",
 			"Egyptian Arabic Audio": "eca-1223-14.mp3",
 			"Standard Arabic Audio": "msa-1223-14.mp3"
 		},
@@ -151,7 +151,7 @@
 			"English": "What fees are you referring to?",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ما هي الرسوم التي تشير إليها؟",
 			"Egyptian Arabic Audio": "eca-1223-15.mp3",
 			"Standard Arabic Audio": "msa-1223-15.mp3"
 		},
@@ -161,7 +161,7 @@
 			"English": "I want to know about overdraft fees.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أريد أن أعرف عن رسوم السحب على المكشوف.",
 			"Egyptian Arabic Audio": "eca-1223-16.mp3",
 			"Standard Arabic Audio": "msa-1223-16.mp3"
 		},
@@ -171,7 +171,7 @@
 			"English": "We charge a small fee every time you overdraft.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "نحن تهمة رسم صغير في كل مرة كنت السحب على المكشوف.",
 			"Egyptian Arabic Audio": "eca-1223-17.mp3",
 			"Standard Arabic Audio": "msa-1223-17.mp3"
 		},
@@ -181,7 +181,7 @@
 			"English": "How much?",
 			"Word Count": 2,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كم الثمن؟",
 			"Egyptian Arabic Audio": "eca-1223-18.mp3",
 			"Standard Arabic Audio": "msa-1223-18.mp3"
 		},
@@ -191,7 +191,7 @@
 			"English": "For each time you overdraft, you have to pay $25.",
 			"Word Count": 10,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "في كل مرة كنت السحب على المكشوف، لديك لدفع 25 $.",
 			"Egyptian Arabic Audio": "eca-1223-19.mp3",
 			"Standard Arabic Audio": "msa-1223-19.mp3"
 		},
@@ -201,7 +201,7 @@
 			"English": "That's not a small fee.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هذا ليس رسما صغيرا.",
 			"Egyptian Arabic Audio": "eca-1223-20.mp3",
 			"Standard Arabic Audio": "msa-1223-20.mp3"
 		},
@@ -211,7 +211,7 @@
 			"English": "You shouldn't overdraft.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يجب أن لا السحب على المكشوف.",
 			"Egyptian Arabic Audio": "eca-1223-21.mp3",
 			"Standard Arabic Audio": "msa-1223-21.mp3"
 		},
@@ -221,7 +221,7 @@
 			"English": "That's for sure.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "بالتأكيد.",
 			"Egyptian Arabic Audio": "eca-1223-22.mp3",
 			"Standard Arabic Audio": "msa-1223-22.mp3"
 		},
@@ -231,7 +231,7 @@
 			"English": "Do you need help with anything else?",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هل تحتاج إلى مساعدة مع أي شيء آخر؟",
 			"Egyptian Arabic Audio": "eca-1223-23.mp3",
 			"Standard Arabic Audio": "msa-1223-23.mp3"
 		},
@@ -241,7 +241,7 @@
 			"English": "That's all I needed to know. Thanks.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هذا كل ما كنت بحاجة إلى معرفته. شكر.",
 			"Egyptian Arabic Audio": "eca-1223-24.mp3",
 			"Standard Arabic Audio": "msa-1223-24.mp3"
 		},
@@ -251,7 +251,7 @@
 			"English": "Would you like to ask any questions?",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هل تريد طرح أي أسئلة؟",
 			"Egyptian Arabic Audio": "eca-1223-25.mp3",
 			"Standard Arabic Audio": "msa-1223-25.mp3"
 		},
@@ -261,7 +261,7 @@
 			"English": "I need to know about the fees.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنا بحاجة إلى معرفة الرسوم.",
 			"Egyptian Arabic Audio": "eca-1223-26.mp3",
 			"Standard Arabic Audio": "msa-1223-26.mp3"
 		},
@@ -271,7 +271,7 @@
 			"English": "What kind of fees?",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أي نوع من الرسوم؟",
 			"Egyptian Arabic Audio": "eca-1223-27.mp3",
 			"Standard Arabic Audio": "msa-1223-27.mp3"
 		},
@@ -281,7 +281,7 @@
 			"English": "I'm asking about overdraft fees.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنا أسأل عن رسوم السحب على المكشوف.",
 			"Egyptian Arabic Audio": "eca-1223-28.mp3",
 			"Standard Arabic Audio": "msa-1223-28.mp3"
 		},
@@ -291,7 +291,7 @@
 			"English": "You have to pay a small fee every time you overdraft.",
 			"Word Count": 11,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "عليك أن تدفع رسوما صغيرة في كل مرة كنت السحب على المكشوف.",
 			"Egyptian Arabic Audio": "eca-1223-29.mp3",
 			"Standard Arabic Audio": "msa-1223-29.mp3"
 		},
@@ -301,7 +301,7 @@
 			"English": "What's the fee?",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ما هي الرسوم؟",
 			"Egyptian Arabic Audio": "eca-1223-30.mp3",
 			"Standard Arabic Audio": "msa-1223-30.mp3"
 		},
@@ -311,7 +311,7 @@
 			"English": "The fee is $25 every time you overdraft.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "الرسم هو 25 $ في كل مرة كنت السحب على المكشوف.",
 			"Egyptian Arabic Audio": "eca-1223-31.mp3",
 			"Standard Arabic Audio": "msa-1223-31.mp3"
 		},
@@ -321,7 +321,7 @@
 			"English": "How is that a small fee?",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كيف يتم فرض رسوم رمزية؟",
 			"Egyptian Arabic Audio": "eca-1223-32.mp3",
 			"Standard Arabic Audio": "msa-1223-32.mp3"
 		},
@@ -331,7 +331,7 @@
 			"English": "That fee should keep you from overdrafting.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هذا الرسم يجب أن تبقى لكم من السحب على المكشوف.",
 			"Egyptian Arabic Audio": "eca-1223-33.mp3",
 			"Standard Arabic Audio": "msa-1223-33.mp3"
 		},
@@ -341,7 +341,7 @@
 			"English": "I'll say.",
 			"Word Count": 2,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنا سوف أقول.",
 			"Egyptian Arabic Audio": "eca-1223-34.mp3",
 			"Standard Arabic Audio": "msa-1223-34.mp3"
 		},
@@ -351,7 +351,7 @@
 			"English": "Do you have any more questions?",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هل لديك أي أسئلة أخرى؟",
 			"Egyptian Arabic Audio": "eca-1223-35.mp3",
 			"Standard Arabic Audio": "msa-1223-35.mp3"
 		},
@@ -361,7 +361,7 @@
 			"English": "I don't need to know anything else. Thank you.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لست بحاجة إلى معرفة أي شيء آخر. شكرا.",
 			"Egyptian Arabic Audio": "eca-1223-36.mp3",
 			"Standard Arabic Audio": "msa-1223-36.mp3"
 		}

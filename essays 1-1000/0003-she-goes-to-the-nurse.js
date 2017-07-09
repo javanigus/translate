@@ -9,7 +9,7 @@
 			"English": "She goes out to play.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وقالت انها تخرج للعب.",
 			"Egyptian Arabic Audio": "eca-0003-1.mp3",
 			"Standard Arabic Audio": "msa-0003-1.mp3"
 		},
@@ -18,7 +18,7 @@
 			"English": "She runs around.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "تدير حولها.",
 			"Egyptian Arabic Audio": "eca-0003-2.mp3",
 			"Standard Arabic Audio": "msa-0003-2.mp3"
 		},
@@ -27,7 +27,7 @@
 			"English": "She falls down.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "تسقط.",
 			"Egyptian Arabic Audio": "eca-0003-3.mp3",
 			"Standard Arabic Audio": "msa-0003-3.mp3"
 		},
@@ -36,7 +36,7 @@
 			"English": "It hurts.",
 			"Word Count": 2,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هذا مؤلم.",
 			"Egyptian Arabic Audio": "eca-0003-4.mp3",
 			"Standard Arabic Audio": "msa-0003-4.mp3"
 		},
@@ -45,7 +45,7 @@
 			"English": "She cries.",
 			"Word Count": 2,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "إنها تبكي.",
 			"Egyptian Arabic Audio": "eca-0003-5.mp3",
 			"Standard Arabic Audio": "msa-0003-5.mp3"
 		},
@@ -54,7 +54,7 @@
 			"English": "She gets up.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هي تقوم.",
 			"Egyptian Arabic Audio": "eca-0003-6.mp3",
 			"Standard Arabic Audio": "msa-0003-6.mp3"
 		},
@@ -63,7 +63,7 @@
 			"English": "She goes to the nurse.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "تذهب إلى الممرضة.",
 			"Egyptian Arabic Audio": "eca-0003-7.mp3",
 			"Standard Arabic Audio": "msa-0003-7.mp3"
 		},
@@ -72,7 +72,7 @@
 			"English": "The nurse is nice.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "الممرضة لطيفة.",
 			"Egyptian Arabic Audio": "eca-0003-8.mp3",
 			"Standard Arabic Audio": "msa-0003-8.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "She looks friendly.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انها تبدو ودية.",
 			"Egyptian Arabic Audio": "eca-0003-9.mp3",
 			"Standard Arabic Audio": "msa-0003-9.mp3"
 		},
@@ -90,7 +90,7 @@
 			"English": "The nurse gives her a lollipop.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "الممرضة يعطيها مصاصة.",
 			"Egyptian Arabic Audio": "eca-0003-10.mp3",
 			"Standard Arabic Audio": "msa-0003-10.mp3"
 		},
@@ -99,7 +99,7 @@
 			"English": "It tastes good.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "طعمه لذيذ.",
 			"Egyptian Arabic Audio": "eca-0003-11.mp3",
 			"Standard Arabic Audio": "msa-0003-11.mp3"
 		},
@@ -108,7 +108,7 @@
 			"English": "The nurse gives her a bandage.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "الممرضة يعطيها ضمادة.",
 			"Egyptian Arabic Audio": "eca-0003-12.mp3",
 			"Standard Arabic Audio": "msa-0003-12.mp3"
 		},
@@ -117,7 +117,7 @@
 			"English": "She is okay now.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "إنها بخير الآن.",
 			"Egyptian Arabic Audio": "eca-0003-13.mp3",
 			"Standard Arabic Audio": "msa-0003-13.mp3"
 		},
@@ -126,7 +126,7 @@
 			"English": "She walks back to class.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وقالت انها يمشي مرة أخرى إلى الصف.",
 			"Egyptian Arabic Audio": "eca-0003-14.mp3",
 			"Standard Arabic Audio": "msa-0003-14.mp3"
 		}

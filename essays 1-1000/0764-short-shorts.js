@@ -9,7 +9,7 @@
 			"English": "The next day, Mr.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "في اليوم التالي، السيد",
 			"Egyptian Arabic Audio": "eca-0764-1.mp3",
 			"Standard Arabic Audio": "msa-0764-1.mp3"
 		},
@@ -18,7 +18,7 @@
 			"English": "Adams and Lisa went out to lunch.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ذهب آدامز وليزا لتناول الغداء.",
 			"Egyptian Arabic Audio": "eca-0764-2.mp3",
 			"Standard Arabic Audio": "msa-0764-2.mp3"
 		},
@@ -27,7 +27,7 @@
 			"English": "Mrs Adams wore a tank top and very short shorts.",
 			"Word Count": 10,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ارتدت السيدة آدامز أعلى دبابة وشورت قصيرة جدا.",
 			"Egyptian Arabic Audio": "eca-0764-3.mp3",
 			"Standard Arabic Audio": "msa-0764-3.mp3"
 		},
@@ -36,7 +36,7 @@
 			"English": "\"What are you wearing?\" shouted Lisa.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "&quot;ماذا ترتدي؟&quot; صاح ليزا.",
 			"Egyptian Arabic Audio": "eca-0764-4.mp3",
 			"Standard Arabic Audio": "msa-0764-4.mp3"
 		},
@@ -45,7 +45,7 @@
 			"English": "She was embarrassed to walk around with her mom showing her butt.",
 			"Word Count": 12,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "الوجه الصفع وقالت إنها كانت بالحرج على المشي مع والدتها تظهر بعقب لها.",
 			"Egyptian Arabic Audio": "eca-0764-5.mp3",
 			"Standard Arabic Audio": "msa-0764-5.mp3"
 		},
@@ -54,7 +54,7 @@
 			"English": "\"They're just shorts!\" replied Mrs.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "&quot;انهم مجرد شورت!&quot; أجابت السيدة.",
 			"Egyptian Arabic Audio": "eca-0764-6.mp3",
 			"Standard Arabic Audio": "msa-0764-6.mp3"
 		},
@@ -63,7 +63,7 @@
 			"English": "Adams.",
 			"Word Count": 1,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "آدامز.",
 			"Egyptian Arabic Audio": "eca-0764-7.mp3",
 			"Standard Arabic Audio": "msa-0764-7.mp3"
 		}

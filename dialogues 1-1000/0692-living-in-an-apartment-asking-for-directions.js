@@ -11,7 +11,7 @@
 			"English": "You look lost. Are you in need of any directions?",
 			"Word Count": 10,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كنت تبدو فقدت. هل أنت في حاجة إلى أي اتجاهات؟",
 			"Egyptian Arabic Audio": "eca-0692-1.mp3",
 			"Standard Arabic Audio": "msa-0692-1.mp3"
 		},
@@ -21,7 +21,7 @@
 			"English": "I was just about to ask someone for directions. Thank you for noticing.",
 			"Word Count": 13,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كنت على وشك أن أسأل شخص عن الاتجاهات. شكرا لك على ملاحظة.",
 			"Egyptian Arabic Audio": "eca-0692-2.mp3",
 			"Standard Arabic Audio": "msa-0692-2.mp3"
 		},
@@ -31,7 +31,7 @@
 			"English": "Where are you from?",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "من أي بلد أنت؟",
 			"Egyptian Arabic Audio": "eca-0692-3.mp3",
 			"Standard Arabic Audio": "msa-0692-3.mp3"
 		},
@@ -41,7 +41,7 @@
 			"English": "I'm from the inner city.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنا من المدينة الداخلية.",
 			"Egyptian Arabic Audio": "eca-0692-4.mp3",
 			"Standard Arabic Audio": "msa-0692-4.mp3"
 		},
@@ -51,7 +51,7 @@
 			"English": "You're a long way from home then. Are you looking for a certain street?",
 			"Word Count": 14,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كنت شوطا طويلا من المنزل ثم. هل تبحث عن شارع معين؟",
 			"Egyptian Arabic Audio": "eca-0692-5.mp3",
 			"Standard Arabic Audio": "msa-0692-5.mp3"
 		},
@@ -61,7 +61,7 @@
 			"English": "Actually, I need directions to the nearest public bus.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "في الواقع، أنا بحاجة إلى توجيهات إلى أقرب حافلة عامة.",
 			"Egyptian Arabic Audio": "eca-0692-6.mp3",
 			"Standard Arabic Audio": "msa-0692-6.mp3"
 		},
@@ -71,7 +71,7 @@
 			"English": "Which bus number are you looking for?",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ما هو رقم الحافلة التي تبحث عنها؟",
 			"Egyptian Arabic Audio": "eca-0692-7.mp3",
 			"Standard Arabic Audio": "msa-0692-7.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "I'm looking for Line 267.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أبحث عن خط 267.",
 			"Egyptian Arabic Audio": "eca-0692-8.mp3",
 			"Standard Arabic Audio": "msa-0692-8.mp3"
 		},
@@ -91,7 +91,7 @@
 			"English": "I know that bus. The stop is just around that corner.",
 			"Word Count": 11,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وأنا أعلم أن الحافلة. تقع المحطة بالقرب من تلك الزاوية.",
 			"Egyptian Arabic Audio": "eca-0692-9.mp3",
 			"Standard Arabic Audio": "msa-0692-9.mp3"
 		},
@@ -101,7 +101,7 @@
 			"English": "Where? Over there?",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أين؟ هناك؟",
 			"Egyptian Arabic Audio": "eca-0692-10.mp3",
 			"Standard Arabic Audio": "msa-0692-10.mp3"
 		},
@@ -111,7 +111,7 @@
 			"English": "In that direction.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وفي هذا الاتجاه.",
 			"Egyptian Arabic Audio": "eca-0692-11.mp3",
 			"Standard Arabic Audio": "msa-0692-11.mp3"
 		},
@@ -121,7 +121,7 @@
 			"English": "Thank you so much. I appreciate the help.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "شكرا جزيلا. أنا أقدر المساعدة.",
 			"Egyptian Arabic Audio": "eca-0692-12.mp3",
 			"Standard Arabic Audio": "msa-0692-12.mp3"
 		},
@@ -131,7 +131,7 @@
 			"English": "You're welcome. Safe travels, my friend.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "على الرحب و السعة. رحلات آمنة، يا صديقي.",
 			"Egyptian Arabic Audio": "eca-0692-13.mp3",
 			"Standard Arabic Audio": "msa-0692-13.mp3"
 		}

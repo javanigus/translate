@@ -9,7 +9,7 @@
 			"English": "She is hungry.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انها جائعة.",
 			"Egyptian Arabic Audio": "eca-0175-1.mp3",
 			"Standard Arabic Audio": "msa-0175-1.mp3"
 		},
@@ -18,7 +18,7 @@
 			"English": "She opens the refrigerator.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انها تفتح الثلاجة.",
 			"Egyptian Arabic Audio": "eca-0175-2.mp3",
 			"Standard Arabic Audio": "msa-0175-2.mp3"
 		},
@@ -27,7 +27,7 @@
 			"English": "She takes out bread, ham, lettuce, and cheese.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انها تأخذ الخبز، لحم الخنزير، الخس، والجبن.",
 			"Egyptian Arabic Audio": "eca-0175-3.mp3",
 			"Standard Arabic Audio": "msa-0175-3.mp3"
 		},
@@ -36,7 +36,7 @@
 			"English": "She also takes out mayonnaise.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كما أنها تأخذ المايونيز.",
 			"Egyptian Arabic Audio": "eca-0175-4.mp3",
 			"Standard Arabic Audio": "msa-0175-4.mp3"
 		},
@@ -45,7 +45,7 @@
 			"English": "She puts two slices of bread in the toaster.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انها تضع اثنين من شرائح الخبز في محمصة.",
 			"Egyptian Arabic Audio": "eca-0175-5.mp3",
 			"Standard Arabic Audio": "msa-0175-5.mp3"
 		},
@@ -54,7 +54,7 @@
 			"English": "She waits for it to be heated.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "تنتظر أن تكون ساخنة.",
 			"Egyptian Arabic Audio": "eca-0175-6.mp3",
 			"Standard Arabic Audio": "msa-0175-6.mp3"
 		},
@@ -63,7 +63,7 @@
 			"English": "She puts mayonnaise on one slice.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "إنها تضع المايونيز على شريحة واحدة.",
 			"Egyptian Arabic Audio": "eca-0175-7.mp3",
 			"Standard Arabic Audio": "msa-0175-7.mp3"
 		},
@@ -72,7 +72,7 @@
 			"English": "She puts ham, lettuce, and cheese on it.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انها تضع لحم الخنزير والخس والجبن على ذلك.",
 			"Egyptian Arabic Audio": "eca-0175-8.mp3",
 			"Standard Arabic Audio": "msa-0175-8.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "She puts the other bread on top.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وهي تضع الخبز الآخر في الأعلى.",
 			"Egyptian Arabic Audio": "eca-0175-9.mp3",
 			"Standard Arabic Audio": "msa-0175-9.mp3"
 		}

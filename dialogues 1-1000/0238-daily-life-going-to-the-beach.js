@@ -11,7 +11,7 @@
 			"English": "Let's go to the beach.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هيا لنذهب إلى الشاطئ.",
 			"Egyptian Arabic Audio": "eca-0238-1.mp3",
 			"Standard Arabic Audio": "msa-0238-1.mp3"
 		},
@@ -21,7 +21,7 @@
 			"English": "That's a great idea.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هذه فكرة عظيمة.",
 			"Egyptian Arabic Audio": "eca-0238-2.mp3",
 			"Standard Arabic Audio": "msa-0238-2.mp3"
 		},
@@ -31,7 +31,7 @@
 			"English": "We haven't been in a while.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لم نكن في فترة من الوقت.",
 			"Egyptian Arabic Audio": "eca-0238-3.mp3",
 			"Standard Arabic Audio": "msa-0238-3.mp3"
 		},
@@ -41,7 +41,7 @@
 			"English": "We haven't been in a month.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لم نكن في شهر.",
 			"Egyptian Arabic Audio": "eca-0238-4.mp3",
 			"Standard Arabic Audio": "msa-0238-4.mp3"
 		},
@@ -51,7 +51,7 @@
 			"English": "The last time we went, you almost drowned.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "في المرة الأخيرة ذهبنا، كنت غرق تقريبا.",
 			"Egyptian Arabic Audio": "eca-0238-5.mp3",
 			"Standard Arabic Audio": "msa-0238-5.mp3"
 		},
@@ -61,7 +61,7 @@
 			"English": "No, I didn't.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لا، لم أفعل ذلك.",
 			"Egyptian Arabic Audio": "eca-0238-6.mp3",
 			"Standard Arabic Audio": "msa-0238-6.mp3"
 		},
@@ -71,7 +71,7 @@
 			"English": "Then why did the lifeguard dive into the water?",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ثم لماذا الغوص الغوص في الماء؟",
 			"Egyptian Arabic Audio": "eca-0238-7.mp3",
 			"Standard Arabic Audio": "msa-0238-7.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "I think he wanted to cool off.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أعتقد أنه يريد أن يبرد.",
 			"Egyptian Arabic Audio": "eca-0238-8.mp3",
 			"Standard Arabic Audio": "msa-0238-8.mp3"
 		},
@@ -91,7 +91,7 @@
 			"English": "He swam right up to you.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انه سبح حق لكم.",
 			"Egyptian Arabic Audio": "eca-0238-9.mp3",
 			"Standard Arabic Audio": "msa-0238-9.mp3"
 		},
@@ -101,7 +101,7 @@
 			"English": "And then he turned right around.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ثم تحول نحو اليمين.",
 			"Egyptian Arabic Audio": "eca-0238-10.mp3",
 			"Standard Arabic Audio": "msa-0238-10.mp3"
 		},
@@ -111,7 +111,7 @@
 			"English": "Maybe you're right.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ربما انت على حق.",
 			"Egyptian Arabic Audio": "eca-0238-11.mp3",
 			"Standard Arabic Audio": "msa-0238-11.mp3"
 		},
@@ -121,7 +121,7 @@
 			"English": "Maybe we should get going.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ربما يجب علينا أن نذهب.",
 			"Egyptian Arabic Audio": "eca-0238-12.mp3",
 			"Standard Arabic Audio": "msa-0238-12.mp3"
 		}

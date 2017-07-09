@@ -9,7 +9,7 @@
 			"English": "Babies cry.",
 			"Word Count": 2,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يبكي الرضع.",
 			"Egyptian Arabic Audio": "eca-0341-1.mp3",
 			"Standard Arabic Audio": "msa-0341-1.mp3"
 		},
@@ -18,7 +18,7 @@
 			"English": "Babies smile.",
 			"Word Count": 2,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "الأطفال، إبتسامة.",
 			"Egyptian Arabic Audio": "eca-0341-2.mp3",
 			"Standard Arabic Audio": "msa-0341-2.mp3"
 		},
@@ -27,7 +27,7 @@
 			"English": "Babies drool.",
 			"Word Count": 2,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "رضع.",
 			"Egyptian Arabic Audio": "eca-0341-3.mp3",
 			"Standard Arabic Audio": "msa-0341-3.mp3"
 		},
@@ -36,7 +36,7 @@
 			"English": "They look at everything.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنها تنظر في كل شيء.",
 			"Egyptian Arabic Audio": "eca-0341-4.mp3",
 			"Standard Arabic Audio": "msa-0341-4.mp3"
 		},
@@ -45,7 +45,7 @@
 			"English": "They look at everyone.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنها تنظر إلى الجميع.",
 			"Egyptian Arabic Audio": "eca-0341-5.mp3",
 			"Standard Arabic Audio": "msa-0341-5.mp3"
 		},
@@ -54,7 +54,7 @@
 			"English": "They kick their feet in the air.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يركلون أقدامهم في الهواء.",
 			"Egyptian Arabic Audio": "eca-0341-6.mp3",
 			"Standard Arabic Audio": "msa-0341-6.mp3"
 		},
@@ -63,7 +63,7 @@
 			"English": "They make fists with their hands.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يصنعون أيديهم بأيديهم.",
 			"Egyptian Arabic Audio": "eca-0341-7.mp3",
 			"Standard Arabic Audio": "msa-0341-7.mp3"
 		},
@@ -72,7 +72,7 @@
 			"English": "Babies are curious.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "الأطفال غريبة.",
 			"Egyptian Arabic Audio": "eca-0341-8.mp3",
 			"Standard Arabic Audio": "msa-0341-8.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "They put everything into their mouths.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وضعوا كل شيء في أفواههم.",
 			"Egyptian Arabic Audio": "eca-0341-9.mp3",
 			"Standard Arabic Audio": "msa-0341-9.mp3"
 		},
@@ -90,7 +90,7 @@
 			"English": "They ride around in baby strollers.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يتجولون في عربات الأطفال.",
 			"Egyptian Arabic Audio": "eca-0341-10.mp3",
 			"Standard Arabic Audio": "msa-0341-10.mp3"
 		},
@@ -99,7 +99,7 @@
 			"English": "They get a lot of attention.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنها تحصل على الكثير من الاهتمام.",
 			"Egyptian Arabic Audio": "eca-0341-11.mp3",
 			"Standard Arabic Audio": "msa-0341-11.mp3"
 		},
@@ -108,7 +108,7 @@
 			"English": "They have an easy life.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لديهم حياة سهلة.",
 			"Egyptian Arabic Audio": "eca-0341-12.mp3",
 			"Standard Arabic Audio": "msa-0341-12.mp3"
 		}

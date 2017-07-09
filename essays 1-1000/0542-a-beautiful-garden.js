@@ -9,7 +9,7 @@
 			"English": "The garden is beautiful.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "الحديقة جميلة.",
 			"Egyptian Arabic Audio": "eca-0542-1.mp3",
 			"Standard Arabic Audio": "msa-0542-1.mp3"
 		},
@@ -18,7 +18,7 @@
 			"English": "The garden is big.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "الحديقة كبيرة.",
 			"Egyptian Arabic Audio": "eca-0542-2.mp3",
 			"Standard Arabic Audio": "msa-0542-2.mp3"
 		},
@@ -27,7 +27,7 @@
 			"English": "There are many flowers.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هناك العديد من الزهور.",
 			"Egyptian Arabic Audio": "eca-0542-3.mp3",
 			"Standard Arabic Audio": "msa-0542-3.mp3"
 		},
@@ -36,7 +36,7 @@
 			"English": "There are pink flowers.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هناك الزهور الوردية.",
 			"Egyptian Arabic Audio": "eca-0542-4.mp3",
 			"Standard Arabic Audio": "msa-0542-4.mp3"
 		},
@@ -45,7 +45,7 @@
 			"English": "There are purple flowers.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هناك الزهور الأرجواني.",
 			"Egyptian Arabic Audio": "eca-0542-5.mp3",
 			"Standard Arabic Audio": "msa-0542-5.mp3"
 		},
@@ -54,7 +54,7 @@
 			"English": "There are small flowers.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هناك الزهور الصغيرة.",
 			"Egyptian Arabic Audio": "eca-0542-6.mp3",
 			"Standard Arabic Audio": "msa-0542-6.mp3"
 		},
@@ -63,7 +63,7 @@
 			"English": "There are big flowers.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هناك الزهور الكبيرة.",
 			"Egyptian Arabic Audio": "eca-0542-7.mp3",
 			"Standard Arabic Audio": "msa-0542-7.mp3"
 		},
@@ -72,7 +72,7 @@
 			"English": "The gardener plants more flowers.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "النباتات بستاني المزيد من الزهور.",
 			"Egyptian Arabic Audio": "eca-0542-8.mp3",
 			"Standard Arabic Audio": "msa-0542-8.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "There is also a fountain.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وهناك أيضا نافورة.",
 			"Egyptian Arabic Audio": "eca-0542-9.mp3",
 			"Standard Arabic Audio": "msa-0542-9.mp3"
 		},
@@ -90,7 +90,7 @@
 			"English": "Kids sit next to it.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أطفال الجلوس بجانبه.",
 			"Egyptian Arabic Audio": "eca-0542-10.mp3",
 			"Standard Arabic Audio": "msa-0542-10.mp3"
 		},
@@ -99,7 +99,7 @@
 			"English": "Kids throw coins into it.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أطفال رمي النقود في ذلك.",
 			"Egyptian Arabic Audio": "eca-0542-11.mp3",
 			"Standard Arabic Audio": "msa-0542-11.mp3"
 		},
@@ -108,7 +108,7 @@
 			"English": "Their parents smile.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يبتسم والديهما.",
 			"Egyptian Arabic Audio": "eca-0542-12.mp3",
 			"Standard Arabic Audio": "msa-0542-12.mp3"
 		}

@@ -9,7 +9,7 @@
 			"English": "Brian has a fast car.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "بريان لديه سيارة سريعة.",
 			"Egyptian Arabic Audio": "eca-1222-1.mp3",
 			"Standard Arabic Audio": "msa-1222-1.mp3"
 		},
@@ -18,7 +18,7 @@
 			"English": "He drives his car fast.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يقود سيارته بسرعة.",
 			"Egyptian Arabic Audio": "eca-1222-2.mp3",
 			"Standard Arabic Audio": "msa-1222-2.mp3"
 		},
@@ -27,7 +27,7 @@
 			"English": "He never gets a ticket.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انه لم يحصل على تذكرة.",
 			"Egyptian Arabic Audio": "eca-1222-3.mp3",
 			"Standard Arabic Audio": "msa-1222-3.mp3"
 		},
@@ -36,7 +36,7 @@
 			"English": "His car is too fast for the police.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "سيارته سريعة جدا للشرطة.",
 			"Egyptian Arabic Audio": "eca-1222-4.mp3",
 			"Standard Arabic Audio": "msa-1222-4.mp3"
 		},
@@ -45,7 +45,7 @@
 			"English": "They chase him, but they can't catch him.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انهم مطاردة له، لكنها لا يمكن أن قبض عليه.",
 			"Egyptian Arabic Audio": "eca-1222-5.mp3",
 			"Standard Arabic Audio": "msa-1222-5.mp3"
 		},
@@ -54,7 +54,7 @@
 			"English": "Brian always escapes from the police.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "براين يهرب دائما من الشرطة.",
 			"Egyptian Arabic Audio": "eca-1222-6.mp3",
 			"Standard Arabic Audio": "msa-1222-6.mp3"
 		},
@@ -63,7 +63,7 @@
 			"English": "The police want to catch him.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "الشرطة تريد أن قبض عليه.",
 			"Egyptian Arabic Audio": "eca-1222-7.mp3",
 			"Standard Arabic Audio": "msa-1222-7.mp3"
 		},
@@ -72,7 +72,7 @@
 			"English": "But their cars are too slow.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ولكن سياراتهم بطيئة جدا.",
 			"Egyptian Arabic Audio": "eca-1222-8.mp3",
 			"Standard Arabic Audio": "msa-1222-8.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "Brian's car is very fast.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "سيارة بريان سريع جدا.",
 			"Egyptian Arabic Audio": "eca-1222-9.mp3",
 			"Standard Arabic Audio": "msa-1222-9.mp3"
 		},
@@ -90,7 +90,7 @@
 			"English": "He likes to drive over 100 mph.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يحب أن يقود أكثر من 100 ميلا في الساعة.",
 			"Egyptian Arabic Audio": "eca-1222-10.mp3",
 			"Standard Arabic Audio": "msa-1222-10.mp3"
 		},
@@ -99,7 +99,7 @@
 			"English": "When he sees the police, he waves to the police.",
 			"Word Count": 10,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "عندما يرى الشرطة، يوجه إلى الشرطة.",
 			"Egyptian Arabic Audio": "eca-1222-11.mp3",
 			"Standard Arabic Audio": "msa-1222-11.mp3"
 		},
@@ -108,7 +108,7 @@
 			"English": "The police turn on their sirens.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وتحول الشرطة إلى صفارات الإنذار.",
 			"Egyptian Arabic Audio": "eca-1222-12.mp3",
 			"Standard Arabic Audio": "msa-1222-12.mp3"
 		},
@@ -117,7 +117,7 @@
 			"English": "They turn on their red lights.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنها تتحول على أضواء الحمراء.",
 			"Egyptian Arabic Audio": "eca-1222-13.mp3",
 			"Standard Arabic Audio": "msa-1222-13.mp3"
 		},
@@ -126,7 +126,7 @@
 			"English": "They chase after Brian.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انهم مطاردة بعد براين.",
 			"Egyptian Arabic Audio": "eca-1222-14.mp3",
 			"Standard Arabic Audio": "msa-1222-14.mp3"
 		},
@@ -135,7 +135,7 @@
 			"English": "Brian speeds up.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "بريان يسرع.",
 			"Egyptian Arabic Audio": "eca-1222-15.mp3",
 			"Standard Arabic Audio": "msa-1222-15.mp3"
 		},
@@ -144,7 +144,7 @@
 			"English": "He passes all the other cars on the road.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يمر جميع السيارات الأخرى على الطريق.",
 			"Egyptian Arabic Audio": "eca-1222-16.mp3",
 			"Standard Arabic Audio": "msa-1222-16.mp3"
 		},
@@ -153,7 +153,7 @@
 			"English": "He escapes from the police.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وهو يهرب من الشرطة.",
 			"Egyptian Arabic Audio": "eca-1222-17.mp3",
 			"Standard Arabic Audio": "msa-1222-17.mp3"
 		}

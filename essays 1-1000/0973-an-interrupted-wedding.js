@@ -9,7 +9,7 @@
 			"English": "Ryan demanded her to be taken out.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "طالبها ريان بإخراجها.",
 			"Egyptian Arabic Audio": "eca-0973-1.mp3",
 			"Standard Arabic Audio": "msa-0973-1.mp3"
 		},
@@ -18,7 +18,7 @@
 			"English": "Ryan's brothers carried Karen out, but Karen bit their arms.",
 			"Word Count": 10,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "قام الأخوان ريان كارين بها، ولكن كارين بت ذراعيهم.",
 			"Egyptian Arabic Audio": "eca-0973-2.mp3",
 			"Standard Arabic Audio": "msa-0973-2.mp3"
 		},
@@ -27,7 +27,7 @@
 			"English": "She ran up to Frances and ripped her dress.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ركضت إلى فرانسيس ومزق فستانها.",
 			"Egyptian Arabic Audio": "eca-0973-3.mp3",
 			"Standard Arabic Audio": "msa-0973-3.mp3"
 		},
@@ -36,7 +36,7 @@
 			"English": "Frances pushed Karen.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "دفعت فرانسيس كارين.",
 			"Egyptian Arabic Audio": "eca-0973-4.mp3",
 			"Standard Arabic Audio": "msa-0973-4.mp3"
 		},
@@ -45,7 +45,7 @@
 			"English": "Ryan told Karen that she needed to leave.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وقال ريان كارين إنها بحاجة إلى المغادرة.",
 			"Egyptian Arabic Audio": "eca-0973-5.mp3",
 			"Standard Arabic Audio": "msa-0973-5.mp3"
 		},
@@ -54,7 +54,7 @@
 			"English": "Karen wouldn't leave until Ryan called the police.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كارين لن تترك حتى دعا ريان الشرطة.",
 			"Egyptian Arabic Audio": "eca-0973-6.mp3",
 			"Standard Arabic Audio": "msa-0973-6.mp3"
 		},
@@ -63,7 +63,7 @@
 			"English": "Other than Karen interrupting, the wedding was perfect.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "بخلاف كارين مقاطعة، كان الزفاف الكمال.",
 			"Egyptian Arabic Audio": "eca-0973-7.mp3",
 			"Standard Arabic Audio": "msa-0973-7.mp3"
 		},
@@ -72,7 +72,7 @@
 			"English": "Ryan and Frances knew they were going to be together forever.",
 			"Word Count": 11,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "عرف ريان وفرانسيس أنهم سيذهبون معا إلى الأبد.",
 			"Egyptian Arabic Audio": "eca-0973-8.mp3",
 			"Standard Arabic Audio": "msa-0973-8.mp3"
 		}

@@ -11,7 +11,7 @@
 			"English": "You should put away those chips.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يجب وضع بعيدا تلك الرقائق.",
 			"Egyptian Arabic Audio": "eca-0085-1.mp3",
 			"Standard Arabic Audio": "msa-0085-1.mp3"
 		},
@@ -21,7 +21,7 @@
 			"English": "Why? I'm hungry.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لماذا ا؟ إنني جائع أنا جوعان.",
 			"Egyptian Arabic Audio": "eca-0085-2.mp3",
 			"Standard Arabic Audio": "msa-0085-2.mp3"
 		},
@@ -31,7 +31,7 @@
 			"English": "You'll leave crumbs everywhere.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "عليك ترك فتات في كل مكان.",
 			"Egyptian Arabic Audio": "eca-0085-3.mp3",
 			"Standard Arabic Audio": "msa-0085-3.mp3"
 		},
@@ -41,7 +41,7 @@
 			"English": "Someone will pick them up.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "شخص ما سوف تلتقط لهم.",
 			"Egyptian Arabic Audio": "eca-0085-4.mp3",
 			"Standard Arabic Audio": "msa-0085-4.mp3"
 		},
@@ -51,7 +51,7 @@
 			"English": "Probably roaches and vermin.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ربما الصراصير والحشرات.",
 			"Egyptian Arabic Audio": "eca-0085-5.mp3",
 			"Standard Arabic Audio": "msa-0085-5.mp3"
 		},
@@ -61,7 +61,7 @@
 			"English": "There are no roaches on the bus!",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لا توجد الصراصير على متن الحافلة!",
 			"Egyptian Arabic Audio": "eca-0085-6.mp3",
 			"Standard Arabic Audio": "msa-0085-6.mp3"
 		},
@@ -71,7 +71,7 @@
 			"English": "That's only because people work to keep things clean.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هذا فقط لأن الناس يعملون للحفاظ على الأمور نظيفة.",
 			"Egyptian Arabic Audio": "eca-0085-7.mp3",
 			"Standard Arabic Audio": "msa-0085-7.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "You're exaggerating.",
 			"Word Count": 2,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انت تبالغ.",
 			"Egyptian Arabic Audio": "eca-0085-8.mp3",
 			"Standard Arabic Audio": "msa-0085-8.mp3"
 		},
@@ -91,7 +91,7 @@
 			"English": "There are signs saying no food on the bus.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هناك علامات تقول لا طعام على متن الحافلة.",
 			"Egyptian Arabic Audio": "eca-0085-9.mp3",
 			"Standard Arabic Audio": "msa-0085-9.mp3"
 		},
@@ -101,7 +101,7 @@
 			"English": "No one takes those signs seriously.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لا أحد يأخذ هذه العلامات على محمل الجد.",
 			"Egyptian Arabic Audio": "eca-0085-10.mp3",
 			"Standard Arabic Audio": "msa-0085-10.mp3"
 		},
@@ -111,7 +111,7 @@
 			"English": "Imagine if everyone left crumbs and trash on the bus.",
 			"Word Count": 10,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "تخيل إذا ترك الجميع الفتات والقمامة على متن الحافلة.",
 			"Egyptian Arabic Audio": "eca-0085-11.mp3",
 			"Standard Arabic Audio": "msa-0085-11.mp3"
 		},
@@ -121,7 +121,7 @@
 			"English": "I guess I should not make a mess at least.",
 			"Word Count": 10,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أعتقد أنني لا ينبغي أن تجعل الفوضى على الأقل.",
 			"Egyptian Arabic Audio": "eca-0085-12.mp3",
 			"Standard Arabic Audio": "msa-0085-12.mp3"
 		}

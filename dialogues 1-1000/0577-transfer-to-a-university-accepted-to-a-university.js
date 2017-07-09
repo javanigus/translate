@@ -11,7 +11,7 @@
 			"English": "I got accepted to all of the schools I applied to.",
 			"Word Count": 11,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لقد قبلت جميع المدارس التي تقدمت بها.",
 			"Egyptian Arabic Audio": "eca-0577-1.mp3",
 			"Standard Arabic Audio": "msa-0577-1.mp3"
 		},
@@ -21,7 +21,7 @@
 			"English": "Congrats! You totally deserve it.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "مبروك! أنت تستحق ذلك تماما.",
 			"Egyptian Arabic Audio": "eca-0577-2.mp3",
 			"Standard Arabic Audio": "msa-0577-2.mp3"
 		},
@@ -31,7 +31,7 @@
 			"English": "How many schools did you apply to?",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كم عدد المدارس التي تقدمت بطلبها؟",
 			"Egyptian Arabic Audio": "eca-0577-3.mp3",
 			"Standard Arabic Audio": "msa-0577-3.mp3"
 		},
@@ -41,7 +41,7 @@
 			"English": "I applied to six.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "تقدمت بطلب لستة.",
 			"Egyptian Arabic Audio": "eca-0577-4.mp3",
 			"Standard Arabic Audio": "msa-0577-4.mp3"
 		},
@@ -51,7 +51,7 @@
 			"English": "What was your first reaction when you got into your dream school?",
 			"Word Count": 12,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ما هو رد فعلك الأول عندما دخلت إلى مدرسة أحلامك؟",
 			"Egyptian Arabic Audio": "eca-0577-5.mp3",
 			"Standard Arabic Audio": "msa-0577-5.mp3"
 		},
@@ -61,7 +61,7 @@
 			"English": "I was shocked. My heart stopped.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لقد صدمت. توقف قلبي.",
 			"Egyptian Arabic Audio": "eca-0577-6.mp3",
 			"Standard Arabic Audio": "msa-0577-6.mp3"
 		},
@@ -71,7 +71,7 @@
 			"English": "I know the feeling. It's a great one.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انا اعرف الشعور. انها واحدة كبيرة.",
 			"Egyptian Arabic Audio": "eca-0577-7.mp3",
 			"Standard Arabic Audio": "msa-0577-7.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "It is. I don't even know what school to pick now.",
 			"Word Count": 11,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنه. أنا لا أعرف حتى ما المدرسة لاختيار الآن.",
 			"Egyptian Arabic Audio": "eca-0577-8.mp3",
 			"Standard Arabic Audio": "msa-0577-8.mp3"
 		},
@@ -91,7 +91,7 @@
 			"English": "Same here. Who knew getting accepted would have problems?",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كذلك هنا. الذين عرفوا الحصول على قبول سيكون لديهم مشاكل؟",
 			"Egyptian Arabic Audio": "eca-0577-9.mp3",
 			"Standard Arabic Audio": "msa-0577-9.mp3"
 		},
@@ -101,7 +101,7 @@
 			"English": "It's a good problem!",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انها مشكلة جيدة!",
 			"Egyptian Arabic Audio": "eca-0577-10.mp3",
 			"Standard Arabic Audio": "msa-0577-10.mp3"
 		},
@@ -111,7 +111,7 @@
 			"English": "Hey, we should visit schools together.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "مهلا، يجب علينا زيارة المدارس معا.",
 			"Egyptian Arabic Audio": "eca-0577-11.mp3",
 			"Standard Arabic Audio": "msa-0577-11.mp3"
 		},
@@ -121,7 +121,7 @@
 			"English": "That would be fun!",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "سيكون ذلك مسليا!",
 			"Egyptian Arabic Audio": "eca-0577-12.mp3",
 			"Standard Arabic Audio": "msa-0577-12.mp3"
 		}

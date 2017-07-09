@@ -9,7 +9,7 @@
 			"English": "She has a headache.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لديها صداع.",
 			"Egyptian Arabic Audio": "eca-1138-1.mp3",
 			"Standard Arabic Audio": "msa-1138-1.mp3"
 		},
@@ -18,7 +18,7 @@
 			"English": "She feels dizzy.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "تشعر بالدوار.",
 			"Egyptian Arabic Audio": "eca-1138-2.mp3",
 			"Standard Arabic Audio": "msa-1138-2.mp3"
 		},
@@ -27,7 +27,7 @@
 			"English": "She goes to the doctor.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "تذهب إلى الطبيب.",
 			"Egyptian Arabic Audio": "eca-1138-3.mp3",
 			"Standard Arabic Audio": "msa-1138-3.mp3"
 		},
@@ -36,7 +36,7 @@
 			"English": "The doctor examines her.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "الطبيب يفحصها.",
 			"Egyptian Arabic Audio": "eca-1138-4.mp3",
 			"Standard Arabic Audio": "msa-1138-4.mp3"
 		},
@@ -45,7 +45,7 @@
 			"English": "She needs brain surgery.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وهي تحتاج إلى جراحة الدماغ.",
 			"Egyptian Arabic Audio": "eca-1138-5.mp3",
 			"Standard Arabic Audio": "msa-1138-5.mp3"
 		},
@@ -54,7 +54,7 @@
 			"English": "The doctor opens her skull.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "الطبيب يفتح جمجمتها.",
 			"Egyptian Arabic Audio": "eca-1138-6.mp3",
 			"Standard Arabic Audio": "msa-1138-6.mp3"
 		},
@@ -63,7 +63,7 @@
 			"English": "The doctor fixes the bad part of her brain.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "الطبيب يثبت الجزء السيئ من دماغها.",
 			"Egyptian Arabic Audio": "eca-1138-7.mp3",
 			"Standard Arabic Audio": "msa-1138-7.mp3"
 		},
@@ -72,7 +72,7 @@
 			"English": "She spends a week in the hospital.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وهي تنفق أسبوعا في المستشفى.",
 			"Egyptian Arabic Audio": "eca-1138-8.mp3",
 			"Standard Arabic Audio": "msa-1138-8.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "Her headache and dizziness are gone.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ذهبت صداعها ودوارها.",
 			"Egyptian Arabic Audio": "eca-1138-9.mp3",
 			"Standard Arabic Audio": "msa-1138-9.mp3"
 		},
@@ -90,7 +90,7 @@
 			"English": "Modern medicine saves her.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "الطب الحديث يحفظ لها.",
 			"Egyptian Arabic Audio": "eca-1138-10.mp3",
 			"Standard Arabic Audio": "msa-1138-10.mp3"
 		}

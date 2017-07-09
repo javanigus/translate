@@ -11,7 +11,7 @@
 			"English": "Hello, neighbor. I would like to personally welcome you to the  neighborhood.",
 			"Word Count": 12,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "مرحبا، الجار. وأود أن أرحب بكم شخصيا في الحي.",
 			"Egyptian Arabic Audio": "eca-0681-1.mp3",
 			"Standard Arabic Audio": "msa-0681-1.mp3"
 		},
@@ -21,7 +21,7 @@
 			"English": "Thank you. It is a pleasure to meet you.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "شكرا. انه لمن دواعي سروري أن ألتقي بكم.",
 			"Egyptian Arabic Audio": "eca-0681-2.mp3",
 			"Standard Arabic Audio": "msa-0681-2.mp3"
 		},
@@ -31,7 +31,7 @@
 			"English": "Same here. It's been a few days. How do you like it so far?",
 			"Word Count": 14,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كذلك هنا. لقد كانت بضعة أيام. كيف كنت ترغب في ذلك حتى الآن؟",
 			"Egyptian Arabic Audio": "eca-0681-3.mp3",
 			"Standard Arabic Audio": "msa-0681-3.mp3"
 		},
@@ -41,7 +41,7 @@
 			"English": "I like it. It's convenient for both my job and my family.",
 			"Word Count": 12,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "احب ذلك. انها مريحة لكل من عملي وعائلتي.",
 			"Egyptian Arabic Audio": "eca-0681-4.mp3",
 			"Standard Arabic Audio": "msa-0681-4.mp3"
 		},
@@ -51,7 +51,7 @@
 			"English": "That's good to hear. You'll find this neighborhood to be very peaceful.",
 			"Word Count": 12,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هذا جيد أن نسمع. ستجد هذا الحي لتكون هادئة جدا.",
 			"Egyptian Arabic Audio": "eca-0681-5.mp3",
 			"Standard Arabic Audio": "msa-0681-5.mp3"
 		},
@@ -61,7 +61,7 @@
 			"English": "That's another thing I like about it. My wife thinks the area looks lovely.",
 			"Word Count": 14,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هذا شيء آخر أحب عن ذلك. زوجتي تعتقد أن المنطقة تبدو جميلة.",
 			"Egyptian Arabic Audio": "eca-0681-6.mp3",
 			"Standard Arabic Audio": "msa-0681-6.mp3"
 		},
@@ -71,7 +71,7 @@
 			"English": "Are you doing anything tomorrow afternoon?",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هل تفعل أي شيء بعد ظهر الغد؟",
 			"Egyptian Arabic Audio": "eca-0681-7.mp3",
 			"Standard Arabic Audio": "msa-0681-7.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "No, why do you ask?",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لا لماذا تسأل؟",
 			"Egyptian Arabic Audio": "eca-0681-8.mp3",
 			"Standard Arabic Audio": "msa-0681-8.mp3"
 		},
@@ -91,7 +91,7 @@
 			"English": "I'm having a barbecue in my backyard. I want to invite you and your family.",
 			"Word Count": 15,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنا وجود الشواء في الفناء الخلفي الخاص بي. أريد أن أدعوكم ولعائلتكم.",
 			"Egyptian Arabic Audio": "eca-0681-9.mp3",
 			"Standard Arabic Audio": "msa-0681-9.mp3"
 		},
@@ -101,7 +101,7 @@
 			"English": "Sure, I'd be happy to join!",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "بالتأكيد، سأكون سعيدا للانضمام!",
 			"Egyptian Arabic Audio": "eca-0681-10.mp3",
 			"Standard Arabic Audio": "msa-0681-10.mp3"
 		},
@@ -111,7 +111,7 @@
 			"English": "Alright. Here's my number. I'll see you tomorrow!",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "حسنا. هذا رقمي. أراك غدا!",
 			"Egyptian Arabic Audio": "eca-0681-11.mp3",
 			"Standard Arabic Audio": "msa-0681-11.mp3"
 		},
@@ -121,7 +121,7 @@
 			"English": "Thank you. I'll see you then.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "شكرا. سوف أراك بعد ذلك.",
 			"Egyptian Arabic Audio": "eca-0681-12.mp3",
 			"Standard Arabic Audio": "msa-0681-12.mp3"
 		}

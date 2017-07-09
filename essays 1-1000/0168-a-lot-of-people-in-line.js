@@ -9,7 +9,7 @@
 			"English": "They went to an amusement park.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ذهبوا إلى متنزه.",
 			"Egyptian Arabic Audio": "eca-0168-1.mp3",
 			"Standard Arabic Audio": "msa-0168-1.mp3"
 		},
@@ -18,7 +18,7 @@
 			"English": "There are a lot of rides.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هناك الكثير من ركوب الخيل.",
 			"Egyptian Arabic Audio": "eca-0168-2.mp3",
 			"Standard Arabic Audio": "msa-0168-2.mp3"
 		},
@@ -27,7 +27,7 @@
 			"English": "Some are scary and some are for kids.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "بعضها مخيف وبعضها للأطفال.",
 			"Egyptian Arabic Audio": "eca-0168-3.mp3",
 			"Standard Arabic Audio": "msa-0168-3.mp3"
 		},
@@ -36,7 +36,7 @@
 			"English": "There are a lot of food choices.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هناك الكثير من الخيارات الغذائية.",
 			"Egyptian Arabic Audio": "eca-0168-4.mp3",
 			"Standard Arabic Audio": "msa-0168-4.mp3"
 		},
@@ -45,7 +45,7 @@
 			"English": "There is cotton candy.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هناك حلوى القطن.",
 			"Egyptian Arabic Audio": "eca-0168-5.mp3",
 			"Standard Arabic Audio": "msa-0168-5.mp3"
 		},
@@ -54,7 +54,7 @@
 			"English": "There are corn dogs.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هناك كلاب الذرة.",
 			"Egyptian Arabic Audio": "eca-0168-6.mp3",
 			"Standard Arabic Audio": "msa-0168-6.mp3"
 		},
@@ -63,7 +63,7 @@
 			"English": "There are so many people.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هناك الكثير من الناس.",
 			"Egyptian Arabic Audio": "eca-0168-7.mp3",
 			"Standard Arabic Audio": "msa-0168-7.mp3"
 		},
@@ -72,7 +72,7 @@
 			"English": "It is Saturday.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انه يوم السبت.",
 			"Egyptian Arabic Audio": "eca-0168-8.mp3",
 			"Standard Arabic Audio": "msa-0168-8.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "People are off work and school.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "الناس خارج العمل والمدرسة.",
 			"Egyptian Arabic Audio": "eca-0168-9.mp3",
 			"Standard Arabic Audio": "msa-0168-9.mp3"
 		},
@@ -90,7 +90,7 @@
 			"English": "There are lines for everything.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هناك خطوط لكل شيء.",
 			"Egyptian Arabic Audio": "eca-0168-10.mp3",
 			"Standard Arabic Audio": "msa-0168-10.mp3"
 		}

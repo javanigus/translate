@@ -11,7 +11,7 @@
 			"English": "Do you know what forms I need to file an unemployment claim?",
 			"Word Count": 12,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هل تعرف ما هي النماذج التي أحتاجها لتقديم مطالبة البطالة؟",
 			"Egyptian Arabic Audio": "eca-0771-1.mp3",
 			"Standard Arabic Audio": "msa-0771-1.mp3"
 		},
@@ -21,7 +21,7 @@
 			"English": "You can go to an EDD office or fill out a form on their website to open a claim.",
 			"Word Count": 19,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يمكنك الذهاب إلى مكتب إد أو ملء نموذج على موقعه على الانترنت لفتح مطالبة.",
 			"Egyptian Arabic Audio": "eca-0771-2.mp3",
 			"Standard Arabic Audio": "msa-0771-2.mp3"
 		},
@@ -31,7 +31,7 @@
 			"English": "Is it really that simple?",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هل هو حقا بهذه البساطة؟",
 			"Egyptian Arabic Audio": "eca-0771-3.mp3",
 			"Standard Arabic Audio": "msa-0771-3.mp3"
 		},
@@ -41,7 +41,7 @@
 			"English": "It sure is. It is easier to do online.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "فمن المؤكد. فمن الأسهل القيام به على الانترنت.",
 			"Egyptian Arabic Audio": "eca-0771-4.mp3",
 			"Standard Arabic Audio": "msa-0771-4.mp3"
 		},
@@ -51,7 +51,7 @@
 			"English": "Why would I want to do it online?",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لماذا أريد أن أفعل ذلك عبر الإنترنت؟",
 			"Egyptian Arabic Audio": "eca-0771-5.mp3",
 			"Standard Arabic Audio": "msa-0771-5.mp3"
 		},
@@ -61,7 +61,7 @@
 			"English": "It's faster, and you can do it from home, or wherever you have Internet  access.",
 			"Word Count": 15,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انها أسرع، ويمكنك أن تفعل ذلك من المنزل، أو أينما كان لديك الوصول إلى الإنترنت.",
 			"Egyptian Arabic Audio": "eca-0771-6.mp3",
 			"Standard Arabic Audio": "msa-0771-6.mp3"
 		},
@@ -71,7 +71,7 @@
 			"English": "Do you know the website?",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هل تعرف الموقع؟",
 			"Egyptian Arabic Audio": "eca-0771-7.mp3",
 			"Standard Arabic Audio": "msa-0771-7.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "Yes, it's edd.ca.gov. It's easy to use.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "نعم، إنه edd.ca.gov. انها سهلة الاستخدام.",
 			"Egyptian Arabic Audio": "eca-0771-8.mp3",
 			"Standard Arabic Audio": "msa-0771-8.mp3"
 		},
@@ -91,7 +91,7 @@
 			"English": "Then what do I do?",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ثم ماذا أفعل؟",
 			"Egyptian Arabic Audio": "eca-0771-9.mp3",
 			"Standard Arabic Audio": "msa-0771-9.mp3"
 		},
@@ -101,7 +101,7 @@
 			"English": "You will have to find a link that says \"Apply Here\", and click on it.",
 			"Word Count": 15,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "سيكون لديك للعثور على الرابط الذي يقول &quot;تطبيق هنا&quot;، وانقر على ذلك.",
 			"Egyptian Arabic Audio": "eca-0771-10.mp3",
 			"Standard Arabic Audio": "msa-0771-10.mp3"
 		},
@@ -111,7 +111,7 @@
 			"English": "Is that all there is to it?",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هل هذا كل ما في الأمر؟",
 			"Egyptian Arabic Audio": "eca-0771-11.mp3",
 			"Standard Arabic Audio": "msa-0771-11.mp3"
 		},
@@ -121,7 +121,7 @@
 			"English": "That's it. You're good to go.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هذا هو. كنت على ما يرام.",
 			"Egyptian Arabic Audio": "eca-0771-12.mp3",
 			"Standard Arabic Audio": "msa-0771-12.mp3"
 		}

@@ -11,7 +11,7 @@
 			"English": "Hello, I wanted to ask you about car insurance prices.",
 			"Word Count": 10,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "مرحبا، أردت أن أسألك عن أسعار التأمين على السيارات.",
 			"Egyptian Arabic Audio": "eca-0625-1.mp3",
 			"Standard Arabic Audio": "msa-0625-1.mp3"
 		},
@@ -21,7 +21,7 @@
 			"English": "Sure thing. Please, have a seat.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "شيء مؤكد. تفضل بالجلوس.",
 			"Egyptian Arabic Audio": "eca-0625-2.mp3",
 			"Standard Arabic Audio": "msa-0625-2.mp3"
 		},
@@ -31,7 +31,7 @@
 			"English": "Thank you. I just bought my first car.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "شكرا. أنا فقط اشترى سيارتي الأولى.",
 			"Egyptian Arabic Audio": "eca-0625-3.mp3",
 			"Standard Arabic Audio": "msa-0625-3.mp3"
 		},
@@ -41,7 +41,7 @@
 			"English": "Great, congratulations! What kind of car is it?",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "تهاني الحارة! أي نوع من السيارات هو؟",
 			"Egyptian Arabic Audio": "eca-0625-4.mp3",
 			"Standard Arabic Audio": "msa-0625-4.mp3"
 		},
@@ -51,7 +51,7 @@
 			"English": "It's a 1994 Oldsmobile Cutlass Supreme.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انها 1994 أولدزموبيل كوتلاس العليا.",
 			"Egyptian Arabic Audio": "eca-0625-5.mp3",
 			"Standard Arabic Audio": "msa-0625-5.mp3"
 		},
@@ -61,7 +61,7 @@
 			"English": "Oh, so it's an older make.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أوه، لذلك هو جعل القديمة.",
 			"Egyptian Arabic Audio": "eca-0625-6.mp3",
 			"Standard Arabic Audio": "msa-0625-6.mp3"
 		},
@@ -71,7 +71,7 @@
 			"English": "Yes, but it's in good condition. So, how much would the payments be?",
 			"Word Count": 13,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "نعم، ولكن في حالة جيدة. إذا، كم ستكون المدفوعات؟",
 			"Egyptian Arabic Audio": "eca-0625-7.mp3",
 			"Standard Arabic Audio": "msa-0625-7.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "Depends. Have you been in any accidents?",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يعتمد على. هل كنت في أي حوادث؟",
 			"Egyptian Arabic Audio": "eca-0625-8.mp3",
 			"Standard Arabic Audio": "msa-0625-8.mp3"
 		},
@@ -91,7 +91,7 @@
 			"English": "No, I have not.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لا انا ليس لدى.",
 			"Egyptian Arabic Audio": "eca-0625-9.mp3",
 			"Standard Arabic Audio": "msa-0625-9.mp3"
 		},
@@ -101,7 +101,7 @@
 			"English": "Have you gotten any driving tickets?",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هل حصلت على أي تذاكر قيادة؟",
 			"Egyptian Arabic Audio": "eca-0625-10.mp3",
 			"Standard Arabic Audio": "msa-0625-10.mp3"
 		},
@@ -111,7 +111,7 @@
 			"English": "Nope. That can affect the insurance rate?",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كلا. يمكن أن تؤثر على معدل التأمين؟",
 			"Egyptian Arabic Audio": "eca-0625-11.mp3",
 			"Standard Arabic Audio": "msa-0625-11.mp3"
 		},
@@ -121,7 +121,7 @@
 			"English": "At times. Well, everything seems in order. You would have to pay $75 monthly.",
 			"Word Count": 14,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "في اوقات. حسنا، كل شيء يبدو في النظام. يجب أن تدفع 75 دولارا شهريا.",
 			"Egyptian Arabic Audio": "eca-0625-12.mp3",
 			"Standard Arabic Audio": "msa-0625-12.mp3"
 		},
@@ -131,7 +131,7 @@
 			"English": "That sounds great.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هذا يبدو كبيرا.",
 			"Egyptian Arabic Audio": "eca-0625-13.mp3",
 			"Standard Arabic Audio": "msa-0625-13.mp3"
 		}

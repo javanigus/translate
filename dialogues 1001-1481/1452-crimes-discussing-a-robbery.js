@@ -11,7 +11,7 @@
 			"English": "Did you hear about the robbery?",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هل سمعت عن السرقة؟",
 			"Egyptian Arabic Audio": "eca-1452-1.mp3",
 			"Standard Arabic Audio": "msa-1452-1.mp3"
 		},
@@ -21,7 +21,7 @@
 			"English": "No, I didn't hear about it.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لا، لم أسمع عن ذلك.",
 			"Egyptian Arabic Audio": "eca-1452-2.mp3",
 			"Standard Arabic Audio": "msa-1452-2.mp3"
 		},
@@ -31,7 +31,7 @@
 			"English": "A man tried to rob our bank today.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "حاول رجل سرقة بنكنا اليوم.",
 			"Egyptian Arabic Audio": "eca-1452-3.mp3",
 			"Standard Arabic Audio": "msa-1452-3.mp3"
 		},
@@ -41,7 +41,7 @@
 			"English": "Are you serious?",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هل أنت جاد؟",
 			"Egyptian Arabic Audio": "eca-1452-4.mp3",
 			"Standard Arabic Audio": "msa-1452-4.mp3"
 		},
@@ -51,7 +51,7 @@
 			"English": "Yes, he tried to rob the bank at gunpoint.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "نعم، حاول سرقة البنك تحت تهديد السلاح.",
 			"Egyptian Arabic Audio": "eca-1452-5.mp3",
 			"Standard Arabic Audio": "msa-1452-5.mp3"
 		},
@@ -61,7 +61,7 @@
 			"English": "Did anyone get hurt?",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هل أصيب أي شخص؟",
 			"Egyptian Arabic Audio": "eca-1452-6.mp3",
 			"Standard Arabic Audio": "msa-1452-6.mp3"
 		},
@@ -71,7 +71,7 @@
 			"English": "Nobody got hurt.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لم يصب أحد.",
 			"Egyptian Arabic Audio": "eca-1452-7.mp3",
 			"Standard Arabic Audio": "msa-1452-7.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "That's good to hear.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هذا جيد أن نسمع.",
 			"Egyptian Arabic Audio": "eca-1452-8.mp3",
 			"Standard Arabic Audio": "msa-1452-8.mp3"
 		},
@@ -91,7 +91,7 @@
 			"English": "He did get away, though.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انه لم يفلت، رغم ذلك.",
 			"Egyptian Arabic Audio": "eca-1452-9.mp3",
 			"Standard Arabic Audio": "msa-1452-9.mp3"
 		},
@@ -101,7 +101,7 @@
 			"English": "That is horrible.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هذا أمر فظيع.",
 			"Egyptian Arabic Audio": "eca-1452-10.mp3",
 			"Standard Arabic Audio": "msa-1452-10.mp3"
 		},
@@ -111,7 +111,7 @@
 			"English": "The cops don't know who the guy is.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "رجال الشرطة لا يعرفون من هو الرجل.",
 			"Egyptian Arabic Audio": "eca-1452-11.mp3",
 			"Standard Arabic Audio": "msa-1452-11.mp3"
 		},
@@ -121,7 +121,7 @@
 			"English": "I'm sure they'll catch him eventually.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنا متأكد من أنها سوف قبض عليه في نهاية المطاف.",
 			"Egyptian Arabic Audio": "eca-1452-12.mp3",
 			"Standard Arabic Audio": "msa-1452-12.mp3"
 		},
@@ -131,7 +131,7 @@
 			"English": "Have you heard about the robbery?",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هل سمعت عن السرقة؟",
 			"Egyptian Arabic Audio": "eca-1452-13.mp3",
 			"Standard Arabic Audio": "msa-1452-13.mp3"
 		},
@@ -141,7 +141,7 @@
 			"English": "What robbery?",
 			"Word Count": 2,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ما السرقة؟",
 			"Egyptian Arabic Audio": "eca-1452-14.mp3",
 			"Standard Arabic Audio": "msa-1452-14.mp3"
 		},
@@ -151,7 +151,7 @@
 			"English": "Some guy attempted to rob our bank earlier today.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "حاول بعض الرجال سرقة بنكنا في وقت سابق اليوم.",
 			"Egyptian Arabic Audio": "eca-1452-15.mp3",
 			"Standard Arabic Audio": "msa-1452-15.mp3"
 		},
@@ -161,7 +161,7 @@
 			"English": "That's insane!",
 			"Word Count": 2,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هذا جنون!",
 			"Egyptian Arabic Audio": "eca-1452-16.mp3",
 			"Standard Arabic Audio": "msa-1452-16.mp3"
 		},
@@ -171,7 +171,7 @@
 			"English": "He tried to rob the bank at gunpoint.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "حاول سرقة البنك تحت تهديد السلاح.",
 			"Egyptian Arabic Audio": "eca-1452-17.mp3",
 			"Standard Arabic Audio": "msa-1452-17.mp3"
 		},
@@ -181,7 +181,7 @@
 			"English": "Is everyone okay?",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هل الجميع بخير؟",
 			"Egyptian Arabic Audio": "eca-1452-18.mp3",
 			"Standard Arabic Audio": "msa-1452-18.mp3"
 		},
@@ -191,7 +191,7 @@
 			"English": "He didn't hurt anyone.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لم يضر أحدا.",
 			"Egyptian Arabic Audio": "eca-1452-19.mp3",
 			"Standard Arabic Audio": "msa-1452-19.mp3"
 		},
@@ -201,7 +201,7 @@
 			"English": "I'm glad to hear that.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "سعيد لسماع ذلك.",
 			"Egyptian Arabic Audio": "eca-1452-20.mp3",
 			"Standard Arabic Audio": "msa-1452-20.mp3"
 		},
@@ -211,7 +211,7 @@
 			"English": "I heard he got away.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "سمعت انه ابتعد.",
 			"Egyptian Arabic Audio": "eca-1452-21.mp3",
 			"Standard Arabic Audio": "msa-1452-21.mp3"
 		},
@@ -221,7 +221,7 @@
 			"English": "That's not good.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هذا ليس جيدا.",
 			"Egyptian Arabic Audio": "eca-1452-22.mp3",
 			"Standard Arabic Audio": "msa-1452-22.mp3"
 		},
@@ -231,7 +231,7 @@
 			"English": "The police don't know who the suspect is.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "الشرطة لا تعرف من هو المشتبه به.",
 			"Egyptian Arabic Audio": "eca-1452-23.mp3",
 			"Standard Arabic Audio": "msa-1452-23.mp3"
 		},
@@ -241,7 +241,7 @@
 			"English": "They'll figure it out.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنها سوف معرفة ذلك.",
 			"Egyptian Arabic Audio": "eca-1452-24.mp3",
 			"Standard Arabic Audio": "msa-1452-24.mp3"
 		},
@@ -251,7 +251,7 @@
 			"English": "Did you know there was a robbery?",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هل تعلم أن هناك سرقة؟",
 			"Egyptian Arabic Audio": "eca-1452-25.mp3",
 			"Standard Arabic Audio": "msa-1452-25.mp3"
 		},
@@ -261,7 +261,7 @@
 			"English": "I haven't heard anything about it.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لم أسمع أي شيء عن ذلك.",
 			"Egyptian Arabic Audio": "eca-1452-26.mp3",
 			"Standard Arabic Audio": "msa-1452-26.mp3"
 		},
@@ -271,7 +271,7 @@
 			"English": "Some dude tried to rob our bank.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "حاول بعض المتأنق لسرقة بنكنا.",
 			"Egyptian Arabic Audio": "eca-1452-27.mp3",
 			"Standard Arabic Audio": "msa-1452-27.mp3"
 		},
@@ -281,7 +281,7 @@
 			"English": "Really? That's crazy!",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هل حقا؟ هذا جنون!",
 			"Egyptian Arabic Audio": "eca-1452-28.mp3",
 			"Standard Arabic Audio": "msa-1452-28.mp3"
 		},
@@ -291,7 +291,7 @@
 			"English": "He tried to rob the bank with a gun.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "حاول سرقة البنك ببندقية.",
 			"Egyptian Arabic Audio": "eca-1452-29.mp3",
 			"Standard Arabic Audio": "msa-1452-29.mp3"
 		},
@@ -301,7 +301,7 @@
 			"English": "What happened?",
 			"Word Count": 2,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ماذا حدث؟",
 			"Egyptian Arabic Audio": "eca-1452-30.mp3",
 			"Standard Arabic Audio": "msa-1452-30.mp3"
 		},
@@ -311,7 +311,7 @@
 			"English": "Most important, no one got injured.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "الأهم من ذلك، لم يصب أحد.",
 			"Egyptian Arabic Audio": "eca-1452-31.mp3",
 			"Standard Arabic Audio": "msa-1452-31.mp3"
 		},
@@ -321,7 +321,7 @@
 			"English": "That's great.",
 			"Word Count": 2,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ذلك رائع.",
 			"Egyptian Arabic Audio": "eca-1452-32.mp3",
 			"Standard Arabic Audio": "msa-1452-32.mp3"
 		},
@@ -331,7 +331,7 @@
 			"English": "Sadly, he did get away.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "للأسف، لم يفلت.",
 			"Egyptian Arabic Audio": "eca-1452-33.mp3",
 			"Standard Arabic Audio": "msa-1452-33.mp3"
 		},
@@ -341,7 +341,7 @@
 			"English": "That's bad news.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هذه أخبار سيئة.",
 			"Egyptian Arabic Audio": "eca-1452-34.mp3",
 			"Standard Arabic Audio": "msa-1452-34.mp3"
 		},
@@ -351,7 +351,7 @@
 			"English": "The police have no idea who this man is.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "الشرطة ليس لديها فكرة عن هذا الرجل.",
 			"Egyptian Arabic Audio": "eca-1452-35.mp3",
 			"Standard Arabic Audio": "msa-1452-35.mp3"
 		},
@@ -361,7 +361,7 @@
 			"English": "They'll catch him.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انهم سوف قبض عليه.",
 			"Egyptian Arabic Audio": "eca-1452-36.mp3",
 			"Standard Arabic Audio": "msa-1452-36.mp3"
 		}

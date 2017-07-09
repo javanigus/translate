@@ -11,7 +11,7 @@
 			"English": "This is it. We can move in starting tomorrow.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هذه هي. يمكننا التحرك في البدء غدا.",
 			"Egyptian Arabic Audio": "eca-0925-1.mp3",
 			"Standard Arabic Audio": "msa-0925-1.mp3"
 		},
@@ -21,7 +21,7 @@
 			"English": "No way! Really?",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لا يمكن! هل حقا؟",
 			"Egyptian Arabic Audio": "eca-0925-2.mp3",
 			"Standard Arabic Audio": "msa-0925-2.mp3"
 		},
@@ -31,7 +31,7 @@
 			"English": "Yup. We cleared escrow. It's officially ours now.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "نعم. نحن مسح الضمان. انها رسميا لنا الآن.",
 			"Egyptian Arabic Audio": "eca-0925-3.mp3",
 			"Standard Arabic Audio": "msa-0925-3.mp3"
 		},
@@ -41,7 +41,7 @@
 			"English": "I don't know what to say.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنا لا أعرف ماذا أقول.",
 			"Egyptian Arabic Audio": "eca-0925-4.mp3",
 			"Standard Arabic Audio": "msa-0925-4.mp3"
 		},
@@ -51,7 +51,7 @@
 			"English": "It's time to figure out how we're going to move in.",
 			"Word Count": 11,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "حان الوقت لمعرفة كيف سننتقل.",
 			"Egyptian Arabic Audio": "eca-0925-5.mp3",
 			"Standard Arabic Audio": "msa-0925-5.mp3"
 		},
@@ -61,7 +61,7 @@
 			"English": "Well, I think we should rent a trailer, and move the big stuff first.",
 			"Word Count": 14,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "حسنا، أعتقد أننا يجب أن استئجار مقطورة، ونقل الاشياء الكبيرة أولا.",
 			"Egyptian Arabic Audio": "eca-0925-6.mp3",
 			"Standard Arabic Audio": "msa-0925-6.mp3"
 		},
@@ -71,7 +71,7 @@
 			"English": "Yeah, that would make sense.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "نعم، وهذا من المنطقي.",
 			"Egyptian Arabic Audio": "eca-0925-7.mp3",
 			"Standard Arabic Audio": "msa-0925-7.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "I'll start boxing everything else.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "سأبدأ الملاكمة كل شيء آخر.",
 			"Egyptian Arabic Audio": "eca-0925-8.mp3",
 			"Standard Arabic Audio": "msa-0925-8.mp3"
 		},
@@ -91,7 +91,7 @@
 			"English": "I know of a good moving company. My best friend used them last year.",
 			"Word Count": 14,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أعرف من شركة تتحرك جيدة. لقد استخدمها أصدقائي في العام الماضي.",
 			"Egyptian Arabic Audio": "eca-0925-9.mp3",
 			"Standard Arabic Audio": "msa-0925-9.mp3"
 		},
@@ -101,7 +101,7 @@
 			"English": "Are they affordable?",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هل هي بأسعار معقولة؟",
 			"Egyptian Arabic Audio": "eca-0925-10.mp3",
 			"Standard Arabic Audio": "msa-0925-10.mp3"
 		},
@@ -111,7 +111,7 @@
 			"English": "I think so. I'll call them tomorrow morning.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أعتقد. سأتصل بهم صباح الغد.",
 			"Egyptian Arabic Audio": "eca-0925-11.mp3",
 			"Standard Arabic Audio": "msa-0925-11.mp3"
 		},
@@ -121,7 +121,7 @@
 			"English": "I still can't believe that house is ours. It's a great feeling.",
 			"Word Count": 12,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ما زلت لا أصدق أن المنزل هو لنا. إنه شعور رائع.",
 			"Egyptian Arabic Audio": "eca-0925-12.mp3",
 			"Standard Arabic Audio": "msa-0925-12.mp3"
 		}

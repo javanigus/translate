@@ -9,7 +9,7 @@
 			"English": "It was Jenny's fourth birthday.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كان عيد ميلاد جيني الرابع.",
 			"Egyptian Arabic Audio": "eca-0444-1.mp3",
 			"Standard Arabic Audio": "msa-0444-1.mp3"
 		},
@@ -18,7 +18,7 @@
 			"English": "She was four years old.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كانت في الرابعة من العمر.",
 			"Egyptian Arabic Audio": "eca-0444-2.mp3",
 			"Standard Arabic Audio": "msa-0444-2.mp3"
 		},
@@ -27,7 +27,7 @@
 			"English": "Her mom baked a cake for her.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أمها خبز كعكة لها.",
 			"Egyptian Arabic Audio": "eca-0444-3.mp3",
 			"Standard Arabic Audio": "msa-0444-3.mp3"
 		},
@@ -36,7 +36,7 @@
 			"English": "Her mom baked a chocolate cake for her.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أمها خبز كعكة الشوكولاته لها.",
 			"Egyptian Arabic Audio": "eca-0444-4.mp3",
 			"Standard Arabic Audio": "msa-0444-4.mp3"
 		},
@@ -45,7 +45,7 @@
 			"English": "The cake had two layers.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كان كعكة طبقتين.",
 			"Egyptian Arabic Audio": "eca-0444-5.mp3",
 			"Standard Arabic Audio": "msa-0444-5.mp3"
 		},
@@ -54,7 +54,7 @@
 			"English": "Her mom put vanilla frosting on the bottom layer.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وضعت أمها صقيع الفانيلا على الطبقة السفلية.",
 			"Egyptian Arabic Audio": "eca-0444-6.mp3",
 			"Standard Arabic Audio": "msa-0444-6.mp3"
 		},
@@ -63,7 +63,7 @@
 			"English": "Her mom put vanilla frosting on the top layer.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وضعت أمها صقيع الفانيلا على الطبقة العليا.",
 			"Egyptian Arabic Audio": "eca-0444-7.mp3",
 			"Standard Arabic Audio": "msa-0444-7.mp3"
 		},
@@ -72,7 +72,7 @@
 			"English": "Her mom put vanilla frosting all around the cake.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وضعت أمها صقيع الفانيليا في جميع أنحاء الكعكة.",
 			"Egyptian Arabic Audio": "eca-0444-8.mp3",
 			"Standard Arabic Audio": "msa-0444-8.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "Now the chocolate cake was completely white.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "الآن كعكة الشوكولاته كانت بيضاء تماما.",
 			"Egyptian Arabic Audio": "eca-0444-9.mp3",
 			"Standard Arabic Audio": "msa-0444-9.mp3"
 		},
@@ -90,7 +90,7 @@
 			"English": "Her mom put four pink candles on top of the cake.",
 			"Word Count": 11,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وضعت أمها أربعة الشموع الوردي على رأس الكعكة.",
 			"Egyptian Arabic Audio": "eca-0444-10.mp3",
 			"Standard Arabic Audio": "msa-0444-10.mp3"
 		},
@@ -99,7 +99,7 @@
 			"English": "Her dad lit the four pink candles.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أبيها أضاءت الشموع الوردية الأربعة.",
 			"Egyptian Arabic Audio": "eca-0444-11.mp3",
 			"Standard Arabic Audio": "msa-0444-11.mp3"
 		},
@@ -108,7 +108,7 @@
 			"English": "The four pink candles were lit.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وأضاءت الشموع الوردي الأربعة.",
 			"Egyptian Arabic Audio": "eca-0444-12.mp3",
 			"Standard Arabic Audio": "msa-0444-12.mp3"
 		},
@@ -117,7 +117,7 @@
 			"English": "Jenny's mom and dad sat down next to Jenny.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "جيني أمي وأبي جلس أسفل جيني.",
 			"Egyptian Arabic Audio": "eca-0444-13.mp3",
 			"Standard Arabic Audio": "msa-0444-13.mp3"
 		},
@@ -126,7 +126,7 @@
 			"English": "They sang Happy Birthday to her.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "غنوا عيد ميلاد سعيد لها.",
 			"Egyptian Arabic Audio": "eca-0444-14.mp3",
 			"Standard Arabic Audio": "msa-0444-14.mp3"
 		},
@@ -135,7 +135,7 @@
 			"English": "\"Happy birthday to you,\" they sang.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "&quot;عيد ميلاد سعيد لك&quot;، غنى.",
 			"Egyptian Arabic Audio": "eca-0444-15.mp3",
 			"Standard Arabic Audio": "msa-0444-15.mp3"
 		},
@@ -144,7 +144,7 @@
 			"English": "Jenny sang with her mom and dad.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "غنت جيني مع والدتها وأبيها.",
 			"Egyptian Arabic Audio": "eca-0444-16.mp3",
 			"Standard Arabic Audio": "msa-0444-16.mp3"
 		},
@@ -153,7 +153,7 @@
 			"English": "\"Happy birthday to me,\" she sang.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "&quot;عيد ميلاد سعيد لي&quot;، غنت.",
 			"Egyptian Arabic Audio": "eca-0444-17.mp3",
 			"Standard Arabic Audio": "msa-0444-17.mp3"
 		},
@@ -162,7 +162,7 @@
 			"English": "Her mom said, \"Now make a wish and blow out the candles.",
 			"Word Count": 12,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وقالت أمها: &quot;الآن جعل الرغبة وتفجير الشموع.",
 			"Egyptian Arabic Audio": "eca-0444-18.mp3",
 			"Standard Arabic Audio": "msa-0444-18.mp3"
 		},
@@ -171,7 +171,7 @@
 			"English": "\" Jenny made a wish.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "&quot;جيني أتمنى.",
 			"Egyptian Arabic Audio": "eca-0444-19.mp3",
 			"Standard Arabic Audio": "msa-0444-19.mp3"
 		},
@@ -180,7 +180,7 @@
 			"English": "Then she blew out all four pink candles.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ثم فجرت كل الشموع الوردية الأربعة.",
 			"Egyptian Arabic Audio": "eca-0444-20.mp3",
 			"Standard Arabic Audio": "msa-0444-20.mp3"
 		}

@@ -11,7 +11,7 @@
 			"English": "What's the weather like?",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ما هو حال الطقس؟",
 			"Egyptian Arabic Audio": "eca-0284-1.mp3",
 			"Standard Arabic Audio": "msa-0284-1.mp3"
 		},
@@ -21,7 +21,7 @@
 			"English": "I don't know. I just woke up.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انا لا اعرف. استيقظت للتو.",
 			"Egyptian Arabic Audio": "eca-0284-2.mp3",
 			"Standard Arabic Audio": "msa-0284-2.mp3"
 		},
@@ -31,7 +31,7 @@
 			"English": "Why don't you look outside?",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لماذا لا تنظرون إلى الخارج؟",
 			"Egyptian Arabic Audio": "eca-0284-3.mp3",
 			"Standard Arabic Audio": "msa-0284-3.mp3"
 		},
@@ -41,7 +41,7 @@
 			"English": "Okay. It looks like rain.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "حسنا. يبدو مثل المطر.",
 			"Egyptian Arabic Audio": "eca-0284-4.mp3",
 			"Standard Arabic Audio": "msa-0284-4.mp3"
 		},
@@ -51,7 +51,7 @@
 			"English": "Why do you say that?",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لماذا تقول هذا؟",
 			"Egyptian Arabic Audio": "eca-0284-5.mp3",
 			"Standard Arabic Audio": "msa-0284-5.mp3"
 		},
@@ -61,7 +61,7 @@
 			"English": "The sky is gray.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "السماء رمادية.",
 			"Egyptian Arabic Audio": "eca-0284-6.mp3",
 			"Standard Arabic Audio": "msa-0284-6.mp3"
 		},
@@ -71,7 +71,7 @@
 			"English": "Is it raining right now?",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هل تمطر الآن؟",
 			"Egyptian Arabic Audio": "eca-0284-7.mp3",
 			"Standard Arabic Audio": "msa-0284-7.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "No.",
 			"Word Count": 1,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لا.",
 			"Egyptian Arabic Audio": "eca-0284-8.mp3",
 			"Standard Arabic Audio": "msa-0284-8.mp3"
 		},
@@ -91,7 +91,7 @@
 			"English": "How do you know?",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كيف علمت بذلك؟",
 			"Egyptian Arabic Audio": "eca-0284-9.mp3",
 			"Standard Arabic Audio": "msa-0284-9.mp3"
 		},
@@ -101,7 +101,7 @@
 			"English": "The street isn't wet.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "الشارع ليس رطبا.",
 			"Egyptian Arabic Audio": "eca-0284-10.mp3",
 			"Standard Arabic Audio": "msa-0284-10.mp3"
 		},
@@ -111,7 +111,7 @@
 			"English": "I have to go shopping today.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يجب أن أذهب للتسوق اليوم.",
 			"Egyptian Arabic Audio": "eca-0284-11.mp3",
 			"Standard Arabic Audio": "msa-0284-11.mp3"
 		},
@@ -121,7 +121,7 @@
 			"English": "You'd better take an umbrella.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كنت أفضل تأخذ مظلة.",
 			"Egyptian Arabic Audio": "eca-0284-12.mp3",
 			"Standard Arabic Audio": "msa-0284-12.mp3"
 		}

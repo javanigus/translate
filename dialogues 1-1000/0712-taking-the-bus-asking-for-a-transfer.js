@@ -11,7 +11,7 @@
 			"English": "Excuse me. I would like to get a transfer.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "عفوا. أود الحصول على نقل.",
 			"Egyptian Arabic Audio": "eca-0712-1.mp3",
 			"Standard Arabic Audio": "msa-0712-1.mp3"
 		},
@@ -21,7 +21,7 @@
 			"English": "Do you have your day pass with you?",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هل لديك يومك تمر معك؟",
 			"Egyptian Arabic Audio": "eca-0712-2.mp3",
 			"Standard Arabic Audio": "msa-0712-2.mp3"
 		},
@@ -31,7 +31,7 @@
 			"English": "It's a month pass. Is that okay?",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انها تمر شهر. هل هذا مقبول؟",
 			"Egyptian Arabic Audio": "eca-0712-3.mp3",
 			"Standard Arabic Audio": "msa-0712-3.mp3"
 		},
@@ -41,7 +41,7 @@
 			"English": "Yes, that's fine. Please scan your pass on the machine.",
 			"Word Count": 10,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أجل هذا جيد. يرجى مسح تمريرة على الجهاز.",
 			"Egyptian Arabic Audio": "eca-0712-4.mp3",
 			"Standard Arabic Audio": "msa-0712-4.mp3"
 		},
@@ -51,7 +51,7 @@
 			"English": "Did it scan?",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هل فحصها؟",
 			"Egyptian Arabic Audio": "eca-0712-5.mp3",
 			"Standard Arabic Audio": "msa-0712-5.mp3"
 		},
@@ -61,7 +61,7 @@
 			"English": "Yes it did. Alright, it's going to cost one dollar for the transfer.",
 			"Word Count": 13,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "نعم فعلت. حسنا، انها سوف تكلف دولار واحد للنقل.",
 			"Egyptian Arabic Audio": "eca-0712-6.mp3",
 			"Standard Arabic Audio": "msa-0712-6.mp3"
 		},
@@ -71,7 +71,7 @@
 			"English": "I'm sorry. I don't think I have enough for the transfer.",
 			"Word Count": 11,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنا آسف. أنا لا أعتقد أن لدي ما يكفي لنقل.",
 			"Egyptian Arabic Audio": "eca-0712-7.mp3",
 			"Standard Arabic Audio": "msa-0712-7.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "Is this your first time getting a transfer?",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هل هذه هي المرة الأولى التي تحصل على نقل؟",
 			"Egyptian Arabic Audio": "eca-0712-8.mp3",
 			"Standard Arabic Audio": "msa-0712-8.mp3"
 		},
@@ -91,7 +91,7 @@
 			"English": "Yes, it is. I thought transfers were free.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "نعم إنه كذلك. اعتقدت أن النقل كان مجانيا.",
 			"Egyptian Arabic Audio": "eca-0712-9.mp3",
 			"Standard Arabic Audio": "msa-0712-9.mp3"
 		},
@@ -101,7 +101,7 @@
 			"English": "I'll let it pass since it's your first time.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "سأتركها تمر لأنها المرة الأولى.",
 			"Egyptian Arabic Audio": "eca-0712-10.mp3",
 			"Standard Arabic Audio": "msa-0712-10.mp3"
 		},
@@ -111,7 +111,7 @@
 			"English": "Thank you so much. It won't happen again.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "شكرا جزيلا. لن يحدث مرة أخرى.",
 			"Egyptian Arabic Audio": "eca-0712-11.mp3",
 			"Standard Arabic Audio": "msa-0712-11.mp3"
 		},
@@ -121,7 +121,7 @@
 			"English": "Don't mention it. Just be prepared the next time.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لا تذكرها. مجرد أن تكون مستعدة في المرة القادمة.",
 			"Egyptian Arabic Audio": "eca-0712-12.mp3",
 			"Standard Arabic Audio": "msa-0712-12.mp3"
 		}

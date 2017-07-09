@@ -11,7 +11,7 @@
 			"English": "I'm going to be so late. This bus driver is driving so slowly.",
 			"Word Count": 13,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "سوف أكون متأخرا جدا. سائق الحافلة هذا يقود ببطء شديد.",
 			"Egyptian Arabic Audio": "eca-0728-1.mp3",
 			"Standard Arabic Audio": "msa-0728-1.mp3"
 		},
@@ -21,7 +21,7 @@
 			"English": "Where are you in a hurry to?",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أين أنت في عجلة من امرنا ل؟",
 			"Egyptian Arabic Audio": "eca-0728-2.mp3",
 			"Standard Arabic Audio": "msa-0728-2.mp3"
 		},
@@ -31,7 +31,7 @@
 			"English": "I have doctor's appointment. I hope I make it on time.",
 			"Word Count": 11,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لدي تعيين الطبيب. آمل أن جعله في الوقت المحدد.",
 			"Egyptian Arabic Audio": "eca-0728-3.mp3",
 			"Standard Arabic Audio": "msa-0728-3.mp3"
 		},
@@ -41,7 +41,7 @@
 			"English": "I'm sure you will. Where's your clinic?",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنا متأكد أنك ستفعل. أين العيادة الخاصة بك؟",
 			"Egyptian Arabic Audio": "eca-0728-4.mp3",
 			"Standard Arabic Audio": "msa-0728-4.mp3"
 		},
@@ -51,7 +51,7 @@
 			"English": "It's in Long Beach.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انها في لونغ بيتش.",
 			"Egyptian Arabic Audio": "eca-0728-5.mp3",
 			"Standard Arabic Audio": "msa-0728-5.mp3"
 		},
@@ -61,7 +61,7 @@
 			"English": "I'd say we're about twenty minutes away from there.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أود أن أقول أننا على بعد حوالي عشرين دقيقة من هناك.",
 			"Egyptian Arabic Audio": "eca-0728-6.mp3",
 			"Standard Arabic Audio": "msa-0728-6.mp3"
 		},
@@ -71,7 +71,7 @@
 			"English": "I sure hope you're right about that. Where are you heading to?",
 			"Word Count": 12,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنا متأكد من أنك على حق في ذلك. أين أنت متجهة إلى؟",
 			"Egyptian Arabic Audio": "eca-0728-7.mp3",
 			"Standard Arabic Audio": "msa-0728-7.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "I'm going to visit my grandma.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنا ذاهب لزيارة جدي.",
 			"Egyptian Arabic Audio": "eca-0728-8.mp3",
 			"Standard Arabic Audio": "msa-0728-8.mp3"
 		},
@@ -91,7 +91,7 @@
 			"English": "Where does she live?",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أين تعيش؟",
 			"Egyptian Arabic Audio": "eca-0728-9.mp3",
 			"Standard Arabic Audio": "msa-0728-9.mp3"
 		},
@@ -101,7 +101,7 @@
 			"English": "She's also in Long Beach.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انها أيضا في لونغ بيتش.",
 			"Egyptian Arabic Audio": "eca-0728-10.mp3",
 			"Standard Arabic Audio": "msa-0728-10.mp3"
 		},
@@ -111,7 +111,7 @@
 			"English": "What a coincidence! Do you often ride this bus to visit her?",
 			"Word Count": 12,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يالها من صدفة! هل غالبا ما ركوب هذا الحافلة لزيارة لها؟",
 			"Egyptian Arabic Audio": "eca-0728-11.mp3",
 			"Standard Arabic Audio": "msa-0728-11.mp3"
 		},
@@ -121,7 +121,7 @@
 			"English": "I have for the past two years. I visit her every Sunday.",
 			"Word Count": 12,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لقد على مدى العامين الماضيين. أزورها كل يوم أحد.",
 			"Egyptian Arabic Audio": "eca-0728-12.mp3",
 			"Standard Arabic Audio": "msa-0728-12.mp3"
 		},
@@ -131,7 +131,7 @@
 			"English": "That's so sweet of you. You must love her very much.",
 			"Word Count": 11,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هذا لطف منك. يجب أن تحبها كثيرا.",
 			"Egyptian Arabic Audio": "eca-0728-13.mp3",
 			"Standard Arabic Audio": "msa-0728-13.mp3"
 		},
@@ -141,7 +141,7 @@
 			"English": "I do. Why are you going to the doctor's?",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنا افعل. لماذا أنت ذاهب إلى الطبيب؟",
 			"Egyptian Arabic Audio": "eca-0728-14.mp3",
 			"Standard Arabic Audio": "msa-0728-14.mp3"
 		},
@@ -151,7 +151,7 @@
 			"English": "To get my routine check-up. Nothing serious.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "للحصول على فحص روتيني. لا شي جدي.",
 			"Egyptian Arabic Audio": "eca-0728-15.mp3",
 			"Standard Arabic Audio": "msa-0728-15.mp3"
 		},
@@ -161,7 +161,7 @@
 			"English": "It's so nice to meet friendly people on the bus.",
 			"Word Count": 10,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انها لطيفة جدا لتلبية الناس ودية على متن الحافلة.",
 			"Egyptian Arabic Audio": "eca-0728-16.mp3",
 			"Standard Arabic Audio": "msa-0728-16.mp3"
 		}

@@ -9,7 +9,7 @@
 			"English": "The princess is stuck in the tower.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "تمسك الأميرة في البرج.",
 			"Egyptian Arabic Audio": "eca-0086-1.mp3",
 			"Standard Arabic Audio": "msa-0086-1.mp3"
 		},
@@ -18,7 +18,7 @@
 			"English": "A dragon will eat her soon.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "سوف التنين يأكل لها قريبا.",
 			"Egyptian Arabic Audio": "eca-0086-2.mp3",
 			"Standard Arabic Audio": "msa-0086-2.mp3"
 		},
@@ -27,7 +27,7 @@
 			"English": "The king and queen are sad.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "الملك والملكة حزينة.",
 			"Egyptian Arabic Audio": "eca-0086-3.mp3",
 			"Standard Arabic Audio": "msa-0086-3.mp3"
 		},
@@ -36,7 +36,7 @@
 			"English": "They offer to give money to the person who saves her.",
 			"Word Count": 11,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنها تقدم لإعطاء المال للشخص الذي يحفظ لها.",
 			"Egyptian Arabic Audio": "eca-0086-4.mp3",
 			"Standard Arabic Audio": "msa-0086-4.mp3"
 		},
@@ -45,7 +45,7 @@
 			"English": "They put up posters around town.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وضعوا الملصقات حول المدينة.",
 			"Egyptian Arabic Audio": "eca-0086-5.mp3",
 			"Standard Arabic Audio": "msa-0086-5.mp3"
 		},
@@ -54,7 +54,7 @@
 			"English": "A poor farmer sees it.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يرى مزارع فقير ذلك.",
 			"Egyptian Arabic Audio": "eca-0086-6.mp3",
 			"Standard Arabic Audio": "msa-0086-6.mp3"
 		},
@@ -63,7 +63,7 @@
 			"English": "He climbs up the tower.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انه يصعد البرج.",
 			"Egyptian Arabic Audio": "eca-0086-7.mp3",
 			"Standard Arabic Audio": "msa-0086-7.mp3"
 		},
@@ -72,7 +72,7 @@
 			"English": "He gets the princess.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انه يحصل على الاميرة.",
 			"Egyptian Arabic Audio": "eca-0086-8.mp3",
 			"Standard Arabic Audio": "msa-0086-8.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "He takes her to his horse.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يأخذها إلى حصانه.",
 			"Egyptian Arabic Audio": "eca-0086-9.mp3",
 			"Standard Arabic Audio": "msa-0086-9.mp3"
 		},
@@ -90,7 +90,7 @@
 			"English": "They ride back to town.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يركبون إلى المدينة.",
 			"Egyptian Arabic Audio": "eca-0086-10.mp3",
 			"Standard Arabic Audio": "msa-0086-10.mp3"
 		}

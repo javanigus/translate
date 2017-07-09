@@ -9,7 +9,7 @@
 			"English": "The museum is a major attraction to visitors to L.",
 			"Word Count": 10,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "المتحف هو نقطة جذب رئيسية لزوار ل.",
 			"Egyptian Arabic Audio": "eca-1705-1.mp3",
 			"Standard Arabic Audio": "msa-1705-1.mp3"
 		},
@@ -18,7 +18,7 @@
 			"English": "A.",
 			"Word Count": 1,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ا.",
 			"Egyptian Arabic Audio": "eca-1705-2.mp3",
 			"Standard Arabic Audio": "msa-1705-2.mp3"
 		},
@@ -27,7 +27,7 @@
 			"English": ", and is a primary science attraction for schools, clubs and other organizations interested in the past.",
 			"Word Count": 17,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "، وهو معلم علمي أساسي للمدارس والنوادي والمنظمات الأخرى المهتمة في الماضي.",
 			"Egyptian Arabic Audio": "eca-1705-3.mp3",
 			"Standard Arabic Audio": "msa-1705-3.mp3"
 		},
@@ -36,7 +36,7 @@
 			"English": "It is a piece of living history that is in a constant state of change because of new discoveries.",
 			"Word Count": 19,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "إنها قطعة من التاريخ الحي الذي هو في حالة تغيير مستمر بسبب الاكتشافات الجديدة.",
 			"Egyptian Arabic Audio": "eca-1705-4.mp3",
 			"Standard Arabic Audio": "msa-1705-4.mp3"
 		},
@@ -45,7 +45,7 @@
 			"English": "It is a good place to spend a leisurely afternoon in the City of Angels, which is open all year round.",
 			"Word Count": 21,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وهو مكان جيد لقضاء فترة بعد الظهر على مهل في مدينة الملائكة، وهو مفتوح على مدار السنة.",
 			"Egyptian Arabic Audio": "eca-1705-5.mp3",
 			"Standard Arabic Audio": "msa-1705-5.mp3"
 		}

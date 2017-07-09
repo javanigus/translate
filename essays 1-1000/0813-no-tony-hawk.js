@@ -9,7 +9,7 @@
 			"English": "Nelson woke up in the hospital.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "استيقظ نيلسون في المستشفى.",
 			"Egyptian Arabic Audio": "eca-0813-1.mp3",
 			"Standard Arabic Audio": "msa-0813-1.mp3"
 		},
@@ -18,7 +18,7 @@
 			"English": "He had two broken arms.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كان لديه اثنين من الأسلحة المكسورة.",
 			"Egyptian Arabic Audio": "eca-0813-2.mp3",
 			"Standard Arabic Audio": "msa-0813-2.mp3"
 		},
@@ -27,7 +27,7 @@
 			"English": "Even worse, his two front teeth were now missing.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "والأسوأ من ذلك أن أسنانه الأمامية مفقودة الآن.",
 			"Egyptian Arabic Audio": "eca-0813-3.mp3",
 			"Standard Arabic Audio": "msa-0813-3.mp3"
 		}

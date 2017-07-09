@@ -9,7 +9,7 @@
 			"English": "The phone rang.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "رن الهاتف.",
 			"Egyptian Arabic Audio": "eca-1570-1.mp3",
 			"Standard Arabic Audio": "msa-1570-1.mp3"
 		},
@@ -18,7 +18,7 @@
 			"English": "It was her son.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كان ابنها.",
 			"Egyptian Arabic Audio": "eca-1570-2.mp3",
 			"Standard Arabic Audio": "msa-1570-2.mp3"
 		},
@@ -27,7 +27,7 @@
 			"English": "Six years ago she had left her home country.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "قبل ست سنوات غادرت بلدها.",
 			"Egyptian Arabic Audio": "eca-1570-3.mp3",
 			"Standard Arabic Audio": "msa-1570-3.mp3"
 		},
@@ -36,7 +36,7 @@
 			"English": "She had sold her business.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كانت قد باعت أعمالها.",
 			"Egyptian Arabic Audio": "eca-1570-4.mp3",
 			"Standard Arabic Audio": "msa-1570-4.mp3"
 		},
@@ -45,7 +45,7 @@
 			"English": "She wanted her son to get an education in America.",
 			"Word Count": 10,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أرادت ابنها الحصول على التعليم في أمريكا.",
 			"Egyptian Arabic Audio": "eca-1570-5.mp3",
 			"Standard Arabic Audio": "msa-1570-5.mp3"
 		},
@@ -54,7 +54,7 @@
 			"English": "She spoke no English.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لم تتحدث الإنجليزية.",
 			"Egyptian Arabic Audio": "eca-1570-6.mp3",
 			"Standard Arabic Audio": "msa-1570-6.mp3"
 		},
@@ -63,7 +63,7 @@
 			"English": "Her son spoke little English.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ابنها تكلم قليلا الإنجليزية.",
 			"Egyptian Arabic Audio": "eca-1570-7.mp3",
 			"Standard Arabic Audio": "msa-1570-7.mp3"
 		},
@@ -72,7 +72,7 @@
 			"English": "Her friends and family said she was crazy.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وقالت صديقاتها وعائلتها إنها مجنونة.",
 			"Egyptian Arabic Audio": "eca-1570-8.mp3",
 			"Standard Arabic Audio": "msa-1570-8.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "She moved to America.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انتقلت إلى أمريكا.",
 			"Egyptian Arabic Audio": "eca-1570-9.mp3",
 			"Standard Arabic Audio": "msa-1570-9.mp3"
 		},
@@ -90,7 +90,7 @@
 			"English": "She put her son in school.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وضعت ابنها في المدرسة.",
 			"Egyptian Arabic Audio": "eca-1570-10.mp3",
 			"Standard Arabic Audio": "msa-1570-10.mp3"
 		},
@@ -99,7 +99,7 @@
 			"English": "School was difficult.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كانت المدرسة صعبة.",
 			"Egyptian Arabic Audio": "eca-1570-11.mp3",
 			"Standard Arabic Audio": "msa-1570-11.mp3"
 		},
@@ -108,7 +108,7 @@
 			"English": "He was in remedial English classes.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كان في دروس اللغة الإنجليزية العلاجية.",
 			"Egyptian Arabic Audio": "eca-1570-12.mp3",
 			"Standard Arabic Audio": "msa-1570-12.mp3"
 		},
@@ -117,7 +117,7 @@
 			"English": "She walked him to school.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "مشيت إلى المدرسة.",
 			"Egyptian Arabic Audio": "eca-1570-13.mp3",
 			"Standard Arabic Audio": "msa-1570-13.mp3"
 		},
@@ -126,7 +126,7 @@
 			"English": "She hired tutors for him.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انها استأجرت المعلمين له.",
 			"Egyptian Arabic Audio": "eca-1570-14.mp3",
 			"Standard Arabic Audio": "msa-1570-14.mp3"
 		},
@@ -135,7 +135,7 @@
 			"English": "He hated school.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كان يكره المدرسة.",
 			"Egyptian Arabic Audio": "eca-1570-15.mp3",
 			"Standard Arabic Audio": "msa-1570-15.mp3"
 		},
@@ -144,7 +144,7 @@
 			"English": "She put her foot down.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وضعت قدمها إلى أسفل.",
 			"Egyptian Arabic Audio": "eca-1570-16.mp3",
 			"Standard Arabic Audio": "msa-1570-16.mp3"
 		},
@@ -153,7 +153,7 @@
 			"English": "She made him study.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وقالت انها جعلته الدراسة.",
 			"Egyptian Arabic Audio": "eca-1570-17.mp3",
 			"Standard Arabic Audio": "msa-1570-17.mp3"
 		},
@@ -162,7 +162,7 @@
 			"English": "His English improved.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "تحسنت لغته الإنجليزية.",
 			"Egyptian Arabic Audio": "eca-1570-18.mp3",
 			"Standard Arabic Audio": "msa-1570-18.mp3"
 		},
@@ -171,7 +171,7 @@
 			"English": "His grades improved.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "تحسنت درجاته.",
 			"Egyptian Arabic Audio": "eca-1570-19.mp3",
 			"Standard Arabic Audio": "msa-1570-19.mp3"
 		},
@@ -180,7 +180,7 @@
 			"English": "He became a good student.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أصبح طالبا جيدا.",
 			"Egyptian Arabic Audio": "eca-1570-20.mp3",
 			"Standard Arabic Audio": "msa-1570-20.mp3"
 		},
@@ -189,7 +189,7 @@
 			"English": "He graduated from high school.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "تخرج من المدرسة الثانوية.",
 			"Egyptian Arabic Audio": "eca-1570-21.mp3",
 			"Standard Arabic Audio": "msa-1570-21.mp3"
 		},
@@ -198,7 +198,7 @@
 			"English": "He went to junior college.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ذهب إلى كلية صغار.",
 			"Egyptian Arabic Audio": "eca-1570-22.mp3",
 			"Standard Arabic Audio": "msa-1570-22.mp3"
 		},
@@ -207,7 +207,7 @@
 			"English": "He finished junior college.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انهى الكلية المبتدئة.",
 			"Egyptian Arabic Audio": "eca-1570-23.mp3",
 			"Standard Arabic Audio": "msa-1570-23.mp3"
 		},
@@ -216,7 +216,7 @@
 			"English": "He applied to transfer to a four-year university.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وقد تقدم بطلب للانتقال إلى جامعة مدتها أربع سنوات.",
 			"Egyptian Arabic Audio": "eca-1570-24.mp3",
 			"Standard Arabic Audio": "msa-1570-24.mp3"
 		},
@@ -225,7 +225,7 @@
 			"English": "\"Mom, I got accepted to USC!\" he said.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "&quot;أمي، لقد قبلت أوسك!&quot; هو قال.",
 			"Egyptian Arabic Audio": "eca-1570-25.mp3",
 			"Standard Arabic Audio": "msa-1570-25.mp3"
 		},
@@ -234,7 +234,7 @@
 			"English": "\"Oh, congratulations!\" she said, over and over.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "&quot;اوه مبروك!&quot; قالت، مرارا وتكرارا.",
 			"Egyptian Arabic Audio": "eca-1570-26.mp3",
 			"Standard Arabic Audio": "msa-1570-26.mp3"
 		},
@@ -243,7 +243,7 @@
 			"English": "She was so proud of her son.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كانت فخورة جدا ابنها.",
 			"Egyptian Arabic Audio": "eca-1570-27.mp3",
 			"Standard Arabic Audio": "msa-1570-27.mp3"
 		},
@@ -252,7 +252,7 @@
 			"English": "She sat down and cried.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "جلست وبكى.",
 			"Egyptian Arabic Audio": "eca-1570-28.mp3",
 			"Standard Arabic Audio": "msa-1570-28.mp3"
 		}

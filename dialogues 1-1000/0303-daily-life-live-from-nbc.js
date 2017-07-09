@@ -11,7 +11,7 @@
 			"English": "I missed the TV news last night. What was on?",
 			"Word Count": 10,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "فاتني أخبار التلفزيون الليلة الماضية. ماذا كان؟",
 			"Egyptian Arabic Audio": "eca-0303-1.mp3",
 			"Standard Arabic Audio": "msa-0303-1.mp3"
 		},
@@ -21,7 +21,7 @@
 			"English": "Nothing that would pass as news.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لا شيء من شأنه أن يمر كما الأخبار.",
 			"Egyptian Arabic Audio": "eca-0303-2.mp3",
 			"Standard Arabic Audio": "msa-0303-2.mp3"
 		},
@@ -31,7 +31,7 @@
 			"English": "What's the weather going to be like this weekend?",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ما هو الطقس سيكون مثل عطلة نهاية الأسبوع؟",
 			"Egyptian Arabic Audio": "eca-0303-3.mp3",
 			"Standard Arabic Audio": "msa-0303-3.mp3"
 		},
@@ -41,7 +41,7 @@
 			"English": "I don't know. Whenever the weather comes on, I switch channels.",
 			"Word Count": 11,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انا لا اعرف. كلما حدث الطقس، أنا تبديل القنوات.",
 			"Egyptian Arabic Audio": "eca-0303-4.mp3",
 			"Standard Arabic Audio": "msa-0303-4.mp3"
 		},
@@ -51,7 +51,7 @@
 			"English": "What was the lead story on the news?",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ما هي القصة الرئيسية على الأخبار؟",
 			"Egyptian Arabic Audio": "eca-0303-5.mp3",
 			"Standard Arabic Audio": "msa-0303-5.mp3"
 		},
@@ -61,7 +61,7 @@
 			"English": "Some actress was in court for driving without a license.",
 			"Word Count": 10,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "بعض الممثلات كان في المحكمة لقيادة دون ترخيص.",
 			"Egyptian Arabic Audio": "eca-0303-6.mp3",
 			"Standard Arabic Audio": "msa-0303-6.mp3"
 		},
@@ -71,7 +71,7 @@
 			"English": "What was the second story?",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ما هي القصة الثانية؟",
 			"Egyptian Arabic Audio": "eca-0303-7.mp3",
 			"Standard Arabic Audio": "msa-0303-7.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "Some actor married a woman young enough to be his daughter.",
 			"Word Count": 11,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "بعض الممثل تزوج امرأة صغيرة بما فيه الكفاية لتكون ابنته.",
 			"Egyptian Arabic Audio": "eca-0303-8.mp3",
 			"Standard Arabic Audio": "msa-0303-8.mp3"
 		},
@@ -91,7 +91,7 @@
 			"English": "What was the third story?",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ما هي القصة الثالثة؟",
 			"Egyptian Arabic Audio": "eca-0303-9.mp3",
 			"Standard Arabic Audio": "msa-0303-9.mp3"
 		},
@@ -101,7 +101,7 @@
 			"English": "A bull chased a man in a supermarket.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "مطاردة رجل في سوبر ماركت.",
 			"Egyptian Arabic Audio": "eca-0303-10.mp3",
 			"Standard Arabic Audio": "msa-0303-10.mp3"
 		},
@@ -111,7 +111,7 @@
 			"English": "Wasn't there anything about Octo-Mom?",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لم يكن هناك أي شيء عن أوكتو-أمي؟",
 			"Egyptian Arabic Audio": "eca-0303-11.mp3",
 			"Standard Arabic Audio": "msa-0303-11.mp3"
 		},
@@ -121,7 +121,7 @@
 			"English": "Of course. She's going to hire a nanny for her eight infants.",
 			"Word Count": 12,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "بالتاكيد. وقالت انها سوف استئجار مربية لطفلها ثمانية الرضع.",
 			"Egyptian Arabic Audio": "eca-0303-12.mp3",
 			"Standard Arabic Audio": "msa-0303-12.mp3"
 		}

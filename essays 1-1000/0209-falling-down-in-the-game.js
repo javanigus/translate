@@ -9,7 +9,7 @@
 			"English": "Andrea was playing tag with her friends.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كانت أندريا تلعب العلامة مع صديقاتها.",
 			"Egyptian Arabic Audio": "eca-0209-1.mp3",
 			"Standard Arabic Audio": "msa-0209-1.mp3"
 		},
@@ -18,7 +18,7 @@
 			"English": "Tag is a game where one person is \"it\" and chases the other players.",
 			"Word Count": 14,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "العلامة هي لعبة حيث شخص واحد هو &quot;انها&quot; ومطاردة لاعبين آخرين.",
 			"Egyptian Arabic Audio": "eca-0209-2.mp3",
 			"Standard Arabic Audio": "msa-0209-2.mp3"
 		},
@@ -27,7 +27,7 @@
 			"English": "Andrea is \"it.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أندريا هو &quot;ذلك.",
 			"Egyptian Arabic Audio": "eca-0209-3.mp3",
 			"Standard Arabic Audio": "msa-0209-3.mp3"
 		},
@@ -36,7 +36,7 @@
 			"English": "\" She is playing with five other people.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "&quot;إنها تلعب مع خمسة أشخاص آخرين.",
 			"Egyptian Arabic Audio": "eca-0209-4.mp3",
 			"Standard Arabic Audio": "msa-0209-4.mp3"
 		},
@@ -45,7 +45,7 @@
 			"English": "She runs after Joe.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "تدير بعد جو.",
 			"Egyptian Arabic Audio": "eca-0209-5.mp3",
 			"Standard Arabic Audio": "msa-0209-5.mp3"
 		},
@@ -54,7 +54,7 @@
 			"English": "Joe is ahead of her.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "جو هو أمامها.",
 			"Egyptian Arabic Audio": "eca-0209-6.mp3",
 			"Standard Arabic Audio": "msa-0209-6.mp3"
 		},
@@ -63,7 +63,7 @@
 			"English": "But Joe is a slow runner.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ولكن جو هو عداء بطيء.",
 			"Egyptian Arabic Audio": "eca-0209-7.mp3",
 			"Standard Arabic Audio": "msa-0209-7.mp3"
 		},
@@ -72,7 +72,7 @@
 			"English": "Andrea taps him on the shoulder.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أندريا الصنابير على الكتف.",
 			"Egyptian Arabic Audio": "eca-0209-8.mp3",
 			"Standard Arabic Audio": "msa-0209-8.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "Joe falls down.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "جو يسقط.",
 			"Egyptian Arabic Audio": "eca-0209-9.mp3",
 			"Standard Arabic Audio": "msa-0209-9.mp3"
 		},
@@ -90,7 +90,7 @@
 			"English": "He starts crying.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يبدأ البكاء.",
 			"Egyptian Arabic Audio": "eca-0209-10.mp3",
 			"Standard Arabic Audio": "msa-0209-10.mp3"
 		},
@@ -99,7 +99,7 @@
 			"English": "A teacher runs towards him.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "المعلم يعمل نحوه.",
 			"Egyptian Arabic Audio": "eca-0209-11.mp3",
 			"Standard Arabic Audio": "msa-0209-11.mp3"
 		},
@@ -108,7 +108,7 @@
 			"English": "\"Did you push him down, Andrea?\" the teacher asked.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "&quot;هل دفعته إلى أسفل، أندريا؟&quot; سأل المعلم.",
 			"Egyptian Arabic Audio": "eca-0209-12.mp3",
 			"Standard Arabic Audio": "msa-0209-12.mp3"
 		},
@@ -117,7 +117,7 @@
 			"English": "\"No! He tripped.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "&quot;لا! انه تعثر.",
 			"Egyptian Arabic Audio": "eca-0209-13.mp3",
 			"Standard Arabic Audio": "msa-0209-13.mp3"
 		},
@@ -126,7 +126,7 @@
 			"English": "I just tapped his shoulder,\" Andrea said.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنا فقط استغلت كتفه، &quot;وقال أندريا.",
 			"Egyptian Arabic Audio": "eca-0209-14.mp3",
 			"Standard Arabic Audio": "msa-0209-14.mp3"
 		},
@@ -135,7 +135,7 @@
 			"English": "The teacher did not believe her.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لم يصدقها المعلم.",
 			"Egyptian Arabic Audio": "eca-0209-15.mp3",
 			"Standard Arabic Audio": "msa-0209-15.mp3"
 		},
@@ -144,7 +144,7 @@
 			"English": "She asks Joe if Andrea pushed her.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "تسأل جو إذا دفعت أندريا لها.",
 			"Egyptian Arabic Audio": "eca-0209-16.mp3",
 			"Standard Arabic Audio": "msa-0209-16.mp3"
 		},
@@ -153,7 +153,7 @@
 			"English": "He said no.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هو قال لا.",
 			"Egyptian Arabic Audio": "eca-0209-17.mp3",
 			"Standard Arabic Audio": "msa-0209-17.mp3"
 		},
@@ -162,7 +162,7 @@
 			"English": "The teacher said sorry to Andrea.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وقال المعلم آسف لأندريا.",
 			"Egyptian Arabic Audio": "eca-0209-18.mp3",
 			"Standard Arabic Audio": "msa-0209-18.mp3"
 		}

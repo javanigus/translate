@@ -9,7 +9,7 @@
 			"English": "Lois has a headache.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لويس لديه صداع.",
 			"Egyptian Arabic Audio": "eca-1243-1.mp3",
 			"Standard Arabic Audio": "msa-1243-1.mp3"
 		},
@@ -18,7 +18,7 @@
 			"English": "The headache started one hour ago.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "بدأ الصداع قبل ساعة واحدة.",
 			"Egyptian Arabic Audio": "eca-1243-2.mp3",
 			"Standard Arabic Audio": "msa-1243-2.mp3"
 		},
@@ -27,7 +27,7 @@
 			"English": "She doesn't know why she has a headache.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انها لا تعرف لماذا لديها صداع.",
 			"Egyptian Arabic Audio": "eca-1243-3.mp3",
 			"Standard Arabic Audio": "msa-1243-3.mp3"
 		},
@@ -36,7 +36,7 @@
 			"English": "She never gets headaches.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وقالت انها لا يحصل الصداع.",
 			"Egyptian Arabic Audio": "eca-1243-4.mp3",
 			"Standard Arabic Audio": "msa-1243-4.mp3"
 		},
@@ -45,7 +45,7 @@
 			"English": "She never gets sick.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وقالت انها لم يحصل المرضى.",
 			"Egyptian Arabic Audio": "eca-1243-5.mp3",
 			"Standard Arabic Audio": "msa-1243-5.mp3"
 		},
@@ -54,7 +54,7 @@
 			"English": "Lois is a healthy woman.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لويس هو امرأة صحية.",
 			"Egyptian Arabic Audio": "eca-1243-6.mp3",
 			"Standard Arabic Audio": "msa-1243-6.mp3"
 		},
@@ -63,7 +63,7 @@
 			"English": "Where did her headache come from? Was it something she ate? Was it something she drank? She doesn't know.",
 			"Word Count": 19,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أين جاء صداعها؟ هل هو شيء أكلت؟ هل كان شيئا شربت؟ انها لا تعرف.",
 			"Egyptian Arabic Audio": "eca-1243-7.mp3",
 			"Standard Arabic Audio": "msa-1243-7.mp3"
 		},
@@ -72,7 +72,7 @@
 			"English": "She wants her headache to go away.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انها تريد صداعها للذهاب بعيدا.",
 			"Egyptian Arabic Audio": "eca-1243-8.mp3",
 			"Standard Arabic Audio": "msa-1243-8.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "She does not like to take medicine.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انها لا تحب تناول الدواء.",
 			"Egyptian Arabic Audio": "eca-1243-9.mp3",
 			"Standard Arabic Audio": "msa-1243-9.mp3"
 		},
@@ -90,7 +90,7 @@
 			"English": "But her head hurts so much.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ولكن رأسها يضر كثيرا.",
 			"Egyptian Arabic Audio": "eca-1243-10.mp3",
 			"Standard Arabic Audio": "msa-1243-10.mp3"
 		},
@@ -99,7 +99,7 @@
 			"English": "She went into her bathroom.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ذهبت إلى حمامها.",
 			"Egyptian Arabic Audio": "eca-1243-11.mp3",
 			"Standard Arabic Audio": "msa-1243-11.mp3"
 		},
@@ -108,7 +108,7 @@
 			"English": "She opened the medicine cabinet.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "فتحت مجلس الوزراء الطب.",
 			"Egyptian Arabic Audio": "eca-1243-12.mp3",
 			"Standard Arabic Audio": "msa-1243-12.mp3"
 		},
@@ -117,7 +117,7 @@
 			"English": "She found some aspirin.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وجدت بعض الأسبرين.",
 			"Egyptian Arabic Audio": "eca-1243-13.mp3",
 			"Standard Arabic Audio": "msa-1243-13.mp3"
 		},
@@ -126,7 +126,7 @@
 			"English": "She took two aspirin with a glass of water.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أخذت اثنين من الأسبرين مع كوب من الماء.",
 			"Egyptian Arabic Audio": "eca-1243-14.mp3",
 			"Standard Arabic Audio": "msa-1243-14.mp3"
 		},
@@ -135,7 +135,7 @@
 			"English": "Maybe the aspirin will help her headache go away.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ربما الاسبرين يساعدها الصداع تختفي.",
 			"Egyptian Arabic Audio": "eca-1243-15.mp3",
 			"Standard Arabic Audio": "msa-1243-15.mp3"
 		}

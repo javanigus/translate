@@ -11,7 +11,7 @@
 			"English": "I woke up with the worse stomachache.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "استيقظت مع أسوأ المعدة.",
 			"Egyptian Arabic Audio": "eca-0809-1.mp3",
 			"Standard Arabic Audio": "msa-0809-1.mp3"
 		},
@@ -21,7 +21,7 @@
 			"English": "Did you try going to the bathroom?",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هل حاولت الذهاب إلى الحمام؟",
 			"Egyptian Arabic Audio": "eca-0809-2.mp3",
 			"Standard Arabic Audio": "msa-0809-2.mp3"
 		},
@@ -31,7 +31,7 @@
 			"English": "I went to the bathroom, but that didn't make the pain go away.",
 			"Word Count": 13,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ذهبت إلى الحمام، ولكن ذلك لم يجعل الألم يذهب بعيدا.",
 			"Egyptian Arabic Audio": "eca-0809-3.mp3",
 			"Standard Arabic Audio": "msa-0809-3.mp3"
 		},
@@ -41,7 +41,7 @@
 			"English": "Did you eat anything strange last night? Maybe you have food poisoning.",
 			"Word Count": 12,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هل تناولت شيئا غريبا الليلة الماضية؟ ربما لديك التسمم الغذائي.",
 			"Egyptian Arabic Audio": "eca-0809-4.mp3",
 			"Standard Arabic Audio": "msa-0809-4.mp3"
 		},
@@ -51,7 +51,7 @@
 			"English": "No. Because then I would be vomiting.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لا، لأنني سأكون القيء.",
 			"Egyptian Arabic Audio": "eca-0809-5.mp3",
 			"Standard Arabic Audio": "msa-0809-5.mp3"
 		},
@@ -61,7 +61,7 @@
 			"English": "Where exactly is the pain?",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أين بالضبط الألم؟",
 			"Egyptian Arabic Audio": "eca-0809-6.mp3",
 			"Standard Arabic Audio": "msa-0809-6.mp3"
 		},
@@ -71,7 +71,7 @@
 			"English": "It hurts here on my right side.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "إنه يضر هنا على جانبي الأيمن.",
 			"Egyptian Arabic Audio": "eca-0809-7.mp3",
 			"Standard Arabic Audio": "msa-0809-7.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "That's where it hurt when I had to get my appendix taken out.",
 			"Word Count": 13,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هذا هو المكان الذي يضر عندما كان لي للحصول على بلدي التذييل أخذ بها.",
 			"Egyptian Arabic Audio": "eca-0809-8.mp3",
 			"Standard Arabic Audio": "msa-0809-8.mp3"
 		},
@@ -91,7 +91,7 @@
 			"English": "It's probably just gas.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انها ربما الغاز فقط.",
 			"Egyptian Arabic Audio": "eca-0809-9.mp3",
 			"Standard Arabic Audio": "msa-0809-9.mp3"
 		},
@@ -101,7 +101,7 @@
 			"English": "Did you take any medication?",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هل تناولت أي دواء؟",
 			"Egyptian Arabic Audio": "eca-0809-10.mp3",
 			"Standard Arabic Audio": "msa-0809-10.mp3"
 		},
@@ -111,7 +111,7 @@
 			"English": "I took an antacid an hour ago.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أخذت مضاد للحموضة قبل ساعة.",
 			"Egyptian Arabic Audio": "eca-0809-11.mp3",
 			"Standard Arabic Audio": "msa-0809-11.mp3"
 		},
@@ -121,7 +121,7 @@
 			"English": "It should have worked by now. This could be serious.",
 			"Word Count": 10,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كان ينبغي أن تكون قد عملت حتى الآن. وقد يكون هذا أمرا خطيرا.",
 			"Egyptian Arabic Audio": "eca-0809-12.mp3",
 			"Standard Arabic Audio": "msa-0809-12.mp3"
 		}

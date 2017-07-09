@@ -11,7 +11,7 @@
 			"English": "Are there any good French restaurants around here?",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هل هناك أي مطاعم فرنسية جيدة هنا؟",
 			"Egyptian Arabic Audio": "eca-0836-1.mp3",
 			"Standard Arabic Audio": "msa-0836-1.mp3"
 		},
@@ -21,7 +21,7 @@
 			"English": "There are quite a few. I have some menus you can look at.",
 			"Word Count": 13,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هناك عدد لا بأس به. لدي بعض القوائم التي يمكن أن ننظر.",
 			"Egyptian Arabic Audio": "eca-0836-2.mp3",
 			"Standard Arabic Audio": "msa-0836-2.mp3"
 		},
@@ -31,7 +31,7 @@
 			"English": "Which one do you recommend? It's my wife's birthday.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أي واحد تنصح به؟ انها عيد ميلاد زوجتي.",
 			"Egyptian Arabic Audio": "eca-0836-3.mp3",
 			"Standard Arabic Audio": "msa-0836-3.mp3"
 		},
@@ -41,7 +41,7 @@
 			"English": "The French Quarter is very romantic.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "الحي الفرنسي رومانسي جدا.",
 			"Egyptian Arabic Audio": "eca-0836-4.mp3",
 			"Standard Arabic Audio": "msa-0836-4.mp3"
 		},
@@ -51,7 +51,7 @@
 			"English": "Is it very expensive?",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هل هي غالية جداً ؟",
 			"Egyptian Arabic Audio": "eca-0836-5.mp3",
 			"Standard Arabic Audio": "msa-0836-5.mp3"
 		},
@@ -61,7 +61,7 @@
 			"English": "It is about $50 a person, not including alcohol or tip.",
 			"Word Count": 11,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هو حوالي 50 دولارا للشخص، وليس بما في ذلك الكحول أو طرف.",
 			"Egyptian Arabic Audio": "eca-0836-6.mp3",
 			"Standard Arabic Audio": "msa-0836-6.mp3"
 		},
@@ -71,7 +71,7 @@
 			"English": "Do I need a reservation?",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هل أحتاج إلى حجز؟",
 			"Egyptian Arabic Audio": "eca-0836-7.mp3",
 			"Standard Arabic Audio": "msa-0836-7.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "Yes, but I would be happy to make that reservation for you.",
 			"Word Count": 12,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "نعم، لكنني سأكون سعيدا لجعل هذا التحفظ لك.",
 			"Egyptian Arabic Audio": "eca-0836-8.mp3",
 			"Standard Arabic Audio": "msa-0836-8.mp3"
 		},
@@ -91,7 +91,7 @@
 			"English": "Great! Get us a table for two at 8.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "عظيم! احصل على طاولة لشخصين في 8.",
 			"Egyptian Arabic Audio": "eca-0836-9.mp3",
 			"Standard Arabic Audio": "msa-0836-9.mp3"
 		},
@@ -101,7 +101,7 @@
 			"English": "Will you also need transportation to the restaurant?",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "سوف تحتاج أيضا النقل إلى المطعم؟",
 			"Egyptian Arabic Audio": "eca-0836-10.mp3",
 			"Standard Arabic Audio": "msa-0836-10.mp3"
 		},
@@ -111,7 +111,7 @@
 			"English": "Can you get a limo to pick us up?",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يمكنك الحصول على ليمو لالتقاط لنا؟",
 			"Egyptian Arabic Audio": "eca-0836-11.mp3",
 			"Standard Arabic Audio": "msa-0836-11.mp3"
 		},
@@ -121,7 +121,7 @@
 			"English": "I can do that for $30.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يمكنني أن أفعل ذلك مقابل 30 $.",
 			"Egyptian Arabic Audio": "eca-0836-12.mp3",
 			"Standard Arabic Audio": "msa-0836-12.mp3"
 		}

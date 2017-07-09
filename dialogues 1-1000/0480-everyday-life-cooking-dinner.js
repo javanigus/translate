@@ -11,7 +11,7 @@
 			"English": "What's for dinner?",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ماذا يوجد للعشاء؟",
 			"Egyptian Arabic Audio": "eca-0480-1.mp3",
 			"Standard Arabic Audio": "msa-0480-1.mp3"
 		},
@@ -21,7 +21,7 @@
 			"English": "I should be asking you that.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يجب أن أطلب منكم ذلك.",
 			"Egyptian Arabic Audio": "eca-0480-2.mp3",
 			"Standard Arabic Audio": "msa-0480-2.mp3"
 		},
@@ -31,7 +31,7 @@
 			"English": "What? Why do you say that?",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ماذا؟ لماذا تقول هذا؟",
 			"Egyptian Arabic Audio": "eca-0480-3.mp3",
 			"Standard Arabic Audio": "msa-0480-3.mp3"
 		},
@@ -41,7 +41,7 @@
 			"English": "You're old enough to cook dinner.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كنت عمرا بما فيه الكفاية لطهي العشاء.",
 			"Egyptian Arabic Audio": "eca-0480-4.mp3",
 			"Standard Arabic Audio": "msa-0480-4.mp3"
 		},
@@ -51,7 +51,7 @@
 			"English": "Are you saying it's my turn now?",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هل تقول أنه حان دوري الآن؟",
 			"Egyptian Arabic Audio": "eca-0480-5.mp3",
 			"Standard Arabic Audio": "msa-0480-5.mp3"
 		},
@@ -61,7 +61,7 @@
 			"English": "Actually, that's exactly what I'm saying.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "في الواقع، هذا هو بالضبط ما أقوله.",
 			"Egyptian Arabic Audio": "eca-0480-6.mp3",
 			"Standard Arabic Audio": "msa-0480-6.mp3"
 		},
@@ -71,7 +71,7 @@
 			"English": "What would you like to eat, then?",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ماذا تريد أن تأكل، ثم؟",
 			"Egyptian Arabic Audio": "eca-0480-7.mp3",
 			"Standard Arabic Audio": "msa-0480-7.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "I'm craving some spaghetti, bread, and even a salad.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنا حنين بعض السباغيتي، الخبز، وحتى سلطة.",
 			"Egyptian Arabic Audio": "eca-0480-8.mp3",
 			"Standard Arabic Audio": "msa-0480-8.mp3"
 		},
@@ -91,7 +91,7 @@
 			"English": "Frozen pizza it is, then!",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "البيتزا المجمدة هو، ثم!",
 			"Egyptian Arabic Audio": "eca-0480-9.mp3",
 			"Standard Arabic Audio": "msa-0480-9.mp3"
 		},
@@ -101,7 +101,7 @@
 			"English": "You are so lazy! Can you even cook?",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنت كسول جدا! يمكنك حتى طبخ؟",
 			"Egyptian Arabic Audio": "eca-0480-10.mp3",
 			"Standard Arabic Audio": "msa-0480-10.mp3"
 		},
@@ -111,7 +111,7 @@
 			"English": "Of course I can cook! I choose not to.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "بالطبع يمكنني طهي الطعام! اخترت عدم.",
 			"Egyptian Arabic Audio": "eca-0480-11.mp3",
 			"Standard Arabic Audio": "msa-0480-11.mp3"
 		},
@@ -121,7 +121,7 @@
 			"English": "You're having hot pockets for dinner tomorrow.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كنت تواجه جيوب الساخنة لتناول العشاء غدا.",
 			"Egyptian Arabic Audio": "eca-0480-12.mp3",
 			"Standard Arabic Audio": "msa-0480-12.mp3"
 		}

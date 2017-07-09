@@ -11,7 +11,7 @@
 			"English": "The man getting on the bus is in a wheelchair.",
 			"Word Count": 10,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "الرجل الذي يستقل الحافلة هو على كرسي متحرك.",
 			"Egyptian Arabic Audio": "eca-0082-1.mp3",
 			"Standard Arabic Audio": "msa-0082-1.mp3"
 		},
@@ -21,7 +21,7 @@
 			"English": "The driver has to adjust the seats.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "السائق لديه لضبط المقاعد.",
 			"Egyptian Arabic Audio": "eca-0082-2.mp3",
 			"Standard Arabic Audio": "msa-0082-2.mp3"
 		},
@@ -31,7 +31,7 @@
 			"English": "What will he do to them?",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ماذا سيفعل لهم؟",
 			"Egyptian Arabic Audio": "eca-0082-3.mp3",
 			"Standard Arabic Audio": "msa-0082-3.mp3"
 		},
@@ -41,7 +41,7 @@
 			"English": "He'll move them out of the way.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وقال انه سوف نقلها للخروج من الطريق.",
 			"Egyptian Arabic Audio": "eca-0082-4.mp3",
 			"Standard Arabic Audio": "msa-0082-4.mp3"
 		},
@@ -51,7 +51,7 @@
 			"English": "They look difficult to move.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنها تبدو صعبة للتحرك.",
 			"Egyptian Arabic Audio": "eca-0082-5.mp3",
 			"Standard Arabic Audio": "msa-0082-5.mp3"
 		},
@@ -61,7 +61,7 @@
 			"English": "Maybe we should help him.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ربما يجب أن نساعده.",
 			"Egyptian Arabic Audio": "eca-0082-6.mp3",
 			"Standard Arabic Audio": "msa-0082-6.mp3"
 		},
@@ -71,7 +71,7 @@
 			"English": "What do I do?",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ماذا أفعل؟",
 			"Egyptian Arabic Audio": "eca-0082-7.mp3",
 			"Standard Arabic Audio": "msa-0082-7.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "Just release the lever under the seat.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "مجرد تحرير ذراع تحت المقعد.",
 			"Egyptian Arabic Audio": "eca-0082-8.mp3",
 			"Standard Arabic Audio": "msa-0082-8.mp3"
 		},
@@ -91,7 +91,7 @@
 			"English": "Now what do I do?",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "الآن ماذا أفعل؟",
 			"Egyptian Arabic Audio": "eca-0082-9.mp3",
 			"Standard Arabic Audio": "msa-0082-9.mp3"
 		},
@@ -101,7 +101,7 @@
 			"English": "Let's push the seats out of the way.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "دعونا دفع المقاعد للخروج من الطريق.",
 			"Egyptian Arabic Audio": "eca-0082-10.mp3",
 			"Standard Arabic Audio": "msa-0082-10.mp3"
 		},
@@ -111,7 +111,7 @@
 			"English": "The driver and man are so grateful!",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "السائق والرجل ممتنون جدا!",
 			"Egyptian Arabic Audio": "eca-0082-11.mp3",
 			"Standard Arabic Audio": "msa-0082-11.mp3"
 		},
@@ -121,7 +121,7 @@
 			"English": "We should always try to help others.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يجب أن نحاول دائما مساعدة الآخرين.",
 			"Egyptian Arabic Audio": "eca-0082-12.mp3",
 			"Standard Arabic Audio": "msa-0082-12.mp3"
 		}

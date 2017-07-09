@@ -11,7 +11,7 @@
 			"English": "I like that shirt.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أحب هذا القميص.",
 			"Egyptian Arabic Audio": "eca-0419-1.mp3",
 			"Standard Arabic Audio": "msa-0419-1.mp3"
 		},
@@ -21,7 +21,7 @@
 			"English": "So do I.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وانا كذلك.",
 			"Egyptian Arabic Audio": "eca-0419-2.mp3",
 			"Standard Arabic Audio": "msa-0419-2.mp3"
 		},
@@ -31,7 +31,7 @@
 			"English": "How much is it?",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كم سعره؟",
 			"Egyptian Arabic Audio": "eca-0419-3.mp3",
 			"Standard Arabic Audio": "msa-0419-3.mp3"
 		},
@@ -41,7 +41,7 @@
 			"English": "I don't know. The tag is missing.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انا لا اعرف. العلامة مفقودة.",
 			"Egyptian Arabic Audio": "eca-0419-4.mp3",
 			"Standard Arabic Audio": "msa-0419-4.mp3"
 		},
@@ -51,7 +51,7 @@
 			"English": "Ask the clerk.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "اسأل الموظف.",
 			"Egyptian Arabic Audio": "eca-0419-5.mp3",
 			"Standard Arabic Audio": "msa-0419-5.mp3"
 		},
@@ -61,7 +61,7 @@
 			"English": "I will.",
 			"Word Count": 2,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انا سوف.",
 			"Egyptian Arabic Audio": "eca-0419-6.mp3",
 			"Standard Arabic Audio": "msa-0419-6.mp3"
 		},
@@ -71,7 +71,7 @@
 			"English": "Oh, look. Here's another shirt just like it.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انظر. هنا قميص آخر مثل ذلك.",
 			"Egyptian Arabic Audio": "eca-0419-7.mp3",
 			"Standard Arabic Audio": "msa-0419-7.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "Does it have a price tag?",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هل لديها ثمن؟",
 			"Egyptian Arabic Audio": "eca-0419-8.mp3",
 			"Standard Arabic Audio": "msa-0419-8.mp3"
 		},
@@ -91,7 +91,7 @@
 			"English": "Yes, it does. It's only $20.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "نعم إنها كذلك. انها فقط 20 $.",
 			"Egyptian Arabic Audio": "eca-0419-9.mp3",
 			"Standard Arabic Audio": "msa-0419-9.mp3"
 		},
@@ -101,7 +101,7 @@
 			"English": "That's a great price.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هذا هو سعر كبير.",
 			"Egyptian Arabic Audio": "eca-0419-10.mp3",
 			"Standard Arabic Audio": "msa-0419-10.mp3"
 		},
@@ -111,7 +111,7 @@
 			"English": "I think I'll buy both of them.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أعتقد أنني سوف شراء كل منهما.",
 			"Egyptian Arabic Audio": "eca-0419-11.mp3",
 			"Standard Arabic Audio": "msa-0419-11.mp3"
 		},
@@ -121,7 +121,7 @@
 			"English": "You'd better try them on first.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كنت أفضل محاولة لهم في البداية.",
 			"Egyptian Arabic Audio": "eca-0419-12.mp3",
 			"Standard Arabic Audio": "msa-0419-12.mp3"
 		}

@@ -11,7 +11,7 @@
 			"English": "I can't read my book.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لا أستطيع قراءة كتابي.",
 			"Egyptian Arabic Audio": "eca-0313-1.mp3",
 			"Standard Arabic Audio": "msa-0313-1.mp3"
 		},
@@ -21,7 +21,7 @@
 			"English": "Turn on the light.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "اشعل ضوء.",
 			"Egyptian Arabic Audio": "eca-0313-2.mp3",
 			"Standard Arabic Audio": "msa-0313-2.mp3"
 		},
@@ -31,7 +31,7 @@
 			"English": "The light is on.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "الضوء مضاء.",
 			"Egyptian Arabic Audio": "eca-0313-3.mp3",
 			"Standard Arabic Audio": "msa-0313-3.mp3"
 		},
@@ -41,7 +41,7 @@
 			"English": "Open the book.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "افتح الكتاب.",
 			"Egyptian Arabic Audio": "eca-0313-4.mp3",
 			"Standard Arabic Audio": "msa-0313-4.mp3"
 		},
@@ -51,7 +51,7 @@
 			"English": "The book is open.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "الكتاب مفتوح.",
 			"Egyptian Arabic Audio": "eca-0313-5.mp3",
 			"Standard Arabic Audio": "msa-0313-5.mp3"
 		},
@@ -61,7 +61,7 @@
 			"English": "See an eye doctor.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انظر طبيب العيون.",
 			"Egyptian Arabic Audio": "eca-0313-6.mp3",
 			"Standard Arabic Audio": "msa-0313-6.mp3"
 		},
@@ -71,7 +71,7 @@
 			"English": "That's what I need to do.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هذا ما أريد القيام به.",
 			"Egyptian Arabic Audio": "eca-0313-7.mp3",
 			"Standard Arabic Audio": "msa-0313-7.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "He'll give you a prescription for glasses.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وقال انه سوف تعطيك وصفة طبية للنظارات.",
 			"Egyptian Arabic Audio": "eca-0313-8.mp3",
 			"Standard Arabic Audio": "msa-0313-8.mp3"
 		},
@@ -91,7 +91,7 @@
 			"English": "I'll make an appointment tomorrow.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "سأحدد موعد غدا.",
 			"Egyptian Arabic Audio": "eca-0313-9.mp3",
 			"Standard Arabic Audio": "msa-0313-9.mp3"
 		},
@@ -101,7 +101,7 @@
 			"English": "I'll get the yellow pages for an eye doctor.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "سأحصل على الصفحات الصفراء لطبيب العيون.",
 			"Egyptian Arabic Audio": "eca-0313-10.mp3",
 			"Standard Arabic Audio": "msa-0313-10.mp3"
 		},
@@ -111,7 +111,7 @@
 			"English": "Read the phone number to me.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "قراءة رقم الهاتف لي.",
 			"Egyptian Arabic Audio": "eca-0313-11.mp3",
 			"Standard Arabic Audio": "msa-0313-11.mp3"
 		},
@@ -121,7 +121,7 @@
 			"English": "I'll read it very loud, in case your hearing is getting bad, too.",
 			"Word Count": 13,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "سأقرأه بصوت عال جدا، في حالة السمع الخاص بك هو الحصول على سيئة أيضا.",
 			"Egyptian Arabic Audio": "eca-0313-12.mp3",
 			"Standard Arabic Audio": "msa-0313-12.mp3"
 		}

@@ -11,7 +11,7 @@
 			"English": "I'd like to deposit my paycheck.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أريد إيداع راتبي.",
 			"Egyptian Arabic Audio": "eca-0111-1.mp3",
 			"Standard Arabic Audio": "msa-0111-1.mp3"
 		},
@@ -21,7 +21,7 @@
 			"English": "Do you have an account here?",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هل لديك حساب هنا؟",
 			"Egyptian Arabic Audio": "eca-0111-2.mp3",
 			"Standard Arabic Audio": "msa-0111-2.mp3"
 		},
@@ -31,7 +31,7 @@
 			"English": "I have a checking account.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لدي حساب فحص.",
 			"Egyptian Arabic Audio": "eca-0111-3.mp3",
 			"Standard Arabic Audio": "msa-0111-3.mp3"
 		},
@@ -41,7 +41,7 @@
 			"English": "You need to fill out a deposit slip.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "تحتاج إلى ملء قسيمة إيداع.",
 			"Egyptian Arabic Audio": "eca-0111-4.mp3",
 			"Standard Arabic Audio": "msa-0111-4.mp3"
 		},
@@ -51,7 +51,7 @@
 			"English": "Where can I find those?",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أين يمكنني العثور على تلك؟",
 			"Egyptian Arabic Audio": "eca-0111-5.mp3",
 			"Standard Arabic Audio": "msa-0111-5.mp3"
 		},
@@ -61,7 +61,7 @@
 			"English": "There are deposit slips on the tables throughout the branch.",
 			"Word Count": 10,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هناك قسائم إيداع على الجداول في جميع أنحاء الفرع.",
 			"Egyptian Arabic Audio": "eca-0111-6.mp3",
 			"Standard Arabic Audio": "msa-0111-6.mp3"
 		},
@@ -71,7 +71,7 @@
 			"English": "What information do I put on the deposit slip?",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ما هي المعلومات التي أضعها على قسيمة الإيداع؟",
 			"Egyptian Arabic Audio": "eca-0111-7.mp3",
 			"Standard Arabic Audio": "msa-0111-7.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "You need to put the name on the account, the account number and the amount of  the deposit.",
 			"Word Count": 18,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "تحتاج إلى وضع اسم على الحساب، ورقم الحساب ومبلغ الإيداع.",
 			"Egyptian Arabic Audio": "eca-0111-8.mp3",
 			"Standard Arabic Audio": "msa-0111-8.mp3"
 		},
@@ -91,7 +91,7 @@
 			"English": "How long till I can access the money?",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كم من الوقت حتى أستطيع الوصول إلى المال؟",
 			"Egyptian Arabic Audio": "eca-0111-9.mp3",
 			"Standard Arabic Audio": "msa-0111-9.mp3"
 		},
@@ -101,7 +101,7 @@
 			"English": "You can access it immediately.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يمكنك الوصول إليه على الفور.",
 			"Egyptian Arabic Audio": "eca-0111-10.mp3",
 			"Standard Arabic Audio": "msa-0111-10.mp3"
 		},
@@ -111,7 +111,7 @@
 			"English": "Can I only make a deposit with a teller?",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هل يمكنني إجراء وديعة فقط مع الصراف؟",
 			"Egyptian Arabic Audio": "eca-0111-11.mp3",
 			"Standard Arabic Audio": "msa-0111-11.mp3"
 		},
@@ -121,7 +121,7 @@
 			"English": "No, you can also use an ATM or even your cell phone.",
 			"Word Count": 12,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لا، يمكنك أيضا استخدام أجهزة الصراف الآلي أو حتى الهاتف الخليوي الخاص بك.",
 			"Egyptian Arabic Audio": "eca-0111-12.mp3",
 			"Standard Arabic Audio": "msa-0111-12.mp3"
 		}

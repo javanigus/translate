@@ -9,7 +9,7 @@
 			"English": "He has two jackets with zippers.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لديه اثنين من السترات مع السوستة.",
 			"Egyptian Arabic Audio": "eca-0608-1.mp3",
 			"Standard Arabic Audio": "msa-0608-1.mp3"
 		},
@@ -18,7 +18,7 @@
 			"English": "One of them is light blue.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "واحد منهم أزرق فاتح.",
 			"Egyptian Arabic Audio": "eca-0608-2.mp3",
 			"Standard Arabic Audio": "msa-0608-2.mp3"
 		},
@@ -27,7 +27,7 @@
 			"English": "The other one is brown.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "والآخر هو البني.",
 			"Egyptian Arabic Audio": "eca-0608-3.mp3",
 			"Standard Arabic Audio": "msa-0608-3.mp3"
 		},
@@ -36,7 +36,7 @@
 			"English": "He has two jackets without zippers.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لديه اثنين من السترات دون السوستة.",
 			"Egyptian Arabic Audio": "eca-0608-4.mp3",
 			"Standard Arabic Audio": "msa-0608-4.mp3"
 		},
@@ -45,7 +45,7 @@
 			"English": "One of them has his name on it.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "واحد منهم له اسمه على ذلك.",
 			"Egyptian Arabic Audio": "eca-0608-5.mp3",
 			"Standard Arabic Audio": "msa-0608-5.mp3"
 		},
@@ -54,7 +54,7 @@
 			"English": "The other one has his high school's name on it.",
 			"Word Count": 10,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "والآخر يحمل اسم مدرسته الثانوية عليه.",
 			"Egyptian Arabic Audio": "eca-0608-6.mp3",
 			"Standard Arabic Audio": "msa-0608-6.mp3"
 		},
@@ -63,7 +63,7 @@
 			"English": "He has two long jackets.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لديه اثنين من السترات الطويلة.",
 			"Egyptian Arabic Audio": "eca-0608-7.mp3",
 			"Standard Arabic Audio": "msa-0608-7.mp3"
 		},
@@ -72,7 +72,7 @@
 			"English": "One of them has buttons.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "واحد منهم لديه أزرار.",
 			"Egyptian Arabic Audio": "eca-0608-8.mp3",
 			"Standard Arabic Audio": "msa-0608-8.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "The other one does not.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "والآخر لا.",
 			"Egyptian Arabic Audio": "eca-0608-9.mp3",
 			"Standard Arabic Audio": "msa-0608-9.mp3"
 		},
@@ -90,7 +90,7 @@
 			"English": "He likes all his jackets.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يحب كل ستراته.",
 			"Egyptian Arabic Audio": "eca-0608-10.mp3",
 			"Standard Arabic Audio": "msa-0608-10.mp3"
 		}

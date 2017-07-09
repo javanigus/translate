@@ -9,7 +9,7 @@
 			"English": "She smells something bad.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انها رائحة شيء سيء.",
 			"Egyptian Arabic Audio": "eca-0169-1.mp3",
 			"Standard Arabic Audio": "msa-0169-1.mp3"
 		},
@@ -18,7 +18,7 @@
 			"English": "It's the trash can.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انها سلة المهملات.",
 			"Egyptian Arabic Audio": "eca-0169-2.mp3",
 			"Standard Arabic Audio": "msa-0169-2.mp3"
 		},
@@ -27,7 +27,7 @@
 			"English": "It is completely filled.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هو شغل تماما.",
 			"Egyptian Arabic Audio": "eca-0169-3.mp3",
 			"Standard Arabic Audio": "msa-0169-3.mp3"
 		},
@@ -36,7 +36,7 @@
 			"English": "The bad smell is coming from the rotten food.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "رائحة سيئة قادمة من الطعام الفاسد.",
 			"Egyptian Arabic Audio": "eca-0169-4.mp3",
 			"Standard Arabic Audio": "msa-0169-4.mp3"
 		},
@@ -45,7 +45,7 @@
 			"English": "There are black bananas and spoiled milk inside.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هناك الموز الأسود والحليب مدلل داخل.",
 			"Egyptian Arabic Audio": "eca-0169-5.mp3",
 			"Standard Arabic Audio": "msa-0169-5.mp3"
 		},
@@ -54,7 +54,7 @@
 			"English": "She holds her breath.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وقالت إنها تحمل أنفاسها.",
 			"Egyptian Arabic Audio": "eca-0169-6.mp3",
 			"Standard Arabic Audio": "msa-0169-6.mp3"
 		},
@@ -63,7 +63,7 @@
 			"English": "She pulls out the trash bag.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انها تسحب كيس القمامة.",
 			"Egyptian Arabic Audio": "eca-0169-7.mp3",
 			"Standard Arabic Audio": "msa-0169-7.mp3"
 		},
@@ -72,7 +72,7 @@
 			"English": "She ties it.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انها تربط ذلك.",
 			"Egyptian Arabic Audio": "eca-0169-8.mp3",
 			"Standard Arabic Audio": "msa-0169-8.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "She puts it in a new trash bag.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انها تضعه في كيس القمامة الجديد.",
 			"Egyptian Arabic Audio": "eca-0169-9.mp3",
 			"Standard Arabic Audio": "msa-0169-9.mp3"
 		}

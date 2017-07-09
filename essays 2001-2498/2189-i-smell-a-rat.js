@@ -9,7 +9,7 @@
 			"English": "She led him over to the heating vent near the windows.",
 			"Word Count": 11,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "قادتھ إلی فتحة التسخین بالقرب من النوافذ.",
 			"Egyptian Arabic Audio": "eca-2189-1.mp3",
 			"Standard Arabic Audio": "msa-2189-1.mp3"
 		},
@@ -18,7 +18,7 @@
 			"English": "He put his nose down near the vent.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وضع أنفه أسفل التنفيس.",
 			"Egyptian Arabic Audio": "eca-2189-2.mp3",
 			"Standard Arabic Audio": "msa-2189-2.mp3"
 		},
@@ -27,7 +27,7 @@
 			"English": "\"Phew!\" he said, as he jerked his head back.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "&quot;تفو!&quot; قال، كما انه رعشة رأسه إلى الوراء.",
 			"Egyptian Arabic Audio": "eca-2189-3.mp3",
 			"Standard Arabic Audio": "msa-2189-3.mp3"
 		},
@@ -36,7 +36,7 @@
 			"English": "He called maintenance.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ودعا الصيانة.",
 			"Egyptian Arabic Audio": "eca-2189-4.mp3",
 			"Standard Arabic Audio": "msa-2189-4.mp3"
 		},
@@ -45,7 +45,7 @@
 			"English": "A worker arrived a few minutes later.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وصل عامل بعد بضع دقائق.",
 			"Egyptian Arabic Audio": "eca-2189-5.mp3",
 			"Standard Arabic Audio": "msa-2189-5.mp3"
 		},
@@ -54,7 +54,7 @@
 			"English": "He opened the vent.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "فتح التهوية.",
 			"Egyptian Arabic Audio": "eca-2189-6.mp3",
 			"Standard Arabic Audio": "msa-2189-6.mp3"
 		},
@@ -63,7 +63,7 @@
 			"English": "He found two dead rats inside.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وجد اثنين من الفئران القتلى في الداخل.",
 			"Egyptian Arabic Audio": "eca-2189-7.mp3",
 			"Standard Arabic Audio": "msa-2189-7.mp3"
 		},
@@ -72,7 +72,7 @@
 			"English": "Shelly's manager said, \"Boy, Shelly, what a good nose you have! How about coming up to the tenth floor with me and sniffing around? Maybe we have dead rats up there too.",
 			"Word Count": 32,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وقال مدير شيلي: &quot;فتى، شيلي، ما الأنف جيدة لديك! ماذا عن الخروج إلى الطابق العاشر معي واستنشاق حولها؟ ربما لدينا الفئران الميتة هناك أيضا.",
 			"Egyptian Arabic Audio": "eca-2189-8.mp3",
 			"Standard Arabic Audio": "msa-2189-8.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "\".",
 			"Word Count": 1,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "&quot;.",
 			"Egyptian Arabic Audio": "eca-2189-9.mp3",
 			"Standard Arabic Audio": "msa-2189-9.mp3"
 		}

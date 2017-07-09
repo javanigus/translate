@@ -11,7 +11,7 @@
 			"English": "how's it going?",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كيف تجري الامور؟",
 			"Egyptian Arabic Audio": "eca-0761-1.mp3",
 			"Standard Arabic Audio": "msa-0761-1.mp3"
 		},
@@ -21,7 +21,7 @@
 			"English": "Same old stuff. What's up?",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "نفس الاشياء القديمة. ماذا تفعل؟",
 			"Egyptian Arabic Audio": "eca-0761-2.mp3",
 			"Standard Arabic Audio": "msa-0761-2.mp3"
 		},
@@ -31,7 +31,7 @@
 			"English": "I'm working on this project. Can you look at it?",
 			"Word Count": 10,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنا أعمل على هذا المشروع. يمكنك النظر في ذلك؟",
 			"Egyptian Arabic Audio": "eca-0761-3.mp3",
 			"Standard Arabic Audio": "msa-0761-3.mp3"
 		},
@@ -41,7 +41,7 @@
 			"English": "Yeah, I'll take a look at it. What is it supposed to be?",
 			"Word Count": 13,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "نعم، سوف نلقي نظرة على ذلك. ما من المفترض أن تكون؟",
 			"Egyptian Arabic Audio": "eca-0761-4.mp3",
 			"Standard Arabic Audio": "msa-0761-4.mp3"
 		},
@@ -51,7 +51,7 @@
 			"English": "It's a presentation on how to increase productivity.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "إنه عرض تقديمي حول كيفية زيادة الإنتاجية.",
 			"Egyptian Arabic Audio": "eca-0761-5.mp3",
 			"Standard Arabic Audio": "msa-0761-5.mp3"
 		},
@@ -61,7 +61,7 @@
 			"English": "Really? This is your project?",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هل حقا؟ هذا هو مشروعك؟",
 			"Egyptian Arabic Audio": "eca-0761-6.mp3",
 			"Standard Arabic Audio": "msa-0761-6.mp3"
 		},
@@ -71,7 +71,7 @@
 			"English": "Yes. I came up with an idea, and my boss wants to see it.",
 			"Word Count": 14,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "نعم فعلا. جئت بفكرة، والرئيس يريد أن يراها.",
 			"Egyptian Arabic Audio": "eca-0761-7.mp3",
 			"Standard Arabic Audio": "msa-0761-7.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "That's awesome. Let's see it.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هذا رائع. دعونا نرى ذلك.",
 			"Egyptian Arabic Audio": "eca-0761-8.mp3",
 			"Standard Arabic Audio": "msa-0761-8.mp3"
 		},
@@ -91,7 +91,7 @@
 			"English": "Well, that's it. What do you think?",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "حسنا، هذا كل شيء. ما رأيك؟",
 			"Egyptian Arabic Audio": "eca-0761-9.mp3",
 			"Standard Arabic Audio": "msa-0761-9.mp3"
 		},
@@ -101,7 +101,7 @@
 			"English": "I really liked the graphics. I think it's a winner.",
 			"Word Count": 10,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنا حقا أحب الرسومات. أعتقد أنه الفائز.",
 			"Egyptian Arabic Audio": "eca-0761-10.mp3",
 			"Standard Arabic Audio": "msa-0761-10.mp3"
 		},
@@ -111,7 +111,7 @@
 			"English": "That's great. I am really nervous.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ذلك رائع. أنا عصبية حقا.",
 			"Egyptian Arabic Audio": "eca-0761-11.mp3",
 			"Standard Arabic Audio": "msa-0761-11.mp3"
 		},
@@ -121,7 +121,7 @@
 			"English": "Don't be. It is very professional, and it's a great idea.",
 			"Word Count": 11,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لا يكون. انها محترفة جدا، وانها فكرة عظيمة.",
 			"Egyptian Arabic Audio": "eca-0761-12.mp3",
 			"Standard Arabic Audio": "msa-0761-12.mp3"
 		}

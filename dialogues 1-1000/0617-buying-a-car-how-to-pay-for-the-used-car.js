@@ -11,7 +11,7 @@
 			"English": "I really liked this car. How much are you asking for it?",
 			"Word Count": 12,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنا حقا أحب هذه السيارة. كم كنت تسأل عن ذلك؟",
 			"Egyptian Arabic Audio": "eca-0617-1.mp3",
 			"Standard Arabic Audio": "msa-0617-1.mp3"
 		},
@@ -21,7 +21,7 @@
 			"English": "I'm asking for $2,000. It has some minor problems.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنا أطلب 2،000 دولار. لديها بعض المشاكل البسيطة.",
 			"Egyptian Arabic Audio": "eca-0617-2.mp3",
 			"Standard Arabic Audio": "msa-0617-2.mp3"
 		},
@@ -31,7 +31,7 @@
 			"English": "Yes, my mechanic told me it was a quick fix.",
 			"Word Count": 10,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "نعم، قال ميكانيكي ميكانيكي أنه كان حل سريع.",
 			"Egyptian Arabic Audio": "eca-0617-3.mp3",
 			"Standard Arabic Audio": "msa-0617-3.mp3"
 		},
@@ -41,7 +41,7 @@
 			"English": "So, you want to take the car?",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لذلك، كنت تريد أن تأخذ السيارة؟",
 			"Egyptian Arabic Audio": "eca-0617-4.mp3",
 			"Standard Arabic Audio": "msa-0617-4.mp3"
 		},
@@ -51,7 +51,7 @@
 			"English": "Yes, I could write you a check right now.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "نعم، يمكن أن أكتب لك الاختيار الآن.",
 			"Egyptian Arabic Audio": "eca-0617-5.mp3",
 			"Standard Arabic Audio": "msa-0617-5.mp3"
 		},
@@ -61,7 +61,7 @@
 			"English": "That sounds good. Could I cash it today?",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هذا يبدو جيدا. هل يمكنني صرفها اليوم؟",
 			"Egyptian Arabic Audio": "eca-0617-6.mp3",
 			"Standard Arabic Audio": "msa-0617-6.mp3"
 		},
@@ -71,7 +71,7 @@
 			"English": "Yeah, go ahead. It will clear, don't worry.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هيا الى الامام. وسوف واضحة، لا تقلق.",
 			"Egyptian Arabic Audio": "eca-0617-7.mp3",
 			"Standard Arabic Audio": "msa-0617-7.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "Didn't mean anything by it.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لا يعني أي شيء من قبل.",
 			"Egyptian Arabic Audio": "eca-0617-8.mp3",
 			"Standard Arabic Audio": "msa-0617-8.mp3"
 		},
@@ -91,7 +91,7 @@
 			"English": "No, it's cool. I know sometimes you have to wait for a check to clear.",
 			"Word Count": 15,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لا، انها باردة. وأنا أعلم في بعض الأحيان عليك أن تنتظر لشيك لمسح.",
 			"Egyptian Arabic Audio": "eca-0617-9.mp3",
 			"Standard Arabic Audio": "msa-0617-9.mp3"
 		},
@@ -101,7 +101,7 @@
 			"English": "Great. So, could you make it out to Michael Slender?",
 			"Word Count": 10,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "عظيم. لذلك، هل يمكن أن تجعل من مايكل رفيعة؟",
 			"Egyptian Arabic Audio": "eca-0617-10.mp3",
 			"Standard Arabic Audio": "msa-0617-10.mp3"
 		},
@@ -111,7 +111,7 @@
 			"English": "Sure thing. I'm going to put \"Car Payment,\" under the memo.",
 			"Word Count": 11,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "شيء مؤكد. أنا ذاهب لوضع &quot;دفع السيارة&quot;، تحت المذكرة.",
 			"Egyptian Arabic Audio": "eca-0617-11.mp3",
 			"Standard Arabic Audio": "msa-0617-11.mp3"
 		},
@@ -121,7 +121,7 @@
 			"English": "Sounds good, man. I will take care of things at the DMV tomorrow.",
 			"Word Count": 13,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يبدو جيدا، رجل. وسوف تأخذ الرعاية من الأشياء في دمف غدا.",
 			"Egyptian Arabic Audio": "eca-0617-12.mp3",
 			"Standard Arabic Audio": "msa-0617-12.mp3"
 		}

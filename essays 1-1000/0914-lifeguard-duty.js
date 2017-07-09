@@ -9,7 +9,7 @@
 			"English": "Emily loved her job.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "إميلي أحب عملها.",
 			"Egyptian Arabic Audio": "eca-0914-1.mp3",
 			"Standard Arabic Audio": "msa-0914-1.mp3"
 		},
@@ -18,7 +18,7 @@
 			"English": "She enjoyed seeing the kids having fun.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انها تتمتع رؤية الاطفال يلهون.",
 			"Egyptian Arabic Audio": "eca-0914-2.mp3",
 			"Standard Arabic Audio": "msa-0914-2.mp3"
 		},
@@ -27,7 +27,7 @@
 			"English": "It was not all hard work.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لم يكن كل عمل شاق.",
 			"Egyptian Arabic Audio": "eca-0914-3.mp3",
 			"Standard Arabic Audio": "msa-0914-3.mp3"
 		},
@@ -36,7 +36,7 @@
 			"English": "She also got to use the pool when she was not working.",
 			"Word Count": 12,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كما أنها حصلت على استخدام بركة عندما كانت لا تعمل.",
 			"Egyptian Arabic Audio": "eca-0914-4.mp3",
 			"Standard Arabic Audio": "msa-0914-4.mp3"
 		}

@@ -11,7 +11,7 @@
 			"English": "Don't wipe your nose on your sleeve.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لا تمسح أنفك على كمك.",
 			"Egyptian Arabic Audio": "eca-0292-1.mp3",
 			"Standard Arabic Audio": "msa-0292-1.mp3"
 		},
@@ -21,7 +21,7 @@
 			"English": "But I don't have a tissue.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ولكن ليس لدي نسيج.",
 			"Egyptian Arabic Audio": "eca-0292-2.mp3",
 			"Standard Arabic Audio": "msa-0292-2.mp3"
 		},
@@ -31,7 +31,7 @@
 			"English": "Then go find a tissue in the bathroom.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ثم اذهب العثور على الأنسجة في الحمام.",
 			"Egyptian Arabic Audio": "eca-0292-3.mp3",
 			"Standard Arabic Audio": "msa-0292-3.mp3"
 		},
@@ -41,7 +41,7 @@
 			"English": "I didn't have time to get one from there.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لم يكن لدي الوقت للحصول على واحد من هناك.",
 			"Egyptian Arabic Audio": "eca-0292-4.mp3",
 			"Standard Arabic Audio": "msa-0292-4.mp3"
 		},
@@ -51,7 +51,7 @@
 			"English": "Your sleeves are not tissues.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أكمامك ليست الأنسجة.",
 			"Egyptian Arabic Audio": "eca-0292-5.mp3",
 			"Standard Arabic Audio": "msa-0292-5.mp3"
 		},
@@ -61,7 +61,7 @@
 			"English": "But Mom, all my friends use their sleeves.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ولكن أمي، كل أصدقائي استخدام أكمامهم.",
 			"Egyptian Arabic Audio": "eca-0292-6.mp3",
 			"Standard Arabic Audio": "msa-0292-6.mp3"
 		},
@@ -71,7 +71,7 @@
 			"English": "That doesn't make it right.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هذا لا يجعل من الحق.",
 			"Egyptian Arabic Audio": "eca-0292-7.mp3",
 			"Standard Arabic Audio": "msa-0292-7.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "I saw Dad wipe his nose on his sleeve yesterday.",
 			"Word Count": 10,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "رأيت أبي يمسح أنفه على كمه أمس.",
 			"Egyptian Arabic Audio": "eca-0292-8.mp3",
 			"Standard Arabic Audio": "msa-0292-8.mp3"
 		},
@@ -91,7 +91,7 @@
 			"English": "I will talk to your father about that.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "سوف أتحدث مع والدك عن ذلك.",
 			"Egyptian Arabic Audio": "eca-0292-9.mp3",
 			"Standard Arabic Audio": "msa-0292-9.mp3"
 		},
@@ -101,7 +101,7 @@
 			"English": "I bet Dad did it all the time when he was my age.",
 			"Word Count": 13,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أراهن أبي فعل ذلك في كل وقت عندما كان عمري.",
 			"Egyptian Arabic Audio": "eca-0292-10.mp3",
 			"Standard Arabic Audio": "msa-0292-10.mp3"
 		},
@@ -111,7 +111,7 @@
 			"English": "Your daddy was a good little boy.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كان والدك صبي صغير.",
 			"Egyptian Arabic Audio": "eca-0292-11.mp3",
 			"Standard Arabic Audio": "msa-0292-11.mp3"
 		},
@@ -121,7 +121,7 @@
 			"English": "How do you know? Were you his mommy, too?",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كيف علمت بذلك؟ هل أنت أمه أيضا؟",
 			"Egyptian Arabic Audio": "eca-0292-12.mp3",
 			"Standard Arabic Audio": "msa-0292-12.mp3"
 		}

@@ -9,7 +9,7 @@
 			"English": "She is a maid for a rich family.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وهي خادمة لعائلة غنية.",
 			"Egyptian Arabic Audio": "eca-0561-1.mp3",
 			"Standard Arabic Audio": "msa-0561-1.mp3"
 		},
@@ -18,7 +18,7 @@
 			"English": "She does a lot of things.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انها تفعل الكثير من الأشياء.",
 			"Egyptian Arabic Audio": "eca-0561-2.mp3",
 			"Standard Arabic Audio": "msa-0561-2.mp3"
 		},
@@ -27,7 +27,7 @@
 			"English": "She does the laundry.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انها تفعل الغسيل.",
 			"Egyptian Arabic Audio": "eca-0561-3.mp3",
 			"Standard Arabic Audio": "msa-0561-3.mp3"
 		},
@@ -36,7 +36,7 @@
 			"English": "She washes the windows.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "تغسل النوافذ.",
 			"Egyptian Arabic Audio": "eca-0561-4.mp3",
 			"Standard Arabic Audio": "msa-0561-4.mp3"
 		},
@@ -45,7 +45,7 @@
 			"English": "She cooks meals.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وهي تطبخ وجبات الطعام.",
 			"Egyptian Arabic Audio": "eca-0561-5.mp3",
 			"Standard Arabic Audio": "msa-0561-5.mp3"
 		},
@@ -54,7 +54,7 @@
 			"English": "She cleans the tables.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وتنظف الجداول.",
 			"Egyptian Arabic Audio": "eca-0561-6.mp3",
 			"Standard Arabic Audio": "msa-0561-6.mp3"
 		},
@@ -63,7 +63,7 @@
 			"English": "She wipes the floors.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "تمسح الأرضيات.",
 			"Egyptian Arabic Audio": "eca-0561-7.mp3",
 			"Standard Arabic Audio": "msa-0561-7.mp3"
 		},
@@ -72,7 +72,7 @@
 			"English": "She does not like cleaning.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "إنها لا تحب التنظيف.",
 			"Egyptian Arabic Audio": "eca-0561-8.mp3",
 			"Standard Arabic Audio": "msa-0561-8.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "However, she likes taking care of the children.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ومع ذلك، وقالت انها تحب رعاية الأطفال.",
 			"Egyptian Arabic Audio": "eca-0561-9.mp3",
 			"Standard Arabic Audio": "msa-0561-9.mp3"
 		},
@@ -90,7 +90,7 @@
 			"English": "She reads to them.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يقرأ لهم.",
 			"Egyptian Arabic Audio": "eca-0561-10.mp3",
 			"Standard Arabic Audio": "msa-0561-10.mp3"
 		},
@@ -99,7 +99,7 @@
 			"English": "She picks them up from school.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انها تلتقط لهم من المدرسة.",
 			"Egyptian Arabic Audio": "eca-0561-11.mp3",
 			"Standard Arabic Audio": "msa-0561-11.mp3"
 		}

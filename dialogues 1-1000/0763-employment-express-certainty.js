@@ -11,7 +11,7 @@
 			"English": "I just read your proposal.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "قرأت فقط اقتراحكم.",
 			"Egyptian Arabic Audio": "eca-0763-1.mp3",
 			"Standard Arabic Audio": "msa-0763-1.mp3"
 		},
@@ -21,7 +21,7 @@
 			"English": "What did you think about it?",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ماذا كنت تفكر في ذلك؟",
 			"Egyptian Arabic Audio": "eca-0763-2.mp3",
 			"Standard Arabic Audio": "msa-0763-2.mp3"
 		},
@@ -31,7 +31,7 @@
 			"English": "You definitely have some good ideas.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لديك بالتأكيد بعض الأفكار الجيدة.",
 			"Egyptian Arabic Audio": "eca-0763-3.mp3",
 			"Standard Arabic Audio": "msa-0763-3.mp3"
 		},
@@ -41,7 +41,7 @@
 			"English": "Well, I worked on it very hard.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "حسنا، عملت على ذلك من الصعب جدا.",
 			"Egyptian Arabic Audio": "eca-0763-4.mp3",
 			"Standard Arabic Audio": "msa-0763-4.mp3"
 		},
@@ -51,7 +51,7 @@
 			"English": "I'm concerned about the cost, though.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنا قلق بشأن التكلفة، على الرغم من.",
 			"Egyptian Arabic Audio": "eca-0763-5.mp3",
 			"Standard Arabic Audio": "msa-0763-5.mp3"
 		},
@@ -61,7 +61,7 @@
 			"English": "I thought you might be. Here's a cost analysis I ran.",
 			"Word Count": 11,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "اعتقدت أنك قد تكون. وهنا تحليل التكاليف ركضت.",
 			"Egyptian Arabic Audio": "eca-0763-6.mp3",
 			"Standard Arabic Audio": "msa-0763-6.mp3"
 		},
@@ -71,7 +71,7 @@
 			"English": "It says here that your proposal will pay for itself in a year.",
 			"Word Count": 13,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يقول هنا أن الاقتراح الخاص بك سوف تدفع لنفسها في السنة.",
 			"Egyptian Arabic Audio": "eca-0763-7.mp3",
 			"Standard Arabic Audio": "msa-0763-7.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "That's what I put in the report.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هذا ما وضعته في التقرير.",
 			"Egyptian Arabic Audio": "eca-0763-8.mp3",
 			"Standard Arabic Audio": "msa-0763-8.mp3"
 		},
@@ -91,7 +91,7 @@
 			"English": "That's impressive. If this is true, I'm certain this can work.",
 			"Word Count": 11,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هذا مثير للإعجاب. إذا كان هذا صحيحا، وأنا متأكد من أن هذا يمكن أن تعمل.",
 			"Egyptian Arabic Audio": "eca-0763-9.mp3",
 			"Standard Arabic Audio": "msa-0763-9.mp3"
 		},
@@ -101,7 +101,7 @@
 			"English": "I'm quite sure it will work.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنا متأكد تماما أنها ستعمل.",
 			"Egyptian Arabic Audio": "eca-0763-10.mp3",
 			"Standard Arabic Audio": "msa-0763-10.mp3"
 		},
@@ -111,7 +111,7 @@
 			"English": "You have done a good job. We'll discuss this at our next meeting.",
 			"Word Count": 13,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لقد قمت بعمل جيد. سنناقش ذلك في اجتماعنا القادم.",
 			"Egyptian Arabic Audio": "eca-0763-11.mp3",
 			"Standard Arabic Audio": "msa-0763-11.mp3"
 		},
@@ -121,7 +121,7 @@
 			"English": "I appreciate your confidence in me.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنا أقدر ثقتكم في لي.",
 			"Egyptian Arabic Audio": "eca-0763-12.mp3",
 			"Standard Arabic Audio": "msa-0763-12.mp3"
 		}

@@ -11,7 +11,7 @@
 			"English": "You seem a little lost.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يبدو أنك فقدت قليلا.",
 			"Egyptian Arabic Audio": "eca-0707-1.mp3",
 			"Standard Arabic Audio": "msa-0707-1.mp3"
 		},
@@ -21,7 +21,7 @@
 			"English": "I actually am lost. How could you tell?",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنا فعلا فقدت. كيف يمكن أن تقول؟",
 			"Egyptian Arabic Audio": "eca-0707-2.mp3",
 			"Standard Arabic Audio": "msa-0707-2.mp3"
 		},
@@ -31,7 +31,7 @@
 			"English": "The look on your face said it all.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "نظرة على وجهك قال كل شيء.",
 			"Egyptian Arabic Audio": "eca-0707-3.mp3",
 			"Standard Arabic Audio": "msa-0707-3.mp3"
 		},
@@ -41,7 +41,7 @@
 			"English": "Maybe you could help me.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ربما يمكن أن تساعدني.",
 			"Egyptian Arabic Audio": "eca-0707-4.mp3",
 			"Standard Arabic Audio": "msa-0707-4.mp3"
 		},
@@ -51,7 +51,7 @@
 			"English": "I'd be happy to help.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "سأكون سعيدا للمساعدة.",
 			"Egyptian Arabic Audio": "eca-0707-5.mp3",
 			"Standard Arabic Audio": "msa-0707-5.mp3"
 		},
@@ -61,7 +61,7 @@
 			"English": "I'm not sure what bus I'm supposed to take.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنا لست متأكدا ما الحافلة أنا من المفترض أن تأخذ.",
 			"Egyptian Arabic Audio": "eca-0707-6.mp3",
 			"Standard Arabic Audio": "msa-0707-6.mp3"
 		},
@@ -71,7 +71,7 @@
 			"English": "What's your destination?",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ما هي وجهتك؟",
 			"Egyptian Arabic Audio": "eca-0707-7.mp3",
 			"Standard Arabic Audio": "msa-0707-7.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "I'm heading to Westwood.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنا متجه إلى ويستوود.",
 			"Egyptian Arabic Audio": "eca-0707-8.mp3",
 			"Standard Arabic Audio": "msa-0707-8.mp3"
 		},
@@ -91,7 +91,7 @@
 			"English": "I've been there several times by bus.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لقد كنت هناك عدة مرات بالحافلة.",
 			"Egyptian Arabic Audio": "eca-0707-9.mp3",
 			"Standard Arabic Audio": "msa-0707-9.mp3"
 		},
@@ -101,7 +101,7 @@
 			"English": "You have? What bus did you take?",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "عندك؟ ما الحافلة التي كنت تأخذ؟",
 			"Egyptian Arabic Audio": "eca-0707-10.mp3",
 			"Standard Arabic Audio": "msa-0707-10.mp3"
 		},
@@ -111,7 +111,7 @@
 			"English": "The Line 720 takes you directly there.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "خط 720 يأخذك مباشرة هناك.",
 			"Egyptian Arabic Audio": "eca-0707-11.mp3",
 			"Standard Arabic Audio": "msa-0707-11.mp3"
 		},
@@ -121,7 +121,7 @@
 			"English": "Where is the stop for that bus?",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أين هو موقف لتلك الحافلة؟",
 			"Egyptian Arabic Audio": "eca-0707-12.mp3",
 			"Standard Arabic Audio": "msa-0707-12.mp3"
 		},
@@ -131,7 +131,7 @@
 			"English": "Right at the corner over there.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "الحق في الزاوية هناك.",
 			"Egyptian Arabic Audio": "eca-0707-13.mp3",
 			"Standard Arabic Audio": "msa-0707-13.mp3"
 		},
@@ -141,7 +141,7 @@
 			"English": "Thank you very much.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "شكرا جزيلا.",
 			"Egyptian Arabic Audio": "eca-0707-14.mp3",
 			"Standard Arabic Audio": "msa-0707-14.mp3"
 		}

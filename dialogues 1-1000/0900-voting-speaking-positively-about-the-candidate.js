@@ -11,7 +11,7 @@
 			"English": "I'm really looking forward to casting my vote today.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنا أتطلع حقا إلى إجراء تصويتي اليوم.",
 			"Egyptian Arabic Audio": "eca-0900-1.mp3",
 			"Standard Arabic Audio": "msa-0900-1.mp3"
 		},
@@ -21,7 +21,7 @@
 			"English": "Oh really? Why?",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "حقا؟ لماذا ا؟",
 			"Egyptian Arabic Audio": "eca-0900-2.mp3",
 			"Standard Arabic Audio": "msa-0900-2.mp3"
 		},
@@ -31,7 +31,7 @@
 			"English": "I think my candidate will really change the way things are done in our city.",
 			"Word Count": 15,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أعتقد أن المرشح سيغير حقا الطريقة التي يتم بها الأمور في مدينتنا.",
 			"Egyptian Arabic Audio": "eca-0900-3.mp3",
 			"Standard Arabic Audio": "msa-0900-3.mp3"
 		},
@@ -41,7 +41,7 @@
 			"English": "How is that?",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كيف هذا؟",
 			"Egyptian Arabic Audio": "eca-0900-4.mp3",
 			"Standard Arabic Audio": "msa-0900-4.mp3"
 		},
@@ -51,7 +51,7 @@
 			"English": "Her education policy will help all students.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وستساعد سياستها التعليمية جميع الطلاب.",
 			"Egyptian Arabic Audio": "eca-0900-5.mp3",
 			"Standard Arabic Audio": "msa-0900-5.mp3"
 		},
@@ -61,7 +61,7 @@
 			"English": "I'll have to review her policy plan before I vote.",
 			"Word Count": 10,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وسأضطر إلى مراجعة خطة سياستها قبل أن أصوت.",
 			"Egyptian Arabic Audio": "eca-0900-6.mp3",
 			"Standard Arabic Audio": "msa-0900-6.mp3"
 		},
@@ -71,7 +71,7 @@
 			"English": "You really should. You're a parent.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يجب حقا. أنت أحد الوالدين.",
 			"Egyptian Arabic Audio": "eca-0900-7.mp3",
 			"Standard Arabic Audio": "msa-0900-7.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "What else do you like about the candidate?",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ماذا تحب عن المرشح؟",
 			"Egyptian Arabic Audio": "eca-0900-8.mp3",
 			"Standard Arabic Audio": "msa-0900-8.mp3"
 		},
@@ -91,7 +91,7 @@
 			"English": "Her economic policy will lower the unemployment rate in the city.",
 			"Word Count": 11,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وستخفض سياستها الاقتصادية معدل البطالة في المدينة.",
 			"Egyptian Arabic Audio": "eca-0900-9.mp3",
 			"Standard Arabic Audio": "msa-0900-9.mp3"
 		},
@@ -101,7 +101,7 @@
 			"English": "I've been unemployed for a while.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لقد كنت عاطلا عن العمل لفترة من الوقت.",
 			"Egyptian Arabic Audio": "eca-0900-10.mp3",
 			"Standard Arabic Audio": "msa-0900-10.mp3"
 		},
@@ -111,7 +111,7 @@
 			"English": "Then you should vote for her.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ثم يجب عليك التصويت لها.",
 			"Egyptian Arabic Audio": "eca-0900-11.mp3",
 			"Standard Arabic Audio": "msa-0900-11.mp3"
 		},
@@ -121,7 +121,7 @@
 			"English": "I'll read up on her positions.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "سأقرأ على مواقفها.",
 			"Egyptian Arabic Audio": "eca-0900-12.mp3",
 			"Standard Arabic Audio": "msa-0900-12.mp3"
 		}

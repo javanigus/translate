@@ -11,7 +11,7 @@
 			"English": "I have decided not to transfer.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لقد قررت عدم نقل.",
 			"Egyptian Arabic Audio": "eca-0576-1.mp3",
 			"Standard Arabic Audio": "msa-0576-1.mp3"
 		},
@@ -21,7 +21,7 @@
 			"English": "Why not? You kept saying you wanted to.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لما لا؟ كنت أبقى قائلا أردت.",
 			"Egyptian Arabic Audio": "eca-0576-2.mp3",
 			"Standard Arabic Audio": "msa-0576-2.mp3"
 		},
@@ -31,7 +31,7 @@
 			"English": "I know, but it's so hard getting accustomed to a new school.",
 			"Word Count": 12,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وأنا أعلم، ولكن من الصعب جدا الحصول على اعتادوا على مدرسة جديدة.",
 			"Egyptian Arabic Audio": "eca-0576-3.mp3",
 			"Standard Arabic Audio": "msa-0576-3.mp3"
 		},
@@ -41,7 +41,7 @@
 			"English": "That's a terrible reason not to transfer.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هذا سبب رهيبة لعدم نقل.",
 			"Egyptian Arabic Audio": "eca-0576-4.mp3",
 			"Standard Arabic Audio": "msa-0576-4.mp3"
 		},
@@ -51,7 +51,7 @@
 			"English": "No, it's a good one. I feel at home here.",
 			"Word Count": 10,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لا، انها جيدة. أشعر أنني في بيتي هنا.",
 			"Egyptian Arabic Audio": "eca-0576-5.mp3",
 			"Standard Arabic Audio": "msa-0576-5.mp3"
 		},
@@ -61,7 +61,7 @@
 			"English": "Sometimes, a new environment is necessary.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "في بعض الأحيان، بيئة جديدة ضرورية.",
 			"Egyptian Arabic Audio": "eca-0576-6.mp3",
 			"Standard Arabic Audio": "msa-0576-6.mp3"
 		},
@@ -71,7 +71,7 @@
 			"English": "No, I really like it here. Also, I know what to expect.",
 			"Word Count": 12,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لا، أنا حقا أحب ذلك هنا. أيضا، وأنا أعلم ما يمكن توقعه.",
 			"Egyptian Arabic Audio": "eca-0576-7.mp3",
 			"Standard Arabic Audio": "msa-0576-7.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "I still think you're making the wrong choice.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ما زلت أعتقد أنك جعل الخيار الخاطئ.",
 			"Egyptian Arabic Audio": "eca-0576-8.mp3",
 			"Standard Arabic Audio": "msa-0576-8.mp3"
 		},
@@ -91,7 +91,7 @@
 			"English": "Why do you want me to go?",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لماذا تريد مني أن أذهب؟",
 			"Egyptian Arabic Audio": "eca-0576-9.mp3",
 			"Standard Arabic Audio": "msa-0576-9.mp3"
 		},
@@ -101,7 +101,7 @@
 			"English": "I just think this school isn't right for you.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنا فقط أعتقد أن هذه المدرسة ليست مناسبة لك.",
 			"Egyptian Arabic Audio": "eca-0576-10.mp3",
 			"Standard Arabic Audio": "msa-0576-10.mp3"
 		},
@@ -111,7 +111,7 @@
 			"English": "That's not for you to decide.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هذا ليس لك أن تقرر.",
 			"Egyptian Arabic Audio": "eca-0576-11.mp3",
 			"Standard Arabic Audio": "msa-0576-11.mp3"
 		},
@@ -121,7 +121,7 @@
 			"English": "I know, but I'm just stating my opinion.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وأنا أعلم، ولكن أنا فقط أقول رأيي.",
 			"Egyptian Arabic Audio": "eca-0576-12.mp3",
 			"Standard Arabic Audio": "msa-0576-12.mp3"
 		}

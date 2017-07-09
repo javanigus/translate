@@ -9,7 +9,7 @@
 			"English": "She looks for the TV remote.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انها تبحث عن جهاز التحكم عن بعد التلفزيون.",
 			"Egyptian Arabic Audio": "eca-1064-1.mp3",
 			"Standard Arabic Audio": "msa-1064-1.mp3"
 		},
@@ -18,7 +18,7 @@
 			"English": "She looks under the cushions.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انها تبدو تحت وسائد.",
 			"Egyptian Arabic Audio": "eca-1064-2.mp3",
 			"Standard Arabic Audio": "msa-1064-2.mp3"
 		},
@@ -27,7 +27,7 @@
 			"English": "She looks under the sofa.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انها تبدو تحت الأريكة.",
 			"Egyptian Arabic Audio": "eca-1064-3.mp3",
 			"Standard Arabic Audio": "msa-1064-3.mp3"
 		},
@@ -36,7 +36,7 @@
 			"English": "She looks around the living room.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انها تنظر حول غرفة المعيشة.",
 			"Egyptian Arabic Audio": "eca-1064-4.mp3",
 			"Standard Arabic Audio": "msa-1064-4.mp3"
 		},
@@ -45,7 +45,7 @@
 			"English": "She looks on the dining room table.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انها تبدو على طاولة غرفة الطعام.",
 			"Egyptian Arabic Audio": "eca-1064-5.mp3",
 			"Standard Arabic Audio": "msa-1064-5.mp3"
 		},
@@ -54,7 +54,7 @@
 			"English": "She goes to the kitchen.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "تذهب إلى المطبخ.",
 			"Egyptian Arabic Audio": "eca-1064-6.mp3",
 			"Standard Arabic Audio": "msa-1064-6.mp3"
 		},
@@ -63,7 +63,7 @@
 			"English": "She sees the remote.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ترى جهاز التحكم عن بعد.",
 			"Egyptian Arabic Audio": "eca-1064-7.mp3",
 			"Standard Arabic Audio": "msa-1064-7.mp3"
 		},
@@ -72,7 +72,7 @@
 			"English": "It is on the kitchen counter.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هو على عداد المطبخ.",
 			"Egyptian Arabic Audio": "eca-1064-8.mp3",
 			"Standard Arabic Audio": "msa-1064-8.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "She picks it up.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وقالت انها يختار الامر.",
 			"Egyptian Arabic Audio": "eca-1064-9.mp3",
 			"Standard Arabic Audio": "msa-1064-9.mp3"
 		},
@@ -90,7 +90,7 @@
 			"English": "She goes back to the living room.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "تعود إلى غرفة المعيشة.",
 			"Egyptian Arabic Audio": "eca-1064-10.mp3",
 			"Standard Arabic Audio": "msa-1064-10.mp3"
 		}

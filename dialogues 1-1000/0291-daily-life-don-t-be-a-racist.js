@@ -11,7 +11,7 @@
 			"English": "The police need our help finding a robber.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "الشرطة بحاجة لمساعدتنا في العثور على السارق.",
 			"Egyptian Arabic Audio": "eca-0291-1.mp3",
 			"Standard Arabic Audio": "msa-0291-1.mp3"
 		},
@@ -21,7 +21,7 @@
 			"English": "How do you know?",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كيف علمت بذلك؟",
 			"Egyptian Arabic Audio": "eca-0291-2.mp3",
 			"Standard Arabic Audio": "msa-0291-2.mp3"
 		},
@@ -31,7 +31,7 @@
 			"English": "The TV news is reporting a bank robbery.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "الأخبار التلفزيونية هو الإبلاغ عن سرقة البنك.",
 			"Egyptian Arabic Audio": "eca-0291-3.mp3",
 			"Standard Arabic Audio": "msa-0291-3.mp3"
 		},
@@ -41,7 +41,7 @@
 			"English": "Do they know what the robber looks like?",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هل يعرفون ما يبدو السارق؟",
 			"Egyptian Arabic Audio": "eca-0291-4.mp3",
 			"Standard Arabic Audio": "msa-0291-4.mp3"
 		},
@@ -51,7 +51,7 @@
 			"English": "Yes, he's 6 feet tall, 200 pounds, black hair, and about 30 years old.",
 			"Word Count": 14,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "نعم، انه 6 أقدام، 200 جنيه، الشعر الأسود، وحوالي 30 سنة.",
 			"Egyptian Arabic Audio": "eca-0291-5.mp3",
 			"Standard Arabic Audio": "msa-0291-5.mp3"
 		},
@@ -61,7 +61,7 @@
 			"English": "What race is he?",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ما السباق هو؟",
 			"Egyptian Arabic Audio": "eca-0291-6.mp3",
 			"Standard Arabic Audio": "msa-0291-6.mp3"
 		},
@@ -71,7 +71,7 @@
 			"English": "They didn't say.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لم يقلوا.",
 			"Egyptian Arabic Audio": "eca-0291-7.mp3",
 			"Standard Arabic Audio": "msa-0291-7.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "The TV news doesn't tell us the race anymore.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "الأخبار التلفزيونية لا يقول لنا السباق بعد الآن.",
 			"Egyptian Arabic Audio": "eca-0291-8.mp3",
 			"Standard Arabic Audio": "msa-0291-8.mp3"
 		},
@@ -91,7 +91,7 @@
 			"English": "Of course not. That would be racist.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "بالطبع لا. وسيكون ذلك عنصريا.",
 			"Egyptian Arabic Audio": "eca-0291-9.mp3",
 			"Standard Arabic Audio": "msa-0291-9.mp3"
 		},
@@ -101,7 +101,7 @@
 			"English": "But how can we identify someone if we don't know their race?",
 			"Word Count": 12,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ولكن كيف يمكننا تحديد شخص ما إذا كنا لا نعرف عرقهم؟",
 			"Egyptian Arabic Audio": "eca-0291-10.mp3",
 			"Standard Arabic Audio": "msa-0291-10.mp3"
 		},
@@ -111,7 +111,7 @@
 			"English": "Don't ask me.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لا تسألني.",
 			"Egyptian Arabic Audio": "eca-0291-11.mp3",
 			"Standard Arabic Audio": "msa-0291-11.mp3"
 		},
@@ -121,7 +121,7 @@
 			"English": "Then they also shouldn't tell us if the robber is male or female, because that is sexist.",
 			"Word Count": 17,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ثم لا ينبغي لهم أيضا أن يخبرونا إذا كان السارق ذكرا أو أنثى، لأن هذا هو التحيز الجنسي.",
 			"Egyptian Arabic Audio": "eca-0291-12.mp3",
 			"Standard Arabic Audio": "msa-0291-12.mp3"
 		}

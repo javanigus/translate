@@ -9,7 +9,7 @@
 			"English": "When she went out to the bakery, Mike was in the apartment napping on the couch.",
 			"Word Count": 16,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "عندما خرجت إلى المخبز، كان مايك في قيلولة الشقة على الأريكة.",
 			"Egyptian Arabic Audio": "eca-1743-1.mp3",
 			"Standard Arabic Audio": "msa-1743-1.mp3"
 		},
@@ -18,7 +18,7 @@
 			"English": "She sneaked towards the front door, hoping not to wake Mike up.",
 			"Word Count": 12,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "تسللت نحو الباب الأمامي، على أمل ألا يستيقظ مايك.",
 			"Egyptian Arabic Audio": "eca-1743-2.mp3",
 			"Standard Arabic Audio": "msa-1743-2.mp3"
 		},
@@ -27,7 +27,7 @@
 			"English": "As soon as Maria opened the door, Mike awoke from his sleep.",
 			"Word Count": 12,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وبمجرد أن فتحت ماريا الباب، استيقظ مايك من نومه.",
 			"Egyptian Arabic Audio": "eca-1743-3.mp3",
 			"Standard Arabic Audio": "msa-1743-3.mp3"
 		}

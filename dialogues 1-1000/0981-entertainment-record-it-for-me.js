@@ -11,7 +11,7 @@
 			"English": "Can you record the new episode of Clarence for me?",
 			"Word Count": 10,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يمكنك تسجيل حلقة جديدة من كلارنس بالنسبة لي؟",
 			"Egyptian Arabic Audio": "eca-0981-1.mp3",
 			"Standard Arabic Audio": "msa-0981-1.mp3"
 		},
@@ -21,7 +21,7 @@
 			"English": "Why don't you watch it yourself?",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لماذا لا تشاهده بنفسك؟",
 			"Egyptian Arabic Audio": "eca-0981-2.mp3",
 			"Standard Arabic Audio": "msa-0981-2.mp3"
 		},
@@ -31,7 +31,7 @@
 			"English": "I won't be home that day and my Internet is down.",
 			"Word Count": 11,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنا لن يكون المنزل في ذلك اليوم، وشبكة الإنترنت هو أسفل.",
 			"Egyptian Arabic Audio": "eca-0981-3.mp3",
 			"Standard Arabic Audio": "msa-0981-3.mp3"
 		},
@@ -41,7 +41,7 @@
 			"English": "Okay, I'll record it since I know it's your favorite show.",
 			"Word Count": 11,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "حسنا، سوف يسجل ذلك لأنني أعلم أنه عرض المفضلة لديك.",
 			"Egyptian Arabic Audio": "eca-0981-4.mp3",
 			"Standard Arabic Audio": "msa-0981-4.mp3"
 		},
@@ -51,7 +51,7 @@
 			"English": "Thank you in advance!",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "شكرا لكم مقدما!",
 			"Egyptian Arabic Audio": "eca-0981-5.mp3",
 			"Standard Arabic Audio": "msa-0981-5.mp3"
 		},
@@ -61,7 +61,7 @@
 			"English": "It may be a good chance to watch it myself, actually.",
 			"Word Count": 11,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "قد تكون فرصة جيدة لمشاهدته بنفسي، في الواقع.",
 			"Egyptian Arabic Audio": "eca-0981-6.mp3",
 			"Standard Arabic Audio": "msa-0981-6.mp3"
 		},
@@ -71,7 +71,7 @@
 			"English": "I really recommend it! It's cute and funny.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنا حقا أوصي به! انها لطيف ومضحك.",
 			"Egyptian Arabic Audio": "eca-0981-7.mp3",
 			"Standard Arabic Audio": "msa-0981-7.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "Have you watched the shows I recommended to you?",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هل شاهدت العروض التي أوصيت بها؟",
 			"Egyptian Arabic Audio": "eca-0981-8.mp3",
 			"Standard Arabic Audio": "msa-0981-8.mp3"
 		},
@@ -91,7 +91,7 @@
 			"English": "No, but I will once my Internet works again.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لا، لكنني سأعمل مرة أخرى على الإنترنت.",
 			"Egyptian Arabic Audio": "eca-0981-9.mp3",
 			"Standard Arabic Audio": "msa-0981-9.mp3"
 		},
@@ -101,7 +101,7 @@
 			"English": "We can have a day that we get together to watch TV shows.",
 			"Word Count": 13,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يمكن أن يكون لدينا يوم أن نجتمع معا لمشاهدة البرامج التلفزيونية.",
 			"Egyptian Arabic Audio": "eca-0981-10.mp3",
 			"Standard Arabic Audio": "msa-0981-10.mp3"
 		},
@@ -111,7 +111,7 @@
 			"English": "That sounds like a lot of fun!",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هذا يبدو وكأنه الكثير من المرح!",
 			"Egyptian Arabic Audio": "eca-0981-11.mp3",
 			"Standard Arabic Audio": "msa-0981-11.mp3"
 		},
@@ -121,7 +121,7 @@
 			"English": "It's a plan, then!",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انها خطة، ثم!",
 			"Egyptian Arabic Audio": "eca-0981-12.mp3",
 			"Standard Arabic Audio": "msa-0981-12.mp3"
 		}

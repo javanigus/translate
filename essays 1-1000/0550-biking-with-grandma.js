@@ -9,7 +9,7 @@
 			"English": "Lisa and her grandma go to the beach.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ليزا وجدتها تذهب إلى الشاطئ.",
 			"Egyptian Arabic Audio": "eca-0550-1.mp3",
 			"Standard Arabic Audio": "msa-0550-1.mp3"
 		},
@@ -18,7 +18,7 @@
 			"English": "They ride their bikes.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يركبون دراجاتهم.",
 			"Egyptian Arabic Audio": "eca-0550-2.mp3",
 			"Standard Arabic Audio": "msa-0550-2.mp3"
 		},
@@ -27,7 +27,7 @@
 			"English": "Grandma still rides like a young girl.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "الجدة لا تزال ركوب الخيل مثل فتاة شابة.",
 			"Egyptian Arabic Audio": "eca-0550-3.mp3",
 			"Standard Arabic Audio": "msa-0550-3.mp3"
 		},
@@ -36,7 +36,7 @@
 			"English": "She is very fast.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انها سريعة جدا.",
 			"Egyptian Arabic Audio": "eca-0550-4.mp3",
 			"Standard Arabic Audio": "msa-0550-4.mp3"
 		},
@@ -45,7 +45,7 @@
 			"English": "Lisa is slow, but she is willing to practice.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ليزا بطيئة، لكنها مستعدة لممارسة.",
 			"Egyptian Arabic Audio": "eca-0550-5.mp3",
 			"Standard Arabic Audio": "msa-0550-5.mp3"
 		},
@@ -54,7 +54,7 @@
 			"English": "The two ride their bikes for four hours.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "اثنين ركوب الدراجات لمدة أربع ساعات.",
 			"Egyptian Arabic Audio": "eca-0550-6.mp3",
 			"Standard Arabic Audio": "msa-0550-6.mp3"
 		},
@@ -63,7 +63,7 @@
 			"English": "They decide to relax.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يقررون الاسترخاء.",
 			"Egyptian Arabic Audio": "eca-0550-7.mp3",
 			"Standard Arabic Audio": "msa-0550-7.mp3"
 		},
@@ -72,7 +72,7 @@
 			"English": "Lisa gives her grandma a hug.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ليزا يعطي جدتها عناق.",
 			"Egyptian Arabic Audio": "eca-0550-8.mp3",
 			"Standard Arabic Audio": "msa-0550-8.mp3"
 		}

@@ -11,7 +11,7 @@
 			"English": "Are you going to camp this summer?",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنت ذاهب إلى مخيم هذا الصيف؟",
 			"Egyptian Arabic Audio": "eca-0184-1.mp3",
 			"Standard Arabic Audio": "msa-0184-1.mp3"
 		},
@@ -21,7 +21,7 @@
 			"English": "I don't think so.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لا أعتقد ذلك.",
 			"Egyptian Arabic Audio": "eca-0184-2.mp3",
 			"Standard Arabic Audio": "msa-0184-2.mp3"
 		},
@@ -31,7 +31,7 @@
 			"English": "Why not?",
 			"Word Count": 2,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لما لا؟",
 			"Egyptian Arabic Audio": "eca-0184-3.mp3",
 			"Standard Arabic Audio": "msa-0184-3.mp3"
 		},
@@ -41,7 +41,7 @@
 			"English": "I'm kind of traumatized from last year.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنا نوع من صدمة من العام الماضي.",
 			"Egyptian Arabic Audio": "eca-0184-4.mp3",
 			"Standard Arabic Audio": "msa-0184-4.mp3"
 		},
@@ -51,7 +51,7 @@
 			"English": "What happened last year?",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ماذا حدث في العام الماضي؟",
 			"Egyptian Arabic Audio": "eca-0184-5.mp3",
 			"Standard Arabic Audio": "msa-0184-5.mp3"
 		},
@@ -61,7 +61,7 @@
 			"English": "I got a cramp while swimming and almost drowned.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "حصلت على تشنجات أثناء السباحة وغرق تقريبا.",
 			"Egyptian Arabic Audio": "eca-0184-6.mp3",
 			"Standard Arabic Audio": "msa-0184-6.mp3"
 		},
@@ -71,7 +71,7 @@
 			"English": "I thought you took swimming lessons last semester.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "اعتقدت أنك أخذت دروس السباحة الفصل الدراسي الماضي.",
 			"Egyptian Arabic Audio": "eca-0184-7.mp3",
 			"Standard Arabic Audio": "msa-0184-7.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "I did, but I'm still afraid. Anything could happen.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "فعلت، ولكن ما زلت أخاف. أي شيء يمكن أن يحدث.",
 			"Egyptian Arabic Audio": "eca-0184-8.mp3",
 			"Standard Arabic Audio": "msa-0184-8.mp3"
 		},
@@ -91,7 +91,7 @@
 			"English": "You just have to trust in your abilities.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "عليك فقط أن تثق في قدراتك.",
 			"Egyptian Arabic Audio": "eca-0184-9.mp3",
 			"Standard Arabic Audio": "msa-0184-9.mp3"
 		},
@@ -101,7 +101,7 @@
 			"English": "Do you really think I'll be okay?",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هل تعتقد حقا أنني سوف تكون بخير؟",
 			"Egyptian Arabic Audio": "eca-0184-10.mp3",
 			"Standard Arabic Audio": "msa-0184-10.mp3"
 		},
@@ -111,7 +111,7 @@
 			"English": "I know you will. You swim like a fish now!",
 			"Word Count": 10,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انا اعلم انك ستفعل. يمكنك السباحة مثل سمكة الآن!",
 			"Egyptian Arabic Audio": "eca-0184-11.mp3",
 			"Standard Arabic Audio": "msa-0184-11.mp3"
 		},
@@ -121,7 +121,7 @@
 			"English": "Thanks for your encouragement. I think I will go, after all!",
 			"Word Count": 11,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "شكرا لتشجيعكم. أعتقد أنني سوف تذهب، بعد كل شيء!",
 			"Egyptian Arabic Audio": "eca-0184-12.mp3",
 			"Standard Arabic Audio": "msa-0184-12.mp3"
 		}

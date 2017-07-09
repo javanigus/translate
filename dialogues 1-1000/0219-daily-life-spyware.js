@@ -11,7 +11,7 @@
 			"English": "My computer won't turn on.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لن يتم تشغيل جهاز الكمبيوتر.",
 			"Egyptian Arabic Audio": "eca-0219-1.mp3",
 			"Standard Arabic Audio": "msa-0219-1.mp3"
 		},
@@ -21,7 +21,7 @@
 			"English": "Did you charge the battery?",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هل قمت بشحن البطارية؟",
 			"Egyptian Arabic Audio": "eca-0219-2.mp3",
 			"Standard Arabic Audio": "msa-0219-2.mp3"
 		},
@@ -31,7 +31,7 @@
 			"English": "Yes, I charged it all night.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "نعم، أنا اتهم كل ليلة.",
 			"Egyptian Arabic Audio": "eca-0219-3.mp3",
 			"Standard Arabic Audio": "msa-0219-3.mp3"
 		},
@@ -41,7 +41,7 @@
 			"English": "Have you dropped it recently?",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هل أسقطته مؤخرا؟",
 			"Egyptian Arabic Audio": "eca-0219-4.mp3",
 			"Standard Arabic Audio": "msa-0219-4.mp3"
 		},
@@ -51,7 +51,7 @@
 			"English": "No, I've never dropped it.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لا، لم أسقطه قط.",
 			"Egyptian Arabic Audio": "eca-0219-5.mp3",
 			"Standard Arabic Audio": "msa-0219-5.mp3"
 		},
@@ -61,7 +61,7 @@
 			"English": "Maybe it has a virus.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ربما كان لديه فيروس.",
 			"Egyptian Arabic Audio": "eca-0219-6.mp3",
 			"Standard Arabic Audio": "msa-0219-6.mp3"
 		},
@@ -71,7 +71,7 @@
 			"English": "You mean maybe it's sick?",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "تقصد ربما انها مريضة؟",
 			"Egyptian Arabic Audio": "eca-0219-7.mp3",
 			"Standard Arabic Audio": "msa-0219-7.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "No, you may have downloaded spyware.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لا، قد تكون قد قمت بتنزيل برامج التجسس.",
 			"Egyptian Arabic Audio": "eca-0219-8.mp3",
 			"Standard Arabic Audio": "msa-0219-8.mp3"
 		},
@@ -91,7 +91,7 @@
 			"English": "Do you think I need a new computer?",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هل تعتقد أنني بحاجة إلى جهاز كمبيوتر جديد؟",
 			"Egyptian Arabic Audio": "eca-0219-9.mp3",
 			"Standard Arabic Audio": "msa-0219-9.mp3"
 		},
@@ -101,7 +101,7 @@
 			"English": "Probably, and some spyware protection, too.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ربما، وبعض الحماية من برامج التجسس، أيضا.",
 			"Egyptian Arabic Audio": "eca-0219-10.mp3",
 			"Standard Arabic Audio": "msa-0219-10.mp3"
 		},
@@ -111,7 +111,7 @@
 			"English": "I bet it was the government spying on me!",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أراهن أن الحكومة كانت تجسس علي!",
 			"Egyptian Arabic Audio": "eca-0219-11.mp3",
 			"Standard Arabic Audio": "msa-0219-11.mp3"
 		},
@@ -121,7 +121,7 @@
 			"English": "I really doubt you're worth spying on.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أشك حقا أنك تستحق التجسس على.",
 			"Egyptian Arabic Audio": "eca-0219-12.mp3",
 			"Standard Arabic Audio": "msa-0219-12.mp3"
 		}

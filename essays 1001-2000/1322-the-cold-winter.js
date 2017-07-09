@@ -9,7 +9,7 @@
 			"English": "It is winter.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "إنه الشتاء.",
 			"Egyptian Arabic Audio": "eca-1322-1.mp3",
 			"Standard Arabic Audio": "msa-1322-1.mp3"
 		},
@@ -18,7 +18,7 @@
 			"English": "The sky is usually gray.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "السماء عادة ما تكون رمادية.",
 			"Egyptian Arabic Audio": "eca-1322-2.mp3",
 			"Standard Arabic Audio": "msa-1322-2.mp3"
 		},
@@ -27,7 +27,7 @@
 			"English": "The sun is not big.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "الشمس ليست كبيرة.",
 			"Egyptian Arabic Audio": "eca-1322-3.mp3",
 			"Standard Arabic Audio": "msa-1322-3.mp3"
 		},
@@ -36,7 +36,7 @@
 			"English": "The sun is not warm.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "الشمس ليست دافئة.",
 			"Egyptian Arabic Audio": "eca-1322-4.mp3",
 			"Standard Arabic Audio": "msa-1322-4.mp3"
 		},
@@ -45,7 +45,7 @@
 			"English": "The sun is never high in the sky.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "الشمس ليست أبدا عالية في السماء.",
 			"Egyptian Arabic Audio": "eca-1322-5.mp3",
 			"Standard Arabic Audio": "msa-1322-5.mp3"
 		},
@@ -54,7 +54,7 @@
 			"English": "It's always low in the sky.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انها دائما منخفضة في السماء.",
 			"Egyptian Arabic Audio": "eca-1322-6.mp3",
 			"Standard Arabic Audio": "msa-1322-6.mp3"
 		},
@@ -63,7 +63,7 @@
 			"English": "The shadows are long.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "الظلال طويلة.",
 			"Egyptian Arabic Audio": "eca-1322-7.mp3",
 			"Standard Arabic Audio": "msa-1322-7.mp3"
 		},
@@ -72,7 +72,7 @@
 			"English": "In the morning they are long.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "في الصباح أنها طويلة.",
 			"Egyptian Arabic Audio": "eca-1322-8.mp3",
 			"Standard Arabic Audio": "msa-1322-8.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "In the afternoon they are long.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "في فترة ما بعد الظهر أنها طويلة.",
 			"Egyptian Arabic Audio": "eca-1322-9.mp3",
 			"Standard Arabic Audio": "msa-1322-9.mp3"
 		},
@@ -90,7 +90,7 @@
 			"English": "The shadows are cold.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "الظلال باردة.",
 			"Egyptian Arabic Audio": "eca-1322-10.mp3",
 			"Standard Arabic Audio": "msa-1322-10.mp3"
 		},
@@ -99,7 +99,7 @@
 			"English": "The wind blows.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "تهب الرياح.",
 			"Egyptian Arabic Audio": "eca-1322-11.mp3",
 			"Standard Arabic Audio": "msa-1322-11.mp3"
 		},
@@ -108,7 +108,7 @@
 			"English": "The wind blows almost every day.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "تهب الرياح كل يوم تقريبا.",
 			"Egyptian Arabic Audio": "eca-1322-12.mp3",
 			"Standard Arabic Audio": "msa-1322-12.mp3"
 		},
@@ -117,7 +117,7 @@
 			"English": "Sometimes it is a strong wind.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "في بعض الأحيان هو رياح قوية.",
 			"Egyptian Arabic Audio": "eca-1322-13.mp3",
 			"Standard Arabic Audio": "msa-1322-13.mp3"
 		},
@@ -126,7 +126,7 @@
 			"English": "Paper blows everywhere.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ضربات ورقة في كل مكان.",
 			"Egyptian Arabic Audio": "eca-1322-14.mp3",
 			"Standard Arabic Audio": "msa-1322-14.mp3"
 		},
@@ -135,7 +135,7 @@
 			"English": "It is always a cold wind.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هو دائما رياح باردة.",
 			"Egyptian Arabic Audio": "eca-1322-15.mp3",
 			"Standard Arabic Audio": "msa-1322-15.mp3"
 		},
@@ -144,7 +144,7 @@
 			"English": "People wear heavy jackets.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "الناس ارتداء السترات الثقيلة.",
 			"Egyptian Arabic Audio": "eca-1322-16.mp3",
 			"Standard Arabic Audio": "msa-1322-16.mp3"
 		},
@@ -153,7 +153,7 @@
 			"English": "People stand with their hands in their pockets.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يقف الناس مع أيديهم في جيوبهم.",
 			"Egyptian Arabic Audio": "eca-1322-17.mp3",
 			"Standard Arabic Audio": "msa-1322-17.mp3"
 		},
@@ -162,7 +162,7 @@
 			"English": "People blow on their hands to keep their hands warm.",
 			"Word Count": 10,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "الناس ضربة على أيديهم للحفاظ على أيديهم الدافئة.",
 			"Egyptian Arabic Audio": "eca-1322-18.mp3",
 			"Standard Arabic Audio": "msa-1322-18.mp3"
 		},
@@ -171,7 +171,7 @@
 			"English": "You can see people's warm breath.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يمكنك ان ترى التنفس الدافئ للناس.",
 			"Egyptian Arabic Audio": "eca-1322-19.mp3",
 			"Standard Arabic Audio": "msa-1322-19.mp3"
 		},
@@ -180,7 +180,7 @@
 			"English": "When they breathe, you can see their warm breath.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "عندما يتنفسون، يمكنك أن ترى أنفاسهم الدافئ.",
 			"Egyptian Arabic Audio": "eca-1322-20.mp3",
 			"Standard Arabic Audio": "msa-1322-20.mp3"
 		},
@@ -189,7 +189,7 @@
 			"English": "Their breath is like steam from a teapot.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنفاسهم مثل البخار من إبريق الشاي.",
 			"Egyptian Arabic Audio": "eca-1322-21.mp3",
 			"Standard Arabic Audio": "msa-1322-21.mp3"
 		},
@@ -198,7 +198,7 @@
 			"English": "Everyone is cold in the winter.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "الجميع بارد في فصل الشتاء.",
 			"Egyptian Arabic Audio": "eca-1322-22.mp3",
 			"Standard Arabic Audio": "msa-1322-22.mp3"
 		}

@@ -11,7 +11,7 @@
 			"English": "Did you water the plants?",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هل قمت بتصريف النباتات؟",
 			"Egyptian Arabic Audio": "eca-0804-1.mp3",
 			"Standard Arabic Audio": "msa-0804-1.mp3"
 		},
@@ -21,7 +21,7 @@
 			"English": "I did this morning.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "فعلت هذا الصباح.",
 			"Egyptian Arabic Audio": "eca-0804-2.mp3",
 			"Standard Arabic Audio": "msa-0804-2.mp3"
 		},
@@ -31,7 +31,7 @@
 			"English": "It doesn't look like you did.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انها لا تبدو كما فعلت.",
 			"Egyptian Arabic Audio": "eca-0804-3.mp3",
 			"Standard Arabic Audio": "msa-0804-3.mp3"
 		},
@@ -41,7 +41,7 @@
 			"English": "Well, I did. Are you calling me a liar?",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "حسنا فعلت. هل تتصل بي كذاب؟",
 			"Egyptian Arabic Audio": "eca-0804-4.mp3",
 			"Standard Arabic Audio": "msa-0804-4.mp3"
 		},
@@ -51,7 +51,7 @@
 			"English": "No. It's just I know sometimes you can be a little lazy.",
 			"Word Count": 12,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لا. أنا فقط أعرف أحيانا يمكنك أن تكون كسول قليلا.",
 			"Egyptian Arabic Audio": "eca-0804-5.mp3",
 			"Standard Arabic Audio": "msa-0804-5.mp3"
 		},
@@ -61,7 +61,7 @@
 			"English": "Is this how you normally speak to people you are in a relationship with?",
 			"Word Count": 14,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هل هذه هي الطريقة التي تتحدث بها عادة إلى الأشخاص الذين تربطهم علاقة؟",
 			"Egyptian Arabic Audio": "eca-0804-6.mp3",
 			"Standard Arabic Audio": "msa-0804-6.mp3"
 		},
@@ -71,7 +71,7 @@
 			"English": "This is how I speak to people who are not doing what they are supposed to do.",
 			"Word Count": 17,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هكذا أتحدث إلى الناس الذين لا يفعلون ما يفترض أن يفعلوه.",
 			"Egyptian Arabic Audio": "eca-0804-7.mp3",
 			"Standard Arabic Audio": "msa-0804-7.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "Wow! I am really hurt by how you are talking to me.",
 			"Word Count": 12,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "نجاح باهر أنا أصيب حقا كيف كنت تتحدث معي.",
 			"Egyptian Arabic Audio": "eca-0804-8.mp3",
 			"Standard Arabic Audio": "msa-0804-8.mp3"
 		},
@@ -91,7 +91,7 @@
 			"English": "Maybe you are feeling guilty.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ربما كنت تشعر بالذنب.",
 			"Egyptian Arabic Audio": "eca-0804-9.mp3",
 			"Standard Arabic Audio": "msa-0804-9.mp3"
 		},
@@ -101,7 +101,7 @@
 			"English": "No. I'm feeling like I made a mistake.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لا، أنا أشعر بأنني ارتكبت خطأ.",
 			"Egyptian Arabic Audio": "eca-0804-10.mp3",
 			"Standard Arabic Audio": "msa-0804-10.mp3"
 		},
@@ -111,7 +111,7 @@
 			"English": "What do you mean?",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ماذا تعني؟",
 			"Egyptian Arabic Audio": "eca-0804-11.mp3",
 			"Standard Arabic Audio": "msa-0804-11.mp3"
 		},
@@ -121,7 +121,7 @@
 			"English": "I'm going to go for a walk before I say something I'm going to regret.",
 			"Word Count": 15,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنا ذاهب للذهاب سيرا على الأقدام قبل أن أقول شيئا أنا ذاهب إلى الأسف.",
 			"Egyptian Arabic Audio": "eca-0804-12.mp3",
 			"Standard Arabic Audio": "msa-0804-12.mp3"
 		}

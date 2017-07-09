@@ -9,7 +9,7 @@
 			"English": "He picks up his fork.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انه يلتقط شوكة له.",
 			"Egyptian Arabic Audio": "eca-0322-1.mp3",
 			"Standard Arabic Audio": "msa-0322-1.mp3"
 		},
@@ -18,7 +18,7 @@
 			"English": "He picks up his spoon.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انه يلتقط ملعقه.",
 			"Egyptian Arabic Audio": "eca-0322-2.mp3",
 			"Standard Arabic Audio": "msa-0322-2.mp3"
 		},
@@ -27,7 +27,7 @@
 			"English": "He hits the plate with his fork.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انه يضرب لوحة مع شوكة له.",
 			"Egyptian Arabic Audio": "eca-0322-3.mp3",
 			"Standard Arabic Audio": "msa-0322-3.mp3"
 		},
@@ -36,7 +36,7 @@
 			"English": "He hits the plate with his spoon.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انه يضرب لوحة مع ملعقة له.",
 			"Egyptian Arabic Audio": "eca-0322-4.mp3",
 			"Standard Arabic Audio": "msa-0322-4.mp3"
 		},
@@ -45,7 +45,7 @@
 			"English": "His mom says Stop.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "والدته تقول ستوب.",
 			"Egyptian Arabic Audio": "eca-0322-5.mp3",
 			"Standard Arabic Audio": "msa-0322-5.mp3"
 		},
@@ -54,7 +54,7 @@
 			"English": "He stops.",
 			"Word Count": 2,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يتوقف.",
 			"Egyptian Arabic Audio": "eca-0322-6.mp3",
 			"Standard Arabic Audio": "msa-0322-6.mp3"
 		},
@@ -63,7 +63,7 @@
 			"English": "His mom puts a carrot on the plate.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أمه يضع جزرة على اللوحة.",
 			"Egyptian Arabic Audio": "eca-0322-7.mp3",
 			"Standard Arabic Audio": "msa-0322-7.mp3"
 		},
@@ -72,7 +72,7 @@
 			"English": "He looks at the carrot.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انه ينظر الى الجزرة.",
 			"Egyptian Arabic Audio": "eca-0322-8.mp3",
 			"Standard Arabic Audio": "msa-0322-8.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "He picks up the spoon.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انه يلتقط ملعقة.",
 			"Egyptian Arabic Audio": "eca-0322-9.mp3",
 			"Standard Arabic Audio": "msa-0322-9.mp3"
 		},
@@ -90,7 +90,7 @@
 			"English": "He hits the carrot with the spoon.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انه يضرب الجزر مع ملعقة.",
 			"Egyptian Arabic Audio": "eca-0322-10.mp3",
 			"Standard Arabic Audio": "msa-0322-10.mp3"
 		}

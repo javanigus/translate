@@ -11,7 +11,7 @@
 			"English": "Are you locked out of your apartment?",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هل أنت مقفل من شقتك؟",
 			"Egyptian Arabic Audio": "eca-0697-1.mp3",
 			"Standard Arabic Audio": "msa-0697-1.mp3"
 		},
@@ -21,7 +21,7 @@
 			"English": "It appears that I am.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يبدو أنني.",
 			"Egyptian Arabic Audio": "eca-0697-2.mp3",
 			"Standard Arabic Audio": "msa-0697-2.mp3"
 		},
@@ -31,7 +31,7 @@
 			"English": "Did you forget your key inside your apartment?",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هل نسيت مفتاحك داخل شقتك؟",
 			"Egyptian Arabic Audio": "eca-0697-3.mp3",
 			"Standard Arabic Audio": "msa-0697-3.mp3"
 		},
@@ -41,7 +41,7 @@
 			"English": "No. I think I lost it somewhere in the city.",
 			"Word Count": 10,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لا أعتقد أنني فقدته في مكان ما في المدينة.",
 			"Egyptian Arabic Audio": "eca-0697-4.mp3",
 			"Standard Arabic Audio": "msa-0697-4.mp3"
 		},
@@ -51,7 +51,7 @@
 			"English": "That's unfortunate. I think I could help you.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هذا مؤسف. أعتقد أنني يمكن أن تساعدك.",
 			"Egyptian Arabic Audio": "eca-0697-5.mp3",
 			"Standard Arabic Audio": "msa-0697-5.mp3"
 		},
@@ -61,7 +61,7 @@
 			"English": "Really? Do you have another key?",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هل حقا؟ هل لديك مفتاح آخر؟",
 			"Egyptian Arabic Audio": "eca-0697-6.mp3",
 			"Standard Arabic Audio": "msa-0697-6.mp3"
 		},
@@ -71,7 +71,7 @@
 			"English": "No, but the landlord does.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لا، ولكن المالك يفعل.",
 			"Egyptian Arabic Audio": "eca-0697-7.mp3",
 			"Standard Arabic Audio": "msa-0697-7.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "He doesn't live here though.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انه لا يعيش هنا على الرغم من.",
 			"Egyptian Arabic Audio": "eca-0697-8.mp3",
 			"Standard Arabic Audio": "msa-0697-8.mp3"
 		},
@@ -91,7 +91,7 @@
 			"English": "I have his phone number. I'll just give him a call.",
 			"Word Count": 11,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لدي رقم هاتفه. سأعطيه فقط مكالمة.",
 			"Egyptian Arabic Audio": "eca-0697-9.mp3",
 			"Standard Arabic Audio": "msa-0697-9.mp3"
 		},
@@ -101,7 +101,7 @@
 			"English": "Thank you. If you want, I'll talk to him myself.",
 			"Word Count": 10,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "شكرا. إذا كنت تريد، سوف أتحدث معه بنفسي.",
 			"Egyptian Arabic Audio": "eca-0697-10.mp3",
 			"Standard Arabic Audio": "msa-0697-10.mp3"
 		},
@@ -111,7 +111,7 @@
 			"English": "No, don't worry. I talk to him for you.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لا، لا تقلق. أتحدث إليه بالنسبة لك.",
 			"Egyptian Arabic Audio": "eca-0697-11.mp3",
 			"Standard Arabic Audio": "msa-0697-11.mp3"
 		},
@@ -121,7 +121,7 @@
 			"English": "Please I insist. I should be the one to ask for help since I'm the one who's in need of it.",
 			"Word Count": 21,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "الرجاء أنا أصر. وأود أن أطلب المساعدة منذ أنا الشخص الذي في حاجة إليها.",
 			"Egyptian Arabic Audio": "eca-0697-12.mp3",
 			"Standard Arabic Audio": "msa-0697-12.mp3"
 		},
@@ -131,7 +131,7 @@
 			"English": "Alright, suit yourself.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "حسنا، تناسب نفسك.",
 			"Egyptian Arabic Audio": "eca-0697-13.mp3",
 			"Standard Arabic Audio": "msa-0697-13.mp3"
 		}

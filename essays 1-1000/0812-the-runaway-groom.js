@@ -9,7 +9,7 @@
 			"English": "As he stepped out of the church, he thought he was free.",
 			"Word Count": 12,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كما انه خرج من الكنيسة، وقال انه يعتقد انه كان حرا.",
 			"Egyptian Arabic Audio": "eca-0812-1.mp3",
 			"Standard Arabic Audio": "msa-0812-1.mp3"
 		},
@@ -18,7 +18,7 @@
 			"English": "When he looked back, he noticed someone running after him.",
 			"Word Count": 10,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "عندما نظر إلى الوراء، لاحظ شخص يركض بعده.",
 			"Egyptian Arabic Audio": "eca-0812-2.mp3",
 			"Standard Arabic Audio": "msa-0812-2.mp3"
 		},
@@ -27,7 +27,7 @@
 			"English": "It was his bride's father.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كان والده العروس.",
 			"Egyptian Arabic Audio": "eca-0812-3.mp3",
 			"Standard Arabic Audio": "msa-0812-3.mp3"
 		},
@@ -36,7 +36,7 @@
 			"English": "The old man was very fast.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كان الرجل العجوز سريع جدا.",
 			"Egyptian Arabic Audio": "eca-0812-4.mp3",
 			"Standard Arabic Audio": "msa-0812-4.mp3"
 		},
@@ -45,7 +45,7 @@
 			"English": "\"Come back here,\" the father yelled.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "&quot;أعود إلى هنا&quot;، صاح الأب.",
 			"Egyptian Arabic Audio": "eca-0812-5.mp3",
 			"Standard Arabic Audio": "msa-0812-5.mp3"
 		},
@@ -54,7 +54,7 @@
 			"English": "\"I already paid for everything!\".",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "&quot;لقد دفعت بالفعل كل شيء!&quot;.",
 			"Egyptian Arabic Audio": "eca-0812-6.mp3",
 			"Standard Arabic Audio": "msa-0812-6.mp3"
 		}

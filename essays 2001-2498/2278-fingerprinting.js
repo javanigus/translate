@@ -9,7 +9,7 @@
 			"English": "Karla understood that the school district wants children to be safe and healthy, but she also felt they were making it hard for parents.",
 			"Word Count": 24,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أدركت كارلا أن منطقة المدرسة تريد أن يكون الأطفال آمنين وصحيين، لكنها شعرت أيضا أنها تجعل من الصعب على الآباء والأمهات.",
 			"Egyptian Arabic Audio": "eca-2278-1.mp3",
 			"Standard Arabic Audio": "msa-2278-1.mp3"
 		}

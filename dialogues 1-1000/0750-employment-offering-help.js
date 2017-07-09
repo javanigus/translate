@@ -11,7 +11,7 @@
 			"English": "Hi, Michelle. What are you up to?",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "مرحبا، ميشيل. ما آخر ما توصلت اليه؟",
 			"Egyptian Arabic Audio": "eca-0750-1.mp3",
 			"Standard Arabic Audio": "msa-0750-1.mp3"
 		},
@@ -21,7 +21,7 @@
 			"English": "I'm looking for work online.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أبحث عن العمل عبر الإنترنت.",
 			"Egyptian Arabic Audio": "eca-0750-2.mp3",
 			"Standard Arabic Audio": "msa-0750-2.mp3"
 		},
@@ -31,7 +31,7 @@
 			"English": "Cool! What kind of job are you looking for?",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "رائع! أي نوع من العمل الذي تبحث عنه؟",
 			"Egyptian Arabic Audio": "eca-0750-3.mp3",
 			"Standard Arabic Audio": "msa-0750-3.mp3"
 		},
@@ -41,7 +41,7 @@
 			"English": "I need a part-time job, but I'm not doing too well.",
 			"Word Count": 11,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أحتاج إلى وظيفة بدوام جزئي، ولكن أنا لا أفعل جيدا.",
 			"Egyptian Arabic Audio": "eca-0750-4.mp3",
 			"Standard Arabic Audio": "msa-0750-4.mp3"
 		},
@@ -51,7 +51,7 @@
 			"English": "I'm pretty good at this. Can I help?",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنا جيد جدا في هذا. هل يمكنني المساعدة؟",
 			"Egyptian Arabic Audio": "eca-0750-5.mp3",
 			"Standard Arabic Audio": "msa-0750-5.mp3"
 		},
@@ -61,7 +61,7 @@
 			"English": "You sure can.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يمكنك بالتأكيد.",
 			"Egyptian Arabic Audio": "eca-0750-6.mp3",
 			"Standard Arabic Audio": "msa-0750-6.mp3"
 		},
@@ -71,7 +71,7 @@
 			"English": "Okay, let's see. You can narrow your search on this site.",
 			"Word Count": 11,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "حسنا، دعونا نرى. يمكنك تضييق نطاق البحث على هذا الموقع.",
 			"Egyptian Arabic Audio": "eca-0750-7.mp3",
 			"Standard Arabic Audio": "msa-0750-7.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "How can I do that?",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كيف أقوم بذلك؟",
 			"Egyptian Arabic Audio": "eca-0750-8.mp3",
 			"Standard Arabic Audio": "msa-0750-8.mp3"
 		},
@@ -91,7 +91,7 @@
 			"English": "Go to the \"Advanced Search\" button and click on it.",
 			"Word Count": 10,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انتقل إلى زر &quot;البحث المتقدم&quot; وانقر عليه.",
 			"Egyptian Arabic Audio": "eca-0750-9.mp3",
 			"Standard Arabic Audio": "msa-0750-9.mp3"
 		},
@@ -101,7 +101,7 @@
 			"English": "I see it. Okay, now what?",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أرى ذلك. حسنا، الآن ماذا؟",
 			"Egyptian Arabic Audio": "eca-0750-10.mp3",
 			"Standard Arabic Audio": "msa-0750-10.mp3"
 		},
@@ -111,7 +111,7 @@
 			"English": "There are many options. You can search by city, by job, or pay.",
 			"Word Count": 13,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هناك العديد من الخيارات. يمكنك البحث عن طريق المدينة، عن طريق العمل، أو الدفع.",
 			"Egyptian Arabic Audio": "eca-0750-11.mp3",
 			"Standard Arabic Audio": "msa-0750-11.mp3"
 		},
@@ -121,7 +121,7 @@
 			"English": "I see. Let me try searching by city. Thanks.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنا أرى. اسمحوا لي أن أحاول البحث عن طريق المدينة. شكر.",
 			"Egyptian Arabic Audio": "eca-0750-12.mp3",
 			"Standard Arabic Audio": "msa-0750-12.mp3"
 		}

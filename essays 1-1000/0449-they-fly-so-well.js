@@ -9,7 +9,7 @@
 			"English": "He looked at the bird.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "نظر إلى الطيور.",
 			"Egyptian Arabic Audio": "eca-0449-1.mp3",
 			"Standard Arabic Audio": "msa-0449-1.mp3"
 		},
@@ -18,7 +18,7 @@
 			"English": "It was a blackbird.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كان شحرور.",
 			"Egyptian Arabic Audio": "eca-0449-2.mp3",
 			"Standard Arabic Audio": "msa-0449-2.mp3"
 		},
@@ -27,7 +27,7 @@
 			"English": "It was walking on the grass.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كان يسير على العشب.",
 			"Egyptian Arabic Audio": "eca-0449-3.mp3",
 			"Standard Arabic Audio": "msa-0449-3.mp3"
 		},
@@ -36,7 +36,7 @@
 			"English": "It was looking for food.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كان يبحث عن الطعام.",
 			"Egyptian Arabic Audio": "eca-0449-4.mp3",
 			"Standard Arabic Audio": "msa-0449-4.mp3"
 		},
@@ -45,7 +45,7 @@
 			"English": "Birds have a funny walk.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "الطيور لديها المشي مضحك.",
 			"Egyptian Arabic Audio": "eca-0449-5.mp3",
 			"Standard Arabic Audio": "msa-0449-5.mp3"
 		},
@@ -54,7 +54,7 @@
 			"English": "Why do they walk so funny? Because they don't have arms.",
 			"Word Count": 11,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لماذا يسيرون على هذا مضحك؟ لأنهم لا يحملون السلاح.",
 			"Egyptian Arabic Audio": "eca-0449-6.mp3",
 			"Standard Arabic Audio": "msa-0449-6.mp3"
 		},
@@ -63,7 +63,7 @@
 			"English": "Arms help people walk.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "الأسلحة مساعدة الناس على المشي.",
 			"Egyptian Arabic Audio": "eca-0449-7.mp3",
 			"Standard Arabic Audio": "msa-0449-7.mp3"
 		},
@@ -72,7 +72,7 @@
 			"English": "People walk well.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "الناس يمشيون جيدا.",
 			"Egyptian Arabic Audio": "eca-0449-8.mp3",
 			"Standard Arabic Audio": "msa-0449-8.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "Birds don't have arms.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "الطيور لا تملك السلاح.",
 			"Egyptian Arabic Audio": "eca-0449-9.mp3",
 			"Standard Arabic Audio": "msa-0449-9.mp3"
 		},
@@ -90,7 +90,7 @@
 			"English": "They don't walk well.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنها لا تسير على ما يرام.",
 			"Egyptian Arabic Audio": "eca-0449-10.mp3",
 			"Standard Arabic Audio": "msa-0449-10.mp3"
 		},
@@ -99,7 +99,7 @@
 			"English": "They look funny when they walk.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنها تبدو مضحكة عندما يسيرون.",
 			"Egyptian Arabic Audio": "eca-0449-11.mp3",
 			"Standard Arabic Audio": "msa-0449-11.mp3"
 		},
@@ -108,7 +108,7 @@
 			"English": "Birds have wings.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "الطيور لديها أجنحة.",
 			"Egyptian Arabic Audio": "eca-0449-12.mp3",
 			"Standard Arabic Audio": "msa-0449-12.mp3"
 		},
@@ -117,7 +117,7 @@
 			"English": "Wings help birds fly.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أجنحة تساعد الطيور تطير.",
 			"Egyptian Arabic Audio": "eca-0449-13.mp3",
 			"Standard Arabic Audio": "msa-0449-13.mp3"
 		},
@@ -126,7 +126,7 @@
 			"English": "They use their wings to fly.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنها تستخدم أجنحةها للطيران.",
 			"Egyptian Arabic Audio": "eca-0449-14.mp3",
 			"Standard Arabic Audio": "msa-0449-14.mp3"
 		},
@@ -135,7 +135,7 @@
 			"English": "They fly very well.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنها تطير بشكل جيد للغاية.",
 			"Egyptian Arabic Audio": "eca-0449-15.mp3",
 			"Standard Arabic Audio": "msa-0449-15.mp3"
 		},
@@ -144,7 +144,7 @@
 			"English": "They are beautiful to watch when they fly.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنها جميلة لمشاهدة عندما يطيرون.",
 			"Egyptian Arabic Audio": "eca-0449-16.mp3",
 			"Standard Arabic Audio": "msa-0449-16.mp3"
 		},
@@ -153,7 +153,7 @@
 			"English": "They belong in the sky.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انهم ينتمون الى السماء.",
 			"Egyptian Arabic Audio": "eca-0449-17.mp3",
 			"Standard Arabic Audio": "msa-0449-17.mp3"
 		},
@@ -162,7 +162,7 @@
 			"English": "They don't belong on the ground.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انهم لا ينتمون على الأرض.",
 			"Egyptian Arabic Audio": "eca-0449-18.mp3",
 			"Standard Arabic Audio": "msa-0449-18.mp3"
 		},
@@ -171,7 +171,7 @@
 			"English": "The blackbird found something to eat.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وجدت الشحرور شيء للأكل.",
 			"Egyptian Arabic Audio": "eca-0449-19.mp3",
 			"Standard Arabic Audio": "msa-0449-19.mp3"
 		},
@@ -180,7 +180,7 @@
 			"English": "It flew up into a tree.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "حلقت في شجرة.",
 			"Egyptian Arabic Audio": "eca-0449-20.mp3",
 			"Standard Arabic Audio": "msa-0449-20.mp3"
 		},
@@ -189,7 +189,7 @@
 			"English": "It ate the food in the tree.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أكلت الطعام في الشجرة.",
 			"Egyptian Arabic Audio": "eca-0449-21.mp3",
 			"Standard Arabic Audio": "msa-0449-21.mp3"
 		},
@@ -198,7 +198,7 @@
 			"English": "Then it flew away.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ثم طار بعيدا.",
 			"Egyptian Arabic Audio": "eca-0449-22.mp3",
 			"Standard Arabic Audio": "msa-0449-22.mp3"
 		}

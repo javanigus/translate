@@ -11,7 +11,7 @@
 			"English": "Something's wrong with my computer.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "حدث خطأ ما في جهاز الكمبيوتر.",
 			"Egyptian Arabic Audio": "eca-0273-1.mp3",
 			"Standard Arabic Audio": "msa-0273-1.mp3"
 		},
@@ -21,7 +21,7 @@
 			"English": "Exactly what?",
 			"Word Count": 2,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ماذا بالضبط؟",
 			"Egyptian Arabic Audio": "eca-0273-2.mp3",
 			"Standard Arabic Audio": "msa-0273-2.mp3"
 		},
@@ -31,7 +31,7 @@
 			"English": "All I get is a black screen.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كل ما أحصل عليه هو شاشة سوداء.",
 			"Egyptian Arabic Audio": "eca-0273-3.mp3",
 			"Standard Arabic Audio": "msa-0273-3.mp3"
 		},
@@ -41,7 +41,7 @@
 			"English": "What's the matter?",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ما الأمر؟",
 			"Egyptian Arabic Audio": "eca-0273-4.mp3",
 			"Standard Arabic Audio": "msa-0273-4.mp3"
 		},
@@ -51,7 +51,7 @@
 			"English": "I think I know, because this happened before.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أعتقد أنني أعرف، لأن هذا حدث من قبل.",
 			"Egyptian Arabic Audio": "eca-0273-5.mp3",
 			"Standard Arabic Audio": "msa-0273-5.mp3"
 		},
@@ -61,7 +61,7 @@
 			"English": "What happened before?",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ماذا حدث من قبل؟",
 			"Egyptian Arabic Audio": "eca-0273-6.mp3",
 			"Standard Arabic Audio": "msa-0273-6.mp3"
 		},
@@ -71,7 +71,7 @@
 			"English": "My hard drive crashed.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "تحطم بلدي القرص الصلب.",
 			"Egyptian Arabic Audio": "eca-0273-7.mp3",
 			"Standard Arabic Audio": "msa-0273-7.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "Oh, no. That's bad news.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أوه، لا. هذه أخبار سيئة.",
 			"Egyptian Arabic Audio": "eca-0273-8.mp3",
 			"Standard Arabic Audio": "msa-0273-8.mp3"
 		},
@@ -91,7 +91,7 @@
 			"English": "It sure is, but I'm going to call HP first, just to make sure.",
 			"Word Count": 14,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ومن المؤكد أنه، ولكن أنا ذاهب لاستدعاء هب أولا، فقط للتأكد.",
 			"Egyptian Arabic Audio": "eca-0273-9.mp3",
 			"Standard Arabic Audio": "msa-0273-9.mp3"
 		},
@@ -101,7 +101,7 @@
 			"English": "Will you lose all your files?",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "سوف تفقد جميع الملفات الخاصة بك؟",
 			"Egyptian Arabic Audio": "eca-0273-10.mp3",
 			"Standard Arabic Audio": "msa-0273-10.mp3"
 		},
@@ -111,7 +111,7 @@
 			"English": "No, I always back up my files.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لا، أنا دائما النسخ الاحتياطي الملفات.",
 			"Egyptian Arabic Audio": "eca-0273-11.mp3",
 			"Standard Arabic Audio": "msa-0273-11.mp3"
 		},
@@ -121,7 +121,7 @@
 			"English": "You're smart.",
 			"Word Count": 2,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انت ذكي.",
 			"Egyptian Arabic Audio": "eca-0273-12.mp3",
 			"Standard Arabic Audio": "msa-0273-12.mp3"
 		}

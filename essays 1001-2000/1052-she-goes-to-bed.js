@@ -9,7 +9,7 @@
 			"English": "She is in her pajamas.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هي في منامة لها.",
 			"Egyptian Arabic Audio": "eca-1052-1.mp3",
 			"Standard Arabic Audio": "msa-1052-1.mp3"
 		},
@@ -18,7 +18,7 @@
 			"English": "She lies down.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "إنها تقع.",
 			"Egyptian Arabic Audio": "eca-1052-2.mp3",
 			"Standard Arabic Audio": "msa-1052-2.mp3"
 		},
@@ -27,7 +27,7 @@
 			"English": "She puts her head on the pillow.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انها تضع رأسها على وسادة.",
 			"Egyptian Arabic Audio": "eca-1052-3.mp3",
 			"Standard Arabic Audio": "msa-1052-3.mp3"
 		},
@@ -36,7 +36,7 @@
 			"English": "She moves the pillow around a little bit.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انها تتحرك وسادة حول قليلا.",
 			"Egyptian Arabic Audio": "eca-1052-4.mp3",
 			"Standard Arabic Audio": "msa-1052-4.mp3"
 		},
@@ -45,7 +45,7 @@
 			"English": "It is more comfortable now.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هو أكثر راحة الآن.",
 			"Egyptian Arabic Audio": "eca-1052-5.mp3",
 			"Standard Arabic Audio": "msa-1052-5.mp3"
 		},
@@ -54,7 +54,7 @@
 			"English": "The lamp is still on.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "المصباح لا يزال قيد التشغيل.",
 			"Egyptian Arabic Audio": "eca-1052-6.mp3",
 			"Standard Arabic Audio": "msa-1052-6.mp3"
 		},
@@ -63,7 +63,7 @@
 			"English": "She turns off the lamp.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انها إيقاف المصباح.",
 			"Egyptian Arabic Audio": "eca-1052-7.mp3",
 			"Standard Arabic Audio": "msa-1052-7.mp3"
 		},
@@ -72,7 +72,7 @@
 			"English": "Her bedroom is dark.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "غرفة نومها مظلمة.",
 			"Egyptian Arabic Audio": "eca-1052-8.mp3",
 			"Standard Arabic Audio": "msa-1052-8.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "She puts her head back on the pillow.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انها تضع رأسها مرة أخرى على وسادة.",
 			"Egyptian Arabic Audio": "eca-1052-9.mp3",
 			"Standard Arabic Audio": "msa-1052-9.mp3"
 		},
@@ -90,7 +90,7 @@
 			"English": "She goes to sleep.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "تذهب إلى النوم.",
 			"Egyptian Arabic Audio": "eca-1052-10.mp3",
 			"Standard Arabic Audio": "msa-1052-10.mp3"
 		}

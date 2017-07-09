@@ -9,7 +9,7 @@
 			"English": "They ate sandwiches.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أكلوا السندويشات.",
 			"Egyptian Arabic Audio": "eca-0935-1.mp3",
 			"Standard Arabic Audio": "msa-0935-1.mp3"
 		},
@@ -18,7 +18,7 @@
 			"English": "The sandwiches had ham, cheese, lettuce, and tomatoes.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وكانت السندويشات لحم الخنزير والجبن والخس والطماطم (البندورة).",
 			"Egyptian Arabic Audio": "eca-0935-2.mp3",
 			"Standard Arabic Audio": "msa-0935-2.mp3"
 		},
@@ -27,7 +27,7 @@
 			"English": "They laughed.",
 			"Word Count": 2,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ضحكوا.",
 			"Egyptian Arabic Audio": "eca-0935-3.mp3",
 			"Standard Arabic Audio": "msa-0935-3.mp3"
 		},
@@ -36,7 +36,7 @@
 			"English": "They talked.",
 			"Word Count": 2,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لقد تحدثوا.",
 			"Egyptian Arabic Audio": "eca-0935-4.mp3",
 			"Standard Arabic Audio": "msa-0935-4.mp3"
 		},
@@ -45,7 +45,7 @@
 			"English": "After their nice meal, they decided to walk around the park.",
 			"Word Count": 11,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "بعد وجبة لطيفة، قرروا المشي حول الحديقة.",
 			"Egyptian Arabic Audio": "eca-0935-5.mp3",
 			"Standard Arabic Audio": "msa-0935-5.mp3"
 		},
@@ -54,7 +54,7 @@
 			"English": "They saw ducks.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "رأوا البط.",
 			"Egyptian Arabic Audio": "eca-0935-6.mp3",
 			"Standard Arabic Audio": "msa-0935-6.mp3"
 		},
@@ -63,7 +63,7 @@
 			"English": "They fed the ducks their leftover bread.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كانوا يغذون البط خبزهم المتبقي.",
 			"Egyptian Arabic Audio": "eca-0935-7.mp3",
 			"Standard Arabic Audio": "msa-0935-7.mp3"
 		},
@@ -72,7 +72,7 @@
 			"English": "They also played with a Frisbee.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كما لعبوا مع الفريسبي.",
 			"Egyptian Arabic Audio": "eca-0935-8.mp3",
 			"Standard Arabic Audio": "msa-0935-8.mp3"
 		}

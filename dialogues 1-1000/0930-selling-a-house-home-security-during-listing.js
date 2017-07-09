@@ -11,7 +11,7 @@
 			"English": "I must admit, Ms. Price, I'm concerned about security.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يجب أن أعترف، السيدة السعر، أنا قلق بشأن الأمن.",
 			"Egyptian Arabic Audio": "eca-0930-1.mp3",
 			"Standard Arabic Audio": "msa-0930-1.mp3"
 		},
@@ -21,7 +21,7 @@
 			"English": "Don't worry, Mr. King. We will provide the security on your home.",
 			"Word Count": 12,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لا تقلق، السيد الملك. وسوف نقدم الأمن على منزلك.",
 			"Egyptian Arabic Audio": "eca-0930-2.mp3",
 			"Standard Arabic Audio": "msa-0930-2.mp3"
 		},
@@ -31,7 +31,7 @@
 			"English": "What kinds of things do you do?",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ما هي أنواع الأشياء التي تفعلونها؟",
 			"Egyptian Arabic Audio": "eca-0930-3.mp3",
 			"Standard Arabic Audio": "msa-0930-3.mp3"
 		},
@@ -41,7 +41,7 @@
 			"English": "We make it look like someone is living in your home while it's listed.",
 			"Word Count": 14,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "نحن جعلها تبدو وكأنها شخص يعيش في منزلك في حين انها مدرجة.",
 			"Egyptian Arabic Audio": "eca-0930-4.mp3",
 			"Standard Arabic Audio": "msa-0930-4.mp3"
 		},
@@ -51,7 +51,7 @@
 			"English": "How do you do that?",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كيف تفعل ذلك؟",
 			"Egyptian Arabic Audio": "eca-0930-5.mp3",
 			"Standard Arabic Audio": "msa-0930-5.mp3"
 		},
@@ -61,7 +61,7 @@
 			"English": "We do several things. We stop deliveries, mow the lawn, and set timers.",
 			"Word Count": 13,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "نحن نفعل عدة أشياء. نحن وقف التسليم، جز العشب، وتعيين توقيت.",
 			"Egyptian Arabic Audio": "eca-0930-6.mp3",
 			"Standard Arabic Audio": "msa-0930-6.mp3"
 		},
@@ -71,7 +71,7 @@
 			"English": "Is that all you do?",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هل هذا كل ما تفعله؟",
 			"Egyptian Arabic Audio": "eca-0930-7.mp3",
 			"Standard Arabic Audio": "msa-0930-7.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "No, we have our agents drop by from time to time.",
 			"Word Count": 11,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لا، لدينا وكلاء لدينا تسقط من وقت لآخر.",
 			"Egyptian Arabic Audio": "eca-0930-8.mp3",
 			"Standard Arabic Audio": "msa-0930-8.mp3"
 		},
@@ -91,7 +91,7 @@
 			"English": "Oh, that's good.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "آوه هذا جيد.",
 			"Egyptian Arabic Audio": "eca-0930-9.mp3",
 			"Standard Arabic Audio": "msa-0930-9.mp3"
 		},
@@ -101,7 +101,7 @@
 			"English": "Yes, we take home security seriously.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "نعم، نحن نأخذ أمن الوطن على محمل الجد.",
 			"Egyptian Arabic Audio": "eca-0930-10.mp3",
 			"Standard Arabic Audio": "msa-0930-10.mp3"
 		},
@@ -111,7 +111,7 @@
 			"English": "Thanks, Ms. Price. I feel much better now.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "شكرا، السيدة السعر. أشعر أفضل بكثير الآن.",
 			"Egyptian Arabic Audio": "eca-0930-11.mp3",
 			"Standard Arabic Audio": "msa-0930-11.mp3"
 		},
@@ -121,7 +121,7 @@
 			"English": "You are very welcome. Thank you.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كنت موضع ترحيب كبير. شكرا.",
 			"Egyptian Arabic Audio": "eca-0930-12.mp3",
 			"Standard Arabic Audio": "msa-0930-12.mp3"
 		}

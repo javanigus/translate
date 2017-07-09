@@ -11,7 +11,7 @@
 			"English": "I need to get some beef.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنا بحاجة للحصول على بعض لحوم البقر.",
 			"Egyptian Arabic Audio": "eca-1236-1.mp3",
 			"Standard Arabic Audio": "msa-1236-1.mp3"
 		},
@@ -21,7 +21,7 @@
 			"English": "Do you know what kind of beef you want?",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هل تعرف أي نوع من لحم البقر تريد؟",
 			"Egyptian Arabic Audio": "eca-1236-2.mp3",
 			"Standard Arabic Audio": "msa-1236-2.mp3"
 		},
@@ -31,7 +31,7 @@
 			"English": "I want to get some ground beef.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أريد الحصول على بعض لحم البقر المفروم.",
 			"Egyptian Arabic Audio": "eca-1236-3.mp3",
 			"Standard Arabic Audio": "msa-1236-3.mp3"
 		},
@@ -41,7 +41,7 @@
 			"English": "How many pounds do you need?",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كم جنيه تحتاج؟",
 			"Egyptian Arabic Audio": "eca-1236-4.mp3",
 			"Standard Arabic Audio": "msa-1236-4.mp3"
 		},
@@ -51,7 +51,7 @@
 			"English": "I would like four pounds of ground beef.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أود أربعة جنيه من لحم البقر المفروم.",
 			"Egyptian Arabic Audio": "eca-1236-5.mp3",
 			"Standard Arabic Audio": "msa-1236-5.mp3"
 		},
@@ -61,7 +61,7 @@
 			"English": "What kind of ground beef do you need?",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أي نوع من لحم البقر المفروم تحتاج؟",
 			"Egyptian Arabic Audio": "eca-1236-6.mp3",
 			"Standard Arabic Audio": "msa-1236-6.mp3"
 		},
@@ -71,7 +71,7 @@
 			"English": "I would like the extra lean.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وأود أن الهزيل اضافية.",
 			"Egyptian Arabic Audio": "eca-1236-7.mp3",
 			"Standard Arabic Audio": "msa-1236-7.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "Let me go and get that for you.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "اسمحوا لي أن أذهب والحصول على ذلك بالنسبة لك.",
 			"Egyptian Arabic Audio": "eca-1236-8.mp3",
 			"Standard Arabic Audio": "msa-1236-8.mp3"
 		},
@@ -91,7 +91,7 @@
 			"English": "Thank you very much.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "شكرا جزيلا.",
 			"Egyptian Arabic Audio": "eca-1236-9.mp3",
 			"Standard Arabic Audio": "msa-1236-9.mp3"
 		},
@@ -101,7 +101,7 @@
 			"English": "No problem.",
 			"Word Count": 2,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ليس هناك أى مشكلة.",
 			"Egyptian Arabic Audio": "eca-1236-10.mp3",
 			"Standard Arabic Audio": "msa-1236-10.mp3"
 		},
@@ -111,7 +111,7 @@
 			"English": "I'll wrap it up for you now.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنا سوف التفاف عليه بالنسبة لك الآن.",
 			"Egyptian Arabic Audio": "eca-1236-11.mp3",
 			"Standard Arabic Audio": "msa-1236-11.mp3"
 		},
@@ -121,7 +121,7 @@
 			"English": "I appreciate that.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وأنا أقدر ذلك.",
 			"Egyptian Arabic Audio": "eca-1236-12.mp3",
 			"Standard Arabic Audio": "msa-1236-12.mp3"
 		},
@@ -131,7 +131,7 @@
 			"English": "I would like to buy some beef.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وأود أن شراء بعض لحوم البقر.",
 			"Egyptian Arabic Audio": "eca-1236-13.mp3",
 			"Standard Arabic Audio": "msa-1236-13.mp3"
 		},
@@ -141,7 +141,7 @@
 			"English": "What kind do you want?",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ما نوع هل تريد؟",
 			"Egyptian Arabic Audio": "eca-1236-14.mp3",
 			"Standard Arabic Audio": "msa-1236-14.mp3"
 		},
@@ -151,7 +151,7 @@
 			"English": "I need to get ground beef.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنا بحاجة إلى الحصول على لحم البقر المفروم.",
 			"Egyptian Arabic Audio": "eca-1236-15.mp3",
 			"Standard Arabic Audio": "msa-1236-15.mp3"
 		},
@@ -161,7 +161,7 @@
 			"English": "How many pounds would you like me to get you?",
 			"Word Count": 10,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كم جنيه تريد مني أن أحصل عليك؟",
 			"Egyptian Arabic Audio": "eca-1236-16.mp3",
 			"Standard Arabic Audio": "msa-1236-16.mp3"
 		},
@@ -171,7 +171,7 @@
 			"English": "I need about four pounds.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أحتاج حوالي أربعة جنيه.",
 			"Egyptian Arabic Audio": "eca-1236-17.mp3",
 			"Standard Arabic Audio": "msa-1236-17.mp3"
 		},
@@ -181,7 +181,7 @@
 			"English": "Exactly what type of ground beef do you want?",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "بالضبط ما نوع لحم البقر المفروم الذي تريده؟",
 			"Egyptian Arabic Audio": "eca-1236-18.mp3",
 			"Standard Arabic Audio": "msa-1236-18.mp3"
 		},
@@ -191,7 +191,7 @@
 			"English": "Extra lean.",
 			"Word Count": 2,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "اضافية الهزيل.",
 			"Egyptian Arabic Audio": "eca-1236-19.mp3",
 			"Standard Arabic Audio": "msa-1236-19.mp3"
 		},
@@ -201,7 +201,7 @@
 			"English": "I'll get that for you right now.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "سأحصل على ذلك لك الآن.",
 			"Egyptian Arabic Audio": "eca-1236-20.mp3",
 			"Standard Arabic Audio": "msa-1236-20.mp3"
 		},
@@ -211,7 +211,7 @@
 			"English": "I appreciate that.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وأنا أقدر ذلك.",
 			"Egyptian Arabic Audio": "eca-1236-21.mp3",
 			"Standard Arabic Audio": "msa-1236-21.mp3"
 		},
@@ -221,7 +221,7 @@
 			"English": "Don't mention it.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لا تذكرها.",
 			"Egyptian Arabic Audio": "eca-1236-22.mp3",
 			"Standard Arabic Audio": "msa-1236-22.mp3"
 		},
@@ -231,7 +231,7 @@
 			"English": "I'll just wrap this up for you.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنا فقط التفاف هذا بالنسبة لك.",
 			"Egyptian Arabic Audio": "eca-1236-23.mp3",
 			"Standard Arabic Audio": "msa-1236-23.mp3"
 		},
@@ -241,7 +241,7 @@
 			"English": "Thanks for your help.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "شكرا لمساعدتك.",
 			"Egyptian Arabic Audio": "eca-1236-24.mp3",
 			"Standard Arabic Audio": "msa-1236-24.mp3"
 		},
@@ -251,7 +251,7 @@
 			"English": "Could I get some beef?",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هل يمكنني الحصول على بعض لحوم البقر؟",
 			"Egyptian Arabic Audio": "eca-1236-25.mp3",
 			"Standard Arabic Audio": "msa-1236-25.mp3"
 		},
@@ -261,7 +261,7 @@
 			"English": "What kind of beef would you like to get?",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أي نوع من لحوم البقر تريد أن تحصل؟",
 			"Egyptian Arabic Audio": "eca-1236-26.mp3",
 			"Standard Arabic Audio": "msa-1236-26.mp3"
 		},
@@ -271,7 +271,7 @@
 			"English": "Ground beef would be fine.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لحم البقر المفروم سيكون جيدا.",
 			"Egyptian Arabic Audio": "eca-1236-27.mp3",
 			"Standard Arabic Audio": "msa-1236-27.mp3"
 		},
@@ -281,7 +281,7 @@
 			"English": "How many pounds would you like?",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كم جنيه تريد؟",
 			"Egyptian Arabic Audio": "eca-1236-28.mp3",
 			"Standard Arabic Audio": "msa-1236-28.mp3"
 		},
@@ -291,7 +291,7 @@
 			"English": "Four pounds is enough.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أربعة جنيه يكفي.",
 			"Egyptian Arabic Audio": "eca-1236-29.mp3",
 			"Standard Arabic Audio": "msa-1236-29.mp3"
 		},
@@ -301,7 +301,7 @@
 			"English": "What kind of ground beef do you want?",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أي نوع من لحم البقر المفروم تريد؟",
 			"Egyptian Arabic Audio": "eca-1236-30.mp3",
 			"Standard Arabic Audio": "msa-1236-30.mp3"
 		},
@@ -311,7 +311,7 @@
 			"English": "I'm going to need extra lean ground beef.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "سوف أحتاج إلى لحوم البقر المفروم.",
 			"Egyptian Arabic Audio": "eca-1236-31.mp3",
 			"Standard Arabic Audio": "msa-1236-31.mp3"
 		},
@@ -321,7 +321,7 @@
 			"English": "I can get that for you.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يمكنني الحصول على ذلك بالنسبة لك.",
 			"Egyptian Arabic Audio": "eca-1236-32.mp3",
 			"Standard Arabic Audio": "msa-1236-32.mp3"
 		},
@@ -331,7 +331,7 @@
 			"English": "Thanks so much.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "شكرا جزيلا.",
 			"Egyptian Arabic Audio": "eca-1236-33.mp3",
 			"Standard Arabic Audio": "msa-1236-33.mp3"
 		},
@@ -341,7 +341,7 @@
 			"English": "You're welcome.",
 			"Word Count": 2,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "على الرحب و السعة.",
 			"Egyptian Arabic Audio": "eca-1236-34.mp3",
 			"Standard Arabic Audio": "msa-1236-34.mp3"
 		},
@@ -351,7 +351,7 @@
 			"English": "Let me go wrap the ground beef up for you.",
 			"Word Count": 10,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "اسمحوا لي أن أذهب التفاف على لحوم البقر الأرض بالنسبة لك.",
 			"Egyptian Arabic Audio": "eca-1236-35.mp3",
 			"Standard Arabic Audio": "msa-1236-35.mp3"
 		},
@@ -361,7 +361,7 @@
 			"English": "Thanks for everything.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "شكرا على كل شيء.",
 			"Egyptian Arabic Audio": "eca-1236-36.mp3",
 			"Standard Arabic Audio": "msa-1236-36.mp3"
 		}

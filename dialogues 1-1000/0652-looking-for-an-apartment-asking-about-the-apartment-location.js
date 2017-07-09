@@ -11,7 +11,7 @@
 			"English": "Is the location of the apartment a good one?",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هو موقع الشقة واحدة جيدة؟",
 			"Egyptian Arabic Audio": "eca-0652-1.mp3",
 			"Standard Arabic Audio": "msa-0652-1.mp3"
 		},
@@ -21,7 +21,7 @@
 			"English": "Yes. I would say so.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "نعم فعلا. وأود أن أقول ذلك.",
 			"Egyptian Arabic Audio": "eca-0652-2.mp3",
 			"Standard Arabic Audio": "msa-0652-2.mp3"
 		},
@@ -31,7 +31,7 @@
 			"English": "Why is that?",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لماذا هذا؟",
 			"Egyptian Arabic Audio": "eca-0652-3.mp3",
 			"Standard Arabic Audio": "msa-0652-3.mp3"
 		},
@@ -41,7 +41,7 @@
 			"English": "The city of Pasadena is generally safe. Have you been there?",
 			"Word Count": 11,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "مدينة باسادينا آمنة بشكل عام. هل كنت هناك؟",
 			"Egyptian Arabic Audio": "eca-0652-4.mp3",
 			"Standard Arabic Audio": "msa-0652-4.mp3"
 		},
@@ -51,7 +51,7 @@
 			"English": "Yes, it's relatively calm.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "نعم، انها هادئة نسبيا.",
 			"Egyptian Arabic Audio": "eca-0652-5.mp3",
 			"Standard Arabic Audio": "msa-0652-5.mp3"
 		},
@@ -61,7 +61,7 @@
 			"English": "Do have any other concerns about the location?",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هل لديك أي مخاوف أخرى بشأن الموقع؟",
 			"Egyptian Arabic Audio": "eca-0652-6.mp3",
 			"Standard Arabic Audio": "msa-0652-6.mp3"
 		},
@@ -71,7 +71,7 @@
 			"English": "Is the apartment's location near any shopping areas?",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هو موقع الشقة بالقرب من أي مناطق التسوق؟",
 			"Egyptian Arabic Audio": "eca-0652-7.mp3",
 			"Standard Arabic Audio": "msa-0652-7.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "Yes, it is.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "نعم إنه كذلك.",
 			"Egyptian Arabic Audio": "eca-0652-8.mp3",
 			"Standard Arabic Audio": "msa-0652-8.mp3"
 		},
@@ -91,7 +91,7 @@
 			"English": "What shopping areas?",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ما هي مناطق التسوق؟",
 			"Egyptian Arabic Audio": "eca-0652-9.mp3",
 			"Standard Arabic Audio": "msa-0652-9.mp3"
 		},
@@ -101,7 +101,7 @@
 			"English": "There is a place called Old Town where a lot of shops are located.",
 			"Word Count": 14,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هناك مكان يسمى البلدة القديمة حيث يوجد الكثير من المحلات التجارية.",
 			"Egyptian Arabic Audio": "eca-0652-10.mp3",
 			"Standard Arabic Audio": "msa-0652-10.mp3"
 		},
@@ -111,7 +111,7 @@
 			"English": "How far away is Old Town from the apartment's location?",
 			"Word Count": 10,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كم تبعد المدينة القديمة عن موقع الشقة؟",
 			"Egyptian Arabic Audio": "eca-0652-11.mp3",
 			"Standard Arabic Audio": "msa-0652-11.mp3"
 		},
@@ -121,7 +121,7 @@
 			"English": "Ten minutes away on car.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "على بعد عشر دقائق بالسيارة.",
 			"Egyptian Arabic Audio": "eca-0652-12.mp3",
 			"Standard Arabic Audio": "msa-0652-12.mp3"
 		},
@@ -131,7 +131,7 @@
 			"English": "And on foot?",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وعلى الأقدام؟",
 			"Egyptian Arabic Audio": "eca-0652-13.mp3",
 			"Standard Arabic Audio": "msa-0652-13.mp3"
 		},
@@ -141,7 +141,7 @@
 			"English": "Twenty minutes on foot.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "على بعد 20 دقيقة سيرا على الأقدام.",
 			"Egyptian Arabic Audio": "eca-0652-14.mp3",
 			"Standard Arabic Audio": "msa-0652-14.mp3"
 		}

@@ -9,7 +9,7 @@
 			"English": "Science Fair was coming up.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وكان معرض العلوم الخروج.",
 			"Egyptian Arabic Audio": "eca-0278-1.mp3",
 			"Standard Arabic Audio": "msa-0278-1.mp3"
 		},
@@ -18,7 +18,7 @@
 			"English": "Julio had to come up with a project.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كان على خوليو أن يخرج بمشروع.",
 			"Egyptian Arabic Audio": "eca-0278-2.mp3",
 			"Standard Arabic Audio": "msa-0278-2.mp3"
 		},
@@ -27,7 +27,7 @@
 			"English": "He was working by himself this year.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كان يعمل بنفسه هذا العام.",
 			"Egyptian Arabic Audio": "eca-0278-3.mp3",
 			"Standard Arabic Audio": "msa-0278-3.mp3"
 		},
@@ -36,7 +36,7 @@
 			"English": "He wanted the challenge of doing it all by himself.",
 			"Word Count": 10,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أراد التحدي من القيام بذلك بنفسه.",
 			"Egyptian Arabic Audio": "eca-0278-4.mp3",
 			"Standard Arabic Audio": "msa-0278-4.mp3"
 		},
@@ -45,7 +45,7 @@
 			"English": "While searching the web, he came across the idea of building a volcano.",
 			"Word Count": 13,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أثناء البحث على شبكة الإنترنت، وقال انه جاء عبر فكرة بناء بركان.",
 			"Egyptian Arabic Audio": "eca-0278-5.mp3",
 			"Standard Arabic Audio": "msa-0278-5.mp3"
 		},
@@ -54,7 +54,7 @@
 			"English": "He decided that a volcano would be the way to win the science fair.",
 			"Word Count": 14,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "قرر أن البركان سيكون الطريق للفوز في معرض العلوم.",
 			"Egyptian Arabic Audio": "eca-0278-6.mp3",
 			"Standard Arabic Audio": "msa-0278-6.mp3"
 		},
@@ -63,7 +63,7 @@
 			"English": "He asked his parents to take him to the grocery store to buy supplies to make the volcano.",
 			"Word Count": 18,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وطلب من والديه نقله إلى محل البقالة لشراء لوازم لجعل البركان.",
 			"Egyptian Arabic Audio": "eca-0278-7.mp3",
 			"Standard Arabic Audio": "msa-0278-7.mp3"
 		},
@@ -72,7 +72,7 @@
 			"English": "After working several hours on the volcano, he decided to test it out.",
 			"Word Count": 13,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "بعد العمل عدة ساعات على البركان، وقال انه قرر لاختبار بها.",
 			"Egyptian Arabic Audio": "eca-0278-8.mp3",
 			"Standard Arabic Audio": "msa-0278-8.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "He turned it on and watched the lava spew out.",
 			"Word Count": 10,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "الوجه الصفع تشغيله ومشاهدة الحمم ينفخ.",
 			"Egyptian Arabic Audio": "eca-0278-9.mp3",
 			"Standard Arabic Audio": "msa-0278-9.mp3"
 		},
@@ -90,7 +90,7 @@
 			"English": "It was amazing.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كان رائع.",
 			"Egyptian Arabic Audio": "eca-0278-10.mp3",
 			"Standard Arabic Audio": "msa-0278-10.mp3"
 		},
@@ -99,7 +99,7 @@
 			"English": "He was so proud of himself.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كان فخورا بنفسه.",
 			"Egyptian Arabic Audio": "eca-0278-11.mp3",
 			"Standard Arabic Audio": "msa-0278-11.mp3"
 		},
@@ -108,7 +108,7 @@
 			"English": "The next day he took his project to school for the science fair.",
 			"Word Count": 13,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "في اليوم التالي أخذ مشروعه إلى المدرسة لمعرض العلوم.",
 			"Egyptian Arabic Audio": "eca-0278-12.mp3",
 			"Standard Arabic Audio": "msa-0278-12.mp3"
 		}

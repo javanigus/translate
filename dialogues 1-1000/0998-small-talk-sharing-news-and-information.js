@@ -11,7 +11,7 @@
 			"English": "Did you hear the news?",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هل سمعت الاخبار؟",
 			"Egyptian Arabic Audio": "eca-0998-1.mp3",
 			"Standard Arabic Audio": "msa-0998-1.mp3"
 		},
@@ -21,7 +21,7 @@
 			"English": "What happened?",
 			"Word Count": 2,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ماذا حدث؟",
 			"Egyptian Arabic Audio": "eca-0998-2.mp3",
 			"Standard Arabic Audio": "msa-0998-2.mp3"
 		},
@@ -31,7 +31,7 @@
 			"English": "Our cousin went into labor and had her baby last week.",
 			"Word Count": 11,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ذهب ابن عمنا إلى المخاض وكان طفلها في الأسبوع الماضي.",
 			"Egyptian Arabic Audio": "eca-0998-3.mp3",
 			"Standard Arabic Audio": "msa-0998-3.mp3"
 		},
@@ -41,7 +41,7 @@
 			"English": "She did? Why didn't anyone tell me?",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هي فعلت؟ لماذا لم يخبرني أحد؟",
 			"Egyptian Arabic Audio": "eca-0998-4.mp3",
 			"Standard Arabic Audio": "msa-0998-4.mp3"
 		},
@@ -51,7 +51,7 @@
 			"English": "I would've thought that somebody would have told you.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كنت قد فكرت أن شخص ما قد قال لك.",
 			"Egyptian Arabic Audio": "eca-0998-5.mp3",
 			"Standard Arabic Audio": "msa-0998-5.mp3"
 		},
@@ -61,7 +61,7 @@
 			"English": "No, I had no idea.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لا، لم يكن لدي أي فكرة.",
 			"Egyptian Arabic Audio": "eca-0998-6.mp3",
 			"Standard Arabic Audio": "msa-0998-6.mp3"
 		},
@@ -71,7 +71,7 @@
 			"English": "Well, she did, her baby was 8 pounds 6 ounces.",
 			"Word Count": 10,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "حسنا، فعلت، كان طفلها 8 £ 6 أوقية.",
 			"Egyptian Arabic Audio": "eca-0998-7.mp3",
 			"Standard Arabic Audio": "msa-0998-7.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "Oh my God, that's great!",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يا إلهي، هذا عظيم!",
 			"Egyptian Arabic Audio": "eca-0998-8.mp3",
 			"Standard Arabic Audio": "msa-0998-8.mp3"
 		},
@@ -91,7 +91,7 @@
 			"English": "Are you going to go and visit her and the baby?",
 			"Word Count": 11,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنت ذاهب للذهاب وزيارة لها والطفل؟",
 			"Egyptian Arabic Audio": "eca-0998-9.mp3",
 			"Standard Arabic Audio": "msa-0998-9.mp3"
 		},
@@ -101,7 +101,7 @@
 			"English": "I think that I might.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أعتقد أنني قد.",
 			"Egyptian Arabic Audio": "eca-0998-10.mp3",
 			"Standard Arabic Audio": "msa-0998-10.mp3"
 		},
@@ -111,7 +111,7 @@
 			"English": "Good! I just thought I'd let you know.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "جيد! أنا فقط فكرت أود أن أعلمكم.",
 			"Egyptian Arabic Audio": "eca-0998-11.mp3",
 			"Standard Arabic Audio": "msa-0998-11.mp3"
 		},
@@ -121,7 +121,7 @@
 			"English": "Thanks for telling me.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "شكرا لإخباري.",
 			"Egyptian Arabic Audio": "eca-0998-12.mp3",
 			"Standard Arabic Audio": "msa-0998-12.mp3"
 		},
@@ -131,7 +131,7 @@
 			"English": "Have you heard what happened?",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هل سمعت ما حدث؟",
 			"Egyptian Arabic Audio": "eca-0998-13.mp3",
 			"Standard Arabic Audio": "msa-0998-13.mp3"
 		},
@@ -141,7 +141,7 @@
 			"English": "Heard what?",
 			"Word Count": 2,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "سمعت ماذا؟",
 			"Egyptian Arabic Audio": "eca-0998-14.mp3",
 			"Standard Arabic Audio": "msa-0998-14.mp3"
 		},
@@ -151,7 +151,7 @@
 			"English": "Debrah already had her baby.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كان دبراه قد ولدها بالفعل.",
 			"Egyptian Arabic Audio": "eca-0998-15.mp3",
 			"Standard Arabic Audio": "msa-0998-15.mp3"
 		},
@@ -161,7 +161,7 @@
 			"English": "I didn't know that.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لم أكن أعرف ذلك.",
 			"Egyptian Arabic Audio": "eca-0998-16.mp3",
 			"Standard Arabic Audio": "msa-0998-16.mp3"
 		},
@@ -171,7 +171,7 @@
 			"English": "I thought you knew.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "اعتقدت بأنك تعلم.",
 			"Egyptian Arabic Audio": "eca-0998-17.mp3",
 			"Standard Arabic Audio": "msa-0998-17.mp3"
 		},
@@ -181,7 +181,7 @@
 			"English": "I honestly didn't know.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنا بصراحة لم أعرف.",
 			"Egyptian Arabic Audio": "eca-0998-18.mp3",
 			"Standard Arabic Audio": "msa-0998-18.mp3"
 		},
@@ -191,7 +191,7 @@
 			"English": "The baby was 8 pounds 6 ounces.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كان الطفل 8 أرطال 6 أوقية.",
 			"Egyptian Arabic Audio": "eca-0998-19.mp3",
 			"Standard Arabic Audio": "msa-0998-19.mp3"
 		},
@@ -201,7 +201,7 @@
 			"English": "That's good to hear.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هذا جيد أن نسمع.",
 			"Egyptian Arabic Audio": "eca-0998-20.mp3",
 			"Standard Arabic Audio": "msa-0998-20.mp3"
 		},
@@ -211,7 +211,7 @@
 			"English": "Will you go and visit them?",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "سوف تذهب وزيارة لهم؟",
 			"Egyptian Arabic Audio": "eca-0998-21.mp3",
 			"Standard Arabic Audio": "msa-0998-21.mp3"
 		},
@@ -221,7 +221,7 @@
 			"English": "Of course I will.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "طبعا سافعل.",
 			"Egyptian Arabic Audio": "eca-0998-22.mp3",
 			"Standard Arabic Audio": "msa-0998-22.mp3"
 		},
@@ -231,7 +231,7 @@
 			"English": "I just wanted to give you the good news.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أردت فقط أن أعطيك الخبر السار.",
 			"Egyptian Arabic Audio": "eca-0998-23.mp3",
 			"Standard Arabic Audio": "msa-0998-23.mp3"
 		},
@@ -241,7 +241,7 @@
 			"English": "Thanks for letting me know.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "شكرا على إعلامي.",
 			"Egyptian Arabic Audio": "eca-0998-24.mp3",
 			"Standard Arabic Audio": "msa-0998-24.mp3"
 		},
@@ -251,7 +251,7 @@
 			"English": "Have you heard the news?",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هل سمعت الأخبار؟",
 			"Egyptian Arabic Audio": "eca-0998-25.mp3",
 			"Standard Arabic Audio": "msa-0998-25.mp3"
 		},
@@ -261,7 +261,7 @@
 			"English": "I haven't heard anything.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لم أسمع أي شيء.",
 			"Egyptian Arabic Audio": "eca-0998-26.mp3",
 			"Standard Arabic Audio": "msa-0998-26.mp3"
 		},
@@ -271,7 +271,7 @@
 			"English": "Debrah had her baby last week.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وكان ديبرا قد ولدها الأسبوع الماضي.",
 			"Egyptian Arabic Audio": "eca-0998-27.mp3",
 			"Standard Arabic Audio": "msa-0998-27.mp3"
 		},
@@ -281,7 +281,7 @@
 			"English": "Nobody told me.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لم يخبرني أحد.",
 			"Egyptian Arabic Audio": "eca-0998-28.mp3",
 			"Standard Arabic Audio": "msa-0998-28.mp3"
 		},
@@ -291,7 +291,7 @@
 			"English": "I thought you heard.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "اعتقدت أنك سمعت.",
 			"Egyptian Arabic Audio": "eca-0998-29.mp3",
 			"Standard Arabic Audio": "msa-0998-29.mp3"
 		},
@@ -301,7 +301,7 @@
 			"English": "I really wasn't told anything.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنا حقا لم يقل أي شيء.",
 			"Egyptian Arabic Audio": "eca-0998-30.mp3",
 			"Standard Arabic Audio": "msa-0998-30.mp3"
 		},
@@ -311,7 +311,7 @@
 			"English": "She was a cute 8 pounds 6 ounces.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كانت لطيف 8 £ 6 أوقية.",
 			"Egyptian Arabic Audio": "eca-0998-31.mp3",
 			"Standard Arabic Audio": "msa-0998-31.mp3"
 		},
@@ -321,7 +321,7 @@
 			"English": "Wow, how exciting.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "نجاح باهر، ومثيرة.",
 			"Egyptian Arabic Audio": "eca-0998-32.mp3",
 			"Standard Arabic Audio": "msa-0998-32.mp3"
 		},
@@ -331,7 +331,7 @@
 			"English": "I know, you should really go and see her and the baby.",
 			"Word Count": 12,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وأنا أعلم، يجب أن تذهب حقا ورؤيتها والطفل.",
 			"Egyptian Arabic Audio": "eca-0998-33.mp3",
 			"Standard Arabic Audio": "msa-0998-33.mp3"
 		},
@@ -341,7 +341,7 @@
 			"English": "Of course I will.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "طبعا سافعل.",
 			"Egyptian Arabic Audio": "eca-0998-34.mp3",
 			"Standard Arabic Audio": "msa-0998-34.mp3"
 		},
@@ -351,7 +351,7 @@
 			"English": "I just wanted to let you know what happened.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أردت فقط أن أخبركم بما حدث.",
 			"Egyptian Arabic Audio": "eca-0998-35.mp3",
 			"Standard Arabic Audio": "msa-0998-35.mp3"
 		},
@@ -361,7 +361,7 @@
 			"English": "I appreciate that.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وأنا أقدر ذلك.",
 			"Egyptian Arabic Audio": "eca-0998-36.mp3",
 			"Standard Arabic Audio": "msa-0998-36.mp3"
 		}

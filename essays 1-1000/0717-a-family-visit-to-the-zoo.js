@@ -9,7 +9,7 @@
 			"English": "It was a family trip.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كانت رحلة عائلية.",
 			"Egyptian Arabic Audio": "eca-0717-1.mp3",
 			"Standard Arabic Audio": "msa-0717-1.mp3"
 		},
@@ -18,7 +18,7 @@
 			"English": "They drove to the zoo.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كانوا يقودون إلى حديقة الحيوان.",
 			"Egyptian Arabic Audio": "eca-0717-2.mp3",
 			"Standard Arabic Audio": "msa-0717-2.mp3"
 		},
@@ -27,7 +27,7 @@
 			"English": "The zoo was far away.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كانت حديقة الحيوان بعيدا.",
 			"Egyptian Arabic Audio": "eca-0717-3.mp3",
 			"Standard Arabic Audio": "msa-0717-3.mp3"
 		},
@@ -36,7 +36,7 @@
 			"English": "The children were excited.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كان الأطفال متحمسين.",
 			"Egyptian Arabic Audio": "eca-0717-4.mp3",
 			"Standard Arabic Audio": "msa-0717-4.mp3"
 		},
@@ -45,7 +45,7 @@
 			"English": "They had never seen wild animals before.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لم ير الحيوانات البرية من قبل.",
 			"Egyptian Arabic Audio": "eca-0717-5.mp3",
 			"Standard Arabic Audio": "msa-0717-5.mp3"
 		},
@@ -54,7 +54,7 @@
 			"English": "They had only seen cats and dogs.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لقد رأوا القطط والكلاب فقط.",
 			"Egyptian Arabic Audio": "eca-0717-6.mp3",
 			"Standard Arabic Audio": "msa-0717-6.mp3"
 		},
@@ -63,7 +63,7 @@
 			"English": "They wanted to see bears and gorillas.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أرادوا رؤية الدببة والغوريلا.",
 			"Egyptian Arabic Audio": "eca-0717-7.mp3",
 			"Standard Arabic Audio": "msa-0717-7.mp3"
 		},
@@ -72,7 +72,7 @@
 			"English": "The older sibling was not excited.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لم يكن الشقيق الأكبر سنا متحمسا.",
 			"Egyptian Arabic Audio": "eca-0717-8.mp3",
 			"Standard Arabic Audio": "msa-0717-8.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "He had been to the zoo before.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كان إلى حديقة الحيوان من قبل.",
 			"Egyptian Arabic Audio": "eca-0717-9.mp3",
 			"Standard Arabic Audio": "msa-0717-9.mp3"
 		},
@@ -90,7 +90,7 @@
 			"English": "He had been there too many times.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لقد كان هناك مرات كثيرة جدا.",
 			"Egyptian Arabic Audio": "eca-0717-10.mp3",
 			"Standard Arabic Audio": "msa-0717-10.mp3"
 		},
@@ -99,7 +99,7 @@
 			"English": "It was now his tenth time.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لقد أصبح الآن في المرة العاشرة.",
 			"Egyptian Arabic Audio": "eca-0717-11.mp3",
 			"Standard Arabic Audio": "msa-0717-11.mp3"
 		},
@@ -108,7 +108,7 @@
 			"English": "He did not want to go there anymore.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لم يكن يريد الذهاب إلى هناك بعد الآن.",
 			"Egyptian Arabic Audio": "eca-0717-12.mp3",
 			"Standard Arabic Audio": "msa-0717-12.mp3"
 		},
@@ -117,7 +117,7 @@
 			"English": "Mom and dad liked the zoo.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أمي وأبي أحب حديقة الحيوان.",
 			"Egyptian Arabic Audio": "eca-0717-13.mp3",
 			"Standard Arabic Audio": "msa-0717-13.mp3"
 		},
@@ -126,7 +126,7 @@
 			"English": "It was a good learning experience.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لقد كانت تجربة تعليمية جيدة.",
 			"Egyptian Arabic Audio": "eca-0717-14.mp3",
 			"Standard Arabic Audio": "msa-0717-14.mp3"
 		},
@@ -135,7 +135,7 @@
 			"English": "Grandpa was also going.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "الجد كان أيضا ذاهبا.",
 			"Egyptian Arabic Audio": "eca-0717-15.mp3",
 			"Standard Arabic Audio": "msa-0717-15.mp3"
 		},
@@ -144,7 +144,7 @@
 			"English": "He was sound asleep.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كان نائما.",
 			"Egyptian Arabic Audio": "eca-0717-16.mp3",
 			"Standard Arabic Audio": "msa-0717-16.mp3"
 		},
@@ -153,7 +153,7 @@
 			"English": "They arrived at the zoo.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وصلوا إلى حديقة الحيوان.",
 			"Egyptian Arabic Audio": "eca-0717-17.mp3",
 			"Standard Arabic Audio": "msa-0717-17.mp3"
 		},
@@ -162,7 +162,7 @@
 			"English": "They saw all the animals.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "رأوا جميع الحيوانات.",
 			"Egyptian Arabic Audio": "eca-0717-18.mp3",
 			"Standard Arabic Audio": "msa-0717-18.mp3"
 		},
@@ -171,7 +171,7 @@
 			"English": "They heard a bear roar.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "سمعوا هدير الدب.",
 			"Egyptian Arabic Audio": "eca-0717-19.mp3",
 			"Standard Arabic Audio": "msa-0717-19.mp3"
 		},
@@ -180,7 +180,7 @@
 			"English": "They touched the starfishes.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لقد لمسوا النجم.",
 			"Egyptian Arabic Audio": "eca-0717-20.mp3",
 			"Standard Arabic Audio": "msa-0717-20.mp3"
 		},
@@ -189,7 +189,7 @@
 			"English": "They saw the gorillas.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "رأوا الغوريلا.",
 			"Egyptian Arabic Audio": "eca-0717-21.mp3",
 			"Standard Arabic Audio": "msa-0717-21.mp3"
 		},
@@ -198,7 +198,7 @@
 			"English": "It was a long day.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كان يوما طويلا.",
 			"Egyptian Arabic Audio": "eca-0717-22.mp3",
 			"Standard Arabic Audio": "msa-0717-22.mp3"
 		},
@@ -207,7 +207,7 @@
 			"English": "The family got tired.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "تعبت الأسرة.",
 			"Egyptian Arabic Audio": "eca-0717-23.mp3",
 			"Standard Arabic Audio": "msa-0717-23.mp3"
 		},
@@ -216,7 +216,7 @@
 			"English": "They sat and ate food.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "جلسوا وأكلوا الطعام.",
 			"Egyptian Arabic Audio": "eca-0717-24.mp3",
 			"Standard Arabic Audio": "msa-0717-24.mp3"
 		},
@@ -225,7 +225,7 @@
 			"English": "They went back to their car.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "عادوا إلى سيارتهم.",
 			"Egyptian Arabic Audio": "eca-0717-25.mp3",
 			"Standard Arabic Audio": "msa-0717-25.mp3"
 		},
@@ -234,7 +234,7 @@
 			"English": "They drove back home.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "عادوا إلى ديارهم.",
 			"Egyptian Arabic Audio": "eca-0717-26.mp3",
 			"Standard Arabic Audio": "msa-0717-26.mp3"
 		}

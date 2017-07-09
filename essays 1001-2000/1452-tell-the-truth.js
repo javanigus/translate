@@ -9,7 +9,7 @@
 			"English": "She was angry.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كانت غاضبة.",
 			"Egyptian Arabic Audio": "eca-1452-1.mp3",
 			"Standard Arabic Audio": "msa-1452-1.mp3"
 		},
@@ -18,7 +18,7 @@
 			"English": "She was angry at her husband.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كانت غاضبة من زوجها.",
 			"Egyptian Arabic Audio": "eca-1452-2.mp3",
 			"Standard Arabic Audio": "msa-1452-2.mp3"
 		},
@@ -27,7 +27,7 @@
 			"English": "He lied to her.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كذب عليها.",
 			"Egyptian Arabic Audio": "eca-1452-3.mp3",
 			"Standard Arabic Audio": "msa-1452-3.mp3"
 		},
@@ -36,7 +36,7 @@
 			"English": "He lied many times.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كذب عدة مرات.",
 			"Egyptian Arabic Audio": "eca-1452-4.mp3",
 			"Standard Arabic Audio": "msa-1452-4.mp3"
 		},
@@ -45,7 +45,7 @@
 			"English": "She was tired of his lies.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "تعبت من أكاذيبه.",
 			"Egyptian Arabic Audio": "eca-1452-5.mp3",
 			"Standard Arabic Audio": "msa-1452-5.mp3"
 		},
@@ -54,7 +54,7 @@
 			"English": "She said enough was enough.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وقالت إن ما يكفي يكفي.",
 			"Egyptian Arabic Audio": "eca-1452-6.mp3",
 			"Standard Arabic Audio": "msa-1452-6.mp3"
 		},
@@ -63,7 +63,7 @@
 			"English": "She took off her ring.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أخذت خاتمها.",
 			"Egyptian Arabic Audio": "eca-1452-7.mp3",
 			"Standard Arabic Audio": "msa-1452-7.mp3"
 		},
@@ -72,7 +72,7 @@
 			"English": "She dropped it into the toilet.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أسقطتها في المرحاض.",
 			"Egyptian Arabic Audio": "eca-1452-8.mp3",
 			"Standard Arabic Audio": "msa-1452-8.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "She flushed the toilet.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "الوجه الصفع وقالت انها مسح المرحاض.",
 			"Egyptian Arabic Audio": "eca-1452-9.mp3",
 			"Standard Arabic Audio": "msa-1452-9.mp3"
 		},
@@ -90,7 +90,7 @@
 			"English": "She got into her car.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "حصلت في سيارتها.",
 			"Egyptian Arabic Audio": "eca-1452-10.mp3",
 			"Standard Arabic Audio": "msa-1452-10.mp3"
 		},
@@ -99,7 +99,7 @@
 			"English": "She got on the freeway.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "حصلت على الطريق السريع.",
 			"Egyptian Arabic Audio": "eca-1452-11.mp3",
 			"Standard Arabic Audio": "msa-1452-11.mp3"
 		},
@@ -108,7 +108,7 @@
 			"English": "She drove the car fast.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "قادت السيارة بسرعة.",
 			"Egyptian Arabic Audio": "eca-1452-12.mp3",
 			"Standard Arabic Audio": "msa-1452-12.mp3"
 		},
@@ -117,7 +117,7 @@
 			"English": "She was crying.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كانت تبكي.",
 			"Egyptian Arabic Audio": "eca-1452-13.mp3",
 			"Standard Arabic Audio": "msa-1452-13.mp3"
 		},
@@ -126,7 +126,7 @@
 			"English": "She was very sad.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كانت حزينة جدا.",
 			"Egyptian Arabic Audio": "eca-1452-14.mp3",
 			"Standard Arabic Audio": "msa-1452-14.mp3"
 		},
@@ -135,7 +135,7 @@
 			"English": "She drove the car faster.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وقالت انها تقود السيارة بشكل أسرع.",
 			"Egyptian Arabic Audio": "eca-1452-15.mp3",
 			"Standard Arabic Audio": "msa-1452-15.mp3"
 		},
@@ -144,7 +144,7 @@
 			"English": "She passed many cars.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "مرت العديد من السيارات.",
 			"Egyptian Arabic Audio": "eca-1452-16.mp3",
 			"Standard Arabic Audio": "msa-1452-16.mp3"
 		},
@@ -153,7 +153,7 @@
 			"English": "The speed limit was 60 mph.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وكان الحد الأقصى للسرعة 60 ميلا في الساعة.",
 			"Egyptian Arabic Audio": "eca-1452-17.mp3",
 			"Standard Arabic Audio": "msa-1452-17.mp3"
 		},
@@ -162,7 +162,7 @@
 			"English": "She was going 80 mph.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كانت تسير 80 ميلا في الساعة.",
 			"Egyptian Arabic Audio": "eca-1452-18.mp3",
 			"Standard Arabic Audio": "msa-1452-18.mp3"
 		},
@@ -171,7 +171,7 @@
 			"English": "A cop saw her.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "شاهدها شرطي.",
 			"Egyptian Arabic Audio": "eca-1452-19.mp3",
 			"Standard Arabic Audio": "msa-1452-19.mp3"
 		},
@@ -180,7 +180,7 @@
 			"English": "The cop chased her.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "طاردت الشرطي لها.",
 			"Egyptian Arabic Audio": "eca-1452-20.mp3",
 			"Standard Arabic Audio": "msa-1452-20.mp3"
 		},
@@ -189,7 +189,7 @@
 			"English": "The cop turned on his red light.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "تحول الشرطي على ضوءه الأحمر.",
 			"Egyptian Arabic Audio": "eca-1452-21.mp3",
 			"Standard Arabic Audio": "msa-1452-21.mp3"
 		},
@@ -198,7 +198,7 @@
 			"English": "He turned on his siren.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وتناول صفارات الإنذار.",
 			"Egyptian Arabic Audio": "eca-1452-22.mp3",
 			"Standard Arabic Audio": "msa-1452-22.mp3"
 		},
@@ -207,7 +207,7 @@
 			"English": "She heard the cop car.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "سمعت سيارة الشرطي.",
 			"Egyptian Arabic Audio": "eca-1452-23.mp3",
 			"Standard Arabic Audio": "msa-1452-23.mp3"
 		},
@@ -216,7 +216,7 @@
 			"English": "She saw the flashing light.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "رأت ضوء وامض.",
 			"Egyptian Arabic Audio": "eca-1452-24.mp3",
 			"Standard Arabic Audio": "msa-1452-24.mp3"
 		},
@@ -225,7 +225,7 @@
 			"English": "She drove faster.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انها تقود بشكل أسرع.",
 			"Egyptian Arabic Audio": "eca-1452-25.mp3",
 			"Standard Arabic Audio": "msa-1452-25.mp3"
 		},
@@ -234,7 +234,7 @@
 			"English": "Now she was going 90 mph.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "الآن كانت تسير 90 ميلا في الساعة.",
 			"Egyptian Arabic Audio": "eca-1452-26.mp3",
 			"Standard Arabic Audio": "msa-1452-26.mp3"
 		},
@@ -243,7 +243,7 @@
 			"English": "The cop drove faster.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "قاد الشرطي أسرع.",
 			"Egyptian Arabic Audio": "eca-1452-27.mp3",
 			"Standard Arabic Audio": "msa-1452-27.mp3"
 		},
@@ -252,7 +252,7 @@
 			"English": "It started to rain.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "بدأت تمطر.",
 			"Egyptian Arabic Audio": "eca-1452-28.mp3",
 			"Standard Arabic Audio": "msa-1452-28.mp3"
 		},
@@ -261,7 +261,7 @@
 			"English": "She didn't slow down.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لم تبطئ.",
 			"Egyptian Arabic Audio": "eca-1452-29.mp3",
 			"Standard Arabic Audio": "msa-1452-29.mp3"
 		},
@@ -270,7 +270,7 @@
 			"English": "She lost control.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "فقدت السيطرة.",
 			"Egyptian Arabic Audio": "eca-1452-30.mp3",
 			"Standard Arabic Audio": "msa-1452-30.mp3"
 		},
@@ -279,7 +279,7 @@
 			"English": "The car rolled over.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "السيارة تدحرجت.",
 			"Egyptian Arabic Audio": "eca-1452-31.mp3",
 			"Standard Arabic Audio": "msa-1452-31.mp3"
 		},
@@ -288,7 +288,7 @@
 			"English": "It rolled over and over.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انها توالت مرارا وتكرارا.",
 			"Egyptian Arabic Audio": "eca-1452-32.mp3",
 			"Standard Arabic Audio": "msa-1452-32.mp3"
 		},
@@ -297,7 +297,7 @@
 			"English": "She died before it came to a stop.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ماتت قبل أن تتوقف.",
 			"Egyptian Arabic Audio": "eca-1452-33.mp3",
 			"Standard Arabic Audio": "msa-1452-33.mp3"
 		}

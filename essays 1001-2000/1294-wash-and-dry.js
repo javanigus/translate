@@ -9,7 +9,7 @@
 			"English": "She went into the laundry room.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ذهبت إلى غرفة الغسيل.",
 			"Egyptian Arabic Audio": "eca-1294-1.mp3",
 			"Standard Arabic Audio": "msa-1294-1.mp3"
 		},
@@ -18,7 +18,7 @@
 			"English": "She was in a hurry.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هى كانت على استعجال.",
 			"Egyptian Arabic Audio": "eca-1294-2.mp3",
 			"Standard Arabic Audio": "msa-1294-2.mp3"
 		},
@@ -27,7 +27,7 @@
 			"English": "She needed to wash and dry her clothes.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كانت تحتاج لغسل وتجفيف ملابسها.",
 			"Egyptian Arabic Audio": "eca-1294-3.mp3",
 			"Standard Arabic Audio": "msa-1294-3.mp3"
 		},
@@ -36,7 +36,7 @@
 			"English": "Then she needed to go to work.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ثم كانت بحاجة للذهاب إلى العمل.",
 			"Egyptian Arabic Audio": "eca-1294-4.mp3",
 			"Standard Arabic Audio": "msa-1294-4.mp3"
 		},
@@ -45,7 +45,7 @@
 			"English": "The washer was running.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كانت الغسالة قيد التشغيل.",
 			"Egyptian Arabic Audio": "eca-1294-5.mp3",
 			"Standard Arabic Audio": "msa-1294-5.mp3"
 		},
@@ -54,7 +54,7 @@
 			"English": "Someone was using the washer.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "شخص ما كان يستخدم الغسالة.",
 			"Egyptian Arabic Audio": "eca-1294-6.mp3",
 			"Standard Arabic Audio": "msa-1294-6.mp3"
 		},
@@ -63,7 +63,7 @@
 			"English": "The washer stopped.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "توقف الغسالة.",
 			"Egyptian Arabic Audio": "eca-1294-7.mp3",
 			"Standard Arabic Audio": "msa-1294-7.mp3"
 		},
@@ -72,7 +72,7 @@
 			"English": "She opened the lid.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "فتحت الغطاء.",
 			"Egyptian Arabic Audio": "eca-1294-8.mp3",
 			"Standard Arabic Audio": "msa-1294-8.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "She took the damp clothes out of the washer.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أخذت الملابس الرطبة من الغسالة.",
 			"Egyptian Arabic Audio": "eca-1294-9.mp3",
 			"Standard Arabic Audio": "msa-1294-9.mp3"
 		},
@@ -90,7 +90,7 @@
 			"English": "The damp clothes belonged to someone else.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "الملابس الرطبة تنتمي إلى شخص آخر.",
 			"Egyptian Arabic Audio": "eca-1294-10.mp3",
 			"Standard Arabic Audio": "msa-1294-10.mp3"
 		},
@@ -99,7 +99,7 @@
 			"English": "She put their clothes on top of the dryer.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وضعت ملابسها على رأس المجفف.",
 			"Egyptian Arabic Audio": "eca-1294-11.mp3",
 			"Standard Arabic Audio": "msa-1294-11.mp3"
 		},
@@ -108,7 +108,7 @@
 			"English": "She put her own clothes into the washer.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وضعت ملابسها الخاصة في الغسالة.",
 			"Egyptian Arabic Audio": "eca-1294-12.mp3",
 			"Standard Arabic Audio": "msa-1294-12.mp3"
 		},
@@ -117,7 +117,7 @@
 			"English": "She started the washer.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "بدأت الغسالة.",
 			"Egyptian Arabic Audio": "eca-1294-13.mp3",
 			"Standard Arabic Audio": "msa-1294-13.mp3"
 		},
@@ -126,7 +126,7 @@
 			"English": "Half an hour later, she took her clothes out of the washer.",
 			"Word Count": 12,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وبعد نصف ساعة، أخذت ملابسها من الغسالة.",
 			"Egyptian Arabic Audio": "eca-1294-14.mp3",
 			"Standard Arabic Audio": "msa-1294-14.mp3"
 		},
@@ -135,7 +135,7 @@
 			"English": "She put her clothes into the dryer.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وضعت ملابسها في مجفف.",
 			"Egyptian Arabic Audio": "eca-1294-15.mp3",
 			"Standard Arabic Audio": "msa-1294-15.mp3"
 		},
@@ -144,7 +144,7 @@
 			"English": "An hour later, she took her clothes out of the dryer.",
 			"Word Count": 11,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وبعد ساعة، أخذت ملابسها من المجفف.",
 			"Egyptian Arabic Audio": "eca-1294-16.mp3",
 			"Standard Arabic Audio": "msa-1294-16.mp3"
 		},
@@ -153,7 +153,7 @@
 			"English": "Then she went to work.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ثم ذهبت للعمل.",
 			"Egyptian Arabic Audio": "eca-1294-17.mp3",
 			"Standard Arabic Audio": "msa-1294-17.mp3"
 		},
@@ -162,7 +162,7 @@
 			"English": "She left the damp clothes on top of the dryer.",
 			"Word Count": 10,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "تركت الملابس الرطبة على رأس المجفف.",
 			"Egyptian Arabic Audio": "eca-1294-18.mp3",
 			"Standard Arabic Audio": "msa-1294-18.mp3"
 		}

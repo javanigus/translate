@@ -11,7 +11,7 @@
 			"English": "Do you like my new bicycle?",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هل تحب بلدي دراجة جديدة؟",
 			"Egyptian Arabic Audio": "eca-0192-1.mp3",
 			"Standard Arabic Audio": "msa-0192-1.mp3"
 		},
@@ -21,7 +21,7 @@
 			"English": "It looks very sporty!",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يبدو رياضي جدا!",
 			"Egyptian Arabic Audio": "eca-0192-2.mp3",
 			"Standard Arabic Audio": "msa-0192-2.mp3"
 		},
@@ -31,7 +31,7 @@
 			"English": "It's a racing bike. I bought it so I could be in the triathlon.",
 			"Word Count": 14,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انها دراجة سباق. اشتريتها حتى أكون في الترياتلون.",
 			"Egyptian Arabic Audio": "eca-0192-3.mp3",
 			"Standard Arabic Audio": "msa-0192-3.mp3"
 		},
@@ -41,7 +41,7 @@
 			"English": "Wow! I hear triathlons are difficult!",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "نجاح باهر أسمع ترياثلونس صعبة!",
 			"Egyptian Arabic Audio": "eca-0192-4.mp3",
 			"Standard Arabic Audio": "msa-0192-4.mp3"
 		},
@@ -51,7 +51,7 @@
 			"English": "You have to train hard for them.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لديك لتدريب من الصعب بالنسبة لهم.",
 			"Egyptian Arabic Audio": "eca-0192-5.mp3",
 			"Standard Arabic Audio": "msa-0192-5.mp3"
 		},
@@ -61,7 +61,7 @@
 			"English": "Are triathlons always based on the same three sports?",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هل ترياثلونس دائما على أساس نفس الرياضات الثلاث؟",
 			"Egyptian Arabic Audio": "eca-0192-6.mp3",
 			"Standard Arabic Audio": "msa-0192-6.mp3"
 		},
@@ -71,7 +71,7 @@
 			"English": "Yes. They are cycling, running, and swimming.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "نعم فعلا. هم ركوب الدراجات، تشغيل، والسباحة.",
 			"Egyptian Arabic Audio": "eca-0192-7.mp3",
 			"Standard Arabic Audio": "msa-0192-7.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "It's so exciting! I'll be sure to watch you compete.",
 			"Word Count": 10,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انها مثيرة جدا! سوف أكون على يقين من مشاهدة لك التنافس.",
 			"Egyptian Arabic Audio": "eca-0192-8.mp3",
 			"Standard Arabic Audio": "msa-0192-8.mp3"
 		},
@@ -91,7 +91,7 @@
 			"English": "It's not a competition against others.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انها ليست منافسة ضد الآخرين.",
 			"Egyptian Arabic Audio": "eca-0192-9.mp3",
 			"Standard Arabic Audio": "msa-0192-9.mp3"
 		},
@@ -101,7 +101,7 @@
 			"English": "It's not? No one can win first place?",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ليست كذلك؟ لا أحد يستطيع الفوز بالمركز الأول؟",
 			"Egyptian Arabic Audio": "eca-0192-10.mp3",
 			"Standard Arabic Audio": "msa-0192-10.mp3"
 		},
@@ -111,7 +111,7 @@
 			"English": "You can, but I just want to prove to myself I can do it.",
 			"Word Count": 14,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يمكنك، ولكن أريد فقط أن يثبت لنفسي أستطيع أن أفعل ذلك.",
 			"Egyptian Arabic Audio": "eca-0192-11.mp3",
 			"Standard Arabic Audio": "msa-0192-11.mp3"
 		},
@@ -121,7 +121,7 @@
 			"English": "I'm sure you can! I'll even sponsor you in the race.",
 			"Word Count": 11,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنا متأكد من أنك تستطيع! أنا حتى رعايتك في السباق.",
 			"Egyptian Arabic Audio": "eca-0192-12.mp3",
 			"Standard Arabic Audio": "msa-0192-12.mp3"
 		}

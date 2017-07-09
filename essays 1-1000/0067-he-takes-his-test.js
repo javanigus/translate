@@ -9,7 +9,7 @@
 			"English": "The teacher announces that there is a test.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "المعلم يعلن أن هناك اختبار.",
 			"Egyptian Arabic Audio": "eca-0067-1.mp3",
 			"Standard Arabic Audio": "msa-0067-1.mp3"
 		},
@@ -18,7 +18,7 @@
 			"English": "The students clear off their desks.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يقوم الطلاب بإلغاء مكاتبهم.",
 			"Egyptian Arabic Audio": "eca-0067-2.mp3",
 			"Standard Arabic Audio": "msa-0067-2.mp3"
 		},
@@ -27,7 +27,7 @@
 			"English": "The teacher passes out the tests.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "المعلم يمر الاختبارات.",
 			"Egyptian Arabic Audio": "eca-0067-3.mp3",
 			"Standard Arabic Audio": "msa-0067-3.mp3"
 		},
@@ -36,7 +36,7 @@
 			"English": "A student takes a deep breath.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "الطالب يأخذ نفسا عميقا.",
 			"Egyptian Arabic Audio": "eca-0067-4.mp3",
 			"Standard Arabic Audio": "msa-0067-4.mp3"
 		},
@@ -45,7 +45,7 @@
 			"English": "He takes out his pencil.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انه يأخذ قلمه.",
 			"Egyptian Arabic Audio": "eca-0067-5.mp3",
 			"Standard Arabic Audio": "msa-0067-5.mp3"
 		},
@@ -54,7 +54,7 @@
 			"English": "He looks at the questions.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انه ينظر في الأسئلة.",
 			"Egyptian Arabic Audio": "eca-0067-6.mp3",
 			"Standard Arabic Audio": "msa-0067-6.mp3"
 		},
@@ -63,7 +63,7 @@
 			"English": "He knows the answers.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يعرف الإجابات.",
 			"Egyptian Arabic Audio": "eca-0067-7.mp3",
 			"Standard Arabic Audio": "msa-0067-7.mp3"
 		},
@@ -72,7 +72,7 @@
 			"English": "He writes them down.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يكتب لهم.",
 			"Egyptian Arabic Audio": "eca-0067-8.mp3",
 			"Standard Arabic Audio": "msa-0067-8.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "He finishes the test.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انهى الاختبار.",
 			"Egyptian Arabic Audio": "eca-0067-9.mp3",
 			"Standard Arabic Audio": "msa-0067-9.mp3"
 		},
@@ -90,7 +90,7 @@
 			"English": "He feels good.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انه يشعر جيدة.",
 			"Egyptian Arabic Audio": "eca-0067-10.mp3",
 			"Standard Arabic Audio": "msa-0067-10.mp3"
 		}

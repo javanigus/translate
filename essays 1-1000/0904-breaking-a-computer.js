@@ -9,7 +9,7 @@
 			"English": "\"Oh, no!\" John screamed.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "&quot;أوه، لا!&quot; صرخ جون.",
 			"Egyptian Arabic Audio": "eca-0904-1.mp3",
 			"Standard Arabic Audio": "msa-0904-1.mp3"
 		},
@@ -18,7 +18,7 @@
 			"English": "The computer was now broken.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "تم كسر الكمبيوتر الآن.",
 			"Egyptian Arabic Audio": "eca-0904-2.mp3",
 			"Standard Arabic Audio": "msa-0904-2.mp3"
 		},
@@ -27,7 +27,7 @@
 			"English": "John had to tell his parents.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كان على جون أن يخبر والديه.",
 			"Egyptian Arabic Audio": "eca-0904-3.mp3",
 			"Standard Arabic Audio": "msa-0904-3.mp3"
 		},
@@ -36,7 +36,7 @@
 			"English": "They were very upset with him.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كانوا مستاءين جدا معه.",
 			"Egyptian Arabic Audio": "eca-0904-4.mp3",
 			"Standard Arabic Audio": "msa-0904-4.mp3"
 		},
@@ -45,7 +45,7 @@
 			"English": "They took the computer to the shop the next day to get it fixed.",
 			"Word Count": 14,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أخذوا الكمبيوتر إلى المحل في اليوم التالي للحصول عليه ثابتة.",
 			"Egyptian Arabic Audio": "eca-0904-5.mp3",
 			"Standard Arabic Audio": "msa-0904-5.mp3"
 		},
@@ -54,7 +54,7 @@
 			"English": "John felt very bad.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "جون شعر سيئة للغاية.",
 			"Egyptian Arabic Audio": "eca-0904-6.mp3",
 			"Standard Arabic Audio": "msa-0904-6.mp3"
 		},
@@ -63,7 +63,7 @@
 			"English": "He learned not to take his anger out violently.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وتعلم أن لا يأخذ غضبه بعنف.",
 			"Egyptian Arabic Audio": "eca-0904-7.mp3",
 			"Standard Arabic Audio": "msa-0904-7.mp3"
 		},
@@ -72,7 +72,7 @@
 			"English": "He stopped playing the game.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "توقف عن اللعب اللعبة.",
 			"Egyptian Arabic Audio": "eca-0904-8.mp3",
 			"Standard Arabic Audio": "msa-0904-8.mp3"
 		}

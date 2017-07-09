@@ -11,7 +11,7 @@
 			"English": "I want to go try on these clothes.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أريد أن أذهب محاولة على هذه الملابس.",
 			"Egyptian Arabic Audio": "eca-1209-1.mp3",
 			"Standard Arabic Audio": "msa-1209-1.mp3"
 		},
@@ -21,7 +21,7 @@
 			"English": "What did you find?",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ماذا وجدت؟",
 			"Egyptian Arabic Audio": "eca-1209-2.mp3",
 			"Standard Arabic Audio": "msa-1209-2.mp3"
 		},
@@ -31,7 +31,7 @@
 			"English": "I found some jeans, and a new blouse.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لقد وجدت بعض الجينز، وبلوزة جديدة.",
 			"Egyptian Arabic Audio": "eca-1209-3.mp3",
 			"Standard Arabic Audio": "msa-1209-3.mp3"
 		},
@@ -41,7 +41,7 @@
 			"English": "Go and try it on.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "الذهاب ومحاولة على.",
 			"Egyptian Arabic Audio": "eca-1209-4.mp3",
 			"Standard Arabic Audio": "msa-1209-4.mp3"
 		},
@@ -51,7 +51,7 @@
 			"English": "What do you think?",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ما رأيك؟",
 			"Egyptian Arabic Audio": "eca-1209-5.mp3",
 			"Standard Arabic Audio": "msa-1209-5.mp3"
 		},
@@ -61,7 +61,7 @@
 			"English": "I love that shirt on you.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أحب هذا القميص عليك.",
 			"Egyptian Arabic Audio": "eca-1209-6.mp3",
 			"Standard Arabic Audio": "msa-1209-6.mp3"
 		},
@@ -71,7 +71,7 @@
 			"English": "What about the jeans?",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ماذا عن الجينز؟",
 			"Egyptian Arabic Audio": "eca-1209-7.mp3",
 			"Standard Arabic Audio": "msa-1209-7.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "They don't really fit you right.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنها لا تناسب حقا لك الحق.",
 			"Egyptian Arabic Audio": "eca-1209-8.mp3",
 			"Standard Arabic Audio": "msa-1209-8.mp3"
 		},
@@ -91,7 +91,7 @@
 			"English": "I don't think so either.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنا لا أعتقد ذلك أيضا.",
 			"Egyptian Arabic Audio": "eca-1209-9.mp3",
 			"Standard Arabic Audio": "msa-1209-9.mp3"
 		},
@@ -101,7 +101,7 @@
 			"English": "That blouse is absolutely wonderful on you.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أن بلوزة هو رائع تماما على لك.",
 			"Egyptian Arabic Audio": "eca-1209-10.mp3",
 			"Standard Arabic Audio": "msa-1209-10.mp3"
 		},
@@ -111,7 +111,7 @@
 			"English": "I'll just buy the shirt.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنا فقط شراء قميص.",
 			"Egyptian Arabic Audio": "eca-1209-11.mp3",
 			"Standard Arabic Audio": "msa-1209-11.mp3"
 		},
@@ -121,7 +121,7 @@
 			"English": "That would be a good idea.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هذه ستكون فكرة جيدة.",
 			"Egyptian Arabic Audio": "eca-1209-12.mp3",
 			"Standard Arabic Audio": "msa-1209-12.mp3"
 		},
@@ -131,7 +131,7 @@
 			"English": "I need to try these clothes on.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أحتاج إلى محاولة هذه الملابس جرا.",
 			"Egyptian Arabic Audio": "eca-1209-13.mp3",
 			"Standard Arabic Audio": "msa-1209-13.mp3"
 		},
@@ -141,7 +141,7 @@
 			"English": "What are you going to try on?",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ما أنت ذاهب لمحاولة على؟",
 			"Egyptian Arabic Audio": "eca-1209-14.mp3",
 			"Standard Arabic Audio": "msa-1209-14.mp3"
 		},
@@ -151,7 +151,7 @@
 			"English": "I just found some jeans and a top.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنا فقط وجدت بعض الجينز وأعلى.",
 			"Egyptian Arabic Audio": "eca-1209-15.mp3",
 			"Standard Arabic Audio": "msa-1209-15.mp3"
 		},
@@ -161,7 +161,7 @@
 			"English": "Try it on.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "في محاولة على.",
 			"Egyptian Arabic Audio": "eca-1209-16.mp3",
 			"Standard Arabic Audio": "msa-1209-16.mp3"
 		},
@@ -171,7 +171,7 @@
 			"English": "How do I look in this?",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كيف يمكنني البحث في هذا؟",
 			"Egyptian Arabic Audio": "eca-1209-17.mp3",
 			"Standard Arabic Audio": "msa-1209-17.mp3"
 		},
@@ -181,7 +181,7 @@
 			"English": "That shirt looks great.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هذا القميص يبدو رائعا.",
 			"Egyptian Arabic Audio": "eca-1209-18.mp3",
 			"Standard Arabic Audio": "msa-1209-18.mp3"
 		},
@@ -191,7 +191,7 @@
 			"English": "How do these jeans look?",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كيف تبدو هذه الجينز؟",
 			"Egyptian Arabic Audio": "eca-1209-19.mp3",
 			"Standard Arabic Audio": "msa-1209-19.mp3"
 		},
@@ -201,7 +201,7 @@
 			"English": "They don't look nice on you.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنها لا تبدو لطيفة على لك.",
 			"Egyptian Arabic Audio": "eca-1209-20.mp3",
 			"Standard Arabic Audio": "msa-1209-20.mp3"
 		},
@@ -211,7 +211,7 @@
 			"English": "I don't like them either.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنا لا أحبهم أيضا.",
 			"Egyptian Arabic Audio": "eca-1209-21.mp3",
 			"Standard Arabic Audio": "msa-1209-21.mp3"
 		},
@@ -221,7 +221,7 @@
 			"English": "I just like that shirt.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنا فقط مثل هذا القميص.",
 			"Egyptian Arabic Audio": "eca-1209-22.mp3",
 			"Standard Arabic Audio": "msa-1209-22.mp3"
 		},
@@ -231,7 +231,7 @@
 			"English": "I'm just going to buy the shirt.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنا فقط ذاهب لشراء قميص.",
 			"Egyptian Arabic Audio": "eca-1209-23.mp3",
 			"Standard Arabic Audio": "msa-1209-23.mp3"
 		},
@@ -241,7 +241,7 @@
 			"English": "Good, because those pants are ugly.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "جيدة، لأن تلك السراويل قبيحة.",
 			"Egyptian Arabic Audio": "eca-1209-24.mp3",
 			"Standard Arabic Audio": "msa-1209-24.mp3"
 		},
@@ -251,7 +251,7 @@
 			"English": "I'm going to go try these on in the dressing room.",
 			"Word Count": 11,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنا ذاهب للذهاب محاولة هذه على في غرفة خلع الملابس.",
 			"Egyptian Arabic Audio": "eca-1209-25.mp3",
 			"Standard Arabic Audio": "msa-1209-25.mp3"
 		},
@@ -261,7 +261,7 @@
 			"English": "What clothes did you find?",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ما هي الملابس التي وجدت؟",
 			"Egyptian Arabic Audio": "eca-1209-26.mp3",
 			"Standard Arabic Audio": "msa-1209-26.mp3"
 		},
@@ -271,7 +271,7 @@
 			"English": "I'm just trying on a pair of jeans and a shirt.",
 			"Word Count": 11,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنا مجرد محاولة على زوج من الجينز وقميص.",
 			"Egyptian Arabic Audio": "eca-1209-27.mp3",
 			"Standard Arabic Audio": "msa-1209-27.mp3"
 		},
@@ -281,7 +281,7 @@
 			"English": "Go try them on.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "الذهاب محاولة لهم.",
 			"Egyptian Arabic Audio": "eca-1209-28.mp3",
 			"Standard Arabic Audio": "msa-1209-28.mp3"
 		},
@@ -291,7 +291,7 @@
 			"English": "Alright, how do I look?",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "حسنا، كيف أبدو؟",
 			"Egyptian Arabic Audio": "eca-1209-29.mp3",
 			"Standard Arabic Audio": "msa-1209-29.mp3"
 		},
@@ -301,7 +301,7 @@
 			"English": "You look great in that shirt.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "تبدو كبيرة في هذا القميص.",
 			"Egyptian Arabic Audio": "eca-1209-30.mp3",
 			"Standard Arabic Audio": "msa-1209-30.mp3"
 		},
@@ -311,7 +311,7 @@
 			"English": "What do you think of these jeans?",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ما رأيك في هذه الجينز؟",
 			"Egyptian Arabic Audio": "eca-1209-31.mp3",
 			"Standard Arabic Audio": "msa-1209-31.mp3"
 		},
@@ -321,7 +321,7 @@
 			"English": "I don't like how those look.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنا لا أحب كيف تبدو.",
 			"Egyptian Arabic Audio": "eca-1209-32.mp3",
 			"Standard Arabic Audio": "msa-1209-32.mp3"
 		},
@@ -331,7 +331,7 @@
 			"English": "I really don't think they look good.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنا حقا لا أعتقد أنها تبدو جيدة.",
 			"Egyptian Arabic Audio": "eca-1209-33.mp3",
 			"Standard Arabic Audio": "msa-1209-33.mp3"
 		},
@@ -341,7 +341,7 @@
 			"English": "That shirt looks great though.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هذا القميص يبدو رائعا على الرغم من.",
 			"Egyptian Arabic Audio": "eca-1209-34.mp3",
 			"Standard Arabic Audio": "msa-1209-34.mp3"
 		},
@@ -351,7 +351,7 @@
 			"English": "I guess I'm just going to buy the shirt.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أعتقد أنني سأشتري القميص.",
 			"Egyptian Arabic Audio": "eca-1209-35.mp3",
 			"Standard Arabic Audio": "msa-1209-35.mp3"
 		},
@@ -361,7 +361,7 @@
 			"English": "That would be wise.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وسيكون ذلك حكيما.",
 			"Egyptian Arabic Audio": "eca-1209-36.mp3",
 			"Standard Arabic Audio": "msa-1209-36.mp3"
 		}

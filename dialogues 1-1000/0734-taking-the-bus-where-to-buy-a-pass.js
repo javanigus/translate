@@ -11,7 +11,7 @@
 			"English": "I need to buy a bus pass.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنا بحاجة لشراء تذكرة الحافلة.",
 			"Egyptian Arabic Audio": "eca-0734-1.mp3",
 			"Standard Arabic Audio": "msa-0734-1.mp3"
 		},
@@ -21,7 +21,7 @@
 			"English": "Where do you need to go?",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "اين تحتاج لتذهب؟",
 			"Egyptian Arabic Audio": "eca-0734-2.mp3",
 			"Standard Arabic Audio": "msa-0734-2.mp3"
 		},
@@ -31,7 +31,7 @@
 			"English": "I have to go to the Los Angeles Library.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يجب أن أذهب إلى مكتبة لوس أنجلوس.",
 			"Egyptian Arabic Audio": "eca-0734-3.mp3",
 			"Standard Arabic Audio": "msa-0734-3.mp3"
 		},
@@ -41,7 +41,7 @@
 			"English": "You need to buy a buss pass, that's for sure.",
 			"Word Count": 10,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "تحتاج إلى شراء تذكرة بوس، وهذا أمر مؤكد.",
 			"Egyptian Arabic Audio": "eca-0734-4.mp3",
 			"Standard Arabic Audio": "msa-0734-4.mp3"
 		},
@@ -51,7 +51,7 @@
 			"English": "I don't know where to buy it.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنا لا أعرف من أين شرائه.",
 			"Egyptian Arabic Audio": "eca-0734-5.mp3",
 			"Standard Arabic Audio": "msa-0734-5.mp3"
 		},
@@ -61,7 +61,7 @@
 			"English": "You've never purchased a bus pass?",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كنت قد اشتريت أبدا حافلة المرور؟",
 			"Egyptian Arabic Audio": "eca-0734-6.mp3",
 			"Standard Arabic Audio": "msa-0734-6.mp3"
 		},
@@ -71,7 +71,7 @@
 			"English": "I wouldn't be asking if I did.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنا لن أطلب إذا فعلت.",
 			"Egyptian Arabic Audio": "eca-0734-7.mp3",
 			"Standard Arabic Audio": "msa-0734-7.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "It's easy to buy a bus pass. All you have to do is get on the bus and ask for one,",
 			"Word Count": 21,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "فإنه من السهل لشراء تذكرة الحافلة. كل ما عليك القيام به هو الحصول على الحافلة وطلب واحد،",
 			"Egyptian Arabic Audio": "eca-0734-8.mp3",
 			"Standard Arabic Audio": "msa-0734-8.mp3"
 		},
@@ -91,7 +91,7 @@
 			"English": "It's that easy? Are you sure?",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انه من السهل؟ هل أنت واثق؟",
 			"Egyptian Arabic Audio": "eca-0734-9.mp3",
 			"Standard Arabic Audio": "msa-0734-9.mp3"
 		},
@@ -101,7 +101,7 @@
 			"English": "Don't you believe me?",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لا تصدقني؟",
 			"Egyptian Arabic Audio": "eca-0734-10.mp3",
 			"Standard Arabic Audio": "msa-0734-10.mp3"
 		},
@@ -111,7 +111,7 @@
 			"English": "I do, but I thought it would be more complicated than that.",
 			"Word Count": 12,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أفعل، ولكني أعتقد أنه سيكون أكثر تعقيدا من ذلك.",
 			"Egyptian Arabic Audio": "eca-0734-11.mp3",
 			"Standard Arabic Audio": "msa-0734-11.mp3"
 		},
@@ -121,7 +121,7 @@
 			"English": "There are other places where you can buy them.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هناك أماكن أخرى حيث يمكنك شرائها.",
 			"Egyptian Arabic Audio": "eca-0734-12.mp3",
 			"Standard Arabic Audio": "msa-0734-12.mp3"
 		},
@@ -131,7 +131,7 @@
 			"English": "I think I'll just buy the pass on the bus.",
 			"Word Count": 10,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أعتقد أنني سوف مجرد شراء تمريرة في الحافلة.",
 			"Egyptian Arabic Audio": "eca-0734-13.mp3",
 			"Standard Arabic Audio": "msa-0734-13.mp3"
 		},
@@ -141,7 +141,7 @@
 			"English": "Alright, suit yourself. And you're welcome.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "حسنا، تناسب نفسك. اهلا وسهلا.",
 			"Egyptian Arabic Audio": "eca-0734-14.mp3",
 			"Standard Arabic Audio": "msa-0734-14.mp3"
 		}

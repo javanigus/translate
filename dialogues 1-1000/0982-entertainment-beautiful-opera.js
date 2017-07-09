@@ -11,7 +11,7 @@
 			"English": "Have you ever been to the opera before?",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هل سبق لك أن كنت في الأوبرا من قبل؟",
 			"Egyptian Arabic Audio": "eca-0982-1.mp3",
 			"Standard Arabic Audio": "msa-0982-1.mp3"
 		},
@@ -21,7 +21,7 @@
 			"English": "No, but I hear it's very beautiful.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لا، ولكن أسمع أنها جميلة جدا.",
 			"Egyptian Arabic Audio": "eca-0982-2.mp3",
 			"Standard Arabic Audio": "msa-0982-2.mp3"
 		},
@@ -31,7 +31,7 @@
 			"English": "Is it true that opera is sung in a foreign language?",
 			"Word Count": 11,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هل صحيح أن الأوبرا تغنى بلغة أجنبية؟",
 			"Egyptian Arabic Audio": "eca-0982-3.mp3",
 			"Standard Arabic Audio": "msa-0982-3.mp3"
 		},
@@ -41,7 +41,7 @@
 			"English": "Yes, usually in Italian or French.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "نعم، عادة باللغة الإيطالية أو الفرنسية.",
 			"Egyptian Arabic Audio": "eca-0982-4.mp3",
 			"Standard Arabic Audio": "msa-0982-4.mp3"
 		},
@@ -51,7 +51,7 @@
 			"English": "How are we supposed to know what's going on?",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كيف يفترض لنا أن نعرف ما يحدث؟",
 			"Egyptian Arabic Audio": "eca-0982-5.mp3",
 			"Standard Arabic Audio": "msa-0982-5.mp3"
 		},
@@ -61,7 +61,7 @@
 			"English": "The actors also tell the story with their actions.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كما تخبر الجهات الفاعلة القصة بأفعالها.",
 			"Egyptian Arabic Audio": "eca-0982-6.mp3",
 			"Standard Arabic Audio": "msa-0982-6.mp3"
 		},
@@ -71,7 +71,7 @@
 			"English": "It seems a bit confusing to me.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يبدو مربكا بعض الشيء بالنسبة لي.",
 			"Egyptian Arabic Audio": "eca-0982-7.mp3",
 			"Standard Arabic Audio": "msa-0982-7.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "The music is supposed to be beautiful, regardless.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "الموسيقى من المفترض أن تكون جميلة، بغض النظر.",
 			"Egyptian Arabic Audio": "eca-0982-8.mp3",
 			"Standard Arabic Audio": "msa-0982-8.mp3"
 		},
@@ -91,7 +91,7 @@
 			"English": "Are they accompanied by an orchestra?",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هل يرافقهم أوركسترا؟",
 			"Egyptian Arabic Audio": "eca-0982-9.mp3",
 			"Standard Arabic Audio": "msa-0982-9.mp3"
 		},
@@ -101,7 +101,7 @@
 			"English": "Yes, a very large one with talented performers.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "نعم، واحدة كبيرة جدا مع الأداء الموهوبين.",
 			"Egyptian Arabic Audio": "eca-0982-10.mp3",
 			"Standard Arabic Audio": "msa-0982-10.mp3"
 		},
@@ -111,7 +111,7 @@
 			"English": "I suppose the music will tell a story, too.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أفترض أن الموسيقى سوف اقول قصة أيضا.",
 			"Egyptian Arabic Audio": "eca-0982-11.mp3",
 			"Standard Arabic Audio": "msa-0982-11.mp3"
 		},
@@ -121,7 +121,7 @@
 			"English": "Yes. Music is a universal language.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "نعم فعلا. الموسيقى هي لغة عالمية.",
 			"Egyptian Arabic Audio": "eca-0982-12.mp3",
 			"Standard Arabic Audio": "msa-0982-12.mp3"
 		}

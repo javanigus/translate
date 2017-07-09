@@ -9,7 +9,7 @@
 			"English": "\"That's insufficient,\" said William Shatner, an SSA agent.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وقال وليام شاتنر، وكيل وكالة الفضاء الأوروبية &quot;هذا غير كاف&quot;.",
 			"Egyptian Arabic Audio": "eca-2052-1.mp3",
 			"Standard Arabic Audio": "msa-2052-1.mp3"
 		},
@@ -18,7 +18,7 @@
 			"English": "\"We know that he is a war veteran, but that doesn't entitle him to free money.",
 			"Word Count": 16,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "&quot;نحن نعرف أنه من قدامى المحاربين، ولكن هذا لا يمنحه المال مجانا.",
 			"Egyptian Arabic Audio": "eca-2052-2.mp3",
 			"Standard Arabic Audio": "msa-2052-2.mp3"
 		},
@@ -27,7 +27,7 @@
 			"English": "He knew that his wife was dead, yet he cashed her monthly checks.",
 			"Word Count": 13,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كان يعلم أن زوجته قد ماتت، لكنه صرف شيكاتها الشهرية.",
 			"Egyptian Arabic Audio": "eca-2052-3.mp3",
 			"Standard Arabic Audio": "msa-2052-3.mp3"
 		},
@@ -36,7 +36,7 @@
 			"English": "That is fraud, pure and simple.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هذا هو الاحتيال، نقية وبسيطة.",
 			"Egyptian Arabic Audio": "eca-2052-4.mp3",
 			"Standard Arabic Audio": "msa-2052-4.mp3"
 		},
@@ -45,7 +45,7 @@
 			"English": "\".",
 			"Word Count": 1,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "&quot;.",
 			"Egyptian Arabic Audio": "eca-2052-5.mp3",
 			"Standard Arabic Audio": "msa-2052-5.mp3"
 		}

@@ -9,7 +9,7 @@
 			"English": "She crossed the street.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "عبرت الشارع.",
 			"Egyptian Arabic Audio": "eca-0708-1.mp3",
 			"Standard Arabic Audio": "msa-0708-1.mp3"
 		},
@@ -18,7 +18,7 @@
 			"English": "The street was empty.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كان الشارع فارغا.",
 			"Egyptian Arabic Audio": "eca-0708-2.mp3",
 			"Standard Arabic Audio": "msa-0708-2.mp3"
 		},
@@ -27,7 +27,7 @@
 			"English": "There were no people.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لم يكن هناك أشخاص.",
 			"Egyptian Arabic Audio": "eca-0708-3.mp3",
 			"Standard Arabic Audio": "msa-0708-3.mp3"
 		},
@@ -36,7 +36,7 @@
 			"English": "There were no cars.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لم تكن هناك سيارات.",
 			"Egyptian Arabic Audio": "eca-0708-4.mp3",
 			"Standard Arabic Audio": "msa-0708-4.mp3"
 		},
@@ -45,7 +45,7 @@
 			"English": "It was after midnight.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كان بعد منتصف الليل.",
 			"Egyptian Arabic Audio": "eca-0708-5.mp3",
 			"Standard Arabic Audio": "msa-0708-5.mp3"
 		},
@@ -54,7 +54,7 @@
 			"English": "She walked down the street.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "سارت في الشارع.",
 			"Egyptian Arabic Audio": "eca-0708-6.mp3",
 			"Standard Arabic Audio": "msa-0708-6.mp3"
 		},
@@ -63,7 +63,7 @@
 			"English": "She was not afraid.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لم تكن خائفة.",
 			"Egyptian Arabic Audio": "eca-0708-7.mp3",
 			"Standard Arabic Audio": "msa-0708-7.mp3"
 		},
@@ -72,7 +72,7 @@
 			"English": "It was dangerous at night.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كان خطرا في الليل.",
 			"Egyptian Arabic Audio": "eca-0708-8.mp3",
 			"Standard Arabic Audio": "msa-0708-8.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "It was especially dangerous for a girl.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كان ذلك خطرا بشكل خاص على الفتاة.",
 			"Egyptian Arabic Audio": "eca-0708-9.mp3",
 			"Standard Arabic Audio": "msa-0708-9.mp3"
 		},
@@ -90,7 +90,7 @@
 			"English": "She did not care.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وقالت انها لا تهتم.",
 			"Egyptian Arabic Audio": "eca-0708-10.mp3",
 			"Standard Arabic Audio": "msa-0708-10.mp3"
 		},
@@ -99,7 +99,7 @@
 			"English": "She was a fighter.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كانت مقاتلة.",
 			"Egyptian Arabic Audio": "eca-0708-11.mp3",
 			"Standard Arabic Audio": "msa-0708-11.mp3"
 		},
@@ -108,7 +108,7 @@
 			"English": "She knew how to defend herself.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كانت تعرف كيف تدافع عن نفسها.",
 			"Egyptian Arabic Audio": "eca-0708-12.mp3",
 			"Standard Arabic Audio": "msa-0708-12.mp3"
 		},
@@ -117,7 +117,7 @@
 			"English": "She carried pepper spray.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "حملت رذاذ الفلفل.",
 			"Egyptian Arabic Audio": "eca-0708-13.mp3",
 			"Standard Arabic Audio": "msa-0708-13.mp3"
 		},
@@ -126,7 +126,7 @@
 			"English": "She was ready for anything.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كانت مستعدة لأي شيء.",
 			"Egyptian Arabic Audio": "eca-0708-14.mp3",
 			"Standard Arabic Audio": "msa-0708-14.mp3"
 		},
@@ -135,7 +135,7 @@
 			"English": "The streets were deserted.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كانت الشوارع مهجورة.",
 			"Egyptian Arabic Audio": "eca-0708-15.mp3",
 			"Standard Arabic Audio": "msa-0708-15.mp3"
 		},
@@ -144,7 +144,7 @@
 			"English": "She walked around for an hour.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "مشتت لمدة ساعة.",
 			"Egyptian Arabic Audio": "eca-0708-16.mp3",
 			"Standard Arabic Audio": "msa-0708-16.mp3"
 		},
@@ -153,7 +153,7 @@
 			"English": "She took in the night air.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أخذت في الهواء ليلا.",
 			"Egyptian Arabic Audio": "eca-0708-17.mp3",
 			"Standard Arabic Audio": "msa-0708-17.mp3"
 		},
@@ -162,7 +162,7 @@
 			"English": "She gazed at the stars.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انها تحدق في النجوم.",
 			"Egyptian Arabic Audio": "eca-0708-18.mp3",
 			"Standard Arabic Audio": "msa-0708-18.mp3"
 		},
@@ -171,7 +171,7 @@
 			"English": "She looked at the closed stores.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "نظرت إلى مخازن مغلقة.",
 			"Egyptian Arabic Audio": "eca-0708-19.mp3",
 			"Standard Arabic Audio": "msa-0708-19.mp3"
 		},
@@ -180,7 +180,7 @@
 			"English": "She saw the dirty curbs.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "رأت القيود القذرة.",
 			"Egyptian Arabic Audio": "eca-0708-20.mp3",
 			"Standard Arabic Audio": "msa-0708-20.mp3"
 		},
@@ -189,7 +189,7 @@
 			"English": "She walked back home.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "سارت إلى الوطن.",
 			"Egyptian Arabic Audio": "eca-0708-21.mp3",
 			"Standard Arabic Audio": "msa-0708-21.mp3"
 		},
@@ -198,7 +198,7 @@
 			"English": "She fell on her bed.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "سقطت على سريرها.",
 			"Egyptian Arabic Audio": "eca-0708-22.mp3",
 			"Standard Arabic Audio": "msa-0708-22.mp3"
 		},
@@ -207,7 +207,7 @@
 			"English": "It had been another night.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لقد كانت ليلة أخرى.",
 			"Egyptian Arabic Audio": "eca-0708-23.mp3",
 			"Standard Arabic Audio": "msa-0708-23.mp3"
 		},
@@ -216,7 +216,7 @@
 			"English": "She went to sleep like a baby.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ذهبت إلى النوم مثل طفل.",
 			"Egyptian Arabic Audio": "eca-0708-24.mp3",
 			"Standard Arabic Audio": "msa-0708-24.mp3"
 		}

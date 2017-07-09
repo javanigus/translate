@@ -11,7 +11,7 @@
 			"English": "It's time for your bath, young lady.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "حان الوقت لحمامك، سيدة شابة.",
 			"Egyptian Arabic Audio": "eca-0272-1.mp3",
 			"Standard Arabic Audio": "msa-0272-1.mp3"
 		},
@@ -21,7 +21,7 @@
 			"English": "But, Mom, I'm not dirty.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ولكن، أمي، أنا لست قذرة.",
 			"Egyptian Arabic Audio": "eca-0272-2.mp3",
 			"Standard Arabic Audio": "msa-0272-2.mp3"
 		},
@@ -31,7 +31,7 @@
 			"English": "You need a bath every day.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "تحتاج إلى حمام كل يوم.",
 			"Egyptian Arabic Audio": "eca-0272-3.mp3",
 			"Standard Arabic Audio": "msa-0272-3.mp3"
 		},
@@ -41,7 +41,7 @@
 			"English": "Why?",
 			"Word Count": 1,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لماذا ا؟",
 			"Egyptian Arabic Audio": "eca-0272-4.mp3",
 			"Standard Arabic Audio": "msa-0272-4.mp3"
 		},
@@ -51,7 +51,7 @@
 			"English": "Because you don't want to smell bad.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لأنك لا تريد أن رائحة سيئة.",
 			"Egyptian Arabic Audio": "eca-0272-5.mp3",
 			"Standard Arabic Audio": "msa-0272-5.mp3"
 		},
@@ -61,7 +61,7 @@
 			"English": "I don't smell bad.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنا لا أشم رائحة.",
 			"Egyptian Arabic Audio": "eca-0272-6.mp3",
 			"Standard Arabic Audio": "msa-0272-6.mp3"
 		},
@@ -71,7 +71,7 @@
 			"English": "That's what you think.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هذا ما تظنه.",
 			"Egyptian Arabic Audio": "eca-0272-7.mp3",
 			"Standard Arabic Audio": "msa-0272-7.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "If I smelled bad, I could smell me.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "إذا كنت رائحة سيئة، أنا يمكن أن رائحة لي.",
 			"Egyptian Arabic Audio": "eca-0272-8.mp3",
 			"Standard Arabic Audio": "msa-0272-8.mp3"
 		},
@@ -91,7 +91,7 @@
 			"English": "I can smell you.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "استطيع ان اشمك.",
 			"Egyptian Arabic Audio": "eca-0272-9.mp3",
 			"Standard Arabic Audio": "msa-0272-9.mp3"
 		},
@@ -101,7 +101,7 @@
 			"English": "I can smell you, too.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أستطيع أن أشمك أيضا.",
 			"Egyptian Arabic Audio": "eca-0272-10.mp3",
 			"Standard Arabic Audio": "msa-0272-10.mp3"
 		},
@@ -111,7 +111,7 @@
 			"English": "That's my perfume.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هذا عطري.",
 			"Egyptian Arabic Audio": "eca-0272-11.mp3",
 			"Standard Arabic Audio": "msa-0272-11.mp3"
 		},
@@ -121,7 +121,7 @@
 			"English": "When can I wear perfume?",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "متى يمكنني ارتداء العطور؟",
 			"Egyptian Arabic Audio": "eca-0272-12.mp3",
 			"Standard Arabic Audio": "msa-0272-12.mp3"
 		}

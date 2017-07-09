@@ -9,7 +9,7 @@
 			"English": "\"But that never stops the surfers,\" Bob said.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "واضاف &quot;لكن هذا لا يتوقف أبدا عن متصفحي&quot;.",
 			"Egyptian Arabic Audio": "eca-1793-1.mp3",
 			"Standard Arabic Audio": "msa-1793-1.mp3"
 		},
@@ -18,7 +18,7 @@
 			"English": "\"They don't seem to care what's in the water, as long as there are waves to surf on.",
 			"Word Count": 18,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "&quot;لا يبدو أنهم يهتمون ما هو في الماء، طالما هناك موجات لتصفح على.",
 			"Egyptian Arabic Audio": "eca-1793-2.mp3",
 			"Standard Arabic Audio": "msa-1793-2.mp3"
 		},
@@ -27,7 +27,7 @@
 			"English": "\".",
 			"Word Count": 1,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "&quot;.",
 			"Egyptian Arabic Audio": "eca-1793-3.mp3",
 			"Standard Arabic Audio": "msa-1793-3.mp3"
 		}

@@ -9,7 +9,7 @@
 			"English": "Jill does not like math.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "جيل لا يحب الرياضيات.",
 			"Egyptian Arabic Audio": "eca-0009-1.mp3",
 			"Standard Arabic Audio": "msa-0009-1.mp3"
 		},
@@ -18,7 +18,7 @@
 			"English": "Jill starts talking about food.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يبدأ جيل الحديث عن الطعام.",
 			"Egyptian Arabic Audio": "eca-0009-2.mp3",
 			"Standard Arabic Audio": "msa-0009-2.mp3"
 		},
@@ -27,7 +27,7 @@
 			"English": "Her friends laugh.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أصدقائها يضحكون.",
 			"Egyptian Arabic Audio": "eca-0009-3.mp3",
 			"Standard Arabic Audio": "msa-0009-3.mp3"
 		},
@@ -36,7 +36,7 @@
 			"English": "They stop doing their homework.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يتوقفون عن أداء واجباتهم المدرسية.",
 			"Egyptian Arabic Audio": "eca-0009-4.mp3",
 			"Standard Arabic Audio": "msa-0009-4.mp3"
 		},
@@ -45,7 +45,7 @@
 			"English": "The teacher is upset.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "المعلم مستاء.",
 			"Egyptian Arabic Audio": "eca-0009-5.mp3",
 			"Standard Arabic Audio": "msa-0009-5.mp3"
 		},
@@ -54,7 +54,7 @@
 			"English": "She tells them to stand in the corner.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "تقول لهم أن يقفوا في الزاوية.",
 			"Egyptian Arabic Audio": "eca-0009-6.mp3",
 			"Standard Arabic Audio": "msa-0009-6.mp3"
 		},
@@ -63,7 +63,7 @@
 			"English": "Jill goes to the corner.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "جيل يذهب إلى الزاوية.",
 			"Egyptian Arabic Audio": "eca-0009-7.mp3",
 			"Standard Arabic Audio": "msa-0009-7.mp3"
 		},
@@ -72,7 +72,7 @@
 			"English": "It is hard to be quiet.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "فمن الصعب أن تكون هادئة.",
 			"Egyptian Arabic Audio": "eca-0009-8.mp3",
 			"Standard Arabic Audio": "msa-0009-8.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "She thinks about her family.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "تفكر في عائلتها.",
 			"Egyptian Arabic Audio": "eca-0009-9.mp3",
 			"Standard Arabic Audio": "msa-0009-9.mp3"
 		},
@@ -90,7 +90,7 @@
 			"English": "She thinks about her dog.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "تفكر في كلبها.",
 			"Egyptian Arabic Audio": "eca-0009-10.mp3",
 			"Standard Arabic Audio": "msa-0009-10.mp3"
 		},
@@ -99,7 +99,7 @@
 			"English": "Five minutes pass.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "خمس دقائق تمر.",
 			"Egyptian Arabic Audio": "eca-0009-11.mp3",
 			"Standard Arabic Audio": "msa-0009-11.mp3"
 		},
@@ -108,7 +108,7 @@
 			"English": "The teacher lets her go.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "المعلم يتيح لها الذهاب.",
 			"Egyptian Arabic Audio": "eca-0009-12.mp3",
 			"Standard Arabic Audio": "msa-0009-12.mp3"
 		}

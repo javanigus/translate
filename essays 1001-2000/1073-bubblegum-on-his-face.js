@@ -9,7 +9,7 @@
 			"English": "He chews gum.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يمضغ اللثة.",
 			"Egyptian Arabic Audio": "eca-1073-1.mp3",
 			"Standard Arabic Audio": "msa-1073-1.mp3"
 		},
@@ -18,7 +18,7 @@
 			"English": "He chews all kinds of gum.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يمضغ جميع أنواع اللثة.",
 			"Egyptian Arabic Audio": "eca-1073-2.mp3",
 			"Standard Arabic Audio": "msa-1073-2.mp3"
 		},
@@ -27,7 +27,7 @@
 			"English": "He chews chewing gum.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يمضغ العلكة.",
 			"Egyptian Arabic Audio": "eca-1073-3.mp3",
 			"Standard Arabic Audio": "msa-1073-3.mp3"
 		},
@@ -36,7 +36,7 @@
 			"English": "He chews bubblegum.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انه يمضغ الزاهي.",
 			"Egyptian Arabic Audio": "eca-1073-4.mp3",
 			"Standard Arabic Audio": "msa-1073-4.mp3"
 		},
@@ -45,7 +45,7 @@
 			"English": "He blows bubbles with bubblegum.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انه يفجر فقاعات مع الزاهي.",
 			"Egyptian Arabic Audio": "eca-1073-5.mp3",
 			"Standard Arabic Audio": "msa-1073-5.mp3"
 		},
@@ -54,7 +54,7 @@
 			"English": "He blows big bubbles.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انه يفجر فقاعات كبيرة.",
 			"Egyptian Arabic Audio": "eca-1073-6.mp3",
 			"Standard Arabic Audio": "msa-1073-6.mp3"
 		},
@@ -63,7 +63,7 @@
 			"English": "They are as big as a grapefruit.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "فهي كبيرة مثل الجريب فروت.",
 			"Egyptian Arabic Audio": "eca-1073-7.mp3",
 			"Standard Arabic Audio": "msa-1073-7.mp3"
 		},
@@ -72,7 +72,7 @@
 			"English": "Then they burst.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ثم انفجروا.",
 			"Egyptian Arabic Audio": "eca-1073-8.mp3",
 			"Standard Arabic Audio": "msa-1073-8.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "He wipes the bubblegum off his face.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يمسح الزهر من وجهه.",
 			"Egyptian Arabic Audio": "eca-1073-9.mp3",
 			"Standard Arabic Audio": "msa-1073-9.mp3"
 		},
@@ -90,7 +90,7 @@
 			"English": "Then he blows another big bubble.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ثم يضرب فقاعة كبيرة أخرى.",
 			"Egyptian Arabic Audio": "eca-1073-10.mp3",
 			"Standard Arabic Audio": "msa-1073-10.mp3"
 		},
@@ -99,7 +99,7 @@
 			"English": "It bursts too.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ينفجر أيضا.",
 			"Egyptian Arabic Audio": "eca-1073-11.mp3",
 			"Standard Arabic Audio": "msa-1073-11.mp3"
 		},
@@ -108,7 +108,7 @@
 			"English": "He laughs.",
 			"Word Count": 2,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يضحك.",
 			"Egyptian Arabic Audio": "eca-1073-12.mp3",
 			"Standard Arabic Audio": "msa-1073-12.mp3"
 		}

@@ -9,7 +9,7 @@
 			"English": "After class ended, Carter went up to the teacher.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "بعد انتهاء الصف، ذهب كارتر إلى المعلم.",
 			"Egyptian Arabic Audio": "eca-1028-1.mp3",
 			"Standard Arabic Audio": "msa-1028-1.mp3"
 		},
@@ -18,7 +18,7 @@
 			"English": "He asked Ms Green what the average grade in the class was.",
 			"Word Count": 12,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وسأل السيدة غرين عن متوسط ​​درجة الصف.",
 			"Egyptian Arabic Audio": "eca-1028-2.mp3",
 			"Standard Arabic Audio": "msa-1028-2.mp3"
 		},
@@ -27,7 +27,7 @@
 			"English": "Ms.",
 			"Word Count": 1,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "الآنسة.",
 			"Egyptian Arabic Audio": "eca-1028-3.mp3",
 			"Standard Arabic Audio": "msa-1028-3.mp3"
 		},
@@ -36,7 +36,7 @@
 			"English": "Green said the average grade was B.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وقال جرين أن متوسط ​​درجة B.",
 			"Egyptian Arabic Audio": "eca-1028-4.mp3",
 			"Standard Arabic Audio": "msa-1028-4.mp3"
 		},
@@ -45,7 +45,7 @@
 			"English": "Carter was extremely upset.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كارتر كان مستاء للغاية.",
 			"Egyptian Arabic Audio": "eca-1028-5.mp3",
 			"Standard Arabic Audio": "msa-1028-5.mp3"
 		},
@@ -54,7 +54,7 @@
 			"English": "For the first time, his grade was below average.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وللمرة الأولى، كانت درجته أقل من المتوسط.",
 			"Egyptian Arabic Audio": "eca-1028-6.mp3",
 			"Standard Arabic Audio": "msa-1028-6.mp3"
 		},
@@ -63,7 +63,7 @@
 			"English": "Ms.",
 			"Word Count": 1,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "الآنسة.",
 			"Egyptian Arabic Audio": "eca-1028-7.mp3",
 			"Standard Arabic Audio": "msa-1028-7.mp3"
 		},
@@ -72,7 +72,7 @@
 			"English": "Green told him not to worry and that even the smartest people would face setbacks.",
 			"Word Count": 15,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وأخبره جرين بعدم القلق، وأن أذكى الناس سيواجهون نكسات.",
 			"Egyptian Arabic Audio": "eca-1028-8.mp3",
 			"Standard Arabic Audio": "msa-1028-8.mp3"
 		}

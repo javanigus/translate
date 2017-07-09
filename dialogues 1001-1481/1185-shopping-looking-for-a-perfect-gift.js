@@ -11,7 +11,7 @@
 			"English": "Can you help me pick out a gift for my niece?",
 			"Word Count": 11,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يمكنك مساعدتي في اختيار هدية لابنة أخي؟",
 			"Egyptian Arabic Audio": "eca-1185-1.mp3",
 			"Standard Arabic Audio": "msa-1185-1.mp3"
 		},
@@ -21,7 +21,7 @@
 			"English": "Most normal little girls go wild over Barbie dolls.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "معظم الفتيات الصغيرات العادية تذهب البرية على دمى باربي.",
 			"Egyptian Arabic Audio": "eca-1185-2.mp3",
 			"Standard Arabic Audio": "msa-1185-2.mp3"
 		},
@@ -31,7 +31,7 @@
 			"English": "That sounds good. Let me see one.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هذا يبدو جيدا. اسمحوا لي أن أرى واحدة.",
 			"Egyptian Arabic Audio": "eca-1185-3.mp3",
 			"Standard Arabic Audio": "msa-1185-3.mp3"
 		},
@@ -41,7 +41,7 @@
 			"English": "Here's the latest model—Digital Barbie",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وهنا أحدث نموذج الرقمية باربي",
 			"Egyptian Arabic Audio": "eca-1185-4.mp3",
 			"Standard Arabic Audio": "msa-1185-4.mp3"
 		}

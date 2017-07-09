@@ -11,7 +11,7 @@
 			"English": "Hi, how are you doing?",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "مرحبا كيف حالك؟",
 			"Egyptian Arabic Audio": "eca-0983-1.mp3",
 			"Standard Arabic Audio": "msa-0983-1.mp3"
 		},
@@ -21,7 +21,7 @@
 			"English": "I'm fine. How about yourself?",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنا بخير. ماذا عنك؟",
 			"Egyptian Arabic Audio": "eca-0983-2.mp3",
 			"Standard Arabic Audio": "msa-0983-2.mp3"
 		},
@@ -31,7 +31,7 @@
 			"English": "I'm pretty good. Thanks for asking.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنا جيد جدا. شكرا على السؤال.",
 			"Egyptian Arabic Audio": "eca-0983-3.mp3",
 			"Standard Arabic Audio": "msa-0983-3.mp3"
 		},
@@ -41,7 +41,7 @@
 			"English": "No problem. So how have you been?",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ليس هناك أى مشكلة. إذا كيف كان حالك؟",
 			"Egyptian Arabic Audio": "eca-0983-4.mp3",
 			"Standard Arabic Audio": "msa-0983-4.mp3"
 		},
@@ -51,7 +51,7 @@
 			"English": "I've been great. What about you?",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لقد كنت كبيرة. ماذا عنك؟",
 			"Egyptian Arabic Audio": "eca-0983-5.mp3",
 			"Standard Arabic Audio": "msa-0983-5.mp3"
 		},
@@ -61,7 +61,7 @@
 			"English": "I've been good. I'm in school right now.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لقد كنت جيدة. أنا في المدرسة الآن.",
 			"Egyptian Arabic Audio": "eca-0983-6.mp3",
 			"Standard Arabic Audio": "msa-0983-6.mp3"
 		},
@@ -71,7 +71,7 @@
 			"English": "What school do you go to?",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "إلى أي مدرسة تذهب؟",
 			"Egyptian Arabic Audio": "eca-0983-7.mp3",
 			"Standard Arabic Audio": "msa-0983-7.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "I go to PCC.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أذهب إلى يك.",
 			"Egyptian Arabic Audio": "eca-0983-8.mp3",
 			"Standard Arabic Audio": "msa-0983-8.mp3"
 		},
@@ -91,7 +91,7 @@
 			"English": "Do you like it there?",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هل ترغب في ذلك هناك؟",
 			"Egyptian Arabic Audio": "eca-0983-9.mp3",
 			"Standard Arabic Audio": "msa-0983-9.mp3"
 		},
@@ -101,7 +101,7 @@
 			"English": "It's okay. It's a really big campus.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انه بخير. إنه حرم كبير حقا.",
 			"Egyptian Arabic Audio": "eca-0983-10.mp3",
 			"Standard Arabic Audio": "msa-0983-10.mp3"
 		},
@@ -111,7 +111,7 @@
 			"English": "Good luck with school.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "حظا سعيدا مع المدرسة.",
 			"Egyptian Arabic Audio": "eca-0983-11.mp3",
 			"Standard Arabic Audio": "msa-0983-11.mp3"
 		},
@@ -121,7 +121,7 @@
 			"English": "Thank you very much.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "شكرا جزيلا.",
 			"Egyptian Arabic Audio": "eca-0983-12.mp3",
 			"Standard Arabic Audio": "msa-0983-12.mp3"
 		},
@@ -131,7 +131,7 @@
 			"English": "How's it going?",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كيف تجري الامور؟",
 			"Egyptian Arabic Audio": "eca-0983-13.mp3",
 			"Standard Arabic Audio": "msa-0983-13.mp3"
 		},
@@ -141,7 +141,7 @@
 			"English": "I'm doing well. How about you?",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنا على ما يرام. ماذا عنك؟",
 			"Egyptian Arabic Audio": "eca-0983-14.mp3",
 			"Standard Arabic Audio": "msa-0983-14.mp3"
 		},
@@ -151,7 +151,7 @@
 			"English": "Never better, thanks.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أبدا أفضل، وذلك بفضل.",
 			"Egyptian Arabic Audio": "eca-0983-15.mp3",
 			"Standard Arabic Audio": "msa-0983-15.mp3"
 		},
@@ -161,7 +161,7 @@
 			"English": "So how have you been lately?",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "فكيف كنت في الآونة الأخيرة؟",
 			"Egyptian Arabic Audio": "eca-0983-16.mp3",
 			"Standard Arabic Audio": "msa-0983-16.mp3"
 		},
@@ -171,7 +171,7 @@
 			"English": "I've actually been pretty good. You?",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لقد كنت في الواقع جيدة جدا. أنت؟",
 			"Egyptian Arabic Audio": "eca-0983-17.mp3",
 			"Standard Arabic Audio": "msa-0983-17.mp3"
 		},
@@ -181,7 +181,7 @@
 			"English": "I'm actually in school right now.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنا فعلا في المدرسة الآن.",
 			"Egyptian Arabic Audio": "eca-0983-18.mp3",
 			"Standard Arabic Audio": "msa-0983-18.mp3"
 		},
@@ -191,7 +191,7 @@
 			"English": "Which school do you attend?",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ما هي المدرسة التي تحضرها؟",
 			"Egyptian Arabic Audio": "eca-0983-19.mp3",
 			"Standard Arabic Audio": "msa-0983-19.mp3"
 		},
@@ -201,7 +201,7 @@
 			"English": "I'm attending PCC right now.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنا حضور يك الآن.",
 			"Egyptian Arabic Audio": "eca-0983-20.mp3",
 			"Standard Arabic Audio": "msa-0983-20.mp3"
 		},
@@ -211,7 +211,7 @@
 			"English": "Are you enjoying it there?",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هل تتمتع بها هناك؟",
 			"Egyptian Arabic Audio": "eca-0983-21.mp3",
 			"Standard Arabic Audio": "msa-0983-21.mp3"
 		},
@@ -221,7 +221,7 @@
 			"English": "It's not bad. There are a lot of people there.",
 			"Word Count": 10,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ليس سيئا. هناك الكثير من الناس هناك.",
 			"Egyptian Arabic Audio": "eca-0983-22.mp3",
 			"Standard Arabic Audio": "msa-0983-22.mp3"
 		},
@@ -231,7 +231,7 @@
 			"English": "Good luck with that.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "حظا جيدا في ذلك.",
 			"Egyptian Arabic Audio": "eca-0983-23.mp3",
 			"Standard Arabic Audio": "msa-0983-23.mp3"
 		},
@@ -241,7 +241,7 @@
 			"English": "Thanks.",
 			"Word Count": 1,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "شكر.",
 			"Egyptian Arabic Audio": "eca-0983-24.mp3",
 			"Standard Arabic Audio": "msa-0983-24.mp3"
 		},
@@ -251,7 +251,7 @@
 			"English": "How are you doing today?",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كيف حالك اليوم؟",
 			"Egyptian Arabic Audio": "eca-0983-25.mp3",
 			"Standard Arabic Audio": "msa-0983-25.mp3"
 		},
@@ -261,7 +261,7 @@
 			"English": "I'm doing great. What about you?",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انا بأفضل حال. ماذا عنك؟",
 			"Egyptian Arabic Audio": "eca-0983-26.mp3",
 			"Standard Arabic Audio": "msa-0983-26.mp3"
 		},
@@ -271,7 +271,7 @@
 			"English": "I'm absolutely lovely, thank you.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنا جميل تماما، شكرا لك.",
 			"Egyptian Arabic Audio": "eca-0983-27.mp3",
 			"Standard Arabic Audio": "msa-0983-27.mp3"
 		},
@@ -281,7 +281,7 @@
 			"English": "Everything's been good with you?",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كل شيء كان جيدا معك؟",
 			"Egyptian Arabic Audio": "eca-0983-28.mp3",
 			"Standard Arabic Audio": "msa-0983-28.mp3"
 		},
@@ -291,7 +291,7 @@
 			"English": "I haven't been better. How about yourself?",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لم أكن أفضل. ماذا عنك؟",
 			"Egyptian Arabic Audio": "eca-0983-29.mp3",
 			"Standard Arabic Audio": "msa-0983-29.mp3"
 		},
@@ -301,7 +301,7 @@
 			"English": "I started school recently.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "بدأت المدرسة مؤخرا.",
 			"Egyptian Arabic Audio": "eca-0983-30.mp3",
 			"Standard Arabic Audio": "msa-0983-30.mp3"
 		},
@@ -311,7 +311,7 @@
 			"English": "Where are you going to school?",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "إلى أين أنت ذاهب إلى المدرسة؟",
 			"Egyptian Arabic Audio": "eca-0983-31.mp3",
 			"Standard Arabic Audio": "msa-0983-31.mp3"
 		},
@@ -321,7 +321,7 @@
 			"English": "I'm going to PCC.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنا ذاهب إلى يك.",
 			"Egyptian Arabic Audio": "eca-0983-32.mp3",
 			"Standard Arabic Audio": "msa-0983-32.mp3"
 		},
@@ -331,7 +331,7 @@
 			"English": "How do you like it so far?",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كيف كنت ترغب في ذلك حتى الآن؟",
 			"Egyptian Arabic Audio": "eca-0983-33.mp3",
 			"Standard Arabic Audio": "msa-0983-33.mp3"
 		},
@@ -341,7 +341,7 @@
 			"English": "I like it so far. My classes are pretty good right now.",
 			"Word Count": 12,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انني معجب به حتى الان. فصولي جيدة جدا الآن.",
 			"Egyptian Arabic Audio": "eca-0983-34.mp3",
 			"Standard Arabic Audio": "msa-0983-34.mp3"
 		},
@@ -351,7 +351,7 @@
 			"English": "I wish you luck.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "آتمنى لك الحظ.",
 			"Egyptian Arabic Audio": "eca-0983-35.mp3",
 			"Standard Arabic Audio": "msa-0983-35.mp3"
 		},
@@ -361,7 +361,7 @@
 			"English": "Thanks a lot.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "شكرا جزيلا.",
 			"Egyptian Arabic Audio": "eca-0983-36.mp3",
 			"Standard Arabic Audio": "msa-0983-36.mp3"
 		}

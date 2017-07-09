@@ -9,7 +9,7 @@
 			"English": "He planned to make fried cabbage.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وقال انه يعتزم جعل الملفوف المقلية.",
 			"Egyptian Arabic Audio": "eca-0879-1.mp3",
 			"Standard Arabic Audio": "msa-0879-1.mp3"
 		},
@@ -18,7 +18,7 @@
 			"English": "It was healthy and easy to make.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كان صحي وسهل لجعل.",
 			"Egyptian Arabic Audio": "eca-0879-2.mp3",
 			"Standard Arabic Audio": "msa-0879-2.mp3"
 		},
@@ -27,7 +27,7 @@
 			"English": "She put a pan on the stove.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وضعت وعاء عموم على الموقد.",
 			"Egyptian Arabic Audio": "eca-0879-3.mp3",
 			"Standard Arabic Audio": "msa-0879-3.mp3"
 		},
@@ -36,7 +36,7 @@
 			"English": "She turned on the stove.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "الوجه الصفع وقالت انها تحولت على موقد.",
 			"Egyptian Arabic Audio": "eca-0879-4.mp3",
 			"Standard Arabic Audio": "msa-0879-4.mp3"
 		},
@@ -45,7 +45,7 @@
 			"English": "She put some oil on the pan.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وضعت بعض الزيت على المقلاة.",
 			"Egyptian Arabic Audio": "eca-0879-5.mp3",
 			"Standard Arabic Audio": "msa-0879-5.mp3"
 		},
@@ -54,7 +54,7 @@
 			"English": "She put the cabbage in the pan.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وضعت الملفوف في المقلاة.",
 			"Egyptian Arabic Audio": "eca-0879-6.mp3",
 			"Standard Arabic Audio": "msa-0879-6.mp3"
 		},
@@ -63,7 +63,7 @@
 			"English": "She stirred the cabbage around.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انها أثارت الملفوف حولها.",
 			"Egyptian Arabic Audio": "eca-0879-7.mp3",
 			"Standard Arabic Audio": "msa-0879-7.mp3"
 		},
@@ -72,7 +72,7 @@
 			"English": "She closed the pan with a lid.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أغلقت المقلاة بغطاء.",
 			"Egyptian Arabic Audio": "eca-0879-8.mp3",
 			"Standard Arabic Audio": "msa-0879-8.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "She waited a couple minutes.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انتظرت بضع دقائق.",
 			"Egyptian Arabic Audio": "eca-0879-9.mp3",
 			"Standard Arabic Audio": "msa-0879-9.mp3"
 		},
@@ -90,7 +90,7 @@
 			"English": "It was ready.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كان جاهزا.",
 			"Egyptian Arabic Audio": "eca-0879-10.mp3",
 			"Standard Arabic Audio": "msa-0879-10.mp3"
 		}

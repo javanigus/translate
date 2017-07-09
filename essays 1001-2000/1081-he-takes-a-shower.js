@@ -9,7 +9,7 @@
 			"English": "He walks into the bathroom.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يسير في الحمام.",
 			"Egyptian Arabic Audio": "eca-1081-1.mp3",
 			"Standard Arabic Audio": "msa-1081-1.mp3"
 		},
@@ -18,7 +18,7 @@
 			"English": "He pulls back the shower curtain.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انه يسحب الستار دش.",
 			"Egyptian Arabic Audio": "eca-1081-2.mp3",
 			"Standard Arabic Audio": "msa-1081-2.mp3"
 		},
@@ -27,7 +27,7 @@
 			"English": "He turns on the shower water.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انه يتحول على مياه الاستحمام.",
 			"Egyptian Arabic Audio": "eca-1081-3.mp3",
 			"Standard Arabic Audio": "msa-1081-3.mp3"
 		},
@@ -36,7 +36,7 @@
 			"English": "He steps into the tub.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انه خطوات في الحوض.",
 			"Egyptian Arabic Audio": "eca-1081-4.mp3",
 			"Standard Arabic Audio": "msa-1081-4.mp3"
 		},
@@ -45,7 +45,7 @@
 			"English": "He closes the shower curtain.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انه يغلق الستار الدش.",
 			"Egyptian Arabic Audio": "eca-1081-5.mp3",
 			"Standard Arabic Audio": "msa-1081-5.mp3"
 		},
@@ -54,7 +54,7 @@
 			"English": "He grabs a bar of soap.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انه يمسك شريط من الصابون.",
 			"Egyptian Arabic Audio": "eca-1081-6.mp3",
 			"Standard Arabic Audio": "msa-1081-6.mp3"
 		},
@@ -63,7 +63,7 @@
 			"English": "He washes all over.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يغسل في جميع أنحاء.",
 			"Egyptian Arabic Audio": "eca-1081-7.mp3",
 			"Standard Arabic Audio": "msa-1081-7.mp3"
 		},
@@ -72,7 +72,7 @@
 			"English": "He rinses the soap off.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يشطف الصابون.",
 			"Egyptian Arabic Audio": "eca-1081-8.mp3",
 			"Standard Arabic Audio": "msa-1081-8.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "He turns off the water.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انه يطفئ الماء.",
 			"Egyptian Arabic Audio": "eca-1081-9.mp3",
 			"Standard Arabic Audio": "msa-1081-9.mp3"
 		},
@@ -90,7 +90,7 @@
 			"English": "He steps out of the tub.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انه يخرج من الحوض.",
 			"Egyptian Arabic Audio": "eca-1081-10.mp3",
 			"Standard Arabic Audio": "msa-1081-10.mp3"
 		}

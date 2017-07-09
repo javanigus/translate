@@ -11,7 +11,7 @@
 			"English": "I have a date with an amazing girl tomorrow.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لدي موعد مع فتاة مذهلة غدا.",
 			"Egyptian Arabic Audio": "eca-0145-1.mp3",
 			"Standard Arabic Audio": "msa-0145-1.mp3"
 		},
@@ -21,7 +21,7 @@
 			"English": "How did you meet her?",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كيف تعرفت عليها؟",
 			"Egyptian Arabic Audio": "eca-0145-2.mp3",
 			"Standard Arabic Audio": "msa-0145-2.mp3"
 		},
@@ -31,7 +31,7 @@
 			"English": "I bumped into her on the street.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنا صدمت لها في الشارع.",
 			"Egyptian Arabic Audio": "eca-0145-3.mp3",
 			"Standard Arabic Audio": "msa-0145-3.mp3"
 		},
@@ -41,7 +41,7 @@
 			"English": "What a coincidence.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يالها من صدفة.",
 			"Egyptian Arabic Audio": "eca-0145-4.mp3",
 			"Standard Arabic Audio": "msa-0145-4.mp3"
 		},
@@ -51,7 +51,7 @@
 			"English": "It was love at first sight.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كان حبا من النظرة الأولى.",
 			"Egyptian Arabic Audio": "eca-0145-5.mp3",
 			"Standard Arabic Audio": "msa-0145-5.mp3"
 		},
@@ -61,7 +61,7 @@
 			"English": "How do you know?",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كيف علمت بذلك؟",
 			"Egyptian Arabic Audio": "eca-0145-6.mp3",
 			"Standard Arabic Audio": "msa-0145-6.mp3"
 		},
@@ -71,7 +71,7 @@
 			"English": "We looked into each others' eyes.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لقد نظرنا إلى عيون بعضهم البعض.",
 			"Egyptian Arabic Audio": "eca-0145-7.mp3",
 			"Standard Arabic Audio": "msa-0145-7.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "Anyone can look into another person's eyes.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يمكن لأي شخص أن ينظر في عيون شخص آخر.",
 			"Egyptian Arabic Audio": "eca-0145-8.mp3",
 			"Standard Arabic Audio": "msa-0145-8.mp3"
 		},
@@ -91,7 +91,7 @@
 			"English": "It was more than just looking.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كان أكثر من مجرد النظر.",
 			"Egyptian Arabic Audio": "eca-0145-9.mp3",
 			"Standard Arabic Audio": "msa-0145-9.mp3"
 		},
@@ -101,7 +101,7 @@
 			"English": "What was it like then?",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ماذا كان مثل ذلك الحين؟",
 			"Egyptian Arabic Audio": "eca-0145-10.mp3",
 			"Standard Arabic Audio": "msa-0145-10.mp3"
 		},
@@ -111,7 +111,7 @@
 			"English": "It was like a fairy tale.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كان مثل خرافة.",
 			"Egyptian Arabic Audio": "eca-0145-11.mp3",
 			"Standard Arabic Audio": "msa-0145-11.mp3"
 		},
@@ -121,7 +121,7 @@
 			"English": "All you need is a castle then.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كل ما تحتاجه هو القلعة ثم.",
 			"Egyptian Arabic Audio": "eca-0145-12.mp3",
 			"Standard Arabic Audio": "msa-0145-12.mp3"
 		}

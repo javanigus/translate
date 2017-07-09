@@ -9,7 +9,7 @@
 			"English": "She is moving to another state.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وهي تتحرك إلى دولة أخرى.",
 			"Egyptian Arabic Audio": "eca-0200-1.mp3",
 			"Standard Arabic Audio": "msa-0200-1.mp3"
 		},
@@ -18,7 +18,7 @@
 			"English": "She is excited.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هي متحمسة.",
 			"Egyptian Arabic Audio": "eca-0200-2.mp3",
 			"Standard Arabic Audio": "msa-0200-2.mp3"
 		},
@@ -27,7 +27,7 @@
 			"English": "She is also sad.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وهي أيضا حزينة.",
 			"Egyptian Arabic Audio": "eca-0200-3.mp3",
 			"Standard Arabic Audio": "msa-0200-3.mp3"
 		},
@@ -36,7 +36,7 @@
 			"English": "She is excited to be in a new place.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انها متحمس ليكون في مكان جديد.",
 			"Egyptian Arabic Audio": "eca-0200-4.mp3",
 			"Standard Arabic Audio": "msa-0200-4.mp3"
 		},
@@ -45,7 +45,7 @@
 			"English": "She is excited to meet new people.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انها متحمسة للقاء أشخاص جدد.",
 			"Egyptian Arabic Audio": "eca-0200-5.mp3",
 			"Standard Arabic Audio": "msa-0200-5.mp3"
 		},
@@ -54,7 +54,7 @@
 			"English": "She is excited to start a new life.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "إنها متحمسة لبدء حياة جديدة.",
 			"Egyptian Arabic Audio": "eca-0200-6.mp3",
 			"Standard Arabic Audio": "msa-0200-6.mp3"
 		},
@@ -63,7 +63,7 @@
 			"English": "She is sad to leave her family.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انها حزينة لمغادرة عائلتها.",
 			"Egyptian Arabic Audio": "eca-0200-7.mp3",
 			"Standard Arabic Audio": "msa-0200-7.mp3"
 		},
@@ -72,7 +72,7 @@
 			"English": "She is sad to leave her friends.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انها حزينة لترك صديقاتها.",
 			"Egyptian Arabic Audio": "eca-0200-8.mp3",
 			"Standard Arabic Audio": "msa-0200-8.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "She will miss a lot of things.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وقالت انها سوف تفوت الكثير من الأشياء.",
 			"Egyptian Arabic Audio": "eca-0200-9.mp3",
 			"Standard Arabic Audio": "msa-0200-9.mp3"
 		}

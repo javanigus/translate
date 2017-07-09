@@ -11,7 +11,7 @@
 			"English": "Thank you for coming in today. I'll see you next week.",
 			"Word Count": 11,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "شكرا لكم على حضوركم اليوم. سوف أراك الأسبوع المقبل.",
 			"Egyptian Arabic Audio": "eca-0643-1.mp3",
 			"Standard Arabic Audio": "msa-0643-1.mp3"
 		},
@@ -21,7 +21,7 @@
 			"English": "Excuse me, instructor. May I speak with you for a moment?",
 			"Word Count": 11,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "عفوا، مدرب. هل لي التحدث معك لحظة؟",
 			"Egyptian Arabic Audio": "eca-0643-2.mp3",
 			"Standard Arabic Audio": "msa-0643-2.mp3"
 		},
@@ -31,7 +31,7 @@
 			"English": "Sure thing, Mr. Davis. What can I help you with?",
 			"Word Count": 10,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "شيء مؤكد، السيد ديفيس. بماذا يمكنني مساعدتك؟",
 			"Egyptian Arabic Audio": "eca-0643-3.mp3",
 			"Standard Arabic Audio": "msa-0643-3.mp3"
 		},
@@ -41,7 +41,7 @@
 			"English": "Well, about next week. I can't make it.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "حسنا، حوالي الأسبوع المقبل. لا أستطيع جعله.",
 			"Egyptian Arabic Audio": "eca-0643-4.mp3",
 			"Standard Arabic Audio": "msa-0643-4.mp3"
 		},
@@ -51,7 +51,7 @@
 			"English": "That is a problem. You are mandated by court to attend every week.",
 			"Word Count": 13,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هذه مشكلة. يتم تكليفك من قبل المحكمة لحضور كل أسبوع.",
 			"Egyptian Arabic Audio": "eca-0643-5.mp3",
 			"Standard Arabic Audio": "msa-0643-5.mp3"
 		},
@@ -61,7 +61,7 @@
 			"English": "I know, but I have a family emergency.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أعرف، ولكن لدي حالة طوارئ عائلية.",
 			"Egyptian Arabic Audio": "eca-0643-6.mp3",
 			"Standard Arabic Audio": "msa-0643-6.mp3"
 		},
@@ -71,7 +71,7 @@
 			"English": "You have to go to the court and ask for an extension.",
 			"Word Count": 12,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "عليك أن تذهب إلى المحكمة وطلب تمديد.",
 			"Egyptian Arabic Audio": "eca-0643-7.mp3",
 			"Standard Arabic Audio": "msa-0643-7.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "Do I have to come back over here after?",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هل يجب أن أعود إلى هنا بعد؟",
 			"Egyptian Arabic Audio": "eca-0643-8.mp3",
 			"Standard Arabic Audio": "msa-0643-8.mp3"
 		},
@@ -91,7 +91,7 @@
 			"English": "No, they will give you a make-up date.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لا، سوف تعطيك تاريخ الماكياج.",
 			"Egyptian Arabic Audio": "eca-0643-9.mp3",
 			"Standard Arabic Audio": "msa-0643-9.mp3"
 		},
@@ -101,7 +101,7 @@
 			"English": "Great. Thank you for all your help.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "عظيم. شكرا لكم على كل ما تبذلونه من مساعدة.",
 			"Egyptian Arabic Audio": "eca-0643-10.mp3",
 			"Standard Arabic Audio": "msa-0643-10.mp3"
 		},
@@ -111,7 +111,7 @@
 			"English": "Sure thing. I hope everything is alright.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "شيء مؤكد. آمل أن كل شيء على ما يرام.",
 			"Egyptian Arabic Audio": "eca-0643-11.mp3",
 			"Standard Arabic Audio": "msa-0643-11.mp3"
 		},
@@ -121,7 +121,7 @@
 			"English": "Thanks. I'll see you next time.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "شكر. سوف أراك في المرة القادمة.",
 			"Egyptian Arabic Audio": "eca-0643-12.mp3",
 			"Standard Arabic Audio": "msa-0643-12.mp3"
 		}

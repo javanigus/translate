@@ -11,7 +11,7 @@
 			"English": "I'm trying to stretch my dollars.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أحاول أن تمتد بلدي دولار.",
 			"Egyptian Arabic Audio": "eca-0428-1.mp3",
 			"Standard Arabic Audio": "msa-0428-1.mp3"
 		},
@@ -21,7 +21,7 @@
 			"English": "How are you doing that?",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كيف حالك؟",
 			"Egyptian Arabic Audio": "eca-0428-2.mp3",
 			"Standard Arabic Audio": "msa-0428-2.mp3"
 		},
@@ -31,7 +31,7 @@
 			"English": "I started shopping at the dollar store.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "بدأت التسوق في متجر الدولار.",
 			"Egyptian Arabic Audio": "eca-0428-3.mp3",
 			"Standard Arabic Audio": "msa-0428-3.mp3"
 		},
@@ -41,7 +41,7 @@
 			"English": "That saves a lot of money.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وهذا يوفر الكثير من المال.",
 			"Egyptian Arabic Audio": "eca-0428-4.mp3",
 			"Standard Arabic Audio": "msa-0428-4.mp3"
 		},
@@ -51,7 +51,7 @@
 			"English": "I bought three pounds of potatoes for a dollar.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "اشتريت ثلاثة جنيه من البطاطس مقابل الدولار.",
 			"Egyptian Arabic Audio": "eca-0428-5.mp3",
 			"Standard Arabic Audio": "msa-0428-5.mp3"
 		},
@@ -61,7 +61,7 @@
 			"English": "That's a good deal.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هذا صفقة جيدة.",
 			"Egyptian Arabic Audio": "eca-0428-6.mp3",
 			"Standard Arabic Audio": "msa-0428-6.mp3"
 		},
@@ -71,7 +71,7 @@
 			"English": "Yes, even though some of the potatoes had eyes.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "نعم، على الرغم من أن بعض من البطاطا كان عيون.",
 			"Egyptian Arabic Audio": "eca-0428-7.mp3",
 			"Standard Arabic Audio": "msa-0428-7.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "Just put them in the fridge.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "مجرد وضعها في الثلاجة.",
 			"Egyptian Arabic Audio": "eca-0428-8.mp3",
 			"Standard Arabic Audio": "msa-0428-8.mp3"
 		},
@@ -91,7 +91,7 @@
 			"English": "Also, I bought a can of cheap coffee and a bag of good coffee.",
 			"Word Count": 14,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أيضا، اشتريت علبة من القهوة الرخيصة وكيس من القهوة الجيدة.",
 			"Egyptian Arabic Audio": "eca-0428-9.mp3",
 			"Standard Arabic Audio": "msa-0428-9.mp3"
 		},
@@ -101,7 +101,7 @@
 			"English": "Why did you do that?",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لماذا فعلت ذلك؟",
 			"Egyptian Arabic Audio": "eca-0428-10.mp3",
 			"Standard Arabic Audio": "msa-0428-10.mp3"
 		},
@@ -111,7 +111,7 @@
 			"English": "I mixed them together.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنا مختلطة معا.",
 			"Egyptian Arabic Audio": "eca-0428-11.mp3",
 			"Standard Arabic Audio": "msa-0428-11.mp3"
 		},
@@ -121,7 +121,7 @@
 			"English": "If the coffee still tastes okay, that's a good idea.",
 			"Word Count": 10,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "إذا كانت القهوة لا تزال الأذواق بخير، وهذا هو فكرة جيدة.",
 			"Egyptian Arabic Audio": "eca-0428-12.mp3",
 			"Standard Arabic Audio": "msa-0428-12.mp3"
 		}

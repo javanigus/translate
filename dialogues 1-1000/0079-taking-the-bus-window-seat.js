@@ -11,7 +11,7 @@
 			"English": "I like a window seat!",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنا أحب مقعد النافذة!",
 			"Egyptian Arabic Audio": "eca-0079-1.mp3",
 			"Standard Arabic Audio": "msa-0079-1.mp3"
 		},
@@ -21,7 +21,7 @@
 			"English": "Why are you always so excited about sitting there?",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لماذا أنت دائما متحمس جدا حول الجلوس هناك؟",
 			"Egyptian Arabic Audio": "eca-0079-2.mp3",
 			"Standard Arabic Audio": "msa-0079-2.mp3"
 		},
@@ -31,7 +31,7 @@
 			"English": "I like being able to look outside.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أحب أن تكون قادرة على النظر إلى الخارج.",
 			"Egyptian Arabic Audio": "eca-0079-3.mp3",
 			"Standard Arabic Audio": "msa-0079-3.mp3"
 		},
@@ -41,7 +41,7 @@
 			"English": "You walk along the streets all the time.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يمكنك المشي على طول الشوارع في كل وقت.",
 			"Egyptian Arabic Audio": "eca-0079-4.mp3",
 			"Standard Arabic Audio": "msa-0079-4.mp3"
 		},
@@ -51,7 +51,7 @@
 			"English": "That's true, but this way it's like a movie.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هذا صحيح، ولكن بهذه الطريقة انها مثل فيلم.",
 			"Egyptian Arabic Audio": "eca-0079-5.mp3",
 			"Standard Arabic Audio": "msa-0079-5.mp3"
 		},
@@ -61,7 +61,7 @@
 			"English": "What do you mean it's like a movie?",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ماذا تعني انها مثل فيلم؟",
 			"Egyptian Arabic Audio": "eca-0079-6.mp3",
 			"Standard Arabic Audio": "msa-0079-6.mp3"
 		},
@@ -71,7 +71,7 @@
 			"English": "I like watching the people walking by.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أحب مشاهدة الناس سيرا على الأقدام.",
 			"Egyptian Arabic Audio": "eca-0079-7.mp3",
 			"Standard Arabic Audio": "msa-0079-7.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "All people walk the same way, you know.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كل الناس يسيرون بنفس الطريقة، كما تعلمون.",
 			"Egyptian Arabic Audio": "eca-0079-8.mp3",
 			"Standard Arabic Audio": "msa-0079-8.mp3"
 		},
@@ -91,7 +91,7 @@
 			"English": "Perhaps, but not all people live the same way.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ربما، ولكن ليس كل الناس يعيشون بنفس الطريقة.",
 			"Egyptian Arabic Audio": "eca-0079-9.mp3",
 			"Standard Arabic Audio": "msa-0079-9.mp3"
 		},
@@ -101,7 +101,7 @@
 			"English": "What does this have to do with a window seat?",
 			"Word Count": 10,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ماذا يفعل هذا مع مقعد النافذة؟",
 			"Egyptian Arabic Audio": "eca-0079-10.mp3",
 			"Standard Arabic Audio": "msa-0079-10.mp3"
 		},
@@ -111,7 +111,7 @@
 			"English": "I just like looking out at the world.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنا فقط مثل النظر في العالم.",
 			"Egyptian Arabic Audio": "eca-0079-11.mp3",
 			"Standard Arabic Audio": "msa-0079-11.mp3"
 		},
@@ -121,7 +121,7 @@
 			"English": "Suppose the world is rather peaceful.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لنفترض أن العالم سلمي نوعا ما.",
 			"Egyptian Arabic Audio": "eca-0079-12.mp3",
 			"Standard Arabic Audio": "msa-0079-12.mp3"
 		}

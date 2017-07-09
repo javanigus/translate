@@ -9,7 +9,7 @@
 			"English": "She does not like her boyfriend.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انها لا تحب صديقها.",
 			"Egyptian Arabic Audio": "eca-0163-1.mp3",
 			"Standard Arabic Audio": "msa-0163-1.mp3"
 		},
@@ -18,7 +18,7 @@
 			"English": "He is lazy.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انه كسول.",
 			"Egyptian Arabic Audio": "eca-0163-2.mp3",
 			"Standard Arabic Audio": "msa-0163-2.mp3"
 		},
@@ -27,7 +27,7 @@
 			"English": "He never does anything for her.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لم يفعل أي شيء بالنسبة لها.",
 			"Egyptian Arabic Audio": "eca-0163-3.mp3",
 			"Standard Arabic Audio": "msa-0163-3.mp3"
 		},
@@ -36,7 +36,7 @@
 			"English": "He does not have a job.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ليس لديه وظيفة.",
 			"Egyptian Arabic Audio": "eca-0163-4.mp3",
 			"Standard Arabic Audio": "msa-0163-4.mp3"
 		},
@@ -45,7 +45,7 @@
 			"English": "He does not go to school.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انه لا يذهب الى المدرسة.",
 			"Egyptian Arabic Audio": "eca-0163-5.mp3",
 			"Standard Arabic Audio": "msa-0163-5.mp3"
 		},
@@ -54,7 +54,7 @@
 			"English": "He just watches TV and plays video games.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انه مجرد مشاهدة التلفزيون ولعب ألعاب الفيديو.",
 			"Egyptian Arabic Audio": "eca-0163-6.mp3",
 			"Standard Arabic Audio": "msa-0163-6.mp3"
 		},
@@ -63,7 +63,7 @@
 			"English": "She wants to break up with him.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "إنها تريد أن تفكك معه.",
 			"Egyptian Arabic Audio": "eca-0163-7.mp3",
 			"Standard Arabic Audio": "msa-0163-7.mp3"
 		},
@@ -72,7 +72,7 @@
 			"English": "She does not want to hurt his feelings.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "إنها لا تريد أن تؤذي مشاعره.",
 			"Egyptian Arabic Audio": "eca-0163-8.mp3",
 			"Standard Arabic Audio": "msa-0163-8.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "She plans out what she is going to say.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "إنها تخطط لما ستقوله.",
 			"Egyptian Arabic Audio": "eca-0163-9.mp3",
 			"Standard Arabic Audio": "msa-0163-9.mp3"
 		}

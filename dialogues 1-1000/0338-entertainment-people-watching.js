@@ -11,7 +11,7 @@
 			"English": "What's your favorite thing to do?",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ما هو الشيء المفضل لديك أن تفعل؟",
 			"Egyptian Arabic Audio": "eca-0338-1.mp3",
 			"Standard Arabic Audio": "msa-0338-1.mp3"
 		},
@@ -21,7 +21,7 @@
 			"English": "I like to watch people.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أحب مشاهدة الناس.",
 			"Egyptian Arabic Audio": "eca-0338-2.mp3",
 			"Standard Arabic Audio": "msa-0338-2.mp3"
 		},
@@ -31,7 +31,7 @@
 			"English": "That's your favorite thing to do?",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هذا هو الشيء المفضل لديك أن تفعل؟",
 			"Egyptian Arabic Audio": "eca-0338-3.mp3",
 			"Standard Arabic Audio": "msa-0338-3.mp3"
 		},
@@ -41,7 +41,7 @@
 			"English": "Well, it's one of them.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "حسنا، انها واحدة منهم.",
 			"Egyptian Arabic Audio": "eca-0338-4.mp3",
 			"Standard Arabic Audio": "msa-0338-4.mp3"
 		},
@@ -51,7 +51,7 @@
 			"English": "Where do you go to watch people?",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أين تذهب لمشاهدة الناس؟",
 			"Egyptian Arabic Audio": "eca-0338-5.mp3",
 			"Standard Arabic Audio": "msa-0338-5.mp3"
 		},
@@ -61,7 +61,7 @@
 			"English": "My girlfriend and I sit outside Starbucks.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "صديقتي وجلس خارج ستاربكس.",
 			"Egyptian Arabic Audio": "eca-0338-6.mp3",
 			"Standard Arabic Audio": "msa-0338-6.mp3"
 		},
@@ -71,7 +71,7 @@
 			"English": "That sounds like a good spot.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هذا يبدو وكأنه بقعة جيدة.",
 			"Egyptian Arabic Audio": "eca-0338-7.mp3",
 			"Standard Arabic Audio": "msa-0338-7.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "We watch people walk by with their dogs.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "نحن نشاهد الناس سيرا على الأقدام مع الكلاب الخاصة بهم.",
 			"Egyptian Arabic Audio": "eca-0338-8.mp3",
 			"Standard Arabic Audio": "msa-0338-8.mp3"
 		},
@@ -91,7 +91,7 @@
 			"English": "I guess you see lots of different dogs.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أعتقد أنك ترى الكثير من الكلاب المختلفة.",
 			"Egyptian Arabic Audio": "eca-0338-9.mp3",
 			"Standard Arabic Audio": "msa-0338-9.mp3"
 		},
@@ -101,7 +101,7 @@
 			"English": "We don't even know what kind most of them are.",
 			"Word Count": 10,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "نحن لا نعرف حتى أي نوع معظمهم.",
 			"Egyptian Arabic Audio": "eca-0338-10.mp3",
 			"Standard Arabic Audio": "msa-0338-10.mp3"
 		},
@@ -111,7 +111,7 @@
 			"English": "There are lots of different kinds, but they all have one thing in common.",
 			"Word Count": 14,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هناك الكثير من أنواع مختلفة، ولكن كل شيء واحد مشترك.",
 			"Egyptian Arabic Audio": "eca-0338-11.mp3",
 			"Standard Arabic Audio": "msa-0338-11.mp3"
 		},
@@ -121,7 +121,7 @@
 			"English": "Yes, they love to sniff each other when they meet.",
 			"Word Count": 10,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "نعم، انهم يحبون لشم بعضهم البعض عندما يجتمعون.",
 			"Egyptian Arabic Audio": "eca-0338-12.mp3",
 			"Standard Arabic Audio": "msa-0338-12.mp3"
 		}

@@ -11,7 +11,7 @@
 			"English": "How may I help you?",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كيف يمكنني مساعدتك؟",
 			"Egyptian Arabic Audio": "eca-0465-1.mp3",
 			"Standard Arabic Audio": "msa-0465-1.mp3"
 		},
@@ -21,7 +21,7 @@
 			"English": "My computer is not letting me run JavaScript.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "جهاز الكمبيوتر الخاص بي لا يسمح لي تشغيل جافا سكريبت.",
 			"Egyptian Arabic Audio": "eca-0465-2.mp3",
 			"Standard Arabic Audio": "msa-0465-2.mp3"
 		},
@@ -31,7 +31,7 @@
 			"English": "That can easily be fixed.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يمكن بسهولة أن تكون ثابتة.",
 			"Egyptian Arabic Audio": "eca-0465-3.mp3",
 			"Standard Arabic Audio": "msa-0465-3.mp3"
 		},
@@ -41,7 +41,7 @@
 			"English": "I've tried fixing it myself, but nothing worked.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لقد حاولت إصلاحه بنفسي، ولكن لا شيء عملت.",
 			"Egyptian Arabic Audio": "eca-0465-4.mp3",
 			"Standard Arabic Audio": "msa-0465-4.mp3"
 		},
@@ -51,7 +51,7 @@
 			"English": "If you'd kindly go to our website, I'll fix the problem.",
 			"Word Count": 11,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "إذا كنت تفضل الذهاب إلى موقعنا على الانترنت، وسوف إصلاح المشكلة.",
 			"Egyptian Arabic Audio": "eca-0465-5.mp3",
 			"Standard Arabic Audio": "msa-0465-5.mp3"
 		},
@@ -61,7 +61,7 @@
 			"English": "I've logged in, now what?",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لقد قمت بتسجيل الدخول، والآن ماذا؟",
 			"Egyptian Arabic Audio": "eca-0465-6.mp3",
 			"Standard Arabic Audio": "msa-0465-6.mp3"
 		},
@@ -71,7 +71,7 @@
 			"English": "I will now access your computer from my location.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وسوف الآن الوصول إلى جهاز الكمبيوتر الخاص بك من موقعي.",
 			"Egyptian Arabic Audio": "eca-0465-7.mp3",
 			"Standard Arabic Audio": "msa-0465-7.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "Oh, I see what you are doing.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أوه، أرى ما تقومون به.",
 			"Egyptian Arabic Audio": "eca-0465-8.mp3",
 			"Standard Arabic Audio": "msa-0465-8.mp3"
 		},
@@ -91,7 +91,7 @@
 			"English": "That should just about fix the problem!",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وهذا ينبغي فقط حول إصلاح المشكلة!",
 			"Egyptian Arabic Audio": "eca-0465-9.mp3",
 			"Standard Arabic Audio": "msa-0465-9.mp3"
 		},
@@ -101,7 +101,7 @@
 			"English": "Thank you so much! It was such an easy solution.",
 			"Word Count": 10,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "شكرا جزيلا! كان هذا حل سهل.",
 			"Egyptian Arabic Audio": "eca-0465-10.mp3",
 			"Standard Arabic Audio": "msa-0465-10.mp3"
 		},
@@ -111,7 +111,7 @@
 			"English": "I'm happy to help.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنا سعيد للمساعدة.",
 			"Egyptian Arabic Audio": "eca-0465-11.mp3",
 			"Standard Arabic Audio": "msa-0465-11.mp3"
 		},
@@ -121,7 +121,7 @@
 			"English": "Again, thank you and have a good day!",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "مرة أخرى، شكرا لكم ويكون يوم جيد!",
 			"Egyptian Arabic Audio": "eca-0465-12.mp3",
 			"Standard Arabic Audio": "msa-0465-12.mp3"
 		}

@@ -9,7 +9,7 @@
 			"English": "She has happy thoughts.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لديها أفكار سعيدة.",
 			"Egyptian Arabic Audio": "eca-1105-1.mp3",
 			"Standard Arabic Audio": "msa-1105-1.mp3"
 		},
@@ -18,7 +18,7 @@
 			"English": "She thinks about good things.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انها تفكر في الأشياء الجيدة.",
 			"Egyptian Arabic Audio": "eca-1105-2.mp3",
 			"Standard Arabic Audio": "msa-1105-2.mp3"
 		},
@@ -27,7 +27,7 @@
 			"English": "She thinks about good people.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انها تفكر في الخير.",
 			"Egyptian Arabic Audio": "eca-1105-3.mp3",
 			"Standard Arabic Audio": "msa-1105-3.mp3"
 		},
@@ -36,7 +36,7 @@
 			"English": "She controls her thoughts.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انها تسيطر على أفكارها.",
 			"Egyptian Arabic Audio": "eca-1105-4.mp3",
 			"Standard Arabic Audio": "msa-1105-4.mp3"
 		},
@@ -45,7 +45,7 @@
 			"English": "Sometimes she has a negative thought.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "في بعض الأحيان لديها فكر سلبي.",
 			"Egyptian Arabic Audio": "eca-1105-5.mp3",
 			"Standard Arabic Audio": "msa-1105-5.mp3"
 		},
@@ -54,7 +54,7 @@
 			"English": "But she quickly pushes it out of her mind.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لكنها تدفعها بسرعة من عقلها.",
 			"Egyptian Arabic Audio": "eca-1105-6.mp3",
 			"Standard Arabic Audio": "msa-1105-6.mp3"
 		},
@@ -63,7 +63,7 @@
 			"English": "She \"changes the channel.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وقالت انها &quot;تغيير القناة.",
 			"Egyptian Arabic Audio": "eca-1105-7.mp3",
 			"Standard Arabic Audio": "msa-1105-7.mp3"
 		},
@@ -72,7 +72,7 @@
 			"English": "\" She listens to only happy thoughts.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "&quot;إنها تستمع إلى الأفكار السعيدة فقط.",
 			"Egyptian Arabic Audio": "eca-1105-8.mp3",
 			"Standard Arabic Audio": "msa-1105-8.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "Happy thoughts keep her happy.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أفكار سعيدة تبقي لها سعيدة.",
 			"Egyptian Arabic Audio": "eca-1105-9.mp3",
 			"Standard Arabic Audio": "msa-1105-9.mp3"
 		},
@@ -90,7 +90,7 @@
 			"English": "She feels good.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انها تشعر جيدة.",
 			"Egyptian Arabic Audio": "eca-1105-10.mp3",
 			"Standard Arabic Audio": "msa-1105-10.mp3"
 		},
@@ -99,7 +99,7 @@
 			"English": "She sleeps well.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "تنام جيدا.",
 			"Egyptian Arabic Audio": "eca-1105-11.mp3",
 			"Standard Arabic Audio": "msa-1105-11.mp3"
 		}

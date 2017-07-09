@@ -9,7 +9,7 @@
 			"English": "It was Easter.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كان عيد الفصح.",
 			"Egyptian Arabic Audio": "eca-0722-1.mp3",
 			"Standard Arabic Audio": "msa-0722-1.mp3"
 		},
@@ -18,7 +18,7 @@
 			"English": "Her family celebrated Easter.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "احتفلت عائلتها بعيد الفصح.",
 			"Egyptian Arabic Audio": "eca-0722-2.mp3",
 			"Standard Arabic Audio": "msa-0722-2.mp3"
 		},
@@ -27,7 +27,7 @@
 			"English": "They did it for the kids.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "فعلوا ذلك للأطفال.",
 			"Egyptian Arabic Audio": "eca-0722-3.mp3",
 			"Standard Arabic Audio": "msa-0722-3.mp3"
 		},
@@ -36,7 +36,7 @@
 			"English": "They got together at her house.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وصلوا معا في منزلها.",
 			"Egyptian Arabic Audio": "eca-0722-4.mp3",
 			"Standard Arabic Audio": "msa-0722-4.mp3"
 		},
@@ -45,7 +45,7 @@
 			"English": "They hired a costumed man to act as the Easter Bunny.",
 			"Word Count": 11,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وقد استأجروا رجلا بارعا ليكون بمثابة أرنب عيد الفصح.",
 			"Egyptian Arabic Audio": "eca-0722-5.mp3",
 			"Standard Arabic Audio": "msa-0722-5.mp3"
 		},
@@ -54,7 +54,7 @@
 			"English": "The family hid eggs around the house.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "اختبأت عائلة البيض في جميع أنحاء المنزل.",
 			"Egyptian Arabic Audio": "eca-0722-6.mp3",
 			"Standard Arabic Audio": "msa-0722-6.mp3"
 		},
@@ -63,7 +63,7 @@
 			"English": "The kids had to find them.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كان الأطفال للعثور عليهم.",
 			"Egyptian Arabic Audio": "eca-0722-7.mp3",
 			"Standard Arabic Audio": "msa-0722-7.mp3"
 		},
@@ -72,7 +72,7 @@
 			"English": "The Easter Bunny helped the children find the eggs.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ساعد الأرنب عيد الفصح الأطفال العثور على البيض.",
 			"Egyptian Arabic Audio": "eca-0722-8.mp3",
 			"Standard Arabic Audio": "msa-0722-8.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "Everybody had fun.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كان الجميع متعة.",
 			"Egyptian Arabic Audio": "eca-0722-9.mp3",
 			"Standard Arabic Audio": "msa-0722-9.mp3"
 		},
@@ -90,7 +90,7 @@
 			"English": "The children found treats inside the eggs.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وجد الأطفال يعامل داخل البيض.",
 			"Egyptian Arabic Audio": "eca-0722-10.mp3",
 			"Standard Arabic Audio": "msa-0722-10.mp3"
 		},
@@ -99,7 +99,7 @@
 			"English": "The adults had lunch in the yard.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كان بالغون الغداء في الفناء.",
 			"Egyptian Arabic Audio": "eca-0722-11.mp3",
 			"Standard Arabic Audio": "msa-0722-11.mp3"
 		},
@@ -108,7 +108,7 @@
 			"English": "They watched over the kids.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "شاهدوا أكثر من الأطفال.",
 			"Egyptian Arabic Audio": "eca-0722-12.mp3",
 			"Standard Arabic Audio": "msa-0722-12.mp3"
 		},
@@ -117,7 +117,7 @@
 			"English": "No one would get hurt.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لا أحد سوف تضار.",
 			"Egyptian Arabic Audio": "eca-0722-13.mp3",
 			"Standard Arabic Audio": "msa-0722-13.mp3"
 		},
@@ -126,7 +126,7 @@
 			"English": "It was a safe and fun celebration.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كان الاحتفال آمن وممتع.",
 			"Egyptian Arabic Audio": "eca-0722-14.mp3",
 			"Standard Arabic Audio": "msa-0722-14.mp3"
 		},
@@ -135,7 +135,7 @@
 			"English": "The Easter Bunny was great with kids.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كان عيد الفصح الأرنب كبيرة مع الأطفال.",
 			"Egyptian Arabic Audio": "eca-0722-15.mp3",
 			"Standard Arabic Audio": "msa-0722-15.mp3"
 		},
@@ -144,7 +144,7 @@
 			"English": "He played and danced around with them.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لعب والرقص حولها معهم.",
 			"Egyptian Arabic Audio": "eca-0722-16.mp3",
 			"Standard Arabic Audio": "msa-0722-16.mp3"
 		},
@@ -153,7 +153,7 @@
 			"English": "Easter is a tradition.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "عيد الفصح هو التقليد.",
 			"Egyptian Arabic Audio": "eca-0722-17.mp3",
 			"Standard Arabic Audio": "msa-0722-17.mp3"
 		},
@@ -162,7 +162,7 @@
 			"English": "Her family celebrates it every year.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "تحتفل عائلتها كل عام.",
 			"Egyptian Arabic Audio": "eca-0722-18.mp3",
 			"Standard Arabic Audio": "msa-0722-18.mp3"
 		},
@@ -171,7 +171,7 @@
 			"English": "Easter is a holiday.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "عيد الفصح هو عطلة.",
 			"Egyptian Arabic Audio": "eca-0722-19.mp3",
 			"Standard Arabic Audio": "msa-0722-19.mp3"
 		},
@@ -180,7 +180,7 @@
 			"English": "Many people celebrate Easter.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كثير من الناس يحتفلون بعيد الفصح.",
 			"Egyptian Arabic Audio": "eca-0722-20.mp3",
 			"Standard Arabic Audio": "msa-0722-20.mp3"
 		},
@@ -189,7 +189,7 @@
 			"English": "It is a fun holiday.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "إنها عطلة ممتعة.",
 			"Egyptian Arabic Audio": "eca-0722-21.mp3",
 			"Standard Arabic Audio": "msa-0722-21.mp3"
 		}

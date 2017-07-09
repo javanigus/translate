@@ -11,7 +11,7 @@
 			"English": "Hey Dennis, this is Ron. How's it going?",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يا دينيس، هذا هو رون. كيف تجري الامور؟",
 			"Egyptian Arabic Audio": "eca-0740-1.mp3",
 			"Standard Arabic Audio": "msa-0740-1.mp3"
 		},
@@ -21,7 +21,7 @@
 			"English": "Hi, Ron. I'm looking for a summer job. I was hoping you could help me.",
 			"Word Count": 15,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "مرحبا، رون. أبحث عن وظيفة الصيف. كنت آمل أن تتمكن من مساعدتي.",
 			"Egyptian Arabic Audio": "eca-0740-2.mp3",
 			"Standard Arabic Audio": "msa-0740-2.mp3"
 		},
@@ -31,7 +31,7 @@
 			"English": "Okay, how can I help you?",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "حسنا، كيف يمكنني مساعدتك؟",
 			"Egyptian Arabic Audio": "eca-0740-3.mp3",
 			"Standard Arabic Audio": "msa-0740-3.mp3"
 		},
@@ -41,7 +41,7 @@
 			"English": "Well, I was wondering if you could hook me up at the place you work.",
 			"Word Count": 15,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "حسنا، كنت أتساءل عما إذا كان يمكنك ربط لي في المكان الذي تعمل.",
 			"Egyptian Arabic Audio": "eca-0740-4.mp3",
 			"Standard Arabic Audio": "msa-0740-4.mp3"
 		},
@@ -51,7 +51,7 @@
 			"English": "No problem. I don't know if they're hiring, but I'll find out.",
 			"Word Count": 12,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ليس هناك أى مشكلة. أنا لا أعرف إذا كانوا يعملون، ولكن سأعرف.",
 			"Egyptian Arabic Audio": "eca-0740-5.mp3",
 			"Standard Arabic Audio": "msa-0740-5.mp3"
 		},
@@ -61,7 +61,7 @@
 			"English": "Aw man, you're the bomb!",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يا رجل، أنت القنبلة!",
 			"Egyptian Arabic Audio": "eca-0740-6.mp3",
 			"Standard Arabic Audio": "msa-0740-6.mp3"
 		},
@@ -71,7 +71,7 @@
 			"English": "What kind of job you are interested in doing?",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أي نوع من العمل كنت ترغب في القيام به؟",
 			"Egyptian Arabic Audio": "eca-0740-7.mp3",
 			"Standard Arabic Audio": "msa-0740-7.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "Anything you think that I can do will be fine.",
 			"Word Count": 10,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أي شيء تعتقد أنه يمكنني القيام به سيكون على ما يرام.",
 			"Egyptian Arabic Audio": "eca-0740-8.mp3",
 			"Standard Arabic Audio": "msa-0740-8.mp3"
 		},
@@ -91,7 +91,7 @@
 			"English": "I'll talk to my boss in the morning and get back to you.",
 			"Word Count": 13,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "سأتحدث إلى رئيسه في الصباح وأعود إليكم.",
 			"Egyptian Arabic Audio": "eca-0740-9.mp3",
 			"Standard Arabic Audio": "msa-0740-9.mp3"
 		},
@@ -101,7 +101,7 @@
 			"English": "Thanks, man. A friend in need is a friend indeed.",
 			"Word Count": 10,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "شكرا يا رجل. الصديق وقت الضيق.",
 			"Egyptian Arabic Audio": "eca-0740-10.mp3",
 			"Standard Arabic Audio": "msa-0740-10.mp3"
 		},
@@ -111,7 +111,7 @@
 			"English": "Anything else you need me to do?",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أي شيء آخر تحتاج لي أن أفعل؟",
 			"Egyptian Arabic Audio": "eca-0740-11.mp3",
 			"Standard Arabic Audio": "msa-0740-11.mp3"
 		},
@@ -121,7 +121,7 @@
 			"English": "No. I'm waiting to hear from you.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لا، أنا في انتظار أن أسمع منك.",
 			"Egyptian Arabic Audio": "eca-0740-12.mp3",
 			"Standard Arabic Audio": "msa-0740-12.mp3"
 		}

@@ -9,7 +9,7 @@
 			"English": "Everyone knows that practice makes perfect.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "الجميع يعرف أن الممارسة تجعل من الكمال.",
 			"Egyptian Arabic Audio": "eca-0584-1.mp3",
 			"Standard Arabic Audio": "msa-0584-1.mp3"
 		},
@@ -18,7 +18,7 @@
 			"English": "Michelle practices swimming once every two weeks.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "تمارس ميشيل السباحة مرة كل أسبوعين.",
 			"Egyptian Arabic Audio": "eca-0584-2.mp3",
 			"Standard Arabic Audio": "msa-0584-2.mp3"
 		},
@@ -27,7 +27,7 @@
 			"English": "She is not that good.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انها ليست جيدة.",
 			"Egyptian Arabic Audio": "eca-0584-3.mp3",
 			"Standard Arabic Audio": "msa-0584-3.mp3"
 		},
@@ -36,7 +36,7 @@
 			"English": "She gets third place.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "تحصل على المركز الثالث.",
 			"Egyptian Arabic Audio": "eca-0584-4.mp3",
 			"Standard Arabic Audio": "msa-0584-4.mp3"
 		},
@@ -45,7 +45,7 @@
 			"English": "Sarah practices once a week.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ممارسات سارة مرة واحدة في الأسبوع.",
 			"Egyptian Arabic Audio": "eca-0584-5.mp3",
 			"Standard Arabic Audio": "msa-0584-5.mp3"
 		},
@@ -54,7 +54,7 @@
 			"English": "She is better than Michelle.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انها أفضل من ميشيل.",
 			"Egyptian Arabic Audio": "eca-0584-6.mp3",
 			"Standard Arabic Audio": "msa-0584-6.mp3"
 		},
@@ -63,7 +63,7 @@
 			"English": "She gets second place.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "تحصل على المركز الثاني.",
 			"Egyptian Arabic Audio": "eca-0584-7.mp3",
 			"Standard Arabic Audio": "msa-0584-7.mp3"
 		},
@@ -72,7 +72,7 @@
 			"English": "Sharon practices every day.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "شارون يمارس كل يوم.",
 			"Egyptian Arabic Audio": "eca-0584-8.mp3",
 			"Standard Arabic Audio": "msa-0584-8.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "She is very good.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هي جيدة جدا.",
 			"Egyptian Arabic Audio": "eca-0584-9.mp3",
 			"Standard Arabic Audio": "msa-0584-9.mp3"
 		},
@@ -90,7 +90,7 @@
 			"English": "She gets first place.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "تحصل على المركز الأول.",
 			"Egyptian Arabic Audio": "eca-0584-10.mp3",
 			"Standard Arabic Audio": "msa-0584-10.mp3"
 		}

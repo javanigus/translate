@@ -9,7 +9,7 @@
 			"English": "Carrie ignored them.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كاري تجاهلها.",
 			"Egyptian Arabic Audio": "eca-0869-1.mp3",
 			"Standard Arabic Audio": "msa-0869-1.mp3"
 		},
@@ -18,7 +18,7 @@
 			"English": "She took pictures of her clothes.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أخذت صورا لملابسها.",
 			"Egyptian Arabic Audio": "eca-0869-2.mp3",
 			"Standard Arabic Audio": "msa-0869-2.mp3"
 		},
@@ -27,7 +27,7 @@
 			"English": "She posted them on a website.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "نشرت لها على موقع على شبكة الانترنت.",
 			"Egyptian Arabic Audio": "eca-0869-3.mp3",
 			"Standard Arabic Audio": "msa-0869-3.mp3"
 		},
@@ -36,7 +36,7 @@
 			"English": "Two weeks passed by.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "مرت أسبوعين من قبل.",
 			"Egyptian Arabic Audio": "eca-0869-4.mp3",
 			"Standard Arabic Audio": "msa-0869-4.mp3"
 		},
@@ -45,7 +45,7 @@
 			"English": "Her friends were right.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كانت صديقاتها على حق.",
 			"Egyptian Arabic Audio": "eca-0869-5.mp3",
 			"Standard Arabic Audio": "msa-0869-5.mp3"
 		},
@@ -54,7 +54,7 @@
 			"English": "No one wanted to buy her clothes.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لم يرغب أحد في شراء ملابسها.",
 			"Egyptian Arabic Audio": "eca-0869-6.mp3",
 			"Standard Arabic Audio": "msa-0869-6.mp3"
 		},
@@ -63,7 +63,7 @@
 			"English": "Carrie decided to donate them.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "قررت كاري التبرع بها.",
 			"Egyptian Arabic Audio": "eca-0869-7.mp3",
 			"Standard Arabic Audio": "msa-0869-7.mp3"
 		}

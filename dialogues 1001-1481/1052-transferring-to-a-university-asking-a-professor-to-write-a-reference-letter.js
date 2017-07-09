@@ -11,7 +11,7 @@
 			"English": "Can you help me with something, sir?",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هل يمكنك مساعدتي بشيء يا سيدي؟",
 			"Egyptian Arabic Audio": "eca-1052-1.mp3",
 			"Standard Arabic Audio": "msa-1052-1.mp3"
 		},
@@ -21,7 +21,7 @@
 			"English": "What do you need?",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ماذا تحتاج؟",
 			"Egyptian Arabic Audio": "eca-1052-2.mp3",
 			"Standard Arabic Audio": "msa-1052-2.mp3"
 		},
@@ -31,7 +31,7 @@
 			"English": "Well, I was planning on transferring soon.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "حسنا، كنت تخطط لنقل قريبا.",
 			"Egyptian Arabic Audio": "eca-1052-3.mp3",
 			"Standard Arabic Audio": "msa-1052-3.mp3"
 		},
@@ -41,7 +41,7 @@
 			"English": "Where are you going to transfer?",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "إلى أين أنت ذاهب لنقل؟",
 			"Egyptian Arabic Audio": "eca-1052-4.mp3",
 			"Standard Arabic Audio": "msa-1052-4.mp3"
 		},
@@ -51,7 +51,7 @@
 			"English": "I want to transfer either to NYU or UCLA.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أريد نقل إما إلى جامعة نيويورك أو جامعة كاليفورنيا.",
 			"Egyptian Arabic Audio": "eca-1052-5.mp3",
 			"Standard Arabic Audio": "msa-1052-5.mp3"
 		},
@@ -61,7 +61,7 @@
 			"English": "I'm glad to hear that, but what can I do for you?",
 			"Word Count": 12,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنا سعيد أن أسمع ذلك، ولكن ماذا يمكنني أن أفعل لك؟",
 			"Egyptian Arabic Audio": "eca-1052-6.mp3",
 			"Standard Arabic Audio": "msa-1052-6.mp3"
 		},
@@ -71,7 +71,7 @@
 			"English": "I was wondering if you could write a couple of reference letters for me.",
 			"Word Count": 14,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كنت أتساءل عما إذا كان يمكن أن تكتب اثنين من رسائل مرجعية بالنسبة لي.",
 			"Egyptian Arabic Audio": "eca-1052-7.mp3",
 			"Standard Arabic Audio": "msa-1052-7.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "Is that all?",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هل هذا كل شيء؟",
 			"Egyptian Arabic Audio": "eca-1052-8.mp3",
 			"Standard Arabic Audio": "msa-1052-8.mp3"
 		},
@@ -91,7 +91,7 @@
 			"English": "That's all I need from you.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هذا كل ما أحتاجه منك.",
 			"Egyptian Arabic Audio": "eca-1052-9.mp3",
 			"Standard Arabic Audio": "msa-1052-9.mp3"
 		},
@@ -101,7 +101,7 @@
 			"English": "I can do that for you.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أستطيع أن أفعل ذلك من أجلك.",
 			"Egyptian Arabic Audio": "eca-1052-10.mp3",
 			"Standard Arabic Audio": "msa-1052-10.mp3"
 		},
@@ -111,7 +111,7 @@
 			"English": "You're a lifesaver.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنت المنقذ.",
 			"Egyptian Arabic Audio": "eca-1052-11.mp3",
 			"Standard Arabic Audio": "msa-1052-11.mp3"
 		},
@@ -121,7 +121,7 @@
 			"English": "They'll be ready tomorrow.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنها سوف تكون جاهزة غدا.",
 			"Egyptian Arabic Audio": "eca-1052-12.mp3",
 			"Standard Arabic Audio": "msa-1052-12.mp3"
 		},
@@ -131,7 +131,7 @@
 			"English": "I need your help.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انا بحاجة الى مساعدتكم.",
 			"Egyptian Arabic Audio": "eca-1052-14.mp3",
 			"Standard Arabic Audio": "msa-1052-14.mp3"
 		},
@@ -141,7 +141,7 @@
 			"English": "What do you need me to do for you?",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ماذا تحتاج لي أن أفعل لك؟",
 			"Egyptian Arabic Audio": "eca-1052-15.mp3",
 			"Standard Arabic Audio": "msa-1052-15.mp3"
 		},
@@ -151,7 +151,7 @@
 			"English": "I want to transfer pretty soon.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أريد أن نقل قريبا جدا.",
 			"Egyptian Arabic Audio": "eca-1052-16.mp3",
 			"Standard Arabic Audio": "msa-1052-16.mp3"
 		},
@@ -161,7 +161,7 @@
 			"English": "Where to?",
 			"Word Count": 2,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ألى أين؟",
 			"Egyptian Arabic Audio": "eca-1052-17.mp3",
 			"Standard Arabic Audio": "msa-1052-17.mp3"
 		},
@@ -171,7 +171,7 @@
 			"English": "I'm applying to both NYU and UCLA.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنا تطبيق على كل من جامعة نيويورك وجامعة كاليفورنيا.",
 			"Egyptian Arabic Audio": "eca-1052-18.mp3",
 			"Standard Arabic Audio": "msa-1052-18.mp3"
 		},
@@ -181,7 +181,7 @@
 			"English": "What do you need me to help you with?",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ماذا تحتاج مني لمساعدتك؟",
 			"Egyptian Arabic Audio": "eca-1052-19.mp3",
 			"Standard Arabic Audio": "msa-1052-19.mp3"
 		},
@@ -191,7 +191,7 @@
 			"English": "Could you write two letters of reference for me?",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هل يمكن أن تكتب رسالتين مرجعيتين بالنسبة لي؟",
 			"Egyptian Arabic Audio": "eca-1052-20.mp3",
 			"Standard Arabic Audio": "msa-1052-20.mp3"
 		},
@@ -201,7 +201,7 @@
 			"English": "Is that all that you need?",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هل هذا كل ما تحتاجه؟",
 			"Egyptian Arabic Audio": "eca-1052-21.mp3",
 			"Standard Arabic Audio": "msa-1052-21.mp3"
 		},
@@ -211,7 +211,7 @@
 			"English": "It would mean a lot to me.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "سيعني الكثير لي.",
 			"Egyptian Arabic Audio": "eca-1052-22.mp3",
 			"Standard Arabic Audio": "msa-1052-22.mp3"
 		},
@@ -221,7 +221,7 @@
 			"English": "I'll write a couple of letters for you.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "سأكتب بضع رسائل لك.",
 			"Egyptian Arabic Audio": "eca-1052-23.mp3",
 			"Standard Arabic Audio": "msa-1052-23.mp3"
 		},
@@ -231,7 +231,7 @@
 			"English": "I really appreciate your help.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انا فعلا اقدر مساعدتك.",
 			"Egyptian Arabic Audio": "eca-1052-24.mp3",
 			"Standard Arabic Audio": "msa-1052-24.mp3"
 		},
@@ -241,7 +241,7 @@
 			"English": "Pick them up from me tomorrow.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "التقطهم مني غدا.",
 			"Egyptian Arabic Audio": "eca-1052-25.mp3",
 			"Standard Arabic Audio": "msa-1052-25.mp3"
 		},
@@ -251,7 +251,7 @@
 			"English": "Do you think that you can help me?",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هل تعتقد أنه يمكنك مساعدتي؟",
 			"Egyptian Arabic Audio": "eca-1052-26.mp3",
 			"Standard Arabic Audio": "msa-1052-26.mp3"
 		},
@@ -261,7 +261,7 @@
 			"English": "What can I do for you?",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ما الذي يمكنني أن أفعله من أجلك؟",
 			"Egyptian Arabic Audio": "eca-1052-27.mp3",
 			"Standard Arabic Audio": "msa-1052-27.mp3"
 		},
@@ -271,7 +271,7 @@
 			"English": "I'm going to be transferring schools soon.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنا ذاهب إلى نقل المدارس قريبا.",
 			"Egyptian Arabic Audio": "eca-1052-28.mp3",
 			"Standard Arabic Audio": "msa-1052-28.mp3"
 		},
@@ -281,7 +281,7 @@
 			"English": "That's great! Where do you want to transfer to?",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ذلك رائع! أين تريد نقلها إلى؟",
 			"Egyptian Arabic Audio": "eca-1052-29.mp3",
 			"Standard Arabic Audio": "msa-1052-29.mp3"
 		},
@@ -291,7 +291,7 @@
 			"English": "I'm going to apply to NYU and UCLA.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنا ذاهب لتقديم طلب إلى جامعة نيويورك وجامعة كاليفورنيا.",
 			"Egyptian Arabic Audio": "eca-1052-30.mp3",
 			"Standard Arabic Audio": "msa-1052-30.mp3"
 		},
@@ -301,7 +301,7 @@
 			"English": "That's wonderful, but what do you need from me?",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هذا رائع، ولكن ماذا تحتاج مني؟",
 			"Egyptian Arabic Audio": "eca-1052-31.mp3",
 			"Standard Arabic Audio": "msa-1052-31.mp3"
 		},
@@ -311,7 +311,7 @@
 			"English": "I need you to write a couple of letters of reference for me.",
 			"Word Count": 13,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أحتاج منك أن تكتب بعض الحروف المرجعية بالنسبة لي.",
 			"Egyptian Arabic Audio": "eca-1052-32.mp3",
 			"Standard Arabic Audio": "msa-1052-32.mp3"
 		},
@@ -321,7 +321,7 @@
 			"English": "That's it?",
 			"Word Count": 2,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هذا هو؟",
 			"Egyptian Arabic Audio": "eca-1052-33.mp3",
 			"Standard Arabic Audio": "msa-1052-33.mp3"
 		},
@@ -331,7 +331,7 @@
 			"English": "Yes, that's it.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "نعم هذا كل شيء.",
 			"Egyptian Arabic Audio": "eca-1052-34.mp3",
 			"Standard Arabic Audio": "msa-1052-34.mp3"
 		},
@@ -341,7 +341,7 @@
 			"English": "That shouldn't be a problem.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وينبغي ألا يكون ذلك مشكلة.",
 			"Egyptian Arabic Audio": "eca-1052-35.mp3",
 			"Standard Arabic Audio": "msa-1052-35.mp3"
 		},
@@ -351,7 +351,7 @@
 			"English": "Thank you so much.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "شكرا جزيلا.",
 			"Egyptian Arabic Audio": "eca-1052-36.mp3",
 			"Standard Arabic Audio": "msa-1052-36.mp3"
 		},
@@ -361,7 +361,7 @@
 			"English": "I'll have them ready for you tomorrow.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "سوف يكون لهم استعداد لك غدا.",
 			"Egyptian Arabic Audio": "eca-1052-37.mp3",
 			"Standard Arabic Audio": "msa-1052-37.mp3"
 		}

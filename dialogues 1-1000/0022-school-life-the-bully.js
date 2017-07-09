@@ -11,7 +11,7 @@
 			"English": "Give me your lunch money.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أعطني المال الغداء الخاص بك.",
 			"Egyptian Arabic Audio": "eca-0022-1.mp3",
 			"Standard Arabic Audio": "msa-0022-1.mp3"
 		},
@@ -21,7 +21,7 @@
 			"English": "Stop it or you will be sorry.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وقفه أو سوف تكون آسف.",
 			"Egyptian Arabic Audio": "eca-0022-2.mp3",
 			"Standard Arabic Audio": "msa-0022-2.mp3"
 		},
@@ -31,7 +31,7 @@
 			"English": "Are you arguing with me?",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هل تجادل معي؟",
 			"Egyptian Arabic Audio": "eca-0022-3.mp3",
 			"Standard Arabic Audio": "msa-0022-3.mp3"
 		},
@@ -41,7 +41,7 @@
 			"English": "I'm tired of you taking my money.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنا تعبت من أنت أخذ أموالي.",
 			"Egyptian Arabic Audio": "eca-0022-4.mp3",
 			"Standard Arabic Audio": "msa-0022-4.mp3"
 		},
@@ -51,7 +51,7 @@
 			"English": "I'm going to give you one last chance.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "سأقدم لك فرصة أخيرة.",
 			"Egyptian Arabic Audio": "eca-0022-5.mp3",
 			"Standard Arabic Audio": "msa-0022-5.mp3"
 		},
@@ -61,7 +61,7 @@
 			"English": "Are you going to hit me?",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنت ذاهب لضربني؟",
 			"Egyptian Arabic Audio": "eca-0022-6.mp3",
 			"Standard Arabic Audio": "msa-0022-6.mp3"
 		},
@@ -71,7 +71,7 @@
 			"English": "I'm going to hit you hard.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنا ذاهب لضرب لك بجد.",
 			"Egyptian Arabic Audio": "eca-0022-7.mp3",
 			"Standard Arabic Audio": "msa-0022-7.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "I'll just tell the principal.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "سأقول فقط مدير المدرسة.",
 			"Egyptian Arabic Audio": "eca-0022-8.mp3",
 			"Standard Arabic Audio": "msa-0022-8.mp3"
 		},
@@ -91,7 +91,7 @@
 			"English": "You are lying.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انت تكذب.",
 			"Egyptian Arabic Audio": "eca-0022-9.mp3",
 			"Standard Arabic Audio": "msa-0022-9.mp3"
 		},
@@ -101,7 +101,7 @@
 			"English": "Just hit me now, and you'll see I'm not lying.",
 			"Word Count": 10,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "مجرد ضرب لي الآن، وسترى أنا لست الكذب.",
 			"Egyptian Arabic Audio": "eca-0022-10.mp3",
 			"Standard Arabic Audio": "msa-0022-10.mp3"
 		},
@@ -111,7 +111,7 @@
 			"English": "Okay, okay, I'll leave you alone!",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "حسنا، حسنا، سأتركك وحيدا!",
 			"Egyptian Arabic Audio": "eca-0022-11.mp3",
 			"Standard Arabic Audio": "msa-0022-11.mp3"
 		}

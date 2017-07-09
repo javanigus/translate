@@ -11,7 +11,7 @@
 			"English": "We need to save money.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "نحن بحاجة إلى توفير المال.",
 			"Egyptian Arabic Audio": "eca-0245-1.mp3",
 			"Standard Arabic Audio": "msa-0245-1.mp3"
 		},
@@ -21,7 +21,7 @@
 			"English": "Why do we need to save money?",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لماذا نحن بحاجة إلى توفير المال؟",
 			"Egyptian Arabic Audio": "eca-0245-2.mp3",
 			"Standard Arabic Audio": "msa-0245-2.mp3"
 		},
@@ -31,7 +31,7 @@
 			"English": "Because we need to buy a house.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لأننا بحاجة لشراء منزل.",
 			"Egyptian Arabic Audio": "eca-0245-3.mp3",
 			"Standard Arabic Audio": "msa-0245-3.mp3"
 		},
@@ -41,7 +41,7 @@
 			"English": "But a house is so expensive.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ولكن منزل مكلفة جدا.",
 			"Egyptian Arabic Audio": "eca-0245-4.mp3",
 			"Standard Arabic Audio": "msa-0245-4.mp3"
 		},
@@ -51,7 +51,7 @@
 			"English": "That's why we need to save money.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هذا هو السبب في أننا بحاجة إلى توفير المال.",
 			"Egyptian Arabic Audio": "eca-0245-5.mp3",
 			"Standard Arabic Audio": "msa-0245-5.mp3"
 		},
@@ -61,7 +61,7 @@
 			"English": "How much do we need to save?",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كم نحن بحاجة إلى حفظ؟",
 			"Egyptian Arabic Audio": "eca-0245-6.mp3",
 			"Standard Arabic Audio": "msa-0245-6.mp3"
 		},
@@ -71,7 +71,7 @@
 			"English": "We need to save enough for a down payment.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "نحن بحاجة إلى توفير ما يكفي لدفع دفعة واحدة.",
 			"Egyptian Arabic Audio": "eca-0245-7.mp3",
 			"Standard Arabic Audio": "msa-0245-7.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "How much is that?",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كم ثمن ذلك؟",
 			"Egyptian Arabic Audio": "eca-0245-8.mp3",
 			"Standard Arabic Audio": "msa-0245-8.mp3"
 		},
@@ -91,7 +91,7 @@
 			"English": "That's about $30,000.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هذا حوالي 30،000 $.",
 			"Egyptian Arabic Audio": "eca-0245-9.mp3",
 			"Standard Arabic Audio": "msa-0245-9.mp3"
 		},
@@ -101,7 +101,7 @@
 			"English": "Thirty thousand dollars! That will take forever.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ثلاثون ألف دولار! وهذا سوف يستغرق إلى الأبد.",
 			"Egyptian Arabic Audio": "eca-0245-10.mp3",
 			"Standard Arabic Audio": "msa-0245-10.mp3"
 		},
@@ -111,7 +111,7 @@
 			"English": "Not if we save every penny.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لا إذا كنا حفظ كل قرش.",
 			"Egyptian Arabic Audio": "eca-0245-11.mp3",
 			"Standard Arabic Audio": "msa-0245-11.mp3"
 		},
@@ -121,7 +121,7 @@
 			"English": "Okay. Here's seven pennies.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "حسنا. وهنا سبع بنسات.",
 			"Egyptian Arabic Audio": "eca-0245-12.mp3",
 			"Standard Arabic Audio": "msa-0245-12.mp3"
 		}

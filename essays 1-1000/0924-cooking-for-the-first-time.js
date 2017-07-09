@@ -9,7 +9,7 @@
 			"English": "The first thing she did was to boil hot water to cook the pasta.",
 			"Word Count": 14,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كان أول شيء فعلته هو غلي الماء الساخن لطهي المعكرونة.",
 			"Egyptian Arabic Audio": "eca-0924-1.mp3",
 			"Standard Arabic Audio": "msa-0924-1.mp3"
 		},
@@ -18,7 +18,7 @@
 			"English": "She then made the sauce for fresh tomatoes.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ثم قدمت صلصة الطماطم الطازجة.",
 			"Egyptian Arabic Audio": "eca-0924-2.mp3",
 			"Standard Arabic Audio": "msa-0924-2.mp3"
 		},
@@ -27,7 +27,7 @@
 			"English": "She added pepper and chillies to add more flavor.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وأضافت الفلفل والفلفل الحار لإضافة المزيد من النكهة.",
 			"Egyptian Arabic Audio": "eca-0924-3.mp3",
 			"Standard Arabic Audio": "msa-0924-3.mp3"
 		},
@@ -36,7 +36,7 @@
 			"English": "She also added cheese.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وأضافت أيضا الجبن.",
 			"Egyptian Arabic Audio": "eca-0924-4.mp3",
 			"Standard Arabic Audio": "msa-0924-4.mp3"
 		},
@@ -45,7 +45,7 @@
 			"English": "After it was done, she ate it.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "بعد أن تم ذلك، أكلت ذلك.",
 			"Egyptian Arabic Audio": "eca-0924-5.mp3",
 			"Standard Arabic Audio": "msa-0924-5.mp3"
 		},
@@ -54,7 +54,7 @@
 			"English": "She was excited to eat what she made.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كانت متحمسة لتناول ما فعلته.",
 			"Egyptian Arabic Audio": "eca-0924-6.mp3",
 			"Standard Arabic Audio": "msa-0924-6.mp3"
 		},
@@ -63,7 +63,7 @@
 			"English": "It did not taste that good.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لم يكن طعم ذلك جيد.",
 			"Egyptian Arabic Audio": "eca-0924-7.mp3",
 			"Standard Arabic Audio": "msa-0924-7.mp3"
 		},
@@ -72,7 +72,7 @@
 			"English": "It was not horrible though.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لم يكن ذلك رهيبا على الرغم من.",
 			"Egyptian Arabic Audio": "eca-0924-8.mp3",
 			"Standard Arabic Audio": "msa-0924-8.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "She decided that she needed more practice.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وقررت أنها تحتاج إلى مزيد من الممارسة.",
 			"Egyptian Arabic Audio": "eca-0924-9.mp3",
 			"Standard Arabic Audio": "msa-0924-9.mp3"
 		}

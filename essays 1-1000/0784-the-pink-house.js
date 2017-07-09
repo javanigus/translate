@@ -9,7 +9,7 @@
 			"English": "\"It's interesting,\" said Betty.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وقال بيتي &quot;من المثير للاهتمام&quot;.",
 			"Egyptian Arabic Audio": "eca-0784-1.mp3",
 			"Standard Arabic Audio": "msa-0784-1.mp3"
 		},
@@ -18,7 +18,7 @@
 			"English": "Barbara had a strange taste.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كان باربرا طعم غريب.",
 			"Egyptian Arabic Audio": "eca-0784-2.mp3",
 			"Standard Arabic Audio": "msa-0784-2.mp3"
 		},
@@ -27,7 +27,7 @@
 			"English": "Everything in her house was pink.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كان كل شيء في منزلها الوردي.",
 			"Egyptian Arabic Audio": "eca-0784-3.mp3",
 			"Standard Arabic Audio": "msa-0784-3.mp3"
 		},
@@ -36,7 +36,7 @@
 			"English": "This included the curtains, the sofas, and even the carpet.",
 			"Word Count": 10,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وشملت هذه الستائر، والأرائك، وحتى السجاد.",
 			"Egyptian Arabic Audio": "eca-0784-4.mp3",
 			"Standard Arabic Audio": "msa-0784-4.mp3"
 		},
@@ -45,7 +45,7 @@
 			"English": "\"What does your husband think about it?\" asked Betty.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "&quot;ماذا يفكر زوجك في ذلك؟&quot; سأل بيتي.",
 			"Egyptian Arabic Audio": "eca-0784-5.mp3",
 			"Standard Arabic Audio": "msa-0784-5.mp3"
 		},
@@ -54,7 +54,7 @@
 			"English": "\"He loves it!\" said Barbara.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "&quot;يحبها!&quot; وفقا لما ذكره باربرا.",
 			"Egyptian Arabic Audio": "eca-0784-6.mp3",
 			"Standard Arabic Audio": "msa-0784-6.mp3"
 		},
@@ -63,7 +63,7 @@
 			"English": "Betty and the other women didn't believe her.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "بيتي و النساء الأخريات لم يصدقنها.",
 			"Egyptian Arabic Audio": "eca-0784-7.mp3",
 			"Standard Arabic Audio": "msa-0784-7.mp3"
 		},
@@ -72,7 +72,7 @@
 			"English": "\"I swear he does,\" said Barbara.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وقال باربرا: &quot;أقسم أن يفعل&quot;.",
 			"Egyptian Arabic Audio": "eca-0784-8.mp3",
 			"Standard Arabic Audio": "msa-0784-8.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "\"He picked the color himself!\".",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "&quot;اختار اللون نفسه!&quot;.",
 			"Egyptian Arabic Audio": "eca-0784-9.mp3",
 			"Standard Arabic Audio": "msa-0784-9.mp3"
 		}

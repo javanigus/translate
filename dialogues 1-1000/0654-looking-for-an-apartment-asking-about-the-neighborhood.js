@@ -11,7 +11,7 @@
 			"English": "What can you tell me about the neighborhood?",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ماذا يمكنك أن تخبرني عن الحي؟",
 			"Egyptian Arabic Audio": "eca-0654-1.mp3",
 			"Standard Arabic Audio": "msa-0654-1.mp3"
 		},
@@ -21,7 +21,7 @@
 			"English": "Only good things.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أشياء جيدة فقط.",
 			"Egyptian Arabic Audio": "eca-0654-2.mp3",
 			"Standard Arabic Audio": "msa-0654-2.mp3"
 		},
@@ -31,7 +31,7 @@
 			"English": "Like what, for example?",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "مثل ما، على سبيل المثال؟",
 			"Egyptian Arabic Audio": "eca-0654-3.mp3",
 			"Standard Arabic Audio": "msa-0654-3.mp3"
 		},
@@ -41,7 +41,7 @@
 			"English": "The neighborhood is a safe and clean place.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "الحي هو مكان آمن ونظيف.",
 			"Egyptian Arabic Audio": "eca-0654-4.mp3",
 			"Standard Arabic Audio": "msa-0654-4.mp3"
 		},
@@ -51,7 +51,7 @@
 			"English": "Is there any crime?",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هل هناك أي جريمة؟",
 			"Egyptian Arabic Audio": "eca-0654-5.mp3",
 			"Standard Arabic Audio": "msa-0654-5.mp3"
 		},
@@ -61,7 +61,7 @@
 			"English": "There is hardly any crime that is reported.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لا يكاد يوجد أي جريمة يتم الإبلاغ عنها.",
 			"Egyptian Arabic Audio": "eca-0654-6.mp3",
 			"Standard Arabic Audio": "msa-0654-6.mp3"
 		},
@@ -71,7 +71,7 @@
 			"English": "I wonder why that is.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وأتساءل لماذا هذا.",
 			"Egyptian Arabic Audio": "eca-0654-7.mp3",
 			"Standard Arabic Audio": "msa-0654-7.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "There is a neighborhood watch that patrols daily.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هناك ساعة الحي التي تقوم بدوريات يوميا.",
 			"Egyptian Arabic Audio": "eca-0654-8.mp3",
 			"Standard Arabic Audio": "msa-0654-8.mp3"
 		},
@@ -91,7 +91,7 @@
 			"English": "That explains crime disparity.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وهذا يفسر التفاوت بين الجنسين.",
 			"Egyptian Arabic Audio": "eca-0654-9.mp3",
 			"Standard Arabic Audio": "msa-0654-9.mp3"
 		},
@@ -101,7 +101,7 @@
 			"English": "Any other questions?",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أي أسئلة أخرى؟",
 			"Egyptian Arabic Audio": "eca-0654-10.mp3",
 			"Standard Arabic Audio": "msa-0654-10.mp3"
 		},
@@ -111,7 +111,7 @@
 			"English": "Who are the residents living in the neighborhood?",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "من هم السكان الذين يعيشون في الحي؟",
 			"Egyptian Arabic Audio": "eca-0654-11.mp3",
 			"Standard Arabic Audio": "msa-0654-11.mp3"
 		},
@@ -121,7 +121,7 @@
 			"English": "Mostly families and some retired folks.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "معظمهم من العائلات وبعض الناس المتقاعدين.",
 			"Egyptian Arabic Audio": "eca-0654-12.mp3",
 			"Standard Arabic Audio": "msa-0654-12.mp3"
 		},
@@ -131,7 +131,7 @@
 			"English": "Sounds like a pleasant neighborhood.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يبدو وكأنه حي لطيف.",
 			"Egyptian Arabic Audio": "eca-0654-13.mp3",
 			"Standard Arabic Audio": "msa-0654-13.mp3"
 		},
@@ -141,7 +141,7 @@
 			"English": "It really is. I hope you enjoy living there.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هو حقا. آمل أن تستمتع يعيشون هناك.",
 			"Egyptian Arabic Audio": "eca-0654-14.mp3",
 			"Standard Arabic Audio": "msa-0654-14.mp3"
 		}

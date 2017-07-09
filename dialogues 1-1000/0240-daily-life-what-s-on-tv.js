@@ -11,7 +11,7 @@
 			"English": "I'm bored.",
 			"Word Count": 2,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "اشعر باللملل.",
 			"Egyptian Arabic Audio": "eca-0240-1.mp3",
 			"Standard Arabic Audio": "msa-0240-1.mp3"
 		},
@@ -21,7 +21,7 @@
 			"English": "What's on TV?",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ما الذي على التلفاز؟",
 			"Egyptian Arabic Audio": "eca-0240-2.mp3",
 			"Standard Arabic Audio": "msa-0240-2.mp3"
 		},
@@ -31,7 +31,7 @@
 			"English": "Nothing.",
 			"Word Count": 1,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لا شيئ.",
 			"Egyptian Arabic Audio": "eca-0240-3.mp3",
 			"Standard Arabic Audio": "msa-0240-3.mp3"
 		},
@@ -41,7 +41,7 @@
 			"English": "There must be something on TV!",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يجب أن يكون هناك شيء على شاشة التلفزيون!",
 			"Egyptian Arabic Audio": "eca-0240-4.mp3",
 			"Standard Arabic Audio": "msa-0240-4.mp3"
 		},
@@ -51,7 +51,7 @@
 			"English": "Nothing that's interesting.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لا شيء مثير للاهتمام.",
 			"Egyptian Arabic Audio": "eca-0240-5.mp3",
 			"Standard Arabic Audio": "msa-0240-5.mp3"
 		},
@@ -61,7 +61,7 @@
 			"English": "What about that new game show?",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ماذا عن هذا المعرض لعبة جديدة؟",
 			"Egyptian Arabic Audio": "eca-0240-6.mp3",
 			"Standard Arabic Audio": "msa-0240-6.mp3"
 		},
@@ -71,7 +71,7 @@
 			"English": "Which one?",
 			"Word Count": 2,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أي واحد؟",
 			"Egyptian Arabic Audio": "eca-0240-7.mp3",
 			"Standard Arabic Audio": "msa-0240-7.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "\"Deal or No Deal\"",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "&quot;إتفقنا أم لا&quot;",
 			"Egyptian Arabic Audio": "eca-0240-8.mp3",
 			"Standard Arabic Audio": "msa-0240-8.mp3"
 		},
@@ -91,7 +91,7 @@
 			"English": "Tell me you're joking.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "قل لي أنك تمزح.",
 			"Egyptian Arabic Audio": "eca-0240-9.mp3",
 			"Standard Arabic Audio": "msa-0240-9.mp3"
 		},
@@ -101,7 +101,7 @@
 			"English": "I love that show.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أحب هذا المعرض.",
 			"Egyptian Arabic Audio": "eca-0240-10.mp3",
 			"Standard Arabic Audio": "msa-0240-10.mp3"
 		},
@@ -111,7 +111,7 @@
 			"English": "I watched it once. That was enough.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "شاهدته مرة واحدة. كان ذلك كافيا.",
 			"Egyptian Arabic Audio": "eca-0240-11.mp3",
 			"Standard Arabic Audio": "msa-0240-11.mp3"
 		},
@@ -121,7 +121,7 @@
 			"English": "It's on right now. Let's watch it together.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انها على الحق الآن. دعونا مشاهدته معا.",
 			"Egyptian Arabic Audio": "eca-0240-12.mp3",
 			"Standard Arabic Audio": "msa-0240-12.mp3"
 		}

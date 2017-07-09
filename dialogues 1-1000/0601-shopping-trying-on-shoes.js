@@ -11,7 +11,7 @@
 			"English": "I don't know which size to get.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنا لا أعرف أي حجم للحصول على.",
 			"Egyptian Arabic Audio": "eca-0601-1.mp3",
 			"Standard Arabic Audio": "msa-0601-1.mp3"
 		},
@@ -21,7 +21,7 @@
 			"English": "Why don't you check your shoes?",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لماذا لا تحقق حذائك؟",
 			"Egyptian Arabic Audio": "eca-0601-2.mp3",
 			"Standard Arabic Audio": "msa-0601-2.mp3"
 		},
@@ -31,7 +31,7 @@
 			"English": "Sizes are different with each shoe style.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "الأحجام مختلفة مع كل نمط الأحذية.",
 			"Egyptian Arabic Audio": "eca-0601-3.mp3",
 			"Standard Arabic Audio": "msa-0601-3.mp3"
 		},
@@ -41,7 +41,7 @@
 			"English": "I guess you'll have to measure your foot.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أعتقد أنه سيكون لديك لقياس قدمك.",
 			"Egyptian Arabic Audio": "eca-0601-4.mp3",
 			"Standard Arabic Audio": "msa-0601-4.mp3"
 		},
@@ -51,7 +51,7 @@
 			"English": "how do I do that?",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كيف يمكنني فعل ذلك؟",
 			"Egyptian Arabic Audio": "eca-0601-5.mp3",
 			"Standard Arabic Audio": "msa-0601-5.mp3"
 		},
@@ -61,7 +61,7 @@
 			"English": "There's a chart by your chair you put your foot on.",
 			"Word Count": 11,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هناك مخطط من قبل الكرسي الذي وضع قدمك عليه.",
 			"Egyptian Arabic Audio": "eca-0601-6.mp3",
 			"Standard Arabic Audio": "msa-0601-6.mp3"
 		},
@@ -71,7 +71,7 @@
 			"English": "Oh, I found it, thanks.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أوه، لقد وجدت ذلك، وذلك بفضل.",
 			"Egyptian Arabic Audio": "eca-0601-7.mp3",
 			"Standard Arabic Audio": "msa-0601-7.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "What size are you?",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ما حجم أنت؟",
 			"Egyptian Arabic Audio": "eca-0601-8.mp3",
 			"Standard Arabic Audio": "msa-0601-8.mp3"
 		},
@@ -91,7 +91,7 @@
 			"English": "I'm a size eight.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنا حجم ثمانية.",
 			"Egyptian Arabic Audio": "eca-0601-9.mp3",
 			"Standard Arabic Audio": "msa-0601-9.mp3"
 		},
@@ -101,7 +101,7 @@
 			"English": "You have a small shoe size for a man.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لديك حجم حذاء صغير لرجل.",
 			"Egyptian Arabic Audio": "eca-0601-10.mp3",
 			"Standard Arabic Audio": "msa-0601-10.mp3"
 		},
@@ -111,7 +111,7 @@
 			"English": "It's alright, shoe size doesn't matter.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انها على ما يرام، وحجم الأحذية لا يهم.",
 			"Egyptian Arabic Audio": "eca-0601-11.mp3",
 			"Standard Arabic Audio": "msa-0601-11.mp3"
 		},
@@ -121,7 +121,7 @@
 			"English": "No. Shoe size does matter.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لا. حجم الأحذية لا يهم.",
 			"Egyptian Arabic Audio": "eca-0601-12.mp3",
 			"Standard Arabic Audio": "msa-0601-12.mp3"
 		}

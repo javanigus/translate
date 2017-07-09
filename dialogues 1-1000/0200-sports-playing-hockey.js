@@ -11,7 +11,7 @@
 			"English": "Do you like sports?",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هل تحب الرياضة؟",
 			"Egyptian Arabic Audio": "eca-0200-1.mp3",
 			"Standard Arabic Audio": "msa-0200-1.mp3"
 		},
@@ -21,7 +21,7 @@
 			"English": "Of course I do!",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "بالطبع افعل!",
 			"Egyptian Arabic Audio": "eca-0200-2.mp3",
 			"Standard Arabic Audio": "msa-0200-2.mp3"
 		},
@@ -31,7 +31,7 @@
 			"English": "Awesome! What's your favorite one?",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "رائع! ما هو المفضل لديك؟",
 			"Egyptian Arabic Audio": "eca-0200-3.mp3",
 			"Standard Arabic Audio": "msa-0200-3.mp3"
 		},
@@ -41,7 +41,7 @@
 			"English": "Hockey. It's the best sport there is.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "الهوكي. انها أفضل رياضة هناك.",
 			"Egyptian Arabic Audio": "eca-0200-4.mp3",
 			"Standard Arabic Audio": "msa-0200-4.mp3"
 		},
@@ -51,7 +51,7 @@
 			"English": "It's too violent for me.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انها عنيفة جدا بالنسبة لي.",
 			"Egyptian Arabic Audio": "eca-0200-5.mp3",
 			"Standard Arabic Audio": "msa-0200-5.mp3"
 		},
@@ -61,7 +61,7 @@
 			"English": "I've heard a lot of people say that.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لقد سمعت الكثير من الناس يقولون ذلك.",
 			"Egyptian Arabic Audio": "eca-0200-6.mp3",
 			"Standard Arabic Audio": "msa-0200-6.mp3"
 		},
@@ -71,7 +71,7 @@
 			"English": "Yes, it looks dangerous.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "نعم، يبدو خطيرا.",
 			"Egyptian Arabic Audio": "eca-0200-7.mp3",
 			"Standard Arabic Audio": "msa-0200-7.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "Not really. I've been playing for five years and I'm okay.",
 			"Word Count": 11,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ليس صحيحا. لقد لعبت لمدة خمس سنوات وأنا بخير.",
 			"Egyptian Arabic Audio": "eca-0200-8.mp3",
 			"Standard Arabic Audio": "msa-0200-8.mp3"
 		},
@@ -91,7 +91,7 @@
 			"English": "Is that why you are missing your front teeth?",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هذا هو السبب في أنك في عداد المفقودين أسنانك الأمامية؟",
 			"Egyptian Arabic Audio": "eca-0200-9.mp3",
 			"Standard Arabic Audio": "msa-0200-9.mp3"
 		},
@@ -101,7 +101,7 @@
 			"English": "Yes. But it's not that bad.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "نعم فعلا. ولكن هذا ليس سيئا.",
 			"Egyptian Arabic Audio": "eca-0200-10.mp3",
 			"Standard Arabic Audio": "msa-0200-10.mp3"
 		},
@@ -111,7 +111,7 @@
 			"English": "It looks painful.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يبدو مؤلما.",
 			"Egyptian Arabic Audio": "eca-0200-11.mp3",
 			"Standard Arabic Audio": "msa-0200-11.mp3"
 		},
@@ -121,7 +121,7 @@
 			"English": "A little. Everything else about Hockey is fun.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "القليل. كل شيء آخر عن الهوكي هو متعة.",
 			"Egyptian Arabic Audio": "eca-0200-12.mp3",
 			"Standard Arabic Audio": "msa-0200-12.mp3"
 		},
@@ -131,7 +131,7 @@
 			"English": "Cool, but I'll stick to golf.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "بارد، ولكن أنا التمسك الغولف.",
 			"Egyptian Arabic Audio": "eca-0200-13.mp3",
 			"Standard Arabic Audio": "msa-0200-13.mp3"
 		}

@@ -9,7 +9,7 @@
 			"English": "Now her hair was all covered.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "الآن تم تغطية شعرها كله.",
 			"Egyptian Arabic Audio": "eca-0853-1.mp3",
 			"Standard Arabic Audio": "msa-0853-1.mp3"
 		},
@@ -18,7 +18,7 @@
 			"English": "She went downstairs.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ذهبت في الطابق السفلي.",
 			"Egyptian Arabic Audio": "eca-0853-2.mp3",
 			"Standard Arabic Audio": "msa-0853-2.mp3"
 		},
@@ -27,7 +27,7 @@
 			"English": "Her brother started laughing at her.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "بدأ شقيقها يضحك عليها.",
 			"Egyptian Arabic Audio": "eca-0853-3.mp3",
 			"Standard Arabic Audio": "msa-0853-3.mp3"
 		},
@@ -36,7 +36,7 @@
 			"English": "He told her to look in the mirror.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وقال لها أن ننظر في المرآة.",
 			"Egyptian Arabic Audio": "eca-0853-4.mp3",
 			"Standard Arabic Audio": "msa-0853-4.mp3"
 		},
@@ -45,7 +45,7 @@
 			"English": "She looked into a mirror.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "نظرت إلى مرآة.",
 			"Egyptian Arabic Audio": "eca-0853-5.mp3",
 			"Standard Arabic Audio": "msa-0853-5.mp3"
 		},
@@ -54,7 +54,7 @@
 			"English": "She looked ridiculous.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وقالت انها تبدو سخيفة.",
 			"Egyptian Arabic Audio": "eca-0853-6.mp3",
 			"Standard Arabic Audio": "msa-0853-6.mp3"
 		},
@@ -63,7 +63,7 @@
 			"English": "She was jealous of her brother.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كانت غيور من شقيقها.",
 			"Egyptian Arabic Audio": "eca-0853-7.mp3",
 			"Standard Arabic Audio": "msa-0853-7.mp3"
 		},
@@ -72,7 +72,7 @@
 			"English": "Her brother had short hair.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وكان شقيقها شعر قصير.",
 			"Egyptian Arabic Audio": "eca-0853-8.mp3",
 			"Standard Arabic Audio": "msa-0853-8.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "It only took him 5 minutes to wash his hair.",
 			"Word Count": 10,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "استغرق 5 دقائق فقط لغسل شعره.",
 			"Egyptian Arabic Audio": "eca-0853-9.mp3",
 			"Standard Arabic Audio": "msa-0853-9.mp3"
 		}

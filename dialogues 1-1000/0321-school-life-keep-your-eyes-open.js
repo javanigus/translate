@@ -11,7 +11,7 @@
 			"English": "This is a huge library.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هذه مكتبة ضخمة.",
 			"Egyptian Arabic Audio": "eca-0321-1.mp3",
 			"Standard Arabic Audio": "msa-0321-1.mp3"
 		},
@@ -21,7 +21,7 @@
 			"English": "Yes, it has lots of rooms and lots of space.",
 			"Word Count": 10,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "نعم، لديها الكثير من الغرف والكثير من الفضاء.",
 			"Egyptian Arabic Audio": "eca-0321-2.mp3",
 			"Standard Arabic Audio": "msa-0321-2.mp3"
 		},
@@ -31,7 +31,7 @@
 			"English": "And lots of books.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "والكثير من الكتب.",
 			"Egyptian Arabic Audio": "eca-0321-3.mp3",
 			"Standard Arabic Audio": "msa-0321-3.mp3"
 		},
@@ -41,7 +41,7 @@
 			"English": "And lots of thieves.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "والكثير من اللصوص.",
 			"Egyptian Arabic Audio": "eca-0321-4.mp3",
 			"Standard Arabic Audio": "msa-0321-4.mp3"
 		},
@@ -51,7 +51,7 @@
 			"English": "What do you mean?",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ماذا تعني؟",
 			"Egyptian Arabic Audio": "eca-0321-5.mp3",
 			"Standard Arabic Audio": "msa-0321-5.mp3"
 		},
@@ -61,7 +61,7 @@
 			"English": "I mean, keep your belongings close to you.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أعني، وأبقى أمتعتهم بالقرب منك.",
 			"Egyptian Arabic Audio": "eca-0321-6.mp3",
 			"Standard Arabic Audio": "msa-0321-6.mp3"
 		},
@@ -71,7 +71,7 @@
 			"English": "The only thing in my backpack is used books.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "الشيء الوحيد في حقيبتي يستخدم الكتب.",
 			"Egyptian Arabic Audio": "eca-0321-7.mp3",
 			"Standard Arabic Audio": "msa-0321-7.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "But thieves don't know that.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ولكن اللصوص لا يعرفون ذلك.",
 			"Egyptian Arabic Audio": "eca-0321-8.mp3",
 			"Standard Arabic Audio": "msa-0321-8.mp3"
 		},
@@ -91,7 +91,7 @@
 			"English": "They might think that I've got an iPod or laptop in there.",
 			"Word Count": 12,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "قد يعتقدون أن لدي جهاز إيبود أو كمبيوتر محمول هناك.",
 			"Egyptian Arabic Audio": "eca-0321-9.mp3",
 			"Standard Arabic Audio": "msa-0321-9.mp3"
 		},
@@ -101,7 +101,7 @@
 			"English": "Now you're thinking.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "الآن أنت تفكر.",
 			"Egyptian Arabic Audio": "eca-0321-10.mp3",
 			"Standard Arabic Audio": "msa-0321-10.mp3"
 		},
@@ -111,7 +111,7 @@
 			"English": "You'd think a library would be safe from thieves.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كنت تعتقد أن المكتبة ستكون آمنة من اللصوص.",
 			"Egyptian Arabic Audio": "eca-0321-11.mp3",
 			"Standard Arabic Audio": "msa-0321-11.mp3"
 		},
@@ -121,7 +121,7 @@
 			"English": "Not even a church is safe from thieves.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ولا حتى الكنيسة آمنة من اللصوص.",
 			"Egyptian Arabic Audio": "eca-0321-12.mp3",
 			"Standard Arabic Audio": "msa-0321-12.mp3"
 		}

@@ -9,7 +9,7 @@
 			"English": "John wants to go to his school field trip.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يريد جون الذهاب إلى رحلته المدرسية المدرسية.",
 			"Egyptian Arabic Audio": "eca-0014-1.mp3",
 			"Standard Arabic Audio": "msa-0014-1.mp3"
 		},
@@ -18,7 +18,7 @@
 			"English": "He needs fifty dollars.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انه يحتاج خمسين دولار.",
 			"Egyptian Arabic Audio": "eca-0014-2.mp3",
 			"Standard Arabic Audio": "msa-0014-2.mp3"
 		},
@@ -27,7 +27,7 @@
 			"English": "He wants to earn it himself.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يريد أن يكسب نفسه.",
 			"Egyptian Arabic Audio": "eca-0014-3.mp3",
 			"Standard Arabic Audio": "msa-0014-3.mp3"
 		},
@@ -36,7 +36,7 @@
 			"English": "He plans to open up a lemonade stand.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انه يخطط لفتح موقف عصير الليمون.",
 			"Egyptian Arabic Audio": "eca-0014-4.mp3",
 			"Standard Arabic Audio": "msa-0014-4.mp3"
 		},
@@ -45,7 +45,7 @@
 			"English": "He goes to the market.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يذهب إلى السوق.",
 			"Egyptian Arabic Audio": "eca-0014-5.mp3",
 			"Standard Arabic Audio": "msa-0014-5.mp3"
 		},
@@ -54,7 +54,7 @@
 			"English": "The lemons are cheap.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "الليمون رخيصة.",
 			"Egyptian Arabic Audio": "eca-0014-6.mp3",
 			"Standard Arabic Audio": "msa-0014-6.mp3"
 		},
@@ -63,7 +63,7 @@
 			"English": "They are also ripe.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كما أنها مهيأة.",
 			"Egyptian Arabic Audio": "eca-0014-7.mp3",
 			"Standard Arabic Audio": "msa-0014-7.mp3"
 		},
@@ -72,7 +72,7 @@
 			"English": "He buys fifty lemons.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انه يشتري خمسين الليمون.",
 			"Egyptian Arabic Audio": "eca-0014-8.mp3",
 			"Standard Arabic Audio": "msa-0014-8.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "He starts making lemonade.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يبدأ صنع عصير الليمون.",
 			"Egyptian Arabic Audio": "eca-0014-9.mp3",
 			"Standard Arabic Audio": "msa-0014-9.mp3"
 		},
@@ -90,7 +90,7 @@
 			"English": "A lot of people are in line.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وهناك الكثير من الناس في خط.",
 			"Egyptian Arabic Audio": "eca-0014-10.mp3",
 			"Standard Arabic Audio": "msa-0014-10.mp3"
 		},
@@ -99,7 +99,7 @@
 			"English": "His lemonade stand is a success.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "له موقف عصير الليمون هو النجاح.",
 			"Egyptian Arabic Audio": "eca-0014-11.mp3",
 			"Standard Arabic Audio": "msa-0014-11.mp3"
 		},
@@ -108,7 +108,7 @@
 			"English": "He makes enough money.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وقال انه يجعل ما يكفي من المال.",
 			"Egyptian Arabic Audio": "eca-0014-12.mp3",
 			"Standard Arabic Audio": "msa-0014-12.mp3"
 		}

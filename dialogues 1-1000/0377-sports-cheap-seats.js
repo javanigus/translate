@@ -11,7 +11,7 @@
 			"English": "I want to go to the ball game.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أريد أن أذهب إلى لعبة الكرة.",
 			"Egyptian Arabic Audio": "eca-0377-1.mp3",
 			"Standard Arabic Audio": "msa-0377-1.mp3"
 		},
@@ -21,7 +21,7 @@
 			"English": "Is there a game tonight?",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هل هناك لعبة الليلة؟",
 			"Egyptian Arabic Audio": "eca-0377-2.mp3",
 			"Standard Arabic Audio": "msa-0377-2.mp3"
 		},
@@ -31,7 +31,7 @@
 			"English": "Yes, it starts at 7 p.m.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "نعم، يبدأ في الساعة 7 مساء",
 			"Egyptian Arabic Audio": "eca-0377-3.mp3",
 			"Standard Arabic Audio": "msa-0377-3.mp3"
 		},
@@ -41,7 +41,7 @@
 			"English": "Can we get tickets?",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هل يمكننا الحصول على التذاكر؟",
 			"Egyptian Arabic Audio": "eca-0377-4.mp3",
 			"Standard Arabic Audio": "msa-0377-4.mp3"
 		},
@@ -51,7 +51,7 @@
 			"English": "Yes, but only the cheap tickets.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "نعم، ولكن فقط تذاكر رخيصة.",
 			"Egyptian Arabic Audio": "eca-0377-5.mp3",
 			"Standard Arabic Audio": "msa-0377-5.mp3"
 		},
@@ -61,7 +61,7 @@
 			"English": "How much are they?",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كم هم؟",
 			"Egyptian Arabic Audio": "eca-0377-6.mp3",
 			"Standard Arabic Audio": "msa-0377-6.mp3"
 		},
@@ -71,7 +71,7 @@
 			"English": "They�re only $5 each",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انهم فقط 5 $ لكل منهما",
 			"Egyptian Arabic Audio": "eca-0377-7.mp3",
 			"Standard Arabic Audio": "msa-0377-7.mp3"
 		}

@@ -11,7 +11,7 @@
 			"English": "Let's plan a vacation.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "دعونا نخطط لعطلة.",
 			"Egyptian Arabic Audio": "eca-0231-1.mp3",
 			"Standard Arabic Audio": "msa-0231-1.mp3"
 		},
@@ -21,7 +21,7 @@
 			"English": "Yes! I want to go somewhere warm.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "نعم فعلا! أريد أن أذهب إلى مكان دافئ.",
 			"Egyptian Arabic Audio": "eca-0231-2.mp3",
 			"Standard Arabic Audio": "msa-0231-2.mp3"
 		},
@@ -31,7 +31,7 @@
 			"English": "I was thinking of going somewhere cold and fresh.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كنت أفكر في الذهاب إلى مكان بارد وجديد.",
 			"Egyptian Arabic Audio": "eca-0231-3.mp3",
 			"Standard Arabic Audio": "msa-0231-3.mp3"
 		},
@@ -41,7 +41,7 @@
 			"English": "But I want to spend time on beaches.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ولكن أريد قضاء بعض الوقت على الشواطئ.",
 			"Egyptian Arabic Audio": "eca-0231-4.mp3",
 			"Standard Arabic Audio": "msa-0231-4.mp3"
 		},
@@ -51,7 +51,7 @@
 			"English": "We always go to beaches.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "نذهب دائما إلى الشواطئ.",
 			"Egyptian Arabic Audio": "eca-0231-5.mp3",
 			"Standard Arabic Audio": "msa-0231-5.mp3"
 		},
@@ -61,7 +61,7 @@
 			"English": "That's because they are always fun.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هذا لأنهم دائما متعة.",
 			"Egyptian Arabic Audio": "eca-0231-6.mp3",
 			"Standard Arabic Audio": "msa-0231-6.mp3"
 		},
@@ -71,7 +71,7 @@
 			"English": "Let's try something different.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "دعونا نحاول شيئا مختلفا.",
 			"Egyptian Arabic Audio": "eca-0231-7.mp3",
 			"Standard Arabic Audio": "msa-0231-7.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "Where do you want to go?",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أين تريد أن تذهب؟",
 			"Egyptian Arabic Audio": "eca-0231-8.mp3",
 			"Standard Arabic Audio": "msa-0231-8.mp3"
 		},
@@ -91,7 +91,7 @@
 			"English": "We could visit Alaska.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يمكننا زيارة ألاسكا.",
 			"Egyptian Arabic Audio": "eca-0231-9.mp3",
 			"Standard Arabic Audio": "msa-0231-9.mp3"
 		},
@@ -101,7 +101,7 @@
 			"English": "But I don't even like the cold.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ولكن أنا لا أحب حتى البرد.",
 			"Egyptian Arabic Audio": "eca-0231-10.mp3",
 			"Standard Arabic Audio": "msa-0231-10.mp3"
 		},
@@ -111,7 +111,7 @@
 			"English": "Come on. The views look beautiful.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هيا. وجهات النظر تبدو جميلة.",
 			"Egyptian Arabic Audio": "eca-0231-11.mp3",
 			"Standard Arabic Audio": "msa-0231-11.mp3"
 		},
@@ -121,7 +121,7 @@
 			"English": "Fine. But I get to plan our vacation next time.",
 			"Word Count": 10,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "غرامة. ولكن أحصل على خطة عطلة لدينا في المرة القادمة.",
 			"Egyptian Arabic Audio": "eca-0231-12.mp3",
 			"Standard Arabic Audio": "msa-0231-12.mp3"
 		}

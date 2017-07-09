@@ -9,7 +9,7 @@
 			"English": "Lina watched contentedly as Luke devoured the cheesecake and ice cream.",
 			"Word Count": 11,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لينا شاهدت بالمحتوى كما تلتهم لوقا الجبن والآيس كريم.",
 			"Egyptian Arabic Audio": "eca-2100-1.mp3",
 			"Standard Arabic Audio": "msa-2100-1.mp3"
 		},
@@ -18,7 +18,7 @@
 			"English": "Someday, she thought, I will be his dessert.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "في يوم من الأيام، وقالت انها اعتقدت، وسوف يكون له الحلوى.",
 			"Egyptian Arabic Audio": "eca-2100-2.mp3",
 			"Standard Arabic Audio": "msa-2100-2.mp3"
 		}

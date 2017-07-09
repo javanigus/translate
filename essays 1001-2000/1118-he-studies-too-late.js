@@ -9,7 +9,7 @@
 			"English": "He reads the textbook.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يقرأ الكتاب المدرسي.",
 			"Egyptian Arabic Audio": "eca-1118-1.mp3",
 			"Standard Arabic Audio": "msa-1118-1.mp3"
 		},
@@ -18,7 +18,7 @@
 			"English": "He has a test tomorrow.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لديه اختبار غدا.",
 			"Egyptian Arabic Audio": "eca-1118-2.mp3",
 			"Standard Arabic Audio": "msa-1118-2.mp3"
 		},
@@ -27,7 +27,7 @@
 			"English": "He studies before every test.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يدرس قبل كل اختبار.",
 			"Egyptian Arabic Audio": "eca-1118-3.mp3",
 			"Standard Arabic Audio": "msa-1118-3.mp3"
 		},
@@ -36,7 +36,7 @@
 			"English": "He studies every word.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يدرس كل كلمة.",
 			"Egyptian Arabic Audio": "eca-1118-4.mp3",
 			"Standard Arabic Audio": "msa-1118-4.mp3"
 		},
@@ -45,7 +45,7 @@
 			"English": "He highlights the important words.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ويسلط الضوء على الكلمات الهامة.",
 			"Egyptian Arabic Audio": "eca-1118-5.mp3",
 			"Standard Arabic Audio": "msa-1118-5.mp3"
 		},
@@ -54,7 +54,7 @@
 			"English": "He highlights the important sentences.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ويسلط الضوء على الأحكام الهامة.",
 			"Egyptian Arabic Audio": "eca-1118-6.mp3",
 			"Standard Arabic Audio": "msa-1118-6.mp3"
 		},
@@ -63,7 +63,7 @@
 			"English": "He highlights the important paragraphs.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ويسلط الضوء على الفقرات الهامة.",
 			"Egyptian Arabic Audio": "eca-1118-7.mp3",
 			"Standard Arabic Audio": "msa-1118-7.mp3"
 		},
@@ -72,7 +72,7 @@
 			"English": "The book has yellow highlights everywhere.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "الكتاب يسلط الضوء الأصفر في كل مكان.",
 			"Egyptian Arabic Audio": "eca-1118-8.mp3",
 			"Standard Arabic Audio": "msa-1118-8.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "He studies into the night.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يدرس في الليل.",
 			"Egyptian Arabic Audio": "eca-1118-9.mp3",
 			"Standard Arabic Audio": "msa-1118-9.mp3"
 		},
@@ -90,7 +90,7 @@
 			"English": "He studies all night long.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يدرس طوال الليل.",
 			"Egyptian Arabic Audio": "eca-1118-10.mp3",
 			"Standard Arabic Audio": "msa-1118-10.mp3"
 		},
@@ -99,7 +99,7 @@
 			"English": "He falls asleep during the test.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ويغفو أثناء الاختبار.",
 			"Egyptian Arabic Audio": "eca-1118-11.mp3",
 			"Standard Arabic Audio": "msa-1118-11.mp3"
 		}

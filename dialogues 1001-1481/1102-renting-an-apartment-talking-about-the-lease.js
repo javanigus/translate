@@ -11,7 +11,7 @@
 			"English": "I need to talk to you about something.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أحتاج أن أتحدث إليكم عن شيء ما.",
 			"Egyptian Arabic Audio": "eca-1102-1.mp3",
 			"Standard Arabic Audio": "msa-1102-1.mp3"
 		},
@@ -21,7 +21,7 @@
 			"English": "What did you need to talk about?",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ما الذي تحتاج إلى الحديث عنه؟",
 			"Egyptian Arabic Audio": "eca-1102-2.mp3",
 			"Standard Arabic Audio": "msa-1102-2.mp3"
 		},
@@ -31,7 +31,7 @@
 			"English": "I have some questions about my lease.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لدي بعض الأسئلة حول عقد الإيجار.",
 			"Egyptian Arabic Audio": "eca-1102-3.mp3",
 			"Standard Arabic Audio": "msa-1102-3.mp3"
 		},
@@ -41,7 +41,7 @@
 			"English": "Like what?",
 			"Word Count": 2,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "مثل ماذا؟",
 			"Egyptian Arabic Audio": "eca-1102-4.mp3",
 			"Standard Arabic Audio": "msa-1102-4.mp3"
 		},
@@ -51,7 +51,7 @@
 			"English": "Exactly how long is my lease for?",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "بالضبط كم من الوقت هو عقد الإيجار الخاص بي؟",
 			"Egyptian Arabic Audio": "eca-1102-5.mp3",
 			"Standard Arabic Audio": "msa-1102-5.mp3"
 		},
@@ -61,7 +61,7 @@
 			"English": "Your lease will be up in three years.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "سوف يكون عقد الإيجار الخاص بك يصل في ثلاث سنوات.",
 			"Egyptian Arabic Audio": "eca-1102-6.mp3",
 			"Standard Arabic Audio": "msa-1102-6.mp3"
 		},
@@ -71,7 +71,7 @@
 			"English": "What will happen if I move out before then?",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ماذا سيحدث إذا خرجت قبل ذلك؟",
 			"Egyptian Arabic Audio": "eca-1102-7.mp3",
 			"Standard Arabic Audio": "msa-1102-7.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "If you move out before then, you will not get your deductible.",
 			"Word Count": 12,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "إذا كنت الخروج قبل ذلك الحين، فإنك لن تحصل على خصم الخاص بك.",
 			"Egyptian Arabic Audio": "eca-1102-8.mp3",
 			"Standard Arabic Audio": "msa-1102-8.mp3"
 		},
@@ -91,7 +91,7 @@
 			"English": "I don't understand.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنا لا أفهم.",
 			"Egyptian Arabic Audio": "eca-1102-9.mp3",
 			"Standard Arabic Audio": "msa-1102-9.mp3"
 		},
@@ -101,7 +101,7 @@
 			"English": "Because our contract says that you will live here for three years.",
 			"Word Count": 12,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لأن عقدنا يقول أنك سوف تعيش هنا لمدة ثلاث سنوات.",
 			"Egyptian Arabic Audio": "eca-1102-10.mp3",
 			"Standard Arabic Audio": "msa-1102-10.mp3"
 		},
@@ -111,7 +111,7 @@
 			"English": "Okay, I think that I understand.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "حسنا، أعتقد أنني أفهم.",
 			"Egyptian Arabic Audio": "eca-1102-11.mp3",
 			"Standard Arabic Audio": "msa-1102-11.mp3"
 		},
@@ -121,7 +121,7 @@
 			"English": "I'm glad you understand.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنا سعيد لأنك تفهم.",
 			"Egyptian Arabic Audio": "eca-1102-12.mp3",
 			"Standard Arabic Audio": "msa-1102-12.mp3"
 		},
@@ -131,7 +131,7 @@
 			"English": "Can we talk?",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أيمكننا أن تحدث؟",
 			"Egyptian Arabic Audio": "eca-1102-13.mp3",
 			"Standard Arabic Audio": "msa-1102-13.mp3"
 		},
@@ -141,7 +141,7 @@
 			"English": "What about?",
 			"Word Count": 2,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ماذا عن؟",
 			"Egyptian Arabic Audio": "eca-1102-14.mp3",
 			"Standard Arabic Audio": "msa-1102-14.mp3"
 		},
@@ -151,7 +151,7 @@
 			"English": "I'm not too clear on some things about my lease.",
 			"Word Count": 10,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنا لست واضحا جدا بشأن بعض الأشياء عن عقد الإيجار.",
 			"Egyptian Arabic Audio": "eca-1102-15.mp3",
 			"Standard Arabic Audio": "msa-1102-15.mp3"
 		},
@@ -161,7 +161,7 @@
 			"English": "Is there a problem?",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هل هناك مشكلة؟",
 			"Egyptian Arabic Audio": "eca-1102-16.mp3",
 			"Standard Arabic Audio": "msa-1102-16.mp3"
 		},
@@ -171,7 +171,7 @@
 			"English": "How many years is my lease for?",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كم سنة هو عقد الإيجار الخاص بي؟",
 			"Egyptian Arabic Audio": "eca-1102-17.mp3",
 			"Standard Arabic Audio": "msa-1102-17.mp3"
 		},
@@ -181,7 +181,7 @@
 			"English": "In three years your lease will be up.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "في غضون ثلاث سنوات سوف يكون عقد الإيجار الخاص بك حتى.",
 			"Egyptian Arabic Audio": "eca-1102-18.mp3",
 			"Standard Arabic Audio": "msa-1102-18.mp3"
 		},
@@ -191,7 +191,7 @@
 			"English": "Can I move out before those three years?",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هل يمكنني الخروج قبل تلك السنوات الثلاث؟",
 			"Egyptian Arabic Audio": "eca-1102-19.mp3",
 			"Standard Arabic Audio": "msa-1102-19.mp3"
 		},
@@ -201,7 +201,7 @@
 			"English": "If you do, I will keep your deductible.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "إذا قمت بذلك، وسوف تبقي الخاص خصم.",
 			"Egyptian Arabic Audio": "eca-1102-20.mp3",
 			"Standard Arabic Audio": "msa-1102-20.mp3"
 		},
@@ -211,7 +211,7 @@
 			"English": "Why would you keep it?",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لماذا ستبقيه؟",
 			"Egyptian Arabic Audio": "eca-1102-21.mp3",
 			"Standard Arabic Audio": "msa-1102-21.mp3"
 		},
@@ -221,7 +221,7 @@
 			"English": "I would keep it because you would be breaking our contract.",
 			"Word Count": 11,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وأود أن يبقيه لأنك سوف تكون كسر عقدنا.",
 			"Egyptian Arabic Audio": "eca-1102-22.mp3",
 			"Standard Arabic Audio": "msa-1102-22.mp3"
 		},
@@ -231,7 +231,7 @@
 			"English": "I get it now.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "استلمتها الان.",
 			"Egyptian Arabic Audio": "eca-1102-23.mp3",
 			"Standard Arabic Audio": "msa-1102-23.mp3"
 		},
@@ -241,7 +241,7 @@
 			"English": "I hope that I cleared things up for you.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "آمل أن أزيل الأمور بالنسبة لك.",
 			"Egyptian Arabic Audio": "eca-1102-24.mp3",
 			"Standard Arabic Audio": "msa-1102-24.mp3"
 		},
@@ -251,7 +251,7 @@
 			"English": "I would like to talk to you, if you have time.",
 			"Word Count": 11,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أود التحدث معك إذا كان لديك الوقت.",
 			"Egyptian Arabic Audio": "eca-1102-25.mp3",
 			"Standard Arabic Audio": "msa-1102-25.mp3"
 		},
@@ -261,7 +261,7 @@
 			"English": "What's going on?",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ماذا يحدث هنا؟",
 			"Egyptian Arabic Audio": "eca-1102-26.mp3",
 			"Standard Arabic Audio": "msa-1102-26.mp3"
 		},
@@ -271,7 +271,7 @@
 			"English": "I want to discuss some things about my lease.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أريد مناقشة بعض الأشياء عن عقد الإيجار الخاص بي.",
 			"Egyptian Arabic Audio": "eca-1102-27.mp3",
 			"Standard Arabic Audio": "msa-1102-27.mp3"
 		},
@@ -281,7 +281,7 @@
 			"English": "What aren't you too sure about?",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ما أنت لست متأكدا جدا حول؟",
 			"Egyptian Arabic Audio": "eca-1102-28.mp3",
 			"Standard Arabic Audio": "msa-1102-28.mp3"
 		},
@@ -291,7 +291,7 @@
 			"English": "Can you tell me when my lease is up?",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هل يمكن أن تخبرني عندما يكون عقد الإيجار الخاص بي؟",
 			"Egyptian Arabic Audio": "eca-1102-29.mp3",
 			"Standard Arabic Audio": "msa-1102-29.mp3"
 		},
@@ -301,7 +301,7 @@
 			"English": "Your lease is for three years.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "عقد الإيجار الخاص بك لمدة ثلاث سنوات.",
 			"Egyptian Arabic Audio": "eca-1102-30.mp3",
 			"Standard Arabic Audio": "msa-1102-30.mp3"
 		},
@@ -311,7 +311,7 @@
 			"English": "If I ever decide to leave before the three years, will there be a  \tproblem?",
 			"Word Count": 15,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "إذا قررت من أي وقت مضى ترك قبل السنوات الثلاث، وسوف يكون هناك مشكلة؟",
 			"Egyptian Arabic Audio": "eca-1102-31.mp3",
 			"Standard Arabic Audio": "msa-1102-31.mp3"
 		},
@@ -321,7 +321,7 @@
 			"English": "If you do, I will keep your deductible.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "إذا قمت بذلك، وسوف تبقي الخاص خصم.",
 			"Egyptian Arabic Audio": "eca-1102-32.mp3",
 			"Standard Arabic Audio": "msa-1102-32.mp3"
 		},
@@ -331,7 +331,7 @@
 			"English": "Why is that?",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لماذا هذا؟",
 			"Egyptian Arabic Audio": "eca-1102-33.mp3",
 			"Standard Arabic Audio": "msa-1102-33.mp3"
 		},
@@ -341,7 +341,7 @@
 			"English": "If you break the contract, then you will not receive your deductible.",
 			"Word Count": 12,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "إذا كنت كسر العقد، فإنك لن تتلقى خصم الخاص بك.",
 			"Egyptian Arabic Audio": "eca-1102-34.mp3",
 			"Standard Arabic Audio": "msa-1102-34.mp3"
 		},
@@ -351,7 +351,7 @@
 			"English": "Oh, I see.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "حسنا أرى ذلك.",
 			"Egyptian Arabic Audio": "eca-1102-35.mp3",
 			"Standard Arabic Audio": "msa-1102-35.mp3"
 		},
@@ -361,7 +361,7 @@
 			"English": "All right. I'm glad I could clarify things for you.",
 			"Word Count": 10,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "حسنا. أنا سعيد لأنني أستطيع توضيح الأمور لك.",
 			"Egyptian Arabic Audio": "eca-1102-36.mp3",
 			"Standard Arabic Audio": "msa-1102-36.mp3"
 		}

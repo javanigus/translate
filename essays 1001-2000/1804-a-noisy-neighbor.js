@@ -9,7 +9,7 @@
 			"English": "I can't believe I said that, she told herself.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لا أستطيع أن أصدق أنني قلت ذلك، وقالت نفسها.",
 			"Egyptian Arabic Audio": "eca-1804-1.mp3",
 			"Standard Arabic Audio": "msa-1804-1.mp3"
 		}

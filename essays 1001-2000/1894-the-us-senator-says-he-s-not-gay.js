@@ -9,7 +9,7 @@
 			"English": "Dreyer pleaded guilty to a misdemeanor charge of \"disorderly conduct.",
 			"Word Count": 10,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "اعترف درير بالذنب لجنحة تهمة &quot;السلوك غير المنضبط.",
 			"Egyptian Arabic Audio": "eca-1894-1.mp3",
 			"Standard Arabic Audio": "msa-1894-1.mp3"
 		},
@@ -18,7 +18,7 @@
 			"English": "\" He denied that his actions were signals for sex.",
 			"Word Count": 10,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "&quot;نفى أن أفعاله كانت إشارات للجنس.",
 			"Egyptian Arabic Audio": "eca-1894-2.mp3",
 			"Standard Arabic Audio": "msa-1894-2.mp3"
 		},
@@ -27,7 +27,7 @@
 			"English": "He said that he was merely signaling that he  had no toilet paper in his stall.",
 			"Word Count": 16,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وقال إنه كان يشير فقط إلى أنه ليس لديه ورق التواليت في كشك له.",
 			"Egyptian Arabic Audio": "eca-1894-3.mp3",
 			"Standard Arabic Audio": "msa-1894-3.mp3"
 		}

@@ -11,7 +11,7 @@
 			"English": "Boy, it's chilly outside, isn't it?",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "الصبي، انها بارد في الخارج، أليس كذلك؟",
 			"Egyptian Arabic Audio": "eca-0435-1.mp3",
 			"Standard Arabic Audio": "msa-0435-1.mp3"
 		},
@@ -21,7 +21,7 @@
 			"English": "It sure is.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "فمن المؤكد.",
 			"Egyptian Arabic Audio": "eca-0435-2.mp3",
 			"Standard Arabic Audio": "msa-0435-2.mp3"
 		},
@@ -31,7 +31,7 @@
 			"English": "In fact, it's chilly in the apartment, too.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "في الواقع، انها باردة في الشقة، أيضا.",
 			"Egyptian Arabic Audio": "eca-0435-3.mp3",
 			"Standard Arabic Audio": "msa-0435-3.mp3"
 		},
@@ -41,7 +41,7 @@
 			"English": "Let's turn on the heat.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "دعونا بدوره على الحرارة.",
 			"Egyptian Arabic Audio": "eca-0435-4.mp3",
 			"Standard Arabic Audio": "msa-0435-4.mp3"
 		},
@@ -51,7 +51,7 @@
 			"English": "I'll check to make sure that all the windows are shut.",
 			"Word Count": 11,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "سوف تحقق للتأكد من أن يتم إيقاف كافة النوافذ.",
 			"Egyptian Arabic Audio": "eca-0435-5.mp3",
 			"Standard Arabic Audio": "msa-0435-5.mp3"
 		},
@@ -61,7 +61,7 @@
 			"English": "It should be warmer in a few minutes.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يجب أن يكون أكثر دفئا في بضع دقائق.",
 			"Egyptian Arabic Audio": "eca-0435-6.mp3",
 			"Standard Arabic Audio": "msa-0435-6.mp3"
 		},
@@ -71,7 +71,7 @@
 			"English": "It's so nice to have a heated apartment.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انها لطيفة جدا أن يكون شقة ساخنة.",
 			"Egyptian Arabic Audio": "eca-0435-7.mp3",
 			"Standard Arabic Audio": "msa-0435-7.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "How did they survive in the old days?",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كيف بقوا على قيد الحياة في الأيام الخوالي؟",
 			"Egyptian Arabic Audio": "eca-0435-8.mp3",
 			"Standard Arabic Audio": "msa-0435-8.mp3"
 		},
@@ -91,7 +91,7 @@
 			"English": "They had fireplaces.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كان لديهم مدافئ.",
 			"Egyptian Arabic Audio": "eca-0435-9.mp3",
 			"Standard Arabic Audio": "msa-0435-9.mp3"
 		},
@@ -101,7 +101,7 @@
 			"English": "Someone had to chop the wood.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كان شخص ما لفرم الخشب.",
 			"Egyptian Arabic Audio": "eca-0435-10.mp3",
 			"Standard Arabic Audio": "msa-0435-10.mp3"
 		},
@@ -111,7 +111,7 @@
 			"English": "And carry it into the house.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وتحملها في المنزل.",
 			"Egyptian Arabic Audio": "eca-0435-11.mp3",
 			"Standard Arabic Audio": "msa-0435-11.mp3"
 		},
@@ -121,7 +121,7 @@
 			"English": "All we have to do is flip a switch.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كل ما علينا القيام به هو الوجه التبديل.",
 			"Egyptian Arabic Audio": "eca-0435-12.mp3",
 			"Standard Arabic Audio": "msa-0435-12.mp3"
 		}

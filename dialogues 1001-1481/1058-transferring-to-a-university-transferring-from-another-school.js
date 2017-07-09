@@ -11,7 +11,7 @@
 			"English": "Are you new to this school?",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هل أنت جديد في هذه المدرسة؟",
 			"Egyptian Arabic Audio": "eca-1058-1.mp3",
 			"Standard Arabic Audio": "msa-1058-1.mp3"
 		},
@@ -21,7 +21,7 @@
 			"English": "Yes, I'm new.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "نعم، أنا جديد.",
 			"Egyptian Arabic Audio": "eca-1058-2.mp3",
 			"Standard Arabic Audio": "msa-1058-2.mp3"
 		},
@@ -31,7 +31,7 @@
 			"English": "Is this your first year in college?",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هل هذا العام الأول في الكلية؟",
 			"Egyptian Arabic Audio": "eca-1058-3.mp3",
 			"Standard Arabic Audio": "msa-1058-3.mp3"
 		},
@@ -41,7 +41,7 @@
 			"English": "I transferred from another school.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "نقلت من مدرسة أخرى.",
 			"Egyptian Arabic Audio": "eca-1058-4.mp3",
 			"Standard Arabic Audio": "msa-1058-4.mp3"
 		},
@@ -51,7 +51,7 @@
 			"English": "Where did you transfer from?",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "من أين انتقلت من؟",
 			"Egyptian Arabic Audio": "eca-1058-5.mp3",
 			"Standard Arabic Audio": "msa-1058-5.mp3"
 		},
@@ -61,7 +61,7 @@
 			"English": "I was at PCC before.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كنت في يك قبل.",
 			"Egyptian Arabic Audio": "eca-1058-6.mp3",
 			"Standard Arabic Audio": "msa-1058-6.mp3"
 		},
@@ -71,7 +71,7 @@
 			"English": "Why did you transfer?",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لماذا نقلت؟",
 			"Egyptian Arabic Audio": "eca-1058-7.mp3",
 			"Standard Arabic Audio": "msa-1058-7.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "I was going to go here first, but my grades weren't good enough.",
 			"Word Count": 13,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كنت ذاهبا للذهاب هنا أولا، ولكن درجاتي لم تكن جيدة بما فيه الكفاية.",
 			"Egyptian Arabic Audio": "eca-1058-8.mp3",
 			"Standard Arabic Audio": "msa-1058-8.mp3"
 		},
@@ -91,7 +91,7 @@
 			"English": "Did you like it at PCC?",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هل ترغب في ذلك في يك؟",
 			"Egyptian Arabic Audio": "eca-1058-9.mp3",
 			"Standard Arabic Audio": "msa-1058-9.mp3"
 		},
@@ -101,7 +101,7 @@
 			"English": "PCC is an incredible school.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يك هي مدرسة لا تصدق.",
 			"Egyptian Arabic Audio": "eca-1058-10.mp3",
 			"Standard Arabic Audio": "msa-1058-10.mp3"
 		},
@@ -111,7 +111,7 @@
 			"English": "Well, I wish you luck here.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "حسنا، أتمنى لكم حظا سعيدا هنا.",
 			"Egyptian Arabic Audio": "eca-1058-11.mp3",
 			"Standard Arabic Audio": "msa-1058-11.mp3"
 		},
@@ -121,7 +121,7 @@
 			"English": "I'm sure I'll like it here.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنا متأكد من أنني سوف ترغب في ذلك هنا.",
 			"Egyptian Arabic Audio": "eca-1058-12.mp3",
 			"Standard Arabic Audio": "msa-1058-12.mp3"
 		},
@@ -131,7 +131,7 @@
 			"English": "Are you new here?",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هل انت جديد هنا؟",
 			"Egyptian Arabic Audio": "eca-1058-14.mp3",
 			"Standard Arabic Audio": "msa-1058-14.mp3"
 		},
@@ -141,7 +141,7 @@
 			"English": "This is my first day here.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هذا هو أول يوم لي هنا.",
 			"Egyptian Arabic Audio": "eca-1058-15.mp3",
 			"Standard Arabic Audio": "msa-1058-15.mp3"
 		},
@@ -151,7 +151,7 @@
 			"English": "Are you a freshman in college?",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هل أنت طالبة في الكلية؟",
 			"Egyptian Arabic Audio": "eca-1058-16.mp3",
 			"Standard Arabic Audio": "msa-1058-16.mp3"
 		},
@@ -161,7 +161,7 @@
 			"English": "I started school somewhere else.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "بدأت المدرسة في مكان آخر.",
 			"Egyptian Arabic Audio": "eca-1058-17.mp3",
 			"Standard Arabic Audio": "msa-1058-17.mp3"
 		},
@@ -171,7 +171,7 @@
 			"English": "What school did you transfer from?",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ما هي المدرسة التي نقلتها من؟",
 			"Egyptian Arabic Audio": "eca-1058-18.mp3",
 			"Standard Arabic Audio": "msa-1058-18.mp3"
 		},
@@ -181,7 +181,7 @@
 			"English": "I started at PCC.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "بدأت في يك.",
 			"Egyptian Arabic Audio": "eca-1058-19.mp3",
 			"Standard Arabic Audio": "msa-1058-19.mp3"
 		},
@@ -191,7 +191,7 @@
 			"English": "What made you transfer?",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ما الذي جعلك تنقل؟",
 			"Egyptian Arabic Audio": "eca-1058-20.mp3",
 			"Standard Arabic Audio": "msa-1058-20.mp3"
 		},
@@ -201,7 +201,7 @@
 			"English": "My grades weren't good enough to go here.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لم تكن درجاتي جيدة بما يكفي للذهاب إلى هنا.",
 			"Egyptian Arabic Audio": "eca-1058-21.mp3",
 			"Standard Arabic Audio": "msa-1058-21.mp3"
 		},
@@ -211,7 +211,7 @@
 			"English": "Did you like PCC?",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هل أعجبك يك؟",
 			"Egyptian Arabic Audio": "eca-1058-22.mp3",
 			"Standard Arabic Audio": "msa-1058-22.mp3"
 		},
@@ -221,7 +221,7 @@
 			"English": "I loved PCC.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنا أحب يك.",
 			"Egyptian Arabic Audio": "eca-1058-23.mp3",
 			"Standard Arabic Audio": "msa-1058-23.mp3"
 		},
@@ -231,7 +231,7 @@
 			"English": "Good luck here.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "حظا سعيدا هنا.",
 			"Egyptian Arabic Audio": "eca-1058-24.mp3",
 			"Standard Arabic Audio": "msa-1058-24.mp3"
 		},
@@ -241,7 +241,7 @@
 			"English": "I'm excited to be here.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنا متحمس أن أكون هنا.",
 			"Egyptian Arabic Audio": "eca-1058-25.mp3",
 			"Standard Arabic Audio": "msa-1058-25.mp3"
 		},
@@ -251,7 +251,7 @@
 			"English": "You're new here, right?",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنت جديد هنا، أليس كذلك؟",
 			"Egyptian Arabic Audio": "eca-1058-26.mp3",
 			"Standard Arabic Audio": "msa-1058-26.mp3"
 		},
@@ -261,7 +261,7 @@
 			"English": "Yes, I am.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "نعم انا.",
 			"Egyptian Arabic Audio": "eca-1058-27.mp3",
 			"Standard Arabic Audio": "msa-1058-27.mp3"
 		},
@@ -271,7 +271,7 @@
 			"English": "Will this be your first year?",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هل سيكون هذا العام الأول؟",
 			"Egyptian Arabic Audio": "eca-1058-28.mp3",
 			"Standard Arabic Audio": "msa-1058-28.mp3"
 		},
@@ -281,7 +281,7 @@
 			"English": "No, I transferred here.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لا، نقلت هنا.",
 			"Egyptian Arabic Audio": "eca-1058-29.mp3",
 			"Standard Arabic Audio": "msa-1058-29.mp3"
 		},
@@ -291,7 +291,7 @@
 			"English": "What school did you come from?",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ما هي المدرسة التي أتيت منها؟",
 			"Egyptian Arabic Audio": "eca-1058-30.mp3",
 			"Standard Arabic Audio": "msa-1058-30.mp3"
 		},
@@ -301,7 +301,7 @@
 			"English": "I transferred from PCC.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "نقلت من يك.",
 			"Egyptian Arabic Audio": "eca-1058-31.mp3",
 			"Standard Arabic Audio": "msa-1058-31.mp3"
 		},
@@ -311,7 +311,7 @@
 			"English": "Why'd you transfer here?",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لماذا أنت نقل هنا؟",
 			"Egyptian Arabic Audio": "eca-1058-32.mp3",
 			"Standard Arabic Audio": "msa-1058-32.mp3"
 		},
@@ -321,7 +321,7 @@
 			"English": "I wanted to attend this school originally, but my grades out of high  \tschool weren't good enough.",
 			"Word Count": 17,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كنت أرغب في حضور هذه المدرسة في الأصل، ولكن درجاتي خارج المدرسة الثانوية لم تكن جيدة بما فيه الكفاية.",
 			"Egyptian Arabic Audio": "eca-1058-33.mp3",
 			"Standard Arabic Audio": "msa-1058-33.mp3"
 		},
@@ -331,7 +331,7 @@
 			"English": "Is PCC a good school?",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هو يك مدرسة جيدة؟",
 			"Egyptian Arabic Audio": "eca-1058-34.mp3",
 			"Standard Arabic Audio": "msa-1058-34.mp3"
 		},
@@ -341,7 +341,7 @@
 			"English": "PCC is great!",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يك هو عظيم!",
 			"Egyptian Arabic Audio": "eca-1058-35.mp3",
 			"Standard Arabic Audio": "msa-1058-35.mp3"
 		},
@@ -351,7 +351,7 @@
 			"English": "I hope you enjoy it here.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "آمل أنك تستمتع به هنا.",
 			"Egyptian Arabic Audio": "eca-1058-36.mp3",
 			"Standard Arabic Audio": "msa-1058-36.mp3"
 		},
@@ -361,7 +361,7 @@
 			"English": "Thank you very much.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "شكرا جزيلا.",
 			"Egyptian Arabic Audio": "eca-1058-37.mp3",
 			"Standard Arabic Audio": "msa-1058-37.mp3"
 		}

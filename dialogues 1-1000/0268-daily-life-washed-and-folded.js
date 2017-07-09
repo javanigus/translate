@@ -11,7 +11,7 @@
 			"English": "Did you do the laundry?",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هل فعلت الغسيل؟",
 			"Egyptian Arabic Audio": "eca-0268-1.mp3",
 			"Standard Arabic Audio": "msa-0268-1.mp3"
 		},
@@ -21,7 +21,7 @@
 			"English": "Yes, I did.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "نعم، فعلت.",
 			"Egyptian Arabic Audio": "eca-0268-2.mp3",
 			"Standard Arabic Audio": "msa-0268-2.mp3"
 		},
@@ -31,7 +31,7 @@
 			"English": "What did you wash?",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ماذا غسلت؟",
 			"Egyptian Arabic Audio": "eca-0268-3.mp3",
 			"Standard Arabic Audio": "msa-0268-3.mp3"
 		},
@@ -41,7 +41,7 @@
 			"English": "I washed the sheets and towels.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "غسلت الأوراق والمناشف.",
 			"Egyptian Arabic Audio": "eca-0268-4.mp3",
 			"Standard Arabic Audio": "msa-0268-4.mp3"
 		},
@@ -51,7 +51,7 @@
 			"English": "What about the pillowcases?",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ماذا عن الوسادات؟",
 			"Egyptian Arabic Audio": "eca-0268-5.mp3",
 			"Standard Arabic Audio": "msa-0268-5.mp3"
 		},
@@ -61,7 +61,7 @@
 			"English": "Yes, I took them off the pillows and washed them.",
 			"Word Count": 10,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "نعم، أخذتهم من الوسائد وغسلها.",
 			"Egyptian Arabic Audio": "eca-0268-6.mp3",
 			"Standard Arabic Audio": "msa-0268-6.mp3"
 		},
@@ -71,7 +71,7 @@
 			"English": "Did you dry everything in the dryer?",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هل جفت كل شيء في مجفف؟",
 			"Egyptian Arabic Audio": "eca-0268-7.mp3",
 			"Standard Arabic Audio": "msa-0268-7.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "Yes, I dried everything in the dryer.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "نعم، جففت كل شيء في المجفف.",
 			"Egyptian Arabic Audio": "eca-0268-8.mp3",
 			"Standard Arabic Audio": "msa-0268-8.mp3"
 		},
@@ -91,7 +91,7 @@
 			"English": "Then what did you do?",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ثم ماذا فعلت؟",
 			"Egyptian Arabic Audio": "eca-0268-9.mp3",
 			"Standard Arabic Audio": "msa-0268-9.mp3"
 		},
@@ -101,7 +101,7 @@
 			"English": "I folded all the towels.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "طويت جميع المناشف.",
 			"Egyptian Arabic Audio": "eca-0268-10.mp3",
 			"Standard Arabic Audio": "msa-0268-10.mp3"
 		},
@@ -111,7 +111,7 @@
 			"English": "Did you put the sheets on the beds?",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هل وضعت الأوراق على الأسرة؟",
 			"Egyptian Arabic Audio": "eca-0268-11.mp3",
 			"Standard Arabic Audio": "msa-0268-11.mp3"
 		},
@@ -121,7 +121,7 @@
 			"English": "Yes, and I put the pillowcases on the pillows.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "نعم، وأنا وضعت الوسائد على الوسائد.",
 			"Egyptian Arabic Audio": "eca-0268-12.mp3",
 			"Standard Arabic Audio": "msa-0268-12.mp3"
 		}

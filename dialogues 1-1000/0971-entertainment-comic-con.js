@@ -11,7 +11,7 @@
 			"English": "You sure are buying a lot of snacks.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كنت متأكدا من شراء الكثير من الوجبات الخفيفة.",
 			"Egyptian Arabic Audio": "eca-0971-1.mp3",
 			"Standard Arabic Audio": "msa-0971-1.mp3"
 		},
@@ -21,7 +21,7 @@
 			"English": "That's because I'm going on a long car trip.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هذا لأنني ذاهب في رحلة طويلة بالسيارة.",
 			"Egyptian Arabic Audio": "eca-0971-2.mp3",
 			"Standard Arabic Audio": "msa-0971-2.mp3"
 		},
@@ -31,7 +31,7 @@
 			"English": "Where are you driving to?",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أين أنت تقود إلى؟",
 			"Egyptian Arabic Audio": "eca-0971-3.mp3",
 			"Standard Arabic Audio": "msa-0971-3.mp3"
 		},
@@ -41,7 +41,7 @@
 			"English": "I'm driving to Comic-Con in San Diego this weekend.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنا القيادة إلى كوميدي كون في سان دييغو في نهاية هذا الاسبوع.",
 			"Egyptian Arabic Audio": "eca-0971-4.mp3",
 			"Standard Arabic Audio": "msa-0971-4.mp3"
 		},
@@ -51,7 +51,7 @@
 			"English": "You're driving all the way there to read comic books?",
 			"Word Count": 10,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كنت تقود كل وسيلة هناك لقراءة الكتب المصورة؟",
 			"Egyptian Arabic Audio": "eca-0971-5.mp3",
 			"Standard Arabic Audio": "msa-0971-5.mp3"
 		},
@@ -61,7 +61,7 @@
 			"English": "No. I will be meeting comic artists and voice actors.",
 			"Word Count": 10,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لا، سأجتمع مع الفنانين الهزليين والممثلين الصوتيين.",
 			"Egyptian Arabic Audio": "eca-0971-6.mp3",
 			"Standard Arabic Audio": "msa-0971-6.mp3"
 		},
@@ -71,7 +71,7 @@
 			"English": "That sounds really impressive!",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هذا يبدو مثير للإعجاب حقا!",
 			"Egyptian Arabic Audio": "eca-0971-7.mp3",
 			"Standard Arabic Audio": "msa-0971-7.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "If I'm lucky, I'll even meet Stan Lee!",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "إذا كنت محظوظا، حتى أن يجتمع ستان لي!",
 			"Egyptian Arabic Audio": "eca-0971-8.mp3",
 			"Standard Arabic Audio": "msa-0971-8.mp3"
 		},
@@ -91,7 +91,7 @@
 			"English": "Is he as famous as Bruce Lee?",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هل هو مشهور مثل بروس لي؟",
 			"Egyptian Arabic Audio": "eca-0971-9.mp3",
 			"Standard Arabic Audio": "msa-0971-9.mp3"
 		},
@@ -101,7 +101,7 @@
 			"English": "Stan Lee is a famous comic book writer and creator.",
 			"Word Count": 10,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ستان لي هو الكاتب الكتاب الهزلي الشهير والمبدع.",
 			"Egyptian Arabic Audio": "eca-0971-10.mp3",
 			"Standard Arabic Audio": "msa-0971-10.mp3"
 		},
@@ -111,7 +111,7 @@
 			"English": "I think I'd be more impressed to meet Bruce Lee.",
 			"Word Count": 10,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أعتقد أنني سوف أعجب أكثر لتلبية بروس لي.",
 			"Egyptian Arabic Audio": "eca-0971-11.mp3",
 			"Standard Arabic Audio": "msa-0971-11.mp3"
 		},
@@ -121,7 +121,7 @@
 			"English": "Bruce Lee wouldn't stand a chance against Stan's heroes!",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "بروس لي لن يقف فرصة ضد أبطال ستان!",
 			"Egyptian Arabic Audio": "eca-0971-12.mp3",
 			"Standard Arabic Audio": "msa-0971-12.mp3"
 		}

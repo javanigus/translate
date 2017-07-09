@@ -9,7 +9,7 @@
 			"English": "Soon, the doorbell rang.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "قريبا، رن جرس الباب.",
 			"Egyptian Arabic Audio": "eca-0787-1.mp3",
 			"Standard Arabic Audio": "msa-0787-1.mp3"
 		},
@@ -18,7 +18,7 @@
 			"English": "Mr Martin ran to the door.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ذهب السيد مارتن إلى الباب.",
 			"Egyptian Arabic Audio": "eca-0787-2.mp3",
 			"Standard Arabic Audio": "msa-0787-2.mp3"
 		},
@@ -27,7 +27,7 @@
 			"English": "On his way there, he tripped over a candle.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "في طريقه إلى هناك، تعثر على شمعة.",
 			"Egyptian Arabic Audio": "eca-0787-3.mp3",
 			"Standard Arabic Audio": "msa-0787-3.mp3"
 		},
@@ -36,7 +36,7 @@
 			"English": "The flame landed on a curtain.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هبطت اللهب على الستار.",
 			"Egyptian Arabic Audio": "eca-0787-4.mp3",
 			"Standard Arabic Audio": "msa-0787-4.mp3"
 		},
@@ -45,7 +45,7 @@
 			"English": "The fire grew quickly.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "نما الحريق بسرعة.",
 			"Egyptian Arabic Audio": "eca-0787-5.mp3",
 			"Standard Arabic Audio": "msa-0787-5.mp3"
 		},
@@ -54,7 +54,7 @@
 			"English": "Soon it spread to the carpet.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "سرعان ما انتشرت إلى السجاد.",
 			"Egyptian Arabic Audio": "eca-0787-6.mp3",
 			"Standard Arabic Audio": "msa-0787-6.mp3"
 		},
@@ -63,7 +63,7 @@
 			"English": "Mr.",
 			"Word Count": 1,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "السيد",
 			"Egyptian Arabic Audio": "eca-0787-7.mp3",
 			"Standard Arabic Audio": "msa-0787-7.mp3"
 		},
@@ -72,7 +72,7 @@
 			"English": "Martin ran out of the house.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "مارتن نفد من المنزل.",
 			"Egyptian Arabic Audio": "eca-0787-8.mp3",
 			"Standard Arabic Audio": "msa-0787-8.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "Mrs Martin was definitely surprised.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وكانت السيدة مارتن مفاجأة بالتأكيد.",
 			"Egyptian Arabic Audio": "eca-0787-9.mp3",
 			"Standard Arabic Audio": "msa-0787-9.mp3"
 		}

@@ -9,7 +9,7 @@
 			"English": "He picks up the candy bar.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انه يلتقط الحلوى.",
 			"Egyptian Arabic Audio": "eca-0314-1.mp3",
 			"Standard Arabic Audio": "msa-0314-1.mp3"
 		},
@@ -18,7 +18,7 @@
 			"English": "He reads the label.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يقرأ التسمية.",
 			"Egyptian Arabic Audio": "eca-0314-2.mp3",
 			"Standard Arabic Audio": "msa-0314-2.mp3"
 		},
@@ -27,7 +27,7 @@
 			"English": "The label says Baby Ruth.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يقول الملصق بيبي روث.",
 			"Egyptian Arabic Audio": "eca-0314-3.mp3",
 			"Standard Arabic Audio": "msa-0314-3.mp3"
 		},
@@ -36,7 +36,7 @@
 			"English": "He unwraps the candy bar.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انه أونراسبس الحلوى.",
 			"Egyptian Arabic Audio": "eca-0314-4.mp3",
 			"Standard Arabic Audio": "msa-0314-4.mp3"
 		},
@@ -45,7 +45,7 @@
 			"English": "He throws the wrapper into the trashcan.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يلقي المجمع في سلة المهملات.",
 			"Egyptian Arabic Audio": "eca-0314-5.mp3",
 			"Standard Arabic Audio": "msa-0314-5.mp3"
 		},
@@ -54,7 +54,7 @@
 			"English": "He bites into the candy bar.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انه يعض في الحلوى.",
 			"Egyptian Arabic Audio": "eca-0314-6.mp3",
 			"Standard Arabic Audio": "msa-0314-6.mp3"
 		},
@@ -63,7 +63,7 @@
 			"English": "He chews it.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انه يمضغ.",
 			"Egyptian Arabic Audio": "eca-0314-7.mp3",
 			"Standard Arabic Audio": "msa-0314-7.mp3"
 		},
@@ -72,7 +72,7 @@
 			"English": "He swallows it.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انه يبتلع.",
 			"Egyptian Arabic Audio": "eca-0314-8.mp3",
 			"Standard Arabic Audio": "msa-0314-8.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "He bites into the candy bar again.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انه يعض في الحلوى مرة أخرى.",
 			"Egyptian Arabic Audio": "eca-0314-9.mp3",
 			"Standard Arabic Audio": "msa-0314-9.mp3"
 		},
@@ -90,7 +90,7 @@
 			"English": "It is delicious.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انه لذيذ.",
 			"Egyptian Arabic Audio": "eca-0314-10.mp3",
 			"Standard Arabic Audio": "msa-0314-10.mp3"
 		},
@@ -99,7 +99,7 @@
 			"English": "He loves candy bars.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يحب الحانات الحلوى.",
 			"Egyptian Arabic Audio": "eca-0314-11.mp3",
 			"Standard Arabic Audio": "msa-0314-11.mp3"
 		}

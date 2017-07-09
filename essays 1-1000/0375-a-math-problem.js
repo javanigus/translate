@@ -9,7 +9,7 @@
 			"English": "She reads the math problem.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يقرأ مشكلة الرياضيات.",
 			"Egyptian Arabic Audio": "eca-0375-1.mp3",
 			"Standard Arabic Audio": "msa-0375-1.mp3"
 		},
@@ -18,7 +18,7 @@
 			"English": "\"John has three apples.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "&quot;لدى جون ثلاثة تفاحات.",
 			"Egyptian Arabic Audio": "eca-0375-2.mp3",
 			"Standard Arabic Audio": "msa-0375-2.mp3"
 		},
@@ -27,7 +27,7 @@
 			"English": "He gives one apple to Mary.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يعطي تفاحة واحدة لمريم.",
 			"Egyptian Arabic Audio": "eca-0375-3.mp3",
 			"Standard Arabic Audio": "msa-0375-3.mp3"
 		},
@@ -36,7 +36,7 @@
 			"English": "He gives another apple to Billy.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انه يعطي تفاحة أخرى لبيلي.",
 			"Egyptian Arabic Audio": "eca-0375-4.mp3",
 			"Standard Arabic Audio": "msa-0375-4.mp3"
 		},
@@ -45,7 +45,7 @@
 			"English": "How many apples does John have?\" She thinks.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كم عدد التفاح لا يوحنا؟ &quot;",
 			"Egyptian Arabic Audio": "eca-0375-5.mp3",
 			"Standard Arabic Audio": "msa-0375-5.mp3"
 		},
@@ -54,7 +54,7 @@
 			"English": "Three apples minus two apples is one apple.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ثلاثة تفاح ناقص اثنين من التفاح هو تفاحة واحدة.",
 			"Egyptian Arabic Audio": "eca-0375-6.mp3",
 			"Standard Arabic Audio": "msa-0375-6.mp3"
 		},
@@ -63,7 +63,7 @@
 			"English": "John has one apple.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "جون لديه تفاحة واحدة.",
 			"Egyptian Arabic Audio": "eca-0375-7.mp3",
 			"Standard Arabic Audio": "msa-0375-7.mp3"
 		},
@@ -72,7 +72,7 @@
 			"English": "The answer is one.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "الجواب هو واحد.",
 			"Egyptian Arabic Audio": "eca-0375-8.mp3",
 			"Standard Arabic Audio": "msa-0375-8.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "She shows her answer to the teacher.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وتظهر إجابتها على المعلم.",
 			"Egyptian Arabic Audio": "eca-0375-9.mp3",
 			"Standard Arabic Audio": "msa-0375-9.mp3"
 		},
@@ -90,7 +90,7 @@
 			"English": "Her teacher smiles.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "المعلم يبتسم.",
 			"Egyptian Arabic Audio": "eca-0375-10.mp3",
 			"Standard Arabic Audio": "msa-0375-10.mp3"
 		}

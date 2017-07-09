@@ -9,7 +9,7 @@
 			"English": "\"Well, I don't like it,\" Tony said.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وقال توني &quot;حسنا، أنا لا أحب ذلك&quot;.",
 			"Egyptian Arabic Audio": "eca-1971-1.mp3",
 			"Standard Arabic Audio": "msa-1971-1.mp3"
 		}

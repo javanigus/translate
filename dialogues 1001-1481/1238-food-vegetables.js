@@ -11,7 +11,7 @@
 			"English": "What do you plan on making as a side dish for dinner?",
 			"Word Count": 12,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ما الذي تخططون لصنعه كطبق جانبي لتناول العشاء؟",
 			"Egyptian Arabic Audio": "eca-1238-1.mp3",
 			"Standard Arabic Audio": "msa-1238-1.mp3"
 		},
@@ -21,7 +21,7 @@
 			"English": "I was planning on making some kind of vegetable.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كنت تخطط لصنع نوع من الخضار.",
 			"Egyptian Arabic Audio": "eca-1238-2.mp3",
 			"Standard Arabic Audio": "msa-1238-2.mp3"
 		},
@@ -31,7 +31,7 @@
 			"English": "Do you know what kind?",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هل تعرف أي نوع؟",
 			"Egyptian Arabic Audio": "eca-1238-3.mp3",
 			"Standard Arabic Audio": "msa-1238-3.mp3"
 		},
@@ -41,7 +41,7 @@
 			"English": "What kind of vegetable do you want?",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أي نوع من الخضار تريد؟",
 			"Egyptian Arabic Audio": "eca-1238-4.mp3",
 			"Standard Arabic Audio": "msa-1238-4.mp3"
 		},
@@ -51,7 +51,7 @@
 			"English": "I wouldn't mind eating some corn.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لا مانع من تناول بعض الذرة.",
 			"Egyptian Arabic Audio": "eca-1238-5.mp3",
 			"Standard Arabic Audio": "msa-1238-5.mp3"
 		},
@@ -61,7 +61,7 @@
 			"English": "How do you want it?",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كيف تريد ذلك؟",
 			"Egyptian Arabic Audio": "eca-1238-6.mp3",
 			"Standard Arabic Audio": "msa-1238-6.mp3"
 		},
@@ -71,7 +71,7 @@
 			"English": "What do you mean?",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ماذا تعني؟",
 			"Egyptian Arabic Audio": "eca-1238-7.mp3",
 			"Standard Arabic Audio": "msa-1238-7.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "I can boil it, grill it, or microwave it.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أستطيع أن يغلي ذلك، شواء، أو الميكروويف ذلك.",
 			"Egyptian Arabic Audio": "eca-1238-8.mp3",
 			"Standard Arabic Audio": "msa-1238-8.mp3"
 		},
@@ -91,7 +91,7 @@
 			"English": "You should throw some corn on the grill.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يجب رمي بعض الذرة على الشواية.",
 			"Egyptian Arabic Audio": "eca-1238-9.mp3",
 			"Standard Arabic Audio": "msa-1238-9.mp3"
 		},
@@ -101,7 +101,7 @@
 			"English": "Is that really what you want?",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هل هذا حقا ما تريده؟",
 			"Egyptian Arabic Audio": "eca-1238-10.mp3",
 			"Standard Arabic Audio": "msa-1238-10.mp3"
 		},
@@ -111,7 +111,7 @@
 			"English": "That sounds good.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هذا يبدو جيدا.",
 			"Egyptian Arabic Audio": "eca-1238-11.mp3",
 			"Standard Arabic Audio": "msa-1238-11.mp3"
 		},
@@ -121,7 +121,7 @@
 			"English": "I guess I can do that.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أعتقد أنني يمكن أن تفعل ذلك.",
 			"Egyptian Arabic Audio": "eca-1238-12.mp3",
 			"Standard Arabic Audio": "msa-1238-12.mp3"
 		},
@@ -131,7 +131,7 @@
 			"English": "Are you going to make anything to go with dinner?",
 			"Word Count": 10,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنت ذاهب لجعل أي شيء للذهاب مع العشاء؟",
 			"Egyptian Arabic Audio": "eca-1238-13.mp3",
 			"Standard Arabic Audio": "msa-1238-13.mp3"
 		},
@@ -141,7 +141,7 @@
 			"English": "I may make a vegetable.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنا قد جعل الخضار.",
 			"Egyptian Arabic Audio": "eca-1238-14.mp3",
 			"Standard Arabic Audio": "msa-1238-14.mp3"
 		},
@@ -151,7 +151,7 @@
 			"English": "What vegetable are you going to make?",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ما الخضار أنت ذاهب لجعل؟",
 			"Egyptian Arabic Audio": "eca-1238-15.mp3",
 			"Standard Arabic Audio": "msa-1238-15.mp3"
 		},
@@ -161,7 +161,7 @@
 			"English": "What kind do you like?",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أي نوع تريد؟",
 			"Egyptian Arabic Audio": "eca-1238-16.mp3",
 			"Standard Arabic Audio": "msa-1238-16.mp3"
 		},
@@ -171,7 +171,7 @@
 			"English": "I like corn.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أحب الذرة.",
 			"Egyptian Arabic Audio": "eca-1238-17.mp3",
 			"Standard Arabic Audio": "msa-1238-17.mp3"
 		},
@@ -181,7 +181,7 @@
 			"English": "How would you like me to make it?",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كيف تريد لي لجعله؟",
 			"Egyptian Arabic Audio": "eca-1238-18.mp3",
 			"Standard Arabic Audio": "msa-1238-18.mp3"
 		},
@@ -191,7 +191,7 @@
 			"English": "Excuse me?",
 			"Word Count": 2,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "عفوا؟",
 			"Egyptian Arabic Audio": "eca-1238-19.mp3",
 			"Standard Arabic Audio": "msa-1238-19.mp3"
 		},
@@ -201,7 +201,7 @@
 			"English": "How do you want your corn?",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كيف تريد الذرة؟",
 			"Egyptian Arabic Audio": "eca-1238-20.mp3",
 			"Standard Arabic Audio": "msa-1238-20.mp3"
 		},
@@ -211,7 +211,7 @@
 			"English": "I'd like it grilled.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أود أن المشوية.",
 			"Egyptian Arabic Audio": "eca-1238-21.mp3",
 			"Standard Arabic Audio": "msa-1238-21.mp3"
 		},
@@ -221,7 +221,7 @@
 			"English": "Are you sure that's how you want me to make it?",
 			"Word Count": 11,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هل أنت متأكد من أن هذه هي الطريقة التي تريد مني أن أجعلها؟",
 			"Egyptian Arabic Audio": "eca-1238-22.mp3",
 			"Standard Arabic Audio": "msa-1238-22.mp3"
 		},
@@ -231,7 +231,7 @@
 			"English": "I'd love that.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أحب ذلك.",
 			"Egyptian Arabic Audio": "eca-1238-23.mp3",
 			"Standard Arabic Audio": "msa-1238-23.mp3"
 		},
@@ -241,7 +241,7 @@
 			"English": "That's what I'll do.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هذا ما سأفعله.",
 			"Egyptian Arabic Audio": "eca-1238-24.mp3",
 			"Standard Arabic Audio": "msa-1238-24.mp3"
 		},
@@ -251,7 +251,7 @@
 			"English": "What's the side dish that you're making for dinner?",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ما هو الطبق الجانبي الذي تصنعه لتناول العشاء؟",
 			"Egyptian Arabic Audio": "eca-1238-25.mp3",
 			"Standard Arabic Audio": "msa-1238-25.mp3"
 		},
@@ -261,7 +261,7 @@
 			"English": "I'm not sure. I was thinking of making a vegetable.",
 			"Word Count": 10,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لست متأكد. كنت أفكر في صنع الخضار.",
 			"Egyptian Arabic Audio": "eca-1238-26.mp3",
 			"Standard Arabic Audio": "msa-1238-26.mp3"
 		},
@@ -271,7 +271,7 @@
 			"English": "What kind of vegetable are you thinking about making?",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أي نوع من الخضار تفكر في صنع؟",
 			"Egyptian Arabic Audio": "eca-1238-27.mp3",
 			"Standard Arabic Audio": "msa-1238-27.mp3"
 		},
@@ -281,7 +281,7 @@
 			"English": "Do you know what kind of vegetable you want to eat?",
 			"Word Count": 11,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هل تعرف أي نوع من الخضروات كنت تريد أن تأكل؟",
 			"Egyptian Arabic Audio": "eca-1238-28.mp3",
 			"Standard Arabic Audio": "msa-1238-28.mp3"
 		},
@@ -291,7 +291,7 @@
 			"English": "Why don't you make some corn?",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لماذا لا تجعل بعض الذرة؟",
 			"Egyptian Arabic Audio": "eca-1238-29.mp3",
 			"Standard Arabic Audio": "msa-1238-29.mp3"
 		},
@@ -301,7 +301,7 @@
 			"English": "How would you like the corn?",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كيف تريد الذرة؟",
 			"Egyptian Arabic Audio": "eca-1238-30.mp3",
 			"Standard Arabic Audio": "msa-1238-30.mp3"
 		},
@@ -311,7 +311,7 @@
 			"English": "I don't understand what you mean.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنا لا أفهم ما تقصده.",
 			"Egyptian Arabic Audio": "eca-1238-31.mp3",
 			"Standard Arabic Audio": "msa-1238-31.mp3"
 		},
@@ -321,7 +321,7 @@
 			"English": "Do you want it boiled, grilled, or microwaved?",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هل تريد أن المسلوق، المشوي، أو المايكرويف؟",
 			"Egyptian Arabic Audio": "eca-1238-32.mp3",
 			"Standard Arabic Audio": "msa-1238-32.mp3"
 		},
@@ -331,7 +331,7 @@
 			"English": "Why don't you grill it?",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لماذا لا تشرب ذلك؟",
 			"Egyptian Arabic Audio": "eca-1238-33.mp3",
 			"Standard Arabic Audio": "msa-1238-33.mp3"
 		},
@@ -341,7 +341,7 @@
 			"English": "That's how you want it?",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هذه هي الطريقة التي تريدها؟",
 			"Egyptian Arabic Audio": "eca-1238-34.mp3",
 			"Standard Arabic Audio": "msa-1238-34.mp3"
 		},
@@ -351,7 +351,7 @@
 			"English": "Yes, that sounds delicious.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "نعم، هذا يبدو لذيذ.",
 			"Egyptian Arabic Audio": "eca-1238-35.mp3",
 			"Standard Arabic Audio": "msa-1238-35.mp3"
 		},
@@ -361,7 +361,7 @@
 			"English": "Okay, I'll grill some corn then.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "حسنا، سوف أشوي بعض الذرة ثم.",
 			"Egyptian Arabic Audio": "eca-1238-36.mp3",
 			"Standard Arabic Audio": "msa-1238-36.mp3"
 		}

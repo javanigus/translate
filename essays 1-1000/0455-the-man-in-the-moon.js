@@ -9,7 +9,7 @@
 			"English": "She looked at the moon.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "نظرت إلى القمر.",
 			"Egyptian Arabic Audio": "eca-0455-1.mp3",
 			"Standard Arabic Audio": "msa-0455-1.mp3"
 		},
@@ -18,7 +18,7 @@
 			"English": "It was big.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كان كبيرا.",
 			"Egyptian Arabic Audio": "eca-0455-2.mp3",
 			"Standard Arabic Audio": "msa-0455-2.mp3"
 		},
@@ -27,7 +27,7 @@
 			"English": "It was round.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كانت الجولة.",
 			"Egyptian Arabic Audio": "eca-0455-3.mp3",
 			"Standard Arabic Audio": "msa-0455-3.mp3"
 		},
@@ -36,7 +36,7 @@
 			"English": "It was white.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كان أبيض.",
 			"Egyptian Arabic Audio": "eca-0455-4.mp3",
 			"Standard Arabic Audio": "msa-0455-4.mp3"
 		},
@@ -45,7 +45,7 @@
 			"English": "It was big and round and white.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كان كبيرا ومستديرة والأبيض.",
 			"Egyptian Arabic Audio": "eca-0455-5.mp3",
 			"Standard Arabic Audio": "msa-0455-5.mp3"
 		},
@@ -54,7 +54,7 @@
 			"English": "It was much bigger than all the stars.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كان أكبر بكثير من كل النجوم.",
 			"Egyptian Arabic Audio": "eca-0455-6.mp3",
 			"Standard Arabic Audio": "msa-0455-6.mp3"
 		},
@@ -63,7 +63,7 @@
 			"English": "The stars were little lights.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كانت النجوم أضواء قليلا.",
 			"Egyptian Arabic Audio": "eca-0455-7.mp3",
 			"Standard Arabic Audio": "msa-0455-7.mp3"
 		},
@@ -72,7 +72,7 @@
 			"English": "The moon was a big, bright light.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كان القمر كبيرا، ضوء ساطع.",
 			"Egyptian Arabic Audio": "eca-0455-8.mp3",
 			"Standard Arabic Audio": "msa-0455-8.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "She looked around.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "نظرت حولي.",
 			"Egyptian Arabic Audio": "eca-0455-9.mp3",
 			"Standard Arabic Audio": "msa-0455-9.mp3"
 		},
@@ -90,7 +90,7 @@
 			"English": "She could see other houses.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وقالت إنها يمكن أن نرى منازل أخرى.",
 			"Egyptian Arabic Audio": "eca-0455-10.mp3",
 			"Standard Arabic Audio": "msa-0455-10.mp3"
 		},
@@ -99,7 +99,7 @@
 			"English": "She could see the sidewalk.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يمكن أن ترى الرصيف.",
 			"Egyptian Arabic Audio": "eca-0455-11.mp3",
 			"Standard Arabic Audio": "msa-0455-11.mp3"
 		},
@@ -108,7 +108,7 @@
 			"English": "She could see the street.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يمكن أن ترى الشارع.",
 			"Egyptian Arabic Audio": "eca-0455-12.mp3",
 			"Standard Arabic Audio": "msa-0455-12.mp3"
 		},
@@ -117,7 +117,7 @@
 			"English": "The moon was bright.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كان القمر مشرقا.",
 			"Egyptian Arabic Audio": "eca-0455-13.mp3",
 			"Standard Arabic Audio": "msa-0455-13.mp3"
 		},
@@ -126,7 +126,7 @@
 			"English": "It was not as bright as the sun.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لم تكن مشرقة مثل الشمس.",
 			"Egyptian Arabic Audio": "eca-0455-14.mp3",
 			"Standard Arabic Audio": "msa-0455-14.mp3"
 		},
@@ -135,7 +135,7 @@
 			"English": "But it was much brighter than the stars.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ولكن كان أكثر إشراقا بكثير من النجوم.",
 			"Egyptian Arabic Audio": "eca-0455-15.mp3",
 			"Standard Arabic Audio": "msa-0455-15.mp3"
 		},
@@ -144,7 +144,7 @@
 			"English": "She looked at the moon.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "نظرت إلى القمر.",
 			"Egyptian Arabic Audio": "eca-0455-16.mp3",
 			"Standard Arabic Audio": "msa-0455-16.mp3"
 		},
@@ -153,7 +153,7 @@
 			"English": "Her dad said there is a man in the moon.",
 			"Word Count": 10,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "قال والدها إن هناك رجلا في القمر.",
 			"Egyptian Arabic Audio": "eca-0455-17.mp3",
 			"Standard Arabic Audio": "msa-0455-17.mp3"
 		},
@@ -162,7 +162,7 @@
 			"English": "She looked for the man in the moon.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "بحثت عن الرجل في القمر.",
 			"Egyptian Arabic Audio": "eca-0455-18.mp3",
 			"Standard Arabic Audio": "msa-0455-18.mp3"
 		},
@@ -171,7 +171,7 @@
 			"English": "She looked for his eyes.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وقالت انها تبحث عن عينيه.",
 			"Egyptian Arabic Audio": "eca-0455-19.mp3",
 			"Standard Arabic Audio": "msa-0455-19.mp3"
 		},
@@ -180,7 +180,7 @@
 			"English": "She looked for his nose.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "بحثت عن أنفه.",
 			"Egyptian Arabic Audio": "eca-0455-20.mp3",
 			"Standard Arabic Audio": "msa-0455-20.mp3"
 		},
@@ -189,7 +189,7 @@
 			"English": "She looked for his mouth.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "بحثت عن فمه.",
 			"Egyptian Arabic Audio": "eca-0455-21.mp3",
 			"Standard Arabic Audio": "msa-0455-21.mp3"
 		},
@@ -198,7 +198,7 @@
 			"English": "She did not see the man in the moon.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لم تر الرجل في القمر.",
 			"Egyptian Arabic Audio": "eca-0455-22.mp3",
 			"Standard Arabic Audio": "msa-0455-22.mp3"
 		}

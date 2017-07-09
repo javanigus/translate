@@ -9,7 +9,7 @@
 			"English": "She has very long hair.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لديها شعر طويل جدا.",
 			"Egyptian Arabic Audio": "eca-0623-1.mp3",
 			"Standard Arabic Audio": "msa-0623-1.mp3"
 		},
@@ -18,7 +18,7 @@
 			"English": "It reaches her waist.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "تصل إلى خصرها.",
 			"Egyptian Arabic Audio": "eca-0623-2.mp3",
 			"Standard Arabic Audio": "msa-0623-2.mp3"
 		},
@@ -27,7 +27,7 @@
 			"English": "She goes to the hair salon.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "تذهب إلى صالون الشعر.",
 			"Egyptian Arabic Audio": "eca-0623-3.mp3",
 			"Standard Arabic Audio": "msa-0623-3.mp3"
 		},
@@ -36,7 +36,7 @@
 			"English": "She waits.",
 			"Word Count": 2,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هي تنتظر.",
 			"Egyptian Arabic Audio": "eca-0623-4.mp3",
 			"Standard Arabic Audio": "msa-0623-4.mp3"
 		},
@@ -45,7 +45,7 @@
 			"English": "She reads a magazine.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "تقرأ مجلة.",
 			"Egyptian Arabic Audio": "eca-0623-5.mp3",
 			"Standard Arabic Audio": "msa-0623-5.mp3"
 		},
@@ -54,7 +54,7 @@
 			"English": "The barber calls her name.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "الحلاق يدعو اسمها.",
 			"Egyptian Arabic Audio": "eca-0623-6.mp3",
 			"Standard Arabic Audio": "msa-0623-6.mp3"
 		},
@@ -63,7 +63,7 @@
 			"English": "She sits down.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "تجلس.",
 			"Egyptian Arabic Audio": "eca-0623-7.mp3",
 			"Standard Arabic Audio": "msa-0623-7.mp3"
 		},
@@ -72,7 +72,7 @@
 			"English": "She says she wants her hair to be short.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وتقول إنها تريد أن يكون شعرها قصير.",
 			"Egyptian Arabic Audio": "eca-0623-8.mp3",
 			"Standard Arabic Audio": "msa-0623-8.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "The barber cuts twelve inches off.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "قطع الحلاق اثني عشر بوصة قبالة.",
 			"Egyptian Arabic Audio": "eca-0623-9.mp3",
 			"Standard Arabic Audio": "msa-0623-9.mp3"
 		},
@@ -90,7 +90,7 @@
 			"English": "The barber asks if she likes her haircut.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "الحلاق يسأل عما إذا كانت تحب حلاقة لها.",
 			"Egyptian Arabic Audio": "eca-0623-10.mp3",
 			"Standard Arabic Audio": "msa-0623-10.mp3"
 		},
@@ -99,7 +99,7 @@
 			"English": "She looks in the mirror.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انها تبدو في المرآة.",
 			"Egyptian Arabic Audio": "eca-0623-11.mp3",
 			"Standard Arabic Audio": "msa-0623-11.mp3"
 		},
@@ -108,7 +108,7 @@
 			"English": "She likes it.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انها تحبه.",
 			"Egyptian Arabic Audio": "eca-0623-12.mp3",
 			"Standard Arabic Audio": "msa-0623-12.mp3"
 		}

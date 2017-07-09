@@ -11,7 +11,7 @@
 			"English": "I need a job.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أحتاج وظيفة.",
 			"Egyptian Arabic Audio": "eca-0392-1.mp3",
 			"Standard Arabic Audio": "msa-0392-1.mp3"
 		},
@@ -21,7 +21,7 @@
 			"English": "I thought you had a job.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "اعتقدت أن لديك وظيفة.",
 			"Egyptian Arabic Audio": "eca-0392-2.mp3",
 			"Standard Arabic Audio": "msa-0392-2.mp3"
 		},
@@ -31,7 +31,7 @@
 			"English": "I did.",
 			"Word Count": 2,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "فعلت.",
 			"Egyptian Arabic Audio": "eca-0392-3.mp3",
 			"Standard Arabic Audio": "msa-0392-3.mp3"
 		},
@@ -41,7 +41,7 @@
 			"English": "What happened?",
 			"Word Count": 2,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ماذا حدث؟",
 			"Egyptian Arabic Audio": "eca-0392-4.mp3",
 			"Standard Arabic Audio": "msa-0392-4.mp3"
 		},
@@ -51,7 +51,7 @@
 			"English": "I got laid off.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "حصلت على المسرحين.",
 			"Egyptian Arabic Audio": "eca-0392-5.mp3",
 			"Standard Arabic Audio": "msa-0392-5.mp3"
 		},
@@ -61,7 +61,7 @@
 			"English": "That's terrible! When did it happen?",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هذا مريع! متى حدث ذلك؟",
 			"Egyptian Arabic Audio": "eca-0392-6.mp3",
 			"Standard Arabic Audio": "msa-0392-6.mp3"
 		},
@@ -71,7 +71,7 @@
 			"English": "I got laid off last week.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "حصلت على تسريح الأسبوع الماضي.",
 			"Egyptian Arabic Audio": "eca-0392-7.mp3",
 			"Standard Arabic Audio": "msa-0392-7.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "Just you?",
 			"Word Count": 2,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انت فقط؟",
 			"Egyptian Arabic Audio": "eca-0392-8.mp3",
 			"Standard Arabic Audio": "msa-0392-8.mp3"
 		},
@@ -91,7 +91,7 @@
 			"English": "No, ten of my coworkers got laid off, too.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لا، عشرة من زملائي في العمل حصلت على تسريح، أيضا.",
 			"Egyptian Arabic Audio": "eca-0392-9.mp3",
 			"Standard Arabic Audio": "msa-0392-9.mp3"
 		},
@@ -101,7 +101,7 @@
 			"English": "What are you going to do?",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ماالذي ستفعله؟",
 			"Egyptian Arabic Audio": "eca-0392-10.mp3",
 			"Standard Arabic Audio": "msa-0392-10.mp3"
 		},
@@ -111,7 +111,7 @@
 			"English": "I'm looking in the newspaper for a job.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنا أبحث في الصحيفة عن وظيفة.",
 			"Egyptian Arabic Audio": "eca-0392-11.mp3",
 			"Standard Arabic Audio": "msa-0392-11.mp3"
 		},
@@ -121,7 +121,7 @@
 			"English": "Good luck!",
 			"Word Count": 2,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "حظا طيبا وفقك الله!",
 			"Egyptian Arabic Audio": "eca-0392-12.mp3",
 			"Standard Arabic Audio": "msa-0392-12.mp3"
 		}

@@ -9,7 +9,7 @@
 			"English": "California is in a drought.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كاليفورنيا في حالة جفاف.",
 			"Egyptian Arabic Audio": "eca-1177-1.mp3",
 			"Standard Arabic Audio": "msa-1177-1.mp3"
 		},
@@ -18,7 +18,7 @@
 			"English": "We should save water.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يجب علينا انقاذ المياه.",
 			"Egyptian Arabic Audio": "eca-1177-2.mp3",
 			"Standard Arabic Audio": "msa-1177-2.mp3"
 		},
@@ -27,7 +27,7 @@
 			"English": "Turn off the faucet when you are brushing your teeth.",
 			"Word Count": 10,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أطفئ الحنفية عند تنظيف أسنانك.",
 			"Egyptian Arabic Audio": "eca-1177-3.mp3",
 			"Standard Arabic Audio": "msa-1177-3.mp3"
 		},
@@ -36,7 +36,7 @@
 			"English": "Try to take five-minute showers.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "حاول أن تأخذ خمس دقائق الاستحمام.",
 			"Egyptian Arabic Audio": "eca-1177-4.mp3",
 			"Standard Arabic Audio": "msa-1177-4.mp3"
 		},
@@ -45,7 +45,7 @@
 			"English": "Rake your leaves instead of using a hose.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ارفع أوراقك بدلا من استخدام خرطوم.",
 			"Egyptian Arabic Audio": "eca-1177-5.mp3",
 			"Standard Arabic Audio": "msa-1177-5.mp3"
 		},
@@ -54,7 +54,7 @@
 			"English": "Water your plants early in the morning.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "المياه النباتات الخاصة بك في الصباح الباكر.",
 			"Egyptian Arabic Audio": "eca-1177-6.mp3",
 			"Standard Arabic Audio": "msa-1177-6.mp3"
 		},
@@ -63,7 +63,7 @@
 			"English": "Repair dripping faucets.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "إصلاح الحنفيات يقطر.",
 			"Egyptian Arabic Audio": "eca-1177-7.mp3",
 			"Standard Arabic Audio": "msa-1177-7.mp3"
 		},
@@ -72,7 +72,7 @@
 			"English": "All the droplets add up.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "جميع قطرات تضيف ما يصل.",
 			"Egyptian Arabic Audio": "eca-1177-8.mp3",
 			"Standard Arabic Audio": "msa-1177-8.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "Or at least put a bucket under the faucet.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أو على الأقل وضع دلو تحت صنبور.",
 			"Egyptian Arabic Audio": "eca-1177-9.mp3",
 			"Standard Arabic Audio": "msa-1177-9.mp3"
 		},
@@ -90,7 +90,7 @@
 			"English": "Use that water to water your plants.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "استخدام هذا الماء للمياه النباتات الخاصة بك.",
 			"Egyptian Arabic Audio": "eca-1177-10.mp3",
 			"Standard Arabic Audio": "msa-1177-10.mp3"
 		},
@@ -99,7 +99,7 @@
 			"English": "Make sure your home is leak-free.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "تأكد من أن منزلك غير قابل للتسرب.",
 			"Egyptian Arabic Audio": "eca-1177-11.mp3",
 			"Standard Arabic Audio": "msa-1177-11.mp3"
 		},
@@ -108,7 +108,7 @@
 			"English": "Don't use too much water when washing the dishes.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لا تستخدم الكثير من الماء عند غسل الأطباق.",
 			"Egyptian Arabic Audio": "eca-1177-12.mp3",
 			"Standard Arabic Audio": "msa-1177-12.mp3"
 		},
@@ -117,7 +117,7 @@
 			"English": "Do not flush more than necessary.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لا تقم بتدفق أكثر من اللازم.",
 			"Egyptian Arabic Audio": "eca-1177-13.mp3",
 			"Standard Arabic Audio": "msa-1177-13.mp3"
 		},
@@ -126,7 +126,7 @@
 			"English": "Do not flush paper down the toilet.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لا تقم بتدفق الورق أسفل المرحاض.",
 			"Egyptian Arabic Audio": "eca-1177-14.mp3",
 			"Standard Arabic Audio": "msa-1177-14.mp3"
 		},
@@ -135,7 +135,7 @@
 			"English": "Do not water your streets.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لا ماء الشوارع الخاصة بك.",
 			"Egyptian Arabic Audio": "eca-1177-15.mp3",
 			"Standard Arabic Audio": "msa-1177-15.mp3"
 		},
@@ -144,7 +144,7 @@
 			"English": "Together, we can save water.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "معا، يمكننا توفير المياه.",
 			"Egyptian Arabic Audio": "eca-1177-16.mp3",
 			"Standard Arabic Audio": "msa-1177-16.mp3"
 		}

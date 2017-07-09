@@ -11,7 +11,7 @@
 			"English": "I want to watch a movie.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "اريد ان اشاهد فيلما.",
 			"Egyptian Arabic Audio": "eca-0978-1.mp3",
 			"Standard Arabic Audio": "msa-0978-1.mp3"
 		},
@@ -21,7 +21,7 @@
 			"English": "Nothing good is playing at the theater.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لا شيء جيد يلعب في المسرح.",
 			"Egyptian Arabic Audio": "eca-0978-2.mp3",
 			"Standard Arabic Audio": "msa-0978-2.mp3"
 		},
@@ -31,7 +31,7 @@
 			"English": "That's true. Plus, I don't have much money.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هذا صحيح. بالإضافة إلى ذلك، ليس لدي الكثير من المال.",
 			"Egyptian Arabic Audio": "eca-0978-3.mp3",
 			"Standard Arabic Audio": "msa-0978-3.mp3"
 		},
@@ -41,7 +41,7 @@
 			"English": "Do you have a Netflix account?",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هل لديك حساب نيتفليكس؟",
 			"Egyptian Arabic Audio": "eca-0978-4.mp3",
 			"Standard Arabic Audio": "msa-0978-4.mp3"
 		},
@@ -51,7 +51,7 @@
 			"English": "No, I don't.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لا أنا لا.",
 			"Egyptian Arabic Audio": "eca-0978-5.mp3",
 			"Standard Arabic Audio": "msa-0978-5.mp3"
 		},
@@ -61,7 +61,7 @@
 			"English": "Why don't we go rent a movie?",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لماذا لا نذهب تأجير فيلم؟",
 			"Egyptian Arabic Audio": "eca-0978-6.mp3",
 			"Standard Arabic Audio": "msa-0978-6.mp3"
 		},
@@ -71,7 +71,7 @@
 			"English": "Is it expensive?",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هل هى مكلفة؟",
 			"Egyptian Arabic Audio": "eca-0978-7.mp3",
 			"Standard Arabic Audio": "msa-0978-7.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "No, just a couple of dollars.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لا، مجرد بضعة دولارات.",
 			"Egyptian Arabic Audio": "eca-0978-8.mp3",
 			"Standard Arabic Audio": "msa-0978-8.mp3"
 		},
@@ -91,7 +91,7 @@
 			"English": "We can buy some snacks, too.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يمكننا شراء بعض الوجبات الخفيفة أيضا.",
 			"Egyptian Arabic Audio": "eca-0978-9.mp3",
 			"Standard Arabic Audio": "msa-0978-9.mp3"
 		},
@@ -101,7 +101,7 @@
 			"English": "It will be like a mini trip to the movies.",
 			"Word Count": 10,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وسوف يكون مثل رحلة مصغرة إلى الأفلام.",
 			"Egyptian Arabic Audio": "eca-0978-10.mp3",
 			"Standard Arabic Audio": "msa-0978-10.mp3"
 		},
@@ -111,7 +111,7 @@
 			"English": "That sounds good to me! Let's go.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هذا يبدو جيدا بالنسبة لي! لنذهب.",
 			"Egyptian Arabic Audio": "eca-0978-11.mp3",
 			"Standard Arabic Audio": "msa-0978-11.mp3"
 		},
@@ -121,7 +121,7 @@
 			"English": "I'm right behind you!",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنا على حق خلفك!",
 			"Egyptian Arabic Audio": "eca-0978-12.mp3",
 			"Standard Arabic Audio": "msa-0978-12.mp3"
 		}

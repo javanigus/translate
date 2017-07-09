@@ -9,7 +9,7 @@
 			"English": "She picks up the book.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وقالت انها تلتقط الكتاب.",
 			"Egyptian Arabic Audio": "eca-0309-1.mp3",
 			"Standard Arabic Audio": "msa-0309-1.mp3"
 		},
@@ -18,7 +18,7 @@
 			"English": "It is her favorite book.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هو كتابها المفضل.",
 			"Egyptian Arabic Audio": "eca-0309-2.mp3",
 			"Standard Arabic Audio": "msa-0309-2.mp3"
 		},
@@ -27,7 +27,7 @@
 			"English": "It has a red cover.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لديها غطاء أحمر.",
 			"Egyptian Arabic Audio": "eca-0309-3.mp3",
 			"Standard Arabic Audio": "msa-0309-3.mp3"
 		},
@@ -36,7 +36,7 @@
 			"English": "It has 52 pages.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لديها 52 صفحة.",
 			"Egyptian Arabic Audio": "eca-0309-4.mp3",
 			"Standard Arabic Audio": "msa-0309-4.mp3"
 		},
@@ -45,7 +45,7 @@
 			"English": "It has many pictures.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لديها العديد من الصور.",
 			"Egyptian Arabic Audio": "eca-0309-5.mp3",
 			"Standard Arabic Audio": "msa-0309-5.mp3"
 		},
@@ -54,7 +54,7 @@
 			"English": "It has pictures of many animals.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لديها صور العديد من الحيوانات.",
 			"Egyptian Arabic Audio": "eca-0309-6.mp3",
 			"Standard Arabic Audio": "msa-0309-6.mp3"
 		},
@@ -63,7 +63,7 @@
 			"English": "She likes animals.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "تحب الحيوانات.",
 			"Egyptian Arabic Audio": "eca-0309-7.mp3",
 			"Standard Arabic Audio": "msa-0309-7.mp3"
 		},
@@ -72,7 +72,7 @@
 			"English": "She has two cats.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لديها اثنين من القطط.",
 			"Egyptian Arabic Audio": "eca-0309-8.mp3",
 			"Standard Arabic Audio": "msa-0309-8.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "She likes her cats.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "تحب القطط لها.",
 			"Egyptian Arabic Audio": "eca-0309-9.mp3",
 			"Standard Arabic Audio": "msa-0309-9.mp3"
 		},
@@ -90,7 +90,7 @@
 			"English": "Their names are Fluffy and Muffy.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أسمائهم هي منفوش و مافي.",
 			"Egyptian Arabic Audio": "eca-0309-10.mp3",
 			"Standard Arabic Audio": "msa-0309-10.mp3"
 		},
@@ -99,7 +99,7 @@
 			"English": "She shows them the pictures in the book.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انها تبين لهم الصور في الكتاب.",
 			"Egyptian Arabic Audio": "eca-0309-11.mp3",
 			"Standard Arabic Audio": "msa-0309-11.mp3"
 		}

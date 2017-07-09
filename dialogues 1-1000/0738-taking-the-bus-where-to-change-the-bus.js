@@ -11,7 +11,7 @@
 			"English": "You seem a little lost. Can I be of some assistance?",
 			"Word Count": 11,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يبدو أنك فقدت قليلا. هل يمكنني تقديم بعض المساعدة؟",
 			"Egyptian Arabic Audio": "eca-0738-1.mp3",
 			"Standard Arabic Audio": "msa-0738-1.mp3"
 		},
@@ -21,7 +21,7 @@
 			"English": "That would be nice of you. I just have one question.",
 			"Word Count": 11,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وهذا من شأنه أن يكون لطيفا لك. أنا فقط لدي سؤال واحد.",
 			"Egyptian Arabic Audio": "eca-0738-2.mp3",
 			"Standard Arabic Audio": "msa-0738-2.mp3"
 		},
@@ -31,7 +31,7 @@
 			"English": "You can ask as many as you want.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يمكنك أن تسأل ما تريد.",
 			"Egyptian Arabic Audio": "eca-0738-3.mp3",
 			"Standard Arabic Audio": "msa-0738-3.mp3"
 		},
@@ -41,7 +41,7 @@
 			"English": "I just need to know where to change buses.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنا فقط بحاجة إلى معرفة أين لتغيير الحافلات.",
 			"Egyptian Arabic Audio": "eca-0738-4.mp3",
 			"Standard Arabic Audio": "msa-0738-4.mp3"
 		},
@@ -51,7 +51,7 @@
 			"English": "Well, where are you going? I need to know that.",
 			"Word Count": 10,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "حسنا، إلى أين أنت ذاهب؟ أنا بحاجة إلى معرفة ذلك.",
 			"Egyptian Arabic Audio": "eca-0738-5.mp3",
 			"Standard Arabic Audio": "msa-0738-5.mp3"
 		},
@@ -61,7 +61,7 @@
 			"English": "I'm going to Beverly Hills.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنا ذاهب إلى بيفرلي هيلز.",
 			"Egyptian Arabic Audio": "eca-0738-6.mp3",
 			"Standard Arabic Audio": "msa-0738-6.mp3"
 		},
@@ -71,7 +71,7 @@
 			"English": "In that case, you need to change buses in a few minutes.",
 			"Word Count": 12,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "في هذه الحالة، تحتاج إلى تغيير الحافلات في بضع دقائق.",
 			"Egyptian Arabic Audio": "eca-0738-7.mp3",
 			"Standard Arabic Audio": "msa-0738-7.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "What bus do I need to change to?",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ما الحافلة التي أحتاج إلى تغيير إليها؟",
 			"Egyptian Arabic Audio": "eca-0738-8.mp3",
 			"Standard Arabic Audio": "msa-0738-8.mp3"
 		},
@@ -91,7 +91,7 @@
 			"English": "You're going to get off this one and get on Line 720.",
 			"Word Count": 12,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وأنت تسير على النزول من هذا واحد والحصول على خط 720.",
 			"Egyptian Arabic Audio": "eca-0738-9.mp3",
 			"Standard Arabic Audio": "msa-0738-9.mp3"
 		},
@@ -101,7 +101,7 @@
 			"English": "That bus takes me to Beverly Hills?",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هذه الحافلة تأخذني إلى بيفرلي هيلز؟",
 			"Egyptian Arabic Audio": "eca-0738-10.mp3",
 			"Standard Arabic Audio": "msa-0738-10.mp3"
 		},
@@ -111,7 +111,7 @@
 			"English": "Yes, right in the center of it.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "نعم، والحق في وسط ذلك.",
 			"Egyptian Arabic Audio": "eca-0738-11.mp3",
 			"Standard Arabic Audio": "msa-0738-11.mp3"
 		},
@@ -121,7 +121,7 @@
 			"English": "Where do I change into the 720 bus?",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أين يمكنني تغيير في الحافلة 720؟",
 			"Egyptian Arabic Audio": "eca-0738-12.mp3",
 			"Standard Arabic Audio": "msa-0738-12.mp3"
 		},
@@ -131,7 +131,7 @@
 			"English": "You're going to change on Whittier Avenue.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "سوف تتغير في شارع ويتيه.",
 			"Egyptian Arabic Audio": "eca-0738-13.mp3",
 			"Standard Arabic Audio": "msa-0738-13.mp3"
 		},
@@ -141,7 +141,7 @@
 			"English": "Thank you, sir. You have been so helpful.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "شكرا لك سيدي. لقد كانت مفيدة جدا.",
 			"Egyptian Arabic Audio": "eca-0738-14.mp3",
 			"Standard Arabic Audio": "msa-0738-14.mp3"
 		}

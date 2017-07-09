@@ -9,7 +9,7 @@
 			"English": "He stood in the hall.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وقفت في القاعة.",
 			"Egyptian Arabic Audio": "eca-0731-1.mp3",
 			"Standard Arabic Audio": "msa-0731-1.mp3"
 		},
@@ -18,7 +18,7 @@
 			"English": "He looked around him.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كان يتطلع حوله.",
 			"Egyptian Arabic Audio": "eca-0731-2.mp3",
 			"Standard Arabic Audio": "msa-0731-2.mp3"
 		},
@@ -27,7 +27,7 @@
 			"English": "There were many doors.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كانت هناك أبواب كثيرة.",
 			"Egyptian Arabic Audio": "eca-0731-3.mp3",
 			"Standard Arabic Audio": "msa-0731-3.mp3"
 		},
@@ -36,7 +36,7 @@
 			"English": "He did not know which door was the right door to enter.",
 			"Word Count": 12,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لم يكن يعرف الباب الذي كان الباب الصحيح للدخول.",
 			"Egyptian Arabic Audio": "eca-0731-4.mp3",
 			"Standard Arabic Audio": "msa-0731-4.mp3"
 		},
@@ -45,7 +45,7 @@
 			"English": "He was lost at school.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "فقد في المدرسة.",
 			"Egyptian Arabic Audio": "eca-0731-5.mp3",
 			"Standard Arabic Audio": "msa-0731-5.mp3"
 		},
@@ -54,7 +54,7 @@
 			"English": "It was going to be twelve.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كان سيكون اثني عشر.",
 			"Egyptian Arabic Audio": "eca-0731-6.mp3",
 			"Standard Arabic Audio": "msa-0731-6.mp3"
 		},
@@ -63,7 +63,7 @@
 			"English": "He was going to be late.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كان في طريقه إلى التأخير.",
 			"Egyptian Arabic Audio": "eca-0731-7.mp3",
 			"Standard Arabic Audio": "msa-0731-7.mp3"
 		},
@@ -72,7 +72,7 @@
 			"English": "It was his first day of college.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وكان أول يوم له في الكلية.",
 			"Egyptian Arabic Audio": "eca-0731-8.mp3",
 			"Standard Arabic Audio": "msa-0731-8.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "His class was in Room 190.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وكانت صفته في الغرفة 190.",
 			"Egyptian Arabic Audio": "eca-0731-9.mp3",
 			"Standard Arabic Audio": "msa-0731-9.mp3"
 		},
@@ -90,7 +90,7 @@
 			"English": "He looked at all the doors.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "نظر إلى جميع الأبواب.",
 			"Egyptian Arabic Audio": "eca-0731-10.mp3",
 			"Standard Arabic Audio": "msa-0731-10.mp3"
 		},
@@ -99,7 +99,7 @@
 			"English": "They each had a number, but there were no rooms numbered 190.",
 			"Word Count": 12,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وكان لكل منهم عدد، ولكن لم تكن هناك غرف 190.",
 			"Egyptian Arabic Audio": "eca-0731-11.mp3",
 			"Standard Arabic Audio": "msa-0731-11.mp3"
 		},
@@ -108,7 +108,7 @@
 			"English": "He did not know what to do.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وقال انه لا يعرف ماذا يفعل.",
 			"Egyptian Arabic Audio": "eca-0731-12.mp3",
 			"Standard Arabic Audio": "msa-0731-12.mp3"
 		},
@@ -117,7 +117,7 @@
 			"English": "He asked a stranger: \"Where is Room 190?\" The stranger did not know.",
 			"Word Count": 13,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "سأل شخص غريب: &quot;أين الغرفة 190؟&quot; الغريب لم يعرف.",
 			"Egyptian Arabic Audio": "eca-0731-13.mp3",
 			"Standard Arabic Audio": "msa-0731-13.mp3"
 		},
@@ -126,7 +126,7 @@
 			"English": "He asked another stranger.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "سأل غريب آخر.",
 			"Egyptian Arabic Audio": "eca-0731-14.mp3",
 			"Standard Arabic Audio": "msa-0731-14.mp3"
 		},
@@ -135,7 +135,7 @@
 			"English": "She also did not know.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كما أنها لا تعرف.",
 			"Egyptian Arabic Audio": "eca-0731-15.mp3",
 			"Standard Arabic Audio": "msa-0731-15.mp3"
 		},
@@ -144,7 +144,7 @@
 			"English": "No one knew where Room 190 was.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لم يكن أحد يعرف أين كانت الغرفة 190.",
 			"Egyptian Arabic Audio": "eca-0731-16.mp3",
 			"Standard Arabic Audio": "msa-0731-16.mp3"
 		},
@@ -153,7 +153,7 @@
 			"English": "He checked his notebook, where He wrote down his classroom number.",
 			"Word Count": 11,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "فحص دفاتر ملاحظاته حيث كتب رقم صفه.",
 			"Egyptian Arabic Audio": "eca-0731-17.mp3",
 			"Standard Arabic Audio": "msa-0731-17.mp3"
 		},
@@ -162,7 +162,7 @@
 			"English": "It was not Room 190.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ولم تكن الغرفة 190.",
 			"Egyptian Arabic Audio": "eca-0731-18.mp3",
 			"Standard Arabic Audio": "msa-0731-18.mp3"
 		},
@@ -171,7 +171,7 @@
 			"English": "It was Room 140.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كانت الغرفة 140.",
 			"Egyptian Arabic Audio": "eca-0731-19.mp3",
 			"Standard Arabic Audio": "msa-0731-19.mp3"
 		},
@@ -180,7 +180,7 @@
 			"English": "Room 190 did not exist.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "الغرفة 190 لم تكن موجودة.",
 			"Egyptian Arabic Audio": "eca-0731-20.mp3",
 			"Standard Arabic Audio": "msa-0731-20.mp3"
 		},
@@ -189,7 +189,7 @@
 			"English": "He ran to Room 140.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ركض إلى غرفة 140.",
 			"Egyptian Arabic Audio": "eca-0731-21.mp3",
 			"Standard Arabic Audio": "msa-0731-21.mp3"
 		},
@@ -198,7 +198,7 @@
 			"English": "He was one minute late.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "تأخر دقيقة واحدة.",
 			"Egyptian Arabic Audio": "eca-0731-22.mp3",
 			"Standard Arabic Audio": "msa-0731-22.mp3"
 		}

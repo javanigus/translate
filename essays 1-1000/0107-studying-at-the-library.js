@@ -9,7 +9,7 @@
 			"English": "He is at the library.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وهو في المكتبة.",
 			"Egyptian Arabic Audio": "eca-0107-1.mp3",
 			"Standard Arabic Audio": "msa-0107-1.mp3"
 		},
@@ -18,7 +18,7 @@
 			"English": "There are a lot of people.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هناك الكثير من الناس.",
 			"Egyptian Arabic Audio": "eca-0107-2.mp3",
 			"Standard Arabic Audio": "msa-0107-2.mp3"
 		},
@@ -27,7 +27,7 @@
 			"English": "Everyone is studying for their final exams.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "الجميع يدرسون لامتحاناتهم النهائية.",
 			"Egyptian Arabic Audio": "eca-0107-3.mp3",
 			"Standard Arabic Audio": "msa-0107-3.mp3"
 		},
@@ -36,7 +36,7 @@
 			"English": "He finally finds a seat.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وأخيرا يجد مقعدا.",
 			"Egyptian Arabic Audio": "eca-0107-4.mp3",
 			"Standard Arabic Audio": "msa-0107-4.mp3"
 		},
@@ -45,7 +45,7 @@
 			"English": "He sits down.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يجلس.",
 			"Egyptian Arabic Audio": "eca-0107-5.mp3",
 			"Standard Arabic Audio": "msa-0107-5.mp3"
 		},
@@ -54,7 +54,7 @@
 			"English": "He takes out his book.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انه يأخذ كتابه.",
 			"Egyptian Arabic Audio": "eca-0107-6.mp3",
 			"Standard Arabic Audio": "msa-0107-6.mp3"
 		},
@@ -63,7 +63,7 @@
 			"English": "He takes out a pen.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انه يأخذ القلم.",
 			"Egyptian Arabic Audio": "eca-0107-7.mp3",
 			"Standard Arabic Audio": "msa-0107-7.mp3"
 		},
@@ -72,7 +72,7 @@
 			"English": "He takes out a highlighter.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انه يأخذ من هيغليغتر.",
 			"Egyptian Arabic Audio": "eca-0107-8.mp3",
 			"Standard Arabic Audio": "msa-0107-8.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "He highlights the important parts.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ويسلط الضوء على الأجزاء الهامة.",
 			"Egyptian Arabic Audio": "eca-0107-9.mp3",
 			"Standard Arabic Audio": "msa-0107-9.mp3"
 		},
@@ -90,7 +90,7 @@
 			"English": "Then he takes a study break.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ثم يأخذ استراحة الدراسة.",
 			"Egyptian Arabic Audio": "eca-0107-10.mp3",
 			"Standard Arabic Audio": "msa-0107-10.mp3"
 		}

@@ -9,7 +9,7 @@
 			"English": "Sara is hungry.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "سارة جائع.",
 			"Egyptian Arabic Audio": "eca-0008-1.mp3",
 			"Standard Arabic Audio": "msa-0008-1.mp3"
 		},
@@ -18,7 +18,7 @@
 			"English": "She goes to the kitchen.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "تذهب إلى المطبخ.",
 			"Egyptian Arabic Audio": "eca-0008-2.mp3",
 			"Standard Arabic Audio": "msa-0008-2.mp3"
 		},
@@ -27,7 +27,7 @@
 			"English": "She opens the cabinet.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وهي تفتح مجلس الوزراء.",
 			"Egyptian Arabic Audio": "eca-0008-3.mp3",
 			"Standard Arabic Audio": "msa-0008-3.mp3"
 		},
@@ -36,7 +36,7 @@
 			"English": "There are a lot of snacks.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هناك الكثير من الوجبات الخفيفة.",
 			"Egyptian Arabic Audio": "eca-0008-4.mp3",
 			"Standard Arabic Audio": "msa-0008-4.mp3"
 		},
@@ -45,7 +45,7 @@
 			"English": "The marshmallows are too sweet.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "الخطمي هي حلوة جدا.",
 			"Egyptian Arabic Audio": "eca-0008-5.mp3",
 			"Standard Arabic Audio": "msa-0008-5.mp3"
 		},
@@ -54,7 +54,7 @@
 			"English": "The potato chips are too salty.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "رقائق البطاطس مالحة جدا.",
 			"Egyptian Arabic Audio": "eca-0008-6.mp3",
 			"Standard Arabic Audio": "msa-0008-6.mp3"
 		},
@@ -63,7 +63,7 @@
 			"English": "The ice cream is too watery.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "الآيس كريم هو مائي جدا.",
 			"Egyptian Arabic Audio": "eca-0008-7.mp3",
 			"Standard Arabic Audio": "msa-0008-7.mp3"
 		},
@@ -72,7 +72,7 @@
 			"English": "The kiwis are too sour.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "الكيويون هم حامض جدا.",
 			"Egyptian Arabic Audio": "eca-0008-8.mp3",
 			"Standard Arabic Audio": "msa-0008-8.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "The cereal is too bland.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "الحبوب هي لطيف جدا.",
 			"Egyptian Arabic Audio": "eca-0008-9.mp3",
 			"Standard Arabic Audio": "msa-0008-9.mp3"
 		},
@@ -90,7 +90,7 @@
 			"English": "Her dad comes home.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "والدها يأتي المنزل.",
 			"Egyptian Arabic Audio": "eca-0008-10.mp3",
 			"Standard Arabic Audio": "msa-0008-10.mp3"
 		},
@@ -99,7 +99,7 @@
 			"English": "He gives her crackers.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انه يعطي لها المفرقعات.",
 			"Egyptian Arabic Audio": "eca-0008-11.mp3",
 			"Standard Arabic Audio": "msa-0008-11.mp3"
 		},
@@ -108,7 +108,7 @@
 			"English": "The crackers are perfect.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "المفرقعات مثالية.",
 			"Egyptian Arabic Audio": "eca-0008-12.mp3",
 			"Standard Arabic Audio": "msa-0008-12.mp3"
 		}

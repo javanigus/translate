@@ -11,7 +11,7 @@
 			"English": "Can you explain baseball to me?",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هل يمكنك شرح البيسبول بالنسبة لي؟",
 			"Egyptian Arabic Audio": "eca-0497-1.mp3",
 			"Standard Arabic Audio": "msa-0497-1.mp3"
 		},
@@ -21,7 +21,7 @@
 			"English": "I can try to explain the basics. What do you want to know?",
 			"Word Count": 13,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أستطيع أن أشرح الأساسيات. ماذا تريد ان تعرف؟",
 			"Egyptian Arabic Audio": "eca-0497-2.mp3",
 			"Standard Arabic Audio": "msa-0497-2.mp3"
 		},
@@ -31,7 +31,7 @@
 			"English": "What are strikes?",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ما هي الإضرابات؟",
 			"Egyptian Arabic Audio": "eca-0497-3.mp3",
 			"Standard Arabic Audio": "msa-0497-3.mp3"
 		},
@@ -41,7 +41,7 @@
 			"English": "Every batter has three strikes. When they get three strikes, they are out.",
 			"Word Count": 13,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كل الخليط له ثلاث ضربات. عندما يحصلون على ثلاث ضربات، هم خارج.",
 			"Egyptian Arabic Audio": "eca-0497-4.mp3",
 			"Standard Arabic Audio": "msa-0497-4.mp3"
 		},
@@ -51,7 +51,7 @@
 			"English": "Okay, but what about when the umpire calls a ball?",
 			"Word Count": 10,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "حسنا، ولكن ماذا عن متى دعا الحكم الكرة؟",
 			"Egyptian Arabic Audio": "eca-0497-5.mp3",
 			"Standard Arabic Audio": "msa-0497-5.mp3"
 		},
@@ -61,7 +61,7 @@
 			"English": "Once an umpire calls four balls, then the batter goes to first base.",
 			"Word Count": 13,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "مرة واحدة دعا الحكم أربع كرات، ثم الخليط يذهب إلى القاعدة الأولى.",
 			"Egyptian Arabic Audio": "eca-0497-6.mp3",
 			"Standard Arabic Audio": "msa-0497-6.mp3"
 		},
@@ -71,7 +71,7 @@
 			"English": "What happens when a pitcher hits a batter with the ball?",
 			"Word Count": 11,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ماذا يحدث عندما يضرب جرة الخليط مع الكرة؟",
 			"Egyptian Arabic Audio": "eca-0497-7.mp3",
 			"Standard Arabic Audio": "msa-0497-7.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "The batter goes to first base.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "الخليط يذهب إلى القاعدة الأولى.",
 			"Egyptian Arabic Audio": "eca-0497-8.mp3",
 			"Standard Arabic Audio": "msa-0497-8.mp3"
 		},
@@ -91,7 +91,7 @@
 			"English": "What if someone is on first base?",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ماذا لو كان شخص ما على القاعدة الأولى؟",
 			"Egyptian Arabic Audio": "eca-0497-9.mp3",
 			"Standard Arabic Audio": "msa-0497-9.mp3"
 		},
@@ -101,7 +101,7 @@
 			"English": "Then whoever was on first base goes to second base.",
 			"Word Count": 10,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ثم كل من كان على القاعدة الأولى يذهب إلى القاعدة الثانية.",
 			"Egyptian Arabic Audio": "eca-0497-10.mp3",
 			"Standard Arabic Audio": "msa-0497-10.mp3"
 		},
@@ -111,7 +111,7 @@
 			"English": "Oh, okay. What's a no-hitter?",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "حسنا. ما هو عدم الضرب؟",
 			"Egyptian Arabic Audio": "eca-0497-11.mp3",
 			"Standard Arabic Audio": "msa-0497-11.mp3"
 		},
@@ -121,7 +121,7 @@
 			"English": "A no-hitter is when a team doesn't get a hit throughout the game.",
 			"Word Count": 13,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لا ضارب هو عندما فريق لا يحصل على ضرب طوال المباراة.",
 			"Egyptian Arabic Audio": "eca-0497-12.mp3",
 			"Standard Arabic Audio": "msa-0497-12.mp3"
 		},
@@ -131,7 +131,7 @@
 			"English": "So, that's a good thing for the pitcher?",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لذلك، هذا شيء جيد ل جرة؟",
 			"Egyptian Arabic Audio": "eca-0497-13.mp3",
 			"Standard Arabic Audio": "msa-0497-13.mp3"
 		},
@@ -141,7 +141,7 @@
 			"English": "Yes, because that means he pitched really well.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "نعم، لأن هذا يعني انه ضارية بشكل جيد حقا.",
 			"Egyptian Arabic Audio": "eca-0497-14.mp3",
 			"Standard Arabic Audio": "msa-0497-14.mp3"
 		}

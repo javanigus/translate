@@ -9,7 +9,7 @@
 			"English": "The Wilsons invited the Carters to dinner.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "دعا ويلسونز كارترز لتناول العشاء.",
 			"Egyptian Arabic Audio": "eca-1557-1.mp3",
 			"Standard Arabic Audio": "msa-1557-1.mp3"
 		},
@@ -18,7 +18,7 @@
 			"English": "Mr Carter was Mr.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "السيد كارتر كان السيد",
 			"Egyptian Arabic Audio": "eca-1557-2.mp3",
 			"Standard Arabic Audio": "msa-1557-2.mp3"
 		},
@@ -27,7 +27,7 @@
 			"English": "Wilson's boss.",
 			"Word Count": 2,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "مدرب ويلسون.",
 			"Egyptian Arabic Audio": "eca-1557-3.mp3",
 			"Standard Arabic Audio": "msa-1557-3.mp3"
 		},
@@ -36,7 +36,7 @@
 			"English": "The Wilsons had a one-bedroom apartment.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كان لدى ويلسونس شقة بغرفة نوم واحدة.",
 			"Egyptian Arabic Audio": "eca-1557-4.mp3",
 			"Standard Arabic Audio": "msa-1557-4.mp3"
 		},
@@ -45,7 +45,7 @@
 			"English": "Their sofa was in the living room.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كانت أرائهم في غرفة المعيشة.",
 			"Egyptian Arabic Audio": "eca-1557-5.mp3",
 			"Standard Arabic Audio": "msa-1557-5.mp3"
 		},
@@ -54,7 +54,7 @@
 			"English": "It seated two people.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وجلست شخصين.",
 			"Egyptian Arabic Audio": "eca-1557-6.mp3",
 			"Standard Arabic Audio": "msa-1557-6.mp3"
 		},
@@ -63,7 +63,7 @@
 			"English": "It still looked new.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انها لا تزال تبدو جديدة.",
 			"Egyptian Arabic Audio": "eca-1557-7.mp3",
 			"Standard Arabic Audio": "msa-1557-7.mp3"
 		},
@@ -72,7 +72,7 @@
 			"English": "They protected the sofa with towels.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنها حماية أريكة مع المناشف.",
 			"Egyptian Arabic Audio": "eca-1557-8.mp3",
 			"Standard Arabic Audio": "msa-1557-8.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "They spread the towels on top of the cushions.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انتشروا المناشف على أعلى الوسائد.",
 			"Egyptian Arabic Audio": "eca-1557-9.mp3",
 			"Standard Arabic Audio": "msa-1557-9.mp3"
 		},
@@ -90,7 +90,7 @@
 			"English": "They removed the towels when friends visited.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أزالوا المناشف عندما زار الأصدقاء.",
 			"Egyptian Arabic Audio": "eca-1557-10.mp3",
 			"Standard Arabic Audio": "msa-1557-10.mp3"
 		},
@@ -99,7 +99,7 @@
 			"English": "Mrs Wilson spent the day preparing dinner.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "قضت السيدة ويلسون اليوم إعداد العشاء.",
 			"Egyptian Arabic Audio": "eca-1557-11.mp3",
 			"Standard Arabic Audio": "msa-1557-11.mp3"
 		},
@@ -108,7 +108,7 @@
 			"English": "Mr.",
 			"Word Count": 1,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "السيد",
 			"Egyptian Arabic Audio": "eca-1557-12.mp3",
 			"Standard Arabic Audio": "msa-1557-12.mp3"
 		},
@@ -117,7 +117,7 @@
 			"English": "Wilson spent the day cleaning the apartment.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "قضى ويلسون اليوم تنظيف الشقة.",
 			"Egyptian Arabic Audio": "eca-1557-13.mp3",
 			"Standard Arabic Audio": "msa-1557-13.mp3"
 		},
@@ -126,7 +126,7 @@
 			"English": "He also ran some errands.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ركض أيضا بعض المهمات.",
 			"Egyptian Arabic Audio": "eca-1557-14.mp3",
 			"Standard Arabic Audio": "msa-1557-14.mp3"
 		},
@@ -135,7 +135,7 @@
 			"English": "They were both very busy all day.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كانوا على حد سواء مشغول جدا كل يوم.",
 			"Egyptian Arabic Audio": "eca-1557-15.mp3",
 			"Standard Arabic Audio": "msa-1557-15.mp3"
 		},
@@ -144,7 +144,7 @@
 			"English": "The Carters showed up at 7 p.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وأظهر كارترز في 7 ص.",
 			"Egyptian Arabic Audio": "eca-1557-16.mp3",
 			"Standard Arabic Audio": "msa-1557-16.mp3"
 		},
@@ -153,7 +153,7 @@
 			"English": "m.",
 			"Word Count": 1,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "م.",
 			"Egyptian Arabic Audio": "eca-1557-17.mp3",
 			"Standard Arabic Audio": "msa-1557-17.mp3"
 		},
@@ -162,7 +162,7 @@
 			"English": "Mr.",
 			"Word Count": 1,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "السيد",
 			"Egyptian Arabic Audio": "eca-1557-18.mp3",
 			"Standard Arabic Audio": "msa-1557-18.mp3"
 		},
@@ -171,7 +171,7 @@
 			"English": "Wilson walked them to the sofa.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ويلسون مشى منهم إلى الأريكة.",
 			"Egyptian Arabic Audio": "eca-1557-19.mp3",
 			"Standard Arabic Audio": "msa-1557-19.mp3"
 		},
@@ -180,7 +180,7 @@
 			"English": "\"Have a seat,\" he said.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وقال &quot;لديك مقعد&quot;، وقال.",
 			"Egyptian Arabic Audio": "eca-1557-20.mp3",
 			"Standard Arabic Audio": "msa-1557-20.mp3"
 		},
@@ -189,7 +189,7 @@
 			"English": "\"I'll be right back.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "&quot;سأعود حالا.",
 			"Egyptian Arabic Audio": "eca-1557-21.mp3",
 			"Standard Arabic Audio": "msa-1557-21.mp3"
 		},
@@ -198,7 +198,7 @@
 			"English": "\" He went into the kitchen.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "&quot;ذهب إلى المطبخ.",
 			"Egyptian Arabic Audio": "eca-1557-22.mp3",
 			"Standard Arabic Audio": "msa-1557-22.mp3"
 		},
@@ -207,7 +207,7 @@
 			"English": "When he returned, the Carters were sitting at the dining table.",
 			"Word Count": 11,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "عندما عاد، كان كارتر يجلس على طاولة الطعام.",
 			"Egyptian Arabic Audio": "eca-1557-23.mp3",
 			"Standard Arabic Audio": "msa-1557-23.mp3"
 		},
@@ -216,7 +216,7 @@
 			"English": "That's strange, he thought.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هذا أمر غريب.",
 			"Egyptian Arabic Audio": "eca-1557-24.mp3",
 			"Standard Arabic Audio": "msa-1557-24.mp3"
 		},
@@ -225,7 +225,7 @@
 			"English": "The sofa was much more comfortable than the dining table chairs.",
 			"Word Count": 11,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كانت الأريكة أكثر راحة بكثير من كراسي طاولة الطعام.",
 			"Egyptian Arabic Audio": "eca-1557-25.mp3",
 			"Standard Arabic Audio": "msa-1557-25.mp3"
 		},
@@ -234,7 +234,7 @@
 			"English": "He sat down with the Carters at the dining table.",
 			"Word Count": 10,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "جلس مع كارترز على طاولة الطعام.",
 			"Egyptian Arabic Audio": "eca-1557-26.mp3",
 			"Standard Arabic Audio": "msa-1557-26.mp3"
 		},
@@ -243,7 +243,7 @@
 			"English": "They started talking.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "بدأوا يتحدثون.",
 			"Egyptian Arabic Audio": "eca-1557-27.mp3",
 			"Standard Arabic Audio": "msa-1557-27.mp3"
 		}

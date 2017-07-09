@@ -9,7 +9,7 @@
 			"English": "He wants to pierce his ears.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يريد أن يخترق أذنيه.",
 			"Egyptian Arabic Audio": "eca-0129-1.mp3",
 			"Standard Arabic Audio": "msa-0129-1.mp3"
 		},
@@ -18,7 +18,7 @@
 			"English": "His mom does not want him to.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أمه لا تريد له.",
 			"Egyptian Arabic Audio": "eca-0129-2.mp3",
 			"Standard Arabic Audio": "msa-0129-2.mp3"
 		},
@@ -27,7 +27,7 @@
 			"English": "She thinks boys should not have earrings.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انها تعتقد أن الأولاد لا ينبغي أن يكون الأقراط.",
 			"Egyptian Arabic Audio": "eca-0129-3.mp3",
 			"Standard Arabic Audio": "msa-0129-3.mp3"
 		},
@@ -36,7 +36,7 @@
 			"English": "He tells his mom that it looks good.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يخبر والدته أنها تبدو جيدة.",
 			"Egyptian Arabic Audio": "eca-0129-4.mp3",
 			"Standard Arabic Audio": "msa-0129-4.mp3"
 		},
@@ -45,7 +45,7 @@
 			"English": "He asks his friends what they think.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يسأل أصدقائه ما يفكرون به.",
 			"Egyptian Arabic Audio": "eca-0129-5.mp3",
 			"Standard Arabic Audio": "msa-0129-5.mp3"
 		},
@@ -54,7 +54,7 @@
 			"English": "Some friends say he should do it.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "بعض الأصدقاء يقولون انه يجب ان يفعل ذلك.",
 			"Egyptian Arabic Audio": "eca-0129-6.mp3",
 			"Standard Arabic Audio": "msa-0129-6.mp3"
 		},
@@ -63,7 +63,7 @@
 			"English": "Others say it would look terrible.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ويقول آخرون أنه سيبدو رهيبا.",
 			"Egyptian Arabic Audio": "eca-0129-7.mp3",
 			"Standard Arabic Audio": "msa-0129-7.mp3"
 		},
@@ -72,7 +72,7 @@
 			"English": "He thinks about getting a fake earring.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انه يفكر في الحصول على القرط وهمية.",
 			"Egyptian Arabic Audio": "eca-0129-8.mp3",
 			"Standard Arabic Audio": "msa-0129-8.mp3"
 		}

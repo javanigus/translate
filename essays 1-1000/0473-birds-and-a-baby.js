@@ -9,7 +9,7 @@
 			"English": "The baby was lying on her back.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وكان الطفل ملقى على ظهرها.",
 			"Egyptian Arabic Audio": "eca-0473-1.mp3",
 			"Standard Arabic Audio": "msa-0473-1.mp3"
 		},
@@ -18,7 +18,7 @@
 			"English": "A blue bird flew in through the window.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "طار طائر أزرق من خلال النافذة.",
 			"Egyptian Arabic Audio": "eca-0473-2.mp3",
 			"Standard Arabic Audio": "msa-0473-2.mp3"
 		},
@@ -27,7 +27,7 @@
 			"English": "The blue bird had blue eyes.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كان للطيور الزرقاء عيون زرقاء.",
 			"Egyptian Arabic Audio": "eca-0473-3.mp3",
 			"Standard Arabic Audio": "msa-0473-3.mp3"
 		},
@@ -36,7 +36,7 @@
 			"English": "It sat on the baby's crib.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وجلس على سرير الطفل.",
 			"Egyptian Arabic Audio": "eca-0473-4.mp3",
 			"Standard Arabic Audio": "msa-0473-4.mp3"
 		},
@@ -45,7 +45,7 @@
 			"English": "The bird had a bell around its neck.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وكان الطائر جرس حول عنقه.",
 			"Egyptian Arabic Audio": "eca-0473-5.mp3",
 			"Standard Arabic Audio": "msa-0473-5.mp3"
 		},
@@ -54,7 +54,7 @@
 			"English": "The bell rang.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "رن الجرس.",
 			"Egyptian Arabic Audio": "eca-0473-6.mp3",
 			"Standard Arabic Audio": "msa-0473-6.mp3"
 		},
@@ -63,7 +63,7 @@
 			"English": "The baby smiled.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ابتسم الطفل.",
 			"Egyptian Arabic Audio": "eca-0473-7.mp3",
 			"Standard Arabic Audio": "msa-0473-7.mp3"
 		},
@@ -72,7 +72,7 @@
 			"English": "The baby reached for the bell.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وصل الطفل للجرس.",
 			"Egyptian Arabic Audio": "eca-0473-8.mp3",
 			"Standard Arabic Audio": "msa-0473-8.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "The bird shook its head.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هز الطائر رأسه.",
 			"Egyptian Arabic Audio": "eca-0473-9.mp3",
 			"Standard Arabic Audio": "msa-0473-9.mp3"
 		},
@@ -90,7 +90,7 @@
 			"English": "The bell fell off the bird's neck.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "سقط الجرس من عنق الطائر.",
 			"Egyptian Arabic Audio": "eca-0473-10.mp3",
 			"Standard Arabic Audio": "msa-0473-10.mp3"
 		},
@@ -99,7 +99,7 @@
 			"English": "It fell next to the baby.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "سقطت بجانب الطفل.",
 			"Egyptian Arabic Audio": "eca-0473-11.mp3",
 			"Standard Arabic Audio": "msa-0473-11.mp3"
 		},
@@ -108,7 +108,7 @@
 			"English": "The baby picked up the bell.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "التقط الطفل الجرس.",
 			"Egyptian Arabic Audio": "eca-0473-12.mp3",
 			"Standard Arabic Audio": "msa-0473-12.mp3"
 		},
@@ -117,7 +117,7 @@
 			"English": "The baby rang the bell.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "رن الطفل الجرس.",
 			"Egyptian Arabic Audio": "eca-0473-13.mp3",
 			"Standard Arabic Audio": "msa-0473-13.mp3"
 		},
@@ -126,7 +126,7 @@
 			"English": "Another blue bird flew in through the window.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "طائر آخر أزرق طار من خلال النافذة.",
 			"Egyptian Arabic Audio": "eca-0473-14.mp3",
 			"Standard Arabic Audio": "msa-0473-14.mp3"
 		},
@@ -135,7 +135,7 @@
 			"English": "This blue bird also had blue eyes.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وكان هذا الطيور الزرقاء أيضا عيون زرقاء.",
 			"Egyptian Arabic Audio": "eca-0473-15.mp3",
 			"Standard Arabic Audio": "msa-0473-15.mp3"
 		},
@@ -144,7 +144,7 @@
 			"English": "The baby had brown eyes.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وكان الطفل عيون بني.",
 			"Egyptian Arabic Audio": "eca-0473-16.mp3",
 			"Standard Arabic Audio": "msa-0473-16.mp3"
 		},
@@ -153,7 +153,7 @@
 			"English": "The birds looked at the baby.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "نظرت الطيور إلى الطفل.",
 			"Egyptian Arabic Audio": "eca-0473-17.mp3",
 			"Standard Arabic Audio": "msa-0473-17.mp3"
 		},
@@ -162,7 +162,7 @@
 			"English": "The baby looked at the birds.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "بدا الطفل في الطيور.",
 			"Egyptian Arabic Audio": "eca-0473-18.mp3",
 			"Standard Arabic Audio": "msa-0473-18.mp3"
 		},
@@ -171,7 +171,7 @@
 			"English": "The baby rang the bell again.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "رن الطفل الجرس مرة أخرى.",
 			"Egyptian Arabic Audio": "eca-0473-19.mp3",
 			"Standard Arabic Audio": "msa-0473-19.mp3"
 		},
@@ -180,7 +180,7 @@
 			"English": "Both birds flew away.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "طار كل من الطيور بعيدا.",
 			"Egyptian Arabic Audio": "eca-0473-20.mp3",
 			"Standard Arabic Audio": "msa-0473-20.mp3"
 		},
@@ -189,7 +189,7 @@
 			"English": "The baby started to cry.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "بدأ الطفل في البكاء.",
 			"Egyptian Arabic Audio": "eca-0473-21.mp3",
 			"Standard Arabic Audio": "msa-0473-21.mp3"
 		},
@@ -198,7 +198,7 @@
 			"English": "His mama came into the room.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "جاء ماما إلى الغرفة.",
 			"Egyptian Arabic Audio": "eca-0473-22.mp3",
 			"Standard Arabic Audio": "msa-0473-22.mp3"
 		},
@@ -207,7 +207,7 @@
 			"English": "The baby smiled.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ابتسم الطفل.",
 			"Egyptian Arabic Audio": "eca-0473-23.mp3",
 			"Standard Arabic Audio": "msa-0473-23.mp3"
 		},
@@ -216,7 +216,7 @@
 			"English": "Mama saw the bell.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "رأى ماما الجرس.",
 			"Egyptian Arabic Audio": "eca-0473-24.mp3",
 			"Standard Arabic Audio": "msa-0473-24.mp3"
 		},
@@ -225,7 +225,7 @@
 			"English": "She asked the baby where the bell came from.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "سألت الطفل الذي جاء منه الجرس.",
 			"Egyptian Arabic Audio": "eca-0473-25.mp3",
 			"Standard Arabic Audio": "msa-0473-25.mp3"
 		},
@@ -234,7 +234,7 @@
 			"English": "The baby pointed at the window.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وأشار الطفل في النافذة.",
 			"Egyptian Arabic Audio": "eca-0473-26.mp3",
 			"Standard Arabic Audio": "msa-0473-26.mp3"
 		}

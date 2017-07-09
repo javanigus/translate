@@ -9,7 +9,7 @@
 			"English": "Kelly and Julie are best friends.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كيلي وجولي أفضل الأصدقاء.",
 			"Egyptian Arabic Audio": "eca-0121-1.mp3",
 			"Standard Arabic Audio": "msa-0121-1.mp3"
 		},
@@ -18,7 +18,7 @@
 			"English": "They do everything together.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يفعلون كل شيء معا.",
 			"Egyptian Arabic Audio": "eca-0121-2.mp3",
 			"Standard Arabic Audio": "msa-0121-2.mp3"
 		},
@@ -27,7 +27,7 @@
 			"English": "They walk to school together every morning.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يسيرون إلى المدرسة معا كل صباح.",
 			"Egyptian Arabic Audio": "eca-0121-3.mp3",
 			"Standard Arabic Audio": "msa-0121-3.mp3"
 		},
@@ -36,7 +36,7 @@
 			"English": "They eat breakfast together.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يأكلون وجبة الإفطار معا.",
 			"Egyptian Arabic Audio": "eca-0121-4.mp3",
 			"Standard Arabic Audio": "msa-0121-4.mp3"
 		},
@@ -45,7 +45,7 @@
 			"English": "Kelly eats bacon and eggs.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كيلي يأكل لحم الخنزير المقدد والبيض.",
 			"Egyptian Arabic Audio": "eca-0121-5.mp3",
 			"Standard Arabic Audio": "msa-0121-5.mp3"
 		},
@@ -54,7 +54,7 @@
 			"English": "Julie eats cereal.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "جولي يأكل الحبوب.",
 			"Egyptian Arabic Audio": "eca-0121-6.mp3",
 			"Standard Arabic Audio": "msa-0121-6.mp3"
 		},
@@ -63,7 +63,7 @@
 			"English": "They take the same classes.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يأخذون نفس الصفوف.",
 			"Egyptian Arabic Audio": "eca-0121-7.mp3",
 			"Standard Arabic Audio": "msa-0121-7.mp3"
 		},
@@ -72,7 +72,7 @@
 			"English": "Kelly is good at math.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كيلي جيدة في الرياضيات.",
 			"Egyptian Arabic Audio": "eca-0121-8.mp3",
 			"Standard Arabic Audio": "msa-0121-8.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "Julie is good at English.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "جولي جيدة في اللغة الإنجليزية.",
 			"Egyptian Arabic Audio": "eca-0121-9.mp3",
 			"Standard Arabic Audio": "msa-0121-9.mp3"
 		},
@@ -90,7 +90,7 @@
 			"English": "They help each other out.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنها تساعد بعضها البعض.",
 			"Egyptian Arabic Audio": "eca-0121-10.mp3",
 			"Standard Arabic Audio": "msa-0121-10.mp3"
 		},
@@ -99,7 +99,7 @@
 			"English": "They plan to go to the same college.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انهم يخططون للذهاب الى نفس الكلية.",
 			"Egyptian Arabic Audio": "eca-0121-11.mp3",
 			"Standard Arabic Audio": "msa-0121-11.mp3"
 		}

@@ -9,7 +9,7 @@
 			"English": "He turns on the hot water faucet.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انه يتحول على صنبور الماء الساخن.",
 			"Egyptian Arabic Audio": "eca-1139-1.mp3",
 			"Standard Arabic Audio": "msa-1139-1.mp3"
 		},
@@ -18,7 +18,7 @@
 			"English": "He turns on the cold water faucet.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يتحول على صنبور الماء البارد.",
 			"Egyptian Arabic Audio": "eca-1139-2.mp3",
 			"Standard Arabic Audio": "msa-1139-2.mp3"
 		},
@@ -27,7 +27,7 @@
 			"English": "He tests the water temperature.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يختبر درجة حرارة الماء.",
 			"Egyptian Arabic Audio": "eca-1139-3.mp3",
 			"Standard Arabic Audio": "msa-1139-3.mp3"
 		},
@@ -36,7 +36,7 @@
 			"English": "The water is the right temperature.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "الماء هو درجة الحرارة المناسبة.",
 			"Egyptian Arabic Audio": "eca-1139-4.mp3",
 			"Standard Arabic Audio": "msa-1139-4.mp3"
 		},
@@ -45,7 +45,7 @@
 			"English": "He pulls open the shower curtain.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انه سحب فتح الستار الدش.",
 			"Egyptian Arabic Audio": "eca-1139-5.mp3",
 			"Standard Arabic Audio": "msa-1139-5.mp3"
 		},
@@ -54,7 +54,7 @@
 			"English": "He steps into the tub.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انه خطوات في الحوض.",
 			"Egyptian Arabic Audio": "eca-1139-6.mp3",
 			"Standard Arabic Audio": "msa-1139-6.mp3"
 		},
@@ -63,7 +63,7 @@
 			"English": "He pulls the curtain closed.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انه سحب الستار مغلقة.",
 			"Egyptian Arabic Audio": "eca-1139-7.mp3",
 			"Standard Arabic Audio": "msa-1139-7.mp3"
 		},
@@ -72,7 +72,7 @@
 			"English": "He grabs a bar of soap.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انه يمسك شريط من الصابون.",
 			"Egyptian Arabic Audio": "eca-1139-8.mp3",
 			"Standard Arabic Audio": "msa-1139-8.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "He rubs the soap between his hands.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يركب الصابون بين يديه.",
 			"Egyptian Arabic Audio": "eca-1139-9.mp3",
 			"Standard Arabic Audio": "msa-1139-9.mp3"
 		}

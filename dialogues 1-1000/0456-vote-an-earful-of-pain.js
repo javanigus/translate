@@ -11,7 +11,7 @@
 			"English": "My ear is killing me.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أذني تقتلني.",
 			"Egyptian Arabic Audio": "eca-0456-1.mp3",
 			"Standard Arabic Audio": "msa-0456-1.mp3"
 		},
@@ -21,7 +21,7 @@
 			"English": "What's the matter?",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ما الأمر؟",
 			"Egyptian Arabic Audio": "eca-0456-2.mp3",
 			"Standard Arabic Audio": "msa-0456-2.mp3"
 		},
@@ -31,7 +31,7 @@
 			"English": "I was on a plane.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كنت على متن طائرة.",
 			"Egyptian Arabic Audio": "eca-0456-3.mp3",
 			"Standard Arabic Audio": "msa-0456-3.mp3"
 		},
@@ -41,7 +41,7 @@
 			"English": "So?",
 			"Word Count": 1,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وبالتالي؟",
 			"Egyptian Arabic Audio": "eca-0456-4.mp3",
 			"Standard Arabic Audio": "msa-0456-4.mp3"
 		},
@@ -51,7 +51,7 @@
 			"English": "So, every time the plane goes up, my ear starts to hurt.",
 			"Word Count": 12,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لذلك، في كل مرة الطائرة ترتفع، أذني يبدأ يصب.",
 			"Egyptian Arabic Audio": "eca-0456-5.mp3",
 			"Standard Arabic Audio": "msa-0456-5.mp3"
 		},
@@ -61,7 +61,7 @@
 			"English": "That's no good.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هذا ليس جيدا.",
 			"Egyptian Arabic Audio": "eca-0456-6.mp3",
 			"Standard Arabic Audio": "msa-0456-6.mp3"
 		},
@@ -71,7 +71,7 @@
 			"English": "Sometimes the pain goes away, and sometimes it doesn't.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أحيانا يذهب الألم بعيدا، وأحيانا لا يفعل ذلك.",
 			"Egyptian Arabic Audio": "eca-0456-7.mp3",
 			"Standard Arabic Audio": "msa-0456-7.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "Have you seen a doctor?",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هل شاهدت الطبيب؟",
 			"Egyptian Arabic Audio": "eca-0456-8.mp3",
 			"Standard Arabic Audio": "msa-0456-8.mp3"
 		},
@@ -91,7 +91,7 @@
 			"English": "I've been to two doctors.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لقد كنت طبيبين.",
 			"Egyptian Arabic Audio": "eca-0456-9.mp3",
 			"Standard Arabic Audio": "msa-0456-9.mp3"
 		},
@@ -101,7 +101,7 @@
 			"English": "And they couldn't fix your problem?",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ولم يتمكنوا من حل مشكلتك؟",
 			"Egyptian Arabic Audio": "eca-0456-10.mp3",
 			"Standard Arabic Audio": "msa-0456-10.mp3"
 		},
@@ -111,7 +111,7 @@
 			"English": "They both said I have to live with it.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وقالوا إن علي أن أعيش معها.",
 			"Egyptian Arabic Audio": "eca-0456-11.mp3",
 			"Standard Arabic Audio": "msa-0456-11.mp3"
 		},
@@ -121,7 +121,7 @@
 			"English": "Or you can stay off planes.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أو يمكنك البقاء خارج الطائرات.",
 			"Egyptian Arabic Audio": "eca-0456-12.mp3",
 			"Standard Arabic Audio": "msa-0456-12.mp3"
 		}

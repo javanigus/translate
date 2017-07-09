@@ -9,7 +9,7 @@
 			"English": "Joe went to the doctor.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ذهب جو إلى الطبيب.",
 			"Egyptian Arabic Audio": "eca-1416-1.mp3",
 			"Standard Arabic Audio": "msa-1416-1.mp3"
 		},
@@ -18,7 +18,7 @@
 			"English": "He had red bites all over his body.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كان لدغات حمراء في جميع أنحاء جسده.",
 			"Egyptian Arabic Audio": "eca-1416-2.mp3",
 			"Standard Arabic Audio": "msa-1416-2.mp3"
 		},
@@ -27,7 +27,7 @@
 			"English": "He had red bites on his face.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كان لدغات حمراء على وجهه.",
 			"Egyptian Arabic Audio": "eca-1416-3.mp3",
 			"Standard Arabic Audio": "msa-1416-3.mp3"
 		},
@@ -36,7 +36,7 @@
 			"English": "He had red bites on his chest.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كان لدغات حمراء على صدره.",
 			"Egyptian Arabic Audio": "eca-1416-4.mp3",
 			"Standard Arabic Audio": "msa-1416-4.mp3"
 		},
@@ -45,7 +45,7 @@
 			"English": "He had red bites on his back.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كان لدغات حمراء على ظهره.",
 			"Egyptian Arabic Audio": "eca-1416-5.mp3",
 			"Standard Arabic Audio": "msa-1416-5.mp3"
 		},
@@ -54,7 +54,7 @@
 			"English": "He had red bites on his legs.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كان لدغات حمراء على ساقيه.",
 			"Egyptian Arabic Audio": "eca-1416-6.mp3",
 			"Standard Arabic Audio": "msa-1416-6.mp3"
 		},
@@ -63,7 +63,7 @@
 			"English": "But he didn't have red bites on his feet or hands.",
 			"Word Count": 11,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لكنه لم يكن لديه لدغات حمراء على قدميه أو اليدين.",
 			"Egyptian Arabic Audio": "eca-1416-7.mp3",
 			"Standard Arabic Audio": "msa-1416-7.mp3"
 		},
@@ -72,7 +72,7 @@
 			"English": "\"Why don't you have red bites on your feet? Why don't you have red bites on your hands?\" Dr.",
 			"Word Count": 19,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "&quot;لماذا لا يكون لديك لدغات حمراء على قدميك لماذا لم يكن لديك لدغات حمراء على يديك؟&quot; الدكتور.",
 			"Egyptian Arabic Audio": "eca-1416-8.mp3",
 			"Standard Arabic Audio": "msa-1416-8.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "Brown asked.",
 			"Word Count": 2,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "سأل براون.",
 			"Egyptian Arabic Audio": "eca-1416-9.mp3",
 			"Standard Arabic Audio": "msa-1416-9.mp3"
 		},
@@ -90,7 +90,7 @@
 			"English": "\"I don't know.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "&quot;انا لا اعرف.",
 			"Egyptian Arabic Audio": "eca-1416-10.mp3",
 			"Standard Arabic Audio": "msa-1416-10.mp3"
 		},
@@ -99,7 +99,7 @@
 			"English": "I am the patient.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنا المريض.",
 			"Egyptian Arabic Audio": "eca-1416-11.mp3",
 			"Standard Arabic Audio": "msa-1416-11.mp3"
 		},
@@ -108,7 +108,7 @@
 			"English": "You are the doctor.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنت الطبيب.",
 			"Egyptian Arabic Audio": "eca-1416-12.mp3",
 			"Standard Arabic Audio": "msa-1416-12.mp3"
 		},
@@ -117,7 +117,7 @@
 			"English": "Why do I have red bites all over my body?\" asked Joe.",
 			"Word Count": 12,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لماذا لدي لدغات حمراء في جميع أنحاء جسدي؟ &quot;سأل جو.",
 			"Egyptian Arabic Audio": "eca-1416-13.mp3",
 			"Standard Arabic Audio": "msa-1416-13.mp3"
 		},
@@ -126,7 +126,7 @@
 			"English": "Dr.",
 			"Word Count": 1,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "الدكتور.",
 			"Egyptian Arabic Audio": "eca-1416-14.mp3",
 			"Standard Arabic Audio": "msa-1416-14.mp3"
 		},
@@ -135,7 +135,7 @@
 			"English": "Brown said Joe had fleas.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وقال براون أن جو كان لديه البراغيث.",
 			"Egyptian Arabic Audio": "eca-1416-15.mp3",
 			"Standard Arabic Audio": "msa-1416-15.mp3"
 		},
@@ -144,7 +144,7 @@
 			"English": "\"You have fleas,\" Dr.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "&quot;لديك البراغيث&quot;، الدكتور",
 			"Egyptian Arabic Audio": "eca-1416-16.mp3",
 			"Standard Arabic Audio": "msa-1416-16.mp3"
 		},
@@ -153,7 +153,7 @@
 			"English": "Brown said.",
 			"Word Count": 2,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": ".",
 			"Egyptian Arabic Audio": "eca-1416-17.mp3",
 			"Standard Arabic Audio": "msa-1416-17.mp3"
 		},
@@ -162,7 +162,7 @@
 			"English": "\"Do you have a dog?\" Joe said he didn't have a dog.",
 			"Word Count": 12,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "&quot;هل لديك كلب؟&quot; وقال جو انه لم يكن لديك كلب.",
 			"Egyptian Arabic Audio": "eca-1416-18.mp3",
 			"Standard Arabic Audio": "msa-1416-18.mp3"
 		},
@@ -171,7 +171,7 @@
 			"English": "\"Then get a dog,\" said Dr.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "&quot;ثم الحصول على كلب&quot;، وقال الدكتور",
 			"Egyptian Arabic Audio": "eca-1416-19.mp3",
 			"Standard Arabic Audio": "msa-1416-19.mp3"
 		},
@@ -180,7 +180,7 @@
 			"English": "Brown.",
 			"Word Count": 1,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "بنى.",
 			"Egyptian Arabic Audio": "eca-1416-20.mp3",
 			"Standard Arabic Audio": "msa-1416-20.mp3"
 		},
@@ -189,7 +189,7 @@
 			"English": "\"Why should I get a dog?\" Joe asked.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "&quot;لماذا يجب أن أحصل على كلب؟&quot; سأل جو.",
 			"Egyptian Arabic Audio": "eca-1416-21.mp3",
 			"Standard Arabic Audio": "msa-1416-21.mp3"
 		},
@@ -198,7 +198,7 @@
 			"English": "\"Because then the fleas will bite the dog instead of you,\" said Dr.",
 			"Word Count": 13,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "&quot;لأن ثم البراغيث سوف يعض الكلب بدلا منك&quot;، وقال الدكتور",
 			"Egyptian Arabic Audio": "eca-1416-22.mp3",
 			"Standard Arabic Audio": "msa-1416-22.mp3"
 		},
@@ -207,7 +207,7 @@
 			"English": "Brown.",
 			"Word Count": 1,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "بنى.",
 			"Egyptian Arabic Audio": "eca-1416-23.mp3",
 			"Standard Arabic Audio": "msa-1416-23.mp3"
 		}

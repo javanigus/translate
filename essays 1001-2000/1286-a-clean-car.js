@@ -9,7 +9,7 @@
 			"English": "He had a beautiful car.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كان لديه سيارة جميلة.",
 			"Egyptian Arabic Audio": "eca-1286-1.mp3",
 			"Standard Arabic Audio": "msa-1286-1.mp3"
 		},
@@ -18,7 +18,7 @@
 			"English": "It was a Cadillac.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كان كاديلاك.",
 			"Egyptian Arabic Audio": "eca-1286-2.mp3",
 			"Standard Arabic Audio": "msa-1286-2.mp3"
 		},
@@ -27,7 +27,7 @@
 			"English": "It was a 1993 Cadillac.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كان كاديلاك عام 1993.",
 			"Egyptian Arabic Audio": "eca-1286-3.mp3",
 			"Standard Arabic Audio": "msa-1286-3.mp3"
 		},
@@ -36,7 +36,7 @@
 			"English": "It was a four-door Cadillac.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كان كاديلاك من أربعة أبواب.",
 			"Egyptian Arabic Audio": "eca-1286-4.mp3",
 			"Standard Arabic Audio": "msa-1286-4.mp3"
 		},
@@ -45,7 +45,7 @@
 			"English": "It was light brown.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كان البني الفاتح.",
 			"Egyptian Arabic Audio": "eca-1286-5.mp3",
 			"Standard Arabic Audio": "msa-1286-5.mp3"
 		},
@@ -54,7 +54,7 @@
 			"English": "It had a big engine.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كان لديه محرك كبير.",
 			"Egyptian Arabic Audio": "eca-1286-6.mp3",
 			"Standard Arabic Audio": "msa-1286-6.mp3"
 		},
@@ -63,7 +63,7 @@
 			"English": "The big engine didn't leak oil.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "المحرك الكبير لم تسرب النفط.",
 			"Egyptian Arabic Audio": "eca-1286-7.mp3",
 			"Standard Arabic Audio": "msa-1286-7.mp3"
 		},
@@ -72,7 +72,7 @@
 			"English": "The big engine didn't leak water.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "المحرك الكبير لم تسرب المياه.",
 			"Egyptian Arabic Audio": "eca-1286-8.mp3",
 			"Standard Arabic Audio": "msa-1286-8.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "He drove his car only five miles a day.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "قاد سيارته فقط خمسة أميال في اليوم.",
 			"Egyptian Arabic Audio": "eca-1286-9.mp3",
 			"Standard Arabic Audio": "msa-1286-9.mp3"
 		},
@@ -90,7 +90,7 @@
 			"English": "He took good care of his car.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أخذ العناية الجيدة لسيارته.",
 			"Egyptian Arabic Audio": "eca-1286-10.mp3",
 			"Standard Arabic Audio": "msa-1286-10.mp3"
 		},
@@ -99,7 +99,7 @@
 			"English": "He washed it every week.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "غسلها كل أسبوع.",
 			"Egyptian Arabic Audio": "eca-1286-11.mp3",
 			"Standard Arabic Audio": "msa-1286-11.mp3"
 		},
@@ -108,7 +108,7 @@
 			"English": "He washed it by himself.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "غسلها بنفسه.",
 			"Egyptian Arabic Audio": "eca-1286-12.mp3",
 			"Standard Arabic Audio": "msa-1286-12.mp3"
 		},
@@ -117,7 +117,7 @@
 			"English": "He washed it with dishwashing soap and water.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "غسلها مع صابون غسل الصحون والماء.",
 			"Egyptian Arabic Audio": "eca-1286-13.mp3",
 			"Standard Arabic Audio": "msa-1286-13.mp3"
 		},
@@ -126,7 +126,7 @@
 			"English": "He dried it with paper towels.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "جففه بمناشف ورقية.",
 			"Egyptian Arabic Audio": "eca-1286-14.mp3",
 			"Standard Arabic Audio": "msa-1286-14.mp3"
 		},
@@ -135,7 +135,7 @@
 			"English": "He vacuumed inside the car every week.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انه فراغ داخل السيارة كل أسبوع.",
 			"Egyptian Arabic Audio": "eca-1286-15.mp3",
 			"Standard Arabic Audio": "msa-1286-15.mp3"
 		},
@@ -144,7 +144,7 @@
 			"English": "He vacuumed it with a small vacuum cleaner.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انه فراغها مع مكنسة كهربائية صغيرة.",
 			"Egyptian Arabic Audio": "eca-1286-16.mp3",
 			"Standard Arabic Audio": "msa-1286-16.mp3"
 		},
@@ -153,7 +153,7 @@
 			"English": "The outside of his car was clean.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كان خارج سيارته نظيفة.",
 			"Egyptian Arabic Audio": "eca-1286-17.mp3",
 			"Standard Arabic Audio": "msa-1286-17.mp3"
 		},
@@ -162,7 +162,7 @@
 			"English": "The inside of his car was clean.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كان داخل سيارته نظيفا.",
 			"Egyptian Arabic Audio": "eca-1286-18.mp3",
 			"Standard Arabic Audio": "msa-1286-18.mp3"
 		},
@@ -171,7 +171,7 @@
 			"English": "He never ate anything inside his car.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لم يأكل أبدا أي شيء داخل سيارته.",
 			"Egyptian Arabic Audio": "eca-1286-19.mp3",
 			"Standard Arabic Audio": "msa-1286-19.mp3"
 		},
@@ -180,7 +180,7 @@
 			"English": "He never drank anything inside his car.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لم يشرب أي شيء داخل سيارته.",
 			"Egyptian Arabic Audio": "eca-1286-20.mp3",
 			"Standard Arabic Audio": "msa-1286-20.mp3"
 		}

@@ -11,7 +11,7 @@
 			"English": "There's something wrong with my right hand.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هناك شيء خاطئ مع يدي اليمنى.",
 			"Egyptian Arabic Audio": "eca-0458-1.mp3",
 			"Standard Arabic Audio": "msa-0458-1.mp3"
 		},
@@ -21,7 +21,7 @@
 			"English": "What's wrong with it?",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ما الخطأ فى ذلك؟",
 			"Egyptian Arabic Audio": "eca-0458-2.mp3",
 			"Standard Arabic Audio": "msa-0458-2.mp3"
 		},
@@ -31,7 +31,7 @@
 			"English": "It aches most of the time.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انها أشع أكثر من مرة.",
 			"Egyptian Arabic Audio": "eca-0458-3.mp3",
 			"Standard Arabic Audio": "msa-0458-3.mp3"
 		},
@@ -41,7 +41,7 @@
 			"English": "What do you think it is?",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "برأيك ما هذا؟",
 			"Egyptian Arabic Audio": "eca-0458-4.mp3",
 			"Standard Arabic Audio": "msa-0458-4.mp3"
 		},
@@ -51,7 +51,7 @@
 			"English": "I don't know. I think it's old age.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انا لا اعرف. أعتقد أنه الشيخوخة.",
 			"Egyptian Arabic Audio": "eca-0458-5.mp3",
 			"Standard Arabic Audio": "msa-0458-5.mp3"
 		},
@@ -61,7 +61,7 @@
 			"English": "If it's old age, why don't both of your hands hurt?",
 			"Word Count": 11,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "إذا كان الشيخوخة، لماذا لا يضر كل من يديك؟",
 			"Egyptian Arabic Audio": "eca-0458-6.mp3",
 			"Standard Arabic Audio": "msa-0458-6.mp3"
 		},
@@ -71,7 +71,7 @@
 			"English": "That's a good question. Maybe it's not old age.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هذا سؤال جيد. ربما انها ليست الشيخوخة.",
 			"Egyptian Arabic Audio": "eca-0458-7.mp3",
 			"Standard Arabic Audio": "msa-0458-7.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "Are you right-handed?",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هل أنت على حق؟",
 			"Egyptian Arabic Audio": "eca-0458-8.mp3",
 			"Standard Arabic Audio": "msa-0458-8.mp3"
 		},
@@ -91,7 +91,7 @@
 			"English": "Yes. All my life.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "نعم فعلا. كل حياتي.",
 			"Egyptian Arabic Audio": "eca-0458-9.mp3",
 			"Standard Arabic Audio": "msa-0458-9.mp3"
 		},
@@ -101,7 +101,7 @@
 			"English": "You're wearing out your right hand. Stop using it so much.",
 			"Word Count": 11,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كنت ترتدي يدك اليمنى. التوقف عن استخدامه كثيرا.",
 			"Egyptian Arabic Audio": "eca-0458-10.mp3",
 			"Standard Arabic Audio": "msa-0458-10.mp3"
 		},
@@ -111,7 +111,7 @@
 			"English": "But I do all my writing with my right hand.",
 			"Word Count": 10,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لكنني أفعل كل كتاباتي بيدى اليمنى.",
 			"Egyptian Arabic Audio": "eca-0458-11.mp3",
 			"Standard Arabic Audio": "msa-0458-11.mp3"
 		},
@@ -121,7 +121,7 @@
 			"English": "Start typing instead. That way your left hand will do half the work.",
 			"Word Count": 13,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ابدأ الكتابة بدلا من ذلك. بهذه الطريقة يدك اليسرى سوف تفعل نصف العمل.",
 			"Egyptian Arabic Audio": "eca-0458-12.mp3",
 			"Standard Arabic Audio": "msa-0458-12.mp3"
 		}

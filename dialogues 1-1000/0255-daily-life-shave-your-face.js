@@ -11,7 +11,7 @@
 			"English": "I hate shaving.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أكره الحلاقة.",
 			"Egyptian Arabic Audio": "eca-0255-1.mp3",
 			"Standard Arabic Audio": "msa-0255-1.mp3"
 		},
@@ -21,7 +21,7 @@
 			"English": "Me too.",
 			"Word Count": 2,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنا أيضًا.",
 			"Egyptian Arabic Audio": "eca-0255-2.mp3",
 			"Standard Arabic Audio": "msa-0255-2.mp3"
 		},
@@ -31,7 +31,7 @@
 			"English": "I just cut myself again.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنا فقط قطع نفسي مرة أخرى.",
 			"Egyptian Arabic Audio": "eca-0255-3.mp3",
 			"Standard Arabic Audio": "msa-0255-3.mp3"
 		},
@@ -41,7 +41,7 @@
 			"English": "Did you use a new blade?",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هل استخدمت شفرة جديدة؟",
 			"Egyptian Arabic Audio": "eca-0255-4.mp3",
 			"Standard Arabic Audio": "msa-0255-4.mp3"
 		},
@@ -51,7 +51,7 @@
 			"English": "It doesn't matter. Old blades cut, new blades cut.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لا يهم. قطع شفرات قديمة، وقطع شفرات جديدة.",
 			"Egyptian Arabic Audio": "eca-0255-5.mp3",
 			"Standard Arabic Audio": "msa-0255-5.mp3"
 		},
@@ -61,7 +61,7 @@
 			"English": "Maybe you should use an electric shaver.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ربما يجب عليك استخدام ماكينة حلاقة كهربائية.",
 			"Egyptian Arabic Audio": "eca-0255-6.mp3",
 			"Standard Arabic Audio": "msa-0255-6.mp3"
 		},
@@ -71,7 +71,7 @@
 			"English": "They make a lot of noise, but they don't give a close shave.",
 			"Word Count": 13,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنها تجعل الكثير من الضوضاء، لكنها لا تعطي حلاقة قريبة.",
 			"Egyptian Arabic Audio": "eca-0255-7.mp3",
 			"Standard Arabic Audio": "msa-0255-7.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "Maybe you should stop shaving.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ربما يجب التوقف عن الحلاقة.",
 			"Egyptian Arabic Audio": "eca-0255-8.mp3",
 			"Standard Arabic Audio": "msa-0255-8.mp3"
 		},
@@ -91,7 +91,7 @@
 			"English": "And grow a beard?",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وتنمو لحية؟",
 			"Egyptian Arabic Audio": "eca-0255-9.mp3",
 			"Standard Arabic Audio": "msa-0255-9.mp3"
 		},
@@ -101,7 +101,7 @@
 			"English": "Sure. Why not?",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "بالتأكيد. لما لا؟",
 			"Egyptian Arabic Audio": "eca-0255-10.mp3",
 			"Standard Arabic Audio": "msa-0255-10.mp3"
 		},
@@ -111,7 +111,7 @@
 			"English": "Because food and other stuff sticks in my beard.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لأن المواد الغذائية وغيرها من العصي في لحيتي.",
 			"Egyptian Arabic Audio": "eca-0255-11.mp3",
 			"Standard Arabic Audio": "msa-0255-11.mp3"
 		},
@@ -121,7 +121,7 @@
 			"English": "Hmm. Here's an idea. Put cream on your face and have the cat lick it off.",
 			"Word Count": 16,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هم. إليك فكرة. وضع كريم على وجهك ويكون القط لعق تشغيله.",
 			"Egyptian Arabic Audio": "eca-0255-12.mp3",
 			"Standard Arabic Audio": "msa-0255-12.mp3"
 		}

@@ -11,7 +11,7 @@
 			"English": "I think you're very pretty.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أعتقد أنك جميلة جدا.",
 			"Egyptian Arabic Audio": "eca-0346-1.mp3",
 			"Standard Arabic Audio": "msa-0346-1.mp3"
 		},
@@ -21,7 +21,7 @@
 			"English": "Thank you.",
 			"Word Count": 2,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "شكرا.",
 			"Egyptian Arabic Audio": "eca-0346-2.mp3",
 			"Standard Arabic Audio": "msa-0346-2.mp3"
 		},
@@ -31,7 +31,7 @@
 			"English": "Would you have dinner with me?",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هل سيكون لديك عشاء معي؟",
 			"Egyptian Arabic Audio": "eca-0346-3.mp3",
 			"Standard Arabic Audio": "msa-0346-3.mp3"
 		},
@@ -41,7 +41,7 @@
 			"English": "I would like to.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وأود أن.",
 			"Egyptian Arabic Audio": "eca-0346-4.mp3",
 			"Standard Arabic Audio": "msa-0346-4.mp3"
 		},
@@ -51,7 +51,7 @@
 			"English": "Can I pick you up Friday night?",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هل يمكنني اختيارك ليلة الجمعة؟",
 			"Egyptian Arabic Audio": "eca-0346-5.mp3",
 			"Standard Arabic Audio": "msa-0346-5.mp3"
 		},
@@ -61,7 +61,7 @@
 			"English": "What time?",
 			"Word Count": 2,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "متى؟",
 			"Egyptian Arabic Audio": "eca-0346-6.mp3",
 			"Standard Arabic Audio": "msa-0346-6.mp3"
 		},
@@ -71,7 +71,7 @@
 			"English": "Eight o'clock.",
 			"Word Count": 2,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "الساعة الثامنة.",
 			"Egyptian Arabic Audio": "eca-0346-7.mp3",
 			"Standard Arabic Audio": "msa-0346-7.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "That sounds great.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هذا يبدو كبيرا.",
 			"Egyptian Arabic Audio": "eca-0346-8.mp3",
 			"Standard Arabic Audio": "msa-0346-8.mp3"
 		},
@@ -91,7 +91,7 @@
 			"English": "We'll go to a French restaurant.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "سنذهب إلى مطعم فرنسي.",
 			"Egyptian Arabic Audio": "eca-0346-9.mp3",
 			"Standard Arabic Audio": "msa-0346-9.mp3"
 		},
@@ -101,7 +101,7 @@
 			"English": "I've never been to a French restaurant.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لم أكن أبدا إلى مطعم فرنسي.",
 			"Egyptian Arabic Audio": "eca-0346-10.mp3",
 			"Standard Arabic Audio": "msa-0346-10.mp3"
 		},
@@ -111,7 +111,7 @@
 			"English": "I think you'll love the food.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أعتقد أنك سوف تحب الطعام.",
 			"Egyptian Arabic Audio": "eca-0346-11.mp3",
 			"Standard Arabic Audio": "msa-0346-11.mp3"
 		},
@@ -121,7 +121,7 @@
 			"English": "I'm not going to eat any snails!",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنا لن أكل أي القواقع!",
 			"Egyptian Arabic Audio": "eca-0346-12.mp3",
 			"Standard Arabic Audio": "msa-0346-12.mp3"
 		}

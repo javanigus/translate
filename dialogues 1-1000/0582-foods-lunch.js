@@ -11,7 +11,7 @@
 			"English": "What are we having for lunch?",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ما لدينا لتناول طعام الغداء؟",
 			"Egyptian Arabic Audio": "eca-0582-1.mp3",
 			"Standard Arabic Audio": "msa-0582-1.mp3"
 		},
@@ -21,7 +21,7 @@
 			"English": "I'm making some sandwiches.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنا جعل بعض السندويشات.",
 			"Egyptian Arabic Audio": "eca-0582-2.mp3",
 			"Standard Arabic Audio": "msa-0582-2.mp3"
 		},
@@ -31,7 +31,7 @@
 			"English": "Can I make some lemonade to drink?",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هل يمكنني جعل بعض عصير الليمون للشرب؟",
 			"Egyptian Arabic Audio": "eca-0582-3.mp3",
 			"Standard Arabic Audio": "msa-0582-3.mp3"
 		},
@@ -41,7 +41,7 @@
 			"English": "Sure! That'd be great.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "بالتأكيد! أن تكون كبيرة.",
 			"Egyptian Arabic Audio": "eca-0582-4.mp3",
 			"Standard Arabic Audio": "msa-0582-4.mp3"
 		},
@@ -51,7 +51,7 @@
 			"English": "We just ate breakfast, but I'm already hungry.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "نحن فقط تناولوا وجبة الإفطار، ولكن أنا بالفعل جائع.",
 			"Egyptian Arabic Audio": "eca-0582-5.mp3",
 			"Standard Arabic Audio": "msa-0582-5.mp3"
 		},
@@ -61,7 +61,7 @@
 			"English": "Me too! It's amazing how hungry I get so soon!",
 			"Word Count": 10,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنا أيضًا! انه لأمر مدهش كيف جائع أحصل على ذلك قريبا!",
 			"Egyptian Arabic Audio": "eca-0582-6.mp3",
 			"Standard Arabic Audio": "msa-0582-6.mp3"
 		},
@@ -71,7 +71,7 @@
 			"English": "I'm really looking forward to those sandwiches.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنا حقا أتطلع إلى تلك السندويشات.",
 			"Egyptian Arabic Audio": "eca-0582-7.mp3",
 			"Standard Arabic Audio": "msa-0582-7.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "I just realized we're out of bread!",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أدركت للتو أننا نخرج من الخبز!",
 			"Egyptian Arabic Audio": "eca-0582-8.mp3",
 			"Standard Arabic Audio": "msa-0582-8.mp3"
 		},
@@ -91,7 +91,7 @@
 			"English": "I guess lunch will have to be delayed.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أعتقد أن الغداء يجب أن يتأخر.",
 			"Egyptian Arabic Audio": "eca-0582-9.mp3",
 			"Standard Arabic Audio": "msa-0582-9.mp3"
 		},
@@ -101,7 +101,7 @@
 			"English": "Can you please go to the store and buy some?",
 			"Word Count": 10,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يمكنك الرجاء الذهاب إلى المتجر وشراء بعض؟",
 			"Egyptian Arabic Audio": "eca-0582-10.mp3",
 			"Standard Arabic Audio": "msa-0582-10.mp3"
 		},
@@ -111,7 +111,7 @@
 			"English": "Sure! Don't drink all the lemonade!",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "بالتأكيد! لا تشرب كل عصير الليمون!",
 			"Egyptian Arabic Audio": "eca-0582-11.mp3",
 			"Standard Arabic Audio": "msa-0582-11.mp3"
 		},
@@ -121,7 +121,7 @@
 			"English": "I won't! Come back soon. I'm starving!",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنا لن! عود قريبا. أنا جائع!",
 			"Egyptian Arabic Audio": "eca-0582-12.mp3",
 			"Standard Arabic Audio": "msa-0582-12.mp3"
 		}

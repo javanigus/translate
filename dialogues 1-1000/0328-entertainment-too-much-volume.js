@@ -11,7 +11,7 @@
 			"English": "Turn the radio down, please.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "تحويل الراديو إلى أسفل، من فضلك.",
 			"Egyptian Arabic Audio": "eca-0328-1.mp3",
 			"Standard Arabic Audio": "msa-0328-1.mp3"
 		},
@@ -21,7 +21,7 @@
 			"English": "But I'm listening to it.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ولكن أنا الاستماع إليها.",
 			"Egyptian Arabic Audio": "eca-0328-2.mp3",
 			"Standard Arabic Audio": "msa-0328-2.mp3"
 		},
@@ -31,7 +31,7 @@
 			"English": "Well, listen to it more quietly.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "حسنا، والاستماع إليها أكثر بهدوء.",
 			"Egyptian Arabic Audio": "eca-0328-3.mp3",
 			"Standard Arabic Audio": "msa-0328-3.mp3"
 		},
@@ -41,7 +41,7 @@
 			"English": "I can't wait till I grow up.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لا أستطيع الانتظار حتى يكبر.",
 			"Egyptian Arabic Audio": "eca-0328-4.mp3",
 			"Standard Arabic Audio": "msa-0328-4.mp3"
 		},
@@ -51,7 +51,7 @@
 			"English": "What will you do?",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ماذا ستفعل؟",
 			"Egyptian Arabic Audio": "eca-0328-5.mp3",
 			"Standard Arabic Audio": "msa-0328-5.mp3"
 		},
@@ -61,7 +61,7 @@
 			"English": "I will play the radio as loud as I want.",
 			"Word Count": 10,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وسوف تلعب الراديو بصوت عال كما أريد.",
 			"Egyptian Arabic Audio": "eca-0328-6.mp3",
 			"Standard Arabic Audio": "msa-0328-6.mp3"
 		},
@@ -71,7 +71,7 @@
 			"English": "That's okay with me.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هذا بخير معي.",
 			"Egyptian Arabic Audio": "eca-0328-7.mp3",
 			"Standard Arabic Audio": "msa-0328-7.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "I will have a radio in every room of my house.",
 			"Word Count": 11,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "سوف يكون الراديو في كل غرفة من بيتي.",
 			"Egyptian Arabic Audio": "eca-0328-8.mp3",
 			"Standard Arabic Audio": "msa-0328-8.mp3"
 		},
@@ -91,7 +91,7 @@
 			"English": "Remind me to never visit you.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ذكرني أن لا زيارة لك.",
 			"Egyptian Arabic Audio": "eca-0328-9.mp3",
 			"Standard Arabic Audio": "msa-0328-9.mp3"
 		},
@@ -101,7 +101,7 @@
 			"English": "All the radios will be on extra loud.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "جميع أجهزة الراديو ستكون بصوت عال.",
 			"Egyptian Arabic Audio": "eca-0328-10.mp3",
 			"Standard Arabic Audio": "msa-0328-10.mp3"
 		},
@@ -111,7 +111,7 @@
 			"English": "Your neighbors will hate you.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "سوف جيرانك يكرهك.",
 			"Egyptian Arabic Audio": "eca-0328-11.mp3",
 			"Standard Arabic Audio": "msa-0328-11.mp3"
 		},
@@ -121,7 +121,7 @@
 			"English": "If they don't like it, they can move.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "إذا كانوا لا يحبون ذلك، فإنها يمكن أن تتحرك.",
 			"Egyptian Arabic Audio": "eca-0328-12.mp3",
 			"Standard Arabic Audio": "msa-0328-12.mp3"
 		}

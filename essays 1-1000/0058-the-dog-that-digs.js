@@ -9,7 +9,7 @@
 			"English": "The dog likes to dig.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "الكلب يحب حفر.",
 			"Egyptian Arabic Audio": "eca-0058-1.mp3",
 			"Standard Arabic Audio": "msa-0058-1.mp3"
 		},
@@ -18,7 +18,7 @@
 			"English": "It is his favorite thing to do.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هو الشيء المفضل له القيام به.",
 			"Egyptian Arabic Audio": "eca-0058-2.mp3",
 			"Standard Arabic Audio": "msa-0058-2.mp3"
 		},
@@ -27,7 +27,7 @@
 			"English": "He goes into his owner's house.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يذهب إلى منزل صاحبه.",
 			"Egyptian Arabic Audio": "eca-0058-3.mp3",
 			"Standard Arabic Audio": "msa-0058-3.mp3"
 		},
@@ -36,7 +36,7 @@
 			"English": "He takes a necklace.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انه يأخذ قلادة.",
 			"Egyptian Arabic Audio": "eca-0058-4.mp3",
 			"Standard Arabic Audio": "msa-0058-4.mp3"
 		},
@@ -45,7 +45,7 @@
 			"English": "He puts the necklace in his mouth.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يضع القلادة في فمه.",
 			"Egyptian Arabic Audio": "eca-0058-5.mp3",
 			"Standard Arabic Audio": "msa-0058-5.mp3"
 		},
@@ -54,7 +54,7 @@
 			"English": "He runs to the backyard.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يمتد إلى الفناء الخلفي.",
 			"Egyptian Arabic Audio": "eca-0058-6.mp3",
 			"Standard Arabic Audio": "msa-0058-6.mp3"
 		},
@@ -63,7 +63,7 @@
 			"English": "He digs a hole with his paws.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انه يحفر حفرة مع الكفوف له.",
 			"Egyptian Arabic Audio": "eca-0058-7.mp3",
 			"Standard Arabic Audio": "msa-0058-7.mp3"
 		},
@@ -72,7 +72,7 @@
 			"English": "He puts the necklace inside.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يضع قلادة داخل.",
 			"Egyptian Arabic Audio": "eca-0058-8.mp3",
 			"Standard Arabic Audio": "msa-0058-8.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "He covers the hole with dirt.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انه يغطي حفرة مع الأوساخ.",
 			"Egyptian Arabic Audio": "eca-0058-9.mp3",
 			"Standard Arabic Audio": "msa-0058-9.mp3"
 		}

@@ -9,7 +9,7 @@
 			"English": "She cannot sleep.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لا تستطيع النوم.",
 			"Egyptian Arabic Audio": "eca-0566-1.mp3",
 			"Standard Arabic Audio": "msa-0566-1.mp3"
 		},
@@ -18,7 +18,7 @@
 			"English": "She tries exercising.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "تحاول ممارسة الرياضة.",
 			"Egyptian Arabic Audio": "eca-0566-2.mp3",
 			"Standard Arabic Audio": "msa-0566-2.mp3"
 		},
@@ -27,7 +27,7 @@
 			"English": "She runs three miles around her house.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "تدير ثلاثة أميال حول منزلها.",
 			"Egyptian Arabic Audio": "eca-0566-3.mp3",
 			"Standard Arabic Audio": "msa-0566-3.mp3"
 		},
@@ -36,7 +36,7 @@
 			"English": "She does 100 jumping jacks.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وقالت انها لا 100 القفز الرافعات.",
 			"Egyptian Arabic Audio": "eca-0566-4.mp3",
 			"Standard Arabic Audio": "msa-0566-4.mp3"
 		},
@@ -45,7 +45,7 @@
 			"English": "She dances.",
 			"Word Count": 2,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انها ترقص.",
 			"Egyptian Arabic Audio": "eca-0566-5.mp3",
 			"Standard Arabic Audio": "msa-0566-5.mp3"
 		},
@@ -54,7 +54,7 @@
 			"English": "She goes back to bed.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "تعود إلى الفراش.",
 			"Egyptian Arabic Audio": "eca-0566-6.mp3",
 			"Standard Arabic Audio": "msa-0566-6.mp3"
 		},
@@ -63,7 +63,7 @@
 			"English": "She tries to sleep.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وهي تحاول النوم.",
 			"Egyptian Arabic Audio": "eca-0566-7.mp3",
 			"Standard Arabic Audio": "msa-0566-7.mp3"
 		},
@@ -72,7 +72,7 @@
 			"English": "She still cannot sleep.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وقالت انها لا تزال لا يمكن النوم.",
 			"Egyptian Arabic Audio": "eca-0566-8.mp3",
 			"Standard Arabic Audio": "msa-0566-8.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "She asks her older sister what to do.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "تسأل شقيقتها الأكبر ما يجب القيام به.",
 			"Egyptian Arabic Audio": "eca-0566-9.mp3",
 			"Standard Arabic Audio": "msa-0566-9.mp3"
 		},
@@ -90,7 +90,7 @@
 			"English": "Her older sister sings her a lullaby.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "شقيقتها الأكبر سنا تغني لها تهليل.",
 			"Egyptian Arabic Audio": "eca-0566-10.mp3",
 			"Standard Arabic Audio": "msa-0566-10.mp3"
 		},
@@ -99,7 +99,7 @@
 			"English": "She falls asleep.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انها تنام.",
 			"Egyptian Arabic Audio": "eca-0566-11.mp3",
 			"Standard Arabic Audio": "msa-0566-11.mp3"
 		}

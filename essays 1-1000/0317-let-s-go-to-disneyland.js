@@ -9,7 +9,7 @@
 			"English": "She loves Disneyland.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "تحب ديزني لاند.",
 			"Egyptian Arabic Audio": "eca-0317-1.mp3",
 			"Standard Arabic Audio": "msa-0317-1.mp3"
 		},
@@ -18,7 +18,7 @@
 			"English": "She wants to live at Disneyland.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "إنها تريد أن تعيش في ديزني لاند.",
 			"Egyptian Arabic Audio": "eca-0317-2.mp3",
 			"Standard Arabic Audio": "msa-0317-2.mp3"
 		},
@@ -27,7 +27,7 @@
 			"English": "She wants to visit Disneyland every day.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "إنها تريد زيارة ديزني لاند كل يوم.",
 			"Egyptian Arabic Audio": "eca-0317-3.mp3",
 			"Standard Arabic Audio": "msa-0317-3.mp3"
 		},
@@ -36,7 +36,7 @@
 			"English": "Her parents take her to Disneyland every year.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يأخذها والداها إلى ديزني لاند كل عام.",
 			"Egyptian Arabic Audio": "eca-0317-4.mp3",
 			"Standard Arabic Audio": "msa-0317-4.mp3"
 		},
@@ -45,7 +45,7 @@
 			"English": "She has fun at Disneyland.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انها متعة في ديزني لاند.",
 			"Egyptian Arabic Audio": "eca-0317-5.mp3",
 			"Standard Arabic Audio": "msa-0317-5.mp3"
 		},
@@ -54,7 +54,7 @@
 			"English": "She sees Mickey Mouse.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ترى ميكي ماوس.",
 			"Egyptian Arabic Audio": "eca-0317-6.mp3",
 			"Standard Arabic Audio": "msa-0317-6.mp3"
 		},
@@ -63,7 +63,7 @@
 			"English": "She goes on many rides.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "تذهب في العديد من ركوب الخيل.",
 			"Egyptian Arabic Audio": "eca-0317-7.mp3",
 			"Standard Arabic Audio": "msa-0317-7.mp3"
 		},
@@ -72,7 +72,7 @@
 			"English": "She has fun on the rides.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انها متعة على ركوب الخيل.",
 			"Egyptian Arabic Audio": "eca-0317-8.mp3",
 			"Standard Arabic Audio": "msa-0317-8.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "She wants to ride them again and again.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انها تريد أن ركوب لهم مرارا وتكرارا.",
 			"Egyptian Arabic Audio": "eca-0317-9.mp3",
 			"Standard Arabic Audio": "msa-0317-9.mp3"
 		}

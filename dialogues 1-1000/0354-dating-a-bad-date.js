@@ -11,7 +11,7 @@
 			"English": "I had the worst date the other night.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كان لي أسوأ تاريخ الليلة الأخرى.",
 			"Egyptian Arabic Audio": "eca-0354-1.mp3",
 			"Standard Arabic Audio": "msa-0354-1.mp3"
 		},
@@ -21,7 +21,7 @@
 			"English": "What happened?",
 			"Word Count": 2,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ماذا حدث؟",
 			"Egyptian Arabic Audio": "eca-0354-2.mp3",
 			"Standard Arabic Audio": "msa-0354-2.mp3"
 		},
@@ -31,7 +31,7 @@
 			"English": "First of all, he was half an hour late.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أولا وقبل كل شيء، كان متأخرا نصف ساعة.",
 			"Egyptian Arabic Audio": "eca-0354-3.mp3",
 			"Standard Arabic Audio": "msa-0354-3.mp3"
 		},
@@ -41,7 +41,7 @@
 			"English": "That's not a good start.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هذه ليست بداية جيدة.",
 			"Egyptian Arabic Audio": "eca-0354-4.mp3",
 			"Standard Arabic Audio": "msa-0354-4.mp3"
 		},
@@ -51,7 +51,7 @@
 			"English": "Then he didn't bother to apologize.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ثم لم يكلف نفسه عناء الاعتذار.",
 			"Egyptian Arabic Audio": "eca-0354-5.mp3",
 			"Standard Arabic Audio": "msa-0354-5.mp3"
 		},
@@ -61,7 +61,7 @@
 			"English": "That's rude.",
 			"Word Count": 2,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هذا وقح.",
 			"Egyptian Arabic Audio": "eca-0354-6.mp3",
 			"Standard Arabic Audio": "msa-0354-6.mp3"
 		},
@@ -71,7 +71,7 @@
 			"English": "Then he drove too fast to the restaurant.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ثم قاد سريع جدا إلى المطعم.",
 			"Egyptian Arabic Audio": "eca-0354-7.mp3",
 			"Standard Arabic Audio": "msa-0354-7.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "That's dangerous.",
 			"Word Count": 2,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هذا أمر خطير.",
 			"Egyptian Arabic Audio": "eca-0354-8.mp3",
 			"Standard Arabic Audio": "msa-0354-8.mp3"
 		},
@@ -91,7 +91,7 @@
 			"English": "I thought about getting out and taking a taxi home.",
 			"Word Count": 10,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "فكرت في الخروج وأخذ سيارة أجرة المنزل.",
 			"Egyptian Arabic Audio": "eca-0354-9.mp3",
 			"Standard Arabic Audio": "msa-0354-9.mp3"
 		},
@@ -101,7 +101,7 @@
 			"English": "What happened at the restaurant?",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ماذا حدث في المطعم؟",
 			"Egyptian Arabic Audio": "eca-0354-10.mp3",
 			"Standard Arabic Audio": "msa-0354-10.mp3"
 		},
@@ -111,7 +111,7 @@
 			"English": "We had a $40 meal, and he left a $1 tip!",
 			"Word Count": 11,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كان لدينا وجبة $ 40، وترك غيض $ 1!",
 			"Egyptian Arabic Audio": "eca-0354-11.mp3",
 			"Standard Arabic Audio": "msa-0354-11.mp3"
 		},
@@ -121,7 +121,7 @@
 			"English": "I guess you can't go back to that restaurant.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أعتقد أنك لا تستطيع العودة إلى هذا المطعم.",
 			"Egyptian Arabic Audio": "eca-0354-12.mp3",
 			"Standard Arabic Audio": "msa-0354-12.mp3"
 		}

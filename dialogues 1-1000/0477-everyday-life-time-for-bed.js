@@ -11,7 +11,7 @@
 			"English": "Children, it's time to go to bed!",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "الأطفال، وحان الوقت للذهاب إلى السرير!",
 			"Egyptian Arabic Audio": "eca-0477-1.mp3",
 			"Standard Arabic Audio": "msa-0477-1.mp3"
 		},
@@ -21,7 +21,7 @@
 			"English": "But we're not sleepy yet!",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لكننا لسنا نعسان بعد!",
 			"Egyptian Arabic Audio": "eca-0477-2.mp3",
 			"Standard Arabic Audio": "msa-0477-2.mp3"
 		},
@@ -31,7 +31,7 @@
 			"English": "If you get into bed right now, I'll read you a fairytale.",
 			"Word Count": 12,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "إذا كنت تحصل في السرير الآن، سأقرأ لك القصص الخيالية.",
 			"Egyptian Arabic Audio": "eca-0477-3.mp3",
 			"Standard Arabic Audio": "msa-0477-3.mp3"
 		},
@@ -41,7 +41,7 @@
 			"English": "One with a princess and a prince?",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "واحد مع أميرة والأمير؟",
 			"Egyptian Arabic Audio": "eca-0477-4.mp3",
 			"Standard Arabic Audio": "msa-0477-4.mp3"
 		},
@@ -51,7 +51,7 @@
 			"English": "Of course, and a magical dragon, too.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وبطبيعة الحال، والتنين السحري، أيضا.",
 			"Egyptian Arabic Audio": "eca-0477-5.mp3",
 			"Standard Arabic Audio": "msa-0477-5.mp3"
 		},
@@ -61,7 +61,7 @@
 			"English": "Why do we hear fairytales before bed?",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لماذا نسمع القصص الخيالية قبل النوم؟",
 			"Egyptian Arabic Audio": "eca-0477-6.mp3",
 			"Standard Arabic Audio": "msa-0477-6.mp3"
 		},
@@ -71,7 +71,7 @@
 			"English": "So that the magic from stories can grow while you're sleeping.",
 			"Word Count": 11,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "بحيث السحر من القصص يمكن أن تنمو بينما كنت نائما.",
 			"Egyptian Arabic Audio": "eca-0477-7.mp3",
 			"Standard Arabic Audio": "msa-0477-7.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "What does it grow into?",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ماذا ينمو؟",
 			"Egyptian Arabic Audio": "eca-0477-8.mp3",
 			"Standard Arabic Audio": "msa-0477-8.mp3"
 		},
@@ -91,7 +91,7 @@
 			"English": "Why, magical dreams, of course!",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لماذا، والأحلام السحرية، وبطبيعة الحال!",
 			"Egyptian Arabic Audio": "eca-0477-9.mp3",
 			"Standard Arabic Audio": "msa-0477-9.mp3"
 		},
@@ -101,7 +101,7 @@
 			"English": "Please read us two tonight!",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يرجى قراءة لنا اثنين الليلة!",
 			"Egyptian Arabic Audio": "eca-0477-10.mp3",
 			"Standard Arabic Audio": "msa-0477-10.mp3"
 		},
@@ -111,7 +111,7 @@
 			"English": "Alright, but only if you sleep as soon as I'm done!",
 			"Word Count": 11,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "حسنا، ولكن فقط إذا كنت تنام في أقرب وقت أنا فعلت!",
 			"Egyptian Arabic Audio": "eca-0477-11.mp3",
 			"Standard Arabic Audio": "msa-0477-11.mp3"
 		},
@@ -121,7 +121,7 @@
 			"English": "We will. It's a promise!",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "سنقوم. إنه وعد!",
 			"Egyptian Arabic Audio": "eca-0477-12.mp3",
 			"Standard Arabic Audio": "msa-0477-12.mp3"
 		}

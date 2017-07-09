@@ -9,7 +9,7 @@
 			"English": "Richard is a light eater.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ريتشارد هو أكل فاتح.",
 			"Egyptian Arabic Audio": "eca-1204-1.mp3",
 			"Standard Arabic Audio": "msa-1204-1.mp3"
 		},
@@ -18,7 +18,7 @@
 			"English": "He doesn't eat much.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انه لا يأكل كثيرا.",
 			"Egyptian Arabic Audio": "eca-1204-2.mp3",
 			"Standard Arabic Audio": "msa-1204-2.mp3"
 		},
@@ -27,7 +27,7 @@
 			"English": "He isn't a heavy eater.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انه ليس آكله الثقيلة.",
 			"Egyptian Arabic Audio": "eca-1204-3.mp3",
 			"Standard Arabic Audio": "msa-1204-3.mp3"
 		},
@@ -36,7 +36,7 @@
 			"English": "He eats a light breakfast, a light lunch, and a light dinner.",
 			"Word Count": 12,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وهو يتناول وجبة إفطار خفيفة ووجبة غداء خفيفة وعشاء خفيف.",
 			"Egyptian Arabic Audio": "eca-1204-4.mp3",
 			"Standard Arabic Audio": "msa-1204-4.mp3"
 		},
@@ -45,7 +45,7 @@
 			"English": "Richard is not fat.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ريتشارد ليس الدهون.",
 			"Egyptian Arabic Audio": "eca-1204-5.mp3",
 			"Standard Arabic Audio": "msa-1204-5.mp3"
 		},
@@ -54,7 +54,7 @@
 			"English": "He is thin.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هو نحيف.",
 			"Egyptian Arabic Audio": "eca-1204-6.mp3",
 			"Standard Arabic Audio": "msa-1204-6.mp3"
 		},
@@ -63,7 +63,7 @@
 			"English": "He will always be thin, because he is a light eater.",
 			"Word Count": 11,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وقال انه سيكون دائما رقيقة، لأنه هو الآكل الخفيفة.",
 			"Egyptian Arabic Audio": "eca-1204-7.mp3",
 			"Standard Arabic Audio": "msa-1204-7.mp3"
 		},
@@ -72,7 +72,7 @@
 			"English": "He eats a bowl of cereal for breakfast.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انه يأكل وعاء من الحبوب لتناول الافطار.",
 			"Egyptian Arabic Audio": "eca-1204-8.mp3",
 			"Standard Arabic Audio": "msa-1204-8.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "He eats a bowl of cereal with milk.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يأكل وعاء من الحبوب مع الحليب.",
 			"Egyptian Arabic Audio": "eca-1204-9.mp3",
 			"Standard Arabic Audio": "msa-1204-9.mp3"
 		},
@@ -90,7 +90,7 @@
 			"English": "He eats a sandwich for lunch.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يأكل شطيرة لتناول طعام الغداء.",
 			"Egyptian Arabic Audio": "eca-1204-10.mp3",
 			"Standard Arabic Audio": "msa-1204-10.mp3"
 		},
@@ -99,7 +99,7 @@
 			"English": "Sometimes it's a fish sandwich.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "في بعض الأحيان انها شطيرة السمك.",
 			"Egyptian Arabic Audio": "eca-1204-11.mp3",
 			"Standard Arabic Audio": "msa-1204-11.mp3"
 		},
@@ -108,7 +108,7 @@
 			"English": "He likes fish.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يحب الأسماك.",
 			"Egyptian Arabic Audio": "eca-1204-12.mp3",
 			"Standard Arabic Audio": "msa-1204-12.mp3"
 		},
@@ -117,7 +117,7 @@
 			"English": "He eats rice and vegetables for dinner.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انه يأكل الأرز والخضروات لتناول العشاء.",
 			"Egyptian Arabic Audio": "eca-1204-13.mp3",
 			"Standard Arabic Audio": "msa-1204-13.mp3"
 		},
@@ -126,7 +126,7 @@
 			"English": "All he eats for dinner is rice and vegetables.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كل ما يأكل لتناول العشاء هو الأرز والخضروات.",
 			"Egyptian Arabic Audio": "eca-1204-14.mp3",
 			"Standard Arabic Audio": "msa-1204-14.mp3"
 		},
@@ -135,7 +135,7 @@
 			"English": "He will never get fat.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وقال انه لن تحصل على الدهون.",
 			"Egyptian Arabic Audio": "eca-1204-15.mp3",
 			"Standard Arabic Audio": "msa-1204-15.mp3"
 		}

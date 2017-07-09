@@ -11,7 +11,7 @@
 			"English": "Have you ever shopped at Whole Foods market?",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هل سبق لك أن تسوقت في سوق الأطعمة كلها؟",
 			"Egyptian Arabic Audio": "eca-1247-1.mp3",
 			"Standard Arabic Audio": "msa-1247-1.mp3"
 		},
@@ -21,7 +21,7 @@
 			"English": "Nope. How's the food there?",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كلا. كيف الطعام هناك؟",
 			"Egyptian Arabic Audio": "eca-1247-2.mp3",
 			"Standard Arabic Audio": "msa-1247-2.mp3"
 		},
@@ -31,7 +31,7 @@
 			"English": "It's very good, and it's fresh too.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انها جيدة جدا، وانها جديدة جدا.",
 			"Egyptian Arabic Audio": "eca-1247-3.mp3",
 			"Standard Arabic Audio": "msa-1247-3.mp3"
 		},
@@ -41,7 +41,7 @@
 			"English": "I do my shopping at Vons.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أفعل التسوق في فونس.",
 			"Egyptian Arabic Audio": "eca-1247-4.mp3",
 			"Standard Arabic Audio": "msa-1247-4.mp3"
 		},
@@ -51,7 +51,7 @@
 			"English": "I shopped there before too, but the food is better at Whole Foods.",
 			"Word Count": 13,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنا تسوقت هناك قبل جدا، ولكن الطعام هو أفضل في الجامع للأغذية.",
 			"Egyptian Arabic Audio": "eca-1247-5.mp3",
 			"Standard Arabic Audio": "msa-1247-5.mp3"
 		},
@@ -61,7 +61,7 @@
 			"English": "What's wrong with Vons?",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ما هو الخطأ مع فونس؟",
 			"Egyptian Arabic Audio": "eca-1247-6.mp3",
 			"Standard Arabic Audio": "msa-1247-6.mp3"
 		},
@@ -71,7 +71,7 @@
 			"English": "Their range of organic foods is very limited.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "مجموعة من الأغذية العضوية محدودة جدا.",
 			"Egyptian Arabic Audio": "eca-1247-7.mp3",
 			"Standard Arabic Audio": "msa-1247-7.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "Whole Foods has a lot of organic foods?",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "الأطعمة كلها لديها الكثير من الأغذية العضوية؟",
 			"Egyptian Arabic Audio": "eca-1247-8.mp3",
 			"Standard Arabic Audio": "msa-1247-8.mp3"
 		},
@@ -91,7 +91,7 @@
 			"English": "Yes, the food there is very healthy.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "نعم، الطعام هناك صحي جدا.",
 			"Egyptian Arabic Audio": "eca-1247-9.mp3",
 			"Standard Arabic Audio": "msa-1247-9.mp3"
 		},
@@ -101,7 +101,7 @@
 			"English": "I've never been, but I may start shopping there.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لم أكن أبدا، ولكن قد أبدأ التسوق هناك.",
 			"Egyptian Arabic Audio": "eca-1247-10.mp3",
 			"Standard Arabic Audio": "msa-1247-10.mp3"
 		},
@@ -111,7 +111,7 @@
 			"English": "The food there is a great step up from Vons.",
 			"Word Count": 10,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "الطعام هناك خطوة كبيرة حتى من فونس.",
 			"Egyptian Arabic Audio": "eca-1247-11.mp3",
 			"Standard Arabic Audio": "msa-1247-11.mp3"
 		},
@@ -121,7 +121,7 @@
 			"English": "Thanks for letting me know.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "شكرا على إعلامي.",
 			"Egyptian Arabic Audio": "eca-1247-12.mp3",
 			"Standard Arabic Audio": "msa-1247-12.mp3"
 		},
@@ -131,7 +131,7 @@
 			"English": "Have you ever done your shopping at Whole Foods market?",
 			"Word Count": 10,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هل سبق لك أن قمت التسوق الخاصة بك في سوق الأطعمة كلها؟",
 			"Egyptian Arabic Audio": "eca-1247-13.mp3",
 			"Standard Arabic Audio": "msa-1247-13.mp3"
 		},
@@ -141,7 +141,7 @@
 			"English": "I haven't shopped there. How is the food?",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنا لم يتسوق هناك. كيف هو الطعام؟",
 			"Egyptian Arabic Audio": "eca-1247-14.mp3",
 			"Standard Arabic Audio": "msa-1247-14.mp3"
 		},
@@ -151,7 +151,7 @@
 			"English": "The food there is wonderful.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "الطعام هناك رائع.",
 			"Egyptian Arabic Audio": "eca-1247-15.mp3",
 			"Standard Arabic Audio": "msa-1247-15.mp3"
 		},
@@ -161,7 +161,7 @@
 			"English": "I go to Vons for my groceries.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أذهب إلى فونس لمحلات البقالة بلدي.",
 			"Egyptian Arabic Audio": "eca-1247-16.mp3",
 			"Standard Arabic Audio": "msa-1247-16.mp3"
 		},
@@ -171,7 +171,7 @@
 			"English": "I prefer the food at Whole Foods.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنا أفضل الطعام في الأطعمة كلها.",
 			"Egyptian Arabic Audio": "eca-1247-17.mp3",
 			"Standard Arabic Audio": "msa-1247-17.mp3"
 		},
@@ -181,7 +181,7 @@
 			"English": "Is there something wrong with Vons?",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هل هناك شيء خاطئ مع فونس؟",
 			"Egyptian Arabic Audio": "eca-1247-18.mp3",
 			"Standard Arabic Audio": "msa-1247-18.mp3"
 		},
@@ -191,7 +191,7 @@
 			"English": "Vons doesn't offer a lot of organic foods.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "فونس لا تقدم الكثير من الأغذية العضوية.",
 			"Egyptian Arabic Audio": "eca-1247-19.mp3",
 			"Standard Arabic Audio": "msa-1247-19.mp3"
 		},
@@ -201,7 +201,7 @@
 			"English": "Do they offer organic foods at Whole Foods?",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هل تقدم الأطعمة العضوية في وول فودز؟",
 			"Egyptian Arabic Audio": "eca-1247-20.mp3",
 			"Standard Arabic Audio": "msa-1247-20.mp3"
 		},
@@ -211,7 +211,7 @@
 			"English": "Yes, that's the place to go to get healthier food.",
 			"Word Count": 10,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "نعم، هذا هو المكان المناسب للذهاب للحصول على طعام أكثر صحة.",
 			"Egyptian Arabic Audio": "eca-1247-21.mp3",
 			"Standard Arabic Audio": "msa-1247-21.mp3"
 		},
@@ -221,7 +221,7 @@
 			"English": "Maybe I'll try that store out.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ربما سأحاول أن المخزن بها.",
 			"Egyptian Arabic Audio": "eca-1247-22.mp3",
 			"Standard Arabic Audio": "msa-1247-22.mp3"
 		},
@@ -231,7 +231,7 @@
 			"English": "If you like Vons, then I'm sure you'll love Whole Foods.",
 			"Word Count": 11,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "إذا كنت تحب فونس، ثم أنا متأكد من أنك سوف الحب الجامع للأغذية.",
 			"Egyptian Arabic Audio": "eca-1247-23.mp3",
 			"Standard Arabic Audio": "msa-1247-23.mp3"
 		},
@@ -241,7 +241,7 @@
 			"English": "You're making me a believer.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنت تجعلني مؤمنا.",
 			"Egyptian Arabic Audio": "eca-1247-24.mp3",
 			"Standard Arabic Audio": "msa-1247-24.mp3"
 		},
@@ -251,7 +251,7 @@
 			"English": "Have you ever been shopping at Whole Foods?",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هل سبق لك أن تسوق في الجامع للأغذية؟",
 			"Egyptian Arabic Audio": "eca-1247-25.mp3",
 			"Standard Arabic Audio": "msa-1247-25.mp3"
 		},
@@ -261,7 +261,7 @@
 			"English": "No, I haven't. Is the food good there?",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لا، لم أفعل ذلك. هل الطعام جيد هناك؟",
 			"Egyptian Arabic Audio": "eca-1247-26.mp3",
 			"Standard Arabic Audio": "msa-1247-26.mp3"
 		},
@@ -271,7 +271,7 @@
 			"English": "They have the freshest foods there.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لديهم الأطعمة الطازجة هناك.",
 			"Egyptian Arabic Audio": "eca-1247-27.mp3",
 			"Standard Arabic Audio": "msa-1247-27.mp3"
 		},
@@ -281,7 +281,7 @@
 			"English": "I usually shop at Vons.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وعادة ما تسوق في فونس.",
 			"Egyptian Arabic Audio": "eca-1247-28.mp3",
 			"Standard Arabic Audio": "msa-1247-28.mp3"
 		},
@@ -291,7 +291,7 @@
 			"English": "I used to shop there, but I find the food at Whole Foods to be a lot better.",
 			"Word Count": 18,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "اعتدت على التسوق هناك، ولكن أجد الطعام في الأطعمة كلها لتكون أفضل بكثير.",
 			"Egyptian Arabic Audio": "eca-1247-29.mp3",
 			"Standard Arabic Audio": "msa-1247-29.mp3"
 		},
@@ -301,7 +301,7 @@
 			"English": "What's the problem with Vons?",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ما هي المشكلة مع فونس؟",
 			"Egyptian Arabic Audio": "eca-1247-30.mp3",
 			"Standard Arabic Audio": "msa-1247-30.mp3"
 		},
@@ -311,7 +311,7 @@
 			"English": "They don't have a lot of organic foods there.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ليس لديهم الكثير من الأغذية العضوية هناك.",
 			"Egyptian Arabic Audio": "eca-1247-31.mp3",
 			"Standard Arabic Audio": "msa-1247-31.mp3"
 		},
@@ -321,7 +321,7 @@
 			"English": "Is there a big selection of organic foods at Whole Foods?",
 			"Word Count": 11,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هل هناك مجموعة كبيرة من الأطعمة العضوية في الجامعة للأغذية؟",
 			"Egyptian Arabic Audio": "eca-1247-32.mp3",
 			"Standard Arabic Audio": "msa-1247-32.mp3"
 		},
@@ -331,7 +331,7 @@
 			"English": "They have lots of healthier food at Whole Foods.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لديهم الكثير من الغذاء الصحي في الغذاء كله.",
 			"Egyptian Arabic Audio": "eca-1247-33.mp3",
 			"Standard Arabic Audio": "msa-1247-33.mp3"
 		},
@@ -341,7 +341,7 @@
 			"English": "I haven't been shopping there, but maybe I'll try it sometime.",
 			"Word Count": 11,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لم أكن التسوق هناك، ولكن ربما سأحاول ذلك في وقت ما.",
 			"Egyptian Arabic Audio": "eca-1247-34.mp3",
 			"Standard Arabic Audio": "msa-1247-34.mp3"
 		},
@@ -351,7 +351,7 @@
 			"English": "Whole Foods is way better than Vons, trust me.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "الأطعمة كلها طريقة أفضل من فونس، ثق بي.",
 			"Egyptian Arabic Audio": "eca-1247-35.mp3",
 			"Standard Arabic Audio": "msa-1247-35.mp3"
 		},
@@ -361,7 +361,7 @@
 			"English": "I'll take your word for it.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "سآخذ كلامك لذلك.",
 			"Egyptian Arabic Audio": "eca-1247-36.mp3",
 			"Standard Arabic Audio": "msa-1247-36.mp3"
 		}

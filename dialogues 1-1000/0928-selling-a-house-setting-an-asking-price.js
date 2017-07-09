@@ -11,7 +11,7 @@
 			"English": "Hi Jennifer, it's Doug.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "مرحبا جنيفر، انها دوغ.",
 			"Egyptian Arabic Audio": "eca-0928-1.mp3",
 			"Standard Arabic Audio": "msa-0928-1.mp3"
 		},
@@ -21,7 +21,7 @@
 			"English": "Hello, Doug. How can I help you?",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "مرحبا، دوغ. كيف بإمكاني مساعدتك؟",
 			"Egyptian Arabic Audio": "eca-0928-2.mp3",
 			"Standard Arabic Audio": "msa-0928-2.mp3"
 		},
@@ -31,7 +31,7 @@
 			"English": "I'm a bit concerned with how to set an asking price for my home.",
 			"Word Count": 14,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنا قلق قليلا مع كيفية تعيين السعر المطلوب لمنزلي.",
 			"Egyptian Arabic Audio": "eca-0928-3.mp3",
 			"Standard Arabic Audio": "msa-0928-3.mp3"
 		},
@@ -41,7 +41,7 @@
 			"English": "Well, you shouldn't worry, Doug. We will set the price accordingly.",
 			"Word Count": 11,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "حسنا، يجب أن لا تقلق، دوغ. وسوف نقوم بتعيين السعر وفقا لذلك.",
 			"Egyptian Arabic Audio": "eca-0928-4.mp3",
 			"Standard Arabic Audio": "msa-0928-4.mp3"
 		},
@@ -51,7 +51,7 @@
 			"English": "What do you mean?",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ماذا تعني؟",
 			"Egyptian Arabic Audio": "eca-0928-5.mp3",
 			"Standard Arabic Audio": "msa-0928-5.mp3"
 		},
@@ -61,7 +61,7 @@
 			"English": "We are experts at this. We'll take all factors into consideration.",
 			"Word Count": 11,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "نحن خبراء في هذا. سنأخذ جميع العوامل في الاعتبار.",
 			"Egyptian Arabic Audio": "eca-0928-6.mp3",
 			"Standard Arabic Audio": "msa-0928-6.mp3"
 		},
@@ -71,7 +71,7 @@
 			"English": "Such as what, if I may ask?",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "مثل ما، إذا كنت قد تسأل؟",
 			"Egyptian Arabic Audio": "eca-0928-7.mp3",
 			"Standard Arabic Audio": "msa-0928-7.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "Our formula takes local pricing, comparability, and market trends into  consideration.",
 			"Word Count": 11,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لدينا صيغة يأخذ التسعير المحلي، وقابلية للمقارنة، واتجاهات السوق بعين الاعتبار.",
 			"Egyptian Arabic Audio": "eca-0928-8.mp3",
 			"Standard Arabic Audio": "msa-0928-8.mp3"
 		},
@@ -91,7 +91,7 @@
 			"English": "That's very thorough.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هذا دقيق جدا.",
 			"Egyptian Arabic Audio": "eca-0928-9.mp3",
 			"Standard Arabic Audio": "msa-0928-9.mp3"
 		},
@@ -101,7 +101,7 @@
 			"English": "We are real estate experts, Doug.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "نحن خبراء العقارات، دوغ.",
 			"Egyptian Arabic Audio": "eca-0928-10.mp3",
 			"Standard Arabic Audio": "msa-0928-10.mp3"
 		},
@@ -111,7 +111,7 @@
 			"English": "I think I made the right decision to hire you, Ms. Winters.",
 			"Word Count": 12,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أعتقد أنني اتخذت القرار الصحيح لتوظيف لك، السيدة وينترز.",
 			"Egyptian Arabic Audio": "eca-0928-11.mp3",
 			"Standard Arabic Audio": "msa-0928-11.mp3"
 		},
@@ -121,7 +121,7 @@
 			"English": "Well, thank you, Doug. It's my pleasure.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "حسنا، شكرا لك، دوغ. أنه من دواعي سروري.",
 			"Egyptian Arabic Audio": "eca-0928-12.mp3",
 			"Standard Arabic Audio": "msa-0928-12.mp3"
 		}

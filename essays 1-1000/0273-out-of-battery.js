@@ -9,7 +9,7 @@
 			"English": "Tracy uses her phone a lot.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يستخدم تراسي هاتفها كثيرا.",
 			"Egyptian Arabic Audio": "eca-0273-1.mp3",
 			"Standard Arabic Audio": "msa-0273-1.mp3"
 		},
@@ -18,7 +18,7 @@
 			"English": "She uses it whenever she is bored.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انها تستخدم كلما كانت بالملل.",
 			"Egyptian Arabic Audio": "eca-0273-2.mp3",
 			"Standard Arabic Audio": "msa-0273-2.mp3"
 		},
@@ -27,7 +27,7 @@
 			"English": "She gets bored easily.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انها تشعر بالملل بسهولة.",
 			"Egyptian Arabic Audio": "eca-0273-3.mp3",
 			"Standard Arabic Audio": "msa-0273-3.mp3"
 		},
@@ -36,7 +36,7 @@
 			"English": "She uses her phone at school.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وهي تستخدم هاتفها في المدرسة.",
 			"Egyptian Arabic Audio": "eca-0273-4.mp3",
 			"Standard Arabic Audio": "msa-0273-4.mp3"
 		},
@@ -45,7 +45,7 @@
 			"English": "She uses it while she is eating.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انها تستخدمه في حين انها الأكل.",
 			"Egyptian Arabic Audio": "eca-0273-5.mp3",
 			"Standard Arabic Audio": "msa-0273-5.mp3"
 		},
@@ -54,7 +54,7 @@
 			"English": "She even uses it when talking to people.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "حتى أنها تستخدم ذلك عند التحدث إلى الناس.",
 			"Egyptian Arabic Audio": "eca-0273-6.mp3",
 			"Standard Arabic Audio": "msa-0273-6.mp3"
 		},
@@ -63,7 +63,7 @@
 			"English": "One day, she pressed the power button.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يوم واحد، وقالت انها ضغطت على زر الطاقة.",
 			"Egyptian Arabic Audio": "eca-0273-7.mp3",
 			"Standard Arabic Audio": "msa-0273-7.mp3"
 		},
@@ -72,7 +72,7 @@
 			"English": "The screen was still black.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كانت الشاشة لا تزال سوداء.",
 			"Egyptian Arabic Audio": "eca-0273-8.mp3",
 			"Standard Arabic Audio": "msa-0273-8.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "The phone was out of battery.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كان الهاتف خارج البطارية.",
 			"Egyptian Arabic Audio": "eca-0273-9.mp3",
 			"Standard Arabic Audio": "msa-0273-9.mp3"
 		},
@@ -90,7 +90,7 @@
 			"English": "She needed to do a phone interview.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كانت تحتاج إلى إجراء مقابلة عبر الهاتف.",
 			"Egyptian Arabic Audio": "eca-0273-10.mp3",
 			"Standard Arabic Audio": "msa-0273-10.mp3"
 		},
@@ -99,7 +99,7 @@
 			"English": "This was bad.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كان هذا سيئا.",
 			"Egyptian Arabic Audio": "eca-0273-11.mp3",
 			"Standard Arabic Audio": "msa-0273-11.mp3"
 		},
@@ -108,7 +108,7 @@
 			"English": "She had no time to get her charger at home.",
 			"Word Count": 10,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لم يكن لديها الوقت للحصول على الشاحن في المنزل.",
 			"Egyptian Arabic Audio": "eca-0273-12.mp3",
 			"Standard Arabic Audio": "msa-0273-12.mp3"
 		},
@@ -117,7 +117,7 @@
 			"English": "She went to an electronic store nearby.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ذهبت إلى متجر إلكتروني قريب.",
 			"Egyptian Arabic Audio": "eca-0273-13.mp3",
 			"Standard Arabic Audio": "msa-0273-13.mp3"
 		},
@@ -126,7 +126,7 @@
 			"English": "She bought a charger.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "اشترت شاحن.",
 			"Egyptian Arabic Audio": "eca-0273-14.mp3",
 			"Standard Arabic Audio": "msa-0273-14.mp3"
 		},
@@ -135,7 +135,7 @@
 			"English": "She found the closest outlet.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وجدت أقرب منفذ.",
 			"Egyptian Arabic Audio": "eca-0273-15.mp3",
 			"Standard Arabic Audio": "msa-0273-15.mp3"
 		},
@@ -144,7 +144,7 @@
 			"English": "She plugged the charger in.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انها توصيل الشاحن في.",
 			"Egyptian Arabic Audio": "eca-0273-16.mp3",
 			"Standard Arabic Audio": "msa-0273-16.mp3"
 		},
@@ -153,7 +153,7 @@
 			"English": "She plugged her phone in.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وقالت انها توصل هاتفها في.",
 			"Egyptian Arabic Audio": "eca-0273-17.mp3",
 			"Standard Arabic Audio": "msa-0273-17.mp3"
 		},
@@ -162,7 +162,7 @@
 			"English": "The phone screen lit up.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "شاشة الهاتف مضاءة.",
 			"Egyptian Arabic Audio": "eca-0273-18.mp3",
 			"Standard Arabic Audio": "msa-0273-18.mp3"
 		}

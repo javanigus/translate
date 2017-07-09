@@ -9,7 +9,7 @@
 			"English": "More than 100 passengers got on the plane.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وقد وصل اكثر من 100 راكب الى الطائرة.",
 			"Egyptian Arabic Audio": "eca-1527-1.mp3",
 			"Standard Arabic Audio": "msa-1527-1.mp3"
 		},
@@ -18,7 +18,7 @@
 			"English": "It was a winter day.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كان يوم شتاء.",
 			"Egyptian Arabic Audio": "eca-1527-2.mp3",
 			"Standard Arabic Audio": "msa-1527-2.mp3"
 		},
@@ -27,7 +27,7 @@
 			"English": "It was January.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كان يناير.",
 			"Egyptian Arabic Audio": "eca-1527-3.mp3",
 			"Standard Arabic Audio": "msa-1527-3.mp3"
 		},
@@ -36,7 +36,7 @@
 			"English": "The weather was very cold.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كان الطقس باردا جدا.",
 			"Egyptian Arabic Audio": "eca-1527-4.mp3",
 			"Standard Arabic Audio": "msa-1527-4.mp3"
 		},
@@ -45,7 +45,7 @@
 			"English": "It was snowing.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كانت تثلج.",
 			"Egyptian Arabic Audio": "eca-1527-5.mp3",
 			"Standard Arabic Audio": "msa-1527-5.mp3"
 		},
@@ -54,7 +54,7 @@
 			"English": "Ice was on the roads.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كان الجليد على الطرق.",
 			"Egyptian Arabic Audio": "eca-1527-6.mp3",
 			"Standard Arabic Audio": "msa-1527-6.mp3"
 		},
@@ -63,7 +63,7 @@
 			"English": "But the airport was open.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لكن المطار كان مفتوحا.",
 			"Egyptian Arabic Audio": "eca-1527-7.mp3",
 			"Standard Arabic Audio": "msa-1527-7.mp3"
 		},
@@ -72,7 +72,7 @@
 			"English": "The big jets were flying.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كانت الطائرات الكبيرة تحلق.",
 			"Egyptian Arabic Audio": "eca-1527-8.mp3",
 			"Standard Arabic Audio": "msa-1527-8.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "A little snow never stopped a big jet.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "الثلوج قليلا لم تتوقف طائرة كبيرة.",
 			"Egyptian Arabic Audio": "eca-1527-9.mp3",
 			"Standard Arabic Audio": "msa-1527-9.mp3"
 		},
@@ -90,7 +90,7 @@
 			"English": "Big jets fly all the time.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "الطائرات الكبيرة تطير في كل وقت.",
 			"Egyptian Arabic Audio": "eca-1527-10.mp3",
 			"Standard Arabic Audio": "msa-1527-10.mp3"
 		},
@@ -99,7 +99,7 @@
 			"English": "They rarely crash in bad weather.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "نادرا ما تحطم في سوء الاحوال الجوية.",
 			"Egyptian Arabic Audio": "eca-1527-11.mp3",
 			"Standard Arabic Audio": "msa-1527-11.mp3"
 		},
@@ -108,7 +108,7 @@
 			"English": "They rarely crash in good weather.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "نادرا ما تحطم في الطقس الجيد.",
 			"Egyptian Arabic Audio": "eca-1527-12.mp3",
 			"Standard Arabic Audio": "msa-1527-12.mp3"
 		},
@@ -117,7 +117,7 @@
 			"English": "Big jets are very safe.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "الطائرات الكبيرة هي آمنة جدا.",
 			"Egyptian Arabic Audio": "eca-1527-13.mp3",
 			"Standard Arabic Audio": "msa-1527-13.mp3"
 		},
@@ -126,7 +126,7 @@
 			"English": "The passengers got on the plane.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وصل الركاب على متن الطائرة.",
 			"Egyptian Arabic Audio": "eca-1527-14.mp3",
 			"Standard Arabic Audio": "msa-1527-14.mp3"
 		},
@@ -135,7 +135,7 @@
 			"English": "It was 7 a.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كان 7 أ.",
 			"Egyptian Arabic Audio": "eca-1527-15.mp3",
 			"Standard Arabic Audio": "msa-1527-15.mp3"
 		},
@@ -144,7 +144,7 @@
 			"English": "m.",
 			"Word Count": 1,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "م.",
 			"Egyptian Arabic Audio": "eca-1527-16.mp3",
 			"Standard Arabic Audio": "msa-1527-16.mp3"
 		},
@@ -153,7 +153,7 @@
 			"English": "The plane was supposed to take off at 7:30 a.",
 			"Word Count": 10,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كان من المفترض أن تقلع الطائرة في الساعة 7:30 صباحا.",
 			"Egyptian Arabic Audio": "eca-1527-17.mp3",
 			"Standard Arabic Audio": "msa-1527-17.mp3"
 		},
@@ -162,7 +162,7 @@
 			"English": "m.",
 			"Word Count": 1,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "م.",
 			"Egyptian Arabic Audio": "eca-1527-18.mp3",
 			"Standard Arabic Audio": "msa-1527-18.mp3"
 		},
@@ -171,7 +171,7 @@
 			"English": "It did not take off at 7:30 a.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لم تقلع في الساعة 7:30 صباحا.",
 			"Egyptian Arabic Audio": "eca-1527-19.mp3",
 			"Standard Arabic Audio": "msa-1527-19.mp3"
 		},
@@ -180,7 +180,7 @@
 			"English": "m.",
 			"Word Count": 1,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "م.",
 			"Egyptian Arabic Audio": "eca-1527-20.mp3",
 			"Standard Arabic Audio": "msa-1527-20.mp3"
 		},
@@ -189,7 +189,7 @@
 			"English": "It did not take off all morning.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لم تقلع كل صباح.",
 			"Egyptian Arabic Audio": "eca-1527-21.mp3",
 			"Standard Arabic Audio": "msa-1527-21.mp3"
 		},
@@ -198,7 +198,7 @@
 			"English": "It did not take off all afternoon.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انها لم تقلع من بعد ظهر اليوم.",
 			"Egyptian Arabic Audio": "eca-1527-22.mp3",
 			"Standard Arabic Audio": "msa-1527-22.mp3"
 		},
@@ -207,7 +207,7 @@
 			"English": "The plane sat on the runway until 6:30 p.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وجلست الطائرة على المدرج حتى 6:30 ص.",
 			"Egyptian Arabic Audio": "eca-1527-23.mp3",
 			"Standard Arabic Audio": "msa-1527-23.mp3"
 		},
@@ -216,7 +216,7 @@
 			"English": "m.",
 			"Word Count": 1,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "م.",
 			"Egyptian Arabic Audio": "eca-1527-24.mp3",
 			"Standard Arabic Audio": "msa-1527-24.mp3"
 		},
@@ -225,7 +225,7 @@
 			"English": "The passengers sat in the plane all day.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وجلس الركاب في الطائرة طوال اليوم.",
 			"Egyptian Arabic Audio": "eca-1527-25.mp3",
 			"Standard Arabic Audio": "msa-1527-25.mp3"
 		},
@@ -234,7 +234,7 @@
 			"English": "The plane could not take off.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لم تستطع الطائرة الإقلاع.",
 			"Egyptian Arabic Audio": "eca-1527-26.mp3",
 			"Standard Arabic Audio": "msa-1527-26.mp3"
 		},
@@ -243,7 +243,7 @@
 			"English": "The pilot could not see the runway.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لم يتمكن الطيار من رؤية المدرج.",
 			"Egyptian Arabic Audio": "eca-1527-27.mp3",
 			"Standard Arabic Audio": "msa-1527-27.mp3"
 		},
@@ -252,7 +252,7 @@
 			"English": "He could not see anything.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لم يتمكن من رؤية أي شيء.",
 			"Egyptian Arabic Audio": "eca-1527-28.mp3",
 			"Standard Arabic Audio": "msa-1527-28.mp3"
 		},
@@ -261,7 +261,7 @@
 			"English": "The only thing he could see was his two hands.",
 			"Word Count": 10,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كان الشيء الوحيد الذي يمكن أن يرى هو يديه.",
 			"Egyptian Arabic Audio": "eca-1527-29.mp3",
 			"Standard Arabic Audio": "msa-1527-29.mp3"
 		},
@@ -270,7 +270,7 @@
 			"English": "A little snow was okay.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كان الثلج قليلا بخير.",
 			"Egyptian Arabic Audio": "eca-1527-30.mp3",
 			"Standard Arabic Audio": "msa-1527-30.mp3"
 		},
@@ -279,7 +279,7 @@
 			"English": "But this was a lot of snow.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ولكن هذا كان الكثير من الثلوج.",
 			"Egyptian Arabic Audio": "eca-1527-31.mp3",
 			"Standard Arabic Audio": "msa-1527-31.mp3"
 		},
@@ -288,7 +288,7 @@
 			"English": "This was too much snow.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كان هذا الثلج أكثر من اللازم.",
 			"Egyptian Arabic Audio": "eca-1527-32.mp3",
 			"Standard Arabic Audio": "msa-1527-32.mp3"
 		},
@@ -297,7 +297,7 @@
 			"English": "But maybe the snow would stop.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ولكن ربما الثلج سوف تتوقف.",
 			"Egyptian Arabic Audio": "eca-1527-33.mp3",
 			"Standard Arabic Audio": "msa-1527-33.mp3"
 		},
@@ -306,7 +306,7 @@
 			"English": "Then they could take off.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ثم يمكن أن تقلع.",
 			"Egyptian Arabic Audio": "eca-1527-34.mp3",
 			"Standard Arabic Audio": "msa-1527-34.mp3"
 		},
@@ -315,7 +315,7 @@
 			"English": "So the pilot waited.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لذا انتظر الطيار.",
 			"Egyptian Arabic Audio": "eca-1527-35.mp3",
 			"Standard Arabic Audio": "msa-1527-35.mp3"
 		},
@@ -324,7 +324,7 @@
 			"English": "The passengers waited.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وانتظر الركاب.",
 			"Egyptian Arabic Audio": "eca-1527-36.mp3",
 			"Standard Arabic Audio": "msa-1527-36.mp3"
 		},
@@ -333,7 +333,7 @@
 			"English": "At 6:30 p.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "الساعة 6:30 ص.",
 			"Egyptian Arabic Audio": "eca-1527-37.mp3",
 			"Standard Arabic Audio": "msa-1527-37.mp3"
 		},
@@ -342,7 +342,7 @@
 			"English": "m.",
 			"Word Count": 1,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "م.",
 			"Egyptian Arabic Audio": "eca-1527-38.mp3",
 			"Standard Arabic Audio": "msa-1527-38.mp3"
 		},
@@ -351,7 +351,7 @@
 			"English": ", the pilot told the passengers to get off the plane.",
 			"Word Count": 11,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "، قال الطيار للركاب للخروج من الطائرة.",
 			"Egyptian Arabic Audio": "eca-1527-39.mp3",
 			"Standard Arabic Audio": "msa-1527-39.mp3"
 		},
@@ -360,7 +360,7 @@
 			"English": "Everyone was happy to leave the plane.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كان الجميع سعداء لمغادرة الطائرة.",
 			"Egyptian Arabic Audio": "eca-1527-40.mp3",
 			"Standard Arabic Audio": "msa-1527-40.mp3"
 		},
@@ -369,7 +369,7 @@
 			"English": "They went back into the airport.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "عادوا إلى المطار.",
 			"Egyptian Arabic Audio": "eca-1527-41.mp3",
 			"Standard Arabic Audio": "msa-1527-41.mp3"
 		},
@@ -378,7 +378,7 @@
 			"English": "They waited for the snow to stop.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انتظروا الثلوج لوقف.",
 			"Egyptian Arabic Audio": "eca-1527-42.mp3",
 			"Standard Arabic Audio": "msa-1527-42.mp3"
 		},
@@ -387,7 +387,7 @@
 			"English": "But it didn't stop.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لكنها لم تتوقف.",
 			"Egyptian Arabic Audio": "eca-1527-43.mp3",
 			"Standard Arabic Audio": "msa-1527-43.mp3"
 		},
@@ -396,7 +396,7 @@
 			"English": "It snowed for two more days.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انها ثلج لمدة يومين آخرين.",
 			"Egyptian Arabic Audio": "eca-1527-44.mp3",
 			"Standard Arabic Audio": "msa-1527-44.mp3"
 		}

@@ -9,7 +9,7 @@
 			"English": "Ms Smith is a great teacher.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "السيدة سميث معلم عظيم.",
 			"Egyptian Arabic Audio": "eca-0546-1.mp3",
 			"Standard Arabic Audio": "msa-0546-1.mp3"
 		},
@@ -18,7 +18,7 @@
 			"English": "She makes math look easy.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انها تجعل الرياضيات تبدو سهلة.",
 			"Egyptian Arabic Audio": "eca-0546-2.mp3",
 			"Standard Arabic Audio": "msa-0546-2.mp3"
 		},
@@ -27,7 +27,7 @@
 			"English": "She also teaches her students how to be great people.",
 			"Word Count": 10,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كما أنها تعلم طلابها كيف تكون شعب عظيم.",
 			"Egyptian Arabic Audio": "eca-0546-3.mp3",
 			"Standard Arabic Audio": "msa-0546-3.mp3"
 		},
@@ -36,7 +36,7 @@
 			"English": "Ms.",
 			"Word Count": 1,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "الآنسة.",
 			"Egyptian Arabic Audio": "eca-0546-4.mp3",
 			"Standard Arabic Audio": "msa-0546-4.mp3"
 		},
@@ -45,7 +45,7 @@
 			"English": "Smith feels sick one day.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يشعر سميث مريضا يوم واحد.",
 			"Egyptian Arabic Audio": "eca-0546-5.mp3",
 			"Standard Arabic Audio": "msa-0546-5.mp3"
 		},
@@ -54,7 +54,7 @@
 			"English": "Another teacher substitutes.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "بديل آخر للمعلمين.",
 			"Egyptian Arabic Audio": "eca-0546-6.mp3",
 			"Standard Arabic Audio": "msa-0546-6.mp3"
 		},
@@ -63,7 +63,7 @@
 			"English": "Mr Johnson teaches the class instead.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "السيد جونسون يعلم الطبقة بدلا من ذلك.",
 			"Egyptian Arabic Audio": "eca-0546-7.mp3",
 			"Standard Arabic Audio": "msa-0546-7.mp3"
 		},
@@ -72,7 +72,7 @@
 			"English": "Mr.",
 			"Word Count": 1,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "السيد",
 			"Egyptian Arabic Audio": "eca-0546-8.mp3",
 			"Standard Arabic Audio": "msa-0546-8.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "Johnson is a bad teacher.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "جونسون معلم سيء.",
 			"Egyptian Arabic Audio": "eca-0546-9.mp3",
 			"Standard Arabic Audio": "msa-0546-9.mp3"
 		},
@@ -90,7 +90,7 @@
 			"English": "He makes math confusing.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انه يجعل الرياضيات مربكة.",
 			"Egyptian Arabic Audio": "eca-0546-10.mp3",
 			"Standard Arabic Audio": "msa-0546-10.mp3"
 		},
@@ -99,7 +99,7 @@
 			"English": "He also yells at the students a lot.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كما يصرخ في الطلاب كثيرا.",
 			"Egyptian Arabic Audio": "eca-0546-11.mp3",
 			"Standard Arabic Audio": "msa-0546-11.mp3"
 		},
@@ -108,7 +108,7 @@
 			"English": "The students want Ms.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "الطلاب يريدون السيدة",
 			"Egyptian Arabic Audio": "eca-0546-12.mp3",
 			"Standard Arabic Audio": "msa-0546-12.mp3"
 		},
@@ -117,7 +117,7 @@
 			"English": "Smith back.",
 			"Word Count": 2,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "سميث مرة أخرى.",
 			"Egyptian Arabic Audio": "eca-0546-13.mp3",
 			"Standard Arabic Audio": "msa-0546-13.mp3"
 		}

@@ -9,7 +9,7 @@
 			"English": "She gets an allowance from her parents.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "تحصل على بدل من والديها.",
 			"Egyptian Arabic Audio": "eca-0569-1.mp3",
 			"Standard Arabic Audio": "msa-0569-1.mp3"
 		},
@@ -18,7 +18,7 @@
 			"English": "They give her $10 a week.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنها تعطي لها $ 10 في الأسبوع.",
 			"Egyptian Arabic Audio": "eca-0569-2.mp3",
 			"Standard Arabic Audio": "msa-0569-2.mp3"
 		},
@@ -27,7 +27,7 @@
 			"English": "She wants more.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "إنها تريد المزيد.",
 			"Egyptian Arabic Audio": "eca-0569-3.mp3",
 			"Standard Arabic Audio": "msa-0569-3.mp3"
 		},
@@ -36,7 +36,7 @@
 			"English": "She asks her parents nicely.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "تسأل والديها بشكل جيد.",
 			"Egyptian Arabic Audio": "eca-0569-4.mp3",
 			"Standard Arabic Audio": "msa-0569-4.mp3"
 		},
@@ -45,7 +45,7 @@
 			"English": "They say no.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يقولون لا.",
 			"Egyptian Arabic Audio": "eca-0569-5.mp3",
 			"Standard Arabic Audio": "msa-0569-5.mp3"
 		},
@@ -54,7 +54,7 @@
 			"English": "She tries to change their minds.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انها تحاول تغيير عقولهم.",
 			"Egyptian Arabic Audio": "eca-0569-6.mp3",
 			"Standard Arabic Audio": "msa-0569-6.mp3"
 		},
@@ -63,7 +63,7 @@
 			"English": "She washes their cars.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "تغسل سياراتهم.",
 			"Egyptian Arabic Audio": "eca-0569-7.mp3",
 			"Standard Arabic Audio": "msa-0569-7.mp3"
 		},
@@ -72,7 +72,7 @@
 			"English": "She makes them dinner.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انها تجعل منهم العشاء.",
 			"Egyptian Arabic Audio": "eca-0569-8.mp3",
 			"Standard Arabic Audio": "msa-0569-8.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "She compliments them.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انها تكمل لهم.",
 			"Egyptian Arabic Audio": "eca-0569-9.mp3",
 			"Standard Arabic Audio": "msa-0569-9.mp3"
 		},
@@ -90,7 +90,7 @@
 			"English": "Her parents decide to give her a raise.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "والديها يقرران إعطاءها زيادة.",
 			"Egyptian Arabic Audio": "eca-0569-10.mp3",
 			"Standard Arabic Audio": "msa-0569-10.mp3"
 		},
@@ -99,7 +99,7 @@
 			"English": "She will get $15 a week.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وقالت انها سوف تحصل على 15 $ في الأسبوع.",
 			"Egyptian Arabic Audio": "eca-0569-11.mp3",
 			"Standard Arabic Audio": "msa-0569-11.mp3"
 		}

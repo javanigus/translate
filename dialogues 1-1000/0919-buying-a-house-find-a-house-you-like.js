@@ -11,7 +11,7 @@
 			"English": "I'm sorry for being difficult.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنا آسف لكونها صعبة.",
 			"Egyptian Arabic Audio": "eca-0919-1.mp3",
 			"Standard Arabic Audio": "msa-0919-1.mp3"
 		},
@@ -21,7 +21,7 @@
 			"English": "Not at all. We aim to please.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "على الاطلاق. نحن نهدف الى ارضاء.",
 			"Egyptian Arabic Audio": "eca-0919-2.mp3",
 			"Standard Arabic Audio": "msa-0919-2.mp3"
 		},
@@ -31,7 +31,7 @@
 			"English": "It's just that this will be my family's home. It has to be right.",
 			"Word Count": 14,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انها مجرد أن هذا سيكون منزل عائلتي. يجب أن يكون الحق.",
 			"Egyptian Arabic Audio": "eca-0919-3.mp3",
 			"Standard Arabic Audio": "msa-0919-3.mp3"
 		},
@@ -41,7 +41,7 @@
 			"English": "I understand completely.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنا أفهم تماما.",
 			"Egyptian Arabic Audio": "eca-0919-4.mp3",
 			"Standard Arabic Audio": "msa-0919-4.mp3"
 		},
@@ -51,7 +51,7 @@
 			"English": "So where is this next home?",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "إذا أين هذا المنزل التالي؟",
 			"Egyptian Arabic Audio": "eca-0919-5.mp3",
 			"Standard Arabic Audio": "msa-0919-5.mp3"
 		},
@@ -61,7 +61,7 @@
 			"English": "It's nearby. I think this is the one.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انها قريبة. أعتقد أن هذا هو واحد.",
 			"Egyptian Arabic Audio": "eca-0919-6.mp3",
 			"Standard Arabic Audio": "msa-0919-6.mp3"
 		},
@@ -71,7 +71,7 @@
 			"English": "I truly hope so.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وآمل حقا ذلك.",
 			"Egyptian Arabic Audio": "eca-0919-7.mp3",
 			"Standard Arabic Audio": "msa-0919-7.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "This is it.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هذه هي.",
 			"Egyptian Arabic Audio": "eca-0919-8.mp3",
 			"Standard Arabic Audio": "msa-0919-8.mp3"
 		},
@@ -91,7 +91,7 @@
 			"English": "Wow! I like it.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "نجاح باهر احب ذلك.",
 			"Egyptian Arabic Audio": "eca-0919-9.mp3",
 			"Standard Arabic Audio": "msa-0919-9.mp3"
 		},
@@ -101,7 +101,7 @@
 			"English": "I thought you might.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أعتقد أنك قد.",
 			"Egyptian Arabic Audio": "eca-0919-10.mp3",
 			"Standard Arabic Audio": "msa-0919-10.mp3"
 		},
@@ -111,7 +111,7 @@
 			"English": "Is this in my price range? If it is, I think I just found my house.",
 			"Word Count": 16,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هل هذا في نطاق سعري؟ إذا كان الأمر كذلك، أعتقد أنني وجدت بيتي.",
 			"Egyptian Arabic Audio": "eca-0919-11.mp3",
 			"Standard Arabic Audio": "msa-0919-11.mp3"
 		},
@@ -121,7 +121,7 @@
 			"English": "It definitely is. Let's go inside.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هو بالتأكيد. لنذهب الى الداخل.",
 			"Egyptian Arabic Audio": "eca-0919-12.mp3",
 			"Standard Arabic Audio": "msa-0919-12.mp3"
 		}

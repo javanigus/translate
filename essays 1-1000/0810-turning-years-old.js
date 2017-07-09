@@ -9,7 +9,7 @@
 			"English": "When Anderson woke up the next morning he felt terrible.",
 			"Word Count": 10,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "عندما استيقظ أندرسون في صباح اليوم التالي شعر بالرعب.",
 			"Egyptian Arabic Audio": "eca-0810-1.mp3",
 			"Standard Arabic Audio": "msa-0810-1.mp3"
 		},
@@ -18,7 +18,7 @@
 			"English": "His head was throbbing.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كان رأسه خفقان.",
 			"Egyptian Arabic Audio": "eca-0810-2.mp3",
 			"Standard Arabic Audio": "msa-0810-2.mp3"
 		},
@@ -27,7 +27,7 @@
 			"English": "His stomach was turning.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كانت معدته تتحول.",
 			"Egyptian Arabic Audio": "eca-0810-3.mp3",
 			"Standard Arabic Audio": "msa-0810-3.mp3"
 		},
@@ -36,7 +36,7 @@
 			"English": "\"I'll never drink again!\" he yelled.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "&quot;لن أشرب مرة أخرى!&quot; صرخ.",
 			"Egyptian Arabic Audio": "eca-0810-4.mp3",
 			"Standard Arabic Audio": "msa-0810-4.mp3"
 		}

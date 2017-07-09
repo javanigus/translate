@@ -11,7 +11,7 @@
 			"English": "I'd like to open a checking account.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أريد فتح حساب فحص.",
 			"Egyptian Arabic Audio": "eca-0109-1.mp3",
 			"Standard Arabic Audio": "msa-0109-1.mp3"
 		},
@@ -21,7 +21,7 @@
 			"English": "We would love to have you as our customer.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كنا نحب أن يكون لك كما عملائنا.",
 			"Egyptian Arabic Audio": "eca-0109-2.mp3",
 			"Standard Arabic Audio": "msa-0109-2.mp3"
 		},
@@ -31,7 +31,7 @@
 			"English": "What documents do you need from me?",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ما هي الوثائق التي تحتاجها مني؟",
 			"Egyptian Arabic Audio": "eca-0109-3.mp3",
 			"Standard Arabic Audio": "msa-0109-3.mp3"
 		},
@@ -41,7 +41,7 @@
 			"English": "Do you have state issue identification?",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هل لديك تحديد قضية الدولة؟",
 			"Egyptian Arabic Audio": "eca-0109-4.mp3",
 			"Standard Arabic Audio": "msa-0109-4.mp3"
 		},
@@ -51,7 +51,7 @@
 			"English": "Is my driver's license okay?",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هل رخصة القيادة الخاصة بي بخير؟",
 			"Egyptian Arabic Audio": "eca-0109-5.mp3",
 			"Standard Arabic Audio": "msa-0109-5.mp3"
 		},
@@ -61,7 +61,7 @@
 			"English": "That's perfect. I also need your Social Security Number.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هذا ممتاز. أنا أيضا بحاجة إلى رقم الضمان الاجتماعي الخاص بك.",
 			"Egyptian Arabic Audio": "eca-0109-6.mp3",
 			"Standard Arabic Audio": "msa-0109-6.mp3"
 		},
@@ -71,7 +71,7 @@
 			"English": "Is there a minimum balance requirement?",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هل هناك حد أدنى من متطلبات الرصيد؟",
 			"Egyptian Arabic Audio": "eca-0109-7.mp3",
 			"Standard Arabic Audio": "msa-0109-7.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "Our basic checking account has a $25.00 minimum balance per month.",
 			"Word Count": 11,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لدينا حساب التحقق الأساسي لديه 25.00 $ الحد الأدنى للرصيد شهريا.",
 			"Egyptian Arabic Audio": "eca-0109-8.mp3",
 			"Standard Arabic Audio": "msa-0109-8.mp3"
 		},
@@ -91,7 +91,7 @@
 			"English": "I can keep that in my account.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يمكنني الاحتفاظ بذلك في حسابي.",
 			"Egyptian Arabic Audio": "eca-0109-9.mp3",
 			"Standard Arabic Audio": "msa-0109-9.mp3"
 		},
@@ -101,7 +101,7 @@
 			"English": "I also need proof of address.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنا أيضا بحاجة إلى إثبات عنوان.",
 			"Egyptian Arabic Audio": "eca-0109-10.mp3",
 			"Standard Arabic Audio": "msa-0109-10.mp3"
 		},
@@ -111,7 +111,7 @@
 			"English": "Can I show you my gas bill?",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هل يمكنني عرض فاتورة الغاز؟",
 			"Egyptian Arabic Audio": "eca-0109-11.mp3",
 			"Standard Arabic Audio": "msa-0109-11.mp3"
 		},
@@ -121,7 +121,7 @@
 			"English": "Yes, now I need you to sign some papers.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "نعم، الآن أنا بحاجة لكم لتوقيع بعض الأوراق.",
 			"Egyptian Arabic Audio": "eca-0109-12.mp3",
 			"Standard Arabic Audio": "msa-0109-12.mp3"
 		}

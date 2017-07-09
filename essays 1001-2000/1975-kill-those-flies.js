@@ -9,7 +9,7 @@
 			"English": "More and more flies moved into their south Florida house.",
 			"Word Count": 10,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انتقل المزيد والمزيد من الذباب في جنوب فلوريدا منزل.",
 			"Egyptian Arabic Audio": "eca-1975-1.mp3",
 			"Standard Arabic Audio": "msa-1975-1.mp3"
 		},
@@ -18,7 +18,7 @@
 			"English": "When the kids opened their mouths to put food inside, flies flew into their mouths.",
 			"Word Count": 15,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "عندما فتح الأطفال أفواههم لوضع الطعام في الداخل، طارت الذباب في أفواههم.",
 			"Egyptian Arabic Audio": "eca-1975-2.mp3",
 			"Standard Arabic Audio": "msa-1975-2.mp3"
 		},
@@ -27,7 +27,7 @@
 			"English": "After a while, the kids got used to eating the crunchy flies with their food.",
 			"Word Count": 15,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "بعد فترة من الوقت، اعتاد الأطفال على تناول الذباب المقرمش مع طعامهم.",
 			"Egyptian Arabic Audio": "eca-1975-3.mp3",
 			"Standard Arabic Audio": "msa-1975-3.mp3"
 		}

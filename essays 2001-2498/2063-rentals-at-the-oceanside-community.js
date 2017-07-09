@@ -9,7 +9,7 @@
 			"English": "Some officials think the ban should be continued because these visitors to the community have already proven that they have no consideration for others.",
 			"Word Count": 24,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ويعتقد بعض المسؤولين أن الحظر يجب أن يستمر لأن هؤلاء الزوار للمجتمع قد أثبتوا بالفعل أنهم لا يملكون أي اعتبار للآخرين.",
 			"Egyptian Arabic Audio": "eca-2063-1.mp3",
 			"Standard Arabic Audio": "msa-2063-1.mp3"
 		},
@@ -18,7 +18,7 @@
 			"English": "Their money isn't worth the headaches they cause.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أموالهم لا تستحق الصداع الذي تسببه.",
 			"Egyptian Arabic Audio": "eca-2063-2.mp3",
 			"Standard Arabic Audio": "msa-2063-2.mp3"
 		}

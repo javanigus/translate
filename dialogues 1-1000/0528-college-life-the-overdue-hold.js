@@ -11,7 +11,7 @@
 			"English": "Wow! Your books are over the due date by one month.",
 			"Word Count": 11,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "نجاح باهر إن كتبك تجاوزت تاريخ الاستحقاق بمقدار شهر واحد.",
 			"Egyptian Arabic Audio": "eca-0528-1.mp3",
 			"Standard Arabic Audio": "msa-0528-1.mp3"
 		},
@@ -21,7 +21,7 @@
 			"English": "It would have been longer if there wasn't a hold on my record.",
 			"Word Count": 13,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كان يمكن أن يكون أطول إذا لم يكن هناك عقد على سجل بلدي.",
 			"Egyptian Arabic Audio": "eca-0528-2.mp3",
 			"Standard Arabic Audio": "msa-0528-2.mp3"
 		},
@@ -31,7 +31,7 @@
 			"English": "What kind of hold is on your record?",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ما هو نوع من الانتظار على السجل الخاص بك؟",
 			"Egyptian Arabic Audio": "eca-0528-3.mp3",
 			"Standard Arabic Audio": "msa-0528-3.mp3"
 		},
@@ -41,7 +41,7 @@
 			"English": "A hold that won't let me go to the college football game.",
 			"Word Count": 12,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "عقد التي لن تسمح لي أن أذهب إلى لعبة كرة القدم الكلية.",
 			"Egyptian Arabic Audio": "eca-0528-4.mp3",
 			"Standard Arabic Audio": "msa-0528-4.mp3"
 		},
@@ -51,7 +51,7 @@
 			"English": "Oh, that's tough.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أوه، هذا صعب.",
 			"Egyptian Arabic Audio": "eca-0528-5.mp3",
 			"Standard Arabic Audio": "msa-0528-5.mp3"
 		},
@@ -61,7 +61,7 @@
 			"English": "Yeah. My girlfriend is actually a cheerleader, and so I have to go.",
 			"Word Count": 13,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "بلى. صديقتي هي في الواقع مشجعة، وحتى لا بد لي من الذهاب.",
 			"Egyptian Arabic Audio": "eca-0528-6.mp3",
 			"Standard Arabic Audio": "msa-0528-6.mp3"
 		},
@@ -71,7 +71,7 @@
 			"English": "You're not going to like what I'm going to say.",
 			"Word Count": 10,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنت لن تحب ما سأقوله.",
 			"Egyptian Arabic Audio": "eca-0528-7.mp3",
 			"Standard Arabic Audio": "msa-0528-7.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "What is it?",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ما هذا؟",
 			"Egyptian Arabic Audio": "eca-0528-8.mp3",
 			"Standard Arabic Audio": "msa-0528-8.mp3"
 		},
@@ -91,7 +91,7 @@
 			"English": "I can't remove the hold even if you pay the overdue fee.",
 			"Word Count": 12,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لا أستطيع إزالة عقد الانتظار حتى إذا كنت تدفع رسوم المتأخرة.",
 			"Egyptian Arabic Audio": "eca-0528-9.mp3",
 			"Standard Arabic Audio": "msa-0528-9.mp3"
 		},
@@ -101,7 +101,7 @@
 			"English": "Is it a technical error?",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هل هو خطأ فني؟",
 			"Egyptian Arabic Audio": "eca-0528-10.mp3",
 			"Standard Arabic Audio": "msa-0528-10.mp3"
 		},
@@ -111,7 +111,7 @@
 			"English": "I don't know! I just can't remove it!",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انا لا اعرف! أنا فقط لا يمكن إزالته!",
 			"Egyptian Arabic Audio": "eca-0528-11.mp3",
 			"Standard Arabic Audio": "msa-0528-11.mp3"
 		},
@@ -121,7 +121,7 @@
 			"English": "If my girlfriend breaks up with me, I'm blaming you.",
 			"Word Count": 10,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "إذا صديقتي يكسر معي، أنا إلقاء اللوم لك.",
 			"Egyptian Arabic Audio": "eca-0528-12.mp3",
 			"Standard Arabic Audio": "msa-0528-12.mp3"
 		}

@@ -9,7 +9,7 @@
 			"English": "\"You got it, partner!\" Christopher smiled.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "&quot;لقد حصلت عليه، شريك!&quot; كريستم ابتسم.",
 			"Egyptian Arabic Audio": "eca-2156-1.mp3",
 			"Standard Arabic Audio": "msa-2156-1.mp3"
 		}

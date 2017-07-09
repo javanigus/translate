@@ -11,7 +11,7 @@
 			"English": "How are you doing today?",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كيف حالك اليوم؟",
 			"Egyptian Arabic Audio": "eca-1220-1.mp3",
 			"Standard Arabic Audio": "msa-1220-1.mp3"
 		},
@@ -21,7 +21,7 @@
 			"English": "I'm fine.",
 			"Word Count": 2,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنا بخير.",
 			"Egyptian Arabic Audio": "eca-1220-2.mp3",
 			"Standard Arabic Audio": "msa-1220-2.mp3"
 		},
@@ -31,7 +31,7 @@
 			"English": "What can I do for you?",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ما الذي يمكنني أن أفعله من أجلك؟",
 			"Egyptian Arabic Audio": "eca-1220-3.mp3",
 			"Standard Arabic Audio": "msa-1220-3.mp3"
 		},
@@ -41,7 +41,7 @@
 			"English": "I would like to cancel a check.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أود إلغاء الشيك.",
 			"Egyptian Arabic Audio": "eca-1220-4.mp3",
 			"Standard Arabic Audio": "msa-1220-4.mp3"
 		},
@@ -51,7 +51,7 @@
 			"English": "Is there a problem?",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هل هناك مشكلة؟",
 			"Egyptian Arabic Audio": "eca-1220-5.mp3",
 			"Standard Arabic Audio": "msa-1220-5.mp3"
 		},
@@ -61,7 +61,7 @@
 			"English": "I wrote the check out for too much.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كتبت التحقق من ذلك بكثير.",
 			"Egyptian Arabic Audio": "eca-1220-6.mp3",
 			"Standard Arabic Audio": "msa-1220-6.mp3"
 		},
@@ -71,7 +71,7 @@
 			"English": "How much did you write it out for?",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كم قمت بكتابته ل؟",
 			"Egyptian Arabic Audio": "eca-1220-7.mp3",
 			"Standard Arabic Audio": "msa-1220-7.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "I wrote it out for $150.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كتبت بها مقابل 150 دولارا.",
 			"Egyptian Arabic Audio": "eca-1220-8.mp3",
 			"Standard Arabic Audio": "msa-1220-8.mp3"
 		},
@@ -91,7 +91,7 @@
 			"English": "How much was it supposed to be?",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كم كان من المفترض أن يكون؟",
 			"Egyptian Arabic Audio": "eca-1220-9.mp3",
 			"Standard Arabic Audio": "msa-1220-9.mp3"
 		},
@@ -101,7 +101,7 @@
 			"English": "It was supposed to be for $100.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كان من المفترض أن يكون ل 100 $.",
 			"Egyptian Arabic Audio": "eca-1220-10.mp3",
 			"Standard Arabic Audio": "msa-1220-10.mp3"
 		},
@@ -111,7 +111,7 @@
 			"English": "I'll cancel that check for you.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "سوف إلغاء هذا الاختيار بالنسبة لك.",
 			"Egyptian Arabic Audio": "eca-1220-11.mp3",
 			"Standard Arabic Audio": "msa-1220-11.mp3"
 		},
@@ -121,7 +121,7 @@
 			"English": "I really appreciate your help.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انا فعلا اقدر مساعدتك.",
 			"Egyptian Arabic Audio": "eca-1220-12.mp3",
 			"Standard Arabic Audio": "msa-1220-12.mp3"
 		},
@@ -131,7 +131,7 @@
 			"English": "How are you?",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كيف حالك؟",
 			"Egyptian Arabic Audio": "eca-1220-13.mp3",
 			"Standard Arabic Audio": "msa-1220-13.mp3"
 		},
@@ -141,7 +141,7 @@
 			"English": "I'm doing well.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنا على ما يرام.",
 			"Egyptian Arabic Audio": "eca-1220-14.mp3",
 			"Standard Arabic Audio": "msa-1220-14.mp3"
 		},
@@ -151,7 +151,7 @@
 			"English": "How may I help you?",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كيف يمكنني مساعدتك؟",
 			"Egyptian Arabic Audio": "eca-1220-15.mp3",
 			"Standard Arabic Audio": "msa-1220-15.mp3"
 		},
@@ -161,7 +161,7 @@
 			"English": "Could you cancel a check for me?",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هل يمكن إلغاء شيك بالنسبة لي؟",
 			"Egyptian Arabic Audio": "eca-1220-16.mp3",
 			"Standard Arabic Audio": "msa-1220-16.mp3"
 		},
@@ -171,7 +171,7 @@
 			"English": "What's the problem?",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ما هي المشكلة؟",
 			"Egyptian Arabic Audio": "eca-1220-17.mp3",
 			"Standard Arabic Audio": "msa-1220-17.mp3"
 		},
@@ -181,7 +181,7 @@
 			"English": "I wrote the check out for way too much.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كتبت التحقق من الطريق لطريق أكثر من اللازم.",
 			"Egyptian Arabic Audio": "eca-1220-18.mp3",
 			"Standard Arabic Audio": "msa-1220-18.mp3"
 		},
@@ -191,7 +191,7 @@
 			"English": "How much?",
 			"Word Count": 2,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كم الثمن؟",
 			"Egyptian Arabic Audio": "eca-1220-19.mp3",
 			"Standard Arabic Audio": "msa-1220-19.mp3"
 		},
@@ -201,7 +201,7 @@
 			"English": "I wrote the check out for $150.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كتبت التحقق من $ 150.",
 			"Egyptian Arabic Audio": "eca-1220-20.mp3",
 			"Standard Arabic Audio": "msa-1220-20.mp3"
 		},
@@ -211,7 +211,7 @@
 			"English": "What were you supposed to write it out for?",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ما الذي كان من المفترض أن تكتبه؟",
 			"Egyptian Arabic Audio": "eca-1220-21.mp3",
 			"Standard Arabic Audio": "msa-1220-21.mp3"
 		},
@@ -221,7 +221,7 @@
 			"English": "I was supposed to write the check out for $100.",
 			"Word Count": 10,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كان من المفترض أن أكتب الشيك مقابل 100 دولار.",
 			"Egyptian Arabic Audio": "eca-1220-22.mp3",
 			"Standard Arabic Audio": "msa-1220-22.mp3"
 		},
@@ -231,7 +231,7 @@
 			"English": "I'll just cancel it for you right now.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنا فقط إلغاء ذلك بالنسبة لك الآن.",
 			"Egyptian Arabic Audio": "eca-1220-23.mp3",
 			"Standard Arabic Audio": "msa-1220-23.mp3"
 		},
@@ -241,7 +241,7 @@
 			"English": "That's great. You're a lifesaver.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ذلك رائع. أنت المنقذ.",
 			"Egyptian Arabic Audio": "eca-1220-24.mp3",
 			"Standard Arabic Audio": "msa-1220-24.mp3"
 		},
@@ -251,7 +251,7 @@
 			"English": "How's it going?",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كيف تجري الامور؟",
 			"Egyptian Arabic Audio": "eca-1220-25.mp3",
 			"Standard Arabic Audio": "msa-1220-25.mp3"
 		},
@@ -261,7 +261,7 @@
 			"English": "Great. Thank you.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "عظيم. شكرا.",
 			"Egyptian Arabic Audio": "eca-1220-26.mp3",
 			"Standard Arabic Audio": "msa-1220-26.mp3"
 		},
@@ -271,7 +271,7 @@
 			"English": "What can I help you with?",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "بماذا يمكنني مساعدتك؟",
 			"Egyptian Arabic Audio": "eca-1220-27.mp3",
 			"Standard Arabic Audio": "msa-1220-27.mp3"
 		},
@@ -281,7 +281,7 @@
 			"English": "I need to cancel a check.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنا بحاجة إلى إلغاء الاختيار.",
 			"Egyptian Arabic Audio": "eca-1220-28.mp3",
 			"Standard Arabic Audio": "msa-1220-28.mp3"
 		},
@@ -291,7 +291,7 @@
 			"English": "What's wrong with the check?",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ما هو الخطأ في الاختيار؟",
 			"Egyptian Arabic Audio": "eca-1220-29.mp3",
 			"Standard Arabic Audio": "msa-1220-29.mp3"
 		},
@@ -301,7 +301,7 @@
 			"English": "I accidentally wrote the check for too much.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كتبت بطريق الخطأ الشيك للكثير.",
 			"Egyptian Arabic Audio": "eca-1220-30.mp3",
 			"Standard Arabic Audio": "msa-1220-30.mp3"
 		},
@@ -311,7 +311,7 @@
 			"English": "How much did you write the check for?",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كم كنت أكتب الشيك ل؟",
 			"Egyptian Arabic Audio": "eca-1220-31.mp3",
 			"Standard Arabic Audio": "msa-1220-31.mp3"
 		},
@@ -321,7 +321,7 @@
 			"English": "The check was written for $150.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "تم كتابة الشيك مقابل 150 دولارا.",
 			"Egyptian Arabic Audio": "eca-1220-32.mp3",
 			"Standard Arabic Audio": "msa-1220-32.mp3"
 		},
@@ -331,7 +331,7 @@
 			"English": "How much were you supposed to write it for?",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كم كنت من المفترض أن يكتب ل؟",
 			"Egyptian Arabic Audio": "eca-1220-33.mp3",
 			"Standard Arabic Audio": "msa-1220-33.mp3"
 		},
@@ -341,7 +341,7 @@
 			"English": "I needed to write it for $100.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كنت بحاجة إلى كتابته مقابل 100 دولار.",
 			"Egyptian Arabic Audio": "eca-1220-34.mp3",
 			"Standard Arabic Audio": "msa-1220-34.mp3"
 		},
@@ -351,7 +351,7 @@
 			"English": "I can cancel it for you right now.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يمكنني إلغاء ذلك لك الآن.",
 			"Egyptian Arabic Audio": "eca-1220-35.mp3",
 			"Standard Arabic Audio": "msa-1220-35.mp3"
 		},
@@ -361,7 +361,7 @@
 			"English": "Thank you so much.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "شكرا جزيلا.",
 			"Egyptian Arabic Audio": "eca-1220-36.mp3",
 			"Standard Arabic Audio": "msa-1220-36.mp3"
 		}

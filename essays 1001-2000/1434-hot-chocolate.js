@@ -9,7 +9,7 @@
 			"English": "Donna got dressed.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "دونا حصلت على اللباس.",
 			"Egyptian Arabic Audio": "eca-1434-1.mp3",
 			"Standard Arabic Audio": "msa-1434-1.mp3"
 		},
@@ -18,7 +18,7 @@
 			"English": "It was cold outside.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كان بارد خارج.",
 			"Egyptian Arabic Audio": "eca-1434-2.mp3",
 			"Standard Arabic Audio": "msa-1434-2.mp3"
 		},
@@ -27,7 +27,7 @@
 			"English": "She put on a warm jacket.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وضعت على سترة دافئة.",
 			"Egyptian Arabic Audio": "eca-1434-3.mp3",
 			"Standard Arabic Audio": "msa-1434-3.mp3"
 		},
@@ -36,7 +36,7 @@
 			"English": "She put on a warm hat.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وضعت على قبعة دافئة.",
 			"Egyptian Arabic Audio": "eca-1434-4.mp3",
 			"Standard Arabic Audio": "msa-1434-4.mp3"
 		},
@@ -45,7 +45,7 @@
 			"English": "She put on some warm gloves.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وضعت على بعض القفازات الدافئة.",
 			"Egyptian Arabic Audio": "eca-1434-5.mp3",
 			"Standard Arabic Audio": "msa-1434-5.mp3"
 		},
@@ -54,7 +54,7 @@
 			"English": "She walked outside.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "سارت خارج.",
 			"Egyptian Arabic Audio": "eca-1434-6.mp3",
 			"Standard Arabic Audio": "msa-1434-6.mp3"
 		},
@@ -63,7 +63,7 @@
 			"English": "It was cold.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كان باردا.",
 			"Egyptian Arabic Audio": "eca-1434-7.mp3",
 			"Standard Arabic Audio": "msa-1434-7.mp3"
 		},
@@ -72,7 +72,7 @@
 			"English": "She could see her breath.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وقالت إنها يمكن أن ترى أنفاسها.",
 			"Egyptian Arabic Audio": "eca-1434-8.mp3",
 			"Standard Arabic Audio": "msa-1434-8.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "She could see everyone's breath.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وقالت إنها يمكن أن نرى التنفس الجميع.",
 			"Egyptian Arabic Audio": "eca-1434-9.mp3",
 			"Standard Arabic Audio": "msa-1434-9.mp3"
 		},
@@ -90,7 +90,7 @@
 			"English": "She walked to the corner.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "سارت إلى الزاوية.",
 			"Egyptian Arabic Audio": "eca-1434-10.mp3",
 			"Standard Arabic Audio": "msa-1434-10.mp3"
 		},
@@ -99,7 +99,7 @@
 			"English": "She went to the house on the corner.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ذهبت إلى المنزل على الزاوية.",
 			"Egyptian Arabic Audio": "eca-1434-11.mp3",
 			"Standard Arabic Audio": "msa-1434-11.mp3"
 		},
@@ -108,7 +108,7 @@
 			"English": "She knocked on the door.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انها طرقت على الباب.",
 			"Egyptian Arabic Audio": "eca-1434-12.mp3",
 			"Standard Arabic Audio": "msa-1434-12.mp3"
 		},
@@ -117,7 +117,7 @@
 			"English": "Mr.",
 			"Word Count": 1,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "السيد",
 			"Egyptian Arabic Audio": "eca-1434-13.mp3",
 			"Standard Arabic Audio": "msa-1434-13.mp3"
 		},
@@ -126,7 +126,7 @@
 			"English": "White opened the door.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "فتح الأبيض الباب.",
 			"Egyptian Arabic Audio": "eca-1434-14.mp3",
 			"Standard Arabic Audio": "msa-1434-14.mp3"
 		},
@@ -135,7 +135,7 @@
 			"English": "\"Hi, Donna,\" she said.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "&quot;مرحبا، دونا&quot;، قالت.",
 			"Egyptian Arabic Audio": "eca-1434-15.mp3",
 			"Standard Arabic Audio": "msa-1434-15.mp3"
 		},
@@ -144,7 +144,7 @@
 			"English": "\"Come in, dear.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "&quot;تعال، عزيزي.",
 			"Egyptian Arabic Audio": "eca-1434-16.mp3",
 			"Standard Arabic Audio": "msa-1434-16.mp3"
 		},
@@ -153,7 +153,7 @@
 			"English": "It's so cold outside.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انها باردة جدا في الخارج.",
 			"Egyptian Arabic Audio": "eca-1434-17.mp3",
 			"Standard Arabic Audio": "msa-1434-17.mp3"
 		},
@@ -162,7 +162,7 @@
 			"English": "Let me make you a cup of hot chocolate.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "اسمحوا لي أن تجعلك كوب من الشوكولاته الساخنة.",
 			"Egyptian Arabic Audio": "eca-1434-18.mp3",
 			"Standard Arabic Audio": "msa-1434-18.mp3"
 		},
@@ -171,7 +171,7 @@
 			"English": "\" Donna went in.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "&quot;ذهب دونا في.",
 			"Egyptian Arabic Audio": "eca-1434-19.mp3",
 			"Standard Arabic Audio": "msa-1434-19.mp3"
 		},
@@ -180,7 +180,7 @@
 			"English": "She drank two cups of hot chocolate.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "شربت كوبين من الشوكولا الساخنة.",
 			"Egyptian Arabic Audio": "eca-1434-20.mp3",
 			"Standard Arabic Audio": "msa-1434-20.mp3"
 		},
@@ -189,7 +189,7 @@
 			"English": "Then she said goodbye to Mrs White.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ثم قالت وداعا للسيدة وايت.",
 			"Egyptian Arabic Audio": "eca-1434-21.mp3",
 			"Standard Arabic Audio": "msa-1434-21.mp3"
 		},
@@ -198,7 +198,7 @@
 			"English": "She walked to the next corner.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "سارت إلى الزاوية التالية.",
 			"Egyptian Arabic Audio": "eca-1434-22.mp3",
 			"Standard Arabic Audio": "msa-1434-22.mp3"
 		},
@@ -207,7 +207,7 @@
 			"English": "She went to the house on the corner.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ذهبت إلى المنزل على الزاوية.",
 			"Egyptian Arabic Audio": "eca-1434-23.mp3",
 			"Standard Arabic Audio": "msa-1434-23.mp3"
 		},
@@ -216,7 +216,7 @@
 			"English": "She knocked on the door.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انها طرقت على الباب.",
 			"Egyptian Arabic Audio": "eca-1434-24.mp3",
 			"Standard Arabic Audio": "msa-1434-24.mp3"
 		},
@@ -225,7 +225,7 @@
 			"English": "Mrs.",
 			"Word Count": 1,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "السيدة.",
 			"Egyptian Arabic Audio": "eca-1434-25.mp3",
 			"Standard Arabic Audio": "msa-1434-25.mp3"
 		},
@@ -234,7 +234,7 @@
 			"English": "Brown opened the door.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "فتحت براون الباب.",
 			"Egyptian Arabic Audio": "eca-1434-26.mp3",
 			"Standard Arabic Audio": "msa-1434-26.mp3"
 		},
@@ -243,7 +243,7 @@
 			"English": "\"Hi, Donna,\" she said.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "&quot;مرحبا، دونا&quot;، قالت.",
 			"Egyptian Arabic Audio": "eca-1434-27.mp3",
 			"Standard Arabic Audio": "msa-1434-27.mp3"
 		},
@@ -252,7 +252,7 @@
 			"English": "\"Come in, dear.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "&quot;تعال، عزيزي.",
 			"Egyptian Arabic Audio": "eca-1434-28.mp3",
 			"Standard Arabic Audio": "msa-1434-28.mp3"
 		},
@@ -261,7 +261,7 @@
 			"English": "It's so cold outside.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انها باردة جدا في الخارج.",
 			"Egyptian Arabic Audio": "eca-1434-29.mp3",
 			"Standard Arabic Audio": "msa-1434-29.mp3"
 		},
@@ -270,7 +270,7 @@
 			"English": "Let me make you a cup of hot chocolate.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "اسمحوا لي أن تجعلك كوب من الشوكولاته الساخنة.",
 			"Egyptian Arabic Audio": "eca-1434-30.mp3",
 			"Standard Arabic Audio": "msa-1434-30.mp3"
 		},
@@ -279,7 +279,7 @@
 			"English": "\" Donna said, \"Oh, thank you, Mrs.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "&quot;وقال دونا،&quot; أوه، شكرا لك، السيدة.",
 			"Egyptian Arabic Audio": "eca-1434-31.mp3",
 			"Standard Arabic Audio": "msa-1434-31.mp3"
 		},
@@ -288,7 +288,7 @@
 			"English": "Brown.",
 			"Word Count": 1,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "بنى.",
 			"Egyptian Arabic Audio": "eca-1434-32.mp3",
 			"Standard Arabic Audio": "msa-1434-32.mp3"
 		},
@@ -297,7 +297,7 @@
 			"English": "\".",
 			"Word Count": 1,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "&quot;.",
 			"Egyptian Arabic Audio": "eca-1434-33.mp3",
 			"Standard Arabic Audio": "msa-1434-33.mp3"
 		}

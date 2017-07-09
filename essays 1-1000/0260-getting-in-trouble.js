@@ -9,7 +9,7 @@
 			"English": "Bill was playing catch with his friends inside his house.",
 			"Word Count": 10,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كان بيل يلعب الصيد مع أصدقائه داخل منزله.",
 			"Egyptian Arabic Audio": "eca-0260-1.mp3",
 			"Standard Arabic Audio": "msa-0260-1.mp3"
 		},
@@ -18,7 +18,7 @@
 			"English": "His parents were not home.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لم يكن والداه في المنزل.",
 			"Egyptian Arabic Audio": "eca-0260-2.mp3",
 			"Standard Arabic Audio": "msa-0260-2.mp3"
 		},
@@ -27,7 +27,7 @@
 			"English": "They were playing with a baseball.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كانوا يلعبون مع البيسبول.",
 			"Egyptian Arabic Audio": "eca-0260-3.mp3",
 			"Standard Arabic Audio": "msa-0260-3.mp3"
 		},
@@ -36,7 +36,7 @@
 			"English": "They played for a little bit until Bill missed the ball.",
 			"Word Count": 11,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لعبوا قليلا حتى فات غاب الكرة.",
 			"Egyptian Arabic Audio": "eca-0260-4.mp3",
 			"Standard Arabic Audio": "msa-0260-4.mp3"
 		},
@@ -45,7 +45,7 @@
 			"English": "The ball hit a crystal vase and broke it.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ضرب الكرة مزهرية الكريستال وكسر ذلك.",
 			"Egyptian Arabic Audio": "eca-0260-5.mp3",
 			"Standard Arabic Audio": "msa-0260-5.mp3"
 		},
@@ -54,7 +54,7 @@
 			"English": "It was a gift his parents got for their wedding.",
 			"Word Count": 10,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كان هدية والديه حصلت على زفافهما.",
 			"Egyptian Arabic Audio": "eca-0260-6.mp3",
 			"Standard Arabic Audio": "msa-0260-6.mp3"
 		},
@@ -63,7 +63,7 @@
 			"English": "It was very special to his mom.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كان خاصا جدا لأمه.",
 			"Egyptian Arabic Audio": "eca-0260-7.mp3",
 			"Standard Arabic Audio": "msa-0260-7.mp3"
 		},
@@ -72,7 +72,7 @@
 			"English": "Bill knew he got in big trouble.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "بيل يعرف انه حصل في ورطة كبيرة.",
 			"Egyptian Arabic Audio": "eca-0260-8.mp3",
 			"Standard Arabic Audio": "msa-0260-8.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "His friends tried to help him.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "حاول أصدقائه مساعدته.",
 			"Egyptian Arabic Audio": "eca-0260-9.mp3",
 			"Standard Arabic Audio": "msa-0260-9.mp3"
 		},
@@ -90,7 +90,7 @@
 			"English": "They tried to glue it back together.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "حاولوا الغراء مرة أخرى معا.",
 			"Egyptian Arabic Audio": "eca-0260-10.mp3",
 			"Standard Arabic Audio": "msa-0260-10.mp3"
 		},
@@ -99,7 +99,7 @@
 			"English": "It didn't work.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لم ينجح.",
 			"Egyptian Arabic Audio": "eca-0260-11.mp3",
 			"Standard Arabic Audio": "msa-0260-11.mp3"
 		},
@@ -108,7 +108,7 @@
 			"English": "They searched the Internet to see if they could find another one and replace it.",
 			"Word Count": 15,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "بحثوا الإنترنت لمعرفة ما إذا كان يمكن العثور على واحد آخر واستبدالها.",
 			"Egyptian Arabic Audio": "eca-0260-12.mp3",
 			"Standard Arabic Audio": "msa-0260-12.mp3"
 		},
@@ -117,7 +117,7 @@
 			"English": "Bill decided that the only thing he could do was to tell his parents.",
 			"Word Count": 14,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "قرر بيل أن الشيء الوحيد الذي يمكن القيام به هو أن أقول والديه.",
 			"Egyptian Arabic Audio": "eca-0260-13.mp3",
 			"Standard Arabic Audio": "msa-0260-13.mp3"
 		},
@@ -126,7 +126,7 @@
 			"English": "His parents came home.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "عاد والديه إلى المنزل.",
 			"Egyptian Arabic Audio": "eca-0260-14.mp3",
 			"Standard Arabic Audio": "msa-0260-14.mp3"
 		},
@@ -135,7 +135,7 @@
 			"English": "Bill told them.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وقال لهم بيل.",
 			"Egyptian Arabic Audio": "eca-0260-15.mp3",
 			"Standard Arabic Audio": "msa-0260-15.mp3"
 		},
@@ -144,7 +144,7 @@
 			"English": "His mother was furious.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كانت والدته غاضبة.",
 			"Egyptian Arabic Audio": "eca-0260-16.mp3",
 			"Standard Arabic Audio": "msa-0260-16.mp3"
 		},
@@ -153,7 +153,7 @@
 			"English": "She told him not to play with the ball inside the house.",
 			"Word Count": 12,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "قالت له عدم اللعب مع الكرة داخل المنزل.",
 			"Egyptian Arabic Audio": "eca-0260-17.mp3",
 			"Standard Arabic Audio": "msa-0260-17.mp3"
 		}

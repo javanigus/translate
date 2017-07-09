@@ -9,7 +9,7 @@
 			"English": "Maybe it was something in the air, Heather thought.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ربما كان شيئا في الهواء، يعتقد هيذر.",
 			"Egyptian Arabic Audio": "eca-1818-1.mp3",
 			"Standard Arabic Audio": "msa-1818-1.mp3"
 		}

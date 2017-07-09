@@ -9,7 +9,7 @@
 			"English": "She worries a lot.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انها قلقة كثيرا.",
 			"Egyptian Arabic Audio": "eca-0357-1.mp3",
 			"Standard Arabic Audio": "msa-0357-1.mp3"
 		},
@@ -18,7 +18,7 @@
 			"English": "She worries about polar bears.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انها قلقة بشأن الدببة القطبية.",
 			"Egyptian Arabic Audio": "eca-0357-2.mp3",
 			"Standard Arabic Audio": "msa-0357-2.mp3"
 		},
@@ -27,7 +27,7 @@
 			"English": "They are big, white bears.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "فهي كبيرة، الدببة البيضاء.",
 			"Egyptian Arabic Audio": "eca-0357-3.mp3",
 			"Standard Arabic Audio": "msa-0357-3.mp3"
 		},
@@ -36,7 +36,7 @@
 			"English": "They live in the north.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وهم يعيشون في الشمال.",
 			"Egyptian Arabic Audio": "eca-0357-4.mp3",
 			"Standard Arabic Audio": "msa-0357-4.mp3"
 		},
@@ -45,7 +45,7 @@
 			"English": "They need snow.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انهم بحاجة الثلج.",
 			"Egyptian Arabic Audio": "eca-0357-5.mp3",
 			"Standard Arabic Audio": "msa-0357-5.mp3"
 		},
@@ -54,7 +54,7 @@
 			"English": "They need ice.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انهم بحاجة الى الجليد.",
 			"Egyptian Arabic Audio": "eca-0357-6.mp3",
 			"Standard Arabic Audio": "msa-0357-6.mp3"
 		},
@@ -63,7 +63,7 @@
 			"English": "They need cold weather.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انهم في حاجة الى الطقس البارد.",
 			"Egyptian Arabic Audio": "eca-0357-7.mp3",
 			"Standard Arabic Audio": "msa-0357-7.mp3"
 		},
@@ -72,7 +72,7 @@
 			"English": "There is too much pollution.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هناك الكثير من التلوث.",
 			"Egyptian Arabic Audio": "eca-0357-8.mp3",
 			"Standard Arabic Audio": "msa-0357-8.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "Pollution heats up the Earth.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "التلوث يسخن الأرض.",
 			"Egyptian Arabic Audio": "eca-0357-9.mp3",
 			"Standard Arabic Audio": "msa-0357-9.mp3"
 		},
@@ -90,7 +90,7 @@
 			"English": "Heat melts the ice.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "الحرارة يذوب الجليد.",
 			"Egyptian Arabic Audio": "eca-0357-10.mp3",
 			"Standard Arabic Audio": "msa-0357-10.mp3"
 		},
@@ -99,7 +99,7 @@
 			"English": "The ice is the polar bears' home.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "الثلج هو منزل الدببة القطبية &quot;.",
 			"Egyptian Arabic Audio": "eca-0357-11.mp3",
 			"Standard Arabic Audio": "msa-0357-11.mp3"
 		},
@@ -108,7 +108,7 @@
 			"English": "No ice means no home.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لا الجليد يعني لا المنزل.",
 			"Egyptian Arabic Audio": "eca-0357-12.mp3",
 			"Standard Arabic Audio": "msa-0357-12.mp3"
 		}

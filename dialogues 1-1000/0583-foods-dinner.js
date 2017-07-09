@@ -11,7 +11,7 @@
 			"English": "Have you decided what you're going to order?",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هل قررت ما أنت ذاهب إلى النظام؟",
 			"Egyptian Arabic Audio": "eca-0583-1.mp3",
 			"Standard Arabic Audio": "msa-0583-1.mp3"
 		},
@@ -21,7 +21,7 @@
 			"English": "I think I want to eat a steak today.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أعتقد أنني أريد أن أكل شريحة لحم اليوم.",
 			"Egyptian Arabic Audio": "eca-0583-2.mp3",
 			"Standard Arabic Audio": "msa-0583-2.mp3"
 		},
@@ -31,7 +31,7 @@
 			"English": "That sounds delicious!",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هذا يبدو لذيذ!",
 			"Egyptian Arabic Audio": "eca-0583-3.mp3",
 			"Standard Arabic Audio": "msa-0583-3.mp3"
 		},
@@ -41,7 +41,7 @@
 			"English": "I've been craving one all day.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لقد تم شغف واحد كل يوم.",
 			"Egyptian Arabic Audio": "eca-0583-4.mp3",
 			"Standard Arabic Audio": "msa-0583-4.mp3"
 		},
@@ -51,7 +51,7 @@
 			"English": "You're making me crave one now!",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كنت تجعلني أشتهي واحد الآن!",
 			"Egyptian Arabic Audio": "eca-0583-5.mp3",
 			"Standard Arabic Audio": "msa-0583-5.mp3"
 		},
@@ -61,7 +61,7 @@
 			"English": "Well, we might as well order the steak now.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "حسنا، ونحن قد النظام كذلك شريحة لحم الآن.",
 			"Egyptian Arabic Audio": "eca-0583-6.mp3",
 			"Standard Arabic Audio": "msa-0583-6.mp3"
 		},
@@ -71,7 +71,7 @@
 			"English": "Actually, I change my mind.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "في الواقع، أنا غير رأيي.",
 			"Egyptian Arabic Audio": "eca-0583-7.mp3",
 			"Standard Arabic Audio": "msa-0583-7.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "What are you having?",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ماذا لديك؟",
 			"Egyptian Arabic Audio": "eca-0583-8.mp3",
 			"Standard Arabic Audio": "msa-0583-8.mp3"
 		},
@@ -91,7 +91,7 @@
 			"English": "Shrimp pasta, it looks delicious.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "الروبيان المعكرونة، يبدو لذيذ.",
 			"Egyptian Arabic Audio": "eca-0583-9.mp3",
 			"Standard Arabic Audio": "msa-0583-9.mp3"
 		},
@@ -101,7 +101,7 @@
 			"English": "Do you mind if I try some of that?",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هل تمانع إذا حاولت بعض ذلك؟",
 			"Egyptian Arabic Audio": "eca-0583-10.mp3",
 			"Standard Arabic Audio": "msa-0583-10.mp3"
 		},
@@ -111,7 +111,7 @@
 			"English": "Only if you give me some steak!",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "فقط إذا كنت تعطيني بعض شريحة لحم!",
 			"Egyptian Arabic Audio": "eca-0583-11.mp3",
 			"Standard Arabic Audio": "msa-0583-11.mp3"
 		},
@@ -121,7 +121,7 @@
 			"English": "Alright, it's perfect, thanks!",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "حسنا، انها مثالية، شكرا!",
 			"Egyptian Arabic Audio": "eca-0583-12.mp3",
 			"Standard Arabic Audio": "msa-0583-12.mp3"
 		}

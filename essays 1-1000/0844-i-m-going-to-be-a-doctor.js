@@ -9,7 +9,7 @@
 			"English": "One day, Chris was in class.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يوم واحد، كان كريس في الصف.",
 			"Egyptian Arabic Audio": "eca-0844-1.mp3",
 			"Standard Arabic Audio": "msa-0844-1.mp3"
 		},
@@ -18,7 +18,7 @@
 			"English": "He had to learn to draw blood.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كان عليه أن يتعلم رسم الدم.",
 			"Egyptian Arabic Audio": "eca-0844-2.mp3",
 			"Standard Arabic Audio": "msa-0844-2.mp3"
 		},
@@ -27,7 +27,7 @@
 			"English": "He stared at the needles.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انه يحدق في الإبر.",
 			"Egyptian Arabic Audio": "eca-0844-3.mp3",
 			"Standard Arabic Audio": "msa-0844-3.mp3"
 		},
@@ -36,7 +36,7 @@
 			"English": "\"It's your turn to try it, Chris,\" said the professor.",
 			"Word Count": 10,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "&quot;لقد حان دورك لمحاولة ذلك، كريس&quot;، قال الأستاذ.",
 			"Egyptian Arabic Audio": "eca-0844-4.mp3",
 			"Standard Arabic Audio": "msa-0844-4.mp3"
 		},
@@ -45,7 +45,7 @@
 			"English": "Chris couldn't move.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لم يتمكن كريس من التحرك.",
 			"Egyptian Arabic Audio": "eca-0844-5.mp3",
 			"Standard Arabic Audio": "msa-0844-5.mp3"
 		},
@@ -54,7 +54,7 @@
 			"English": "He had no idea why he felt so scared.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لم يكن لديه فكرة لماذا شعر بالخوف الشديد.",
 			"Egyptian Arabic Audio": "eca-0844-6.mp3",
 			"Standard Arabic Audio": "msa-0844-6.mp3"
 		},
@@ -63,7 +63,7 @@
 			"English": "Shaking, he injected the patient's arm.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هز، وحقن ذراع المريض.",
 			"Egyptian Arabic Audio": "eca-0844-7.mp3",
 			"Standard Arabic Audio": "msa-0844-7.mp3"
 		},
@@ -72,7 +72,7 @@
 			"English": "A little drop of blood came out.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "جاء انخفاض قليل من الدم.",
 			"Egyptian Arabic Audio": "eca-0844-8.mp3",
 			"Standard Arabic Audio": "msa-0844-8.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "Chris fainted.",
 			"Word Count": 2,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كمي غمي عليه.",
 			"Egyptian Arabic Audio": "eca-0844-9.mp3",
 			"Standard Arabic Audio": "msa-0844-9.mp3"
 		},
@@ -90,7 +90,7 @@
 			"English": "Doctors cannot be scared of blood.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "الأطباء لا يمكن أن يكونوا خائفين من الدم.",
 			"Egyptian Arabic Audio": "eca-0844-10.mp3",
 			"Standard Arabic Audio": "msa-0844-10.mp3"
 		},
@@ -99,7 +99,7 @@
 			"English": "It was time to find a new career.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لقد حان الوقت لإيجاد مهنة جديدة.",
 			"Egyptian Arabic Audio": "eca-0844-11.mp3",
 			"Standard Arabic Audio": "msa-0844-11.mp3"
 		}

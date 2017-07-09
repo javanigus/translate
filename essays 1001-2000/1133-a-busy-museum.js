@@ -9,7 +9,7 @@
 			"English": "Many people are in front of the museum.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كثير من الناس أمام المتحف.",
 			"Egyptian Arabic Audio": "eca-1133-1.mp3",
 			"Standard Arabic Audio": "msa-1133-1.mp3"
 		},
@@ -18,7 +18,7 @@
 			"English": "Some people sit on the steps.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "بعض الناس يجلسون على الخطوات.",
 			"Egyptian Arabic Audio": "eca-1133-2.mp3",
 			"Standard Arabic Audio": "msa-1133-2.mp3"
 		},
@@ -27,7 +27,7 @@
 			"English": "Some people stand.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "بعض الناس يقفون.",
 			"Egyptian Arabic Audio": "eca-1133-3.mp3",
 			"Standard Arabic Audio": "msa-1133-3.mp3"
 		},
@@ -36,7 +36,7 @@
 			"English": "Some take pictures.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "بعض التقاط الصور.",
 			"Egyptian Arabic Audio": "eca-1133-4.mp3",
 			"Standard Arabic Audio": "msa-1133-4.mp3"
 		},
@@ -45,7 +45,7 @@
 			"English": "Some stand in line.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "بعض الوقوف في خط.",
 			"Egyptian Arabic Audio": "eca-1133-5.mp3",
 			"Standard Arabic Audio": "msa-1133-5.mp3"
 		},
@@ -54,7 +54,7 @@
 			"English": "They buy ice cream.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يشترون الآيس كريم.",
 			"Egyptian Arabic Audio": "eca-1133-6.mp3",
 			"Standard Arabic Audio": "msa-1133-6.mp3"
 		},
@@ -63,7 +63,7 @@
 			"English": "They buy hot dogs.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يشترون الكلاب الساخنة.",
 			"Egyptian Arabic Audio": "eca-1133-7.mp3",
 			"Standard Arabic Audio": "msa-1133-7.mp3"
 		},
@@ -72,7 +72,7 @@
 			"English": "Buses and taxis stop and go.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "الحافلات وسيارات الأجرة تتوقف وتذهب.",
 			"Egyptian Arabic Audio": "eca-1133-8.mp3",
 			"Standard Arabic Audio": "msa-1133-8.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "The museum is open.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "المتحف مفتوح.",
 			"Egyptian Arabic Audio": "eca-1133-9.mp3",
 			"Standard Arabic Audio": "msa-1133-9.mp3"
 		},
@@ -90,7 +90,7 @@
 			"English": "Many people are inside.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كثير من الناس في الداخل.",
 			"Egyptian Arabic Audio": "eca-1133-10.mp3",
 			"Standard Arabic Audio": "msa-1133-10.mp3"
 		},
@@ -99,7 +99,7 @@
 			"English": "Many people are outside.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كثير من الناس خارج.",
 			"Egyptian Arabic Audio": "eca-1133-11.mp3",
 			"Standard Arabic Audio": "msa-1133-11.mp3"
 		},
@@ -108,7 +108,7 @@
 			"English": "It is a busy place.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "إنه مكان مزدحم.",
 			"Egyptian Arabic Audio": "eca-1133-12.mp3",
 			"Standard Arabic Audio": "msa-1133-12.mp3"
 		}

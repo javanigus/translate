@@ -11,7 +11,7 @@
 			"English": "What have you done to my hair?",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ماذا فعلت لشعري؟",
 			"Egyptian Arabic Audio": "eca-0469-1.mp3",
 			"Standard Arabic Audio": "msa-0469-1.mp3"
 		},
@@ -21,7 +21,7 @@
 			"English": "I did exactly what you told me to do.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "فعلت بالضبط ما قلت لي أن أفعل.",
 			"Egyptian Arabic Audio": "eca-0469-2.mp3",
 			"Standard Arabic Audio": "msa-0469-2.mp3"
 		},
@@ -31,7 +31,7 @@
 			"English": "I asked for a light trim, not for a butchering!",
 			"Word Count": 10,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "سألت عن تقليم الضوء، وليس للجزار!",
 			"Egyptian Arabic Audio": "eca-0469-3.mp3",
 			"Standard Arabic Audio": "msa-0469-3.mp3"
 		},
@@ -41,7 +41,7 @@
 			"English": "I had to cut out all the split ends.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "واضطررت الى قطع جميع الانقسام الانقسام.",
 			"Egyptian Arabic Audio": "eca-0469-4.mp3",
 			"Standard Arabic Audio": "msa-0469-4.mp3"
 		},
@@ -51,7 +51,7 @@
 			"English": "I look like a grapefruit! My head is too round!",
 			"Word Count": 10,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنا تبدو وكأنها الجريب فروت! رأسي مستدير جدا!",
 			"Egyptian Arabic Audio": "eca-0469-5.mp3",
 			"Standard Arabic Audio": "msa-0469-5.mp3"
 		},
@@ -61,7 +61,7 @@
 			"English": "It's a short bob, very stylish.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انها بوب قصيرة، أنيقة جدا.",
 			"Egyptian Arabic Audio": "eca-0469-6.mp3",
 			"Standard Arabic Audio": "msa-0469-6.mp3"
 		},
@@ -71,7 +71,7 @@
 			"English": "It looks more like a bowl cut to me!",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يبدو أكثر مثل وعاء قطع لي!",
 			"Egyptian Arabic Audio": "eca-0469-7.mp3",
 			"Standard Arabic Audio": "msa-0469-7.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "It looks fantastic, don't exaggerate.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يبدو رائعا، لا نبالغ.",
 			"Egyptian Arabic Audio": "eca-0469-8.mp3",
 			"Standard Arabic Audio": "msa-0469-8.mp3"
 		},
@@ -91,7 +91,7 @@
 			"English": "I hate it! I'm not paying for this!",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أكرهها! أنا لا أدفع لهذا!",
 			"Egyptian Arabic Audio": "eca-0469-9.mp3",
 			"Standard Arabic Audio": "msa-0469-9.mp3"
 		},
@@ -101,7 +101,7 @@
 			"English": "You have to pay me for my labor!",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "عليك أن تدفع لي لبلدي العمل!",
 			"Egyptian Arabic Audio": "eca-0469-10.mp3",
 			"Standard Arabic Audio": "msa-0469-10.mp3"
 		},
@@ -111,7 +111,7 @@
 			"English": "I'm never coming here ever again!",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنا لم أذهب إلى هنا من أي وقت مضى مرة أخرى!",
 			"Egyptian Arabic Audio": "eca-0469-11.mp3",
 			"Standard Arabic Audio": "msa-0469-11.mp3"
 		},
@@ -121,7 +121,7 @@
 			"English": "Trust me, you won't be missed.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ثق بي، لن تفوت.",
 			"Egyptian Arabic Audio": "eca-0469-12.mp3",
 			"Standard Arabic Audio": "msa-0469-12.mp3"
 		}

@@ -9,7 +9,7 @@
 			"English": "The potted plant is on the windowsill.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "مصنع بوعاء على النافذة.",
 			"Egyptian Arabic Audio": "eca-1102-1.mp3",
 			"Standard Arabic Audio": "msa-1102-1.mp3"
 		},
@@ -18,7 +18,7 @@
 			"English": "She looks at the plant.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انها تنظر الى المصنع.",
 			"Egyptian Arabic Audio": "eca-1102-2.mp3",
 			"Standard Arabic Audio": "msa-1102-2.mp3"
 		},
@@ -27,7 +27,7 @@
 			"English": "It has a yellow leaf.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لديها ورقة صفراء.",
 			"Egyptian Arabic Audio": "eca-1102-3.mp3",
 			"Standard Arabic Audio": "msa-1102-3.mp3"
 		},
@@ -36,7 +36,7 @@
 			"English": "She pulls off the yellow leaf.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انها تسحب قبالة ورقة صفراء.",
 			"Egyptian Arabic Audio": "eca-1102-4.mp3",
 			"Standard Arabic Audio": "msa-1102-4.mp3"
 		},
@@ -45,7 +45,7 @@
 			"English": "She throws it in the trash.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انها رميها في سلة المهملات.",
 			"Egyptian Arabic Audio": "eca-1102-5.mp3",
 			"Standard Arabic Audio": "msa-1102-5.mp3"
 		},
@@ -54,7 +54,7 @@
 			"English": "She takes the plant to the kitchen sink.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وقالت انها تأخذ النبات إلى بالوعة المطبخ.",
 			"Egyptian Arabic Audio": "eca-1102-6.mp3",
 			"Standard Arabic Audio": "msa-1102-6.mp3"
 		},
@@ -63,7 +63,7 @@
 			"English": "She turns on the faucet.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وقالت انها تتحول على صنبور.",
 			"Egyptian Arabic Audio": "eca-1102-7.mp3",
 			"Standard Arabic Audio": "msa-1102-7.mp3"
 		},
@@ -72,7 +72,7 @@
 			"English": "She waters the plant.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انها تسقي النبات.",
 			"Egyptian Arabic Audio": "eca-1102-8.mp3",
 			"Standard Arabic Audio": "msa-1102-8.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "She puts the plant back on the windowsill.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "إنها تضع النبات مرة أخرى على النافذة.",
 			"Egyptian Arabic Audio": "eca-1102-9.mp3",
 			"Standard Arabic Audio": "msa-1102-9.mp3"
 		}

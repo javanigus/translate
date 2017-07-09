@@ -9,7 +9,7 @@
 			"English": "He is hungry.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "إنه جائع.",
 			"Egyptian Arabic Audio": "eca-0627-1.mp3",
 			"Standard Arabic Audio": "msa-0627-1.mp3"
 		},
@@ -18,7 +18,7 @@
 			"English": "All of the restaurants nearby are closed.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يتم إغلاق جميع المطاعم القريبة.",
 			"Egyptian Arabic Audio": "eca-0627-2.mp3",
 			"Standard Arabic Audio": "msa-0627-2.mp3"
 		},
@@ -27,7 +27,7 @@
 			"English": "He finds a vending machine.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يجد آلة بيع.",
 			"Egyptian Arabic Audio": "eca-0627-3.mp3",
 			"Standard Arabic Audio": "msa-0627-3.mp3"
 		},
@@ -36,7 +36,7 @@
 			"English": "There are many snacks inside.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هناك العديد من الوجبات الخفيفة في الداخل.",
 			"Egyptian Arabic Audio": "eca-0627-4.mp3",
 			"Standard Arabic Audio": "msa-0627-4.mp3"
 		},
@@ -45,7 +45,7 @@
 			"English": "There are drinks, too.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هناك مشروبات أيضا.",
 			"Egyptian Arabic Audio": "eca-0627-5.mp3",
 			"Standard Arabic Audio": "msa-0627-5.mp3"
 		},
@@ -54,7 +54,7 @@
 			"English": "He puts one dollar in.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انه يضع دولار واحد في.",
 			"Egyptian Arabic Audio": "eca-0627-6.mp3",
 			"Standard Arabic Audio": "msa-0627-6.mp3"
 		},
@@ -63,7 +63,7 @@
 			"English": "He wants a bag of chips.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يريد كيس من رقائق.",
 			"Egyptian Arabic Audio": "eca-0627-7.mp3",
 			"Standard Arabic Audio": "msa-0627-7.mp3"
 		},
@@ -72,7 +72,7 @@
 			"English": "He pushes the button for the chips.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انه يدفع زر للرقائق.",
 			"Egyptian Arabic Audio": "eca-0627-8.mp3",
 			"Standard Arabic Audio": "msa-0627-8.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "He puts his hand in the machine.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يضع يده في الجهاز.",
 			"Egyptian Arabic Audio": "eca-0627-9.mp3",
 			"Standard Arabic Audio": "msa-0627-9.mp3"
 		},
@@ -90,7 +90,7 @@
 			"English": "He gets his chips.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انه يحصل على رقائق له.",
 			"Egyptian Arabic Audio": "eca-0627-10.mp3",
 			"Standard Arabic Audio": "msa-0627-10.mp3"
 		}

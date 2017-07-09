@@ -9,7 +9,7 @@
 			"English": "Kate looks at the magazine.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كيت تبدو في المجلة.",
 			"Egyptian Arabic Audio": "eca-0160-1.mp3",
 			"Standard Arabic Audio": "msa-0160-1.mp3"
 		},
@@ -18,7 +18,7 @@
 			"English": "The magazine cover has a pretty girl.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "غطاء المجلة لديه فتاة جميلة.",
 			"Egyptian Arabic Audio": "eca-0160-2.mp3",
 			"Standard Arabic Audio": "msa-0160-2.mp3"
 		},
@@ -27,7 +27,7 @@
 			"English": "She has long hair.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لديها شعر طويل.",
 			"Egyptian Arabic Audio": "eca-0160-3.mp3",
 			"Standard Arabic Audio": "msa-0160-3.mp3"
 		},
@@ -36,7 +36,7 @@
 			"English": "She has big, blue eyes.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لديها عيون كبيرة زرقاء.",
 			"Egyptian Arabic Audio": "eca-0160-4.mp3",
 			"Standard Arabic Audio": "msa-0160-4.mp3"
 		},
@@ -45,7 +45,7 @@
 			"English": "Her skin looks nice.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "بشرتها تبدو لطيفة.",
 			"Egyptian Arabic Audio": "eca-0160-5.mp3",
 			"Standard Arabic Audio": "msa-0160-5.mp3"
 		},
@@ -54,7 +54,7 @@
 			"English": "She is a fashion model.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "إنها نموذج أزياء.",
 			"Egyptian Arabic Audio": "eca-0160-6.mp3",
 			"Standard Arabic Audio": "msa-0160-6.mp3"
 		},
@@ -63,7 +63,7 @@
 			"English": "Kate opens up the magazine.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كيت يفتح المجلة.",
 			"Egyptian Arabic Audio": "eca-0160-7.mp3",
 			"Standard Arabic Audio": "msa-0160-7.mp3"
 		},
@@ -72,7 +72,7 @@
 			"English": "She flips to pages where the model is.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انها تقلب إلى صفحات حيث النموذج هو.",
 			"Egyptian Arabic Audio": "eca-0160-8.mp3",
 			"Standard Arabic Audio": "msa-0160-8.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "She reads about the model.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "تقرأ عن النموذج.",
 			"Egyptian Arabic Audio": "eca-0160-9.mp3",
 			"Standard Arabic Audio": "msa-0160-9.mp3"
 		},
@@ -90,7 +90,7 @@
 			"English": "She wishes she could be her.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وقالت إنها ترغب في أن تكون لها.",
 			"Egyptian Arabic Audio": "eca-0160-10.mp3",
 			"Standard Arabic Audio": "msa-0160-10.mp3"
 		}

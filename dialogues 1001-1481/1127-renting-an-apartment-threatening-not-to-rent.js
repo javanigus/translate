@@ -11,7 +11,7 @@
 			"English": "Do you like the apartment so far?",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هل تحب الشقة حتى الآن؟",
 			"Egyptian Arabic Audio": "eca-1127-1.mp3",
 			"Standard Arabic Audio": "msa-1127-1.mp3"
 		},
@@ -21,7 +21,7 @@
 			"English": "I see a problem.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أرى مشكلة.",
 			"Egyptian Arabic Audio": "eca-1127-2.mp3",
 			"Standard Arabic Audio": "msa-1127-2.mp3"
 		},
@@ -31,7 +31,7 @@
 			"English": "What's the problem?",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ما هي المشكلة؟",
 			"Egyptian Arabic Audio": "eca-1127-3.mp3",
 			"Standard Arabic Audio": "msa-1127-3.mp3"
 		},
@@ -41,7 +41,7 @@
 			"English": "I noticed that the faucet in the kitchen is leaking.",
 			"Word Count": 10,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لاحظت أن صنبور في المطبخ يتسرب.",
 			"Egyptian Arabic Audio": "eca-1127-4.mp3",
 			"Standard Arabic Audio": "msa-1127-4.mp3"
 		},
@@ -51,7 +51,7 @@
 			"English": "That's no big deal.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هذا ليس صفقة كبيرة.",
 			"Egyptian Arabic Audio": "eca-1127-5.mp3",
 			"Standard Arabic Audio": "msa-1127-5.mp3"
 		},
@@ -61,7 +61,7 @@
 			"English": "It's going to be a problem when my water bill comes.",
 			"Word Count": 11,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انها ستكون مشكلة عندما تأتي فاتورة المياه بلدي.",
 			"Egyptian Arabic Audio": "eca-1127-6.mp3",
 			"Standard Arabic Audio": "msa-1127-6.mp3"
 		},
@@ -71,7 +71,7 @@
 			"English": "What do you want me to do about it?",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ماذا تريد مني أن أفعل حيال ذلك؟",
 			"Egyptian Arabic Audio": "eca-1127-7.mp3",
 			"Standard Arabic Audio": "msa-1127-7.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "I would like you to fix the problem.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أود منك إصلاح المشكلة.",
 			"Egyptian Arabic Audio": "eca-1127-8.mp3",
 			"Standard Arabic Audio": "msa-1127-8.mp3"
 		},
@@ -91,7 +91,7 @@
 			"English": "I won't be able to do that right now.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لن أكون قادرا على القيام بذلك الآن.",
 			"Egyptian Arabic Audio": "eca-1127-9.mp3",
 			"Standard Arabic Audio": "msa-1127-9.mp3"
 		},
@@ -101,7 +101,7 @@
 			"English": "Well, I won't be able to rent the apartment until the problem is fixed.",
 			"Word Count": 14,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "حسنا، لن أكون قادرا على استئجار الشقة حتى يتم إصلاح المشكلة.",
 			"Egyptian Arabic Audio": "eca-1127-10.mp3",
 			"Standard Arabic Audio": "msa-1127-10.mp3"
 		},
@@ -111,7 +111,7 @@
 			"English": "Fine, I'll have it fixed for you.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "غرامة، وسوف يكون ثابت بالنسبة لك.",
 			"Egyptian Arabic Audio": "eca-1127-11.mp3",
 			"Standard Arabic Audio": "msa-1127-11.mp3"
 		},
@@ -121,7 +121,7 @@
 			"English": "I'm happy that we've come to an agreement.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنا سعيد لأننا قد توصلنا إلى اتفاق.",
 			"Egyptian Arabic Audio": "eca-1127-12.mp3",
 			"Standard Arabic Audio": "msa-1127-12.mp3"
 		},
@@ -131,7 +131,7 @@
 			"English": "How do you like the apartment?",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كيف تحب الشقة؟",
 			"Egyptian Arabic Audio": "eca-1127-13.mp3",
 			"Standard Arabic Audio": "msa-1127-13.mp3"
 		},
@@ -141,7 +141,7 @@
 			"English": "I like the apartment, but I see something wrong with it.",
 			"Word Count": 11,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنا أحب الشقة، ولكن أرى شيئا خاطئا معها.",
 			"Egyptian Arabic Audio": "eca-1127-14.mp3",
 			"Standard Arabic Audio": "msa-1127-14.mp3"
 		},
@@ -151,7 +151,7 @@
 			"English": "What's wrong?",
 			"Word Count": 2,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ماالخطب؟",
 			"Egyptian Arabic Audio": "eca-1127-15.mp3",
 			"Standard Arabic Audio": "msa-1127-15.mp3"
 		},
@@ -161,7 +161,7 @@
 			"English": "There's a leaking faucet in the kitchen.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هناك صنبور تسرب في المطبخ.",
 			"Egyptian Arabic Audio": "eca-1127-16.mp3",
 			"Standard Arabic Audio": "msa-1127-16.mp3"
 		},
@@ -171,7 +171,7 @@
 			"English": "That isn't a problem.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هذه ليست مشكلة.",
 			"Egyptian Arabic Audio": "eca-1127-17.mp3",
 			"Standard Arabic Audio": "msa-1127-17.mp3"
 		},
@@ -181,7 +181,7 @@
 			"English": "That leak is going to raise my water bill.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "سيؤدي هذا التسريب إلى رفع فاتورة المياه.",
 			"Egyptian Arabic Audio": "eca-1127-18.mp3",
 			"Standard Arabic Audio": "msa-1127-18.mp3"
 		},
@@ -191,7 +191,7 @@
 			"English": "What can I do?",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ماذا افعل؟",
 			"Egyptian Arabic Audio": "eca-1127-19.mp3",
 			"Standard Arabic Audio": "msa-1127-19.mp3"
 		},
@@ -201,7 +201,7 @@
 			"English": "You need to fix it.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "تحتاج إلى إصلاحه.",
 			"Egyptian Arabic Audio": "eca-1127-20.mp3",
 			"Standard Arabic Audio": "msa-1127-20.mp3"
 		},
@@ -211,7 +211,7 @@
 			"English": "I can't right now.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لا أستطيع الآن.",
 			"Egyptian Arabic Audio": "eca-1127-21.mp3",
 			"Standard Arabic Audio": "msa-1127-21.mp3"
 		},
@@ -221,7 +221,7 @@
 			"English": "I won't rent it if the faucet isn't fixed.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنا لن استئجاره إذا لم يتم إصلاح صنبور.",
 			"Egyptian Arabic Audio": "eca-1127-22.mp3",
 			"Standard Arabic Audio": "msa-1127-22.mp3"
 		},
@@ -231,7 +231,7 @@
 			"English": "I will fix it for you.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وسوف إصلاحه بالنسبة لك.",
 			"Egyptian Arabic Audio": "eca-1127-23.mp3",
 			"Standard Arabic Audio": "msa-1127-23.mp3"
 		},
@@ -241,7 +241,7 @@
 			"English": "I'm glad you finally agree.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنا سعيد لأنك توافق أخيرا.",
 			"Egyptian Arabic Audio": "eca-1127-24.mp3",
 			"Standard Arabic Audio": "msa-1127-24.mp3"
 		},
@@ -251,7 +251,7 @@
 			"English": "What do you think of the apartment?",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ما رأيك في الشقة؟",
 			"Egyptian Arabic Audio": "eca-1127-25.mp3",
 			"Standard Arabic Audio": "msa-1127-25.mp3"
 		},
@@ -261,7 +261,7 @@
 			"English": "I like it, but there is one problem.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنا أحب ذلك، ولكن هناك مشكلة واحدة.",
 			"Egyptian Arabic Audio": "eca-1127-26.mp3",
 			"Standard Arabic Audio": "msa-1127-26.mp3"
 		},
@@ -271,7 +271,7 @@
 			"English": "What problem is that?",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ما هي المشكلة؟",
 			"Egyptian Arabic Audio": "eca-1127-27.mp3",
 			"Standard Arabic Audio": "msa-1127-27.mp3"
 		},
@@ -281,7 +281,7 @@
 			"English": "The faucet in the kitchen is leaking.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "صنبور في المطبخ هو تسرب.",
 			"Egyptian Arabic Audio": "eca-1127-28.mp3",
 			"Standard Arabic Audio": "msa-1127-28.mp3"
 		},
@@ -291,7 +291,7 @@
 			"English": "I don't understand what the big deal is.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنا لا أفهم ما هي الصفقة الكبيرة.",
 			"Egyptian Arabic Audio": "eca-1127-29.mp3",
 			"Standard Arabic Audio": "msa-1127-29.mp3"
 		},
@@ -301,7 +301,7 @@
 			"English": "That leak is a problem for my water bill.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هذا التسرب مشكلة بالنسبة فاتورة المياه بلدي.",
 			"Egyptian Arabic Audio": "eca-1127-30.mp3",
 			"Standard Arabic Audio": "msa-1127-30.mp3"
 		},
@@ -311,7 +311,7 @@
 			"English": "What you would like me to do about it?",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ماذا تريد مني أن أفعل حيال ذلك؟",
 			"Egyptian Arabic Audio": "eca-1127-31.mp3",
 			"Standard Arabic Audio": "msa-1127-31.mp3"
 		},
@@ -321,7 +321,7 @@
 			"English": "The leak must be fixed.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يجب أن يكون ثابت تسرب.",
 			"Egyptian Arabic Audio": "eca-1127-32.mp3",
 			"Standard Arabic Audio": "msa-1127-32.mp3"
 		},
@@ -331,7 +331,7 @@
 			"English": "I won't be able to fix it at the moment.",
 			"Word Count": 10,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنا لن تكون قادرة على إصلاحه في الوقت الراهن.",
 			"Egyptian Arabic Audio": "eca-1127-33.mp3",
 			"Standard Arabic Audio": "msa-1127-33.mp3"
 		},
@@ -341,7 +341,7 @@
 			"English": "I will not rent the apartment with that leaking faucet.",
 			"Word Count": 10,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنا لن استئجار الشقة مع أن تسرب صنبور.",
 			"Egyptian Arabic Audio": "eca-1127-34.mp3",
 			"Standard Arabic Audio": "msa-1127-34.mp3"
 		},
@@ -351,7 +351,7 @@
 			"English": "If that's the case, then I will fix the faucet.",
 			"Word Count": 10,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "إذا كان هذا هو الحال، ثم سوف إصلاح الحنفية.",
 			"Egyptian Arabic Audio": "eca-1127-35.mp3",
 			"Standard Arabic Audio": "msa-1127-35.mp3"
 		},
@@ -361,7 +361,7 @@
 			"English": "Thanks for understanding.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "شكرا لتفهمك.",
 			"Egyptian Arabic Audio": "eca-1127-36.mp3",
 			"Standard Arabic Audio": "msa-1127-36.mp3"
 		}

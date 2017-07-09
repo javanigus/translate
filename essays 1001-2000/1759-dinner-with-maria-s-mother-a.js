@@ -9,7 +9,7 @@
 			"English": "She reminded him that she was only staying for a few days, and that they soon will alone again.",
 			"Word Count": 19,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وذکرتھ بأنھا ستبقی لبضعة أیام فقط، وأنھم سرعان ما سیعودون وحدھم مرة أخرى.",
 			"Egyptian Arabic Audio": "eca-1759-1.mp3",
 			"Standard Arabic Audio": "msa-1759-1.mp3"
 		},
@@ -18,7 +18,7 @@
 			"English": "Mike found comfort in Maria's words.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وجد مايك الراحة في كلمات ماريا.",
 			"Egyptian Arabic Audio": "eca-1759-2.mp3",
 			"Standard Arabic Audio": "msa-1759-2.mp3"
 		},
@@ -27,7 +27,7 @@
 			"English": "Dinner was served a few hours later.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "تم تقديم العشاء بعد ساعات قليلة.",
 			"Egyptian Arabic Audio": "eca-1759-3.mp3",
 			"Standard Arabic Audio": "msa-1759-3.mp3"
 		},
@@ -36,7 +36,7 @@
 			"English": "Mike, Maria, and Janet sat down to eat an American meal.",
 			"Word Count": 11,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "مايك، ماريا، وجانيت جلس لتناول الطعام وجبة الأمريكية.",
 			"Egyptian Arabic Audio": "eca-1759-4.mp3",
 			"Standard Arabic Audio": "msa-1759-4.mp3"
 		},
@@ -45,7 +45,7 @@
 			"English": "Maria even had some left-over apple pie from a few days ago.",
 			"Word Count": 12,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ماريا كان حتى بعض اليسار فطيرة التفاح من قبل بضعة أيام.",
 			"Egyptian Arabic Audio": "eca-1759-5.mp3",
 			"Standard Arabic Audio": "msa-1759-5.mp3"
 		},
@@ -54,7 +54,7 @@
 			"English": "Conversation soon began.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "بدأت المحادثة قريبا.",
 			"Egyptian Arabic Audio": "eca-1759-6.mp3",
 			"Standard Arabic Audio": "msa-1759-6.mp3"
 		}

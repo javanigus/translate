@@ -9,7 +9,7 @@
 			"English": "The new murals attracted the attention of local visitors to the library.",
 			"Word Count": 12,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "جذبت الجداريات الجديدة انتباه الزوار المحليين للمكتبة.",
 			"Egyptian Arabic Audio": "eca-2304-1.mp3",
 			"Standard Arabic Audio": "msa-2304-1.mp3"
 		},
@@ -18,7 +18,7 @@
 			"English": "The owner of the library was impressed and happy with the new look of his library.",
 			"Word Count": 16,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وكان مالك المكتبة معجبا وسعيدا بالمظهر الجديد لمكتبته.",
 			"Egyptian Arabic Audio": "eca-2304-2.mp3",
 			"Standard Arabic Audio": "msa-2304-2.mp3"
 		},
@@ -27,7 +27,7 @@
 			"English": "He awarded Anna and her friends with recognition and paid them for their labor.",
 			"Word Count": 14,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ومنح آنا وصديقاتها اعترافا ودفعن لهن للعمل.",
 			"Egyptian Arabic Audio": "eca-2304-3.mp3",
 			"Standard Arabic Audio": "msa-2304-3.mp3"
 		},
@@ -36,7 +36,7 @@
 			"English": "Anna was pleased.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كانت آنا مسرورة.",
 			"Egyptian Arabic Audio": "eca-2304-4.mp3",
 			"Standard Arabic Audio": "msa-2304-4.mp3"
 		}

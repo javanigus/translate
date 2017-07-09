@@ -11,7 +11,7 @@
 			"English": "I'd like to return this radio.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أود أن أعود هذه الإذاعة.",
 			"Egyptian Arabic Audio": "eca-1180-1.mp3",
 			"Standard Arabic Audio": "msa-1180-1.mp3"
 		},
@@ -21,7 +21,7 @@
 			"English": "All right. Do you have the receipt?",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "حسنا. هل لديك إيصال؟",
 			"Egyptian Arabic Audio": "eca-1180-2.mp3",
 			"Standard Arabic Audio": "msa-1180-2.mp3"
 		},
@@ -31,7 +31,7 @@
 			"English": "Here it is.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ها هو.",
 			"Egyptian Arabic Audio": "eca-1180-3.mp3",
 			"Standard Arabic Audio": "msa-1180-3.mp3"
 		},
@@ -41,7 +41,7 @@
 			"English": "May I ask why you're returning the radio?",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هل لي أن أسأل لماذا تعودون الإذاعة؟",
 			"Egyptian Arabic Audio": "eca-1180-4.mp3",
 			"Standard Arabic Audio": "msa-1180-4.mp3"
 		},
@@ -51,7 +51,7 @@
 			"English": "It does not work very well.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنها لا تعمل بشكل جيد للغاية.",
 			"Egyptian Arabic Audio": "eca-1180-5.mp3",
 			"Standard Arabic Audio": "msa-1180-5.mp3"
 		},
@@ -61,7 +61,7 @@
 			"English": "Would you like to exchange it?",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هل ترغب في تبادل ذلك؟",
 			"Egyptian Arabic Audio": "eca-1180-6.mp3",
 			"Standard Arabic Audio": "msa-1180-6.mp3"
 		},
@@ -71,7 +71,7 @@
 			"English": "No. I'd just like a refund.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لا، أود فقط استرداد الأموال.",
 			"Egyptian Arabic Audio": "eca-1180-7.mp3",
 			"Standard Arabic Audio": "msa-1180-7.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "Certainly. This will take only a few seconds.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "من المؤكد. هذا سوف يستغرق سوى بضع ثوان.",
 			"Egyptian Arabic Audio": "eca-1180-8.mp3",
 			"Standard Arabic Audio": "msa-1180-8.mp3"
 		},
@@ -91,7 +91,7 @@
 			"English": "I want to return this radio.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أريد أن أعود هذه الإذاعة.",
 			"Egyptian Arabic Audio": "eca-1180-9.mp3",
 			"Standard Arabic Audio": "msa-1180-9.mp3"
 		},
@@ -101,7 +101,7 @@
 			"English": "Okay. May I see your receipt?",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "حسنا. هل يمكنني رؤية الإيصال؟",
 			"Egyptian Arabic Audio": "eca-1180-10.mp3",
 			"Standard Arabic Audio": "msa-1180-10.mp3"
 		},
@@ -111,7 +111,7 @@
 			"English": "Certainly. I have it right here.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "من المؤكد. لدي ذلك الحق هنا.",
 			"Egyptian Arabic Audio": "eca-1180-11.mp3",
 			"Standard Arabic Audio": "msa-1180-11.mp3"
 		},
@@ -121,7 +121,7 @@
 			"English": "What is the problem with the radio?",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ما هي المشكلة مع الراديو؟",
 			"Egyptian Arabic Audio": "eca-1180-12.mp3",
 			"Standard Arabic Audio": "msa-1180-12.mp3"
 		},
@@ -131,7 +131,7 @@
 			"English": "It has poor reception.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لديه استقبال ضعيف.",
 			"Egyptian Arabic Audio": "eca-1180-13.mp3",
 			"Standard Arabic Audio": "msa-1180-13.mp3"
 		},
@@ -141,7 +141,7 @@
 			"English": "Perhaps you'd like a different one?",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ربما كنت ترغب في واحد مختلف؟",
 			"Egyptian Arabic Audio": "eca-1180-14.mp3",
 			"Standard Arabic Audio": "msa-1180-14.mp3"
 		},
@@ -151,7 +151,7 @@
 			"English": "No, thank you. A refund is all I want.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لا، شكرا. استرداد هو كل ما أريد.",
 			"Egyptian Arabic Audio": "eca-1180-15.mp3",
 			"Standard Arabic Audio": "msa-1180-15.mp3"
 		},
@@ -161,7 +161,7 @@
 			"English": "Okay. Give me a few seconds, please.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "حسنا. أعطني بضع ثوان، من فضلك.",
 			"Egyptian Arabic Audio": "eca-1180-16.mp3",
 			"Standard Arabic Audio": "msa-1180-16.mp3"
 		},
@@ -171,7 +171,7 @@
 			"English": "I need to return this radio.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنا بحاجة إلى إعادة هذا الراديو.",
 			"Egyptian Arabic Audio": "eca-1180-17.mp3",
 			"Standard Arabic Audio": "msa-1180-17.mp3"
 		},
@@ -181,7 +181,7 @@
 			"English": "That won't be a problem, as long as you have your receipt.",
 			"Word Count": 12,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وهذا لن يكون مشكلة، طالما لديك الإيصال الخاص بك.",
 			"Egyptian Arabic Audio": "eca-1180-18.mp3",
 			"Standard Arabic Audio": "msa-1180-18.mp3"
 		},
@@ -191,7 +191,7 @@
 			"English": "Here you go.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ها أنت ذا.",
 			"Egyptian Arabic Audio": "eca-1180-19.mp3",
 			"Standard Arabic Audio": "msa-1180-19.mp3"
 		},
@@ -201,7 +201,7 @@
 			"English": "What's the problem?",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ما هي المشكلة؟",
 			"Egyptian Arabic Audio": "eca-1180-20.mp3",
 			"Standard Arabic Audio": "msa-1180-20.mp3"
 		},
@@ -211,7 +211,7 @@
 			"English": "It doesn't pick up my favorite station.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انها لا تلتقط محطة المفضلة لدي.",
 			"Egyptian Arabic Audio": "eca-1180-21.mp3",
 			"Standard Arabic Audio": "msa-1180-21.mp3"
 		},
@@ -221,7 +221,7 @@
 			"English": "I can exchange it for you.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يمكنني تبادل ذلك لك.",
 			"Egyptian Arabic Audio": "eca-1180-22.mp3",
 			"Standard Arabic Audio": "msa-1180-22.mp3"
 		},
@@ -231,7 +231,7 @@
 			"English": "Thanks, but I just want a refund.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "شكرا، ولكن أريد فقط استرداد.",
 			"Egyptian Arabic Audio": "eca-1180-23.mp3",
 			"Standard Arabic Audio": "msa-1180-23.mp3"
 		},
@@ -241,7 +241,7 @@
 			"English": "A refund it will be. Do you have the original box?",
 			"Word Count": 11,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "استرداد سيكون. هل لديك المربع الأصلي؟",
 			"Egyptian Arabic Audio": "eca-1180-24.mp3",
 			"Standard Arabic Audio": "msa-1180-24.mp3"
 		},
@@ -251,7 +251,7 @@
 			"English": "I'm returning this radio.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنا أعود هذه الإذاعة.",
 			"Egyptian Arabic Audio": "eca-1180-25.mp3",
 			"Standard Arabic Audio": "msa-1180-25.mp3"
 		},
@@ -261,7 +261,7 @@
 			"English": "No problem. You do have your receipt, don't you?",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ليس هناك أى مشكلة. لديك إيصالك، أليس كذلك؟",
 			"Egyptian Arabic Audio": "eca-1180-26.mp3",
 			"Standard Arabic Audio": "msa-1180-26.mp3"
 		},
@@ -271,7 +271,7 @@
 			"English": "Here you are.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ها انت.",
 			"Egyptian Arabic Audio": "eca-1180-27.mp3",
 			"Standard Arabic Audio": "msa-1180-27.mp3"
 		},
@@ -281,7 +281,7 @@
 			"English": "What seems to be the problem?",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ما الذى يبدو انه مشكله؟",
 			"Egyptian Arabic Audio": "eca-1180-28.mp3",
 			"Standard Arabic Audio": "msa-1180-28.mp3"
 		},
@@ -291,7 +291,7 @@
 			"English": "It doesn't have a headphone jack.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ليس لديها سماعة رأس جاك.",
 			"Egyptian Arabic Audio": "eca-1180-29.mp3",
 			"Standard Arabic Audio": "msa-1180-29.mp3"
 		},
@@ -301,7 +301,7 @@
 			"English": "If you'd like, I can show you a different one.",
 			"Word Count": 10,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "إذا كنت ترغب في ذلك، يمكن أن تظهر لك واحدة مختلفة.",
 			"Egyptian Arabic Audio": "eca-1180-30.mp3",
 			"Standard Arabic Audio": "msa-1180-30.mp3"
 		},
@@ -311,7 +311,7 @@
 			"English": "No, thanks. A refund will be just fine.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لا شكرا. استرداد سيكون على ما يرام.",
 			"Egyptian Arabic Audio": "eca-1180-31.mp3",
 			"Standard Arabic Audio": "msa-1180-31.mp3"
 		},
@@ -321,7 +321,7 @@
 			"English": "No problem. This'll only take a minute.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ليس هناك أى مشكلة. لن يستغرق ذلك سوى دقيقة واحدة.",
 			"Egyptian Arabic Audio": "eca-1180-32.mp3",
 			"Standard Arabic Audio": "msa-1180-32.mp3"
 		},
@@ -331,7 +331,7 @@
 			"English": "I don't want to keep this radio.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنا لا أريد للحفاظ على هذا الراديو.",
 			"Egyptian Arabic Audio": "eca-1180-33.mp3",
 			"Standard Arabic Audio": "msa-1180-33.mp3"
 		},
@@ -341,7 +341,7 @@
 			"English": "No problem. Let me see your receipt, please.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ليس هناك أى مشكلة. اسمحوا لي أن نرى إيصالك، من فضلك.",
 			"Egyptian Arabic Audio": "eca-1180-34.mp3",
 			"Standard Arabic Audio": "msa-1180-34.mp3"
 		},
@@ -351,7 +351,7 @@
 			"English": "Of course. I always keep my receipts.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "بالتاكيد. أنا دائما إبقاء إيصالات بلدي.",
 			"Egyptian Arabic Audio": "eca-1180-35.mp3",
 			"Standard Arabic Audio": "msa-1180-35.mp3"
 		},
@@ -361,7 +361,7 @@
 			"English": "Is there a problem with the radio?",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هل هناك مشكلة مع الراديو؟",
 			"Egyptian Arabic Audio": "eca-1180-36.mp3",
 			"Standard Arabic Audio": "msa-1180-36.mp3"
 		},
@@ -371,7 +371,7 @@
 			"English": "Something is rattling around inside it.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هناك شيء يتجذر حوله داخله.",
 			"Egyptian Arabic Audio": "eca-1180-37.mp3",
 			"Standard Arabic Audio": "msa-1180-37.mp3"
 		},
@@ -381,7 +381,7 @@
 			"English": "Would you like a different model?",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هل ترغب في نموذج مختلف؟",
 			"Egyptian Arabic Audio": "eca-1180-38.mp3",
 			"Standard Arabic Audio": "msa-1180-38.mp3"
 		},
@@ -391,7 +391,7 @@
 			"English": "No. Just give me a refund, please.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "رقم فقط أعطني استرداد، يرجى.",
 			"Egyptian Arabic Audio": "eca-1180-39.mp3",
 			"Standard Arabic Audio": "msa-1180-39.mp3"
 		},
@@ -401,7 +401,7 @@
 			"English": "Okay, a refund will be no problem.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "حسنا، سوف يكون رد أي مشكلة.",
 			"Egyptian Arabic Audio": "eca-1180-40.mp3",
 			"Standard Arabic Audio": "msa-1180-40.mp3"
 		}

@@ -9,7 +9,7 @@
 			"English": "The caller said she was taking a nationwide poll.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وقالت المتحدثة انها تجرى استطلاعا على مستوى البلاد.",
 			"Egyptian Arabic Audio": "eca-1554-1.mp3",
 			"Standard Arabic Audio": "msa-1554-1.mp3"
 		},
@@ -18,7 +18,7 @@
 			"English": "She asked if he had a few minutes.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وسألت إذا كان لديه بضع دقائق.",
 			"Egyptian Arabic Audio": "eca-1554-2.mp3",
 			"Standard Arabic Audio": "msa-1554-2.mp3"
 		},
@@ -27,7 +27,7 @@
 			"English": "He said yes.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "قال نعم.",
 			"Egyptian Arabic Audio": "eca-1554-3.mp3",
 			"Standard Arabic Audio": "msa-1554-3.mp3"
 		},
@@ -36,7 +36,7 @@
 			"English": "This was the first time a pollster had ever called him.",
 			"Word Count": 11,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وكانت هذه المرة الأولى التي يطلق فيها عليه اسم استطلاع.",
 			"Egyptian Arabic Audio": "eca-1554-4.mp3",
 			"Standard Arabic Audio": "msa-1554-4.mp3"
 		},
@@ -45,7 +45,7 @@
 			"English": "She asked if he was on his cell phone.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وسألت إذا كان على هاتفه الخلوي.",
 			"Egyptian Arabic Audio": "eca-1554-5.mp3",
 			"Standard Arabic Audio": "msa-1554-5.mp3"
 		},
@@ -54,7 +54,7 @@
 			"English": "He said yes.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "قال نعم.",
 			"Egyptian Arabic Audio": "eca-1554-6.mp3",
 			"Standard Arabic Audio": "msa-1554-6.mp3"
 		},
@@ -63,7 +63,7 @@
 			"English": "She asked if he was driving.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وسألت إذا كان يقود السيارة.",
 			"Egyptian Arabic Audio": "eca-1554-7.mp3",
 			"Standard Arabic Audio": "msa-1554-7.mp3"
 		},
@@ -72,7 +72,7 @@
 			"English": "He said no.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هو قال لا.",
 			"Egyptian Arabic Audio": "eca-1554-8.mp3",
 			"Standard Arabic Audio": "msa-1554-8.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "She asked him to imagine a ladder.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "طلبت منه أن يتصور سلم.",
 			"Egyptian Arabic Audio": "eca-1554-9.mp3",
 			"Standard Arabic Audio": "msa-1554-9.mp3"
 		},
@@ -90,7 +90,7 @@
 			"English": "The bottom rung was number one.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وكان الجزء السفلي هو رقم واحد.",
 			"Egyptian Arabic Audio": "eca-1554-10.mp3",
 			"Standard Arabic Audio": "msa-1554-10.mp3"
 		},
@@ -99,7 +99,7 @@
 			"English": "The top rung was number ten.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وكانت الدرجة الاولى عشرة.",
 			"Egyptian Arabic Audio": "eca-1554-11.mp3",
 			"Standard Arabic Audio": "msa-1554-11.mp3"
 		},
@@ -108,7 +108,7 @@
 			"English": "\"How satisfied are you with your life?\" she asked.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "&quot;ما مدى رضاك ​​عن حياتك؟&quot; هي سألت.",
 			"Egyptian Arabic Audio": "eca-1554-12.mp3",
 			"Standard Arabic Audio": "msa-1554-12.mp3"
 		},
@@ -117,7 +117,7 @@
 			"English": "He said number five.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وقال رقم خمسة.",
 			"Egyptian Arabic Audio": "eca-1554-13.mp3",
 			"Standard Arabic Audio": "msa-1554-13.mp3"
 		},
@@ -126,7 +126,7 @@
 			"English": "\"Is your life better now than five years ago?\" she asked.",
 			"Word Count": 11,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "&quot;هل حياتك أفضل الآن من خمس سنوات؟&quot; هي سألت.",
 			"Egyptian Arabic Audio": "eca-1554-14.mp3",
 			"Standard Arabic Audio": "msa-1554-14.mp3"
 		},
@@ -135,7 +135,7 @@
 			"English": "He said no.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هو قال لا.",
 			"Egyptian Arabic Audio": "eca-1554-15.mp3",
 			"Standard Arabic Audio": "msa-1554-15.mp3"
 		},
@@ -144,7 +144,7 @@
 			"English": "\"Do you think your life will be better five years from now?\" she asked.",
 			"Word Count": 14,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "&quot;هل تعتقد أن حياتك ستكون أفضل خمس سنوات من الآن؟&quot; هي سألت.",
 			"Egyptian Arabic Audio": "eca-1554-16.mp3",
 			"Standard Arabic Audio": "msa-1554-16.mp3"
 		},
@@ -153,7 +153,7 @@
 			"English": "He said no.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هو قال لا.",
 			"Egyptian Arabic Audio": "eca-1554-17.mp3",
 			"Standard Arabic Audio": "msa-1554-17.mp3"
 		},
@@ -162,7 +162,7 @@
 			"English": "She asked many questions, one after another.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وسألت عن العديد من الأسئلة، واحدا تلو الآخر.",
 			"Egyptian Arabic Audio": "eca-1554-18.mp3",
 			"Standard Arabic Audio": "msa-1554-18.mp3"
 		},
@@ -171,7 +171,7 @@
 			"English": "He looked at the clock.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "نظر إلى الساعة.",
 			"Egyptian Arabic Audio": "eca-1554-19.mp3",
 			"Standard Arabic Audio": "msa-1554-19.mp3"
 		},
@@ -180,7 +180,7 @@
 			"English": "Was this going to be a roaming charge? He didn't trust his phone company.",
 			"Word Count": 14,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هل ستكون هذه رسوم تجوال؟ لم يكن يثق بشركة الهاتف.",
 			"Egyptian Arabic Audio": "eca-1554-20.mp3",
 			"Standard Arabic Audio": "msa-1554-20.mp3"
 		},
@@ -189,7 +189,7 @@
 			"English": "\"I have to go,\" he said, and hung up.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وقال: &quot;يجب أن أذهب&quot;.",
 			"Egyptian Arabic Audio": "eca-1554-21.mp3",
 			"Standard Arabic Audio": "msa-1554-21.mp3"
 		}

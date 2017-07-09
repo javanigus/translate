@@ -9,7 +9,7 @@
 			"English": "She picked up some cat food on her way home.",
 			"Word Count": 10,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "التقطت بعض طعام القط في طريقها إلى البيت.",
 			"Egyptian Arabic Audio": "eca-2127-1.mp3",
 			"Standard Arabic Audio": "msa-2127-1.mp3"
 		}

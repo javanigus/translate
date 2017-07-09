@@ -9,7 +9,7 @@
 			"English": "He quit his awful job.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "استقال من عمله الفظيع.",
 			"Egyptian Arabic Audio": "eca-0804-1.mp3",
 			"Standard Arabic Audio": "msa-0804-1.mp3"
 		},
@@ -18,7 +18,7 @@
 			"English": "He eventually became a doctor.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وأصبح في نهاية المطاف طبيبا.",
 			"Egyptian Arabic Audio": "eca-0804-2.mp3",
 			"Standard Arabic Audio": "msa-0804-2.mp3"
 		},
@@ -27,7 +27,7 @@
 			"English": "He started getting paid a lot.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "بدأ يتقاضى رواتب كبيرة.",
 			"Egyptian Arabic Audio": "eca-0804-3.mp3",
 			"Standard Arabic Audio": "msa-0804-3.mp3"
 		},
@@ -36,7 +36,7 @@
 			"English": "He was able to buy a nice house for his family.",
 			"Word Count": 11,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كان قادرا على شراء منزل جميل لأسرته.",
 			"Egyptian Arabic Audio": "eca-0804-4.mp3",
 			"Standard Arabic Audio": "msa-0804-4.mp3"
 		},
@@ -45,7 +45,7 @@
 			"English": "It even had a white picket fence.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "حتى كان لديه سياج بيكيت أبيض.",
 			"Egyptian Arabic Audio": "eca-0804-5.mp3",
 			"Standard Arabic Audio": "msa-0804-5.mp3"
 		},
@@ -54,7 +54,7 @@
 			"English": "The American dream was finally his.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وكان الحلم الأمريكي أخيرا له.",
 			"Egyptian Arabic Audio": "eca-0804-6.mp3",
 			"Standard Arabic Audio": "msa-0804-6.mp3"
 		}

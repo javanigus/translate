@@ -11,7 +11,7 @@
 			"English": "Does this hat match my suit?",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هل هذه القبعة تتناسب مع بدايتي؟",
 			"Egyptian Arabic Audio": "eca-0180-1.mp3",
 			"Standard Arabic Audio": "msa-0180-1.mp3"
 		},
@@ -21,7 +21,7 @@
 			"English": "Well, it's the same color.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "حسنا، انها نفس اللون.",
 			"Egyptian Arabic Audio": "eca-0180-2.mp3",
 			"Standard Arabic Audio": "msa-0180-2.mp3"
 		},
@@ -31,7 +31,7 @@
 			"English": "That's good enough for me.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هذا جيد بشكل كافي لي.",
 			"Egyptian Arabic Audio": "eca-0180-3.mp3",
 			"Standard Arabic Audio": "msa-0180-3.mp3"
 		},
@@ -41,7 +41,7 @@
 			"English": "Are you going to a dinner party?",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنت ذاهب إلى حفل عشاء؟",
 			"Egyptian Arabic Audio": "eca-0180-4.mp3",
 			"Standard Arabic Audio": "msa-0180-4.mp3"
 		},
@@ -51,7 +51,7 @@
 			"English": "No, I'm going to a job interview.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لا، انا ذاهب الى مقابلة عمل.",
 			"Egyptian Arabic Audio": "eca-0180-5.mp3",
 			"Standard Arabic Audio": "msa-0180-5.mp3"
 		},
@@ -61,7 +61,7 @@
 			"English": "Then maybe you should wear a tie.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ثم ربما يجب ارتداء ربطة عنق.",
 			"Egyptian Arabic Audio": "eca-0180-6.mp3",
 			"Standard Arabic Audio": "msa-0180-6.mp3"
 		},
@@ -71,7 +71,7 @@
 			"English": "That's a good idea.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "إنها فكرةجيدة.",
 			"Egyptian Arabic Audio": "eca-0180-7.mp3",
 			"Standard Arabic Audio": "msa-0180-7.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "Also, I would not wear the hat if I were you.",
 			"Word Count": 11,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أيضا، أنا لن ارتداء قبعة إذا كنت.",
 			"Egyptian Arabic Audio": "eca-0180-8.mp3",
 			"Standard Arabic Audio": "msa-0180-8.mp3"
 		},
@@ -91,7 +91,7 @@
 			"English": "Why not? It matches well.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لما لا؟ يتطابق جيدا.",
 			"Egyptian Arabic Audio": "eca-0180-9.mp3",
 			"Standard Arabic Audio": "msa-0180-9.mp3"
 		},
@@ -101,7 +101,7 @@
 			"English": "You look like a mobster from the movies!",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "تبدو وكأنها الغشاش من الأفلام!",
 			"Egyptian Arabic Audio": "eca-0180-10.mp3",
 			"Standard Arabic Audio": "msa-0180-10.mp3"
 		},
@@ -111,7 +111,7 @@
 			"English": "Don't hats make you look more professional?",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لا القبعات تجعلك تبدو أكثر مهنية؟",
 			"Egyptian Arabic Audio": "eca-0180-11.mp3",
 			"Standard Arabic Audio": "msa-0180-11.mp3"
 		},
@@ -121,7 +121,7 @@
 			"English": "Only if you're applying to be a hit-man.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "فقط إذا كنت التقدم بطلب للحصول على رجل ضرب.",
 			"Egyptian Arabic Audio": "eca-0180-12.mp3",
 			"Standard Arabic Audio": "msa-0180-12.mp3"
 		}

@@ -9,7 +9,7 @@
 			"English": "She told Lennon that he could file a missing items report at the police station or online.",
 			"Word Count": 17,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وقالت لینون إنھ یمکنھ تقدیم تقریر عن المواد المفقودة في مرکز الشرطة أو عبر الإنترنت.",
 			"Egyptian Arabic Audio": "eca-2104-1.mp3",
 			"Standard Arabic Audio": "msa-2104-1.mp3"
 		},
@@ -18,7 +18,7 @@
 			"English": "Lennon asked for the online address.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "سأل لينون عن عنوان الإنترنت.",
 			"Egyptian Arabic Audio": "eca-2104-2.mp3",
 			"Standard Arabic Audio": "msa-2104-2.mp3"
 		},
@@ -27,7 +27,7 @@
 			"English": "It was www.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كان ووو.",
 			"Egyptian Arabic Audio": "eca-2104-3.mp3",
 			"Standard Arabic Audio": "msa-2104-3.mp3"
 		},
@@ -36,16 +36,16 @@
 			"English": "nypd.",
 			"Word Count": 1,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "شرطة نيويورك.",
 			"Egyptian Arabic Audio": "eca-2104-4.mp3",
 			"Standard Arabic Audio": "msa-2104-4.mp3"
 		},
 		{
 			"id": 5,
-			"English": "gov/toprotectandtoserve/haveaniceday.",
+			"English": "gov\/toprotectandtoserve\/haveaniceday.",
 			"Word Count": 1,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "GOV \/ toprotectandtoserve \/ haveaniceday.",
 			"Egyptian Arabic Audio": "eca-2104-5.mp3",
 			"Standard Arabic Audio": "msa-2104-5.mp3"
 		},
@@ -54,7 +54,7 @@
 			"English": "She told him that finding the guitar might take a couple of years�finding guitars was not as important as finding murderers and marijuana smokers.",
 			"Word Count": 24,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وقالت له أن العثور على الغيتار قد يستغرق بضع سنوات الغيارات القيثارة لم يكن مهما مثل العثور على القتلة والمدخنين الماريجوانا.",
 			"Egyptian Arabic Audio": "eca-2104-6.mp3",
 			"Standard Arabic Audio": "msa-2104-6.mp3"
 		},
@@ -63,7 +63,7 @@
 			"English": "Then she told him to have a nice day.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ثم قالت له أن يكون لطيفة اليوم.",
 			"Egyptian Arabic Audio": "eca-2104-7.mp3",
 			"Standard Arabic Audio": "msa-2104-7.mp3"
 		}

@@ -11,7 +11,7 @@
 			"English": "How long have we've been waiting for this bus?",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "منذ متى كنا ننتظر هذه الحافلة؟",
 			"Egyptian Arabic Audio": "eca-0716-1.mp3",
 			"Standard Arabic Audio": "msa-0716-1.mp3"
 		},
@@ -21,7 +21,7 @@
 			"English": "Almost one hour. I think it's late.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ساعة تقريبا. أعتقد أنه متأخر.",
 			"Egyptian Arabic Audio": "eca-0716-2.mp3",
 			"Standard Arabic Audio": "msa-0716-2.mp3"
 		},
@@ -31,7 +31,7 @@
 			"English": "It is late! What is taking this bus driver so long to get here?",
 			"Word Count": 14,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "إنه متأخر! ما الذي يستغرقه سائق الحافلة وقتا طويلا للوصول إلى هنا؟",
 			"Egyptian Arabic Audio": "eca-0716-3.mp3",
 			"Standard Arabic Audio": "msa-0716-3.mp3"
 		},
@@ -41,7 +41,7 @@
 			"English": "Probably traffic. You know how traffic could be on the weekends.",
 			"Word Count": 11,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ربما حركة المرور. أنت تعرف كيف يمكن أن تكون حركة المرور في عطلة نهاية الأسبوع.",
 			"Egyptian Arabic Audio": "eca-0716-4.mp3",
 			"Standard Arabic Audio": "msa-0716-4.mp3"
 		},
@@ -51,7 +51,7 @@
 			"English": "That is not a good excuse. Bus drivers should know how to maneuver past traffic.",
 			"Word Count": 15,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هذا ليس عذر جيد. يجب على سائقي الحافلات معرفة كيفية المناورة حركة المرور الماضية.",
 			"Egyptian Arabic Audio": "eca-0716-5.mp3",
 			"Standard Arabic Audio": "msa-0716-5.mp3"
 		},
@@ -61,7 +61,7 @@
 			"English": "That's easy for you to say.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هذا من السهل بالنسبة لك أن أقول.",
 			"Egyptian Arabic Audio": "eca-0716-6.mp3",
 			"Standard Arabic Audio": "msa-0716-6.mp3"
 		},
@@ -71,7 +71,7 @@
 			"English": "I just want the bus to arrive already. I want to go home.",
 			"Word Count": 13,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أريد فقط الحافلة للوصول بالفعل. أريد العودة إلى ديارهم.",
 			"Egyptian Arabic Audio": "eca-0716-7.mp3",
 			"Standard Arabic Audio": "msa-0716-7.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "It's bound to arrive any minute now.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لا بد أن تصل في أي دقيقة الآن.",
 			"Egyptian Arabic Audio": "eca-0716-8.mp3",
 			"Standard Arabic Audio": "msa-0716-8.mp3"
 		},
@@ -91,7 +91,7 @@
 			"English": "I hope you're right. My patience has all extinguished.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أتمنى أن تكون محقا. لقد انقلبت صبرتي.",
 			"Egyptian Arabic Audio": "eca-0716-9.mp3",
 			"Standard Arabic Audio": "msa-0716-9.mp3"
 		},
@@ -101,7 +101,7 @@
 			"English": "Wait. I think I see it coming in the distance!",
 			"Word Count": 10,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انتظر. أعتقد أنني أرى أنه يأتي في المسافة!",
 			"Egyptian Arabic Audio": "eca-0716-10.mp3",
 			"Standard Arabic Audio": "msa-0716-10.mp3"
 		},
@@ -111,7 +111,7 @@
 			"English": "Thank goodness! I couldn't possibly wait another minute.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "شكرا لله لم أتمكن من الانتظار دقيقة أخرى.",
 			"Egyptian Arabic Audio": "eca-0716-11.mp3",
 			"Standard Arabic Audio": "msa-0716-11.mp3"
 		},
@@ -121,7 +121,7 @@
 			"English": "False alarm. It was just a truck. Sorry about that.",
 			"Word Count": 10,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انذار كاذب. كانت مجرد شاحنة. اسف بشأن ذلك.",
 			"Egyptian Arabic Audio": "eca-0716-12.mp3",
 			"Standard Arabic Audio": "msa-0716-12.mp3"
 		}

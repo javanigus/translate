@@ -9,7 +9,7 @@
 			"English": "She goes to her art class.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "تذهب إلى فئة الفن لها.",
 			"Egyptian Arabic Audio": "eca-0061-1.mp3",
 			"Standard Arabic Audio": "msa-0061-1.mp3"
 		},
@@ -18,7 +18,7 @@
 			"English": "She wears a special white coat.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ترتدي معطفا أبيض خاصا.",
 			"Egyptian Arabic Audio": "eca-0061-2.mp3",
 			"Standard Arabic Audio": "msa-0061-2.mp3"
 		},
@@ -27,7 +27,7 @@
 			"English": "Now, her inside clothes will be clean.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "الآن، لها الملابس الداخلية سوف تكون نظيفة.",
 			"Egyptian Arabic Audio": "eca-0061-3.mp3",
 			"Standard Arabic Audio": "msa-0061-3.mp3"
 		},
@@ -36,7 +36,7 @@
 			"English": "She is going to draw a sunflower.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وقالت انها سوف ترسم عباد الشمس.",
 			"Egyptian Arabic Audio": "eca-0061-4.mp3",
 			"Standard Arabic Audio": "msa-0061-4.mp3"
 		},
@@ -45,7 +45,7 @@
 			"English": "She gets a paintbrush.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انها تحصل على فرشاة الرسام.",
 			"Egyptian Arabic Audio": "eca-0061-5.mp3",
 			"Standard Arabic Audio": "msa-0061-5.mp3"
 		},
@@ -54,7 +54,7 @@
 			"English": "She gets green, yellow, and brown paint.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "تحصل على الطلاء الأخضر والأصفر والبني.",
 			"Egyptian Arabic Audio": "eca-0061-6.mp3",
 			"Standard Arabic Audio": "msa-0061-6.mp3"
 		},
@@ -63,7 +63,7 @@
 			"English": "She gets a white piece of paper.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "تحصل على قطعة بيضاء من الورق.",
 			"Egyptian Arabic Audio": "eca-0061-7.mp3",
 			"Standard Arabic Audio": "msa-0061-7.mp3"
 		},
@@ -72,7 +72,7 @@
 			"English": "She dips her paintbrush in the paint.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انها الانخفاضات لها فرشاة الطلاء في الطلاء.",
 			"Egyptian Arabic Audio": "eca-0061-8.mp3",
 			"Standard Arabic Audio": "msa-0061-8.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "She starts to draw.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وقالت انها تبدأ في رسم.",
 			"Egyptian Arabic Audio": "eca-0061-9.mp3",
 			"Standard Arabic Audio": "msa-0061-9.mp3"
 		}

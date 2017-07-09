@@ -11,7 +11,7 @@
 			"English": "Do animals talk to each other?",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هل تتحدث الحيوانات مع بعضها البعض؟",
 			"Egyptian Arabic Audio": "eca-0248-1.mp3",
 			"Standard Arabic Audio": "msa-0248-1.mp3"
 		},
@@ -21,7 +21,7 @@
 			"English": "Of course they talk to each other.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "بالطبع يتحدثون مع بعضهم البعض.",
 			"Egyptian Arabic Audio": "eca-0248-2.mp3",
 			"Standard Arabic Audio": "msa-0248-2.mp3"
 		},
@@ -31,7 +31,7 @@
 			"English": "What do they talk about?",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "عن ماذا يتحدثون؟",
 			"Egyptian Arabic Audio": "eca-0248-3.mp3",
 			"Standard Arabic Audio": "msa-0248-3.mp3"
 		},
@@ -41,7 +41,7 @@
 			"English": "They talk about other animals.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يتحدثون عن حيوانات أخرى.",
 			"Egyptian Arabic Audio": "eca-0248-4.mp3",
 			"Standard Arabic Audio": "msa-0248-4.mp3"
 		},
@@ -51,7 +51,7 @@
 			"English": "What else do they talk about?",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ما الذي يتحدثون عنه؟",
 			"Egyptian Arabic Audio": "eca-0248-5.mp3",
 			"Standard Arabic Audio": "msa-0248-5.mp3"
 		},
@@ -61,7 +61,7 @@
 			"English": "They talk about food and the weather.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يتحدثون عن الطعام والطقس.",
 			"Egyptian Arabic Audio": "eca-0248-6.mp3",
 			"Standard Arabic Audio": "msa-0248-6.mp3"
 		},
@@ -71,7 +71,7 @@
 			"English": "Do they talk about us?",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هل يتحدثون عنا؟",
 			"Egyptian Arabic Audio": "eca-0248-7.mp3",
 			"Standard Arabic Audio": "msa-0248-7.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "Of course they talk about us.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "بالطبع يتحدثون عنا.",
 			"Egyptian Arabic Audio": "eca-0248-8.mp3",
 			"Standard Arabic Audio": "msa-0248-8.mp3"
 		},
@@ -91,7 +91,7 @@
 			"English": "What do they say about us?",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ماذا يقولون عنا؟",
 			"Egyptian Arabic Audio": "eca-0248-9.mp3",
 			"Standard Arabic Audio": "msa-0248-9.mp3"
 		},
@@ -101,7 +101,7 @@
 			"English": "They say that we are funny-looking.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يقولون أننا مضحك المظهر.",
 			"Egyptian Arabic Audio": "eca-0248-10.mp3",
 			"Standard Arabic Audio": "msa-0248-10.mp3"
 		},
@@ -111,7 +111,7 @@
 			"English": "Ha! We're not funny-looking; animals are funny-looking.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ها! نحن لسنا مضحك المظهر. الحيوانات هي مضحك المظهر.",
 			"Egyptian Arabic Audio": "eca-0248-11.mp3",
 			"Standard Arabic Audio": "msa-0248-11.mp3"
 		},
@@ -121,7 +121,7 @@
 			"English": "We're funny-looking because we wear clothes.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "نحن مضحك المظهر لأننا ارتداء الملابس.",
 			"Egyptian Arabic Audio": "eca-0248-12.mp3",
 			"Standard Arabic Audio": "msa-0248-12.mp3"
 		}

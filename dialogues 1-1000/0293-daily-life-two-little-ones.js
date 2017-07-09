@@ -11,7 +11,7 @@
 			"English": "I'm worried.",
 			"Word Count": 2,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انا قلق.",
 			"Egyptian Arabic Audio": "eca-0293-1.mp3",
 			"Standard Arabic Audio": "msa-0293-1.mp3"
 		},
@@ -21,7 +21,7 @@
 			"English": "Worried about what?",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "قلق حول ما؟",
 			"Egyptian Arabic Audio": "eca-0293-2.mp3",
 			"Standard Arabic Audio": "msa-0293-2.mp3"
 		},
@@ -31,7 +31,7 @@
 			"English": "I'm getting married.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنا تزوجت.",
 			"Egyptian Arabic Audio": "eca-0293-3.mp3",
 			"Standard Arabic Audio": "msa-0293-3.mp3"
 		},
@@ -41,7 +41,7 @@
 			"English": "You should be happy, not worried.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يجب أن تكون سعيدا، لا قلق.",
 			"Egyptian Arabic Audio": "eca-0293-4.mp3",
 			"Standard Arabic Audio": "msa-0293-4.mp3"
 		},
@@ -51,7 +51,7 @@
 			"English": "I am happy, but marriage is a lot of responsibility.",
 			"Word Count": 10,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنا سعيد، ولكن الزواج هو الكثير من المسؤولية.",
 			"Egyptian Arabic Audio": "eca-0293-5.mp3",
 			"Standard Arabic Audio": "msa-0293-5.mp3"
 		},
@@ -61,7 +61,7 @@
 			"English": "Yes, you have to take care of your wife.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "نعم، عليك أن تأخذ الرعاية من زوجتك.",
 			"Egyptian Arabic Audio": "eca-0293-6.mp3",
 			"Standard Arabic Audio": "msa-0293-6.mp3"
 		},
@@ -71,7 +71,7 @@
 			"English": "And I have to take care of our children.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ولا بد لي من رعاية أطفالنا.",
 			"Egyptian Arabic Audio": "eca-0293-7.mp3",
 			"Standard Arabic Audio": "msa-0293-7.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "Are you going to start a family?",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنت ذاهب لبدء الأسرة؟",
 			"Egyptian Arabic Audio": "eca-0293-8.mp3",
 			"Standard Arabic Audio": "msa-0293-8.mp3"
 		},
@@ -91,7 +91,7 @@
 			"English": "Yes. We want to have a little boy and a little girl.",
 			"Word Count": 12,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "نعم فعلا. نريد أن يكون صبي صغير و فتاة صغيرة.",
 			"Egyptian Arabic Audio": "eca-0293-9.mp3",
 			"Standard Arabic Audio": "msa-0293-9.mp3"
 		},
@@ -101,7 +101,7 @@
 			"English": "That sounds wonderful.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هذا يبدو رائعا.",
 			"Egyptian Arabic Audio": "eca-0293-10.mp3",
 			"Standard Arabic Audio": "msa-0293-10.mp3"
 		},
@@ -111,7 +111,7 @@
 			"English": "Except we can't afford it!",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "إلا أننا لا يمكن تحمله!",
 			"Egyptian Arabic Audio": "eca-0293-11.mp3",
 			"Standard Arabic Audio": "msa-0293-11.mp3"
 		},
@@ -121,7 +121,7 @@
 			"English": "No wonder you're worried.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لا عجب كنت قلقا.",
 			"Egyptian Arabic Audio": "eca-0293-12.mp3",
 			"Standard Arabic Audio": "msa-0293-12.mp3"
 		}

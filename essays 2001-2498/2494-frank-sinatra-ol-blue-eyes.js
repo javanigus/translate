@@ -9,7 +9,7 @@
 			"English": "Sinatra's legacy is firmly in place.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "إرث سيناترا هو في مكان ثابت.",
 			"Egyptian Arabic Audio": "eca-2494-1.mp3",
 			"Standard Arabic Audio": "msa-2494-1.mp3"
 		},
@@ -18,7 +18,7 @@
 			"English": "He sang some of the most memorable love songs in the history of U.",
 			"Word Count": 14,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "غنى بعض الأغاني الحب الأكثر تميزا في تاريخ U.",
 			"Egyptian Arabic Audio": "eca-2494-2.mp3",
 			"Standard Arabic Audio": "msa-2494-2.mp3"
 		},
@@ -27,7 +27,7 @@
 			"English": "S.",
 			"Word Count": 1,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "S.",
 			"Egyptian Arabic Audio": "eca-2494-3.mp3",
 			"Standard Arabic Audio": "msa-2494-3.mp3"
 		},
@@ -36,7 +36,7 @@
 			"English": "music, and his music is as popular today as it was during his era.",
 			"Word Count": 14,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "والموسيقى، وموسيقاه كما شعبية اليوم كما كان خلال عصره.",
 			"Egyptian Arabic Audio": "eca-2494-4.mp3",
 			"Standard Arabic Audio": "msa-2494-4.mp3"
 		}

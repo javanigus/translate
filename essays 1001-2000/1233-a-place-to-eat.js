@@ -9,7 +9,7 @@
 			"English": "Jenna was at the airport.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كانت جينا في المطار.",
 			"Egyptian Arabic Audio": "eca-1233-1.mp3",
 			"Standard Arabic Audio": "msa-1233-1.mp3"
 		},
@@ -18,7 +18,7 @@
 			"English": "She was waiting for her plane.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كانت تنتظر طائرتها.",
 			"Egyptian Arabic Audio": "eca-1233-2.mp3",
 			"Standard Arabic Audio": "msa-1233-2.mp3"
 		},
@@ -27,7 +27,7 @@
 			"English": "Her plane would leave at 7 p.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "سوف تغادر طائرتها في 7 ص.",
 			"Egyptian Arabic Audio": "eca-1233-3.mp3",
 			"Standard Arabic Audio": "msa-1233-3.mp3"
 		},
@@ -36,7 +36,7 @@
 			"English": "m.",
 			"Word Count": 1,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "م.",
 			"Egyptian Arabic Audio": "eca-1233-4.mp3",
 			"Standard Arabic Audio": "msa-1233-4.mp3"
 		},
@@ -45,7 +45,7 @@
 			"English": "It was only 2 p.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كان فقط 2 ص.",
 			"Egyptian Arabic Audio": "eca-1233-5.mp3",
 			"Standard Arabic Audio": "msa-1233-5.mp3"
 		},
@@ -54,7 +54,7 @@
 			"English": "m.",
 			"Word Count": 1,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "م.",
 			"Egyptian Arabic Audio": "eca-1233-6.mp3",
 			"Standard Arabic Audio": "msa-1233-6.mp3"
 		},
@@ -63,7 +63,7 @@
 			"English": "She had time to eat.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كان لديها الوقت لتناول الطعام.",
 			"Egyptian Arabic Audio": "eca-1233-7.mp3",
 			"Standard Arabic Audio": "msa-1233-7.mp3"
 		},
@@ -72,7 +72,7 @@
 			"English": "She had time to study.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كان لديها الوقت للدراسة.",
 			"Egyptian Arabic Audio": "eca-1233-8.mp3",
 			"Standard Arabic Audio": "msa-1233-8.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "She went to the airport restaurant.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ذهبت إلى مطعم المطار.",
 			"Egyptian Arabic Audio": "eca-1233-9.mp3",
 			"Standard Arabic Audio": "msa-1233-9.mp3"
 		},
@@ -90,7 +90,7 @@
 			"English": "The restaurant was on the third floor.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كان المطعم في الطابق الثالث.",
 			"Egyptian Arabic Audio": "eca-1233-10.mp3",
 			"Standard Arabic Audio": "msa-1233-10.mp3"
 		},
@@ -99,7 +99,7 @@
 			"English": "The restaurant was full.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "المطعم كامل.",
 			"Egyptian Arabic Audio": "eca-1233-11.mp3",
 			"Standard Arabic Audio": "msa-1233-11.mp3"
 		},
@@ -108,7 +108,7 @@
 			"English": "There were no empty seats.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لم تكن هناك مقاعد فارغة.",
 			"Egyptian Arabic Audio": "eca-1233-12.mp3",
 			"Standard Arabic Audio": "msa-1233-12.mp3"
 		},
@@ -117,7 +117,7 @@
 			"English": "There were no empty tables.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لم تكن هناك جداول فارغة.",
 			"Egyptian Arabic Audio": "eca-1233-13.mp3",
 			"Standard Arabic Audio": "msa-1233-13.mp3"
 		},
@@ -126,7 +126,7 @@
 			"English": "She didn't want to stand in line.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وقالت إنها لا تريد أن تقف في طابور.",
 			"Egyptian Arabic Audio": "eca-1233-14.mp3",
 			"Standard Arabic Audio": "msa-1233-14.mp3"
 		},
@@ -135,7 +135,7 @@
 			"English": "She didn't want to wait.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لم ترغب في الانتظار.",
 			"Egyptian Arabic Audio": "eca-1233-15.mp3",
 			"Standard Arabic Audio": "msa-1233-15.mp3"
 		},
@@ -144,7 +144,7 @@
 			"English": "There was another restaurant in the airport.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كان هناك مطعم آخر في المطار.",
 			"Egyptian Arabic Audio": "eca-1233-16.mp3",
 			"Standard Arabic Audio": "msa-1233-16.mp3"
 		},
@@ -153,7 +153,7 @@
 			"English": "It was on the first floor.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كان في الطابق الأول.",
 			"Egyptian Arabic Audio": "eca-1233-17.mp3",
 			"Standard Arabic Audio": "msa-1233-17.mp3"
 		},
@@ -162,7 +162,7 @@
 			"English": "She went down to the first floor.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ذهبت إلى الطابق الأول.",
 			"Egyptian Arabic Audio": "eca-1233-18.mp3",
 			"Standard Arabic Audio": "msa-1233-18.mp3"
 		},
@@ -171,7 +171,7 @@
 			"English": "That restaurant was almost empty.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كان هذا المطعم فارغا تقريبا.",
 			"Egyptian Arabic Audio": "eca-1233-19.mp3",
 			"Standard Arabic Audio": "msa-1233-19.mp3"
 		},
@@ -180,7 +180,7 @@
 			"English": "There were many seats and many tables.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كان هناك العديد من المقاعد والعديد من الجداول.",
 			"Egyptian Arabic Audio": "eca-1233-20.mp3",
 			"Standard Arabic Audio": "msa-1233-20.mp3"
 		}

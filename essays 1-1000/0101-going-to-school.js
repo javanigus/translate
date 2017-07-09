@@ -9,7 +9,7 @@
 			"English": "He eats his breakfast.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انه يأكل وجبة الإفطار.",
 			"Egyptian Arabic Audio": "eca-0101-1.mp3",
 			"Standard Arabic Audio": "msa-0101-1.mp3"
 		},
@@ -18,7 +18,7 @@
 			"English": "He leaves his house.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يغادر منزله.",
 			"Egyptian Arabic Audio": "eca-0101-2.mp3",
 			"Standard Arabic Audio": "msa-0101-2.mp3"
 		},
@@ -27,7 +27,7 @@
 			"English": "He walks to the bus stop.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وهو يمشي إلى محطة الحافلات.",
 			"Egyptian Arabic Audio": "eca-0101-3.mp3",
 			"Standard Arabic Audio": "msa-0101-3.mp3"
 		},
@@ -36,7 +36,7 @@
 			"English": "He waits five minutes.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وينتظر خمس دقائق.",
 			"Egyptian Arabic Audio": "eca-0101-4.mp3",
 			"Standard Arabic Audio": "msa-0101-4.mp3"
 		},
@@ -45,7 +45,7 @@
 			"English": "He gets on the bus.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يحصل على الحافلة.",
 			"Egyptian Arabic Audio": "eca-0101-5.mp3",
 			"Standard Arabic Audio": "msa-0101-5.mp3"
 		},
@@ -54,7 +54,7 @@
 			"English": "He puts in a quarter.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انه يضع في ربع.",
 			"Egyptian Arabic Audio": "eca-0101-6.mp3",
 			"Standard Arabic Audio": "msa-0101-6.mp3"
 		},
@@ -63,7 +63,7 @@
 			"English": "He sits down.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يجلس.",
 			"Egyptian Arabic Audio": "eca-0101-7.mp3",
 			"Standard Arabic Audio": "msa-0101-7.mp3"
 		},
@@ -72,7 +72,7 @@
 			"English": "He looks outside the window.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يبدو خارج النافذة.",
 			"Egyptian Arabic Audio": "eca-0101-8.mp3",
 			"Standard Arabic Audio": "msa-0101-8.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "He sees his school.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يرى مدرسته.",
 			"Egyptian Arabic Audio": "eca-0101-9.mp3",
 			"Standard Arabic Audio": "msa-0101-9.mp3"
 		},
@@ -90,7 +90,7 @@
 			"English": "He walks to the bus door.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يمشي إلى باب الحافلة.",
 			"Egyptian Arabic Audio": "eca-0101-10.mp3",
 			"Standard Arabic Audio": "msa-0101-10.mp3"
 		},
@@ -99,7 +99,7 @@
 			"English": "He thanks the bus driver.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وهو يشكر سائق الحافلة.",
 			"Egyptian Arabic Audio": "eca-0101-11.mp3",
 			"Standard Arabic Audio": "msa-0101-11.mp3"
 		},
@@ -108,7 +108,7 @@
 			"English": "He exits the bus.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انه يخرج من الحافلة.",
 			"Egyptian Arabic Audio": "eca-0101-12.mp3",
 			"Standard Arabic Audio": "msa-0101-12.mp3"
 		}

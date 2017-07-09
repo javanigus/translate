@@ -11,7 +11,7 @@
 			"English": "Hello! It's nice to meet you!",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "مرحبا! من اللطيف مقابلتك!",
 			"Egyptian Arabic Audio": "eca-0087-1.mp3",
 			"Standard Arabic Audio": "msa-0087-1.mp3"
 		},
@@ -21,7 +21,7 @@
 			"English": "Hello, likewise.",
 			"Word Count": 2,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "مرحبا، وبالمثل.",
 			"Egyptian Arabic Audio": "eca-0087-2.mp3",
 			"Standard Arabic Audio": "msa-0087-2.mp3"
 		},
@@ -31,7 +31,7 @@
 			"English": "Are you taking the bus downtown?",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هل تأخذ الحافلة وسط المدينة؟",
 			"Egyptian Arabic Audio": "eca-0087-3.mp3",
 			"Standard Arabic Audio": "msa-0087-3.mp3"
 		},
@@ -41,7 +41,7 @@
 			"English": "Yes, I am. I'm doing some shopping.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "نعم انا. أفعل بعض التسوق.",
 			"Egyptian Arabic Audio": "eca-0087-4.mp3",
 			"Standard Arabic Audio": "msa-0087-4.mp3"
 		},
@@ -51,7 +51,7 @@
 			"English": "Oh, so am I! Prices are so much better there.",
 			"Word Count": 10,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أوه، لذلك أنا! الأسعار هي أفضل بكثير هناك.",
 			"Egyptian Arabic Audio": "eca-0087-5.mp3",
 			"Standard Arabic Audio": "msa-0087-5.mp3"
 		},
@@ -61,7 +61,7 @@
 			"English": "Yes, they are.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "نعم إنهم هم.",
 			"Egyptian Arabic Audio": "eca-0087-6.mp3",
 			"Standard Arabic Audio": "msa-0087-6.mp3"
 		},
@@ -71,7 +71,7 @@
 			"English": "The weather is very nice today, at least.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "الطقس لطيف جدا اليوم، على الأقل.",
 			"Egyptian Arabic Audio": "eca-0087-7.mp3",
 			"Standard Arabic Audio": "msa-0087-7.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "I'm glad for that. It's nice for walking about.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انا سعيد لذلك. انها لطيفة للمشي حول.",
 			"Egyptian Arabic Audio": "eca-0087-8.mp3",
 			"Standard Arabic Audio": "msa-0087-8.mp3"
 		},
@@ -91,7 +91,7 @@
 			"English": "Heatwaves are so unfortunate. They drain my energy!",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "الموجات الحارة هي مؤسفة جدا. أنها تستنزف طاقتي!",
 			"Egyptian Arabic Audio": "eca-0087-9.mp3",
 			"Standard Arabic Audio": "msa-0087-9.mp3"
 		},
@@ -101,7 +101,7 @@
 			"English": "I know what you mean.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنا أعرف ما تعنيه.",
 			"Egyptian Arabic Audio": "eca-0087-10.mp3",
 			"Standard Arabic Audio": "msa-0087-10.mp3"
 		},
@@ -111,7 +111,7 @@
 			"English": "Would you like to join me while shopping today?",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هل ترغب في الانضمام لي أثناء التسوق اليوم؟",
 			"Egyptian Arabic Audio": "eca-0087-11.mp3",
 			"Standard Arabic Audio": "msa-0087-11.mp3"
 		},
@@ -121,7 +121,7 @@
 			"English": "I just remembered, I have to get off at the next stop.",
 			"Word Count": 12,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "تذكرت فقط، لا بد لي من النزول في المحطة التالية.",
 			"Egyptian Arabic Audio": "eca-0087-12.mp3",
 			"Standard Arabic Audio": "msa-0087-12.mp3"
 		}

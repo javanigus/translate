@@ -9,7 +9,7 @@
 			"English": "It was Memorial Day.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وكان يوم الذكرى.",
 			"Egyptian Arabic Audio": "eca-1561-1.mp3",
 			"Standard Arabic Audio": "msa-1561-1.mp3"
 		},
@@ -18,7 +18,7 @@
 			"English": "An Osprey flew to a city park.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "توجه أوسبري إلى حديقة المدينة.",
 			"Egyptian Arabic Audio": "eca-1561-2.mp3",
 			"Standard Arabic Audio": "msa-1561-2.mp3"
 		},
@@ -27,7 +27,7 @@
 			"English": "About 200 people were there.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وكان هناك نحو 200 شخص هناك.",
 			"Egyptian Arabic Audio": "eca-1561-3.mp3",
 			"Standard Arabic Audio": "msa-1561-3.mp3"
 		},
@@ -36,7 +36,7 @@
 			"English": "They were waiting to see the Osprey up close.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كانوا ينتظرون لرؤية أوسبري عن قرب.",
 			"Egyptian Arabic Audio": "eca-1561-4.mp3",
 			"Standard Arabic Audio": "msa-1561-4.mp3"
 		},
@@ -45,7 +45,7 @@
 			"English": "They were excited.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كانوا متحمسين.",
 			"Egyptian Arabic Audio": "eca-1561-5.mp3",
 			"Standard Arabic Audio": "msa-1561-5.mp3"
 		},
@@ -54,7 +54,7 @@
 			"English": "An Osprey is a military plane.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أوسبري هو طائرة عسكرية.",
 			"Egyptian Arabic Audio": "eca-1561-6.mp3",
 			"Standard Arabic Audio": "msa-1561-6.mp3"
 		},
@@ -63,7 +63,7 @@
 			"English": "It flies like a plane.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يطير مثل طائرة.",
 			"Egyptian Arabic Audio": "eca-1561-7.mp3",
 			"Standard Arabic Audio": "msa-1561-7.mp3"
 		},
@@ -72,7 +72,7 @@
 			"English": "But it lands and takes off like a helicopter.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ولكن الأراضي وتقلع مثل طائرة هليكوبتر.",
 			"Egyptian Arabic Audio": "eca-1561-8.mp3",
 			"Standard Arabic Audio": "msa-1561-8.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "It has two huge propellers.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "فقد اثنين من مراوح ضخمة.",
 			"Egyptian Arabic Audio": "eca-1561-9.mp3",
 			"Standard Arabic Audio": "msa-1561-9.mp3"
 		},
@@ -90,7 +90,7 @@
 			"English": "The Osprey started to descend.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "بدأ أوسبري في الهبوط.",
 			"Egyptian Arabic Audio": "eca-1561-10.mp3",
 			"Standard Arabic Audio": "msa-1561-10.mp3"
 		},
@@ -99,7 +99,7 @@
 			"English": "It got closer to the treetops.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انها اقتربت من الأشجار.",
 			"Egyptian Arabic Audio": "eca-1561-11.mp3",
 			"Standard Arabic Audio": "msa-1561-11.mp3"
 		},
@@ -108,7 +108,7 @@
 			"English": "The wind from its propellers bent tree branches.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "الرياح من مراوحها فروع شجرة عازمة.",
 			"Egyptian Arabic Audio": "eca-1561-12.mp3",
 			"Standard Arabic Audio": "msa-1561-12.mp3"
 		},
@@ -117,7 +117,7 @@
 			"English": "The Osprey kept descending.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أبقى أوسبري تنازلي.",
 			"Egyptian Arabic Audio": "eca-1561-13.mp3",
 			"Standard Arabic Audio": "msa-1561-13.mp3"
 		},
@@ -126,7 +126,7 @@
 			"English": "The wind was like a hurricane.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كانت الرياح وكأنها إعصار.",
 			"Egyptian Arabic Audio": "eca-1561-14.mp3",
 			"Standard Arabic Audio": "msa-1561-14.mp3"
 		},
@@ -135,7 +135,7 @@
 			"English": "Trees bent over.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أشجار مثنية.",
 			"Egyptian Arabic Audio": "eca-1561-15.mp3",
 			"Standard Arabic Audio": "msa-1561-15.mp3"
 		},
@@ -144,7 +144,7 @@
 			"English": "Tree branches broke.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "اندلعت فروع شجرة.",
 			"Egyptian Arabic Audio": "eca-1561-16.mp3",
 			"Standard Arabic Audio": "msa-1561-16.mp3"
 		},
@@ -153,7 +153,7 @@
 			"English": "They crashed to the ground.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "تحطمت على الأرض.",
 			"Egyptian Arabic Audio": "eca-1561-17.mp3",
 			"Standard Arabic Audio": "msa-1561-17.mp3"
 		},
@@ -162,7 +162,7 @@
 			"English": "Leaves flew everywhere.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أوراق طار في كل مكان.",
 			"Egyptian Arabic Audio": "eca-1561-18.mp3",
 			"Standard Arabic Audio": "msa-1561-18.mp3"
 		},
@@ -171,7 +171,7 @@
 			"English": "Paper and plastic flew everywhere.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ورقة والبلاستيك طار في كل مكان.",
 			"Egyptian Arabic Audio": "eca-1561-19.mp3",
 			"Standard Arabic Audio": "msa-1561-19.mp3"
 		},
@@ -180,7 +180,7 @@
 			"English": "Trash cans fell over.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "سقطت علب القمامة.",
 			"Egyptian Arabic Audio": "eca-1561-20.mp3",
 			"Standard Arabic Audio": "msa-1561-20.mp3"
 		},
@@ -189,7 +189,7 @@
 			"English": "They started rolling around.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "بدأوا يتداولون.",
 			"Egyptian Arabic Audio": "eca-1561-21.mp3",
 			"Standard Arabic Audio": "msa-1561-21.mp3"
 		},
@@ -198,7 +198,7 @@
 			"English": "Dogs started barking.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "بدأت الكلاب تنبح.",
 			"Egyptian Arabic Audio": "eca-1561-22.mp3",
 			"Standard Arabic Audio": "msa-1561-22.mp3"
 		},
@@ -207,7 +207,7 @@
 			"English": "Children started crying.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "بدأ الأطفال يبكون.",
 			"Egyptian Arabic Audio": "eca-1561-23.mp3",
 			"Standard Arabic Audio": "msa-1561-23.mp3"
 		},
@@ -216,7 +216,7 @@
 			"English": "They ran.",
 			"Word Count": 2,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ركضوا.",
 			"Egyptian Arabic Audio": "eca-1561-24.mp3",
 			"Standard Arabic Audio": "msa-1561-24.mp3"
 		},
@@ -225,7 +225,7 @@
 			"English": "Parents ran after their children.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ركض الآباء بعد أطفالهم.",
 			"Egyptian Arabic Audio": "eca-1561-25.mp3",
 			"Standard Arabic Audio": "msa-1561-25.mp3"
 		},
@@ -234,7 +234,7 @@
 			"English": "Others ran from the flying trash.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ركض آخرون من القمامة الطائرة.",
 			"Egyptian Arabic Audio": "eca-1561-26.mp3",
 			"Standard Arabic Audio": "msa-1561-26.mp3"
 		},
@@ -243,7 +243,7 @@
 			"English": "Everyone was running away from the Osprey.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كان الجميع يهرب من أوسبري.",
 			"Egyptian Arabic Audio": "eca-1561-27.mp3",
 			"Standard Arabic Audio": "msa-1561-27.mp3"
 		},
@@ -252,7 +252,7 @@
 			"English": "The Osprey landed.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هبطت أوسبري.",
 			"Egyptian Arabic Audio": "eca-1561-28.mp3",
 			"Standard Arabic Audio": "msa-1561-28.mp3"
 		},
@@ -261,7 +261,7 @@
 			"English": "The pilot got out.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "خرج الطيار.",
 			"Egyptian Arabic Audio": "eca-1561-29.mp3",
 			"Standard Arabic Audio": "msa-1561-29.mp3"
 		},
@@ -270,7 +270,7 @@
 			"English": "He looked around.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وقال انه يتطلع حولها.",
 			"Egyptian Arabic Audio": "eca-1561-30.mp3",
 			"Standard Arabic Audio": "msa-1561-30.mp3"
 		},
@@ -279,7 +279,7 @@
 			"English": "Where is everybody, he wondered.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أين هو الجميع، وتساءل.",
 			"Egyptian Arabic Audio": "eca-1561-31.mp3",
 			"Standard Arabic Audio": "msa-1561-31.mp3"
 		}

@@ -9,7 +9,7 @@
 			"English": "It is the first day of high school.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هذا هو اليوم الأول من المدرسة الثانوية.",
 			"Egyptian Arabic Audio": "eca-0083-1.mp3",
 			"Standard Arabic Audio": "msa-0083-1.mp3"
 		},
@@ -18,7 +18,7 @@
 			"English": "She is completely lost.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انها خسرت تماما.",
 			"Egyptian Arabic Audio": "eca-0083-2.mp3",
 			"Standard Arabic Audio": "msa-0083-2.mp3"
 		},
@@ -27,7 +27,7 @@
 			"English": "She has never been here before.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انها لم تكن هنا من قبل.",
 			"Egyptian Arabic Audio": "eca-0083-3.mp3",
 			"Standard Arabic Audio": "msa-0083-3.mp3"
 		},
@@ -36,7 +36,7 @@
 			"English": "Her first class is Spanish.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لها الدرجة الأولى هي الإسبانية.",
 			"Egyptian Arabic Audio": "eca-0083-4.mp3",
 			"Standard Arabic Audio": "msa-0083-4.mp3"
 		},
@@ -45,7 +45,7 @@
 			"English": "The class is in the A building.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "الطبقة في المبنى A.",
 			"Egyptian Arabic Audio": "eca-0083-5.mp3",
 			"Standard Arabic Audio": "msa-0083-5.mp3"
 		},
@@ -54,7 +54,7 @@
 			"English": "A staff member sees her wandering around.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يرى أحد الموظفين أنها تجول.",
 			"Egyptian Arabic Audio": "eca-0083-6.mp3",
 			"Standard Arabic Audio": "msa-0083-6.mp3"
 		},
@@ -63,7 +63,7 @@
 			"English": "He gives her a map.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انه يعطيها خريطة.",
 			"Egyptian Arabic Audio": "eca-0083-7.mp3",
 			"Standard Arabic Audio": "msa-0083-7.mp3"
 		},
@@ -72,7 +72,7 @@
 			"English": "She looks at it.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انها تنظر في ذلك.",
 			"Egyptian Arabic Audio": "eca-0083-8.mp3",
 			"Standard Arabic Audio": "msa-0083-8.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "She finds her Spanish class.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وقالت إنها تجد صفها الإسبانية.",
 			"Egyptian Arabic Audio": "eca-0083-9.mp3",
 			"Standard Arabic Audio": "msa-0083-9.mp3"
 		}

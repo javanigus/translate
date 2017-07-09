@@ -9,7 +9,7 @@
 			"English": "Rod didn't even make it to surgery.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لم رود حتى جعله لعملية جراحية.",
 			"Egyptian Arabic Audio": "eca-1819-1.mp3",
 			"Standard Arabic Audio": "msa-1819-1.mp3"
 		},
@@ -18,7 +18,7 @@
 			"English": "The killing made all the TV news shows.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "القتل جعل جميع البرامج التلفزيونية الأخبار.",
 			"Egyptian Arabic Audio": "eca-1819-2.mp3",
 			"Standard Arabic Audio": "msa-1819-2.mp3"
 		},
@@ -27,7 +27,7 @@
 			"English": "House Depot offered a $100,000 reward.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "قدم البيت ديبوت مكافأة 100،000 $.",
 			"Egyptian Arabic Audio": "eca-1819-3.mp3",
 			"Standard Arabic Audio": "msa-1819-3.mp3"
 		}

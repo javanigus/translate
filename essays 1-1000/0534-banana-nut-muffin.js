@@ -9,7 +9,7 @@
 			"English": "Mary goes to the store.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ماري تذهب إلى المخزن.",
 			"Egyptian Arabic Audio": "eca-0534-1.mp3",
 			"Standard Arabic Audio": "msa-0534-1.mp3"
 		},
@@ -18,7 +18,7 @@
 			"English": "The store is very big.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "المخزن كبير جدا.",
 			"Egyptian Arabic Audio": "eca-0534-2.mp3",
 			"Standard Arabic Audio": "msa-0534-2.mp3"
 		},
@@ -27,7 +27,7 @@
 			"English": "The store sells bakery goods.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "المخزن يبيع منتجات المخابز.",
 			"Egyptian Arabic Audio": "eca-0534-3.mp3",
 			"Standard Arabic Audio": "msa-0534-3.mp3"
 		},
@@ -36,7 +36,7 @@
 			"English": "Mary sees a carrot cake.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ترى ماري كعكة الجزر.",
 			"Egyptian Arabic Audio": "eca-0534-4.mp3",
 			"Standard Arabic Audio": "msa-0534-4.mp3"
 		},
@@ -45,7 +45,7 @@
 			"English": "She does not like carrots.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انها لا تحب الجزر.",
 			"Egyptian Arabic Audio": "eca-0534-5.mp3",
 			"Standard Arabic Audio": "msa-0534-5.mp3"
 		},
@@ -54,7 +54,7 @@
 			"English": "She sees a banana nut muffin.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وقالت انها ترى الكعك الموز الجوز.",
 			"Egyptian Arabic Audio": "eca-0534-6.mp3",
 			"Standard Arabic Audio": "msa-0534-6.mp3"
 		},
@@ -63,7 +63,7 @@
 			"English": "It looks good.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "إن شكلها جيد.",
 			"Egyptian Arabic Audio": "eca-0534-7.mp3",
 			"Standard Arabic Audio": "msa-0534-7.mp3"
 		},
@@ -72,7 +72,7 @@
 			"English": "It costs two dollars.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يكلف دولارين.",
 			"Egyptian Arabic Audio": "eca-0534-8.mp3",
 			"Standard Arabic Audio": "msa-0534-8.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "She buys it.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "تشتريها.",
 			"Egyptian Arabic Audio": "eca-0534-9.mp3",
 			"Standard Arabic Audio": "msa-0534-9.mp3"
 		},
@@ -90,7 +90,7 @@
 			"English": "She takes the wrapper off.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انها تأخذ المجمع قبالة.",
 			"Egyptian Arabic Audio": "eca-0534-10.mp3",
 			"Standard Arabic Audio": "msa-0534-10.mp3"
 		},
@@ -99,7 +99,7 @@
 			"English": "She takes a big bite.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انها تأخذ لدغة كبيرة.",
 			"Egyptian Arabic Audio": "eca-0534-11.mp3",
 			"Standard Arabic Audio": "msa-0534-11.mp3"
 		},
@@ -108,7 +108,7 @@
 			"English": "It is crunchy on the outside.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "فمن مقدد في الخارج.",
 			"Egyptian Arabic Audio": "eca-0534-12.mp3",
 			"Standard Arabic Audio": "msa-0534-12.mp3"
 		},
@@ -117,7 +117,7 @@
 			"English": "It is soft on the inside.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنها لينة في الداخل.",
 			"Egyptian Arabic Audio": "eca-0534-13.mp3",
 			"Standard Arabic Audio": "msa-0534-13.mp3"
 		}

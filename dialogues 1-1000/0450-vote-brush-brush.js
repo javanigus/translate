@@ -11,7 +11,7 @@
 			"English": "I hate brushing my teeth.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أكره تنظيف الأسنان.",
 			"Egyptian Arabic Audio": "eca-0450-1.mp3",
 			"Standard Arabic Audio": "msa-0450-1.mp3"
 		},
@@ -21,7 +21,7 @@
 			"English": "It's such a chore.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انها مثل هذه الأعمال الروتينية.",
 			"Egyptian Arabic Audio": "eca-0450-2.mp3",
 			"Standard Arabic Audio": "msa-0450-2.mp3"
 		},
@@ -31,7 +31,7 @@
 			"English": "Brush, brush. Spit, spit.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "فرشاة، فرشاة. يبصقون، يبصقون.",
 			"Egyptian Arabic Audio": "eca-0450-3.mp3",
 			"Standard Arabic Audio": "msa-0450-3.mp3"
 		},
@@ -41,7 +41,7 @@
 			"English": "What did they do in the old days?",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ماذا فعلوا في الأيام الخوالي؟",
 			"Egyptian Arabic Audio": "eca-0450-4.mp3",
 			"Standard Arabic Audio": "msa-0450-4.mp3"
 		},
@@ -51,7 +51,7 @@
 			"English": "They brushed with their fingers.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ونحى بأصابعهم.",
 			"Egyptian Arabic Audio": "eca-0450-5.mp3",
 			"Standard Arabic Audio": "msa-0450-5.mp3"
 		},
@@ -61,7 +61,7 @@
 			"English": "They also ate with their fingers!",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كما أكلوا بأصابعهم!",
 			"Egyptian Arabic Audio": "eca-0450-6.mp3",
 			"Standard Arabic Audio": "msa-0450-6.mp3"
 		},
@@ -71,7 +71,7 @@
 			"English": "Why do they call it the good old days?",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لماذا يطلقون عليه الأيام الخوالي؟",
 			"Egyptian Arabic Audio": "eca-0450-7.mp3",
 			"Standard Arabic Audio": "msa-0450-7.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "Maybe because they didn't have to brush and floss.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ربما لأنهم لم يكن لديهم لتنظيف والخيط.",
 			"Egyptian Arabic Audio": "eca-0450-8.mp3",
 			"Standard Arabic Audio": "msa-0450-8.mp3"
 		},
@@ -91,7 +91,7 @@
 			"English": "Who invented flossing?",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "الذي اخترع الخيط؟",
 			"Egyptian Arabic Audio": "eca-0450-9.mp3",
 			"Standard Arabic Audio": "msa-0450-9.mp3"
 		},
@@ -101,7 +101,7 @@
 			"English": "A dentist, I'm sure.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "طبيب أسنان، أنا متأكد.",
 			"Egyptian Arabic Audio": "eca-0450-10.mp3",
 			"Standard Arabic Audio": "msa-0450-10.mp3"
 		},
@@ -111,7 +111,7 @@
 			"English": "I hate flossing more than brushing!",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أكره الخيط أكثر من بالفرشاة!",
 			"Egyptian Arabic Audio": "eca-0450-11.mp3",
 			"Standard Arabic Audio": "msa-0450-11.mp3"
 		},
@@ -121,7 +121,7 @@
 			"English": "I can't wait till all my teeth fall out.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لا أستطيع الانتظار حتى تسقط كل أسناني.",
 			"Egyptian Arabic Audio": "eca-0450-12.mp3",
 			"Standard Arabic Audio": "msa-0450-12.mp3"
 		}

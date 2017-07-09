@@ -9,7 +9,7 @@
 			"English": "Winter break starts soon.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يبدأ فصل الشتاء قريبا.",
 			"Egyptian Arabic Audio": "eca-0582-1.mp3",
 			"Standard Arabic Audio": "msa-0582-1.mp3"
 		},
@@ -18,7 +18,7 @@
 			"English": "Joseph is so excited.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "جوزيف متحمس جدا.",
 			"Egyptian Arabic Audio": "eca-0582-2.mp3",
 			"Standard Arabic Audio": "msa-0582-2.mp3"
 		},
@@ -27,7 +27,7 @@
 			"English": "He can't stop smiling.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وقال انه لا يمكن التوقف عن الابتسام.",
 			"Egyptian Arabic Audio": "eca-0582-3.mp3",
 			"Standard Arabic Audio": "msa-0582-3.mp3"
 		},
@@ -36,7 +36,7 @@
 			"English": "He can't wait.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انه لا يمكن الانتظار.",
 			"Egyptian Arabic Audio": "eca-0582-4.mp3",
 			"Standard Arabic Audio": "msa-0582-4.mp3"
 		},
@@ -45,7 +45,7 @@
 			"English": "He taps his foot.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انه الصنابير قدمه.",
 			"Egyptian Arabic Audio": "eca-0582-5.mp3",
 			"Standard Arabic Audio": "msa-0582-5.mp3"
 		},
@@ -54,7 +54,7 @@
 			"English": "He plays with his pencils.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يلعب مع أقلام الرصاص.",
 			"Egyptian Arabic Audio": "eca-0582-6.mp3",
 			"Standard Arabic Audio": "msa-0582-6.mp3"
 		},
@@ -63,7 +63,7 @@
 			"English": "He looks at the clock.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انه ينظر الى الساعة.",
 			"Egyptian Arabic Audio": "eca-0582-7.mp3",
 			"Standard Arabic Audio": "msa-0582-7.mp3"
 		},
@@ -72,7 +72,7 @@
 			"English": "He thinks of the snow.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انه يعتقد من الثلج.",
 			"Egyptian Arabic Audio": "eca-0582-8.mp3",
 			"Standard Arabic Audio": "msa-0582-8.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "He is ready to make snowballs.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انه على استعداد لجعل كرات الثلج.",
 			"Egyptian Arabic Audio": "eca-0582-9.mp3",
 			"Standard Arabic Audio": "msa-0582-9.mp3"
 		},
@@ -90,7 +90,7 @@
 			"English": "He is ready to go skiing.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وهو على استعداد للذهاب للتزلج.",
 			"Egyptian Arabic Audio": "eca-0582-10.mp3",
 			"Standard Arabic Audio": "msa-0582-10.mp3"
 		}

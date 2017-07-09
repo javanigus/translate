@@ -11,7 +11,7 @@
 			"English": "I'm in love with that girl.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنا في الحب مع تلك الفتاة.",
 			"Egyptian Arabic Audio": "eca-0349-1.mp3",
 			"Standard Arabic Audio": "msa-0349-1.mp3"
 		},
@@ -21,7 +21,7 @@
 			"English": "Have you told her?",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هل قلت لها؟",
 			"Egyptian Arabic Audio": "eca-0349-2.mp3",
 			"Standard Arabic Audio": "msa-0349-2.mp3"
 		},
@@ -31,7 +31,7 @@
 			"English": "Of course not.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "بالطبع لا.",
 			"Egyptian Arabic Audio": "eca-0349-3.mp3",
 			"Standard Arabic Audio": "msa-0349-3.mp3"
 		},
@@ -41,7 +41,7 @@
 			"English": "Why not?",
 			"Word Count": 2,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لما لا؟",
 			"Egyptian Arabic Audio": "eca-0349-4.mp3",
 			"Standard Arabic Audio": "msa-0349-4.mp3"
 		},
@@ -51,7 +51,7 @@
 			"English": "She would laugh at me.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وقالت إنها تضحك على لي.",
 			"Egyptian Arabic Audio": "eca-0349-5.mp3",
 			"Standard Arabic Audio": "msa-0349-5.mp3"
 		},
@@ -61,7 +61,7 @@
 			"English": "How do you know?",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كيف علمت بذلك؟",
 			"Egyptian Arabic Audio": "eca-0349-6.mp3",
 			"Standard Arabic Audio": "msa-0349-6.mp3"
 		},
@@ -71,7 +71,7 @@
 			"English": "Because they always do.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لأنها دائما تفعل.",
 			"Egyptian Arabic Audio": "eca-0349-7.mp3",
 			"Standard Arabic Audio": "msa-0349-7.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "Maybe she's different.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ربما انها مختلفة.",
 			"Egyptian Arabic Audio": "eca-0349-8.mp3",
 			"Standard Arabic Audio": "msa-0349-8.mp3"
 		},
@@ -91,7 +91,7 @@
 			"English": "They're all the same.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انهم جميعا نفس.",
 			"Egyptian Arabic Audio": "eca-0349-9.mp3",
 			"Standard Arabic Audio": "msa-0349-9.mp3"
 		},
@@ -101,7 +101,7 @@
 			"English": "Just ask her out to dinner.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "فقط أسألها لتناول العشاء.",
 			"Egyptian Arabic Audio": "eca-0349-10.mp3",
 			"Standard Arabic Audio": "msa-0349-10.mp3"
 		},
@@ -111,7 +111,7 @@
 			"English": "And then what?",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ثم ماذا؟",
 			"Egyptian Arabic Audio": "eca-0349-11.mp3",
 			"Standard Arabic Audio": "msa-0349-11.mp3"
 		},
@@ -121,7 +121,7 @@
 			"English": "And then she'll know that you like her.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وبعد ذلك سوف تعرف أن تحب لها.",
 			"Egyptian Arabic Audio": "eca-0349-12.mp3",
 			"Standard Arabic Audio": "msa-0349-12.mp3"
 		}

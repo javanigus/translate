@@ -11,7 +11,7 @@
 			"English": "Where are you going?",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "إلى أين تذهب؟",
 			"Egyptian Arabic Audio": "eca-1473-1.mp3",
 			"Standard Arabic Audio": "msa-1473-1.mp3"
 		},
@@ -21,7 +21,7 @@
 			"English": "I have to go to work.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يتوجب علي الذهاب إلى العمل.",
 			"Egyptian Arabic Audio": "eca-1473-2.mp3",
 			"Standard Arabic Audio": "msa-1473-2.mp3"
 		},
@@ -31,7 +31,7 @@
 			"English": "Going to work where?",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "الذهاب إلى العمل أين؟",
 			"Egyptian Arabic Audio": "eca-1473-3.mp3",
 			"Standard Arabic Audio": "msa-1473-3.mp3"
 		},
@@ -41,7 +41,7 @@
 			"English": "I'm working at the polling place.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنا أعمل في مكان الاقتراع.",
 			"Egyptian Arabic Audio": "eca-1473-4.mp3",
 			"Standard Arabic Audio": "msa-1473-4.mp3"
 		},
@@ -51,7 +51,7 @@
 			"English": "I didn't know you were working there this year.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لم أكن أعلم أنك تعمل هناك هذا العام.",
 			"Egyptian Arabic Audio": "eca-1473-5.mp3",
 			"Standard Arabic Audio": "msa-1473-5.mp3"
 		},
@@ -61,7 +61,7 @@
 			"English": "I work at the polling place every year.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أعمل في مكان الاقتراع كل عام.",
 			"Egyptian Arabic Audio": "eca-1473-6.mp3",
 			"Standard Arabic Audio": "msa-1473-6.mp3"
 		},
@@ -71,7 +71,7 @@
 			"English": "How did you get that job?",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كيف حصلت على هذه الوظيفة؟",
 			"Egyptian Arabic Audio": "eca-1473-7.mp3",
 			"Standard Arabic Audio": "msa-1473-7.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "I signed up for it online.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لقد اشتركت على الإنترنت.",
 			"Egyptian Arabic Audio": "eca-1473-8.mp3",
 			"Standard Arabic Audio": "msa-1473-8.mp3"
 		},
@@ -91,7 +91,7 @@
 			"English": "That's really cool.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هذا رائع حقا.",
 			"Egyptian Arabic Audio": "eca-1473-9.mp3",
 			"Standard Arabic Audio": "msa-1473-9.mp3"
 		},
@@ -101,7 +101,7 @@
 			"English": "It's a very cool job.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انها وظيفة باردة جدا.",
 			"Egyptian Arabic Audio": "eca-1473-10.mp3",
 			"Standard Arabic Audio": "msa-1473-10.mp3"
 		},
@@ -111,7 +111,7 @@
 			"English": "Do they pay you a lot?",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هل يدفعون لك الكثير؟",
 			"Egyptian Arabic Audio": "eca-1473-11.mp3",
 			"Standard Arabic Audio": "msa-1473-11.mp3"
 		},
@@ -121,7 +121,7 @@
 			"English": "They pay well enough.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنها تدفع جيدا بما فيه الكفاية.",
 			"Egyptian Arabic Audio": "eca-1473-12.mp3",
 			"Standard Arabic Audio": "msa-1473-12.mp3"
 		},
@@ -131,7 +131,7 @@
 			"English": "Are you going somewhere?",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنت ذاهب إلى مكان ما؟",
 			"Egyptian Arabic Audio": "eca-1473-13.mp3",
 			"Standard Arabic Audio": "msa-1473-13.mp3"
 		},
@@ -141,7 +141,7 @@
 			"English": "I'm on my way to work.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انا فى طريقى الى العمل.",
 			"Egyptian Arabic Audio": "eca-1473-14.mp3",
 			"Standard Arabic Audio": "msa-1473-14.mp3"
 		},
@@ -151,7 +151,7 @@
 			"English": "Where do you work?",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أين تعمل؟",
 			"Egyptian Arabic Audio": "eca-1473-15.mp3",
 			"Standard Arabic Audio": "msa-1473-15.mp3"
 		},
@@ -161,7 +161,7 @@
 			"English": "I work at the polling place.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أعمل في مكان الاقتراع.",
 			"Egyptian Arabic Audio": "eca-1473-16.mp3",
 			"Standard Arabic Audio": "msa-1473-16.mp3"
 		},
@@ -171,7 +171,7 @@
 			"English": "You didn't tell me you were working there this year.",
 			"Word Count": 10,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لم تخبرني أنك تعمل هناك هذا العام.",
 			"Egyptian Arabic Audio": "eca-1473-17.mp3",
 			"Standard Arabic Audio": "msa-1473-17.mp3"
 		},
@@ -181,7 +181,7 @@
 			"English": "I do this every year.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أفعل ذلك كل عام.",
 			"Egyptian Arabic Audio": "eca-1473-18.mp3",
 			"Standard Arabic Audio": "msa-1473-18.mp3"
 		},
@@ -191,7 +191,7 @@
 			"English": "How'd you get that job?",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كيف حصلت على هذا العمل؟",
 			"Egyptian Arabic Audio": "eca-1473-19.mp3",
 			"Standard Arabic Audio": "msa-1473-19.mp3"
 		},
@@ -201,7 +201,7 @@
 			"English": "I applied online.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "تقدمت بطلب عبر الإنترنت.",
 			"Egyptian Arabic Audio": "eca-1473-20.mp3",
 			"Standard Arabic Audio": "msa-1473-20.mp3"
 		},
@@ -211,7 +211,7 @@
 			"English": "That's interesting.",
 			"Word Count": 2,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ذلك مثير للاهتمام.",
 			"Egyptian Arabic Audio": "eca-1473-21.mp3",
 			"Standard Arabic Audio": "msa-1473-21.mp3"
 		},
@@ -221,7 +221,7 @@
 			"English": "I enjoy working there every year.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنا أستمتع بالعمل هناك كل عام.",
 			"Egyptian Arabic Audio": "eca-1473-22.mp3",
 			"Standard Arabic Audio": "msa-1473-22.mp3"
 		},
@@ -231,7 +231,7 @@
 			"English": "How much do they pay?",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كم يدفعون؟",
 			"Egyptian Arabic Audio": "eca-1473-23.mp3",
 			"Standard Arabic Audio": "msa-1473-23.mp3"
 		},
@@ -241,7 +241,7 @@
 			"English": "They pay just enough.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنها تدفع ما يكفي.",
 			"Egyptian Arabic Audio": "eca-1473-24.mp3",
 			"Standard Arabic Audio": "msa-1473-24.mp3"
 		},
@@ -251,7 +251,7 @@
 			"English": "Are you leaving?",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هل أنت ذاهب؟",
 			"Egyptian Arabic Audio": "eca-1473-25.mp3",
 			"Standard Arabic Audio": "msa-1473-25.mp3"
 		},
@@ -261,7 +261,7 @@
 			"English": "I'm going to work.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انا ذاهب للعمل.",
 			"Egyptian Arabic Audio": "eca-1473-26.mp3",
 			"Standard Arabic Audio": "msa-1473-26.mp3"
 		},
@@ -271,7 +271,7 @@
 			"English": "You have a job?",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لديك وظيفة؟",
 			"Egyptian Arabic Audio": "eca-1473-27.mp3",
 			"Standard Arabic Audio": "msa-1473-27.mp3"
 		},
@@ -281,7 +281,7 @@
 			"English": "I'm going to work at the polling place.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنا ذاهب للعمل في مكان الاقتراع.",
 			"Egyptian Arabic Audio": "eca-1473-28.mp3",
 			"Standard Arabic Audio": "msa-1473-28.mp3"
 		},
@@ -291,7 +291,7 @@
 			"English": "You're working there this year?",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كنت تعمل هناك هذا العام؟",
 			"Egyptian Arabic Audio": "eca-1473-29.mp3",
 			"Standard Arabic Audio": "msa-1473-29.mp3"
 		},
@@ -301,7 +301,7 @@
 			"English": "I work there every year.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أعمل هناك كل عام.",
 			"Egyptian Arabic Audio": "eca-1473-30.mp3",
 			"Standard Arabic Audio": "msa-1473-30.mp3"
 		},
@@ -311,7 +311,7 @@
 			"English": "How are you able to work at the polling place?",
 			"Word Count": 10,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كيف يمكنك العمل في مكان الاقتراع؟",
 			"Egyptian Arabic Audio": "eca-1473-31.mp3",
 			"Standard Arabic Audio": "msa-1473-31.mp3"
 		},
@@ -321,7 +321,7 @@
 			"English": "I applied for the job online.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "تقدمت بطلب للحصول على وظيفة على الانترنت.",
 			"Egyptian Arabic Audio": "eca-1473-32.mp3",
 			"Standard Arabic Audio": "msa-1473-32.mp3"
 		},
@@ -331,7 +331,7 @@
 			"English": "Sounds like fun.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يبدو ممتعا.",
 			"Egyptian Arabic Audio": "eca-1473-33.mp3",
 			"Standard Arabic Audio": "msa-1473-33.mp3"
 		},
@@ -341,7 +341,7 @@
 			"English": "It's a fun job.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انها وظيفة ممتعة.",
 			"Egyptian Arabic Audio": "eca-1473-34.mp3",
 			"Standard Arabic Audio": "msa-1473-34.mp3"
 		},
@@ -351,7 +351,7 @@
 			"English": "They don't pay a lot, do they?",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انهم لا يدفعون الكثير، أليس كذلك؟",
 			"Egyptian Arabic Audio": "eca-1473-35.mp3",
 			"Standard Arabic Audio": "msa-1473-35.mp3"
 		},
@@ -361,7 +361,7 @@
 			"English": "They pay enough.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنها تدفع ما يكفي.",
 			"Egyptian Arabic Audio": "eca-1473-36.mp3",
 			"Standard Arabic Audio": "msa-1473-36.mp3"
 		}

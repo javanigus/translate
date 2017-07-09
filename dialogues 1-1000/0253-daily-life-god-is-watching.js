@@ -11,7 +11,7 @@
 			"English": "It's Sunday.",
 			"Word Count": 2,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انه الاحد.",
 			"Egyptian Arabic Audio": "eca-0253-1.mp3",
 			"Standard Arabic Audio": "msa-0253-1.mp3"
 		},
@@ -21,7 +21,7 @@
 			"English": "So?",
 			"Word Count": 1,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وبالتالي؟",
 			"Egyptian Arabic Audio": "eca-0253-2.mp3",
 			"Standard Arabic Audio": "msa-0253-2.mp3"
 		},
@@ -31,7 +31,7 @@
 			"English": "You know what that means.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنت تعرف ماذا يعني ذلك.",
 			"Egyptian Arabic Audio": "eca-0253-3.mp3",
 			"Standard Arabic Audio": "msa-0253-3.mp3"
 		},
@@ -41,7 +41,7 @@
 			"English": "I forgot.",
 			"Word Count": 2,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انا نسيت.",
 			"Egyptian Arabic Audio": "eca-0253-4.mp3",
 			"Standard Arabic Audio": "msa-0253-4.mp3"
 		},
@@ -51,7 +51,7 @@
 			"English": "Sunday means we go to church.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "الأحد يعني أننا نذهب إلى الكنيسة.",
 			"Egyptian Arabic Audio": "eca-0253-5.mp3",
 			"Standard Arabic Audio": "msa-0253-5.mp3"
 		},
@@ -61,7 +61,7 @@
 			"English": "Oh, yeah.",
 			"Word Count": 2,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "آه أجل.",
 			"Egyptian Arabic Audio": "eca-0253-6.mp3",
 			"Standard Arabic Audio": "msa-0253-6.mp3"
 		},
@@ -71,7 +71,7 @@
 			"English": "Put on a coat and tie.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وضع على معطف وربطة عنق.",
 			"Egyptian Arabic Audio": "eca-0253-7.mp3",
 			"Standard Arabic Audio": "msa-0253-7.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "Why?",
 			"Word Count": 1,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لماذا ا؟",
 			"Egyptian Arabic Audio": "eca-0253-8.mp3",
 			"Standard Arabic Audio": "msa-0253-8.mp3"
 		},
@@ -91,7 +91,7 @@
 			"English": "To show respect to God and others.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لإظهار احترام الله والآخرين.",
 			"Egyptian Arabic Audio": "eca-0253-9.mp3",
 			"Standard Arabic Audio": "msa-0253-9.mp3"
 		},
@@ -101,7 +101,7 @@
 			"English": "I'm glad Sunday is only once a week.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنا سعيد الأحد هو مرة واحدة فقط في الأسبوع.",
 			"Egyptian Arabic Audio": "eca-0253-10.mp3",
 			"Standard Arabic Audio": "msa-0253-10.mp3"
 		},
@@ -111,7 +111,7 @@
 			"English": "I hope God didn't hear that.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "آمل أن الله لم يسمع ذلك.",
 			"Egyptian Arabic Audio": "eca-0253-11.mp3",
 			"Standard Arabic Audio": "msa-0253-11.mp3"
 		},
@@ -121,7 +121,7 @@
 			"English": "He'll forgive me",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وقال انه سوف يغفر لي",
 			"Egyptian Arabic Audio": "eca-0253-12.mp3",
 			"Standard Arabic Audio": "msa-0253-12.mp3"
 		}

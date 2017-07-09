@@ -9,7 +9,7 @@
 			"English": "She is young.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "إنها صغيرة.",
 			"Egyptian Arabic Audio": "eca-1406-1.mp3",
 			"Standard Arabic Audio": "msa-1406-1.mp3"
 		},
@@ -18,7 +18,7 @@
 			"English": "Her shoes are old.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أحذيةها قديمة.",
 			"Egyptian Arabic Audio": "eca-1406-2.mp3",
 			"Standard Arabic Audio": "msa-1406-2.mp3"
 		},
@@ -27,7 +27,7 @@
 			"English": "She wears them to work.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انها ترتديها للعمل.",
 			"Egyptian Arabic Audio": "eca-1406-3.mp3",
 			"Standard Arabic Audio": "msa-1406-3.mp3"
 		},
@@ -36,7 +36,7 @@
 			"English": "She goes to work five days a week.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "تذهب للعمل خمسة أيام في الأسبوع.",
 			"Egyptian Arabic Audio": "eca-1406-4.mp3",
 			"Standard Arabic Audio": "msa-1406-4.mp3"
 		},
@@ -45,7 +45,7 @@
 			"English": "She loves her work.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "تحب عملها.",
 			"Egyptian Arabic Audio": "eca-1406-5.mp3",
 			"Standard Arabic Audio": "msa-1406-5.mp3"
 		},
@@ -54,7 +54,7 @@
 			"English": "She is a waitress.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وهي نادلة.",
 			"Egyptian Arabic Audio": "eca-1406-6.mp3",
 			"Standard Arabic Audio": "msa-1406-6.mp3"
 		},
@@ -63,7 +63,7 @@
 			"English": "She works at a restaurant.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وهي تعمل في مطعم.",
 			"Egyptian Arabic Audio": "eca-1406-7.mp3",
 			"Standard Arabic Audio": "msa-1406-7.mp3"
 		},
@@ -72,7 +72,7 @@
 			"English": "The restaurant is near her home.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "المطعم بالقرب من منزلها.",
 			"Egyptian Arabic Audio": "eca-1406-8.mp3",
 			"Standard Arabic Audio": "msa-1406-8.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "She walks to the restaurant.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وهي تسير إلى المطعم.",
 			"Egyptian Arabic Audio": "eca-1406-9.mp3",
 			"Standard Arabic Audio": "msa-1406-9.mp3"
 		},
@@ -90,7 +90,7 @@
 			"English": "She stands up all day long.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انها تقف طوال اليوم.",
 			"Egyptian Arabic Audio": "eca-1406-10.mp3",
 			"Standard Arabic Audio": "msa-1406-10.mp3"
 		},
@@ -99,7 +99,7 @@
 			"English": "She is young and strong.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وهي شابة وقوية.",
 			"Egyptian Arabic Audio": "eca-1406-11.mp3",
 			"Standard Arabic Audio": "msa-1406-11.mp3"
 		},
@@ -108,7 +108,7 @@
 			"English": "But her shoes are not.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ولكن حذائها ليست كذلك.",
 			"Egyptian Arabic Audio": "eca-1406-12.mp3",
 			"Standard Arabic Audio": "msa-1406-12.mp3"
 		},
@@ -117,7 +117,7 @@
 			"English": "They are old.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "فهي قديمة.",
 			"Egyptian Arabic Audio": "eca-1406-13.mp3",
 			"Standard Arabic Audio": "msa-1406-13.mp3"
 		},
@@ -126,7 +126,7 @@
 			"English": "She saw an ad in the paper.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "رأت إعلانا في الورقة.",
 			"Egyptian Arabic Audio": "eca-1406-14.mp3",
 			"Standard Arabic Audio": "msa-1406-14.mp3"
 		},
@@ -135,7 +135,7 @@
 			"English": "All shoes were on sale at the shoe store.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وكانت جميع الأحذية للبيع في متجر الأحذية.",
 			"Egyptian Arabic Audio": "eca-1406-15.mp3",
 			"Standard Arabic Audio": "msa-1406-15.mp3"
 		},
@@ -144,7 +144,7 @@
 			"English": "She walked into the store.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "سارت إلى المخزن.",
 			"Egyptian Arabic Audio": "eca-1406-16.mp3",
 			"Standard Arabic Audio": "msa-1406-16.mp3"
 		},
@@ -153,7 +153,7 @@
 			"English": "She looked around.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "نظرت حولي.",
 			"Egyptian Arabic Audio": "eca-1406-17.mp3",
 			"Standard Arabic Audio": "msa-1406-17.mp3"
 		},
@@ -162,7 +162,7 @@
 			"English": "She saw some black shoes.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "رأت بعض الأحذية السوداء.",
 			"Egyptian Arabic Audio": "eca-1406-18.mp3",
 			"Standard Arabic Audio": "msa-1406-18.mp3"
 		},
@@ -171,7 +171,7 @@
 			"English": "They looked good.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنها تبدو جيدة.",
 			"Egyptian Arabic Audio": "eca-1406-19.mp3",
 			"Standard Arabic Audio": "msa-1406-19.mp3"
 		},
@@ -180,7 +180,7 @@
 			"English": "She tried them on.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "حاولت لهم.",
 			"Egyptian Arabic Audio": "eca-1406-20.mp3",
 			"Standard Arabic Audio": "msa-1406-20.mp3"
 		},
@@ -189,7 +189,7 @@
 			"English": "They were very comfortable.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كانت مريحة جدا.",
 			"Egyptian Arabic Audio": "eca-1406-21.mp3",
 			"Standard Arabic Audio": "msa-1406-21.mp3"
 		},
@@ -198,7 +198,7 @@
 			"English": "They felt good.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "شعروا جيدة.",
 			"Egyptian Arabic Audio": "eca-1406-22.mp3",
 			"Standard Arabic Audio": "msa-1406-22.mp3"
 		},
@@ -207,7 +207,7 @@
 			"English": "They were only $25.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كانوا فقط 25 $.",
 			"Egyptian Arabic Audio": "eca-1406-23.mp3",
 			"Standard Arabic Audio": "msa-1406-23.mp3"
 		},
@@ -216,7 +216,7 @@
 			"English": "She paid cash.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "دفعت نقدا.",
 			"Egyptian Arabic Audio": "eca-1406-24.mp3",
 			"Standard Arabic Audio": "msa-1406-24.mp3"
 		},
@@ -225,7 +225,7 @@
 			"English": "She wore them home.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ارتدى لهم المنزل.",
 			"Egyptian Arabic Audio": "eca-1406-25.mp3",
 			"Standard Arabic Audio": "msa-1406-25.mp3"
 		},
@@ -234,7 +234,7 @@
 			"English": "She felt good.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "شعرت جيدة.",
 			"Egyptian Arabic Audio": "eca-1406-26.mp3",
 			"Standard Arabic Audio": "msa-1406-26.mp3"
 		},
@@ -243,7 +243,7 @@
 			"English": "She was ready for work the next day.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كانت مستعدة للعمل في اليوم التالي.",
 			"Egyptian Arabic Audio": "eca-1406-27.mp3",
 			"Standard Arabic Audio": "msa-1406-27.mp3"
 		}

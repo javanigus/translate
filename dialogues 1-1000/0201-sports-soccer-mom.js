@@ -11,7 +11,7 @@
 			"English": "Hi! You're David's mom, aren't you?",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "مرحبا! أنت أمي ديفيد، أليس كذلك؟",
 			"Egyptian Arabic Audio": "eca-0201-1.mp3",
 			"Standard Arabic Audio": "msa-0201-1.mp3"
 		},
@@ -21,7 +21,7 @@
 			"English": "Yes I am. Do I know you from somewhere?",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "نعم انا. هل اعرفك من مكان ما؟",
 			"Egyptian Arabic Audio": "eca-0201-2.mp3",
 			"Standard Arabic Audio": "msa-0201-2.mp3"
 		},
@@ -31,7 +31,7 @@
 			"English": "I'm James's mom. They play on the same team.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنا أمي جيمس. انهم يلعبون على نفس الفريق.",
 			"Egyptian Arabic Audio": "eca-0201-3.mp3",
 			"Standard Arabic Audio": "msa-0201-3.mp3"
 		},
@@ -41,7 +41,7 @@
 			"English": "That's right! It's nice to meet you.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "صحيح! من اللطيف مقابلتك.",
 			"Egyptian Arabic Audio": "eca-0201-4.mp3",
 			"Standard Arabic Audio": "msa-0201-4.mp3"
 		},
@@ -51,7 +51,7 @@
 			"English": "It's nice to meet you, too.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "سررت بمعرفتك ايضا.",
 			"Egyptian Arabic Audio": "eca-0201-5.mp3",
 			"Standard Arabic Audio": "msa-0201-5.mp3"
 		},
@@ -61,7 +61,7 @@
 			"English": "Will David be playing in the big game on Saturday?",
 			"Word Count": 10,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هل سيكون ديفيد يلعب في المباراة الكبيرة يوم السبت؟",
 			"Egyptian Arabic Audio": "eca-0201-6.mp3",
 			"Standard Arabic Audio": "msa-0201-6.mp3"
 		},
@@ -71,7 +71,7 @@
 			"English": "I'm afraid not. He's fighting a cold.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنا خائف لعدم كوني. انه يقاتل البرد.",
 			"Egyptian Arabic Audio": "eca-0201-7.mp3",
 			"Standard Arabic Audio": "msa-0201-7.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "That's terrible! A bug has been going around.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هذا مريع! وقد علة جار.",
 			"Egyptian Arabic Audio": "eca-0201-8.mp3",
 			"Standard Arabic Audio": "msa-0201-8.mp3"
 		},
@@ -91,7 +91,7 @@
 			"English": "He's missed a lot of school, though.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انه غاب عن الكثير من المدرسة، على الرغم من.",
 			"Egyptian Arabic Audio": "eca-0201-9.mp3",
 			"Standard Arabic Audio": "msa-0201-9.mp3"
 		},
@@ -101,7 +101,7 @@
 			"English": "I see. I'll ask David to deliver his homework.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنا أرى. سأطلب من ديفيد أن يقوم بواجبه المنزلي.",
 			"Egyptian Arabic Audio": "eca-0201-10.mp3",
 			"Standard Arabic Audio": "msa-0201-10.mp3"
 		},
@@ -111,7 +111,7 @@
 			"English": "That would be a great help, thank you.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وهذا سيكون عونا كبيرا، وشكرا لكم.",
 			"Egyptian Arabic Audio": "eca-0201-11.mp3",
 			"Standard Arabic Audio": "msa-0201-11.mp3"
 		},
@@ -121,7 +121,7 @@
 			"English": "It's no problem at all!",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انها لا مشكلة على الإطلاق!",
 			"Egyptian Arabic Audio": "eca-0201-12.mp3",
 			"Standard Arabic Audio": "msa-0201-12.mp3"
 		}

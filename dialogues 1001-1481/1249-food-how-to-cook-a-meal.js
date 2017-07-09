@@ -11,7 +11,7 @@
 			"English": "I was thinking about cooking dinner tonight.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كنت أفكر في طهي العشاء الليلة.",
 			"Egyptian Arabic Audio": "eca-1249-1.mp3",
 			"Standard Arabic Audio": "msa-1249-1.mp3"
 		},
@@ -21,7 +21,7 @@
 			"English": "What do you want to make?",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ماذا تريد أن تصنع؟",
 			"Egyptian Arabic Audio": "eca-1249-2.mp3",
 			"Standard Arabic Audio": "msa-1249-2.mp3"
 		},
@@ -31,7 +31,7 @@
 			"English": "I'm not exactly sure.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنا لست متأكدا تماما.",
 			"Egyptian Arabic Audio": "eca-1249-3.mp3",
 			"Standard Arabic Audio": "msa-1249-3.mp3"
 		},
@@ -41,7 +41,7 @@
 			"English": "I wouldn't mind a beef bowl.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنا لا أمانع وعاء لحوم البقر.",
 			"Egyptian Arabic Audio": "eca-1249-4.mp3",
 			"Standard Arabic Audio": "msa-1249-4.mp3"
 		},
@@ -51,7 +51,7 @@
 			"English": "How do I make that?",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كيف أقوم بذلك؟",
 			"Egyptian Arabic Audio": "eca-1249-5.mp3",
 			"Standard Arabic Audio": "msa-1249-5.mp3"
 		},
@@ -61,7 +61,7 @@
 			"English": "All it has is rice and teriyaki beef.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كل ما لديه هو الأرز و تريكي لحم البقر.",
 			"Egyptian Arabic Audio": "eca-1249-6.mp3",
 			"Standard Arabic Audio": "msa-1249-6.mp3"
 		},
@@ -71,7 +71,7 @@
 			"English": "That sounds easy, but how do I make it?",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هذا يبدو سهلا، ولكن كيف يمكنني جعله؟",
 			"Egyptian Arabic Audio": "eca-1249-7.mp3",
 			"Standard Arabic Audio": "msa-1249-7.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "First, you need to make some white rice.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أولا، تحتاج إلى جعل بعض الأرز الأبيض.",
 			"Egyptian Arabic Audio": "eca-1249-8.mp3",
 			"Standard Arabic Audio": "msa-1249-8.mp3"
 		},
@@ -91,7 +91,7 @@
 			"English": "Then what do I do?",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ثم ماذا أفعل؟",
 			"Egyptian Arabic Audio": "eca-1249-9.mp3",
 			"Standard Arabic Audio": "msa-1249-9.mp3"
 		},
@@ -101,7 +101,7 @@
 			"English": "Then you need to shred some beef and marinate it with teriyaki sauce.",
 			"Word Count": 13,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ثم تحتاج إلى أجاد بعض لحوم البقر وتذوق مع صلصة تريكي.",
 			"Egyptian Arabic Audio": "eca-1249-10.mp3",
 			"Standard Arabic Audio": "msa-1249-10.mp3"
 		},
@@ -111,7 +111,7 @@
 			"English": "Is there anything else I need to do?",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هل هناك أي شيء آخر يجب علي فعله؟",
 			"Egyptian Arabic Audio": "eca-1249-11.mp3",
 			"Standard Arabic Audio": "msa-1249-11.mp3"
 		},
@@ -121,7 +121,7 @@
 			"English": "Then you cook it up and eat it.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ثم تطبخه وتناوله.",
 			"Egyptian Arabic Audio": "eca-1249-12.mp3",
 			"Standard Arabic Audio": "msa-1249-12.mp3"
 		},
@@ -131,7 +131,7 @@
 			"English": "I really want to make something for dinner.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنا حقا تريد أن تجعل شيئا لتناول العشاء.",
 			"Egyptian Arabic Audio": "eca-1249-13.mp3",
 			"Standard Arabic Audio": "msa-1249-13.mp3"
 		},
@@ -141,7 +141,7 @@
 			"English": "What are you going to cook?",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ماذا تنوى أن تطبخ؟",
 			"Egyptian Arabic Audio": "eca-1249-14.mp3",
 			"Standard Arabic Audio": "msa-1249-14.mp3"
 		},
@@ -151,7 +151,7 @@
 			"English": "I haven't the slightest clue what I'm going to make.",
 			"Word Count": 10,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ليس لدي أدنى فكرة ما سأقوم به.",
 			"Egyptian Arabic Audio": "eca-1249-15.mp3",
 			"Standard Arabic Audio": "msa-1249-15.mp3"
 		},
@@ -161,7 +161,7 @@
 			"English": "A teriyaki bowl sounds nice.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وعاء ترياكي يبدو لطيفا.",
 			"Egyptian Arabic Audio": "eca-1249-16.mp3",
 			"Standard Arabic Audio": "msa-1249-16.mp3"
 		},
@@ -171,7 +171,7 @@
 			"English": "I don't know how to make that.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنا لا أعرف كيفية جعل ذلك.",
 			"Egyptian Arabic Audio": "eca-1249-17.mp3",
 			"Standard Arabic Audio": "msa-1249-17.mp3"
 		},
@@ -181,7 +181,7 @@
 			"English": "All you need to make it is white rice and some teriyaki beef.",
 			"Word Count": 13,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كل ما تحتاجه لجعله الأرز الأبيض وبعض لحم البقر تريكي.",
 			"Egyptian Arabic Audio": "eca-1249-18.mp3",
 			"Standard Arabic Audio": "msa-1249-18.mp3"
 		},
@@ -191,7 +191,7 @@
 			"English": "That sounds fairly simple, but how do I cook it?",
 			"Word Count": 10,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هذا يبدو بسيطا إلى حد ما، ولكن كيف يمكنني طهي الطعام؟",
 			"Egyptian Arabic Audio": "eca-1249-19.mp3",
 			"Standard Arabic Audio": "msa-1249-19.mp3"
 		},
@@ -201,7 +201,7 @@
 			"English": "The first and simplest thing you have to do is make some white rice.",
 			"Word Count": 14,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أول وأبسط شيء عليك القيام به هو جعل بعض الأرز الأبيض.",
 			"Egyptian Arabic Audio": "eca-1249-20.mp3",
 			"Standard Arabic Audio": "msa-1249-20.mp3"
 		},
@@ -211,7 +211,7 @@
 			"English": "What's next?",
 			"Word Count": 2,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ماذا بعد؟",
 			"Egyptian Arabic Audio": "eca-1249-21.mp3",
 			"Standard Arabic Audio": "msa-1249-21.mp3"
 		},
@@ -221,7 +221,7 @@
 			"English": "Then you should shred your beef and pour some teriyaki marinade over it.",
 			"Word Count": 13,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ثم يجب أن أجاد اللحم البقري الخاص بك وتصب بعض ماء البحر ترياكي أكثر من ذلك.",
 			"Egyptian Arabic Audio": "eca-1249-22.mp3",
 			"Standard Arabic Audio": "msa-1249-22.mp3"
 		},
@@ -231,7 +231,7 @@
 			"English": "What's the next thing I need to do?",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ما هو الشيء التالي الذي يجب علي فعله؟",
 			"Egyptian Arabic Audio": "eca-1249-23.mp3",
 			"Standard Arabic Audio": "msa-1249-23.mp3"
 		},
@@ -241,7 +241,7 @@
 			"English": "Then all you need to do is cook it and enjoy.",
 			"Word Count": 11,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ثم كل ما عليك القيام به هو طهي الطعام والتمتع بها.",
 			"Egyptian Arabic Audio": "eca-1249-24.mp3",
 			"Standard Arabic Audio": "msa-1249-24.mp3"
 		},
@@ -251,7 +251,7 @@
 			"English": "I want to make dinner tonight.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أريد أن أقدم العشاء الليلة.",
 			"Egyptian Arabic Audio": "eca-1249-25.mp3",
 			"Standard Arabic Audio": "msa-1249-25.mp3"
 		},
@@ -261,7 +261,7 @@
 			"English": "What are you thinking of making?",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ما الذي تفكر في صنعه؟",
 			"Egyptian Arabic Audio": "eca-1249-26.mp3",
 			"Standard Arabic Audio": "msa-1249-26.mp3"
 		},
@@ -271,7 +271,7 @@
 			"English": "I don't have any idea what to cook.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ليس لدي أي فكرة لطهي الطعام.",
 			"Egyptian Arabic Audio": "eca-1249-27.mp3",
 			"Standard Arabic Audio": "msa-1249-27.mp3"
 		},
@@ -281,7 +281,7 @@
 			"English": "How about making a teriyaki bowl?",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ماذا عن صنع وعاء ترياكي؟",
 			"Egyptian Arabic Audio": "eca-1249-28.mp3",
 			"Standard Arabic Audio": "msa-1249-28.mp3"
 		},
@@ -291,7 +291,7 @@
 			"English": "Can you tell me how to make it?",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يمكنك أن تقول لي كيفية جعله؟",
 			"Egyptian Arabic Audio": "eca-1249-29.mp3",
 			"Standard Arabic Audio": "msa-1249-29.mp3"
 		},
@@ -301,7 +301,7 @@
 			"English": "All it consists of is teriyaki beef and rice.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كل ما يتكون هو لحم البقر تريكي والأرز.",
 			"Egyptian Arabic Audio": "eca-1249-30.mp3",
 			"Standard Arabic Audio": "msa-1249-30.mp3"
 		},
@@ -311,7 +311,7 @@
 			"English": "But what do I have to do to prepare it?",
 			"Word Count": 10,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ولكن ما الذي يتعين علي القيام به لإعداده؟",
 			"Egyptian Arabic Audio": "eca-1249-31.mp3",
 			"Standard Arabic Audio": "msa-1249-31.mp3"
 		},
@@ -321,7 +321,7 @@
 			"English": "All you have to do is cook some white rice.",
 			"Word Count": 10,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كل ما عليك القيام به هو طهي بعض الأرز الأبيض.",
 			"Egyptian Arabic Audio": "eca-1249-32.mp3",
 			"Standard Arabic Audio": "msa-1249-32.mp3"
 		},
@@ -331,7 +331,7 @@
 			"English": "What do I do after that?",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ماذا أفعل بعد ذلك؟",
 			"Egyptian Arabic Audio": "eca-1249-33.mp3",
 			"Standard Arabic Audio": "msa-1249-33.mp3"
 		},
@@ -341,7 +341,7 @@
 			"English": "Then cut up the beef and marinate it in teriyaki sauce.",
 			"Word Count": 11,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ثم قطع اللحم البقري ونبله في صلصة تريكي.",
 			"Egyptian Arabic Audio": "eca-1249-34.mp3",
 			"Standard Arabic Audio": "msa-1249-34.mp3"
 		},
@@ -351,7 +351,7 @@
 			"English": "What else do I have to do?",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ماذا يجب أن أفعل؟",
 			"Egyptian Arabic Audio": "eca-1249-35.mp3",
 			"Standard Arabic Audio": "msa-1249-35.mp3"
 		},
@@ -361,7 +361,7 @@
 			"English": "All that's left is to cook it.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كل ما تبقى هو لطهي الطعام.",
 			"Egyptian Arabic Audio": "eca-1249-36.mp3",
 			"Standard Arabic Audio": "msa-1249-36.mp3"
 		}

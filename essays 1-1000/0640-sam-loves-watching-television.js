@@ -9,7 +9,7 @@
 			"English": "Watching television is entertaining.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "مشاهدة التلفزيون هو مسلية.",
 			"Egyptian Arabic Audio": "eca-0640-1.mp3",
 			"Standard Arabic Audio": "msa-0640-1.mp3"
 		},
@@ -18,7 +18,7 @@
 			"English": "Sam loved watching television.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أحب سام مشاهدة التلفزيون.",
 			"Egyptian Arabic Audio": "eca-0640-2.mp3",
 			"Standard Arabic Audio": "msa-0640-2.mp3"
 		},
@@ -27,7 +27,7 @@
 			"English": "He watched it all the time.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "شاهده في كل وقت.",
 			"Egyptian Arabic Audio": "eca-0640-3.mp3",
 			"Standard Arabic Audio": "msa-0640-3.mp3"
 		},
@@ -36,7 +36,7 @@
 			"English": "He watched it in the morning.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "شاهده في الصباح.",
 			"Egyptian Arabic Audio": "eca-0640-4.mp3",
 			"Standard Arabic Audio": "msa-0640-4.mp3"
 		},
@@ -45,7 +45,7 @@
 			"English": "He watched it in the afternoon.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "شاهده في فترة ما بعد الظهر.",
 			"Egyptian Arabic Audio": "eca-0640-5.mp3",
 			"Standard Arabic Audio": "msa-0640-5.mp3"
 		},
@@ -54,7 +54,7 @@
 			"English": "He watched it in the evening.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "شاهده في المساء.",
 			"Egyptian Arabic Audio": "eca-0640-6.mp3",
 			"Standard Arabic Audio": "msa-0640-6.mp3"
 		},
@@ -63,7 +63,7 @@
 			"English": "He loved watching it late at night.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كان يحب مشاهدته في وقت متأخر من الليل.",
 			"Egyptian Arabic Audio": "eca-0640-7.mp3",
 			"Standard Arabic Audio": "msa-0640-7.mp3"
 		},
@@ -72,7 +72,7 @@
 			"English": "The television was always on in Sam's house.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كان التلفزيون دائما في منزل سام.",
 			"Egyptian Arabic Audio": "eca-0640-8.mp3",
 			"Standard Arabic Audio": "msa-0640-8.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "There's always something to watch on television.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هناك دائما شيء لمشاهدته على شاشة التلفزيون.",
 			"Egyptian Arabic Audio": "eca-0640-9.mp3",
 			"Standard Arabic Audio": "msa-0640-9.mp3"
 		},
@@ -90,7 +90,7 @@
 			"English": "Sam watched cartoons.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "سام شاهد الرسوم.",
 			"Egyptian Arabic Audio": "eca-0640-10.mp3",
 			"Standard Arabic Audio": "msa-0640-10.mp3"
 		},
@@ -99,7 +99,7 @@
 			"English": "Sam watched the news.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "سام شاهد الخبر.",
 			"Egyptian Arabic Audio": "eca-0640-11.mp3",
 			"Standard Arabic Audio": "msa-0640-11.mp3"
 		},
@@ -108,7 +108,7 @@
 			"English": "Sam watched sports.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "سام شاهد الرياضة.",
 			"Egyptian Arabic Audio": "eca-0640-12.mp3",
 			"Standard Arabic Audio": "msa-0640-12.mp3"
 		},
@@ -117,7 +117,7 @@
 			"English": "Sam watched documentaries.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "شاهد سام الأفلام الوثائقية.",
 			"Egyptian Arabic Audio": "eca-0640-13.mp3",
 			"Standard Arabic Audio": "msa-0640-13.mp3"
 		},
@@ -126,7 +126,7 @@
 			"English": "Sam watched movies.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "سام شاهد الأفلام.",
 			"Egyptian Arabic Audio": "eca-0640-14.mp3",
 			"Standard Arabic Audio": "msa-0640-14.mp3"
 		},
@@ -135,7 +135,7 @@
 			"English": "Sam watched sitcoms.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "شاهد سام المسلسلات.",
 			"Egyptian Arabic Audio": "eca-0640-15.mp3",
 			"Standard Arabic Audio": "msa-0640-15.mp3"
 		},
@@ -144,7 +144,7 @@
 			"English": "Sitcoms were his favorite to watch.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كانت سيتسكوم المفضلة لديه لمشاهدة.",
 			"Egyptian Arabic Audio": "eca-0640-16.mp3",
 			"Standard Arabic Audio": "msa-0640-16.mp3"
 		},
@@ -153,7 +153,7 @@
 			"English": "Watching television can be good for you.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "مشاهدة التلفزيون يمكن أن تكون جيدة بالنسبة لك.",
 			"Egyptian Arabic Audio": "eca-0640-17.mp3",
 			"Standard Arabic Audio": "msa-0640-17.mp3"
 		},
@@ -162,7 +162,7 @@
 			"English": "Watching television is relaxing.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "مشاهدة التلفزيون هو الاسترخاء.",
 			"Egyptian Arabic Audio": "eca-0640-18.mp3",
 			"Standard Arabic Audio": "msa-0640-18.mp3"
 		},
@@ -171,7 +171,7 @@
 			"English": "Watching television is informing.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "مشاهدة التلفزيون هو إعلام.",
 			"Egyptian Arabic Audio": "eca-0640-19.mp3",
 			"Standard Arabic Audio": "msa-0640-19.mp3"
 		},
@@ -180,7 +180,7 @@
 			"English": "Watching television can bring people together.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "مشاهدة التلفزيون يمكن أن يجلب الناس معا.",
 			"Egyptian Arabic Audio": "eca-0640-20.mp3",
 			"Standard Arabic Audio": "msa-0640-20.mp3"
 		},
@@ -189,7 +189,7 @@
 			"English": "Sam liked watching television with friends.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "سام يحب مشاهدة التلفزيون مع الأصدقاء.",
 			"Egyptian Arabic Audio": "eca-0640-21.mp3",
 			"Standard Arabic Audio": "msa-0640-21.mp3"
 		},
@@ -198,7 +198,7 @@
 			"English": "Sam recorded television shows.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "سام سجلت البرامج التلفزيونية.",
 			"Egyptian Arabic Audio": "eca-0640-22.mp3",
 			"Standard Arabic Audio": "msa-0640-22.mp3"
 		},
@@ -207,7 +207,7 @@
 			"English": "He had a device that would record shows.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كان لديه جهاز من شأنه أن يسجل العروض.",
 			"Egyptian Arabic Audio": "eca-0640-23.mp3",
 			"Standard Arabic Audio": "msa-0640-23.mp3"
 		},
@@ -216,7 +216,7 @@
 			"English": "Sam recorded all his favorite shows.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وسجل سام جميع برامجه المفضلة.",
 			"Egyptian Arabic Audio": "eca-0640-24.mp3",
 			"Standard Arabic Audio": "msa-0640-24.mp3"
 		},
@@ -225,7 +225,7 @@
 			"English": "He re-watched them all the time.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أعاد مشاهدتها طوال الوقت.",
 			"Egyptian Arabic Audio": "eca-0640-25.mp3",
 			"Standard Arabic Audio": "msa-0640-25.mp3"
 		},
@@ -234,7 +234,7 @@
 			"English": "Sam had many recordings.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وكان سام العديد من التسجيلات.",
 			"Egyptian Arabic Audio": "eca-0640-26.mp3",
 			"Standard Arabic Audio": "msa-0640-26.mp3"
 		},
@@ -243,7 +243,7 @@
 			"English": "Sam wants to be an actor.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "سام يريد أن يكون فاعلا.",
 			"Egyptian Arabic Audio": "eca-0640-27.mp3",
 			"Standard Arabic Audio": "msa-0640-27.mp3"
 		},
@@ -252,7 +252,7 @@
 			"English": "He wants to appear on television.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يريد أن يظهر على شاشة التلفزيون.",
 			"Egyptian Arabic Audio": "eca-0640-28.mp3",
 			"Standard Arabic Audio": "msa-0640-28.mp3"
 		},
@@ -261,7 +261,7 @@
 			"English": "It is his dream.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "إنه حلمه.",
 			"Egyptian Arabic Audio": "eca-0640-29.mp3",
 			"Standard Arabic Audio": "msa-0640-29.mp3"
 		}

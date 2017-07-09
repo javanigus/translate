@@ -11,7 +11,7 @@
 			"English": "What do you need for school?",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ما الذي تحتاجه للمدرسة؟",
 			"Egyptian Arabic Audio": "eca-0314-1.mp3",
 			"Standard Arabic Audio": "msa-0314-1.mp3"
 		},
@@ -21,7 +21,7 @@
 			"English": "I need pencils.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أحتاج أقلام الرصاص.",
 			"Egyptian Arabic Audio": "eca-0314-2.mp3",
 			"Standard Arabic Audio": "msa-0314-2.mp3"
 		},
@@ -31,7 +31,7 @@
 			"English": "Anything else?",
 			"Word Count": 2,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أي شيء آخر؟",
 			"Egyptian Arabic Audio": "eca-0314-3.mp3",
 			"Standard Arabic Audio": "msa-0314-3.mp3"
 		},
@@ -41,7 +41,7 @@
 			"English": "I need a notebook.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنا بحاجة إلى جهاز كمبيوتر محمول.",
 			"Egyptian Arabic Audio": "eca-0314-4.mp3",
 			"Standard Arabic Audio": "msa-0314-4.mp3"
 		},
@@ -51,7 +51,7 @@
 			"English": "Do you need a pen?",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هل تحتاج إلى قلم؟",
 			"Egyptian Arabic Audio": "eca-0314-5.mp3",
 			"Standard Arabic Audio": "msa-0314-5.mp3"
 		},
@@ -61,7 +61,7 @@
 			"English": "No. I already have a pen.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لا، لدي بالفعل قلم.",
 			"Egyptian Arabic Audio": "eca-0314-6.mp3",
 			"Standard Arabic Audio": "msa-0314-6.mp3"
 		},
@@ -71,7 +71,7 @@
 			"English": "Do you need a calculator?",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هل تحتاج إلى آلة حاسبة؟",
 			"Egyptian Arabic Audio": "eca-0314-7.mp3",
 			"Standard Arabic Audio": "msa-0314-7.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "No. The teacher doesn't permit calculators.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لا. المعلم لا يسمح الآلات الحاسبة.",
 			"Egyptian Arabic Audio": "eca-0314-8.mp3",
 			"Standard Arabic Audio": "msa-0314-8.mp3"
 		},
@@ -91,7 +91,7 @@
 			"English": "How about a dictionary?",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ماذا عن القاموس؟",
 			"Egyptian Arabic Audio": "eca-0314-9.mp3",
 			"Standard Arabic Audio": "msa-0314-9.mp3"
 		},
@@ -101,7 +101,7 @@
 			"English": "No, we have a big dictionary in the classroom.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لا، لدينا قاموس كبير في الفصول الدراسية.",
 			"Egyptian Arabic Audio": "eca-0314-10.mp3",
 			"Standard Arabic Audio": "msa-0314-10.mp3"
 		},
@@ -111,7 +111,7 @@
 			"English": "Well, I guess that's it.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "حسنا، أعتقد أن هذا كل شيء.",
 			"Egyptian Arabic Audio": "eca-0314-11.mp3",
 			"Standard Arabic Audio": "msa-0314-11.mp3"
 		},
@@ -121,7 +121,7 @@
 			"English": "Yes, that's all I need for now.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "نعم، هذا كل ما أحتاجه الآن.",
 			"Egyptian Arabic Audio": "eca-0314-12.mp3",
 			"Standard Arabic Audio": "msa-0314-12.mp3"
 		}

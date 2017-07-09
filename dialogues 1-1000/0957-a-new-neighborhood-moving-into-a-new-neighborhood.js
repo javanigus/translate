@@ -11,7 +11,7 @@
 			"English": "I'm a bit nervous, Charlie.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنا عصبية بعض الشيء، تشارلي.",
 			"Egyptian Arabic Audio": "eca-0957-1.mp3",
 			"Standard Arabic Audio": "msa-0957-1.mp3"
 		},
@@ -21,7 +21,7 @@
 			"English": "Why, baby?",
 			"Word Count": 2,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لماذا يا حبيبي - حبيبتي؟",
 			"Egyptian Arabic Audio": "eca-0957-2.mp3",
 			"Standard Arabic Audio": "msa-0957-2.mp3"
 		},
@@ -31,7 +31,7 @@
 			"English": "Well, you know, new neighborhood, new surroundings.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "حسنا، كما تعلمون، حي جديد، محيط جديد.",
 			"Egyptian Arabic Audio": "eca-0957-3.mp3",
 			"Standard Arabic Audio": "msa-0957-3.mp3"
 		},
@@ -41,7 +41,7 @@
 			"English": "Change is good, Linda. Before long, you'll feel right at home.",
 			"Word Count": 11,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "التغيير جيد، ليندا. قبل فترة طويلة، سوف تشعر الحق في المنزل.",
 			"Egyptian Arabic Audio": "eca-0957-4.mp3",
 			"Standard Arabic Audio": "msa-0957-4.mp3"
 		},
@@ -51,7 +51,7 @@
 			"English": "I hope so. I guess I'm just used to the old place.",
 			"Word Count": 12,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "آمل ذلك. اعتقد انني اعتدت على المكان القديم.",
 			"Egyptian Arabic Audio": "eca-0957-5.mp3",
 			"Standard Arabic Audio": "msa-0957-5.mp3"
 		},
@@ -61,7 +61,7 @@
 			"English": "I know what you mean, baby, but this is a much better neighborhood.",
 			"Word Count": 13,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنا أعرف ما تعنيه، طفل، ولكن هذا هو حي أفضل بكثير.",
 			"Egyptian Arabic Audio": "eca-0957-6.mp3",
 			"Standard Arabic Audio": "msa-0957-6.mp3"
 		},
@@ -71,7 +71,7 @@
 			"English": "Yes, it is, but it's still something new.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "نعم، هو، لكنه لا يزال شيئا جديدا.",
 			"Egyptian Arabic Audio": "eca-0957-7.mp3",
 			"Standard Arabic Audio": "msa-0957-7.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "We'll be fine. In a month it will feel like home.",
 			"Word Count": 11,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "سنكون على ما يرام. في الشهر سوف يشعر وكأنه المنزل.",
 			"Egyptian Arabic Audio": "eca-0957-8.mp3",
 			"Standard Arabic Audio": "msa-0957-8.mp3"
 		},
@@ -91,7 +91,7 @@
 			"English": "I hope our neighbors are nice.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "آمل أن يكون جيراننا لطيفين.",
 			"Egyptian Arabic Audio": "eca-0957-9.mp3",
 			"Standard Arabic Audio": "msa-0957-9.mp3"
 		},
@@ -101,7 +101,7 @@
 			"English": "Me too, but that's not a deal-breaker. This is a much better place.",
 			"Word Count": 13,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنا أيضا، ولكن هذا ليس صفقة الكسارة. هذا هو مكان أفضل بكثير.",
 			"Egyptian Arabic Audio": "eca-0957-10.mp3",
 			"Standard Arabic Audio": "msa-0957-10.mp3"
 		},
@@ -111,7 +111,7 @@
 			"English": "I know, dear. It's just my jitters, that's all.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انا اعرف يا عزيزي. انها مجرد بلدي الهزات، هذا كل شيء.",
 			"Egyptian Arabic Audio": "eca-0957-11.mp3",
 			"Standard Arabic Audio": "msa-0957-11.mp3"
 		},
@@ -121,7 +121,7 @@
 			"English": "We will get through this, babe.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ونحن سوف تحصل من خلال هذا، فاتنة.",
 			"Egyptian Arabic Audio": "eca-0957-12.mp3",
 			"Standard Arabic Audio": "msa-0957-12.mp3"
 		}

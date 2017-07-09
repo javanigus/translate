@@ -11,7 +11,7 @@
 			"English": "How good is your math?",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كيف جيدة الرياضيات الخاص بك؟",
 			"Egyptian Arabic Audio": "eca-0322-1.mp3",
 			"Standard Arabic Audio": "msa-0322-1.mp3"
 		},
@@ -21,7 +21,7 @@
 			"English": "I can add two and two.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يمكنني إضافة اثنين واثنين.",
 			"Egyptian Arabic Audio": "eca-0322-2.mp3",
 			"Standard Arabic Audio": "msa-0322-2.mp3"
 		},
@@ -31,7 +31,7 @@
 			"English": "So you're not very good at math?",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لذلك أنت ليست جيدة جدا في الرياضيات؟",
 			"Egyptian Arabic Audio": "eca-0322-3.mp3",
 			"Standard Arabic Audio": "msa-0322-3.mp3"
 		},
@@ -41,7 +41,7 @@
 			"English": "I'm terrible at math.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنا رهيبة في الرياضيات.",
 			"Egyptian Arabic Audio": "eca-0322-4.mp3",
 			"Standard Arabic Audio": "msa-0322-4.mp3"
 		},
@@ -51,7 +51,7 @@
 			"English": "Well, I need some help.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "حسنا، أنا بحاجة إلى بعض المساعدة.",
 			"Egyptian Arabic Audio": "eca-0322-5.mp3",
 			"Standard Arabic Audio": "msa-0322-5.mp3"
 		},
@@ -61,7 +61,7 @@
 			"English": "With what?",
 			"Word Count": 2,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "بماذا؟",
 			"Egyptian Arabic Audio": "eca-0322-6.mp3",
 			"Standard Arabic Audio": "msa-0322-6.mp3"
 		},
@@ -71,7 +71,7 @@
 			"English": "I'm taking a math course in school.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنا أخذ دورة الرياضيات في المدرسة.",
 			"Egyptian Arabic Audio": "eca-0322-7.mp3",
 			"Standard Arabic Audio": "msa-0322-7.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "Well, you should ask your teacher or your classmates for help.",
 			"Word Count": 11,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "حسنا، يجب أن تسأل معلمك أو زملائك للحصول على المساعدة.",
 			"Egyptian Arabic Audio": "eca-0322-8.mp3",
 			"Standard Arabic Audio": "msa-0322-8.mp3"
 		},
@@ -91,7 +91,7 @@
 			"English": "I can't do that.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لا أستطيع أن أفعل ذلك.",
 			"Egyptian Arabic Audio": "eca-0322-9.mp3",
 			"Standard Arabic Audio": "msa-0322-9.mp3"
 		},
@@ -101,7 +101,7 @@
 			"English": "Why not?",
 			"Word Count": 2,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لما لا؟",
 			"Egyptian Arabic Audio": "eca-0322-10.mp3",
 			"Standard Arabic Audio": "msa-0322-10.mp3"
 		},
@@ -111,7 +111,7 @@
 			"English": "They might think I'm stupid.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "قد يعتقدون أنني غبي.",
 			"Egyptian Arabic Audio": "eca-0322-11.mp3",
 			"Standard Arabic Audio": "msa-0322-11.mp3"
 		},
@@ -121,7 +121,7 @@
 			"English": "They're not going to think that! They'll be glad to help you.",
 			"Word Count": 12,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انهم لن يعتقدون ذلك! سيكونون سعداء لمساعدتك.",
 			"Egyptian Arabic Audio": "eca-0322-12.mp3",
 			"Standard Arabic Audio": "msa-0322-12.mp3"
 		}

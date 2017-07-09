@@ -9,7 +9,7 @@
 			"English": "It is nighttime.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هو ليلا.",
 			"Egyptian Arabic Audio": "eca-0333-1.mp3",
 			"Standard Arabic Audio": "msa-0333-1.mp3"
 		},
@@ -18,7 +18,7 @@
 			"English": "The sky is black.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "السماء سوداء.",
 			"Egyptian Arabic Audio": "eca-0333-2.mp3",
 			"Standard Arabic Audio": "msa-0333-2.mp3"
 		},
@@ -27,7 +27,7 @@
 			"English": "There are tiny lights in the sky.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هناك أضواء صغيرة في السماء.",
 			"Egyptian Arabic Audio": "eca-0333-3.mp3",
 			"Standard Arabic Audio": "msa-0333-3.mp3"
 		},
@@ -36,7 +36,7 @@
 			"English": "They are stars.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هم النجوم.",
 			"Egyptian Arabic Audio": "eca-0333-4.mp3",
 			"Standard Arabic Audio": "msa-0333-4.mp3"
 		},
@@ -45,7 +45,7 @@
 			"English": "There are many stars.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هناك العديد من النجوم.",
 			"Egyptian Arabic Audio": "eca-0333-5.mp3",
 			"Standard Arabic Audio": "msa-0333-5.mp3"
 		},
@@ -54,7 +54,7 @@
 			"English": "She looks all over the sky.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انها تبدو في جميع أنحاء السماء.",
 			"Egyptian Arabic Audio": "eca-0333-6.mp3",
 			"Standard Arabic Audio": "msa-0333-6.mp3"
 		},
@@ -63,7 +63,7 @@
 			"English": "She sees stars everywhere.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ترى النجوم في كل مكان.",
 			"Egyptian Arabic Audio": "eca-0333-7.mp3",
 			"Standard Arabic Audio": "msa-0333-7.mp3"
 		},
@@ -72,7 +72,7 @@
 			"English": "A few stars are big.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وهناك عدد قليل من النجوم كبيرة.",
 			"Egyptian Arabic Audio": "eca-0333-8.mp3",
 			"Standard Arabic Audio": "msa-0333-8.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "Most stars are small.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "معظم النجوم صغيرة.",
 			"Egyptian Arabic Audio": "eca-0333-9.mp3",
 			"Standard Arabic Audio": "msa-0333-9.mp3"
 		},
@@ -90,7 +90,7 @@
 			"English": "She counts the stars.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "إنها تحسب النجوم.",
 			"Egyptian Arabic Audio": "eca-0333-10.mp3",
 			"Standard Arabic Audio": "msa-0333-10.mp3"
 		},
@@ -99,7 +99,7 @@
 			"English": "She counts 86 stars.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انها تعول 86 النجوم.",
 			"Egyptian Arabic Audio": "eca-0333-11.mp3",
 			"Standard Arabic Audio": "msa-0333-11.mp3"
 		},
@@ -108,7 +108,7 @@
 			"English": "She tells her mom.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "تخبر والدتها.",
 			"Egyptian Arabic Audio": "eca-0333-12.mp3",
 			"Standard Arabic Audio": "msa-0333-12.mp3"
 		}

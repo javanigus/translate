@@ -11,7 +11,7 @@
 			"English": "How may I help you?",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كيف يمكنني مساعدتك؟",
 			"Egyptian Arabic Audio": "eca-1206-1.mp3",
 			"Standard Arabic Audio": "msa-1206-1.mp3"
 		},
@@ -21,7 +21,7 @@
 			"English": "I would like to return an item.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وأود أن إرجاع بند.",
 			"Egyptian Arabic Audio": "eca-1206-2.mp3",
 			"Standard Arabic Audio": "msa-1206-2.mp3"
 		},
@@ -31,7 +31,7 @@
 			"English": "What are you returning?",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ماذا تعود؟",
 			"Egyptian Arabic Audio": "eca-1206-3.mp3",
 			"Standard Arabic Audio": "msa-1206-3.mp3"
 		},
@@ -41,7 +41,7 @@
 			"English": "I want to return this cellphone.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أريد أن أعود هذا الهاتف المحمول.",
 			"Egyptian Arabic Audio": "eca-1206-4.mp3",
 			"Standard Arabic Audio": "msa-1206-4.mp3"
 		},
@@ -51,7 +51,7 @@
 			"English": "Is there a problem?",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هل هناك مشكلة؟",
 			"Egyptian Arabic Audio": "eca-1206-5.mp3",
 			"Standard Arabic Audio": "msa-1206-5.mp3"
 		},
@@ -61,7 +61,7 @@
 			"English": "It's broken.",
 			"Word Count": 2,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنه معطل.",
 			"Egyptian Arabic Audio": "eca-1206-6.mp3",
 			"Standard Arabic Audio": "msa-1206-6.mp3"
 		},
@@ -71,7 +71,7 @@
 			"English": "What exactly is wrong with it?",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ما هو الخطأ بالضبط مع ذلك؟",
 			"Egyptian Arabic Audio": "eca-1206-7.mp3",
 			"Standard Arabic Audio": "msa-1206-7.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "The phone turns off by itself.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يتم إيقاف تشغيل الهاتف بنفسه.",
 			"Egyptian Arabic Audio": "eca-1206-8.mp3",
 			"Standard Arabic Audio": "msa-1206-8.mp3"
 		},
@@ -91,7 +91,7 @@
 			"English": "That's fine, but do you have your receipt with you?",
 			"Word Count": 10,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هذا أمر جيد، ولكن هل لديك إيصالك معك؟",
 			"Egyptian Arabic Audio": "eca-1206-9.mp3",
 			"Standard Arabic Audio": "msa-1206-9.mp3"
 		},
@@ -101,7 +101,7 @@
 			"English": "Yes, here it is.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "نعم، هنا هو.",
 			"Egyptian Arabic Audio": "eca-1206-10.mp3",
 			"Standard Arabic Audio": "msa-1206-10.mp3"
 		},
@@ -111,7 +111,7 @@
 			"English": "I'll refund your money right now.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "سأرد أموالك الآن.",
 			"Egyptian Arabic Audio": "eca-1206-11.mp3",
 			"Standard Arabic Audio": "msa-1206-11.mp3"
 		},
@@ -121,7 +121,7 @@
 			"English": "Thank you so much.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "شكرا جزيلا.",
 			"Egyptian Arabic Audio": "eca-1206-12.mp3",
 			"Standard Arabic Audio": "msa-1206-12.mp3"
 		},
@@ -131,7 +131,7 @@
 			"English": "How can I help you today?",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كيف استطيع مساعدتك اليوم؟",
 			"Egyptian Arabic Audio": "eca-1206-13.mp3",
 			"Standard Arabic Audio": "msa-1206-13.mp3"
 		},
@@ -141,7 +141,7 @@
 			"English": "I am returning something that I bought yesterday.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنا عائد شيء اشتريته أمس.",
 			"Egyptian Arabic Audio": "eca-1206-14.mp3",
 			"Standard Arabic Audio": "msa-1206-14.mp3"
 		},
@@ -151,7 +151,7 @@
 			"English": "What would you like to return?",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ماذا تريد أن تعود؟",
 			"Egyptian Arabic Audio": "eca-1206-15.mp3",
 			"Standard Arabic Audio": "msa-1206-15.mp3"
 		},
@@ -161,7 +161,7 @@
 			"English": "I'm returning a cellphone.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنا أعود الهاتف المحمول.",
 			"Egyptian Arabic Audio": "eca-1206-16.mp3",
 			"Standard Arabic Audio": "msa-1206-16.mp3"
 		},
@@ -171,7 +171,7 @@
 			"English": "Was there something wrong with it?",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هل كان هناك شيء خاطئ مع ذلك؟",
 			"Egyptian Arabic Audio": "eca-1206-17.mp3",
 			"Standard Arabic Audio": "msa-1206-17.mp3"
 		},
@@ -181,7 +181,7 @@
 			"English": "It's defective.",
 			"Word Count": 2,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انها معيبة.",
 			"Egyptian Arabic Audio": "eca-1206-18.mp3",
 			"Standard Arabic Audio": "msa-1206-18.mp3"
 		},
@@ -191,7 +191,7 @@
 			"English": "What isn't working on it?",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ما الذي لا يعمل على ذلك؟",
 			"Egyptian Arabic Audio": "eca-1206-19.mp3",
 			"Standard Arabic Audio": "msa-1206-19.mp3"
 		},
@@ -201,7 +201,7 @@
 			"English": "It keeps turning off on its own.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "فإنه يحتفظ إيقاف من تلقاء نفسها.",
 			"Egyptian Arabic Audio": "eca-1206-20.mp3",
 			"Standard Arabic Audio": "msa-1206-20.mp3"
 		},
@@ -211,7 +211,7 @@
 			"English": "Alright, do you have the receipt?",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "حسنا، هل لديك إيصال؟",
 			"Egyptian Arabic Audio": "eca-1206-21.mp3",
 			"Standard Arabic Audio": "msa-1206-21.mp3"
 		},
@@ -221,7 +221,7 @@
 			"English": "I have it right here.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لدي ذلك الحق هنا.",
 			"Egyptian Arabic Audio": "eca-1206-22.mp3",
 			"Standard Arabic Audio": "msa-1206-22.mp3"
 		},
@@ -231,7 +231,7 @@
 			"English": "I'm going to take care of this and refund your money.",
 			"Word Count": 11,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنا ذاهب لرعاية هذا وبرد المال الخاص.",
 			"Egyptian Arabic Audio": "eca-1206-23.mp3",
 			"Standard Arabic Audio": "msa-1206-23.mp3"
 		},
@@ -241,7 +241,7 @@
 			"English": "Thanks for your help.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "شكرا لمساعدتك.",
 			"Egyptian Arabic Audio": "eca-1206-24.mp3",
 			"Standard Arabic Audio": "msa-1206-24.mp3"
 		},
@@ -251,7 +251,7 @@
 			"English": "What can I do for you?",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ما الذي يمكنني أن أفعله من أجلك؟",
 			"Egyptian Arabic Audio": "eca-1206-25.mp3",
 			"Standard Arabic Audio": "msa-1206-25.mp3"
 		},
@@ -261,7 +261,7 @@
 			"English": "I need to return something.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنا بحاجة إلى العودة شيئا.",
 			"Egyptian Arabic Audio": "eca-1206-26.mp3",
 			"Standard Arabic Audio": "msa-1206-26.mp3"
 		},
@@ -271,7 +271,7 @@
 			"English": "What do you need to return?",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ماذا تحتاج للعودة؟",
 			"Egyptian Arabic Audio": "eca-1206-27.mp3",
 			"Standard Arabic Audio": "msa-1206-27.mp3"
 		},
@@ -281,7 +281,7 @@
 			"English": "I need to return this cellphone that I just bought.",
 			"Word Count": 10,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنا بحاجة إلى إعادة هذا الهاتف المحمول الذي اشتريت للتو.",
 			"Egyptian Arabic Audio": "eca-1206-28.mp3",
 			"Standard Arabic Audio": "msa-1206-28.mp3"
 		},
@@ -291,7 +291,7 @@
 			"English": "What is wrong with it?",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ما العيب بها؟",
 			"Egyptian Arabic Audio": "eca-1206-29.mp3",
 			"Standard Arabic Audio": "msa-1206-29.mp3"
 		},
@@ -301,7 +301,7 @@
 			"English": "It isn't working properly.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنها لا تعمل بشكل صحيح.",
 			"Egyptian Arabic Audio": "eca-1206-30.mp3",
 			"Standard Arabic Audio": "msa-1206-30.mp3"
 		},
@@ -311,7 +311,7 @@
 			"English": "What is the problem with it?",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ما هي المشكلة معها؟",
 			"Egyptian Arabic Audio": "eca-1206-31.mp3",
 			"Standard Arabic Audio": "msa-1206-31.mp3"
 		},
@@ -321,7 +321,7 @@
 			"English": "For some reason the phone cuts off by itself.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لسبب ما يقطع الهاتف في حد ذاته.",
 			"Egyptian Arabic Audio": "eca-1206-32.mp3",
 			"Standard Arabic Audio": "msa-1206-32.mp3"
 		},
@@ -331,7 +331,7 @@
 			"English": "I see, and do you have your receipt?",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أرى، وهل لديك إيصالك؟",
 			"Egyptian Arabic Audio": "eca-1206-33.mp3",
 			"Standard Arabic Audio": "msa-1206-33.mp3"
 		},
@@ -341,7 +341,7 @@
 			"English": "Here you go.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ها أنت ذا.",
 			"Egyptian Arabic Audio": "eca-1206-34.mp3",
 			"Standard Arabic Audio": "msa-1206-34.mp3"
 		},
@@ -351,7 +351,7 @@
 			"English": "I'll take care of this right now.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنا سوف تأخذ الرعاية من هذا الحق الآن.",
 			"Egyptian Arabic Audio": "eca-1206-35.mp3",
 			"Standard Arabic Audio": "msa-1206-35.mp3"
 		},
@@ -361,7 +361,7 @@
 			"English": "I appreciate your help.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انا اقدر مساعدتك.",
 			"Egyptian Arabic Audio": "eca-1206-36.mp3",
 			"Standard Arabic Audio": "msa-1206-36.mp3"
 		}

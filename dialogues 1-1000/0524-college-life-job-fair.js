@@ -11,7 +11,7 @@
 			"English": "I hope I can find a job after graduation.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "آمل أن أجد وظيفة بعد التخرج.",
 			"Egyptian Arabic Audio": "eca-0524-1.mp3",
 			"Standard Arabic Audio": "msa-0524-1.mp3"
 		},
@@ -21,7 +21,7 @@
 			"English": "What is your major?",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ما هو اختصاصك؟",
 			"Egyptian Arabic Audio": "eca-0524-2.mp3",
 			"Standard Arabic Audio": "msa-0524-2.mp3"
 		},
@@ -31,7 +31,7 @@
 			"English": "My major is geology.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "تخصصي هو الجيولوجيا.",
 			"Egyptian Arabic Audio": "eca-0524-3.mp3",
 			"Standard Arabic Audio": "msa-0524-3.mp3"
 		},
@@ -41,7 +41,7 @@
 			"English": "Geology majors aren't very high in demand, but you'll do fine.",
 			"Word Count": 11,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "تخصصات الجيولوجيا ليست عالية جدا في الطلب، ولكن عليك أن تفعل ما يرام.",
 			"Egyptian Arabic Audio": "eca-0524-4.mp3",
 			"Standard Arabic Audio": "msa-0524-4.mp3"
 		},
@@ -51,7 +51,7 @@
 			"English": "What makes you say that?",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ما الذي جعلك تقول هذا؟",
 			"Egyptian Arabic Audio": "eca-0524-5.mp3",
 			"Standard Arabic Audio": "msa-0524-5.mp3"
 		},
@@ -61,7 +61,7 @@
 			"English": "You're smart and likeable. Don't worry.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كنت ذكيا ومحبوب. لا تقلق.",
 			"Egyptian Arabic Audio": "eca-0524-6.mp3",
 			"Standard Arabic Audio": "msa-0524-6.mp3"
 		},
@@ -71,7 +71,7 @@
 			"English": "Thanks, but I'm still scared.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "شكرا، ولكن ما زلت خائفا.",
 			"Egyptian Arabic Audio": "eca-0524-7.mp3",
 			"Standard Arabic Audio": "msa-0524-7.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "Oh, hey! You should go to the job fair.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أوه، مهلا! يجب أن تذهب إلى معرض العمل.",
 			"Egyptian Arabic Audio": "eca-0524-8.mp3",
 			"Standard Arabic Audio": "msa-0524-8.mp3"
 		},
@@ -91,7 +91,7 @@
 			"English": "We have that here?",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لدينا هنا؟",
 			"Egyptian Arabic Audio": "eca-0524-9.mp3",
 			"Standard Arabic Audio": "msa-0524-9.mp3"
 		},
@@ -101,7 +101,7 @@
 			"English": "Yes. Take advantage of it.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "نعم فعلا. الاستفادة منه.",
 			"Egyptian Arabic Audio": "eca-0524-10.mp3",
 			"Standard Arabic Audio": "msa-0524-10.mp3"
 		},
@@ -111,7 +111,7 @@
 			"English": "Have you ever been there?",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هل كنت هناك من قبل؟",
 			"Egyptian Arabic Audio": "eca-0524-11.mp3",
 			"Standard Arabic Audio": "msa-0524-11.mp3"
 		},
@@ -121,7 +121,7 @@
 			"English": "Yes, and it's really helpful. Dress nicely!",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "نعم، وانها مفيدة حقا. البس جيدا!",
 			"Egyptian Arabic Audio": "eca-0524-12.mp3",
 			"Standard Arabic Audio": "msa-0524-12.mp3"
 		}

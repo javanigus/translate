@@ -11,7 +11,7 @@
 			"English": "Officer, my wallet and passport are gone.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ضابط، محفظتي وجواز السفر ذهبت.",
 			"Egyptian Arabic Audio": "eca-0890-1.mp3",
 			"Standard Arabic Audio": "msa-0890-1.mp3"
 		},
@@ -21,7 +21,7 @@
 			"English": "We'll file a report so that no one else tries to use your passport.",
 			"Word Count": 14,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "سنقدم تقريرا حتى لا يحاول أي شخص آخر استخدام جواز سفرك.",
 			"Egyptian Arabic Audio": "eca-0890-2.mp3",
 			"Standard Arabic Audio": "msa-0890-2.mp3"
 		},
@@ -31,7 +31,7 @@
 			"English": "What about my credit cards?",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ماذا عن بطاقات الائتمان الخاصة بي؟",
 			"Egyptian Arabic Audio": "eca-0890-3.mp3",
 			"Standard Arabic Audio": "msa-0890-3.mp3"
 		},
@@ -41,7 +41,7 @@
 			"English": "You'll have to call the credit card companies and have them cancel the cards.",
 			"Word Count": 14,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "سيكون لديك لاستدعاء شركات بطاقات الائتمان ويكون لهم إلغاء البطاقات.",
 			"Egyptian Arabic Audio": "eca-0890-4.mp3",
 			"Standard Arabic Audio": "msa-0890-4.mp3"
 		},
@@ -51,7 +51,7 @@
 			"English": "How will I get home without a passport?",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كيف أحصل على المنزل بدون جواز سفر؟",
 			"Egyptian Arabic Audio": "eca-0890-5.mp3",
 			"Standard Arabic Audio": "msa-0890-5.mp3"
 		},
@@ -61,7 +61,7 @@
 			"English": "You can't get home without a passport.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لا يمكنك الحصول على المنزل دون جواز سفر.",
 			"Egyptian Arabic Audio": "eca-0890-6.mp3",
 			"Standard Arabic Audio": "msa-0890-6.mp3"
 		},
@@ -71,7 +71,7 @@
 			"English": "So what should I do?",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "اذا ماذا يجب أن أفعل؟",
 			"Egyptian Arabic Audio": "eca-0890-7.mp3",
 			"Standard Arabic Audio": "msa-0890-7.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "Call the nearest U.S. Embassy and tell them what happened.",
 			"Word Count": 10,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "اتصل بأقرب سفارة أمريكية وأخبرهم بما حدث.",
 			"Egyptian Arabic Audio": "eca-0890-8.mp3",
 			"Standard Arabic Audio": "msa-0890-8.mp3"
 		},
@@ -91,7 +91,7 @@
 			"English": "Will I need to apply for a new passport?",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هل سأحتاج لتقديم طلب للحصول على جواز سفر جديد؟",
 			"Egyptian Arabic Audio": "eca-0890-9.mp3",
 			"Standard Arabic Audio": "msa-0890-9.mp3"
 		},
@@ -101,7 +101,7 @@
 			"English": "Most likely you will.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "على الأرجح سوف.",
 			"Egyptian Arabic Audio": "eca-0890-10.mp3",
 			"Standard Arabic Audio": "msa-0890-10.mp3"
 		},
@@ -111,7 +111,7 @@
 			"English": "Is that going to take a long time?",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هل سيستغرق ذلك وقتا طويلا؟",
 			"Egyptian Arabic Audio": "eca-0890-11.mp3",
 			"Standard Arabic Audio": "msa-0890-11.mp3"
 		},
@@ -121,7 +121,7 @@
 			"English": "Just take a copy of this police report and see if that will make the process faster.",
 			"Word Count": 17,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "مجرد أخذ نسخة من هذا التقرير الشرطة ومعرفة ما إذا كان ذلك سيجعل العملية بشكل أسرع.",
 			"Egyptian Arabic Audio": "eca-0890-12.mp3",
 			"Standard Arabic Audio": "msa-0890-12.mp3"
 		}

@@ -9,7 +9,7 @@
 			"English": "Roland was a carpenter in Virginia.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كان رولاند نجارا في ولاية فرجينيا.",
 			"Egyptian Arabic Audio": "eca-2115-1.mp3",
 			"Standard Arabic Audio": "msa-2115-1.mp3"
 		},
@@ -18,7 +18,7 @@
 			"English": "He and Sheila had three kids�two boys and baby Jessica.",
 			"Word Count": 10,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وكان هو وشيلا ثلاثة كيدستو الأولاد وطفل جيسيكا.",
 			"Egyptian Arabic Audio": "eca-2115-2.mp3",
 			"Standard Arabic Audio": "msa-2115-2.mp3"
 		},
@@ -27,7 +27,7 @@
 			"English": "The baby had been in and out of the hospital for the last year because of infections and other problems.",
 			"Word Count": 20,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وكان الطفل قد دخل المستشفى وخرج منه خلال العام الماضي بسبب العدوى وغيرها من المشاكل.",
 			"Egyptian Arabic Audio": "eca-2115-3.mp3",
 			"Standard Arabic Audio": "msa-2115-3.mp3"
 		},
@@ -36,7 +36,7 @@
 			"English": "She was very weak and sick.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كانت ضعيفة جدا ومريضة.",
 			"Egyptian Arabic Audio": "eca-2115-4.mp3",
 			"Standard Arabic Audio": "msa-2115-4.mp3"
 		},
@@ -45,7 +45,7 @@
 			"English": "The doctors were not confident that she would live another year.",
 			"Word Count": 11,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لم يكن الأطباء واثقين من أنها ستعيش سنة أخرى.",
 			"Egyptian Arabic Audio": "eca-2115-5.mp3",
 			"Standard Arabic Audio": "msa-2115-5.mp3"
 		}

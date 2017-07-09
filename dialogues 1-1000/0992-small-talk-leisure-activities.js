@@ -11,7 +11,7 @@
 			"English": "Tell me, what do you enjoy doing in your spare time?",
 			"Word Count": 11,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "قل لي، ماذا تستمتع به في وقت فراغك؟",
 			"Egyptian Arabic Audio": "eca-0992-1.mp3",
 			"Standard Arabic Audio": "msa-0992-1.mp3"
 		},
@@ -21,7 +21,7 @@
 			"English": "I enjoy drawing and painting.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنا أستمتع الرسم والرسم.",
 			"Egyptian Arabic Audio": "eca-0992-2.mp3",
 			"Standard Arabic Audio": "msa-0992-2.mp3"
 		},
@@ -31,7 +31,7 @@
 			"English": "You know how to draw and paint?",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنت تعرف كيفية رسم والطلاء؟",
 			"Egyptian Arabic Audio": "eca-0992-3.mp3",
 			"Standard Arabic Audio": "msa-0992-3.mp3"
 		},
@@ -41,7 +41,7 @@
 			"English": "Yes, I do.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أجل أقبل.",
 			"Egyptian Arabic Audio": "eca-0992-4.mp3",
 			"Standard Arabic Audio": "msa-0992-4.mp3"
 		},
@@ -51,7 +51,7 @@
 			"English": "When did you learn how to do that?",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "متى تعلمت كيفية القيام بذلك؟",
 			"Egyptian Arabic Audio": "eca-0992-5.mp3",
 			"Standard Arabic Audio": "msa-0992-5.mp3"
 		},
@@ -61,7 +61,7 @@
 			"English": "I learned back in high school.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "تعلمت مرة أخرى في المدرسة الثانوية.",
 			"Egyptian Arabic Audio": "eca-0992-6.mp3",
 			"Standard Arabic Audio": "msa-0992-6.mp3"
 		},
@@ -71,7 +71,7 @@
 			"English": "Oh, so you took an art class?",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أوه، لذلك كنت أخذت فئة الفن؟",
 			"Egyptian Arabic Audio": "eca-0992-7.mp3",
 			"Standard Arabic Audio": "msa-0992-7.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "Yeah, I loved that class.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "نعم، أنا أحب تلك الطبقة.",
 			"Egyptian Arabic Audio": "eca-0992-8.mp3",
 			"Standard Arabic Audio": "msa-0992-8.mp3"
 		},
@@ -91,7 +91,7 @@
 			"English": "I see that you're pretty talented.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أرى أنك موهوب جدا.",
 			"Egyptian Arabic Audio": "eca-0992-9.mp3",
 			"Standard Arabic Audio": "msa-0992-9.mp3"
 		},
@@ -101,7 +101,7 @@
 			"English": "Thank you very much.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "شكرا جزيلا.",
 			"Egyptian Arabic Audio": "eca-0992-10.mp3",
 			"Standard Arabic Audio": "msa-0992-10.mp3"
 		},
@@ -111,7 +111,7 @@
 			"English": "I wish I had a talent like that.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أتمنى لو كان لدي موهبة من هذا القبيل.",
 			"Egyptian Arabic Audio": "eca-0992-11.mp3",
 			"Standard Arabic Audio": "msa-0992-11.mp3"
 		},
@@ -121,7 +121,7 @@
 			"English": "I'm sure you have a talent. It's just hidden.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنا متأكد من أن لديك موهبة. انها مخبأة فقط.",
 			"Egyptian Arabic Audio": "eca-0992-12.mp3",
 			"Standard Arabic Audio": "msa-0992-12.mp3"
 		},
@@ -131,7 +131,7 @@
 			"English": "What kinds of things do you like to do?",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ما هي أنواع الأشياء التي ترغب في القيام بها؟",
 			"Egyptian Arabic Audio": "eca-0992-13.mp3",
 			"Standard Arabic Audio": "msa-0992-13.mp3"
 		},
@@ -141,7 +141,7 @@
 			"English": "I've always liked to draw and paint.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لقد أحببت دائما لرسم والطلاء.",
 			"Egyptian Arabic Audio": "eca-0992-14.mp3",
 			"Standard Arabic Audio": "msa-0992-14.mp3"
 		},
@@ -151,7 +151,7 @@
 			"English": "I didn't know you knew how to draw and paint.",
 			"Word Count": 10,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لم أكن أعلم أنك تعرف كيفية رسم والطلاء.",
 			"Egyptian Arabic Audio": "eca-0992-15.mp3",
 			"Standard Arabic Audio": "msa-0992-15.mp3"
 		},
@@ -161,7 +161,7 @@
 			"English": "I do it every once in a while.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أفعل ذلك كل مرة في حين.",
 			"Egyptian Arabic Audio": "eca-0992-16.mp3",
 			"Standard Arabic Audio": "msa-0992-16.mp3"
 		},
@@ -171,7 +171,7 @@
 			"English": "How long have you known how to do that?",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "منذ متى وأنت تعرف كيفية القيام بذلك؟",
 			"Egyptian Arabic Audio": "eca-0992-17.mp3",
 			"Standard Arabic Audio": "msa-0992-17.mp3"
 		},
@@ -181,7 +181,7 @@
 			"English": "I first learned how to do it in high school.",
 			"Word Count": 10,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "تعلمت أولا كيفية القيام بذلك في المدرسة الثانوية.",
 			"Egyptian Arabic Audio": "eca-0992-18.mp3",
 			"Standard Arabic Audio": "msa-0992-18.mp3"
 		},
@@ -191,7 +191,7 @@
 			"English": "Did you take some sort of art class or something?",
 			"Word Count": 10,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هل اتخذت نوعا من فئة الفن أو شيء من هذا؟",
 			"Egyptian Arabic Audio": "eca-0992-19.mp3",
 			"Standard Arabic Audio": "msa-0992-19.mp3"
 		},
@@ -201,7 +201,7 @@
 			"English": "That was my favorite class.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كانت تلك هي صفتي المفضلة.",
 			"Egyptian Arabic Audio": "eca-0992-20.mp3",
 			"Standard Arabic Audio": "msa-0992-20.mp3"
 		},
@@ -211,7 +211,7 @@
 			"English": "You have got to be talented.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يجب أن تكون موهوبا.",
 			"Egyptian Arabic Audio": "eca-0992-21.mp3",
 			"Standard Arabic Audio": "msa-0992-21.mp3"
 		},
@@ -221,7 +221,7 @@
 			"English": "Thanks.",
 			"Word Count": 1,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "شكر.",
 			"Egyptian Arabic Audio": "eca-0992-22.mp3",
 			"Standard Arabic Audio": "msa-0992-22.mp3"
 		},
@@ -231,7 +231,7 @@
 			"English": "If only I was talented.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "إذا كنت فقط موهوب.",
 			"Egyptian Arabic Audio": "eca-0992-23.mp3",
 			"Standard Arabic Audio": "msa-0992-23.mp3"
 		},
@@ -241,7 +241,7 @@
 			"English": "You have a talent. You just don't know what it is yet.",
 			"Word Count": 12,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لديك موهبة. أنت فقط لا تعرف ما هو عليه حتى الآن.",
 			"Egyptian Arabic Audio": "eca-0992-24.mp3",
 			"Standard Arabic Audio": "msa-0992-24.mp3"
 		},
@@ -251,7 +251,7 @@
 			"English": "Are there any hobbies you do?",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هل هناك أي الهوايات التي تفعلها؟",
 			"Egyptian Arabic Audio": "eca-0992-25.mp3",
 			"Standard Arabic Audio": "msa-0992-25.mp3"
 		},
@@ -261,7 +261,7 @@
 			"English": "When I have time, I sometimes draw and paint.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "عندما يكون لدي الوقت، وأنا أحيانا رسم والطلاء.",
 			"Egyptian Arabic Audio": "eca-0992-26.mp3",
 			"Standard Arabic Audio": "msa-0992-26.mp3"
 		},
@@ -271,7 +271,7 @@
 			"English": "Oh, you actually do that?",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أوه، أنت فعلا تفعل ذلك؟",
 			"Egyptian Arabic Audio": "eca-0992-27.mp3",
 			"Standard Arabic Audio": "msa-0992-27.mp3"
 		},
@@ -281,7 +281,7 @@
 			"English": "Every so often, I do.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كل ذلك كثيرا، أفعل.",
 			"Egyptian Arabic Audio": "eca-0992-28.mp3",
 			"Standard Arabic Audio": "msa-0992-28.mp3"
 		},
@@ -291,7 +291,7 @@
 			"English": "Did you always know how to draw and paint?",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هل تعرف دائما كيفية رسم والطلاء؟",
 			"Egyptian Arabic Audio": "eca-0992-29.mp3",
 			"Standard Arabic Audio": "msa-0992-29.mp3"
 		},
@@ -301,7 +301,7 @@
 			"English": "I was taught in high school how to draw and paint.",
 			"Word Count": 11,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كنت تدرس في المدرسة الثانوية كيفية رسم والطلاء.",
 			"Egyptian Arabic Audio": "eca-0992-30.mp3",
 			"Standard Arabic Audio": "msa-0992-30.mp3"
 		},
@@ -311,7 +311,7 @@
 			"English": "You had an art class?",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كان لديك فئة الفن؟",
 			"Egyptian Arabic Audio": "eca-0992-31.mp3",
 			"Standard Arabic Audio": "msa-0992-31.mp3"
 		},
@@ -321,7 +321,7 @@
 			"English": "Exactly, it was my favorite class.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "بالضبط، كانت صفتي المفضلة.",
 			"Egyptian Arabic Audio": "eca-0992-32.mp3",
 			"Standard Arabic Audio": "msa-0992-32.mp3"
 		},
@@ -331,7 +331,7 @@
 			"English": "Well, it's good that you're so talented.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "حسنا، من الجيد أنك موهوب جدا.",
 			"Egyptian Arabic Audio": "eca-0992-33.mp3",
 			"Standard Arabic Audio": "msa-0992-33.mp3"
 		},
@@ -341,7 +341,7 @@
 			"English": "I appreciate that.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وأنا أقدر ذلك.",
 			"Egyptian Arabic Audio": "eca-0992-34.mp3",
 			"Standard Arabic Audio": "msa-0992-34.mp3"
 		},
@@ -351,7 +351,7 @@
 			"English": "Talent is a great thing, I wish I had one.",
 			"Word Count": 10,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "الموهبة شيء عظيم، وأتمنى لو كان واحدا.",
 			"Egyptian Arabic Audio": "eca-0992-35.mp3",
 			"Standard Arabic Audio": "msa-0992-35.mp3"
 		},
@@ -361,7 +361,7 @@
 			"English": "Everyone has a talent. They just need to find it.",
 			"Word Count": 10,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كل شخص لديه موهبة. انهم بحاجة فقط للعثور عليه.",
 			"Egyptian Arabic Audio": "eca-0992-36.mp3",
 			"Standard Arabic Audio": "msa-0992-36.mp3"
 		}

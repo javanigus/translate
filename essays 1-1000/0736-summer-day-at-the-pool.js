@@ -9,7 +9,7 @@
 			"English": "It was a hot Summer day.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كان يوم صيفي حار.",
 			"Egyptian Arabic Audio": "eca-0736-1.mp3",
 			"Standard Arabic Audio": "msa-0736-1.mp3"
 		},
@@ -18,7 +18,7 @@
 			"English": "She was in her room.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كانت في غرفتها.",
 			"Egyptian Arabic Audio": "eca-0736-2.mp3",
 			"Standard Arabic Audio": "msa-0736-2.mp3"
 		},
@@ -27,7 +27,7 @@
 			"English": "The fan was on, but it blew hot air.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كانت المروحة تعمل، لكنها فجرت الهواء الساخن.",
 			"Egyptian Arabic Audio": "eca-0736-3.mp3",
 			"Standard Arabic Audio": "msa-0736-3.mp3"
 		},
@@ -36,7 +36,7 @@
 			"English": "She did not want to be home.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وقالت إنها لا تريد أن تكون المنزل.",
 			"Egyptian Arabic Audio": "eca-0736-4.mp3",
 			"Standard Arabic Audio": "msa-0736-4.mp3"
 		},
@@ -45,7 +45,7 @@
 			"English": "It was too hot.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كان الجو حارا جدا.",
 			"Egyptian Arabic Audio": "eca-0736-5.mp3",
 			"Standard Arabic Audio": "msa-0736-5.mp3"
 		},
@@ -54,7 +54,7 @@
 			"English": "She thought of what to do.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "فكرت في ما يجب القيام به.",
 			"Egyptian Arabic Audio": "eca-0736-6.mp3",
 			"Standard Arabic Audio": "msa-0736-6.mp3"
 		},
@@ -63,7 +63,7 @@
 			"English": "Her cell phone vibrated.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هاتفها الخلوي يهتز.",
 			"Egyptian Arabic Audio": "eca-0736-7.mp3",
 			"Standard Arabic Audio": "msa-0736-7.mp3"
 		},
@@ -72,7 +72,7 @@
 			"English": "She picked it up.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انها التقطت عنه.",
 			"Egyptian Arabic Audio": "eca-0736-8.mp3",
 			"Standard Arabic Audio": "msa-0736-8.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "She received a text message.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "تلقت رسالة نصية.",
 			"Egyptian Arabic Audio": "eca-0736-9.mp3",
 			"Standard Arabic Audio": "msa-0736-9.mp3"
 		},
@@ -90,7 +90,7 @@
 			"English": "It was from her friend.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كان من صديقتها.",
 			"Egyptian Arabic Audio": "eca-0736-10.mp3",
 			"Standard Arabic Audio": "msa-0736-10.mp3"
 		},
@@ -99,7 +99,7 @@
 			"English": "The text read: \"Let's go to the pool\" She replied with yes.",
 			"Word Count": 12,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "نصها: &quot;دعنا نذهب إلى حمام السباحة&quot; أجابت بنعم.",
 			"Egyptian Arabic Audio": "eca-0736-11.mp3",
 			"Standard Arabic Audio": "msa-0736-11.mp3"
 		},
@@ -108,7 +108,7 @@
 			"English": "She got ready immediately.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "حصلت على استعداد فورا.",
 			"Egyptian Arabic Audio": "eca-0736-12.mp3",
 			"Standard Arabic Audio": "msa-0736-12.mp3"
 		},
@@ -117,7 +117,7 @@
 			"English": "She grabbed her towel, sunscreen, sunglasses, and shampoo.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أمسكت منشفة لها، واقي الشمس، والنظارات الشمسية، والشامبو.",
 			"Egyptian Arabic Audio": "eca-0736-13.mp3",
 			"Standard Arabic Audio": "msa-0736-13.mp3"
 		},
@@ -126,7 +126,7 @@
 			"English": "She also packed her bathing suit.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كما أنها معبأة بدلة السباحة لها.",
 			"Egyptian Arabic Audio": "eca-0736-14.mp3",
 			"Standard Arabic Audio": "msa-0736-14.mp3"
 		},
@@ -135,7 +135,7 @@
 			"English": "She went to the pool.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ذهبت إلى حمام السباحة.",
 			"Egyptian Arabic Audio": "eca-0736-15.mp3",
 			"Standard Arabic Audio": "msa-0736-15.mp3"
 		},
@@ -144,7 +144,7 @@
 			"English": "Her friends were in the pool.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كان صديقاتها في حمام السباحة.",
 			"Egyptian Arabic Audio": "eca-0736-16.mp3",
 			"Standard Arabic Audio": "msa-0736-16.mp3"
 		},
@@ -153,7 +153,7 @@
 			"English": "She went to the lockers.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ذهبت إلى الخزائن.",
 			"Egyptian Arabic Audio": "eca-0736-17.mp3",
 			"Standard Arabic Audio": "msa-0736-17.mp3"
 		},
@@ -162,7 +162,7 @@
 			"English": "She changed into her bathing suit.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "تغيرت إلى بدلة السباحة لها.",
 			"Egyptian Arabic Audio": "eca-0736-18.mp3",
 			"Standard Arabic Audio": "msa-0736-18.mp3"
 		},
@@ -171,7 +171,7 @@
 			"English": "She applied her sunscreen.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "طبقت لها واقية من الشمس.",
 			"Egyptian Arabic Audio": "eca-0736-19.mp3",
 			"Standard Arabic Audio": "msa-0736-19.mp3"
 		},
@@ -180,7 +180,7 @@
 			"English": "She jumped in the pool.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "قفزت في حوض السباحة.",
 			"Egyptian Arabic Audio": "eca-0736-20.mp3",
 			"Standard Arabic Audio": "msa-0736-20.mp3"
 		},
@@ -189,7 +189,7 @@
 			"English": "The water was cool and refreshing.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كان الماء بارد ومنعش.",
 			"Egyptian Arabic Audio": "eca-0736-21.mp3",
 			"Standard Arabic Audio": "msa-0736-21.mp3"
 		},
@@ -198,7 +198,7 @@
 			"English": "She splashed around with her friends.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انها رشت حولها مع صديقاتها.",
 			"Egyptian Arabic Audio": "eca-0736-22.mp3",
 			"Standard Arabic Audio": "msa-0736-22.mp3"
 		},
@@ -207,7 +207,7 @@
 			"English": "She no longer felt hot.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لم تعد تشعر بالحرارة.",
 			"Egyptian Arabic Audio": "eca-0736-23.mp3",
 			"Standard Arabic Audio": "msa-0736-23.mp3"
 		},
@@ -216,7 +216,7 @@
 			"English": "She stayed in the pool all day.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "بقيت في حمام السباحة طوال اليوم.",
 			"Egyptian Arabic Audio": "eca-0736-24.mp3",
 			"Standard Arabic Audio": "msa-0736-24.mp3"
 		}

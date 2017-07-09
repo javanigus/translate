@@ -11,7 +11,7 @@
 			"English": "What can I help you with?",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "بماذا يمكنني مساعدتك؟",
 			"Egyptian Arabic Audio": "eca-1463-1.mp3",
 			"Standard Arabic Audio": "msa-1463-1.mp3"
 		},
@@ -21,7 +21,7 @@
 			"English": "I need to hire you.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أحتاج إلى استئجار لك.",
 			"Egyptian Arabic Audio": "eca-1463-2.mp3",
 			"Standard Arabic Audio": "msa-1463-2.mp3"
 		},
@@ -31,7 +31,7 @@
 			"English": "What do you need me for?",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ماذا تحتاج لي؟",
 			"Egyptian Arabic Audio": "eca-1463-3.mp3",
 			"Standard Arabic Audio": "msa-1463-3.mp3"
 		},
@@ -41,7 +41,7 @@
 			"English": "I need you for my court date.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أحتاجك لتاريخ المحكمة.",
 			"Egyptian Arabic Audio": "eca-1463-4.mp3",
 			"Standard Arabic Audio": "msa-1463-4.mp3"
 		},
@@ -51,7 +51,7 @@
 			"English": "What kind of case do you have?",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أي نوع من الحالات لديك؟",
 			"Egyptian Arabic Audio": "eca-1463-5.mp3",
 			"Standard Arabic Audio": "msa-1463-5.mp3"
 		},
@@ -61,7 +61,7 @@
 			"English": "I'm being charged with a felony.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنا اتهم بجناية.",
 			"Egyptian Arabic Audio": "eca-1463-6.mp3",
 			"Standard Arabic Audio": "msa-1463-6.mp3"
 		},
@@ -71,7 +71,7 @@
 			"English": "I can help you with that.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يمكنني مساعدتك في ذلك.",
 			"Egyptian Arabic Audio": "eca-1463-7.mp3",
 			"Standard Arabic Audio": "msa-1463-7.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "What is your price?",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كم هو سعرك؟",
 			"Egyptian Arabic Audio": "eca-1463-8.mp3",
 			"Standard Arabic Audio": "msa-1463-8.mp3"
 		},
@@ -91,7 +91,7 @@
 			"English": "I charge $150 an hour.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنا تهمة 150 دولارا في الساعة.",
 			"Egyptian Arabic Audio": "eca-1463-9.mp3",
 			"Standard Arabic Audio": "msa-1463-9.mp3"
 		},
@@ -101,7 +101,7 @@
 			"English": "I can't afford that.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لا أستطيع تحمل ذلك.",
 			"Egyptian Arabic Audio": "eca-1463-10.mp3",
 			"Standard Arabic Audio": "msa-1463-10.mp3"
 		},
@@ -111,7 +111,7 @@
 			"English": "That's my rate.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هذا هو معدل بلدي.",
 			"Egyptian Arabic Audio": "eca-1463-11.mp3",
 			"Standard Arabic Audio": "msa-1463-11.mp3"
 		},
@@ -121,7 +121,7 @@
 			"English": "That's expensive, but I need you.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هذا مكلف، ولكن أنا بحاجة لك.",
 			"Egyptian Arabic Audio": "eca-1463-12.mp3",
 			"Standard Arabic Audio": "msa-1463-12.mp3"
 		},
@@ -131,7 +131,7 @@
 			"English": "How may I help you?",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كيف يمكنني مساعدتك؟",
 			"Egyptian Arabic Audio": "eca-1463-13.mp3",
 			"Standard Arabic Audio": "msa-1463-13.mp3"
 		},
@@ -141,7 +141,7 @@
 			"English": "I would like you to be my lawyer.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أود منك أن تكون محامي.",
 			"Egyptian Arabic Audio": "eca-1463-14.mp3",
 			"Standard Arabic Audio": "msa-1463-14.mp3"
 		},
@@ -151,7 +151,7 @@
 			"English": "What can I do for you?",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ما الذي يمكنني أن أفعله من أجلك؟",
 			"Egyptian Arabic Audio": "eca-1463-15.mp3",
 			"Standard Arabic Audio": "msa-1463-15.mp3"
 		},
@@ -161,7 +161,7 @@
 			"English": "I'm going on trial.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنا ذاهب للمحاكمة.",
 			"Egyptian Arabic Audio": "eca-1463-16.mp3",
 			"Standard Arabic Audio": "msa-1463-16.mp3"
 		},
@@ -171,7 +171,7 @@
 			"English": "What is your trial about?",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ما هي تجربتك حول؟",
 			"Egyptian Arabic Audio": "eca-1463-17.mp3",
 			"Standard Arabic Audio": "msa-1463-17.mp3"
 		},
@@ -181,7 +181,7 @@
 			"English": "It's a felony charge.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انها تهمة جناية.",
 			"Egyptian Arabic Audio": "eca-1463-18.mp3",
 			"Standard Arabic Audio": "msa-1463-18.mp3"
 		},
@@ -191,7 +191,7 @@
 			"English": "I'd be glad to help.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "سأكون سعيدا للمساعدة.",
 			"Egyptian Arabic Audio": "eca-1463-19.mp3",
 			"Standard Arabic Audio": "msa-1463-19.mp3"
 		},
@@ -201,7 +201,7 @@
 			"English": "How much do you charge?",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كم كنت تهمة؟",
 			"Egyptian Arabic Audio": "eca-1463-20.mp3",
 			"Standard Arabic Audio": "msa-1463-20.mp3"
 		},
@@ -211,7 +211,7 @@
 			"English": "My rate is $150 an hour.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "معدلي هو 150 دولارا في الساعة.",
 			"Egyptian Arabic Audio": "eca-1463-21.mp3",
 			"Standard Arabic Audio": "msa-1463-21.mp3"
 		},
@@ -221,7 +221,7 @@
 			"English": "That's highway robbery.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هذا هو السرقة الطريق السريع.",
 			"Egyptian Arabic Audio": "eca-1463-22.mp3",
 			"Standard Arabic Audio": "msa-1463-22.mp3"
 		},
@@ -231,7 +231,7 @@
 			"English": "I don't know what to tell you.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنا لا أعرف ماذا أقول لك.",
 			"Egyptian Arabic Audio": "eca-1463-23.mp3",
 			"Standard Arabic Audio": "msa-1463-23.mp3"
 		},
@@ -241,7 +241,7 @@
 			"English": "Okay. You're hired.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "حسنا. انت مستاجر.",
 			"Egyptian Arabic Audio": "eca-1463-24.mp3",
 			"Standard Arabic Audio": "msa-1463-24.mp3"
 		},
@@ -251,7 +251,7 @@
 			"English": "What can I do for you?",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ما الذي يمكنني أن أفعله من أجلك؟",
 			"Egyptian Arabic Audio": "eca-1463-25.mp3",
 			"Standard Arabic Audio": "msa-1463-25.mp3"
 		},
@@ -261,7 +261,7 @@
 			"English": "I'm in need of your services.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنا في حاجة إلى الخدمات الخاصة بك.",
 			"Egyptian Arabic Audio": "eca-1463-26.mp3",
 			"Standard Arabic Audio": "msa-1463-26.mp3"
 		},
@@ -271,7 +271,7 @@
 			"English": "What do you need me for?",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ماذا تحتاج لي؟",
 			"Egyptian Arabic Audio": "eca-1463-27.mp3",
 			"Standard Arabic Audio": "msa-1463-27.mp3"
 		},
@@ -281,7 +281,7 @@
 			"English": "I have a court date coming up.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لدي تاريخ المحكمة القادمة.",
 			"Egyptian Arabic Audio": "eca-1463-28.mp3",
 			"Standard Arabic Audio": "msa-1463-28.mp3"
 		},
@@ -291,7 +291,7 @@
 			"English": "What are you being charged with?",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ما الذي يتم اتهامك به؟",
 			"Egyptian Arabic Audio": "eca-1463-29.mp3",
 			"Standard Arabic Audio": "msa-1463-29.mp3"
 		},
@@ -301,7 +301,7 @@
 			"English": "It's the felony charge.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انها تهمة الجناية.",
 			"Egyptian Arabic Audio": "eca-1463-30.mp3",
 			"Standard Arabic Audio": "msa-1463-30.mp3"
 		},
@@ -311,7 +311,7 @@
 			"English": "I'm willing to provide my services.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنا على استعداد لتقديم خدماتي.",
 			"Egyptian Arabic Audio": "eca-1463-31.mp3",
 			"Standard Arabic Audio": "msa-1463-31.mp3"
 		},
@@ -321,7 +321,7 @@
 			"English": "What's your rate?",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ما هو معدل الخاص بك؟",
 			"Egyptian Arabic Audio": "eca-1463-32.mp3",
 			"Standard Arabic Audio": "msa-1463-32.mp3"
 		},
@@ -331,7 +331,7 @@
 			"English": "I work for $150 an hour.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أعمل مقابل 150 دولارا في الساعة.",
 			"Egyptian Arabic Audio": "eca-1463-33.mp3",
 			"Standard Arabic Audio": "msa-1463-33.mp3"
 		},
@@ -341,7 +341,7 @@
 			"English": "That's too high.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هذا مرتفع جدا.",
 			"Egyptian Arabic Audio": "eca-1463-34.mp3",
 			"Standard Arabic Audio": "msa-1463-34.mp3"
 		},
@@ -351,7 +351,7 @@
 			"English": "That's what I charge.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هذا ما أتهمه.",
 			"Egyptian Arabic Audio": "eca-1463-35.mp3",
 			"Standard Arabic Audio": "msa-1463-35.mp3"
 		},
@@ -361,7 +361,7 @@
 			"English": "I'll hire you anyway.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنا سوف استئجار لك على أي حال.",
 			"Egyptian Arabic Audio": "eca-1463-36.mp3",
 			"Standard Arabic Audio": "msa-1463-36.mp3"
 		}

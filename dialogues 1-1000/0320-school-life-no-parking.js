@@ -11,7 +11,7 @@
 			"English": "Parking at school is impossible.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وقوف السيارات في المدرسة أمر مستحيل.",
 			"Egyptian Arabic Audio": "eca-0320-1.mp3",
 			"Standard Arabic Audio": "msa-0320-1.mp3"
 		},
@@ -21,7 +21,7 @@
 			"English": "I'll say.",
 			"Word Count": 2,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنا سوف أقول.",
 			"Egyptian Arabic Audio": "eca-0320-2.mp3",
 			"Standard Arabic Audio": "msa-0320-2.mp3"
 		},
@@ -31,7 +31,7 @@
 			"English": "I drove around for half an hour.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "قادت حوالي نصف ساعة.",
 			"Egyptian Arabic Audio": "eca-0320-3.mp3",
 			"Standard Arabic Audio": "msa-0320-3.mp3"
 		},
@@ -41,7 +41,7 @@
 			"English": "Did you find a spot?",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هل وجدت بقعة؟",
 			"Egyptian Arabic Audio": "eca-0320-4.mp3",
 			"Standard Arabic Audio": "msa-0320-4.mp3"
 		},
@@ -51,7 +51,7 @@
 			"English": "I found a spot, but someone cut in and took it from me.",
 			"Word Count": 13,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وجدت بقعة، ولكن شخص قطع في وأخذت مني.",
 			"Egyptian Arabic Audio": "eca-0320-5.mp3",
 			"Standard Arabic Audio": "msa-0320-5.mp3"
 		},
@@ -61,7 +61,7 @@
 			"English": "Did you yell at them?",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هل صرخت عليهم؟",
 			"Egyptian Arabic Audio": "eca-0320-6.mp3",
 			"Standard Arabic Audio": "msa-0320-6.mp3"
 		},
@@ -71,7 +71,7 @@
 			"English": "Yes, I did.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "نعم، فعلت.",
 			"Egyptian Arabic Audio": "eca-0320-7.mp3",
 			"Standard Arabic Audio": "msa-0320-7.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "And?",
 			"Word Count": 1,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "و؟",
 			"Egyptian Arabic Audio": "eca-0320-8.mp3",
 			"Standard Arabic Audio": "msa-0320-8.mp3"
 		},
@@ -91,7 +91,7 @@
 			"English": "And he yelled back at me.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وصاح لي في وجهي.",
 			"Egyptian Arabic Audio": "eca-0320-9.mp3",
 			"Standard Arabic Audio": "msa-0320-9.mp3"
 		},
@@ -101,7 +101,7 @@
 			"English": "How rude.",
 			"Word Count": 2,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كم هو وقح.",
 			"Egyptian Arabic Audio": "eca-0320-10.mp3",
 			"Standard Arabic Audio": "msa-0320-10.mp3"
 		},
@@ -111,7 +111,7 @@
 			"English": "But I got lucky a few minutes later.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ولكن حصلت على الحظ بعد بضع دقائق.",
 			"Egyptian Arabic Audio": "eca-0320-11.mp3",
 			"Standard Arabic Audio": "msa-0320-11.mp3"
 		},
@@ -121,7 +121,7 @@
 			"English": "You have to be lucky to find a parking space.",
 			"Word Count": 10,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "عليك أن تكون محظوظا للعثور على مكان لوقوف السيارات.",
 			"Egyptian Arabic Audio": "eca-0320-12.mp3",
 			"Standard Arabic Audio": "msa-0320-12.mp3"
 		}

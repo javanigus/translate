@@ -9,7 +9,7 @@
 			"English": "She put up information about her dog.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وقالت انها طرحت معلومات عن كلبها.",
 			"Egyptian Arabic Audio": "eca-0917-1.mp3",
 			"Standard Arabic Audio": "msa-0917-1.mp3"
 		},
@@ -18,7 +18,7 @@
 			"English": "She also put up a picture of her dog.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كما أنها وضعت صورة لكلبها.",
 			"Egyptian Arabic Audio": "eca-0917-2.mp3",
 			"Standard Arabic Audio": "msa-0917-2.mp3"
 		},
@@ -27,7 +27,7 @@
 			"English": "She gathered her friends and family to help put up signs.",
 			"Word Count": 11,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "جمعت أصدقائها وعائلتها للمساعدة في وضع علامات.",
 			"Egyptian Arabic Audio": "eca-0917-3.mp3",
 			"Standard Arabic Audio": "msa-0917-3.mp3"
 		},
@@ -36,7 +36,7 @@
 			"English": "A couple hours later, she received a phone call.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وبعد بضع ساعات، تلقت مكالمة هاتفية.",
 			"Egyptian Arabic Audio": "eca-0917-4.mp3",
 			"Standard Arabic Audio": "msa-0917-4.mp3"
 		},
@@ -45,7 +45,7 @@
 			"English": "Someone found her dog.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "شخص ما وجدت كلبها.",
 			"Egyptian Arabic Audio": "eca-0917-5.mp3",
 			"Standard Arabic Audio": "msa-0917-5.mp3"
 		},
@@ -54,7 +54,7 @@
 			"English": "She was so happy.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كانت سعيدة جدا.",
 			"Egyptian Arabic Audio": "eca-0917-6.mp3",
 			"Standard Arabic Audio": "msa-0917-6.mp3"
 		},
@@ -63,7 +63,7 @@
 			"English": "She was glad he was safe.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كانت مسرورة لأنه آمن.",
 			"Egyptian Arabic Audio": "eca-0917-7.mp3",
 			"Standard Arabic Audio": "msa-0917-7.mp3"
 		}

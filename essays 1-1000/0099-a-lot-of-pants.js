@@ -9,7 +9,7 @@
 			"English": "She has a lot of pants.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لديها الكثير من السراويل.",
 			"Egyptian Arabic Audio": "eca-0099-1.mp3",
 			"Standard Arabic Audio": "msa-0099-1.mp3"
 		},
@@ -18,7 +18,7 @@
 			"English": "She has two pairs of jeans.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لديها اثنين من أزواج من الجينز.",
 			"Egyptian Arabic Audio": "eca-0099-2.mp3",
 			"Standard Arabic Audio": "msa-0099-2.mp3"
 		},
@@ -27,7 +27,7 @@
 			"English": "One of them is light blue.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "واحد منهم أزرق فاتح.",
 			"Egyptian Arabic Audio": "eca-0099-3.mp3",
 			"Standard Arabic Audio": "msa-0099-3.mp3"
 		},
@@ -36,7 +36,7 @@
 			"English": "The other one is navy blue.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "والآخر هو الأزرق الداكن.",
 			"Egyptian Arabic Audio": "eca-0099-4.mp3",
 			"Standard Arabic Audio": "msa-0099-4.mp3"
 		},
@@ -45,7 +45,7 @@
 			"English": "She has two pairs of formal pants.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لديها اثنين من أزواج من السراويل الرسمية.",
 			"Egyptian Arabic Audio": "eca-0099-5.mp3",
 			"Standard Arabic Audio": "msa-0099-5.mp3"
 		},
@@ -54,7 +54,7 @@
 			"English": "One of them is khaki.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "واحد منهم هو الكاكي.",
 			"Egyptian Arabic Audio": "eca-0099-6.mp3",
 			"Standard Arabic Audio": "msa-0099-6.mp3"
 		},
@@ -63,7 +63,7 @@
 			"English": "The other one is gray.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "والآخر هو الرمادي.",
 			"Egyptian Arabic Audio": "eca-0099-7.mp3",
 			"Standard Arabic Audio": "msa-0099-7.mp3"
 		},
@@ -72,7 +72,7 @@
 			"English": "She has two pairs of casual pants.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لديها اثنين من أزواج من السراويل.",
 			"Egyptian Arabic Audio": "eca-0099-8.mp3",
 			"Standard Arabic Audio": "msa-0099-8.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "One of them has flowers on it.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "واحد منهم لديه الزهور على ذلك.",
 			"Egyptian Arabic Audio": "eca-0099-9.mp3",
 			"Standard Arabic Audio": "msa-0099-9.mp3"
 		},
@@ -90,7 +90,7 @@
 			"English": "The other one has hearts on it.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "والآخر لديه قلوب عليه.",
 			"Egyptian Arabic Audio": "eca-0099-10.mp3",
 			"Standard Arabic Audio": "msa-0099-10.mp3"
 		},
@@ -99,7 +99,7 @@
 			"English": "She wears pants every day.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انها ترتدي السراويل كل يوم.",
 			"Egyptian Arabic Audio": "eca-0099-11.mp3",
 			"Standard Arabic Audio": "msa-0099-11.mp3"
 		}

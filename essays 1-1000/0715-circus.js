@@ -9,7 +9,7 @@
 			"English": "The circus was in town.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كان السيرك في المدينة.",
 			"Egyptian Arabic Audio": "eca-0715-1.mp3",
 			"Standard Arabic Audio": "msa-0715-1.mp3"
 		},
@@ -18,7 +18,7 @@
 			"English": "It was a big attraction.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كان جاذبية كبيرة.",
 			"Egyptian Arabic Audio": "eca-0715-2.mp3",
 			"Standard Arabic Audio": "msa-0715-2.mp3"
 		},
@@ -27,7 +27,7 @@
 			"English": "Everybody in town went.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ذهب الجميع في المدينة.",
 			"Egyptian Arabic Audio": "eca-0715-3.mp3",
 			"Standard Arabic Audio": "msa-0715-3.mp3"
 		},
@@ -36,7 +36,7 @@
 			"English": "The circus was a lot of fun.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كان السيرك الكثير من المرح.",
 			"Egyptian Arabic Audio": "eca-0715-4.mp3",
 			"Standard Arabic Audio": "msa-0715-4.mp3"
 		},
@@ -45,7 +45,7 @@
 			"English": "They had clowns.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كان لديهم المهرجين.",
 			"Egyptian Arabic Audio": "eca-0715-5.mp3",
 			"Standard Arabic Audio": "msa-0715-5.mp3"
 		},
@@ -54,7 +54,7 @@
 			"English": "The clowns juggled pin balls and danced around.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "المهرجين شعوذة كرات دبوس والرقص حولها.",
 			"Egyptian Arabic Audio": "eca-0715-6.mp3",
 			"Standard Arabic Audio": "msa-0715-6.mp3"
 		},
@@ -63,7 +63,7 @@
 			"English": "The kids liked the clowns.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يحب الأطفال المهرجين.",
 			"Egyptian Arabic Audio": "eca-0715-7.mp3",
 			"Standard Arabic Audio": "msa-0715-7.mp3"
 		},
@@ -72,7 +72,7 @@
 			"English": "The circus also had magicians.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وكان السيرك أيضا السحرة.",
 			"Egyptian Arabic Audio": "eca-0715-8.mp3",
 			"Standard Arabic Audio": "msa-0715-8.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "The magicians performed magic tricks.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أجرى السحرة الخدع السحرية.",
 			"Egyptian Arabic Audio": "eca-0715-9.mp3",
 			"Standard Arabic Audio": "msa-0715-9.mp3"
 		},
@@ -90,7 +90,7 @@
 			"English": "The teenagers liked seeing the magician perform.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يحب المراهقون رؤية الساحر أداء.",
 			"Egyptian Arabic Audio": "eca-0715-10.mp3",
 			"Standard Arabic Audio": "msa-0715-10.mp3"
 		},
@@ -99,7 +99,7 @@
 			"English": "The circus had animals.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كان السيرك الحيوانات.",
 			"Egyptian Arabic Audio": "eca-0715-11.mp3",
 			"Standard Arabic Audio": "msa-0715-11.mp3"
 		},
@@ -108,7 +108,7 @@
 			"English": "The animals had handlers.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كانت الحيوانات معالجات.",
 			"Egyptian Arabic Audio": "eca-0715-12.mp3",
 			"Standard Arabic Audio": "msa-0715-12.mp3"
 		},
@@ -117,7 +117,7 @@
 			"English": "The handlers made the animals do tricks.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "جعلت مناولة الحيوانات تفعل الحيل.",
 			"Egyptian Arabic Audio": "eca-0715-13.mp3",
 			"Standard Arabic Audio": "msa-0715-13.mp3"
 		},
@@ -126,7 +126,7 @@
 			"English": "A tiger went through a hula-hoop.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ذهب نمر من خلال هولا-هوب.",
 			"Egyptian Arabic Audio": "eca-0715-14.mp3",
 			"Standard Arabic Audio": "msa-0715-14.mp3"
 		},
@@ -135,7 +135,7 @@
 			"English": "A monkey rode a tricycle.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "قرد ركب دراجة ثلاثية العجلات.",
 			"Egyptian Arabic Audio": "eca-0715-15.mp3",
 			"Standard Arabic Audio": "msa-0715-15.mp3"
 		},
@@ -144,7 +144,7 @@
 			"English": "An elephant stood on two legs.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وقفت فيل على قدمين.",
 			"Egyptian Arabic Audio": "eca-0715-16.mp3",
 			"Standard Arabic Audio": "msa-0715-16.mp3"
 		},
@@ -153,7 +153,7 @@
 			"English": "Everybody liked the animal show.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "الجميع يحب عرض الحيوان.",
 			"Egyptian Arabic Audio": "eca-0715-17.mp3",
 			"Standard Arabic Audio": "msa-0715-17.mp3"
 		},
@@ -162,7 +162,7 @@
 			"English": "There were also rides.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كانت هناك أيضا ركوب الخيل.",
 			"Egyptian Arabic Audio": "eca-0715-18.mp3",
 			"Standard Arabic Audio": "msa-0715-18.mp3"
 		},
@@ -171,7 +171,7 @@
 			"English": "The circus stayed in town for three days.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وبقي السيرك في المدينة لمدة ثلاثة أيام.",
 			"Egyptian Arabic Audio": "eca-0715-19.mp3",
 			"Standard Arabic Audio": "msa-0715-19.mp3"
 		},
@@ -180,7 +180,7 @@
 			"English": "It went from town to town.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ذهبت من بلدة إلى بلدة.",
 			"Egyptian Arabic Audio": "eca-0715-20.mp3",
 			"Standard Arabic Audio": "msa-0715-20.mp3"
 		},
@@ -189,7 +189,7 @@
 			"English": "It was fun to go to a circus.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كان متعة للذهاب إلى السيرك.",
 			"Egyptian Arabic Audio": "eca-0715-21.mp3",
 			"Standard Arabic Audio": "msa-0715-21.mp3"
 		}

@@ -9,7 +9,7 @@
 			"English": "It was a TV commercial.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كان التلفزيون التجاري.",
 			"Egyptian Arabic Audio": "eca-1550-1.mp3",
 			"Standard Arabic Audio": "msa-1550-1.mp3"
 		},
@@ -18,7 +18,7 @@
 			"English": "The TV commercial was about two old married people.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وكان التلفزيون التجاري حوالي اثنين من المتزوجين القدامى.",
 			"Egyptian Arabic Audio": "eca-1550-2.mp3",
 			"Standard Arabic Audio": "msa-1550-2.mp3"
 		},
@@ -27,7 +27,7 @@
 			"English": "They had had health problems.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وكان لديهم مشاكل صحية.",
 			"Egyptian Arabic Audio": "eca-1550-3.mp3",
 			"Standard Arabic Audio": "msa-1550-3.mp3"
 		},
@@ -36,7 +36,7 @@
 			"English": "He had lost his job.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لقد فقد وظيفته.",
 			"Egyptian Arabic Audio": "eca-1550-4.mp3",
 			"Standard Arabic Audio": "msa-1550-4.mp3"
 		},
@@ -45,7 +45,7 @@
 			"English": "They had used their savings to pay for health care.",
 			"Word Count": 10,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وقد استخدموا مدخراتهم لدفع تكاليف الرعاية الصحية.",
 			"Egyptian Arabic Audio": "eca-1550-5.mp3",
 			"Standard Arabic Audio": "msa-1550-5.mp3"
 		},
@@ -54,7 +54,7 @@
 			"English": "They went through their savings.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ذهبوا من خلال مدخراتهم.",
 			"Egyptian Arabic Audio": "eca-1550-6.mp3",
 			"Standard Arabic Audio": "msa-1550-6.mp3"
 		},
@@ -63,7 +63,7 @@
 			"English": "They had no more savings.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ولم يكن لديهم المزيد من المدخرات.",
 			"Egyptian Arabic Audio": "eca-1550-7.mp3",
 			"Standard Arabic Audio": "msa-1550-7.mp3"
 		},
@@ -72,7 +72,7 @@
 			"English": "They were living on social security.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كانوا يعيشون على الضمان الاجتماعي.",
 			"Egyptian Arabic Audio": "eca-1550-8.mp3",
 			"Standard Arabic Audio": "msa-1550-8.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "They lived in a small house.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "عاشوا في منزل صغير.",
 			"Egyptian Arabic Audio": "eca-1550-9.mp3",
 			"Standard Arabic Audio": "msa-1550-9.mp3"
 		},
@@ -90,7 +90,7 @@
 			"English": "\"Look at those poor people,\" Barry said.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وقال باري &quot;انظروا الى هؤلاء الفقراء&quot;.",
 			"Egyptian Arabic Audio": "eca-1550-10.mp3",
 			"Standard Arabic Audio": "msa-1550-10.mp3"
 		},
@@ -99,7 +99,7 @@
 			"English": "\"They're not poor people.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "واضاف &quot;انهم ليسوا فقراء.",
 			"Egyptian Arabic Audio": "eca-1550-11.mp3",
 			"Standard Arabic Audio": "msa-1550-11.mp3"
 		},
@@ -108,7 +108,7 @@
 			"English": "They're actors,\" Eva said.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انهم الممثلين &quot;، وقال إيفا.",
 			"Egyptian Arabic Audio": "eca-1550-12.mp3",
 			"Standard Arabic Audio": "msa-1550-12.mp3"
 		},
@@ -117,7 +117,7 @@
 			"English": "\"No, they're not,\" Barry said.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وقال باري &quot;لا، انهم ليسوا كذلك&quot;.",
 			"Egyptian Arabic Audio": "eca-1550-13.mp3",
 			"Standard Arabic Audio": "msa-1550-13.mp3"
 		},
@@ -126,7 +126,7 @@
 			"English": "\"He has no right hand.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "&quot;ليس لديه اليد اليمنى.",
 			"Egyptian Arabic Audio": "eca-1550-14.mp3",
 			"Standard Arabic Audio": "msa-1550-14.mp3"
 		},
@@ -135,7 +135,7 @@
 			"English": "His wife has no left foot.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "زوجته ليس لديها قدم اليسرى.",
 			"Egyptian Arabic Audio": "eca-1550-15.mp3",
 			"Standard Arabic Audio": "msa-1550-15.mp3"
 		},
@@ -144,7 +144,7 @@
 			"English": "They're real people.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "إنهم أشخاص حقيقيون.",
 			"Egyptian Arabic Audio": "eca-1550-16.mp3",
 			"Standard Arabic Audio": "msa-1550-16.mp3"
 		},
@@ -153,7 +153,7 @@
 			"English": "They're suffering.",
 			"Word Count": 2,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انهم يعانون.",
 			"Egyptian Arabic Audio": "eca-1550-17.mp3",
 			"Standard Arabic Audio": "msa-1550-17.mp3"
 		},
@@ -162,7 +162,7 @@
 			"English": "What kind of country is this? This is the richest country in the world.",
 			"Word Count": 14,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ما هو نوع البلد؟ هذا هو أغنى بلد في العالم.",
 			"Egyptian Arabic Audio": "eca-1550-18.mp3",
 			"Standard Arabic Audio": "msa-1550-18.mp3"
 		},
@@ -171,7 +171,7 @@
 			"English": "What kind of government allows this?\" Eva said, \"It's not the government's fault.",
 			"Word Count": 13,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أي نوع من الحكومة يسمح بذلك؟ &quot;قالت إيفا:&quot; ليس خطأ الحكومة.",
 			"Egyptian Arabic Audio": "eca-1550-19.mp3",
 			"Standard Arabic Audio": "msa-1550-19.mp3"
 		},
@@ -180,7 +180,7 @@
 			"English": "It's their fault.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انها خطأهم.",
 			"Egyptian Arabic Audio": "eca-1550-20.mp3",
 			"Standard Arabic Audio": "msa-1550-20.mp3"
 		},
@@ -189,7 +189,7 @@
 			"English": "They shouldn't have gotten sick.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لا ينبغي أن يكونوا قد مرضوا.",
 			"Egyptian Arabic Audio": "eca-1550-21.mp3",
 			"Standard Arabic Audio": "msa-1550-21.mp3"
 		},
@@ -198,7 +198,7 @@
 			"English": "They should have saved more.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كان ينبغي أن تكون قد أنقذت أكثر.",
 			"Egyptian Arabic Audio": "eca-1550-22.mp3",
 			"Standard Arabic Audio": "msa-1550-22.mp3"
 		},
@@ -207,7 +207,7 @@
 			"English": "They should have planned better.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كان ينبغي أن يكون مخططا أفضل.",
 			"Egyptian Arabic Audio": "eca-1550-23.mp3",
 			"Standard Arabic Audio": "msa-1550-23.mp3"
 		},
@@ -216,7 +216,7 @@
 			"English": "Don't blame the government.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لا تلوم الحكومة.",
 			"Egyptian Arabic Audio": "eca-1550-24.mp3",
 			"Standard Arabic Audio": "msa-1550-24.mp3"
 		},
@@ -225,7 +225,7 @@
 			"English": "The government isn't your mommy.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "الحكومة ليست أمك.",
 			"Egyptian Arabic Audio": "eca-1550-25.mp3",
 			"Standard Arabic Audio": "msa-1550-25.mp3"
 		},
@@ -234,7 +234,7 @@
 			"English": "\".",
 			"Word Count": 1,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "&quot;.",
 			"Egyptian Arabic Audio": "eca-1550-26.mp3",
 			"Standard Arabic Audio": "msa-1550-26.mp3"
 		}

@@ -11,7 +11,7 @@
 			"English": "Did you need help with something?",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هل كنت بحاجة إلى مساعدة في شيء ما؟",
 			"Egyptian Arabic Audio": "eca-1474-1.mp3",
 			"Standard Arabic Audio": "msa-1474-1.mp3"
 		},
@@ -21,7 +21,7 @@
 			"English": "I don't know where to get my ballot.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنا لا أعرف من أين أحصل على بطاقة الاقتراع.",
 			"Egyptian Arabic Audio": "eca-1474-2.mp3",
 			"Standard Arabic Audio": "msa-1474-2.mp3"
 		},
@@ -31,7 +31,7 @@
 			"English": "I can help you with that.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يمكنني مساعدتك في ذلك.",
 			"Egyptian Arabic Audio": "eca-1474-3.mp3",
 			"Standard Arabic Audio": "msa-1474-3.mp3"
 		},
@@ -41,7 +41,7 @@
 			"English": "How can you help me?",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كيف يمكنك مساعدتي؟",
 			"Egyptian Arabic Audio": "eca-1474-4.mp3",
 			"Standard Arabic Audio": "msa-1474-4.mp3"
 		},
@@ -51,7 +51,7 @@
 			"English": "I work here.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انا اعمل هنا.",
 			"Egyptian Arabic Audio": "eca-1474-5.mp3",
 			"Standard Arabic Audio": "msa-1474-5.mp3"
 		},
@@ -61,7 +61,7 @@
 			"English": "That's great.",
 			"Word Count": 2,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ذلك رائع.",
 			"Egyptian Arabic Audio": "eca-1474-6.mp3",
 			"Standard Arabic Audio": "msa-1474-6.mp3"
 		},
@@ -71,7 +71,7 @@
 			"English": "May I see your ID?",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هل لي أن أرى هويتك؟",
 			"Egyptian Arabic Audio": "eca-1474-7.mp3",
 			"Standard Arabic Audio": "msa-1474-7.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "Here it is.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ها هو.",
 			"Egyptian Arabic Audio": "eca-1474-8.mp3",
 			"Standard Arabic Audio": "msa-1474-8.mp3"
 		},
@@ -91,7 +91,7 @@
 			"English": "All right, here is your ballot card.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "حسنا، هنا بطاقة الاقتراع الخاصة بك.",
 			"Egyptian Arabic Audio": "eca-1474-9.mp3",
 			"Standard Arabic Audio": "msa-1474-9.mp3"
 		},
@@ -101,7 +101,7 @@
 			"English": "What do I do now?",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ماذا أفعل الآن؟",
 			"Egyptian Arabic Audio": "eca-1474-10.mp3",
 			"Standard Arabic Audio": "msa-1474-10.mp3"
 		},
@@ -111,7 +111,7 @@
 			"English": "Go to a voting booth and vote.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انتقل إلى كشك التصويت والتصويت.",
 			"Egyptian Arabic Audio": "eca-1474-11.mp3",
 			"Standard Arabic Audio": "msa-1474-11.mp3"
 		},
@@ -121,7 +121,7 @@
 			"English": "All right. Thanks for your help.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "حسنا. شكرا لمساعدتك.",
 			"Egyptian Arabic Audio": "eca-1474-12.mp3",
 			"Standard Arabic Audio": "msa-1474-12.mp3"
 		},
@@ -131,7 +131,7 @@
 			"English": "May I help you?",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هل لى أن أساعدك؟",
 			"Egyptian Arabic Audio": "eca-1474-13.mp3",
 			"Standard Arabic Audio": "msa-1474-13.mp3"
 		},
@@ -141,7 +141,7 @@
 			"English": "I'm not sure where to pick up my ballot.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لست متأكدا من أين يمكنني الاقتراع.",
 			"Egyptian Arabic Audio": "eca-1474-14.mp3",
 			"Standard Arabic Audio": "msa-1474-14.mp3"
 		},
@@ -151,7 +151,7 @@
 			"English": "I can assist you.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أستطيع مساعدتك.",
 			"Egyptian Arabic Audio": "eca-1474-15.mp3",
 			"Standard Arabic Audio": "msa-1474-15.mp3"
 		},
@@ -161,7 +161,7 @@
 			"English": "How are you going to help me?",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كيف ستساعدني؟",
 			"Egyptian Arabic Audio": "eca-1474-16.mp3",
 			"Standard Arabic Audio": "msa-1474-16.mp3"
 		},
@@ -171,7 +171,7 @@
 			"English": "I actually work here.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنا فعلا العمل هنا.",
 			"Egyptian Arabic Audio": "eca-1474-17.mp3",
 			"Standard Arabic Audio": "msa-1474-17.mp3"
 		},
@@ -181,7 +181,7 @@
 			"English": "Fabulous. Thanks.",
 			"Word Count": 2,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "رائع. شكر.",
 			"Egyptian Arabic Audio": "eca-1474-18.mp3",
 			"Standard Arabic Audio": "msa-1474-18.mp3"
 		},
@@ -191,7 +191,7 @@
 			"English": "Do you have ID?",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هل لديك معرف؟",
 			"Egyptian Arabic Audio": "eca-1474-19.mp3",
 			"Standard Arabic Audio": "msa-1474-19.mp3"
 		},
@@ -201,7 +201,7 @@
 			"English": "I have it right here.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لدي ذلك الحق هنا.",
 			"Egyptian Arabic Audio": "eca-1474-20.mp3",
 			"Standard Arabic Audio": "msa-1474-20.mp3"
 		},
@@ -211,7 +211,7 @@
 			"English": "Here's your ballot card.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "إليك بطاقة الاقتراع.",
 			"Egyptian Arabic Audio": "eca-1474-21.mp3",
 			"Standard Arabic Audio": "msa-1474-21.mp3"
 		},
@@ -221,7 +221,7 @@
 			"English": "Now what am I supposed to do?",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "الآن ما أنا من المفترض أن أفعل؟",
 			"Egyptian Arabic Audio": "eca-1474-22.mp3",
 			"Standard Arabic Audio": "msa-1474-22.mp3"
 		},
@@ -231,7 +231,7 @@
 			"English": "Just take it to a booth and begin voting.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "مجرد أعتبر إلى كشك والبدء في التصويت.",
 			"Egyptian Arabic Audio": "eca-1474-23.mp3",
 			"Standard Arabic Audio": "msa-1474-23.mp3"
 		},
@@ -241,7 +241,7 @@
 			"English": "Sounds good. Thanks.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يبدو جيدا. شكر.",
 			"Egyptian Arabic Audio": "eca-1474-24.mp3",
 			"Standard Arabic Audio": "msa-1474-24.mp3"
 		},
@@ -251,7 +251,7 @@
 			"English": "Did you need help?",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هل كنت بحاجة إلى مساعدة؟",
 			"Egyptian Arabic Audio": "eca-1474-25.mp3",
 			"Standard Arabic Audio": "msa-1474-25.mp3"
 		},
@@ -261,7 +261,7 @@
 			"English": "Where do I go to pick up my ballot?",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أين أذهب إلى اقتراعي؟",
 			"Egyptian Arabic Audio": "eca-1474-26.mp3",
 			"Standard Arabic Audio": "msa-1474-26.mp3"
 		},
@@ -271,7 +271,7 @@
 			"English": "I'll help you with that.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنا سوف تساعدك مع ذلك.",
 			"Egyptian Arabic Audio": "eca-1474-27.mp3",
 			"Standard Arabic Audio": "msa-1474-27.mp3"
 		},
@@ -281,7 +281,7 @@
 			"English": "How's that?",
 			"Word Count": 2,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كيف ذلك؟",
 			"Egyptian Arabic Audio": "eca-1474-28.mp3",
 			"Standard Arabic Audio": "msa-1474-28.mp3"
 		},
@@ -291,7 +291,7 @@
 			"English": "I'm working here today.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنا أعمل هنا اليوم.",
 			"Egyptian Arabic Audio": "eca-1474-29.mp3",
 			"Standard Arabic Audio": "msa-1474-29.mp3"
 		},
@@ -301,7 +301,7 @@
 			"English": "That's wonderful. Thank you.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هذا رائع. شكرا.",
 			"Egyptian Arabic Audio": "eca-1474-30.mp3",
 			"Standard Arabic Audio": "msa-1474-30.mp3"
 		},
@@ -311,7 +311,7 @@
 			"English": "Can I see your ID, please?",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هل بامكاني أن أرى بطاقتك الشخصية من فضلك؟",
 			"Egyptian Arabic Audio": "eca-1474-31.mp3",
 			"Standard Arabic Audio": "msa-1474-31.mp3"
 		},
@@ -321,7 +321,7 @@
 			"English": "Here you go.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ها أنت ذا.",
 			"Egyptian Arabic Audio": "eca-1474-32.mp3",
 			"Standard Arabic Audio": "msa-1474-32.mp3"
 		},
@@ -331,7 +331,7 @@
 			"English": "I have your ballot card right here.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لدي بطاقة الاقتراع هنا.",
 			"Egyptian Arabic Audio": "eca-1474-33.mp3",
 			"Standard Arabic Audio": "msa-1474-33.mp3"
 		},
@@ -341,7 +341,7 @@
 			"English": "What am I supposed to do now?",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ما أنا من المفترض القيام به الآن؟",
 			"Egyptian Arabic Audio": "eca-1474-34.mp3",
 			"Standard Arabic Audio": "msa-1474-34.mp3"
 		},
@@ -351,7 +351,7 @@
 			"English": "All you have to do now is vote.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كل ما عليك فعله الآن هو التصويت.",
 			"Egyptian Arabic Audio": "eca-1474-35.mp3",
 			"Standard Arabic Audio": "msa-1474-35.mp3"
 		},
@@ -361,7 +361,7 @@
 			"English": "Okay. Wish me luck.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "حسنا. تمنى لي الحظ.",
 			"Egyptian Arabic Audio": "eca-1474-36.mp3",
 			"Standard Arabic Audio": "msa-1474-36.mp3"
 		}

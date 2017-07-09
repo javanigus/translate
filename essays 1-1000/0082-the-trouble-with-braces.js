@@ -9,7 +9,7 @@
 			"English": "He has bad teeth.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لديه أسنان سيئة.",
 			"Egyptian Arabic Audio": "eca-0082-1.mp3",
 			"Standard Arabic Audio": "msa-0082-1.mp3"
 		},
@@ -18,7 +18,7 @@
 			"English": "He gets braces.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يحصل على الأقواس.",
 			"Egyptian Arabic Audio": "eca-0082-2.mp3",
 			"Standard Arabic Audio": "msa-0082-2.mp3"
 		},
@@ -27,7 +27,7 @@
 			"English": "He goes to school.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هو يذهب الى المدرسة.",
 			"Egyptian Arabic Audio": "eca-0082-3.mp3",
 			"Standard Arabic Audio": "msa-0082-3.mp3"
 		},
@@ -36,7 +36,7 @@
 			"English": "He starts to talk.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يبدأ الحديث.",
 			"Egyptian Arabic Audio": "eca-0082-4.mp3",
 			"Standard Arabic Audio": "msa-0082-4.mp3"
 		},
@@ -45,7 +45,7 @@
 			"English": "His classmates see his braces.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ويرى زملاؤه أن أقواسه.",
 			"Egyptian Arabic Audio": "eca-0082-5.mp3",
 			"Standard Arabic Audio": "msa-0082-5.mp3"
 		},
@@ -54,7 +54,7 @@
 			"English": "They make fun of him.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يسخرون منه.",
 			"Egyptian Arabic Audio": "eca-0082-6.mp3",
 			"Standard Arabic Audio": "msa-0082-6.mp3"
 		},
@@ -63,7 +63,7 @@
 			"English": "He feels sad.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يشعر بالحزن.",
 			"Egyptian Arabic Audio": "eca-0082-7.mp3",
 			"Standard Arabic Audio": "msa-0082-7.mp3"
 		},
@@ -72,7 +72,7 @@
 			"English": "He closes his mouth.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انه يغلق فمه.",
 			"Egyptian Arabic Audio": "eca-0082-8.mp3",
 			"Standard Arabic Audio": "msa-0082-8.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "He stops talking.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "توقف عن الحديث.",
 			"Egyptian Arabic Audio": "eca-0082-9.mp3",
 			"Standard Arabic Audio": "msa-0082-9.mp3"
 		},
@@ -90,7 +90,7 @@
 			"English": "His teacher asks him a question.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يسأله معلمه سؤالا.",
 			"Egyptian Arabic Audio": "eca-0082-10.mp3",
 			"Standard Arabic Audio": "msa-0082-10.mp3"
 		},
@@ -99,7 +99,7 @@
 			"English": "He decides to talk.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يقرر الحديث.",
 			"Egyptian Arabic Audio": "eca-0082-11.mp3",
 			"Standard Arabic Audio": "msa-0082-11.mp3"
 		},
@@ -108,7 +108,7 @@
 			"English": "He does not care if people make fun of him anymore.",
 			"Word Count": 11,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انه لا يهم اذا كان الناس يسخر منه بعد الآن.",
 			"Egyptian Arabic Audio": "eca-0082-12.mp3",
 			"Standard Arabic Audio": "msa-0082-12.mp3"
 		}

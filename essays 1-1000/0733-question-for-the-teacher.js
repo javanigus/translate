@@ -9,7 +9,7 @@
 			"English": "Class ended at two o'clock.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انتهت الفئة في الساعة الثانية.",
 			"Egyptian Arabic Audio": "eca-0733-1.mp3",
 			"Standard Arabic Audio": "msa-0733-1.mp3"
 		},
@@ -18,7 +18,7 @@
 			"English": "The teacher dismissed the students.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "رفض المعلم الطلاب.",
 			"Egyptian Arabic Audio": "eca-0733-2.mp3",
 			"Standard Arabic Audio": "msa-0733-2.mp3"
 		},
@@ -27,7 +27,7 @@
 			"English": "Ana rose from her seat.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ارتفعت آنا من مقعدها.",
 			"Egyptian Arabic Audio": "eca-0733-3.mp3",
 			"Standard Arabic Audio": "msa-0733-3.mp3"
 		},
@@ -36,7 +36,7 @@
 			"English": "She grabbed her things.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أمسكت أشياءها.",
 			"Egyptian Arabic Audio": "eca-0733-4.mp3",
 			"Standard Arabic Audio": "msa-0733-4.mp3"
 		},
@@ -45,7 +45,7 @@
 			"English": "She had a backpack and a sweater.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كان لديها حقيبة ظهر و سترة.",
 			"Egyptian Arabic Audio": "eca-0733-5.mp3",
 			"Standard Arabic Audio": "msa-0733-5.mp3"
 		},
@@ -54,7 +54,7 @@
 			"English": "She had a question to ask.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كان لديها سؤال لطرحه.",
 			"Egyptian Arabic Audio": "eca-0733-6.mp3",
 			"Standard Arabic Audio": "msa-0733-6.mp3"
 		},
@@ -63,7 +63,7 @@
 			"English": "She waited for the teacher.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انتظرت للمعلم.",
 			"Egyptian Arabic Audio": "eca-0733-7.mp3",
 			"Standard Arabic Audio": "msa-0733-7.mp3"
 		},
@@ -72,7 +72,7 @@
 			"English": "Some students also had questions to ask.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كان لدى بعض الطلاب أيضا أسئلة لطرحها.",
 			"Egyptian Arabic Audio": "eca-0733-8.mp3",
 			"Standard Arabic Audio": "msa-0733-8.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "There was a line to see the teacher.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كان هناك خط لرؤية المعلم.",
 			"Egyptian Arabic Audio": "eca-0733-9.mp3",
 			"Standard Arabic Audio": "msa-0733-9.mp3"
 		},
@@ -90,7 +90,7 @@
 			"English": "She got in line.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "حصلت في الخط.",
 			"Egyptian Arabic Audio": "eca-0733-10.mp3",
 			"Standard Arabic Audio": "msa-0733-10.mp3"
 		},
@@ -99,7 +99,7 @@
 			"English": "She had a question about an assignment.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كان لديها سؤال حول مهمة.",
 			"Egyptian Arabic Audio": "eca-0733-11.mp3",
 			"Standard Arabic Audio": "msa-0733-11.mp3"
 		},
@@ -108,7 +108,7 @@
 			"English": "The teacher spoke to students one at a time.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وتحدث المعلم إلى الطلاب في وقت واحد.",
 			"Egyptian Arabic Audio": "eca-0733-12.mp3",
 			"Standard Arabic Audio": "msa-0733-12.mp3"
 		},
@@ -117,7 +117,7 @@
 			"English": "She waited a while.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انتظرت بعض الوقت.",
 			"Egyptian Arabic Audio": "eca-0733-13.mp3",
 			"Standard Arabic Audio": "msa-0733-13.mp3"
 		},
@@ -126,7 +126,7 @@
 			"English": "It was finally her turn to ask.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كان أخيرا دورها أن نسأل.",
 			"Egyptian Arabic Audio": "eca-0733-14.mp3",
 			"Standard Arabic Audio": "msa-0733-14.mp3"
 		},
@@ -135,7 +135,7 @@
 			"English": "\"How can I help you?\" the teacher asked.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "&quot;كيف بإمكاني مساعدتك؟&quot; سأل المعلم.",
 			"Egyptian Arabic Audio": "eca-0733-15.mp3",
 			"Standard Arabic Audio": "msa-0733-15.mp3"
 		},
@@ -144,7 +144,7 @@
 			"English": "She asked her question.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وسألت سؤالها.",
 			"Egyptian Arabic Audio": "eca-0733-16.mp3",
 			"Standard Arabic Audio": "msa-0733-16.mp3"
 		},
@@ -153,7 +153,7 @@
 			"English": "The teacher gave her the answer.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أعطتها المعلم الإجابة.",
 			"Egyptian Arabic Audio": "eca-0733-17.mp3",
 			"Standard Arabic Audio": "msa-0733-17.mp3"
 		},
@@ -162,7 +162,7 @@
 			"English": "She was glad to hear it.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كانت سعيدة لسماع ذلك.",
 			"Egyptian Arabic Audio": "eca-0733-18.mp3",
 			"Standard Arabic Audio": "msa-0733-18.mp3"
 		},
@@ -171,7 +171,7 @@
 			"English": "She thanked the teacher, who smiled and said, \"No problem.",
 			"Word Count": 10,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وشكرت المعلم الذي ابتسم وقال: &quot;لا مشكلة.",
 			"Egyptian Arabic Audio": "eca-0733-19.mp3",
 			"Standard Arabic Audio": "msa-0733-19.mp3"
 		},
@@ -180,7 +180,7 @@
 			"English": "\" She went on her way.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "&quot;ذهبت في طريقها.",
 			"Egyptian Arabic Audio": "eca-0733-20.mp3",
 			"Standard Arabic Audio": "msa-0733-20.mp3"
 		}

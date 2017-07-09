@@ -9,7 +9,7 @@
 			"English": "Good for another ten years, he smiled to himself.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "جيد لمدة عشر سنوات أخرى، وابتسم لنفسه.",
 			"Egyptian Arabic Audio": "eca-1811-1.mp3",
 			"Standard Arabic Audio": "msa-1811-1.mp3"
 		}

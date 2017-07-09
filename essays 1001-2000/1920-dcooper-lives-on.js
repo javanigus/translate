@@ -9,7 +9,7 @@
 			"English": "She went to the cockpit and told the pilot of the 727 what D.",
 			"Word Count": 14,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ذهبت إلى قمرة القيادة، وقال الطيار من 727 ما D.",
 			"Egyptian Arabic Audio": "eca-1920-1.mp3",
 			"Standard Arabic Audio": "msa-1920-1.mp3"
 		},
@@ -18,7 +18,7 @@
 			"English": "B.",
 			"Word Count": 1,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ب.",
 			"Egyptian Arabic Audio": "eca-1920-2.mp3",
 			"Standard Arabic Audio": "msa-1920-2.mp3"
 		},
@@ -27,7 +27,7 @@
 			"English": "had told her.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "قد أخبرتها.",
 			"Egyptian Arabic Audio": "eca-1920-3.mp3",
 			"Standard Arabic Audio": "msa-1920-3.mp3"
 		},
@@ -36,7 +36,7 @@
 			"English": "The pilot followed D.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يتبع الطيار D.",
 			"Egyptian Arabic Audio": "eca-1920-4.mp3",
 			"Standard Arabic Audio": "msa-1920-4.mp3"
 		},
@@ -45,7 +45,7 @@
 			"English": "B.",
 			"Word Count": 1,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ب.",
 			"Egyptian Arabic Audio": "eca-1920-5.mp3",
 			"Standard Arabic Audio": "msa-1920-5.mp3"
 		},
@@ -54,7 +54,7 @@
 			"English": "'s instructions.",
 			"Word Count": 2,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "&#39;s تعليمات.",
 			"Egyptian Arabic Audio": "eca-1920-6.mp3",
 			"Standard Arabic Audio": "msa-1920-6.mp3"
 		},
@@ -63,7 +63,7 @@
 			"English": "The plane landed at Tacoma Airport in Washington and refueled at the end of the runway, far away from other planes and vehicles.",
 			"Word Count": 23,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هبطت الطائرة في مطار تاكوما في واشنطن وتم تزويدها بالوقود في نهاية المدرج، بعيدا عن الطائرات والمركبات الأخرى.",
 			"Egyptian Arabic Audio": "eca-1920-7.mp3",
 			"Standard Arabic Audio": "msa-1920-7.mp3"
 		},
@@ -72,7 +72,7 @@
 			"English": "D.",
 			"Word Count": 1,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "د.",
 			"Egyptian Arabic Audio": "eca-1920-8.mp3",
 			"Standard Arabic Audio": "msa-1920-8.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "B.",
 			"Word Count": 1,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ب.",
 			"Egyptian Arabic Audio": "eca-1920-9.mp3",
 			"Standard Arabic Audio": "msa-1920-9.mp3"
 		},
@@ -90,7 +90,7 @@
 			"English": "ordered all passengers off.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "جميع الركاب قبالة.",
 			"Egyptian Arabic Audio": "eca-1920-10.mp3",
 			"Standard Arabic Audio": "msa-1920-10.mp3"
 		},
@@ -99,7 +99,7 @@
 			"English": "He asked for four parachutes and $200,000 in cash.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وطلب أربعة مظلات و 200،000 دولار نقدا.",
 			"Egyptian Arabic Audio": "eca-1920-11.mp3",
 			"Standard Arabic Audio": "msa-1920-11.mp3"
 		},
@@ -108,7 +108,7 @@
 			"English": "The FBI got the parachutes and the money.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "حصل مكتب التحقيقات الفدرالي على المظلات والمال.",
 			"Egyptian Arabic Audio": "eca-1920-12.mp3",
 			"Standard Arabic Audio": "msa-1920-12.mp3"
 		},
@@ -117,7 +117,7 @@
 			"English": "The money was marked.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "تم وضع علامة على المال.",
 			"Egyptian Arabic Audio": "eca-1920-13.mp3",
 			"Standard Arabic Audio": "msa-1920-13.mp3"
 		},
@@ -126,7 +126,7 @@
 			"English": "All of it was delivered to Cooper.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "تم تسليم كل ذلك إلى كوبر.",
 			"Egyptian Arabic Audio": "eca-1920-14.mp3",
 			"Standard Arabic Audio": "msa-1920-14.mp3"
 		}

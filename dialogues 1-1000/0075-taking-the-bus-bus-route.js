@@ -11,7 +11,7 @@
 			"English": "At what time does the Montebello bus leave?",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "في أي وقت يغادر الحافلة مونتيبيلو؟",
 			"Egyptian Arabic Audio": "eca-0075-1.mp3",
 			"Standard Arabic Audio": "msa-0075-1.mp3"
 		},
@@ -21,7 +21,7 @@
 			"English": "It leaves every ten minutes.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "فإنه يترك كل عشر دقائق.",
 			"Egyptian Arabic Audio": "eca-0075-2.mp3",
 			"Standard Arabic Audio": "msa-0075-2.mp3"
 		},
@@ -31,7 +31,7 @@
 			"English": "Do you know when the next one is coming?",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هل تعرف متى القادم واحد قادم؟",
 			"Egyptian Arabic Audio": "eca-0075-3.mp3",
 			"Standard Arabic Audio": "msa-0075-3.mp3"
 		},
@@ -41,7 +41,7 @@
 			"English": "Well, you actually just missed it.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "حسنا، كنت في الواقع مجرد غاب عنه.",
 			"Egyptian Arabic Audio": "eca-0075-4.mp3",
 			"Standard Arabic Audio": "msa-0075-4.mp3"
 		},
@@ -51,7 +51,7 @@
 			"English": "You mean I have to wait ten whole minutes?!",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "تقصد أن علي الانتظار عشر دقائق كاملة ؟!",
 			"Egyptian Arabic Audio": "eca-0075-5.mp3",
 			"Standard Arabic Audio": "msa-0075-5.mp3"
 		},
@@ -61,7 +61,7 @@
 			"English": "Unfortunately. Sometimes, though, it's a little faster.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لسوء الحظ. في بعض الأحيان، على الرغم من أنها أسرع قليلا.",
 			"Egyptian Arabic Audio": "eca-0075-6.mp3",
 			"Standard Arabic Audio": "msa-0075-6.mp3"
 		},
@@ -71,7 +71,7 @@
 			"English": "I wonder if I'll still have enough time for shopping.",
 			"Word Count": 10,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وأتساءل عما إذا كان لا يزال لديك ما يكفي من الوقت للتسوق.",
 			"Egyptian Arabic Audio": "eca-0075-7.mp3",
 			"Standard Arabic Audio": "msa-0075-7.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "You only have a few minutes to buy something.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لديك بضع دقائق فقط لشراء شيء ما.",
 			"Egyptian Arabic Audio": "eca-0075-8.mp3",
 			"Standard Arabic Audio": "msa-0075-8.mp3"
 		},
@@ -91,7 +91,7 @@
 			"English": "I'm in a bit of a hurry.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنا في قليلا من عجلة من امرنا.",
 			"Egyptian Arabic Audio": "eca-0075-9.mp3",
 			"Standard Arabic Audio": "msa-0075-9.mp3"
 		},
@@ -101,7 +101,7 @@
 			"English": "You should try to find different bus routes.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يجب أن تحاول العثور على خطوط الحافلات المختلفة.",
 			"Egyptian Arabic Audio": "eca-0075-10.mp3",
 			"Standard Arabic Audio": "msa-0075-10.mp3"
 		},
@@ -111,7 +111,7 @@
 			"English": "Is it easy to navigate bus routes?",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هل من السهل التنقل خطوط الحافلات؟",
 			"Egyptian Arabic Audio": "eca-0075-11.mp3",
 			"Standard Arabic Audio": "msa-0075-11.mp3"
 		},
@@ -121,7 +121,7 @@
 			"English": "Very easy. Here's a map for you to read.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "سهل جدا. إليك خريطة للقراءة.",
 			"Egyptian Arabic Audio": "eca-0075-12.mp3",
 			"Standard Arabic Audio": "msa-0075-12.mp3"
 		}

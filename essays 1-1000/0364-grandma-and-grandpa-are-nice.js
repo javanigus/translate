@@ -9,7 +9,7 @@
 			"English": "Her grandma is short and fat.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "جدتها قصيرة والدهون.",
 			"Egyptian Arabic Audio": "eca-0364-1.mp3",
 			"Standard Arabic Audio": "msa-0364-1.mp3"
 		},
@@ -18,7 +18,7 @@
 			"English": "Her grandpa is tall and thin.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "جدها طويل القامة ورقيقة.",
 			"Egyptian Arabic Audio": "eca-0364-2.mp3",
 			"Standard Arabic Audio": "msa-0364-2.mp3"
 		},
@@ -27,7 +27,7 @@
 			"English": "They are both old.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وكلاهما قديم.",
 			"Egyptian Arabic Audio": "eca-0364-3.mp3",
 			"Standard Arabic Audio": "msa-0364-3.mp3"
 		},
@@ -36,7 +36,7 @@
 			"English": "They have white hair.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لديهم شعر أبيض.",
 			"Egyptian Arabic Audio": "eca-0364-4.mp3",
 			"Standard Arabic Audio": "msa-0364-4.mp3"
 		},
@@ -45,7 +45,7 @@
 			"English": "They smell funny.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنها رائحة مضحك.",
 			"Egyptian Arabic Audio": "eca-0364-5.mp3",
 			"Standard Arabic Audio": "msa-0364-5.mp3"
 		},
@@ -54,7 +54,7 @@
 			"English": "They always hug her.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انهم دائما عناق لها.",
 			"Egyptian Arabic Audio": "eca-0364-6.mp3",
 			"Standard Arabic Audio": "msa-0364-6.mp3"
 		},
@@ -63,7 +63,7 @@
 			"English": "They always kiss her.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انهم دائما قبلة لها.",
 			"Egyptian Arabic Audio": "eca-0364-7.mp3",
 			"Standard Arabic Audio": "msa-0364-7.mp3"
 		},
@@ -72,7 +72,7 @@
 			"English": "They always bring her gifts.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنها دائما جلب الهدايا لها.",
 			"Egyptian Arabic Audio": "eca-0364-8.mp3",
 			"Standard Arabic Audio": "msa-0364-8.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "They always bring her chocolates.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنها دائما جلب الشوكولاتة لها.",
 			"Egyptian Arabic Audio": "eca-0364-9.mp3",
 			"Standard Arabic Audio": "msa-0364-9.mp3"
 		},
@@ -90,7 +90,7 @@
 			"English": "They always visit for a few days.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انهم دائما زيارة لبضعة أيام.",
 			"Egyptian Arabic Audio": "eca-0364-10.mp3",
 			"Standard Arabic Audio": "msa-0364-10.mp3"
 		},
@@ -99,7 +99,7 @@
 			"English": "They are nice to her.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنها لطيفة لها.",
 			"Egyptian Arabic Audio": "eca-0364-11.mp3",
 			"Standard Arabic Audio": "msa-0364-11.mp3"
 		},
@@ -108,7 +108,7 @@
 			"English": "She loves them.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "تحبها.",
 			"Egyptian Arabic Audio": "eca-0364-12.mp3",
 			"Standard Arabic Audio": "msa-0364-12.mp3"
 		}

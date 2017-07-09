@@ -9,7 +9,7 @@
 			"English": "Look both ways before you cross the street.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انظر للطريقتين قبل عبور الشارع.",
 			"Egyptian Arabic Audio": "eca-0512-1.mp3",
 			"Standard Arabic Audio": "msa-0512-1.mp3"
 		},
@@ -18,7 +18,7 @@
 			"English": "Wear clean underwear.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ارتداء الملابس الداخلية النظيفة.",
 			"Egyptian Arabic Audio": "eca-0512-2.mp3",
 			"Standard Arabic Audio": "msa-0512-2.mp3"
 		},
@@ -27,7 +27,7 @@
 			"English": "Do your homework.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "قم بواجبك المنزلى.",
 			"Egyptian Arabic Audio": "eca-0512-3.mp3",
 			"Standard Arabic Audio": "msa-0512-3.mp3"
 		},
@@ -36,7 +36,7 @@
 			"English": "Be polite.",
 			"Word Count": 2,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كن مهذبا.",
 			"Egyptian Arabic Audio": "eca-0512-4.mp3",
 			"Standard Arabic Audio": "msa-0512-4.mp3"
 		},
@@ -45,7 +45,7 @@
 			"English": "Obey your parents.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "طاعة والديك.",
 			"Egyptian Arabic Audio": "eca-0512-5.mp3",
 			"Standard Arabic Audio": "msa-0512-5.mp3"
 		},
@@ -54,7 +54,7 @@
 			"English": "Go to school.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "إذهب للمدرسة.",
 			"Egyptian Arabic Audio": "eca-0512-6.mp3",
 			"Standard Arabic Audio": "msa-0512-6.mp3"
 		},
@@ -63,7 +63,7 @@
 			"English": "Stay in school.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ابق في المدرسه.",
 			"Egyptian Arabic Audio": "eca-0512-7.mp3",
 			"Standard Arabic Audio": "msa-0512-7.mp3"
 		},
@@ -72,7 +72,7 @@
 			"English": "Wash your hands.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "اغسل يديك.",
 			"Egyptian Arabic Audio": "eca-0512-8.mp3",
 			"Standard Arabic Audio": "msa-0512-8.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "Wipe your nose.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "امسح أنفك.",
 			"Egyptian Arabic Audio": "eca-0512-9.mp3",
 			"Standard Arabic Audio": "msa-0512-9.mp3"
 		},
@@ -90,7 +90,7 @@
 			"English": "Wipe your feet.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "مسح قدميك.",
 			"Egyptian Arabic Audio": "eca-0512-10.mp3",
 			"Standard Arabic Audio": "msa-0512-10.mp3"
 		},
@@ -99,7 +99,7 @@
 			"English": "Wash your face.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "اغسل وجهك.",
 			"Egyptian Arabic Audio": "eca-0512-11.mp3",
 			"Standard Arabic Audio": "msa-0512-11.mp3"
 		},
@@ -108,7 +108,7 @@
 			"English": "Brush your teeth.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "نظف اسنانك.",
 			"Egyptian Arabic Audio": "eca-0512-12.mp3",
 			"Standard Arabic Audio": "msa-0512-12.mp3"
 		},
@@ -117,7 +117,7 @@
 			"English": "Take the dog for a walk.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "خذ الكلب للنزهة.",
 			"Egyptian Arabic Audio": "eca-0512-13.mp3",
 			"Standard Arabic Audio": "msa-0512-13.mp3"
 		},
@@ -126,7 +126,7 @@
 			"English": "Clean the cat's litter box.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "تنظيف صندوق القمامة القط.",
 			"Egyptian Arabic Audio": "eca-0512-14.mp3",
 			"Standard Arabic Audio": "msa-0512-14.mp3"
 		},
@@ -135,7 +135,7 @@
 			"English": "Be a good boy.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كن ولدا جيدا.",
 			"Egyptian Arabic Audio": "eca-0512-15.mp3",
 			"Standard Arabic Audio": "msa-0512-15.mp3"
 		},
@@ -144,7 +144,7 @@
 			"English": "Be a good girl.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كن فتاة جيدة.",
 			"Egyptian Arabic Audio": "eca-0512-16.mp3",
 			"Standard Arabic Audio": "msa-0512-16.mp3"
 		},
@@ -153,7 +153,7 @@
 			"English": "Turn down the TV.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "خفف صوت التلفزيون.",
 			"Egyptian Arabic Audio": "eca-0512-17.mp3",
 			"Standard Arabic Audio": "msa-0512-17.mp3"
 		},
@@ -162,7 +162,7 @@
 			"English": "Turn off the TV.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أطفئ التلفاز.",
 			"Egyptian Arabic Audio": "eca-0512-18.mp3",
 			"Standard Arabic Audio": "msa-0512-18.mp3"
 		},
@@ -171,7 +171,7 @@
 			"English": "Stand up straight.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يقف مستقيما.",
 			"Egyptian Arabic Audio": "eca-0512-19.mp3",
 			"Standard Arabic Audio": "msa-0512-19.mp3"
 		},
@@ -180,7 +180,7 @@
 			"English": "Chew with your mouth closed.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "مضغ مع فمك مغلقة.",
 			"Egyptian Arabic Audio": "eca-0512-20.mp3",
 			"Standard Arabic Audio": "msa-0512-20.mp3"
 		},
@@ -189,7 +189,7 @@
 			"English": "Close the door.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أغلق الباب.",
 			"Egyptian Arabic Audio": "eca-0512-21.mp3",
 			"Standard Arabic Audio": "msa-0512-21.mp3"
 		},
@@ -198,7 +198,7 @@
 			"English": "Do as I say, not as I do.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كما أقول، لا كما أفعل.",
 			"Egyptian Arabic Audio": "eca-0512-22.mp3",
 			"Standard Arabic Audio": "msa-0512-22.mp3"
 		},
@@ -207,7 +207,7 @@
 			"English": "Mind your manners.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كن مهذبا.",
 			"Egyptian Arabic Audio": "eca-0512-23.mp3",
 			"Standard Arabic Audio": "msa-0512-23.mp3"
 		},
@@ -216,7 +216,7 @@
 			"English": "Be nice to your brother.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "تكون لطيفة لأخيك.",
 			"Egyptian Arabic Audio": "eca-0512-24.mp3",
 			"Standard Arabic Audio": "msa-0512-24.mp3"
 		},
@@ -225,7 +225,7 @@
 			"English": "Be nice to your sister.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يكون لطيفا لأختك.",
 			"Egyptian Arabic Audio": "eca-0512-25.mp3",
 			"Standard Arabic Audio": "msa-0512-25.mp3"
 		},
@@ -234,7 +234,7 @@
 			"English": "Watch your brother.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "شاهد أخيك.",
 			"Egyptian Arabic Audio": "eca-0512-26.mp3",
 			"Standard Arabic Audio": "msa-0512-26.mp3"
 		},
@@ -243,7 +243,7 @@
 			"English": "Play with your sister.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لعب مع أختك.",
 			"Egyptian Arabic Audio": "eca-0512-27.mp3",
 			"Standard Arabic Audio": "msa-0512-27.mp3"
 		},
@@ -252,7 +252,7 @@
 			"English": "Be patient.",
 			"Word Count": 2,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كن صبوراً.",
 			"Egyptian Arabic Audio": "eca-0512-28.mp3",
 			"Standard Arabic Audio": "msa-0512-28.mp3"
 		},
@@ -261,7 +261,7 @@
 			"English": "Study.",
 			"Word Count": 1,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "دراسة.",
 			"Egyptian Arabic Audio": "eca-0512-29.mp3",
 			"Standard Arabic Audio": "msa-0512-29.mp3"
 		},
@@ -270,7 +270,7 @@
 			"English": "Listen to your teachers.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "استمع إلى معلميك.",
 			"Egyptian Arabic Audio": "eca-0512-30.mp3",
 			"Standard Arabic Audio": "msa-0512-30.mp3"
 		},
@@ -279,7 +279,7 @@
 			"English": "Keep trying.",
 			"Word Count": 2,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "استمر في المحاولة.",
 			"Egyptian Arabic Audio": "eca-0512-31.mp3",
 			"Standard Arabic Audio": "msa-0512-31.mp3"
 		},
@@ -288,7 +288,7 @@
 			"English": "Sit down on the bus.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "الجلوس على متن الحافلة.",
 			"Egyptian Arabic Audio": "eca-0512-32.mp3",
 			"Standard Arabic Audio": "msa-0512-32.mp3"
 		},
@@ -297,7 +297,7 @@
 			"English": "Buckle your seat belt.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "اربط حزام الأمان.",
 			"Egyptian Arabic Audio": "eca-0512-33.mp3",
 			"Standard Arabic Audio": "msa-0512-33.mp3"
 		},
@@ -306,7 +306,7 @@
 			"English": "Try this.",
 			"Word Count": 2,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "جرب هذا.",
 			"Egyptian Arabic Audio": "eca-0512-34.mp3",
 			"Standard Arabic Audio": "msa-0512-34.mp3"
 		},
@@ -315,7 +315,7 @@
 			"English": "Try these.",
 			"Word Count": 2,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "جرب هذا.",
 			"Egyptian Arabic Audio": "eca-0512-35.mp3",
 			"Standard Arabic Audio": "msa-0512-35.mp3"
 		},
@@ -324,7 +324,7 @@
 			"English": "Change your clothes.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "غير ملابسك.",
 			"Egyptian Arabic Audio": "eca-0512-36.mp3",
 			"Standard Arabic Audio": "msa-0512-36.mp3"
 		},
@@ -333,7 +333,7 @@
 			"English": "Put on a clean shirt.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وضع على قميص نظيفة.",
 			"Egyptian Arabic Audio": "eca-0512-37.mp3",
 			"Standard Arabic Audio": "msa-0512-37.mp3"
 		},
@@ -342,7 +342,7 @@
 			"English": "Get dressed.",
 			"Word Count": 2,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يرتدى ملابسة.",
 			"Egyptian Arabic Audio": "eca-0512-38.mp3",
 			"Standard Arabic Audio": "msa-0512-38.mp3"
 		},
@@ -351,7 +351,7 @@
 			"English": "Get into your pajamas.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "الدخول إلى منامة الخاص بك.",
 			"Egyptian Arabic Audio": "eca-0512-39.mp3",
 			"Standard Arabic Audio": "msa-0512-39.mp3"
 		},
@@ -360,7 +360,7 @@
 			"English": "Go to your room.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "اذهب إلى غرفتك.",
 			"Egyptian Arabic Audio": "eca-0512-40.mp3",
 			"Standard Arabic Audio": "msa-0512-40.mp3"
 		},
@@ -369,7 +369,7 @@
 			"English": "Clean up your room.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "نظف غرفتك.",
 			"Egyptian Arabic Audio": "eca-0512-41.mp3",
 			"Standard Arabic Audio": "msa-0512-41.mp3"
 		},
@@ -378,7 +378,7 @@
 			"English": "Make your bed.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "رتب سريرك.",
 			"Egyptian Arabic Audio": "eca-0512-42.mp3",
 			"Standard Arabic Audio": "msa-0512-42.mp3"
 		},
@@ -387,7 +387,7 @@
 			"English": "Go to bed.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "اذهب إلى الفراش.",
 			"Egyptian Arabic Audio": "eca-0512-43.mp3",
 			"Standard Arabic Audio": "msa-0512-43.mp3"
 		},
@@ -396,7 +396,7 @@
 			"English": "Kiss your mommy good night.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "قبلة أمك ليلة جيدة.",
 			"Egyptian Arabic Audio": "eca-0512-44.mp3",
 			"Standard Arabic Audio": "msa-0512-44.mp3"
 		},
@@ -405,7 +405,7 @@
 			"English": "Say Thank You.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "قل شكرا.",
 			"Egyptian Arabic Audio": "eca-0512-45.mp3",
 			"Standard Arabic Audio": "msa-0512-45.mp3"
 		},
@@ -414,7 +414,7 @@
 			"English": "Say Please.",
 			"Word Count": 2,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "قل رجاء.",
 			"Egyptian Arabic Audio": "eca-0512-46.mp3",
 			"Standard Arabic Audio": "msa-0512-46.mp3"
 		},
@@ -423,7 +423,7 @@
 			"English": "Say You're Welcome.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "قل مرحبا بك.",
 			"Egyptian Arabic Audio": "eca-0512-47.mp3",
 			"Standard Arabic Audio": "msa-0512-47.mp3"
 		},
@@ -432,7 +432,7 @@
 			"English": "Say your prayers.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "اتلو صلاتك.",
 			"Egyptian Arabic Audio": "eca-0512-48.mp3",
 			"Standard Arabic Audio": "msa-0512-48.mp3"
 		}

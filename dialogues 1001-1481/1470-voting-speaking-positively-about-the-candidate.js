@@ -11,7 +11,7 @@
 			"English": "Are you going to vote?",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنت ذاهب للتصويت؟",
 			"Egyptian Arabic Audio": "eca-1470-1.mp3",
 			"Standard Arabic Audio": "msa-1470-1.mp3"
 		},
@@ -21,7 +21,7 @@
 			"English": "I am so excited to be voting.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنا متحمس جدا للتصويت.",
 			"Egyptian Arabic Audio": "eca-1470-2.mp3",
 			"Standard Arabic Audio": "msa-1470-2.mp3"
 		},
@@ -31,7 +31,7 @@
 			"English": "Do you know who you're going to vote for?",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هل تعرف من ستصوت؟",
 			"Egyptian Arabic Audio": "eca-1470-3.mp3",
 			"Standard Arabic Audio": "msa-1470-3.mp3"
 		},
@@ -41,7 +41,7 @@
 			"English": "I am so impressed with the candidate I'm going to vote for.",
 			"Word Count": 12,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنا معجب جدا مع المرشح أنا ذاهب للتصويت ل.",
 			"Egyptian Arabic Audio": "eca-1470-4.mp3",
 			"Standard Arabic Audio": "msa-1470-4.mp3"
 		},
@@ -51,7 +51,7 @@
 			"English": "What's so great about him?",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ما هو عظيم جدا عنه؟",
 			"Egyptian Arabic Audio": "eca-1470-5.mp3",
 			"Standard Arabic Audio": "msa-1470-5.mp3"
 		},
@@ -61,7 +61,7 @@
 			"English": "I feel that he is very intelligent.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أشعر أنه ذكي جدا.",
 			"Egyptian Arabic Audio": "eca-1470-6.mp3",
 			"Standard Arabic Audio": "msa-1470-6.mp3"
 		},
@@ -71,7 +71,7 @@
 			"English": "Oh, really?",
 			"Word Count": 2,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "حقا؟",
 			"Egyptian Arabic Audio": "eca-1470-7.mp3",
 			"Standard Arabic Audio": "msa-1470-7.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "Yes, and I agree with all his policies.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "نعم، وأنا أتفق مع كل سياساته.",
 			"Egyptian Arabic Audio": "eca-1470-8.mp3",
 			"Standard Arabic Audio": "msa-1470-8.mp3"
 		},
@@ -91,7 +91,7 @@
 			"English": "That's good to hear.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هذا جيد أن نسمع.",
 			"Egyptian Arabic Audio": "eca-1470-9.mp3",
 			"Standard Arabic Audio": "msa-1470-9.mp3"
 		},
@@ -101,7 +101,7 @@
 			"English": "I think this man is going to be the next President.",
 			"Word Count": 11,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أعتقد أن هذا الرجل سيكون الرئيس المقبل.",
 			"Egyptian Arabic Audio": "eca-1470-10.mp3",
 			"Standard Arabic Audio": "msa-1470-10.mp3"
 		},
@@ -111,7 +111,7 @@
 			"English": "I hope so.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "آمل ذلك.",
 			"Egyptian Arabic Audio": "eca-1470-11.mp3",
 			"Standard Arabic Audio": "msa-1470-11.mp3"
 		},
@@ -121,7 +121,7 @@
 			"English": "I'm going to make sure and get my vote in.",
 			"Word Count": 10,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنا ذاهب للتأكد من والحصول على تصويتي في.",
 			"Egyptian Arabic Audio": "eca-1470-12.mp3",
 			"Standard Arabic Audio": "msa-1470-12.mp3"
 		},
@@ -131,7 +131,7 @@
 			"English": "Will you be voting?",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "سوف تصوت؟",
 			"Egyptian Arabic Audio": "eca-1470-13.mp3",
 			"Standard Arabic Audio": "msa-1470-13.mp3"
 		},
@@ -141,7 +141,7 @@
 			"English": "I can't wait to vote.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لا أستطيع الانتظار للتصويت.",
 			"Egyptian Arabic Audio": "eca-1470-14.mp3",
 			"Standard Arabic Audio": "msa-1470-14.mp3"
 		},
@@ -151,7 +151,7 @@
 			"English": "Who are you voting for?",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "من أنت تصوت؟",
 			"Egyptian Arabic Audio": "eca-1470-15.mp3",
 			"Standard Arabic Audio": "msa-1470-15.mp3"
 		},
@@ -161,7 +161,7 @@
 			"English": "The person I'm voting for is the best.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "الشخص الذي أقوم بصوته هو الأفضل.",
 			"Egyptian Arabic Audio": "eca-1470-16.mp3",
 			"Standard Arabic Audio": "msa-1470-16.mp3"
 		},
@@ -171,7 +171,7 @@
 			"English": "What do you like about him?",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ماذا تحب عنه؟",
 			"Egyptian Arabic Audio": "eca-1470-17.mp3",
 			"Standard Arabic Audio": "msa-1470-17.mp3"
 		},
@@ -181,7 +181,7 @@
 			"English": "He is very intelligent.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هو ذكي جدا.",
 			"Egyptian Arabic Audio": "eca-1470-18.mp3",
 			"Standard Arabic Audio": "msa-1470-18.mp3"
 		},
@@ -191,7 +191,7 @@
 			"English": "You think so?",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كنت تعتقد ذلك؟",
 			"Egyptian Arabic Audio": "eca-1470-19.mp3",
 			"Standard Arabic Audio": "msa-1470-19.mp3"
 		},
@@ -201,7 +201,7 @@
 			"English": "That's right. Plus, I agree with his policies.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "صحيح. بالإضافة إلى ذلك، أنا أتفق مع سياساته.",
 			"Egyptian Arabic Audio": "eca-1470-20.mp3",
 			"Standard Arabic Audio": "msa-1470-20.mp3"
 		},
@@ -211,7 +211,7 @@
 			"English": "I'm glad to hear that you are so excited.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يسرني أن أسمع أنك متحمس جدا.",
 			"Egyptian Arabic Audio": "eca-1470-21.mp3",
 			"Standard Arabic Audio": "msa-1470-21.mp3"
 		},
@@ -221,7 +221,7 @@
 			"English": "I'm voting for the next President.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "سأصوت للرئيس القادم.",
 			"Egyptian Arabic Audio": "eca-1470-22.mp3",
 			"Standard Arabic Audio": "msa-1470-22.mp3"
 		},
@@ -231,7 +231,7 @@
 			"English": "I'm sure he will be.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنا متأكد من أنه سيكون.",
 			"Egyptian Arabic Audio": "eca-1470-23.mp3",
 			"Standard Arabic Audio": "msa-1470-23.mp3"
 		},
@@ -241,7 +241,7 @@
 			"English": "I'm going to make sure and vote.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنا ذاهب للتأكد من والتصويت.",
 			"Egyptian Arabic Audio": "eca-1470-24.mp3",
 			"Standard Arabic Audio": "msa-1470-24.mp3"
 		},
@@ -251,7 +251,7 @@
 			"English": "Are you going to vote this Tuesday?",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هل ستصوت هذا الثلاثاء؟",
 			"Egyptian Arabic Audio": "eca-1470-25.mp3",
 			"Standard Arabic Audio": "msa-1470-25.mp3"
 		},
@@ -261,7 +261,7 @@
 			"English": "Yes, I am, and I am so excited.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "نعم، أنا، وأنا متحمس جدا.",
 			"Egyptian Arabic Audio": "eca-1470-26.mp3",
 			"Standard Arabic Audio": "msa-1470-26.mp3"
 		},
@@ -271,7 +271,7 @@
 			"English": "Have you figured out who you're going to vote for?",
 			"Word Count": 10,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هل أحسبت من ستصوت؟",
 			"Egyptian Arabic Audio": "eca-1470-27.mp3",
 			"Standard Arabic Audio": "msa-1470-27.mp3"
 		},
@@ -281,7 +281,7 @@
 			"English": "I love my candidate.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أحب المرشح.",
 			"Egyptian Arabic Audio": "eca-1470-28.mp3",
 			"Standard Arabic Audio": "msa-1470-28.mp3"
 		},
@@ -291,7 +291,7 @@
 			"English": "Why is that?",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لماذا هذا؟",
 			"Egyptian Arabic Audio": "eca-1470-29.mp3",
 			"Standard Arabic Audio": "msa-1470-29.mp3"
 		},
@@ -301,7 +301,7 @@
 			"English": "My candidate is probably the most intelligent.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "المرشح هو على الارجح الاكثر ذكاء.",
 			"Egyptian Arabic Audio": "eca-1470-30.mp3",
 			"Standard Arabic Audio": "msa-1470-30.mp3"
 		},
@@ -311,7 +311,7 @@
 			"English": "Is that right?",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هل هذا صحيح؟",
 			"Egyptian Arabic Audio": "eca-1470-31.mp3",
 			"Standard Arabic Audio": "msa-1470-31.mp3"
 		},
@@ -321,7 +321,7 @@
 			"English": "I also agree with all his policies.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وأتفق أيضا مع كل سياساته.",
 			"Egyptian Arabic Audio": "eca-1470-32.mp3",
 			"Standard Arabic Audio": "msa-1470-32.mp3"
 		},
@@ -331,7 +331,7 @@
 			"English": "That's great!",
 			"Word Count": 2,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ذلك رائع!",
 			"Egyptian Arabic Audio": "eca-1470-33.mp3",
 			"Standard Arabic Audio": "msa-1470-33.mp3"
 		},
@@ -341,7 +341,7 @@
 			"English": "I know he's going to be the next President.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وأنا أعلم أنه سيكون الرئيس المقبل.",
 			"Egyptian Arabic Audio": "eca-1470-34.mp3",
 			"Standard Arabic Audio": "msa-1470-34.mp3"
 		},
@@ -351,7 +351,7 @@
 			"English": "Hopefully, he will be.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "نأمل، وقال انه سيكون.",
 			"Egyptian Arabic Audio": "eca-1470-35.mp3",
 			"Standard Arabic Audio": "msa-1470-35.mp3"
 		},
@@ -361,7 +361,7 @@
 			"English": "I can't wait to vote.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لا أستطيع الانتظار للتصويت.",
 			"Egyptian Arabic Audio": "eca-1470-36.mp3",
 			"Standard Arabic Audio": "msa-1470-36.mp3"
 		}

@@ -9,7 +9,7 @@
 			"English": "When they arrived, Michael was confused.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "عندما وصلوا، كان مايكل الخلط.",
 			"Egyptian Arabic Audio": "eca-0779-1.mp3",
 			"Standard Arabic Audio": "msa-0779-1.mp3"
 		},
@@ -18,7 +18,7 @@
 			"English": "The streets all looked dirty and old.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كانت الشوارع تبدو قذرة وقديمة.",
 			"Egyptian Arabic Audio": "eca-0779-2.mp3",
 			"Standard Arabic Audio": "msa-0779-2.mp3"
 		},
@@ -27,7 +27,7 @@
 			"English": "In the movies, everyone looked happy.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "في الأفلام، بدا الجميع سعداء.",
 			"Egyptian Arabic Audio": "eca-0779-3.mp3",
 			"Standard Arabic Audio": "msa-0779-3.mp3"
 		},
@@ -36,7 +36,7 @@
 			"English": "In reality, half of the people were drunk.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "في الواقع، كان نصف الناس في حالة سكر.",
 			"Egyptian Arabic Audio": "eca-0779-4.mp3",
 			"Standard Arabic Audio": "msa-0779-4.mp3"
 		},
@@ -45,7 +45,7 @@
 			"English": "The other half was angry from losing money in casinos.",
 			"Word Count": 10,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وكان النصف الآخر غاضبا من فقدان المال في الكازينوهات.",
 			"Egyptian Arabic Audio": "eca-0779-5.mp3",
 			"Standard Arabic Audio": "msa-0779-5.mp3"
 		},
@@ -54,7 +54,7 @@
 			"English": "\"This isn't what I pictured,\" said Michael.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وقال مايكل &quot;هذا ليس ما صورته&quot;.",
 			"Egyptian Arabic Audio": "eca-0779-6.mp3",
 			"Standard Arabic Audio": "msa-0779-6.mp3"
 		}

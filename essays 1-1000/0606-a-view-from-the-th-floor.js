@@ -9,7 +9,7 @@
 			"English": "He lives in a tall building.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وهو يعيش في مبنى طويل القامة.",
 			"Egyptian Arabic Audio": "eca-0606-1.mp3",
 			"Standard Arabic Audio": "msa-0606-1.mp3"
 		},
@@ -18,7 +18,7 @@
 			"English": "He lives on the 100th floor.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وهو يعيش في الطابق 100.",
 			"Egyptian Arabic Audio": "eca-0606-2.mp3",
 			"Standard Arabic Audio": "msa-0606-2.mp3"
 		},
@@ -27,7 +27,7 @@
 			"English": "He wakes up.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هو استيقض.",
 			"Egyptian Arabic Audio": "eca-0606-3.mp3",
 			"Standard Arabic Audio": "msa-0606-3.mp3"
 		},
@@ -36,7 +36,7 @@
 			"English": "He looks out the window.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انه ينظر الى النافذة.",
 			"Egyptian Arabic Audio": "eca-0606-4.mp3",
 			"Standard Arabic Audio": "msa-0606-4.mp3"
 		},
@@ -45,7 +45,7 @@
 			"English": "He sees the sun rise.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يرى شمس الشمس.",
 			"Egyptian Arabic Audio": "eca-0606-5.mp3",
 			"Standard Arabic Audio": "msa-0606-5.mp3"
 		},
@@ -54,7 +54,7 @@
 			"English": "He sees other buildings.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وهو يرى مباني أخرى.",
 			"Egyptian Arabic Audio": "eca-0606-6.mp3",
 			"Standard Arabic Audio": "msa-0606-6.mp3"
 		},
@@ -63,7 +63,7 @@
 			"English": "He sees the mountains.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يرى الجبال.",
 			"Egyptian Arabic Audio": "eca-0606-7.mp3",
 			"Standard Arabic Audio": "msa-0606-7.mp3"
 		},
@@ -72,7 +72,7 @@
 			"English": "He looks down.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انه ينظر الى أسفل.",
 			"Egyptian Arabic Audio": "eca-0606-8.mp3",
 			"Standard Arabic Audio": "msa-0606-8.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "The people look so small.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "الناس تبدو صغيرة جدا.",
 			"Egyptian Arabic Audio": "eca-0606-9.mp3",
 			"Standard Arabic Audio": "msa-0606-9.mp3"
 		},
@@ -90,7 +90,7 @@
 			"English": "The stores look small, too.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "تبدو المتاجر صغيرة أيضا.",
 			"Egyptian Arabic Audio": "eca-0606-10.mp3",
 			"Standard Arabic Audio": "msa-0606-10.mp3"
 		},
@@ -99,7 +99,7 @@
 			"English": "What an interesting view.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ما وجهة نظر مثيرة للاهتمام.",
 			"Egyptian Arabic Audio": "eca-0606-11.mp3",
 			"Standard Arabic Audio": "msa-0606-11.mp3"
 		}

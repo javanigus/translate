@@ -9,7 +9,7 @@
 			"English": "\"Don't be silly,\" replied Betsy.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "&quot;لا تكون سخيفة&quot;، أجاب بيتسي.",
 			"Egyptian Arabic Audio": "eca-2101-1.mp3",
 			"Standard Arabic Audio": "msa-2101-1.mp3"
 		},
@@ -18,7 +18,7 @@
 			"English": "\"And forget about 12-year-olds.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "&quot;وننسى 12 سنة من العمر.",
 			"Egyptian Arabic Audio": "eca-2101-2.mp3",
 			"Standard Arabic Audio": "msa-2101-2.mp3"
 		},
@@ -27,7 +27,7 @@
 			"English": "They're immature.",
 			"Word Count": 2,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انهم غير ناضجة.",
 			"Egyptian Arabic Audio": "eca-2101-3.mp3",
 			"Standard Arabic Audio": "msa-2101-3.mp3"
 		},
@@ -36,7 +36,7 @@
 			"English": "You should go for someone more experienced�someone at least 13 years old.",
 			"Word Count": 12,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يجب أن تذهب لشخص أكثر خبرة من العمر 13 عاما على الأقل.",
 			"Egyptian Arabic Audio": "eca-2101-4.mp3",
 			"Standard Arabic Audio": "msa-2101-4.mp3"
 		},
@@ -45,7 +45,7 @@
 			"English": "Someone who will carry your books and walk you to your classes.",
 			"Word Count": 12,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "شخص سيحمل كتبك ويأخذك إلى الفصول الدراسية.",
 			"Egyptian Arabic Audio": "eca-2101-5.mp3",
 			"Standard Arabic Audio": "msa-2101-5.mp3"
 		},
@@ -54,7 +54,7 @@
 			"English": "You need someone who'll give you a Valentine's Day card and remember your birthday.",
 			"Word Count": 14,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "تحتاج إلى شخص سوف تعطيك بطاقة عيد الحب وتذكر عيد ميلادك.",
 			"Egyptian Arabic Audio": "eca-2101-6.mp3",
 			"Standard Arabic Audio": "msa-2101-6.mp3"
 		},
@@ -63,7 +63,7 @@
 			"English": "You need someone to comfort you when you're sad and lonely.",
 			"Word Count": 11,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "تحتاج شخص ما إلى الراحة لك عندما كنت حزينا وحيدا.",
 			"Egyptian Arabic Audio": "eca-2101-7.mp3",
 			"Standard Arabic Audio": "msa-2101-7.mp3"
 		},
@@ -72,7 +72,7 @@
 			"English": "You need someone to protect you.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "تحتاج إلى شخص لحمايتك.",
 			"Egyptian Arabic Audio": "eca-2101-8.mp3",
 			"Standard Arabic Audio": "msa-2101-8.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "\".",
 			"Word Count": 1,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "&quot;.",
 			"Egyptian Arabic Audio": "eca-2101-9.mp3",
 			"Standard Arabic Audio": "msa-2101-9.mp3"
 		}

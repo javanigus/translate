@@ -11,7 +11,7 @@
 			"English": "You're watching too much TV.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنت تشاهد الكثير من التلفزيون.",
 			"Egyptian Arabic Audio": "eca-0250-1.mp3",
 			"Standard Arabic Audio": "msa-0250-1.mp3"
 		},
@@ -21,7 +21,7 @@
 			"English": "What do you mean?",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ماذا تعني؟",
 			"Egyptian Arabic Audio": "eca-0250-2.mp3",
 			"Standard Arabic Audio": "msa-0250-2.mp3"
 		},
@@ -31,7 +31,7 @@
 			"English": "I mean you're wasting your life.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أعني أنك تهدر حياتك.",
 			"Egyptian Arabic Audio": "eca-0250-3.mp3",
 			"Standard Arabic Audio": "msa-0250-3.mp3"
 		},
@@ -41,7 +41,7 @@
 			"English": "I'm having fun.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انا استمتع.",
 			"Egyptian Arabic Audio": "eca-0250-4.mp3",
 			"Standard Arabic Audio": "msa-0250-4.mp3"
 		},
@@ -51,7 +51,7 @@
 			"English": "You're sitting there with your mouth open.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كنت جالسا هناك مع فتح فمك.",
 			"Egyptian Arabic Audio": "eca-0250-5.mp3",
 			"Standard Arabic Audio": "msa-0250-5.mp3"
 		},
@@ -61,7 +61,7 @@
 			"English": "Who cares?",
 			"Word Count": 2,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "من يهتم؟",
 			"Egyptian Arabic Audio": "eca-0250-6.mp3",
 			"Standard Arabic Audio": "msa-0250-6.mp3"
 		},
@@ -71,7 +71,7 @@
 			"English": "I care. Do something.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يهمني. قم بعمل ما.",
 			"Egyptian Arabic Audio": "eca-0250-7.mp3",
 			"Standard Arabic Audio": "msa-0250-7.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "Okay. I did something.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "حسنا. فعلت شيئا.",
 			"Egyptian Arabic Audio": "eca-0250-8.mp3",
 			"Standard Arabic Audio": "msa-0250-8.mp3"
 		},
@@ -91,7 +91,7 @@
 			"English": "What did you do?",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ما الذي فعلته؟",
 			"Egyptian Arabic Audio": "eca-0250-9.mp3",
 			"Standard Arabic Audio": "msa-0250-9.mp3"
 		},
@@ -101,7 +101,7 @@
 			"English": "I turned up the volume.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لقد تحولت إلى مستوى الصوت.",
 			"Egyptian Arabic Audio": "eca-0250-10.mp3",
 			"Standard Arabic Audio": "msa-0250-10.mp3"
 		},
@@ -111,7 +111,7 @@
 			"English": "That's not what I meant by \"do something.\"",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هذا ليس ما قصدته &quot;فعل شيئا&quot;.",
 			"Egyptian Arabic Audio": "eca-0250-11.mp3",
 			"Standard Arabic Audio": "msa-0250-11.mp3"
 		},
@@ -121,7 +121,7 @@
 			"English": "Will you do something? Leave me alone.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "سوف تفعل شيئا؟ اتركني وحدي.",
 			"Egyptian Arabic Audio": "eca-0250-12.mp3",
 			"Standard Arabic Audio": "msa-0250-12.mp3"
 		}

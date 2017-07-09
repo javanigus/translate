@@ -9,7 +9,7 @@
 			"English": "He looked at the laundry basket.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "نظر إلى سلة الغسيل.",
 			"Egyptian Arabic Audio": "eca-1537-1.mp3",
 			"Standard Arabic Audio": "msa-1537-1.mp3"
 		},
@@ -18,7 +18,7 @@
 			"English": "It was full of his wife's clothes.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كان مليئا ملابس زوجته.",
 			"Egyptian Arabic Audio": "eca-1537-2.mp3",
 			"Standard Arabic Audio": "msa-1537-2.mp3"
 		},
@@ -27,7 +27,7 @@
 			"English": "She was at work.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كانت في العمل.",
 			"Egyptian Arabic Audio": "eca-1537-3.mp3",
 			"Standard Arabic Audio": "msa-1537-3.mp3"
 		},
@@ -36,7 +36,7 @@
 			"English": "She worked seven days a week.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "عملت سبعة أيام في الأسبوع.",
 			"Egyptian Arabic Audio": "eca-1537-4.mp3",
 			"Standard Arabic Audio": "msa-1537-4.mp3"
 		},
@@ -45,7 +45,7 @@
 			"English": "She was a real estate sales agent.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كانت وكيل مبيعات العقارات.",
 			"Egyptian Arabic Audio": "eca-1537-5.mp3",
 			"Standard Arabic Audio": "msa-1537-5.mp3"
 		},
@@ -54,7 +54,7 @@
 			"English": "She showed apartments to renters every day.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وأظهرت شقق للمستأجرين كل يوم.",
 			"Egyptian Arabic Audio": "eca-1537-6.mp3",
 			"Standard Arabic Audio": "msa-1537-6.mp3"
 		},
@@ -63,7 +63,7 @@
 			"English": "She carried a heavy purse everywhere.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "حملت محفظة ثقيلة في كل مكان.",
 			"Egyptian Arabic Audio": "eca-1537-7.mp3",
 			"Standard Arabic Audio": "msa-1537-7.mp3"
 		},
@@ -72,7 +72,7 @@
 			"English": "Many real estate forms were in her purse.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وكانت العديد من النماذج العقارية في محفظتها.",
 			"Egyptian Arabic Audio": "eca-1537-8.mp3",
 			"Standard Arabic Audio": "msa-1537-8.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "Many keys were in her purse.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وكانت العديد من المفاتيح في محفظتها.",
 			"Egyptian Arabic Audio": "eca-1537-9.mp3",
 			"Standard Arabic Audio": "msa-1537-9.mp3"
 		},
@@ -90,7 +90,7 @@
 			"English": "When she came home, she was tired.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "عندما عادت إلى المنزل، كانت متعبة.",
 			"Egyptian Arabic Audio": "eca-1537-10.mp3",
 			"Standard Arabic Audio": "msa-1537-10.mp3"
 		},
@@ -99,7 +99,7 @@
 			"English": "Her feet hurt.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أقدامها تؤذي.",
 			"Egyptian Arabic Audio": "eca-1537-11.mp3",
 			"Standard Arabic Audio": "msa-1537-11.mp3"
 		},
@@ -108,7 +108,7 @@
 			"English": "Her back hurt.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ظهرها يصب.",
 			"Egyptian Arabic Audio": "eca-1537-12.mp3",
 			"Standard Arabic Audio": "msa-1537-12.mp3"
 		},
@@ -117,7 +117,7 @@
 			"English": "He decided to help his wife.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "قرر مساعدة زوجته.",
 			"Egyptian Arabic Audio": "eca-1537-13.mp3",
 			"Standard Arabic Audio": "msa-1537-13.mp3"
 		},
@@ -126,7 +126,7 @@
 			"English": "He took the laundry basket downstairs to the laundry room.",
 			"Word Count": 10,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أخذ سلة الغسيل في الطابق السفلي لغرفة الغسيل.",
 			"Egyptian Arabic Audio": "eca-1537-14.mp3",
 			"Standard Arabic Audio": "msa-1537-14.mp3"
 		},
@@ -135,7 +135,7 @@
 			"English": "His wife always separated her colored clothes from her white clothes.",
 			"Word Count": 11,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "زوجته دائما فصل ملابسها الملونة من ملابسها البيضاء.",
 			"Egyptian Arabic Audio": "eca-1537-15.mp3",
 			"Standard Arabic Audio": "msa-1537-15.mp3"
 		},
@@ -144,7 +144,7 @@
 			"English": "He didn't do that.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لم يفعل ذلك.",
 			"Egyptian Arabic Audio": "eca-1537-16.mp3",
 			"Standard Arabic Audio": "msa-1537-16.mp3"
 		},
@@ -153,7 +153,7 @@
 			"English": "Why spend extra money? He didn't separate her colored and white clothes.",
 			"Word Count": 12,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لماذا تنفق المزيد من المال؟ لم يفصل ملابسها الملونة والملابس البيضاء.",
 			"Egyptian Arabic Audio": "eca-1537-17.mp3",
 			"Standard Arabic Audio": "msa-1537-17.mp3"
 		},
@@ -162,7 +162,7 @@
 			"English": "He stuffed all her clothes into one washer.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كان يحشو كل ملابسها في غسالة واحدة.",
 			"Egyptian Arabic Audio": "eca-1537-18.mp3",
 			"Standard Arabic Audio": "msa-1537-18.mp3"
 		},
@@ -171,7 +171,7 @@
 			"English": "He selected Hot Wash.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "اختار هوت واش.",
 			"Egyptian Arabic Audio": "eca-1537-19.mp3",
 			"Standard Arabic Audio": "msa-1537-19.mp3"
 		},
@@ -180,7 +180,7 @@
 			"English": "This will make her happy, he thought.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وهذا سيجعلها سعيدة، وقال انه يعتقد.",
 			"Egyptian Arabic Audio": "eca-1537-20.mp3",
 			"Standard Arabic Audio": "msa-1537-20.mp3"
 		},
@@ -189,7 +189,7 @@
 			"English": "A hot wash will kill all the germs.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "والغسل الساخن قتل جميع الجراثيم.",
 			"Egyptian Arabic Audio": "eca-1537-21.mp3",
 			"Standard Arabic Audio": "msa-1537-21.mp3"
 		},
@@ -198,7 +198,7 @@
 			"English": "She hates germs.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "إنها تكره الجراثيم.",
 			"Egyptian Arabic Audio": "eca-1537-22.mp3",
 			"Standard Arabic Audio": "msa-1537-22.mp3"
 		},
@@ -207,7 +207,7 @@
 			"English": "He was proud of himself.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كان فخورا بنفسه.",
 			"Egyptian Arabic Audio": "eca-1537-23.mp3",
 			"Standard Arabic Audio": "msa-1537-23.mp3"
 		}

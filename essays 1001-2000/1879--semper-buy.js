@@ -9,7 +9,7 @@
 			"English": "\"We are always eager and happy to show that we take care of our own,\" said the broadly smiling Chertoff as he presented Reid the medal in front of TV news cameras.",
 			"Word Count": 32,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "&quot;نحن دائما حريصون وسعداء لإظهار أننا نحرص على منطقتنا&quot;، وقال تشيرتوف يبتسم على نطاق واسع كما قدم ريد الميدالية أمام كاميرات الأخبار التلفزيونية.",
 			"Egyptian Arabic Audio": "eca-1879-1.mp3",
 			"Standard Arabic Audio": "msa-1879-1.mp3"
 		},
@@ -18,7 +18,7 @@
 			"English": "\"Thank you so much for your service to your country.",
 			"Word Count": 10,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "&quot;شكرا جزيلا على خدمتكم لبلدكم.",
 			"Egyptian Arabic Audio": "eca-1879-2.mp3",
 			"Standard Arabic Audio": "msa-1879-2.mp3"
 		},
@@ -27,7 +27,7 @@
 			"English": "\".",
 			"Word Count": 1,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "&quot;.",
 			"Egyptian Arabic Audio": "eca-1879-3.mp3",
 			"Standard Arabic Audio": "msa-1879-3.mp3"
 		}

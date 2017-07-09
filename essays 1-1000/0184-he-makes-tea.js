@@ -9,7 +9,7 @@
 			"English": "He pours water in a pot.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يصب الماء في وعاء.",
 			"Egyptian Arabic Audio": "eca-0184-1.mp3",
 			"Standard Arabic Audio": "msa-0184-1.mp3"
 		},
@@ -18,7 +18,7 @@
 			"English": "He puts the pot on the stove.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يضع وعاء على الموقد.",
 			"Egyptian Arabic Audio": "eca-0184-2.mp3",
 			"Standard Arabic Audio": "msa-0184-2.mp3"
 		},
@@ -27,7 +27,7 @@
 			"English": "He turns up the heat.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انه يتحول حتى الحرارة.",
 			"Egyptian Arabic Audio": "eca-0184-3.mp3",
 			"Standard Arabic Audio": "msa-0184-3.mp3"
 		},
@@ -36,7 +36,7 @@
 			"English": "He waits for five minutes.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ينتظر لمدة خمس دقائق.",
 			"Egyptian Arabic Audio": "eca-0184-4.mp3",
 			"Standard Arabic Audio": "msa-0184-4.mp3"
 		},
@@ -45,7 +45,7 @@
 			"English": "The water is boiling hot.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "الماء يغلي حار.",
 			"Egyptian Arabic Audio": "eca-0184-5.mp3",
 			"Standard Arabic Audio": "msa-0184-5.mp3"
 		},
@@ -54,7 +54,7 @@
 			"English": "He pours the water into a mug.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يصب الماء في القدح.",
 			"Egyptian Arabic Audio": "eca-0184-6.mp3",
 			"Standard Arabic Audio": "msa-0184-6.mp3"
 		},
@@ -63,7 +63,7 @@
 			"English": "He puts a tea packet inside.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يضع علبة شاي في الداخل.",
 			"Egyptian Arabic Audio": "eca-0184-7.mp3",
 			"Standard Arabic Audio": "msa-0184-7.mp3"
 		},
@@ -72,7 +72,7 @@
 			"English": "The liquid turns green.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يتحول السائل إلى اللون الأخضر.",
 			"Egyptian Arabic Audio": "eca-0184-8.mp3",
 			"Standard Arabic Audio": "msa-0184-8.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "He puts some honey inside.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انه يضع بعض العسل داخل.",
 			"Egyptian Arabic Audio": "eca-0184-9.mp3",
 			"Standard Arabic Audio": "msa-0184-9.mp3"
 		},
@@ -90,7 +90,7 @@
 			"English": "He mixes it with a spoon.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يخلط مع ملعقة.",
 			"Egyptian Arabic Audio": "eca-0184-10.mp3",
 			"Standard Arabic Audio": "msa-0184-10.mp3"
 		}

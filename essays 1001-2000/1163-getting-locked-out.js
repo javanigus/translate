@@ -9,7 +9,7 @@
 			"English": "Betty was in front of her apartment.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كانت بيتي أمام شقتها.",
 			"Egyptian Arabic Audio": "eca-1163-1.mp3",
 			"Standard Arabic Audio": "msa-1163-1.mp3"
 		},
@@ -18,7 +18,7 @@
 			"English": "She had a long day.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كان لها يوم طويل.",
 			"Egyptian Arabic Audio": "eca-1163-2.mp3",
 			"Standard Arabic Audio": "msa-1163-2.mp3"
 		},
@@ -27,7 +27,7 @@
 			"English": "She wanted to take a nap.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أرادت أن تأخذ قيلولة.",
 			"Egyptian Arabic Audio": "eca-1163-3.mp3",
 			"Standard Arabic Audio": "msa-1163-3.mp3"
 		},
@@ -36,7 +36,7 @@
 			"English": "She looked for her key in her bag.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "بحثت عن مفتاحها في حقيبتها.",
 			"Egyptian Arabic Audio": "eca-1163-4.mp3",
 			"Standard Arabic Audio": "msa-1163-4.mp3"
 		},
@@ -45,7 +45,7 @@
 			"English": "She could not find it.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لم تتمكن من العثور عليه.",
 			"Egyptian Arabic Audio": "eca-1163-5.mp3",
 			"Standard Arabic Audio": "msa-1163-5.mp3"
 		},
@@ -54,7 +54,7 @@
 			"English": "She realized that she left it at school.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أدركت أنها تركتها في المدرسة.",
 			"Egyptian Arabic Audio": "eca-1163-6.mp3",
 			"Standard Arabic Audio": "msa-1163-6.mp3"
 		},
@@ -63,7 +63,7 @@
 			"English": "School was closed now.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "تم إغلاق المدرسة الآن.",
 			"Egyptian Arabic Audio": "eca-1163-7.mp3",
 			"Standard Arabic Audio": "msa-1163-7.mp3"
 		},
@@ -72,7 +72,7 @@
 			"English": "She could only get her keys tomorrow.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لم تتمكن من الحصول على مفاتيحها إلا غدا.",
 			"Egyptian Arabic Audio": "eca-1163-8.mp3",
 			"Standard Arabic Audio": "msa-1163-8.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "She knocked on the door.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انها طرقت على الباب.",
 			"Egyptian Arabic Audio": "eca-1163-9.mp3",
 			"Standard Arabic Audio": "msa-1163-9.mp3"
 		},
@@ -90,7 +90,7 @@
 			"English": "Nobody answered.",
 			"Word Count": 2,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لا احد يجيب.",
 			"Egyptian Arabic Audio": "eca-1163-10.mp3",
 			"Standard Arabic Audio": "msa-1163-10.mp3"
 		},
@@ -99,7 +99,7 @@
 			"English": "She called her roommate.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "اتصلت بزميلتها.",
 			"Egyptian Arabic Audio": "eca-1163-11.mp3",
 			"Standard Arabic Audio": "msa-1163-11.mp3"
 		},
@@ -108,7 +108,7 @@
 			"English": "\"Hey, when are you coming home?\" Betty asked.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "&quot;مهلا، متى أنت ذاهب إلى البيت؟&quot; سأل بيتي.",
 			"Egyptian Arabic Audio": "eca-1163-12.mp3",
 			"Standard Arabic Audio": "msa-1163-12.mp3"
 		},
@@ -117,7 +117,7 @@
 			"English": "\"Tomorrow morning,\" her roommate said.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "&quot;صباح الغد&quot;، قال رفيقها.",
 			"Egyptian Arabic Audio": "eca-1163-13.mp3",
 			"Standard Arabic Audio": "msa-1163-13.mp3"
 		},
@@ -126,7 +126,7 @@
 			"English": "Betty called her other roommate.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ودعا بيتي لها زميل الغرفة الأخرى.",
 			"Egyptian Arabic Audio": "eca-1163-14.mp3",
 			"Standard Arabic Audio": "msa-1163-14.mp3"
 		},
@@ -135,7 +135,7 @@
 			"English": "Suddenly, Betty's phone ran out of battery.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "فجأة، نفاد هاتف بيتي من البطارية.",
 			"Egyptian Arabic Audio": "eca-1163-15.mp3",
 			"Standard Arabic Audio": "msa-1163-15.mp3"
 		},
@@ -144,7 +144,7 @@
 			"English": "She got so mad.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وقالت انها حصلت على جنون لذلك.",
 			"Egyptian Arabic Audio": "eca-1163-16.mp3",
 			"Standard Arabic Audio": "msa-1163-16.mp3"
 		},
@@ -153,7 +153,7 @@
 			"English": "She decided to sleep over at her neighbor's place.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وقررت النوم في مكان جارها.",
 			"Egyptian Arabic Audio": "eca-1163-17.mp3",
 			"Standard Arabic Audio": "msa-1163-17.mp3"
 		}

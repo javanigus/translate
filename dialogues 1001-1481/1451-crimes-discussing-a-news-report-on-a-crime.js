@@ -11,7 +11,7 @@
 			"English": "Have you seen the news today?",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هل رأيت الأخبار اليوم؟",
 			"Egyptian Arabic Audio": "eca-1451-1.mp3",
 			"Standard Arabic Audio": "msa-1451-1.mp3"
 		},
@@ -21,7 +21,7 @@
 			"English": "Not yet. What happened?",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ليس بعد. ماذا حدث؟",
 			"Egyptian Arabic Audio": "eca-1451-2.mp3",
 			"Standard Arabic Audio": "msa-1451-2.mp3"
 		},
@@ -31,7 +31,7 @@
 			"English": "Did you know there was a blackout last night?",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هل تعلم أن هناك تعتيم الليلة الماضية؟",
 			"Egyptian Arabic Audio": "eca-1451-3.mp3",
 			"Standard Arabic Audio": "msa-1451-3.mp3"
 		},
@@ -41,7 +41,7 @@
 			"English": "Yes, I heard the lights were out all night.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "نعم، سمعت الأضواء كانت خارج كل ليلة.",
 			"Egyptian Arabic Audio": "eca-1451-4.mp3",
 			"Standard Arabic Audio": "msa-1451-4.mp3"
 		},
@@ -51,7 +51,7 @@
 			"English": "Some people decided to loot last night.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "بعض الناس قرر نهب الليلة الماضية.",
 			"Egyptian Arabic Audio": "eca-1451-5.mp3",
 			"Standard Arabic Audio": "msa-1451-5.mp3"
 		},
@@ -61,7 +61,7 @@
 			"English": "I don't understand.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنا لا أفهم.",
 			"Egyptian Arabic Audio": "eca-1451-6.mp3",
 			"Standard Arabic Audio": "msa-1451-6.mp3"
 		},
@@ -71,7 +71,7 @@
 			"English": "They took advantage of the blackout.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "استغلوا التعتيم.",
 			"Egyptian Arabic Audio": "eca-1451-7.mp3",
 			"Standard Arabic Audio": "msa-1451-7.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "They really started looting?",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنها بدأت حقا النهب؟",
 			"Egyptian Arabic Audio": "eca-1451-8.mp3",
 			"Standard Arabic Audio": "msa-1451-8.mp3"
 		},
@@ -91,7 +91,7 @@
 			"English": "Yes, apparently four stores were broken into.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "نعم، على ما يبدو تم تقسيم أربعة مخازن إلى.",
 			"Egyptian Arabic Audio": "eca-1451-9.mp3",
 			"Standard Arabic Audio": "msa-1451-9.mp3"
 		},
@@ -101,7 +101,7 @@
 			"English": "Did the looters get caught?",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هل تم القبض على اللصوص؟",
 			"Egyptian Arabic Audio": "eca-1451-10.mp3",
 			"Standard Arabic Audio": "msa-1451-10.mp3"
 		},
@@ -111,7 +111,7 @@
 			"English": "There was no evidence of who did it.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لم يكن هناك دليل على من فعل ذلك.",
 			"Egyptian Arabic Audio": "eca-1451-11.mp3",
 			"Standard Arabic Audio": "msa-1451-11.mp3"
 		},
@@ -121,7 +121,7 @@
 			"English": "Hopefully we won't have any more blackouts.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "نأمل أننا لن يكون لها أي انقطاع التيار الكهربائي.",
 			"Egyptian Arabic Audio": "eca-1451-12.mp3",
 			"Standard Arabic Audio": "msa-1451-12.mp3"
 		},
@@ -131,7 +131,7 @@
 			"English": "Did you see the news today?",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هل رأيت الأخبار اليوم؟",
 			"Egyptian Arabic Audio": "eca-1451-13.mp3",
 			"Standard Arabic Audio": "msa-1451-13.mp3"
 		},
@@ -141,7 +141,7 @@
 			"English": "I haven't had a chance to see it.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لم تتح لي الفرصة لرؤيتها.",
 			"Egyptian Arabic Audio": "eca-1451-14.mp3",
 			"Standard Arabic Audio": "msa-1451-14.mp3"
 		},
@@ -151,7 +151,7 @@
 			"English": "You know about the blackout last night, right?",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنت تعرف عن التعتيم الليلة الماضية، أليس كذلك؟",
 			"Egyptian Arabic Audio": "eca-1451-15.mp3",
 			"Standard Arabic Audio": "msa-1451-15.mp3"
 		},
@@ -161,7 +161,7 @@
 			"English": "The lights were out everywhere.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كانت الأضواء في كل مكان.",
 			"Egyptian Arabic Audio": "eca-1451-16.mp3",
 			"Standard Arabic Audio": "msa-1451-16.mp3"
 		},
@@ -171,7 +171,7 @@
 			"English": "A bunch of people went looting last night.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ذهبت مجموعة من الناس نهب الليلة الماضية.",
 			"Egyptian Arabic Audio": "eca-1451-17.mp3",
 			"Standard Arabic Audio": "msa-1451-17.mp3"
 		},
@@ -181,7 +181,7 @@
 			"English": "They what?",
 			"Word Count": 2,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ماذا؟",
 			"Egyptian Arabic Audio": "eca-1451-18.mp3",
 			"Standard Arabic Audio": "msa-1451-18.mp3"
 		},
@@ -191,7 +191,7 @@
 			"English": "They took full advantage of the lights being out.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "استفادوا تماما من أضواء يجري بها.",
 			"Egyptian Arabic Audio": "eca-1451-19.mp3",
 			"Standard Arabic Audio": "msa-1451-19.mp3"
 		},
@@ -201,7 +201,7 @@
 			"English": "That's crazy.",
 			"Word Count": 2,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هذا جنون.",
 			"Egyptian Arabic Audio": "eca-1451-20.mp3",
 			"Standard Arabic Audio": "msa-1451-20.mp3"
 		},
@@ -211,7 +211,7 @@
 			"English": "The news reported that four stores were broken into.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وأفادت الأنباء أن أربعة مخازن تم كسرها.",
 			"Egyptian Arabic Audio": "eca-1451-21.mp3",
 			"Standard Arabic Audio": "msa-1451-21.mp3"
 		},
@@ -221,7 +221,7 @@
 			"English": "Were the looters found?",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هل وجد اللصوص؟",
 			"Egyptian Arabic Audio": "eca-1451-22.mp3",
 			"Standard Arabic Audio": "msa-1451-22.mp3"
 		},
@@ -231,7 +231,7 @@
 			"English": "The police don't know who did it.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "الشرطة لا تعرف من فعل ذلك.",
 			"Egyptian Arabic Audio": "eca-1451-23.mp3",
 			"Standard Arabic Audio": "msa-1451-23.mp3"
 		},
@@ -241,7 +241,7 @@
 			"English": "I hope this doesn't happen again.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "آمل أن لا يحدث ذلك مرة أخرى.",
 			"Egyptian Arabic Audio": "eca-1451-24.mp3",
 			"Standard Arabic Audio": "msa-1451-24.mp3"
 		},
@@ -251,7 +251,7 @@
 			"English": "Have you watched today's news?",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هل شاهدت أخبار اليوم؟",
 			"Egyptian Arabic Audio": "eca-1451-25.mp3",
 			"Standard Arabic Audio": "msa-1451-25.mp3"
 		},
@@ -261,7 +261,7 @@
 			"English": "No, I haven't. What's going on?",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لا، لم أفعل ذلك. ماذا يحدث هنا؟",
 			"Egyptian Arabic Audio": "eca-1451-26.mp3",
 			"Standard Arabic Audio": "msa-1451-26.mp3"
 		},
@@ -271,7 +271,7 @@
 			"English": "Did you hear about last night's blackout?",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هل سمعت عن تعتيم الليلة الماضية؟",
 			"Egyptian Arabic Audio": "eca-1451-27.mp3",
 			"Standard Arabic Audio": "msa-1451-27.mp3"
 		},
@@ -281,7 +281,7 @@
 			"English": "Yes. The lights were out all night.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "نعم فعلا. كانت أضواء خارج كل ليلة.",
 			"Egyptian Arabic Audio": "eca-1451-28.mp3",
 			"Standard Arabic Audio": "msa-1451-28.mp3"
 		},
@@ -291,7 +291,7 @@
 			"English": "Some people went looting because of the blackout.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "بعض الناس ذهبوا نهب بسبب التعتيم.",
 			"Egyptian Arabic Audio": "eca-1451-29.mp3",
 			"Standard Arabic Audio": "msa-1451-29.mp3"
 		},
@@ -301,7 +301,7 @@
 			"English": "What do you mean?",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ماذا تعني؟",
 			"Egyptian Arabic Audio": "eca-1451-30.mp3",
 			"Standard Arabic Audio": "msa-1451-30.mp3"
 		},
@@ -311,7 +311,7 @@
 			"English": "People decided to use the blackout to their advantage.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "قرر الناس استخدام التعتيم لصالحهم.",
 			"Egyptian Arabic Audio": "eca-1451-31.mp3",
 			"Standard Arabic Audio": "msa-1451-31.mp3"
 		},
@@ -321,7 +321,7 @@
 			"English": "People went out and looted?",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "خرج الناس ونهبوا؟",
 			"Egyptian Arabic Audio": "eca-1451-32.mp3",
 			"Standard Arabic Audio": "msa-1451-32.mp3"
 		},
@@ -331,7 +331,7 @@
 			"English": "I guess they broke into about four stores.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أعتقد أنها اقتحمت حوالي أربعة مخازن.",
 			"Egyptian Arabic Audio": "eca-1451-33.mp3",
 			"Standard Arabic Audio": "msa-1451-33.mp3"
 		},
@@ -341,7 +341,7 @@
 			"English": "Did the police find who did it?",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هل وجدت الشرطة من فعل ذلك؟",
 			"Egyptian Arabic Audio": "eca-1451-34.mp3",
 			"Standard Arabic Audio": "msa-1451-34.mp3"
 		},
@@ -351,7 +351,7 @@
 			"English": "There's no evidence of who it was.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ليس هناك دليل على من كان.",
 			"Egyptian Arabic Audio": "eca-1451-35.mp3",
 			"Standard Arabic Audio": "msa-1451-35.mp3"
 		},
@@ -361,7 +361,7 @@
 			"English": "I hope we don't have any more blackouts.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "آمل ألا يكون لدينا المزيد من انقطاع التيار الكهربائي.",
 			"Egyptian Arabic Audio": "eca-1451-36.mp3",
 			"Standard Arabic Audio": "msa-1451-36.mp3"
 		}

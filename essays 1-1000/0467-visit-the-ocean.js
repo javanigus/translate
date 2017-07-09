@@ -9,7 +9,7 @@
 			"English": "Dad took Beth to the ocean.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أخذ أبي بيث إلى المحيط.",
 			"Egyptian Arabic Audio": "eca-0467-1.mp3",
 			"Standard Arabic Audio": "msa-0467-1.mp3"
 		},
@@ -18,7 +18,7 @@
 			"English": "This was her first visit to the ocean.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وكانت هذه أول زيارة لها إلى المحيط.",
 			"Egyptian Arabic Audio": "eca-0467-2.mp3",
 			"Standard Arabic Audio": "msa-0467-2.mp3"
 		},
@@ -27,7 +27,7 @@
 			"English": "This was her first visit to the beach.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كانت هذه أول زيارة لها إلى الشاطئ.",
 			"Egyptian Arabic Audio": "eca-0467-3.mp3",
 			"Standard Arabic Audio": "msa-0467-3.mp3"
 		},
@@ -36,7 +36,7 @@
 			"English": "This was the first time she saw the sandy beach.",
 			"Word Count": 10,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كانت هذه المرة الأولى التي ترى فيها الشاطئ الرملي.",
 			"Egyptian Arabic Audio": "eca-0467-4.mp3",
 			"Standard Arabic Audio": "msa-0467-4.mp3"
 		},
@@ -45,7 +45,7 @@
 			"English": "She loved the sand.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أحببت الرمال.",
 			"Egyptian Arabic Audio": "eca-0467-5.mp3",
 			"Standard Arabic Audio": "msa-0467-5.mp3"
 		},
@@ -54,7 +54,7 @@
 			"English": "She dug holes in the sand.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "حفرت ثقوب في الرمال.",
 			"Egyptian Arabic Audio": "eca-0467-6.mp3",
 			"Standard Arabic Audio": "msa-0467-6.mp3"
 		},
@@ -63,7 +63,7 @@
 			"English": "She filled up the holes.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ملأت الثقوب.",
 			"Egyptian Arabic Audio": "eca-0467-7.mp3",
 			"Standard Arabic Audio": "msa-0467-7.mp3"
 		},
@@ -72,7 +72,7 @@
 			"English": "She held the sand in her hands.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وقالت انها عقدت الرمال في يديها.",
 			"Egyptian Arabic Audio": "eca-0467-8.mp3",
 			"Standard Arabic Audio": "msa-0467-8.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "She dropped the sand out of her hands.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أسقطت الرمال من يديها.",
 			"Egyptian Arabic Audio": "eca-0467-9.mp3",
 			"Standard Arabic Audio": "msa-0467-9.mp3"
 		},
@@ -90,7 +90,7 @@
 			"English": "She picked up the sand.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "التقطت الرمال.",
 			"Egyptian Arabic Audio": "eca-0467-10.mp3",
 			"Standard Arabic Audio": "msa-0467-10.mp3"
 		},
@@ -99,7 +99,7 @@
 			"English": "She threw the sand.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ألقت الرمال.",
 			"Egyptian Arabic Audio": "eca-0467-11.mp3",
 			"Standard Arabic Audio": "msa-0467-11.mp3"
 		},
@@ -108,7 +108,7 @@
 			"English": "Her dad picked her up.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "الوجه الصفع والدها التقط لها.",
 			"Egyptian Arabic Audio": "eca-0467-12.mp3",
 			"Standard Arabic Audio": "msa-0467-12.mp3"
 		},
@@ -117,7 +117,7 @@
 			"English": "She held onto him.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وقالت انها عقدت عليه.",
 			"Egyptian Arabic Audio": "eca-0467-13.mp3",
 			"Standard Arabic Audio": "msa-0467-13.mp3"
 		},
@@ -126,7 +126,7 @@
 			"English": "He carried her to the edge of the water.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "حملها إلى حافة الماء.",
 			"Egyptian Arabic Audio": "eca-0467-14.mp3",
 			"Standard Arabic Audio": "msa-0467-14.mp3"
 		},
@@ -135,7 +135,7 @@
 			"English": "He held both her hands.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وقال انه عقد بكلتا يديه.",
 			"Egyptian Arabic Audio": "eca-0467-15.mp3",
 			"Standard Arabic Audio": "msa-0467-15.mp3"
 		},
@@ -144,7 +144,7 @@
 			"English": "He let her stand in the water.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وقال انه ترك لها الوقوف في الماء.",
 			"Egyptian Arabic Audio": "eca-0467-16.mp3",
 			"Standard Arabic Audio": "msa-0467-16.mp3"
 		},
@@ -153,7 +153,7 @@
 			"English": "Her feet got wet.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أقدامها حصلت على الرطب.",
 			"Egyptian Arabic Audio": "eca-0467-17.mp3",
 			"Standard Arabic Audio": "msa-0467-17.mp3"
 		},
@@ -162,7 +162,7 @@
 			"English": "She stood in the water.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وقفت في الماء.",
 			"Egyptian Arabic Audio": "eca-0467-18.mp3",
 			"Standard Arabic Audio": "msa-0467-18.mp3"
 		},
@@ -171,7 +171,7 @@
 			"English": "She watched the water cover her feet.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "شاهدت غطاء الماء قدميها.",
 			"Egyptian Arabic Audio": "eca-0467-19.mp3",
 			"Standard Arabic Audio": "msa-0467-19.mp3"
 		},
@@ -180,7 +180,7 @@
 			"English": "She bent down.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انها عازمة.",
 			"Egyptian Arabic Audio": "eca-0467-20.mp3",
 			"Standard Arabic Audio": "msa-0467-20.mp3"
 		},
@@ -189,7 +189,7 @@
 			"English": "She picked up some wet sand.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "التقطت بعض الرمل الرطب.",
 			"Egyptian Arabic Audio": "eca-0467-21.mp3",
 			"Standard Arabic Audio": "msa-0467-21.mp3"
 		},
@@ -198,7 +198,7 @@
 			"English": "She threw the wet sand.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ألقت الرمل الرطب.",
 			"Egyptian Arabic Audio": "eca-0467-22.mp3",
 			"Standard Arabic Audio": "msa-0467-22.mp3"
 		},
@@ -207,7 +207,7 @@
 			"English": "She sat down in the water.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "جلست في الماء.",
 			"Egyptian Arabic Audio": "eca-0467-23.mp3",
 			"Standard Arabic Audio": "msa-0467-23.mp3"
 		},
@@ -216,7 +216,7 @@
 			"English": "She dug holes in the wet sand.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "حفرت ثقوب في الرمل الرطب.",
 			"Egyptian Arabic Audio": "eca-0467-24.mp3",
 			"Standard Arabic Audio": "msa-0467-24.mp3"
 		},
@@ -225,7 +225,7 @@
 			"English": "Dad sat down next to her.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أبي جلس إلى جانبها.",
 			"Egyptian Arabic Audio": "eca-0467-25.mp3",
 			"Standard Arabic Audio": "msa-0467-25.mp3"
 		}

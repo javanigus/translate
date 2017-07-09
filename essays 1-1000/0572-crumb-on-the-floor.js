@@ -9,7 +9,7 @@
 			"English": "She eats a Granola Bar.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "تأكل حانة غرانولا.",
 			"Egyptian Arabic Audio": "eca-0572-1.mp3",
 			"Standard Arabic Audio": "msa-0572-1.mp3"
 		},
@@ -18,7 +18,7 @@
 			"English": "She drops a crumb in the kitchen.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انها تسقط فتات في المطبخ.",
 			"Egyptian Arabic Audio": "eca-0572-2.mp3",
 			"Standard Arabic Audio": "msa-0572-2.mp3"
 		},
@@ -27,7 +27,7 @@
 			"English": "She does not realize it.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انها لا تدرك ذلك.",
 			"Egyptian Arabic Audio": "eca-0572-3.mp3",
 			"Standard Arabic Audio": "msa-0572-3.mp3"
 		},
@@ -36,7 +36,7 @@
 			"English": "She goes to watch a movie.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "تذهب لمشاهدة فيلم.",
 			"Egyptian Arabic Audio": "eca-0572-4.mp3",
 			"Standard Arabic Audio": "msa-0572-4.mp3"
 		},
@@ -45,7 +45,7 @@
 			"English": "She comes back to the kitchen.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انها تعود الى المطبخ.",
 			"Egyptian Arabic Audio": "eca-0572-5.mp3",
 			"Standard Arabic Audio": "msa-0572-5.mp3"
 		},
@@ -54,7 +54,7 @@
 			"English": "She sees many ants.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ترى العديد من النمل.",
 			"Egyptian Arabic Audio": "eca-0572-6.mp3",
 			"Standard Arabic Audio": "msa-0572-6.mp3"
 		},
@@ -63,7 +63,7 @@
 			"English": "The ants are all near the crumb.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "النمل كلها بالقرب من الفتات.",
 			"Egyptian Arabic Audio": "eca-0572-7.mp3",
 			"Standard Arabic Audio": "msa-0572-7.mp3"
 		},
@@ -72,7 +72,7 @@
 			"English": "She gets a broom.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انها تحصل على مكنسة.",
 			"Egyptian Arabic Audio": "eca-0572-8.mp3",
 			"Standard Arabic Audio": "msa-0572-8.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "She sweeps the ants and the crumb away.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انها تجتاح النمل والفتات.",
 			"Egyptian Arabic Audio": "eca-0572-9.mp3",
 			"Standard Arabic Audio": "msa-0572-9.mp3"
 		}

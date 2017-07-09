@@ -9,7 +9,7 @@
 			"English": "He likes to color.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يحب اللون.",
 			"Egyptian Arabic Audio": "eca-0331-1.mp3",
 			"Standard Arabic Audio": "msa-0331-1.mp3"
 		},
@@ -18,7 +18,7 @@
 			"English": "He colors with his crayons.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انه الألوان مع الطباشير الملون له.",
 			"Egyptian Arabic Audio": "eca-0331-2.mp3",
 			"Standard Arabic Audio": "msa-0331-2.mp3"
 		},
@@ -27,7 +27,7 @@
 			"English": "His crayon box has many crayons.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "صندوقه للتلوين يحتوي على العديد من الطباشير الملون.",
 			"Egyptian Arabic Audio": "eca-0331-3.mp3",
 			"Standard Arabic Audio": "msa-0331-3.mp3"
 		},
@@ -36,7 +36,7 @@
 			"English": "Each crayon is a different color.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كل تلوين هو لون مختلف.",
 			"Egyptian Arabic Audio": "eca-0331-4.mp3",
 			"Standard Arabic Audio": "msa-0331-4.mp3"
 		},
@@ -45,7 +45,7 @@
 			"English": "He opens his coloring book.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انه يفتح كتاب التلوين له.",
 			"Egyptian Arabic Audio": "eca-0331-5.mp3",
 			"Standard Arabic Audio": "msa-0331-5.mp3"
 		},
@@ -54,7 +54,7 @@
 			"English": "His favorite color is red.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لونه المفضل هو الأحمر.",
 			"Egyptian Arabic Audio": "eca-0331-6.mp3",
 			"Standard Arabic Audio": "msa-0331-6.mp3"
 		},
@@ -63,7 +63,7 @@
 			"English": "He colors the trees dark red.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وهو يلون الأشجار الحمراء الداكنة.",
 			"Egyptian Arabic Audio": "eca-0331-7.mp3",
 			"Standard Arabic Audio": "msa-0331-7.mp3"
 		},
@@ -72,7 +72,7 @@
 			"English": "He colors the cats light red.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انه ألوان القطط الضوء الأحمر.",
 			"Egyptian Arabic Audio": "eca-0331-8.mp3",
 			"Standard Arabic Audio": "msa-0331-8.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "He colors the sidewalks medium red.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وهو يرسم الرصيف الأحمر المتوسط.",
 			"Egyptian Arabic Audio": "eca-0331-9.mp3",
 			"Standard Arabic Audio": "msa-0331-9.mp3"
 		},
@@ -90,7 +90,7 @@
 			"English": "His mom buys extra red crayons for him.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أمي تشتري الطباشير الحمراء إضافية بالنسبة له.",
 			"Egyptian Arabic Audio": "eca-0331-10.mp3",
 			"Standard Arabic Audio": "msa-0331-10.mp3"
 		}

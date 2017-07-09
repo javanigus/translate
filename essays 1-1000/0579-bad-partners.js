@@ -9,7 +9,7 @@
 			"English": "Mr Green wants his students to work together on a project.",
 			"Word Count": 11,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "السيد غرين يريد طلابه للعمل معا على مشروع.",
 			"Egyptian Arabic Audio": "eca-0579-1.mp3",
 			"Standard Arabic Audio": "msa-0579-1.mp3"
 		},
@@ -18,7 +18,7 @@
 			"English": "Anthony, Brian, and Carol are all in one group.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنتوني، بريان، وكارول كلها في مجموعة واحدة.",
 			"Egyptian Arabic Audio": "eca-0579-2.mp3",
 			"Standard Arabic Audio": "msa-0579-2.mp3"
 		},
@@ -27,7 +27,7 @@
 			"English": "Anthony is lazy.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنتوني كسول.",
 			"Egyptian Arabic Audio": "eca-0579-3.mp3",
 			"Standard Arabic Audio": "msa-0579-3.mp3"
 		},
@@ -36,7 +36,7 @@
 			"English": "He does not do anything.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انه لا يفعل أي شيء.",
 			"Egyptian Arabic Audio": "eca-0579-4.mp3",
 			"Standard Arabic Audio": "msa-0579-4.mp3"
 		},
@@ -45,7 +45,7 @@
 			"English": "Brian and Carol have to do all the work.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "بريان وكارول يجب أن تفعل كل عمل.",
 			"Egyptian Arabic Audio": "eca-0579-5.mp3",
 			"Standard Arabic Audio": "msa-0579-5.mp3"
 		},
@@ -54,7 +54,7 @@
 			"English": "They cannot finish.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لا يمكن الانتهاء.",
 			"Egyptian Arabic Audio": "eca-0579-6.mp3",
 			"Standard Arabic Audio": "msa-0579-6.mp3"
 		},
@@ -63,7 +63,7 @@
 			"English": "Mr.",
 			"Word Count": 1,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "السيد",
 			"Egyptian Arabic Audio": "eca-0579-7.mp3",
 			"Standard Arabic Audio": "msa-0579-7.mp3"
 		},
@@ -72,7 +72,7 @@
 			"English": "Green is upset.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "الأخضر مستاء.",
 			"Egyptian Arabic Audio": "eca-0579-8.mp3",
 			"Standard Arabic Audio": "msa-0579-8.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "Brian and Carol tell Mr.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يقول بريان وكارول السيد",
 			"Egyptian Arabic Audio": "eca-0579-9.mp3",
 			"Standard Arabic Audio": "msa-0579-9.mp3"
 		},
@@ -90,7 +90,7 @@
 			"English": "Green that Anthony didn't do anything.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "الأخضر أن أنتوني لم تفعل أي شيء.",
 			"Egyptian Arabic Audio": "eca-0579-10.mp3",
 			"Standard Arabic Audio": "msa-0579-10.mp3"
 		},
@@ -99,7 +99,7 @@
 			"English": "Mr.",
 			"Word Count": 1,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "السيد",
 			"Egyptian Arabic Audio": "eca-0579-11.mp3",
 			"Standard Arabic Audio": "msa-0579-11.mp3"
 		},
@@ -108,7 +108,7 @@
 			"English": "Green gives them one more day to finish.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "الأخضر يعطيهم يوم واحد آخر لإنهاء.",
 			"Egyptian Arabic Audio": "eca-0579-12.mp3",
 			"Standard Arabic Audio": "msa-0579-12.mp3"
 		}

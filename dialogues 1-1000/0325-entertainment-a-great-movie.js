@@ -11,7 +11,7 @@
 			"English": "Did you see \"Titanic\"?",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هل رأيت &quot;تيتانيك&quot;؟",
 			"Egyptian Arabic Audio": "eca-0325-1.mp3",
 			"Standard Arabic Audio": "msa-0325-1.mp3"
 		},
@@ -21,7 +21,7 @@
 			"English": "Yes. It is a great movie.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "نعم فعلا. انه فيلم رائع.",
 			"Egyptian Arabic Audio": "eca-0325-2.mp3",
 			"Standard Arabic Audio": "msa-0325-2.mp3"
 		},
@@ -31,7 +31,7 @@
 			"English": "I saw it twelve times.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "رأيت ذلك اثنتي عشرة مرة.",
 			"Egyptian Arabic Audio": "eca-0325-3.mp3",
 			"Standard Arabic Audio": "msa-0325-3.mp3"
 		},
@@ -41,7 +41,7 @@
 			"English": "I saw it eight times.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "رأيت ذلك ثماني مرات.",
 			"Egyptian Arabic Audio": "eca-0325-4.mp3",
 			"Standard Arabic Audio": "msa-0325-4.mp3"
 		},
@@ -51,7 +51,7 @@
 			"English": "I have the DVD.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لدي دي في دي.",
 			"Egyptian Arabic Audio": "eca-0325-5.mp3",
 			"Standard Arabic Audio": "msa-0325-5.mp3"
 		},
@@ -61,7 +61,7 @@
 			"English": "So do I.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وانا كذلك.",
 			"Egyptian Arabic Audio": "eca-0325-6.mp3",
 			"Standard Arabic Audio": "msa-0325-6.mp3"
 		},
@@ -71,7 +71,7 @@
 			"English": "Let's go to your home.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "دعونا نذهب إلى منزلك.",
 			"Egyptian Arabic Audio": "eca-0325-7.mp3",
 			"Standard Arabic Audio": "msa-0325-7.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "We can watch my DVD.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يمكننا مشاهدة بلدي دفد.",
 			"Egyptian Arabic Audio": "eca-0325-8.mp3",
 			"Standard Arabic Audio": "msa-0325-8.mp3"
 		},
@@ -91,7 +91,7 @@
 			"English": "And then we can go to my home.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وبعد ذلك يمكننا الذهاب إلى بيتي.",
 			"Egyptian Arabic Audio": "eca-0325-9.mp3",
 			"Standard Arabic Audio": "msa-0325-9.mp3"
 		},
@@ -101,7 +101,7 @@
 			"English": "And watch your DVD.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ومشاهدة دفد الخاص بك.",
 			"Egyptian Arabic Audio": "eca-0325-10.mp3",
 			"Standard Arabic Audio": "msa-0325-10.mp3"
 		},
@@ -111,7 +111,7 @@
 			"English": "I always cry at the end.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنا دائما أبكي في النهاية.",
 			"Egyptian Arabic Audio": "eca-0325-11.mp3",
 			"Standard Arabic Audio": "msa-0325-11.mp3"
 		},
@@ -121,7 +121,7 @@
 			"English": "Me too. It's so sad.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنا أيضًا. هذا محزن.",
 			"Egyptian Arabic Audio": "eca-0325-12.mp3",
 			"Standard Arabic Audio": "msa-0325-12.mp3"
 		}

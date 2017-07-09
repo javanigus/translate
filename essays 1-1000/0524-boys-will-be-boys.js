@@ -9,7 +9,7 @@
 			"English": "The two brothers loved each other.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "الشقيقان يحب بعضهما البعض.",
 			"Egyptian Arabic Audio": "eca-0524-1.mp3",
 			"Standard Arabic Audio": "msa-0524-1.mp3"
 		},
@@ -18,7 +18,7 @@
 			"English": "But sometimes they argued with each other.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ولكن في بعض الأحيان جادلوا مع بعضهم البعض.",
 			"Egyptian Arabic Audio": "eca-0524-2.mp3",
 			"Standard Arabic Audio": "msa-0524-2.mp3"
 		},
@@ -27,7 +27,7 @@
 			"English": "Sometimes they yelled at each other.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أحيانا صاحوا على بعضهم البعض.",
 			"Egyptian Arabic Audio": "eca-0524-3.mp3",
 			"Standard Arabic Audio": "msa-0524-3.mp3"
 		},
@@ -36,7 +36,7 @@
 			"English": "Sometimes they pushed each other.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "في بعض الأحيان دفعوا بعضهم البعض.",
 			"Egyptian Arabic Audio": "eca-0524-4.mp3",
 			"Standard Arabic Audio": "msa-0524-4.mp3"
 		},
@@ -45,7 +45,7 @@
 			"English": "Sometimes they hit each other.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أحيانا ضرب بعضها البعض.",
 			"Egyptian Arabic Audio": "eca-0524-5.mp3",
 			"Standard Arabic Audio": "msa-0524-5.mp3"
 		},
@@ -54,7 +54,7 @@
 			"English": "Sometimes they got into a fight with each other.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "في بعض الأحيان أنها دخلت في معركة مع بعضها البعض.",
 			"Egyptian Arabic Audio": "eca-0524-6.mp3",
 			"Standard Arabic Audio": "msa-0524-6.mp3"
 		},
@@ -63,7 +63,7 @@
 			"English": "Bobby was the older brother.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كان بوبي الأخ الأكبر.",
 			"Egyptian Arabic Audio": "eca-0524-7.mp3",
 			"Standard Arabic Audio": "msa-0524-7.mp3"
 		},
@@ -72,7 +72,7 @@
 			"English": "Billy was the younger brother.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كان بيلي الأخ الأصغر.",
 			"Egyptian Arabic Audio": "eca-0524-8.mp3",
 			"Standard Arabic Audio": "msa-0524-8.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "Bobby was older than Billy.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كان بوبي أقدم من بيلي.",
 			"Egyptian Arabic Audio": "eca-0524-9.mp3",
 			"Standard Arabic Audio": "msa-0524-9.mp3"
 		},
@@ -90,7 +90,7 @@
 			"English": "Billy was younger than Bobby.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كان بيلي أصغر من بوبي.",
 			"Egyptian Arabic Audio": "eca-0524-10.mp3",
 			"Standard Arabic Audio": "msa-0524-10.mp3"
 		},
@@ -99,7 +99,7 @@
 			"English": "Bobby climbed into a tree.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "تسلق بوبي إلى شجرة.",
 			"Egyptian Arabic Audio": "eca-0524-11.mp3",
 			"Standard Arabic Audio": "msa-0524-11.mp3"
 		},
@@ -108,7 +108,7 @@
 			"English": "His kite was in the tree.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وكانت طائرة ورقية له في الشجرة.",
 			"Egyptian Arabic Audio": "eca-0524-12.mp3",
 			"Standard Arabic Audio": "msa-0524-12.mp3"
 		},
@@ -117,7 +117,7 @@
 			"English": "He could not reach his kite.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لم يتمكن من الوصول إلى طائرة ورقية له.",
 			"Egyptian Arabic Audio": "eca-0524-13.mp3",
 			"Standard Arabic Audio": "msa-0524-13.mp3"
 		},
@@ -126,7 +126,7 @@
 			"English": "He fell out of the tree.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "سقط من الشجرة.",
 			"Egyptian Arabic Audio": "eca-0524-14.mp3",
 			"Standard Arabic Audio": "msa-0524-14.mp3"
 		},
@@ -135,7 +135,7 @@
 			"English": "Billy laughed.",
 			"Word Count": 2,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ضحك بيلي.",
 			"Egyptian Arabic Audio": "eca-0524-15.mp3",
 			"Standard Arabic Audio": "msa-0524-15.mp3"
 		},
@@ -144,7 +144,7 @@
 			"English": "He laughed when he saw Bobby fall to the ground.",
 			"Word Count": 10,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ضحك عندما رأى سقوط بوبي على الأرض.",
 			"Egyptian Arabic Audio": "eca-0524-16.mp3",
 			"Standard Arabic Audio": "msa-0524-16.mp3"
 		},
@@ -153,7 +153,7 @@
 			"English": "Bobby was not hurt.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لم يصب بوبي.",
 			"Egyptian Arabic Audio": "eca-0524-17.mp3",
 			"Standard Arabic Audio": "msa-0524-17.mp3"
 		},
@@ -162,7 +162,7 @@
 			"English": "But he was angry.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لكنه كان غاضبا.",
 			"Egyptian Arabic Audio": "eca-0524-18.mp3",
 			"Standard Arabic Audio": "msa-0524-18.mp3"
 		},
@@ -171,7 +171,7 @@
 			"English": "\"Why are you laughing?\" he asked Billy.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "&quot;لماذا تضحك؟&quot; سأل بيلي.",
 			"Egyptian Arabic Audio": "eca-0524-19.mp3",
 			"Standard Arabic Audio": "msa-0524-19.mp3"
 		},
@@ -180,7 +180,7 @@
 			"English": "\"That was funny!\" Billy said.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "&quot;كان مسليا!&quot; وقال بيلي.",
 			"Egyptian Arabic Audio": "eca-0524-20.mp3",
 			"Standard Arabic Audio": "msa-0524-20.mp3"
 		},
@@ -189,7 +189,7 @@
 			"English": "Bobby said it wasn't funny.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وقال بوبي أنه لم يكن مضحكا.",
 			"Egyptian Arabic Audio": "eca-0524-21.mp3",
 			"Standard Arabic Audio": "msa-0524-21.mp3"
 		},
@@ -198,7 +198,7 @@
 			"English": "Billy said it was funny.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وقال بيلي كان مضحكا.",
 			"Egyptian Arabic Audio": "eca-0524-22.mp3",
 			"Standard Arabic Audio": "msa-0524-22.mp3"
 		},
@@ -207,7 +207,7 @@
 			"English": "Bobby pushed Billy.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "دفع بوبي بيلي.",
 			"Egyptian Arabic Audio": "eca-0524-23.mp3",
 			"Standard Arabic Audio": "msa-0524-23.mp3"
 		},
@@ -216,7 +216,7 @@
 			"English": "Billy pushed Bobby.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "دفع بيلي بوبي.",
 			"Egyptian Arabic Audio": "eca-0524-24.mp3",
 			"Standard Arabic Audio": "msa-0524-24.mp3"
 		},
@@ -225,7 +225,7 @@
 			"English": "Bobby punched Billy in the stomach.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لكمة بوبي بيلي في المعدة.",
 			"Egyptian Arabic Audio": "eca-0524-25.mp3",
 			"Standard Arabic Audio": "msa-0524-25.mp3"
 		},
@@ -234,7 +234,7 @@
 			"English": "Billy punched Bobby in the stomach.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لكمة بيلي بوبي في المعدة.",
 			"Egyptian Arabic Audio": "eca-0524-26.mp3",
 			"Standard Arabic Audio": "msa-0524-26.mp3"
 		},
@@ -243,7 +243,7 @@
 			"English": "They put their arms around each other.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وضعوا سلاحهم حول بعضهم البعض.",
 			"Egyptian Arabic Audio": "eca-0524-27.mp3",
 			"Standard Arabic Audio": "msa-0524-27.mp3"
 		},
@@ -252,7 +252,7 @@
 			"English": "They wrestled on the ground.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لقد صارعوا على الأرض.",
 			"Egyptian Arabic Audio": "eca-0524-28.mp3",
 			"Standard Arabic Audio": "msa-0524-28.mp3"
 		},
@@ -261,7 +261,7 @@
 			"English": "They rolled around and around.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنها تدحرجت وحولها.",
 			"Egyptian Arabic Audio": "eca-0524-29.mp3",
 			"Standard Arabic Audio": "msa-0524-29.mp3"
 		},
@@ -270,7 +270,7 @@
 			"English": "Their mom came outside.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وجاءت أميهم خارج.",
 			"Egyptian Arabic Audio": "eca-0524-30.mp3",
 			"Standard Arabic Audio": "msa-0524-30.mp3"
 		},
@@ -279,7 +279,7 @@
 			"English": "\"What are you two doing?\" she asked.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "&quot;ماذا تفعلين اثنين؟&quot; هي سألت.",
 			"Egyptian Arabic Audio": "eca-0524-31.mp3",
 			"Standard Arabic Audio": "msa-0524-31.mp3"
 		},
@@ -288,7 +288,7 @@
 			"English": "She separated them.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "فصلت لهم.",
 			"Egyptian Arabic Audio": "eca-0524-32.mp3",
 			"Standard Arabic Audio": "msa-0524-32.mp3"
 		},
@@ -297,7 +297,7 @@
 			"English": "She said, \"You shouldn't hit each other.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وقالت: &quot;يجب أن لا تضرب بعضها البعض.",
 			"Egyptian Arabic Audio": "eca-0524-33.mp3",
 			"Standard Arabic Audio": "msa-0524-33.mp3"
 		},
@@ -306,7 +306,7 @@
 			"English": "That's not nice.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هذا ليس لطيفا.",
 			"Egyptian Arabic Audio": "eca-0524-34.mp3",
 			"Standard Arabic Audio": "msa-0524-34.mp3"
 		},
@@ -315,7 +315,7 @@
 			"English": "Wait till your father gets home.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انتظر حتى يحصل والدك على المنزل.",
 			"Egyptian Arabic Audio": "eca-0524-35.mp3",
 			"Standard Arabic Audio": "msa-0524-35.mp3"
 		},
@@ -324,7 +324,7 @@
 			"English": "\" She sent them to their rooms.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "&quot;أرسلتها إلى غرفهم.",
 			"Egyptian Arabic Audio": "eca-0524-36.mp3",
 			"Standard Arabic Audio": "msa-0524-36.mp3"
 		}

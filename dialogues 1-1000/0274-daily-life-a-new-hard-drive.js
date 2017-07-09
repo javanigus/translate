@@ -11,7 +11,7 @@
 			"English": "I called HP about my computer.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "اتصلت هب بجهاز الكمبيوتر الخاص بي.",
 			"Egyptian Arabic Audio": "eca-0274-1.mp3",
 			"Standard Arabic Audio": "msa-0274-1.mp3"
 		},
@@ -21,7 +21,7 @@
 			"English": "What did they say?",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ماذا قالوا؟",
 			"Egyptian Arabic Audio": "eca-0274-2.mp3",
 			"Standard Arabic Audio": "msa-0274-2.mp3"
 		},
@@ -31,7 +31,7 @@
 			"English": "They said I need a new hard drive.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "قالوا إنني بحاجة إلى محرك صلب جديد.",
 			"Egyptian Arabic Audio": "eca-0274-3.mp3",
 			"Standard Arabic Audio": "msa-0274-3.mp3"
 		},
@@ -41,7 +41,7 @@
 			"English": "That's too bad. How much is a new one?",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هذا أمر سيئ للغاية. كم هو جديد؟",
 			"Egyptian Arabic Audio": "eca-0274-4.mp3",
 			"Standard Arabic Audio": "msa-0274-4.mp3"
 		},
@@ -51,7 +51,7 @@
 			"English": "It's not too much, only about $85.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انها ليست أكثر من اللازم، فقط حوالي 85 $.",
 			"Egyptian Arabic Audio": "eca-0274-5.mp3",
 			"Standard Arabic Audio": "msa-0274-5.mp3"
 		},
@@ -61,7 +61,7 @@
 			"English": "Plus installation?",
 			"Word Count": 2,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "مزيد من التثبيت؟",
 			"Egyptian Arabic Audio": "eca-0274-6.mp3",
 			"Standard Arabic Audio": "msa-0274-6.mp3"
 		},
@@ -71,7 +71,7 @@
 			"English": "No, my hard drive is easy to remove and replace.",
 			"Word Count": 10,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لا، القرص الصلب الخاص بي هو سهل لإزالة واستبدال.",
 			"Egyptian Arabic Audio": "eca-0274-7.mp3",
 			"Standard Arabic Audio": "msa-0274-7.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "Really?",
 			"Word Count": 1,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هل حقا؟",
 			"Egyptian Arabic Audio": "eca-0274-8.mp3",
 			"Standard Arabic Audio": "msa-0274-8.mp3"
 		},
@@ -91,7 +91,7 @@
 			"English": "Yes, it's just a couple of screws.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "نعم، انها مجرد اثنين من مسامير.",
 			"Egyptian Arabic Audio": "eca-0274-9.mp3",
 			"Standard Arabic Audio": "msa-0274-9.mp3"
 		},
@@ -101,7 +101,7 @@
 			"English": "That's nice.",
 			"Word Count": 2,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هذا جيد.",
 			"Egyptian Arabic Audio": "eca-0274-10.mp3",
 			"Standard Arabic Audio": "msa-0274-10.mp3"
 		},
@@ -111,7 +111,7 @@
 			"English": "It's a lot better than paying someone $60.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انها أفضل بكثير من دفع شخص 60 $.",
 			"Egyptian Arabic Audio": "eca-0274-11.mp3",
 			"Standard Arabic Audio": "msa-0274-11.mp3"
 		},
@@ -121,7 +121,7 @@
 			"English": "If my hard drive crashes, I'll just call you.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "إذا تعطل القرص الصلب الخاص بي، وأنا فقط ندعو لك.",
 			"Egyptian Arabic Audio": "eca-0274-12.mp3",
 			"Standard Arabic Audio": "msa-0274-12.mp3"
 		}

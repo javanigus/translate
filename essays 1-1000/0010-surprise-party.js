@@ -9,7 +9,7 @@
 			"English": "It is Lily's birthday.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "إنه عيد ميلاد ليلي.",
 			"Egyptian Arabic Audio": "eca-0010-1.mp3",
 			"Standard Arabic Audio": "msa-0010-1.mp3"
 		},
@@ -18,7 +18,7 @@
 			"English": "She gets out of bed.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وقالت انها تحصل على الخروج من السرير.",
 			"Egyptian Arabic Audio": "eca-0010-2.mp3",
 			"Standard Arabic Audio": "msa-0010-2.mp3"
 		},
@@ -27,7 +27,7 @@
 			"English": "Nobody says anything to her.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لا أحد يقول شيئا لها.",
 			"Egyptian Arabic Audio": "eca-0010-3.mp3",
 			"Standard Arabic Audio": "msa-0010-3.mp3"
 		},
@@ -36,7 +36,7 @@
 			"English": "Her mom takes her to school.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أمها يأخذها إلى المدرسة.",
 			"Egyptian Arabic Audio": "eca-0010-4.mp3",
 			"Standard Arabic Audio": "msa-0010-4.mp3"
 		},
@@ -45,7 +45,7 @@
 			"English": "Her friends do not say anything.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أصدقائها لا يقولون شيئا.",
 			"Egyptian Arabic Audio": "eca-0010-5.mp3",
 			"Standard Arabic Audio": "msa-0010-5.mp3"
 		},
@@ -54,7 +54,7 @@
 			"English": "The teacher does not say anything.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "المعلم لا يقول أي شيء.",
 			"Egyptian Arabic Audio": "eca-0010-6.mp3",
 			"Standard Arabic Audio": "msa-0010-6.mp3"
 		},
@@ -63,7 +63,7 @@
 			"English": "Lily is sad.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "زنبق حزينة.",
 			"Egyptian Arabic Audio": "eca-0010-7.mp3",
 			"Standard Arabic Audio": "msa-0010-7.mp3"
 		},
@@ -72,7 +72,7 @@
 			"English": "Lily walks home alone.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ليلى يمشي المنزل وحده.",
 			"Egyptian Arabic Audio": "eca-0010-8.mp3",
 			"Standard Arabic Audio": "msa-0010-8.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "She opens the door.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "تفتح الباب.",
 			"Egyptian Arabic Audio": "eca-0010-9.mp3",
 			"Standard Arabic Audio": "msa-0010-9.mp3"
 		},
@@ -90,7 +90,7 @@
 			"English": "Her friends and family are holding a cake.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "صديقاتها وعائلتها يحملون كعكة.",
 			"Egyptian Arabic Audio": "eca-0010-10.mp3",
 			"Standard Arabic Audio": "msa-0010-10.mp3"
 		},
@@ -99,7 +99,7 @@
 			"English": "They say, \"Surprise Lily!\".",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يقولون: &quot;مفاجأة ليلى!&quot;.",
 			"Egyptian Arabic Audio": "eca-0010-11.mp3",
 			"Standard Arabic Audio": "msa-0010-11.mp3"
 		}

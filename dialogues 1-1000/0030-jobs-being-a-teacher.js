@@ -11,7 +11,7 @@
 			"English": "What is your job?",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ما طبيعة عملك؟",
 			"Egyptian Arabic Audio": "eca-0030-1.mp3",
 			"Standard Arabic Audio": "msa-0030-1.mp3"
 		},
@@ -21,7 +21,7 @@
 			"English": "I'm a teacher.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انا مدرس.",
 			"Egyptian Arabic Audio": "eca-0030-2.mp3",
 			"Standard Arabic Audio": "msa-0030-2.mp3"
 		},
@@ -31,7 +31,7 @@
 			"English": "What grade do you teach?",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ما الصف الذي تعلمه؟",
 			"Egyptian Arabic Audio": "eca-0030-3.mp3",
 			"Standard Arabic Audio": "msa-0030-3.mp3"
 		},
@@ -41,7 +41,7 @@
 			"English": "I teach 9th graders.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أدرس طلاب الصف التاسع.",
 			"Egyptian Arabic Audio": "eca-0030-4.mp3",
 			"Standard Arabic Audio": "msa-0030-4.mp3"
 		},
@@ -51,7 +51,7 @@
 			"English": "Do you like your job?",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هل تحب عملك؟",
 			"Egyptian Arabic Audio": "eca-0030-5.mp3",
 			"Standard Arabic Audio": "msa-0030-5.mp3"
 		},
@@ -61,7 +61,7 @@
 			"English": "I hate it.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أكرهها.",
 			"Egyptian Arabic Audio": "eca-0030-6.mp3",
 			"Standard Arabic Audio": "msa-0030-6.mp3"
 		},
@@ -71,7 +71,7 @@
 			"English": "What do you hate the most?",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ماذا تكره أكثر؟",
 			"Egyptian Arabic Audio": "eca-0030-7.mp3",
 			"Standard Arabic Audio": "msa-0030-7.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "I hate that they never listen to me.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أكره أنهم لا يستمعون لي.",
 			"Egyptian Arabic Audio": "eca-0030-8.mp3",
 			"Standard Arabic Audio": "msa-0030-8.mp3"
 		},
@@ -91,7 +91,7 @@
 			"English": "You can always punish them.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يمكنك دائما معاقبتهم.",
 			"Egyptian Arabic Audio": "eca-0030-9.mp3",
 			"Standard Arabic Audio": "msa-0030-9.mp3"
 		},
@@ -101,7 +101,7 @@
 			"English": "I hit them.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنا ضربهم.",
 			"Egyptian Arabic Audio": "eca-0030-10.mp3",
 			"Standard Arabic Audio": "msa-0030-10.mp3"
 		},
@@ -111,7 +111,7 @@
 			"English": "You what?!",
 			"Word Count": 2,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انت ماذا؟!",
 			"Egyptian Arabic Audio": "eca-0030-11.mp3",
 			"Standard Arabic Audio": "msa-0030-11.mp3"
 		},
@@ -121,7 +121,7 @@
 			"English": "I'm just kidding!",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنا أمزح!",
 			"Egyptian Arabic Audio": "eca-0030-12.mp3",
 			"Standard Arabic Audio": "msa-0030-12.mp3"
 		}

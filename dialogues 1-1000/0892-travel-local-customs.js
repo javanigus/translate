@@ -11,7 +11,7 @@
 			"English": "Come inside and meet my family.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يأتي داخل وتلبية عائلتي.",
 			"Egyptian Arabic Audio": "eca-0892-1.mp3",
 			"Standard Arabic Audio": "msa-0892-1.mp3"
 		},
@@ -21,7 +21,7 @@
 			"English": "How should I greet them?",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كيف يجب أن أحييهم؟",
 			"Egyptian Arabic Audio": "eca-0892-2.mp3",
 			"Standard Arabic Audio": "msa-0892-2.mp3"
 		},
@@ -31,7 +31,7 @@
 			"English": "They will probably want to hug you.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انهم ربما تريد أن عناق لك.",
 			"Egyptian Arabic Audio": "eca-0892-3.mp3",
 			"Standard Arabic Audio": "msa-0892-3.mp3"
 		},
@@ -41,7 +41,7 @@
 			"English": "That's a little awkward.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هذا أمر محرج بعض الشيء.",
 			"Egyptian Arabic Audio": "eca-0892-4.mp3",
 			"Standard Arabic Audio": "msa-0892-4.mp3"
 		},
@@ -51,7 +51,7 @@
 			"English": "It's just part of their culture.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انها مجرد جزء من ثقافتهم.",
 			"Egyptian Arabic Audio": "eca-0892-5.mp3",
 			"Standard Arabic Audio": "msa-0892-5.mp3"
 		},
@@ -61,7 +61,7 @@
 			"English": "Anything else I should prepare myself for before going in?",
 			"Word Count": 10,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أي شيء آخر يجب أن أعد نفسي قبل الذهاب في؟",
 			"Egyptian Arabic Audio": "eca-0892-6.mp3",
 			"Standard Arabic Audio": "msa-0892-6.mp3"
 		},
@@ -71,7 +71,7 @@
 			"English": "You should accept something to eat or drink even if you are not hungry or thirsty.",
 			"Word Count": 16,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يجب أن تقبل شيئا لتناول الطعام أو الشراب حتى لو كنت لا جائع أو عطشان.",
 			"Egyptian Arabic Audio": "eca-0892-7.mp3",
 			"Standard Arabic Audio": "msa-0892-7.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "Is that part of the custom?",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هل هذا الجزء من العرف؟",
 			"Egyptian Arabic Audio": "eca-0892-8.mp3",
 			"Standard Arabic Audio": "msa-0892-8.mp3"
 		},
@@ -91,7 +91,7 @@
 			"English": "Yes. If you refuse, it is considered very rude.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "نعم فعلا. إذا كنت ترفض، ويعتبر وقحا جدا.",
 			"Egyptian Arabic Audio": "eca-0892-9.mp3",
 			"Standard Arabic Audio": "msa-0892-9.mp3"
 		},
@@ -101,7 +101,7 @@
 			"English": "I don't want to disrespect your family.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنا لا أريد أن تحترم عائلتك.",
 			"Egyptian Arabic Audio": "eca-0892-10.mp3",
 			"Standard Arabic Audio": "msa-0892-10.mp3"
 		},
@@ -111,7 +111,7 @@
 			"English": "You'd better not disrespect them.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كنت أفضل عدم احترامها.",
 			"Egyptian Arabic Audio": "eca-0892-11.mp3",
 			"Standard Arabic Audio": "msa-0892-11.mp3"
 		},
@@ -121,7 +121,7 @@
 			"English": "Don't worry, I'll do you a solid.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لا تقلق، سأفعل لك صلبة.",
 			"Egyptian Arabic Audio": "eca-0892-12.mp3",
 			"Standard Arabic Audio": "msa-0892-12.mp3"
 		}

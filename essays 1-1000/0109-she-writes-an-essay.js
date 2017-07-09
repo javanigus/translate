@@ -9,7 +9,7 @@
 			"English": "She is taking an English class.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وقالت انها تأخذ الطبقة الإنجليزية.",
 			"Egyptian Arabic Audio": "eca-0109-1.mp3",
 			"Standard Arabic Audio": "msa-0109-1.mp3"
 		},
@@ -18,7 +18,7 @@
 			"English": "She has to write an essay.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لديها لكتابة مقال.",
 			"Egyptian Arabic Audio": "eca-0109-2.mp3",
 			"Standard Arabic Audio": "msa-0109-2.mp3"
 		},
@@ -27,7 +27,7 @@
 			"English": "The essay is on penguins.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "مقال على طيور البطريق.",
 			"Egyptian Arabic Audio": "eca-0109-3.mp3",
 			"Standard Arabic Audio": "msa-0109-3.mp3"
 		},
@@ -36,7 +36,7 @@
 			"English": "She finds information on penguins from the Internet.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وهي تجد معلومات عن طيور البطريق من الإنترنت.",
 			"Egyptian Arabic Audio": "eca-0109-4.mp3",
 			"Standard Arabic Audio": "msa-0109-4.mp3"
 		},
@@ -45,7 +45,7 @@
 			"English": "She finds information on penguins from books.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وهي تجد معلومات عن طيور البطريق من الكتب.",
 			"Egyptian Arabic Audio": "eca-0109-5.mp3",
 			"Standard Arabic Audio": "msa-0109-5.mp3"
 		},
@@ -54,7 +54,7 @@
 			"English": "Her first sentence is a riddle about penguins.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "الجملة الأولى هي لغز حول طيور البطريق.",
 			"Egyptian Arabic Audio": "eca-0109-6.mp3",
 			"Standard Arabic Audio": "msa-0109-6.mp3"
 		},
@@ -63,7 +63,7 @@
 			"English": "Her last sentence is the answer to the riddle.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "الجملة الأخيرة هي الإجابة على اللغز.",
 			"Egyptian Arabic Audio": "eca-0109-7.mp3",
 			"Standard Arabic Audio": "msa-0109-7.mp3"
 		}

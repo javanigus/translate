@@ -11,7 +11,7 @@
 			"English": "What did the doctor say?",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ماذا قال الطبيب؟",
 			"Egyptian Arabic Audio": "eca-0442-1.mp3",
 			"Standard Arabic Audio": "msa-0442-1.mp3"
 		},
@@ -21,7 +21,7 @@
 			"English": "He thinks I have too much stress.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ويعتقد أن لدي الكثير من الإجهاد.",
 			"Egyptian Arabic Audio": "eca-0442-2.mp3",
 			"Standard Arabic Audio": "msa-0442-2.mp3"
 		},
@@ -31,7 +31,7 @@
 			"English": "Stress causes your stomachaches?",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "الإجهاد يسبب معدتك؟",
 			"Egyptian Arabic Audio": "eca-0442-3.mp3",
 			"Standard Arabic Audio": "msa-0442-3.mp3"
 		},
@@ -41,7 +41,7 @@
 			"English": "Stress causes different problems with different people.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "الإجهاد يسبب مشاكل مختلفة مع مختلف الناس.",
 			"Egyptian Arabic Audio": "eca-0442-4.mp3",
 			"Standard Arabic Audio": "msa-0442-4.mp3"
 		},
@@ -51,7 +51,7 @@
 			"English": "So what did he tell you to do?",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "فماذا قال لك أن تفعل؟",
 			"Egyptian Arabic Audio": "eca-0442-5.mp3",
 			"Standard Arabic Audio": "msa-0442-5.mp3"
 		},
@@ -61,7 +61,7 @@
 			"English": "He said I need to think positive.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وقال إنني بحاجة إلى التفكير إيجابيا.",
 			"Egyptian Arabic Audio": "eca-0442-6.mp3",
 			"Standard Arabic Audio": "msa-0442-6.mp3"
 		},
@@ -71,7 +71,7 @@
 			"English": "He didn't give you any medication?",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لم يعطيك أي دواء؟",
 			"Egyptian Arabic Audio": "eca-0442-7.mp3",
 			"Standard Arabic Audio": "msa-0442-7.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "I hate medication. It makes me feel different.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أكره الدواء. يجعلني أشعر مختلفة.",
 			"Egyptian Arabic Audio": "eca-0442-8.mp3",
 			"Standard Arabic Audio": "msa-0442-8.mp3"
 		},
@@ -91,7 +91,7 @@
 			"English": "So how do you think positive?",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "إذا، كيف تظن إيجابية؟",
 			"Egyptian Arabic Audio": "eca-0442-9.mp3",
 			"Standard Arabic Audio": "msa-0442-9.mp3"
 		},
@@ -101,7 +101,7 @@
 			"English": "I think about nice things.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أعتقد أشياء لطيفة.",
 			"Egyptian Arabic Audio": "eca-0442-10.mp3",
 			"Standard Arabic Audio": "msa-0442-10.mp3"
 		},
@@ -111,7 +111,7 @@
 			"English": "Like what?",
 			"Word Count": 2,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "مثل ماذا؟",
 			"Egyptian Arabic Audio": "eca-0442-11.mp3",
 			"Standard Arabic Audio": "msa-0442-11.mp3"
 		},
@@ -121,7 +121,7 @@
 			"English": "Like a day at the beach, with my toes in the sand.",
 			"Word Count": 12,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "مثل يوم على الشاطئ، مع أصابع قدمي في الرمال.",
 			"Egyptian Arabic Audio": "eca-0442-12.mp3",
 			"Standard Arabic Audio": "msa-0442-12.mp3"
 		}

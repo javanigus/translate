@@ -11,7 +11,7 @@
 			"English": "We need to talk.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يجب أن نتكلم.",
 			"Egyptian Arabic Audio": "eca-0135-1.mp3",
 			"Standard Arabic Audio": "msa-0135-1.mp3"
 		},
@@ -21,7 +21,7 @@
 			"English": "You're breaking up with me.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كنت تفكك معي.",
 			"Egyptian Arabic Audio": "eca-0135-2.mp3",
 			"Standard Arabic Audio": "msa-0135-2.mp3"
 		},
@@ -31,7 +31,7 @@
 			"English": "I didn't even say anything yet.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لم أكن حتى أقول أي شيء حتى الآن.",
 			"Egyptian Arabic Audio": "eca-0135-3.mp3",
 			"Standard Arabic Audio": "msa-0135-3.mp3"
 		},
@@ -41,7 +41,7 @@
 			"English": "I already know.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "اعرف ذلك مسبقا.",
 			"Egyptian Arabic Audio": "eca-0135-4.mp3",
 			"Standard Arabic Audio": "msa-0135-4.mp3"
 		},
@@ -51,7 +51,7 @@
 			"English": "You're right, I'm breaking up with you.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنت على حق، أنا تفكك معك.",
 			"Egyptian Arabic Audio": "eca-0135-5.mp3",
 			"Standard Arabic Audio": "msa-0135-5.mp3"
 		},
@@ -61,7 +61,7 @@
 			"English": "Why? I thought things were going good.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لماذا ا؟ اعتقدت أن الأمور تسير على ما يرام.",
 			"Egyptian Arabic Audio": "eca-0135-6.mp3",
 			"Standard Arabic Audio": "msa-0135-6.mp3"
 		},
@@ -71,7 +71,7 @@
 			"English": "They were. Things happen.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "قد كانوا. الامور اللتي تحدث.",
 			"Egyptian Arabic Audio": "eca-0135-7.mp3",
 			"Standard Arabic Audio": "msa-0135-7.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "What kind of \"things?\"",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أي نوع من الأشياء؟&quot;",
 			"Egyptian Arabic Audio": "eca-0135-8.mp3",
 			"Standard Arabic Audio": "msa-0135-8.mp3"
 		},
@@ -91,7 +91,7 @@
 			"English": "I can't tell you. You'll get mad.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لا أستطيع أن أقول لك. سوف تحصل على جنون.",
 			"Egyptian Arabic Audio": "eca-0135-9.mp3",
 			"Standard Arabic Audio": "msa-0135-9.mp3"
 		},
@@ -101,7 +101,7 @@
 			"English": "I need to know.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنا بحاجة إلى معرفة.",
 			"Egyptian Arabic Audio": "eca-0135-10.mp3",
 			"Standard Arabic Audio": "msa-0135-10.mp3"
 		},
@@ -111,7 +111,7 @@
 			"English": "I met someone else.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "التقيت شخص آخر.",
 			"Egyptian Arabic Audio": "eca-0135-11.mp3",
 			"Standard Arabic Audio": "msa-0135-11.mp3"
 		},
@@ -121,7 +121,7 @@
 			"English": "You're right, I am mad.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنت على حق، أنا مجنون.",
 			"Egyptian Arabic Audio": "eca-0135-12.mp3",
 			"Standard Arabic Audio": "msa-0135-12.mp3"
 		}

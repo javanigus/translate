@@ -9,7 +9,7 @@
 			"English": "She looks at her teeth in the bathroom mirror.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هي، ىدبتي، رايتها، الأسنان، إلى داخل، ال التعريف، مرآة الحمام.",
 			"Egyptian Arabic Audio": "eca-1114-1.mp3",
 			"Standard Arabic Audio": "msa-1114-1.mp3"
 		},
@@ -18,7 +18,7 @@
 			"English": "They are yellow.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "فهي صفراء.",
 			"Egyptian Arabic Audio": "eca-1114-2.mp3",
 			"Standard Arabic Audio": "msa-1114-2.mp3"
 		},
@@ -27,7 +27,7 @@
 			"English": "She goes to the dentist.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "تذهب إلى طبيب الأسنان.",
 			"Egyptian Arabic Audio": "eca-1114-3.mp3",
 			"Standard Arabic Audio": "msa-1114-3.mp3"
 		},
@@ -36,7 +36,7 @@
 			"English": "She opens her mouth.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "تفتح فمها.",
 			"Egyptian Arabic Audio": "eca-1114-4.mp3",
 			"Standard Arabic Audio": "msa-1114-4.mp3"
 		},
@@ -45,7 +45,7 @@
 			"English": "The dentist looks in her mouth.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "طبيب الأسنان، ىدبتي، إلى داخل، رايتها، تكشيرة.",
 			"Egyptian Arabic Audio": "eca-1114-5.mp3",
 			"Standard Arabic Audio": "msa-1114-5.mp3"
 		},
@@ -54,7 +54,7 @@
 			"English": "He sees her yellow teeth.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يرى أسنانها الصفراء.",
 			"Egyptian Arabic Audio": "eca-1114-6.mp3",
 			"Standard Arabic Audio": "msa-1114-6.mp3"
 		},
@@ -63,7 +63,7 @@
 			"English": "He cleans her teeth.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ينظف أسنانها.",
 			"Egyptian Arabic Audio": "eca-1114-7.mp3",
 			"Standard Arabic Audio": "msa-1114-7.mp3"
 		},
@@ -72,7 +72,7 @@
 			"English": "He uses a brush.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انه يستخدم فرشاة.",
 			"Egyptian Arabic Audio": "eca-1114-8.mp3",
 			"Standard Arabic Audio": "msa-1114-8.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "He uses a pick.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انه يستخدم بيك.",
 			"Egyptian Arabic Audio": "eca-1114-9.mp3",
 			"Standard Arabic Audio": "msa-1114-9.mp3"
 		},
@@ -90,7 +90,7 @@
 			"English": "He uses floss.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يستخدم الخيط.",
 			"Egyptian Arabic Audio": "eca-1114-10.mp3",
 			"Standard Arabic Audio": "msa-1114-10.mp3"
 		},
@@ -99,7 +99,7 @@
 			"English": "The dentist finishes.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ينتهي طبيب الأسنان.",
 			"Egyptian Arabic Audio": "eca-1114-11.mp3",
 			"Standard Arabic Audio": "msa-1114-11.mp3"
 		},
@@ -108,7 +108,7 @@
 			"English": "Her teeth are less yellow.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أسنانها أقل أصفر.",
 			"Egyptian Arabic Audio": "eca-1114-12.mp3",
 			"Standard Arabic Audio": "msa-1114-12.mp3"
 		}

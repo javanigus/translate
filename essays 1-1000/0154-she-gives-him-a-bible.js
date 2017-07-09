@@ -9,7 +9,7 @@
 			"English": "He is walking.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انه يسير.",
 			"Egyptian Arabic Audio": "eca-0154-1.mp3",
 			"Standard Arabic Audio": "msa-0154-1.mp3"
 		},
@@ -18,7 +18,7 @@
 			"English": "A woman stops him.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "امرأة توقف عنه.",
 			"Egyptian Arabic Audio": "eca-0154-2.mp3",
 			"Standard Arabic Audio": "msa-0154-2.mp3"
 		},
@@ -27,7 +27,7 @@
 			"English": "She asks if he is Christian.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "تسأل إذا كان مسيحيا.",
 			"Egyptian Arabic Audio": "eca-0154-3.mp3",
 			"Standard Arabic Audio": "msa-0154-3.mp3"
 		},
@@ -36,7 +36,7 @@
 			"English": "He says no.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يقول لا.",
 			"Egyptian Arabic Audio": "eca-0154-4.mp3",
 			"Standard Arabic Audio": "msa-0154-4.mp3"
 		},
@@ -45,7 +45,7 @@
 			"English": "She says that he should be.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وتقول إنه ينبغي أن يكون.",
 			"Egyptian Arabic Audio": "eca-0154-5.mp3",
 			"Standard Arabic Audio": "msa-0154-5.mp3"
 		},
@@ -54,7 +54,7 @@
 			"English": "She gives him a Bible.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انها تعطيه الكتاب المقدس.",
 			"Egyptian Arabic Audio": "eca-0154-6.mp3",
 			"Standard Arabic Audio": "msa-0154-6.mp3"
 		},
@@ -63,7 +63,7 @@
 			"English": "He takes it.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انه يأخذ.",
 			"Egyptian Arabic Audio": "eca-0154-7.mp3",
 			"Standard Arabic Audio": "msa-0154-7.mp3"
 		},
@@ -72,7 +72,7 @@
 			"English": "He reads it.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يقرأها.",
 			"Egyptian Arabic Audio": "eca-0154-8.mp3",
 			"Standard Arabic Audio": "msa-0154-8.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "He thinks it is really interesting.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انه يعتقد انها مثيرة للاهتمام حقا.",
 			"Egyptian Arabic Audio": "eca-0154-9.mp3",
 			"Standard Arabic Audio": "msa-0154-9.mp3"
 		},
@@ -90,7 +90,7 @@
 			"English": "He cannot put it down.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وقال انه لا يمكن وضعها.",
 			"Egyptian Arabic Audio": "eca-0154-10.mp3",
 			"Standard Arabic Audio": "msa-0154-10.mp3"
 		},
@@ -99,7 +99,7 @@
 			"English": "He goes to a nearby church.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يذهب إلى كنيسة قريبة.",
 			"Egyptian Arabic Audio": "eca-0154-11.mp3",
 			"Standard Arabic Audio": "msa-0154-11.mp3"
 		},
@@ -108,7 +108,7 @@
 			"English": "He prays.",
 			"Word Count": 2,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يصلي.",
 			"Egyptian Arabic Audio": "eca-0154-12.mp3",
 			"Standard Arabic Audio": "msa-0154-12.mp3"
 		}

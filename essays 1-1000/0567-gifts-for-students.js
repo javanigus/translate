@@ -9,7 +9,7 @@
 			"English": "It is Christmas time.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "فمن وقت عيد الميلاد.",
 			"Egyptian Arabic Audio": "eca-0567-1.mp3",
 			"Standard Arabic Audio": "msa-0567-1.mp3"
 		},
@@ -18,7 +18,7 @@
 			"English": "Ms Miller goes to a store.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "السيدة ميلر يذهب إلى متجر.",
 			"Egyptian Arabic Audio": "eca-0567-2.mp3",
 			"Standard Arabic Audio": "msa-0567-2.mp3"
 		},
@@ -27,7 +27,7 @@
 			"English": "She shops for gifts for her students.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وقالت انها محلات للهدايا لطلابها.",
 			"Egyptian Arabic Audio": "eca-0567-3.mp3",
 			"Standard Arabic Audio": "msa-0567-3.mp3"
 		},
@@ -36,7 +36,7 @@
 			"English": "She buys 20 stockings.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "تشتري 20 جوارب.",
 			"Egyptian Arabic Audio": "eca-0567-4.mp3",
 			"Standard Arabic Audio": "msa-0567-4.mp3"
 		},
@@ -45,7 +45,7 @@
 			"English": "She buys candy canes.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "تشتري قصب الحلوى.",
 			"Egyptian Arabic Audio": "eca-0567-5.mp3",
 			"Standard Arabic Audio": "msa-0567-5.mp3"
 		},
@@ -54,7 +54,7 @@
 			"English": "She buys school supplies.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "تشتري اللوازم المدرسية.",
 			"Egyptian Arabic Audio": "eca-0567-6.mp3",
 			"Standard Arabic Audio": "msa-0567-6.mp3"
 		},
@@ -63,7 +63,7 @@
 			"English": "She buys gingerbread cookies.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "تشتري الكعك الزنجبيل.",
 			"Egyptian Arabic Audio": "eca-0567-7.mp3",
 			"Standard Arabic Audio": "msa-0567-7.mp3"
 		},
@@ -72,7 +72,7 @@
 			"English": "She puts the items in the stockings.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انها تضع العناصر في جوارب.",
 			"Egyptian Arabic Audio": "eca-0567-8.mp3",
 			"Standard Arabic Audio": "msa-0567-8.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "She goes to the cashier.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "تذهب إلى أمين الصندوق.",
 			"Egyptian Arabic Audio": "eca-0567-9.mp3",
 			"Standard Arabic Audio": "msa-0567-9.mp3"
 		},
@@ -90,7 +90,7 @@
 			"English": "The cashier tells Ms.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ويخبر أمين الصندوق السيدة",
 			"Egyptian Arabic Audio": "eca-0567-10.mp3",
 			"Standard Arabic Audio": "msa-0567-10.mp3"
 		},
@@ -99,7 +99,7 @@
 			"English": "Miller what a nice teacher she is.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ميلر ما معلم لطيف هي.",
 			"Egyptian Arabic Audio": "eca-0567-11.mp3",
 			"Standard Arabic Audio": "msa-0567-11.mp3"
 		}

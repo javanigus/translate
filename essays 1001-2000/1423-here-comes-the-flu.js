@@ -9,7 +9,7 @@
 			"English": "Jason read the news.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "جيسون قراءة الأخبار.",
 			"Egyptian Arabic Audio": "eca-1423-1.mp3",
 			"Standard Arabic Audio": "msa-1423-1.mp3"
 		},
@@ -18,7 +18,7 @@
 			"English": "He watched the news.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "شاهد الأخبار.",
 			"Egyptian Arabic Audio": "eca-1423-2.mp3",
 			"Standard Arabic Audio": "msa-1423-2.mp3"
 		},
@@ -27,7 +27,7 @@
 			"English": "He listened to the news.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "استمع إلى الأخبار.",
 			"Egyptian Arabic Audio": "eca-1423-3.mp3",
 			"Standard Arabic Audio": "msa-1423-3.mp3"
 		},
@@ -36,7 +36,7 @@
 			"English": "The swine flu was coming.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كانت انفلونزا الخنازير قادمة.",
 			"Egyptian Arabic Audio": "eca-1423-4.mp3",
 			"Standard Arabic Audio": "msa-1423-4.mp3"
 		},
@@ -45,7 +45,7 @@
 			"English": "The swine flu was dangerous.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كانت انفلونزا الخنازير خطيرة.",
 			"Egyptian Arabic Audio": "eca-1423-5.mp3",
 			"Standard Arabic Audio": "msa-1423-5.mp3"
 		},
@@ -54,7 +54,7 @@
 			"English": "The swine flu was a killer.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كانت انفلونزا الخنازير قاتلة.",
 			"Egyptian Arabic Audio": "eca-1423-6.mp3",
 			"Standard Arabic Audio": "msa-1423-6.mp3"
 		},
@@ -63,7 +63,7 @@
 			"English": "It killed people.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "قتل الناس.",
 			"Egyptian Arabic Audio": "eca-1423-7.mp3",
 			"Standard Arabic Audio": "msa-1423-7.mp3"
 		},
@@ -72,7 +72,7 @@
 			"English": "Everyone should get a shot.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يجب على الجميع الحصول على النار.",
 			"Egyptian Arabic Audio": "eca-1423-8.mp3",
 			"Standard Arabic Audio": "msa-1423-8.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "Jason was not worried about the swine flu.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "جيسون لم يكن قلقا بشأن انفلونزا الخنازير.",
 			"Egyptian Arabic Audio": "eca-1423-9.mp3",
 			"Standard Arabic Audio": "msa-1423-9.mp3"
 		},
@@ -90,7 +90,7 @@
 			"English": "He was healthy.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كان صحي.",
 			"Egyptian Arabic Audio": "eca-1423-10.mp3",
 			"Standard Arabic Audio": "msa-1423-10.mp3"
 		},
@@ -99,7 +99,7 @@
 			"English": "\"I am as healthy as a horse,\" he said.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "&quot;أنا بصحة جيدة كحصان&quot;.",
 			"Egyptian Arabic Audio": "eca-1423-11.mp3",
 			"Standard Arabic Audio": "msa-1423-11.mp3"
 		},
@@ -108,7 +108,7 @@
 			"English": "\"I never get the flu.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "&quot;أنا أبدا الحصول على الانفلونزا.",
 			"Egyptian Arabic Audio": "eca-1423-12.mp3",
 			"Standard Arabic Audio": "msa-1423-12.mp3"
 		},
@@ -117,7 +117,7 @@
 			"English": "I never get sick.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لم أصب بالمرض.",
 			"Egyptian Arabic Audio": "eca-1423-13.mp3",
 			"Standard Arabic Audio": "msa-1423-13.mp3"
 		},
@@ -126,7 +126,7 @@
 			"English": "\" Jason was a talk show host.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "&quot;كان جايسون مضيف برنامج حواري.",
 			"Egyptian Arabic Audio": "eca-1423-14.mp3",
 			"Standard Arabic Audio": "msa-1423-14.mp3"
 		},
@@ -135,7 +135,7 @@
 			"English": "He talked on the radio.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "تحدث على الراديو.",
 			"Egyptian Arabic Audio": "eca-1423-15.mp3",
 			"Standard Arabic Audio": "msa-1423-15.mp3"
 		},
@@ -144,7 +144,7 @@
 			"English": "He talked for three hours every day.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "تحدث لمدة ثلاث ساعات كل يوم.",
 			"Egyptian Arabic Audio": "eca-1423-16.mp3",
 			"Standard Arabic Audio": "msa-1423-16.mp3"
 		},
@@ -153,7 +153,7 @@
 			"English": "He said, \"I'm not getting a swine flu shot.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وقال: &quot;أنا لا تحصل على انفلونزا الخنازير النار.",
 			"Egyptian Arabic Audio": "eca-1423-17.mp3",
 			"Standard Arabic Audio": "msa-1423-17.mp3"
 		},
@@ -162,7 +162,7 @@
 			"English": "\" A doctor called Jason.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "&quot;طبيب يدعى جيسون.",
 			"Egyptian Arabic Audio": "eca-1423-18.mp3",
 			"Standard Arabic Audio": "msa-1423-18.mp3"
 		},
@@ -171,7 +171,7 @@
 			"English": "The doctor told Jason to get a shot.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وقال الطبيب جيسون للحصول على النار.",
 			"Egyptian Arabic Audio": "eca-1423-19.mp3",
 			"Standard Arabic Audio": "msa-1423-19.mp3"
 		},
@@ -180,7 +180,7 @@
 			"English": "He said, \"Come to my office.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "قال: &quot;تعال إلى مكتبي.",
 			"Egyptian Arabic Audio": "eca-1423-20.mp3",
 			"Standard Arabic Audio": "msa-1423-20.mp3"
 		},
@@ -189,7 +189,7 @@
 			"English": "I'll give you a free shot.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "سأعطيك لقطة مجانية.",
 			"Egyptian Arabic Audio": "eca-1423-21.mp3",
 			"Standard Arabic Audio": "msa-1423-21.mp3"
 		},
@@ -198,7 +198,7 @@
 			"English": "\" Jason said no.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "&quot;وقال جيسون لا.",
 			"Egyptian Arabic Audio": "eca-1423-22.mp3",
 			"Standard Arabic Audio": "msa-1423-22.mp3"
 		},
@@ -207,7 +207,7 @@
 			"English": "He was as healthy as a horse.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كان صحي كما الحصان.",
 			"Egyptian Arabic Audio": "eca-1423-23.mp3",
 			"Standard Arabic Audio": "msa-1423-23.mp3"
 		},
@@ -216,7 +216,7 @@
 			"English": "One month later, Jason didn't go to work.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "بعد شهر واحد، لم يذهب جايسون للعمل.",
 			"Egyptian Arabic Audio": "eca-1423-24.mp3",
 			"Standard Arabic Audio": "msa-1423-24.mp3"
 		},
@@ -225,7 +225,7 @@
 			"English": "He didn't go to work for a week.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لم يذهب إلى العمل لمدة أسبوع.",
 			"Egyptian Arabic Audio": "eca-1423-25.mp3",
 			"Standard Arabic Audio": "msa-1423-25.mp3"
 		},
@@ -234,7 +234,7 @@
 			"English": "He had the swine flu.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كان لديه انفلونزا الخنازير.",
 			"Egyptian Arabic Audio": "eca-1423-26.mp3",
 			"Standard Arabic Audio": "msa-1423-26.mp3"
 		}

@@ -11,7 +11,7 @@
 			"English": "When are you going to register for classes?",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "متى سوف تسجل للفصول؟",
 			"Egyptian Arabic Audio": "eca-0002-1.mp3",
 			"Standard Arabic Audio": "msa-0002-1.mp3"
 		},
@@ -21,7 +21,7 @@
 			"English": "My registration date is next month.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "تاريخ التسجيل هو الشهر المقبل.",
 			"Egyptian Arabic Audio": "eca-0002-2.mp3",
 			"Standard Arabic Audio": "msa-0002-2.mp3"
 		},
@@ -31,7 +31,7 @@
 			"English": "That is terrible.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هذا أمر فظيع.",
 			"Egyptian Arabic Audio": "eca-0002-3.mp3",
 			"Standard Arabic Audio": "msa-0002-3.mp3"
 		},
@@ -41,7 +41,7 @@
 			"English": "Yeah, it is very late.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "نعم، فإنه في وقت متأخر جدا.",
 			"Egyptian Arabic Audio": "eca-0002-4.mp3",
 			"Standard Arabic Audio": "msa-0002-4.mp3"
 		},
@@ -51,7 +51,7 @@
 			"English": "Mine is next week.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "الألغام هو الأسبوع المقبل.",
 			"Egyptian Arabic Audio": "eca-0002-5.mp3",
 			"Standard Arabic Audio": "msa-0002-5.mp3"
 		},
@@ -61,7 +61,7 @@
 			"English": "Why is your date so early?",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لماذا هو تاريخك مبكرا؟",
 			"Egyptian Arabic Audio": "eca-0002-6.mp3",
 			"Standard Arabic Audio": "msa-0002-6.mp3"
 		},
@@ -71,7 +71,7 @@
 			"English": "I am a student athlete.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنا طالب رياضي.",
 			"Egyptian Arabic Audio": "eca-0002-7.mp3",
 			"Standard Arabic Audio": "msa-0002-7.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "Maybe I should play a sport.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ربما يجب أن ألعب رياضة.",
 			"Egyptian Arabic Audio": "eca-0002-8.mp3",
 			"Standard Arabic Audio": "msa-0002-8.mp3"
 		},
@@ -91,7 +91,7 @@
 			"English": "Soccer tryouts are tomorrow.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "مسابقة كرة القدم هي غدا.",
 			"Egyptian Arabic Audio": "eca-0002-9.mp3",
 			"Standard Arabic Audio": "msa-0002-9.mp3"
 		},
@@ -101,7 +101,7 @@
 			"English": "I don't like soccer.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنا لا أحب كرة القدم.",
 			"Egyptian Arabic Audio": "eca-0002-10.mp3",
 			"Standard Arabic Audio": "msa-0002-10.mp3"
 		},
@@ -111,7 +111,7 @@
 			"English": "Would you rather have a late registration date?",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هل تفضل أن يكون لديك تاريخ تسجيل متأخر؟",
 			"Egyptian Arabic Audio": "eca-0002-11.mp3",
 			"Standard Arabic Audio": "msa-0002-11.mp3"
 		},
@@ -121,7 +121,7 @@
 			"English": "I actually would.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنا فعلا.",
 			"Egyptian Arabic Audio": "eca-0002-12.mp3",
 			"Standard Arabic Audio": "msa-0002-12.mp3"
 		}

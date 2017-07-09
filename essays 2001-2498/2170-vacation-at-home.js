@@ -9,7 +9,7 @@
 			"English": "Between articles, he took breaks by watching the nearby traffic and pedestrians.",
 			"Word Count": 12,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "بين المواد، وقال انه أخذ فواصل من خلال مشاهدة حركة المرور القريبة والمشاة.",
 			"Egyptian Arabic Audio": "eca-2170-1.mp3",
 			"Standard Arabic Audio": "msa-2170-1.mp3"
 		},
@@ -18,7 +18,7 @@
 			"English": "The coffee shop was next to a huge parking lot.",
 			"Word Count": 10,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كان المقهى بجانب موقف سيارات ضخم.",
 			"Egyptian Arabic Audio": "eca-2170-2.mp3",
 			"Standard Arabic Audio": "msa-2170-2.mp3"
 		},
@@ -27,7 +27,7 @@
 			"English": "The lot was for customers of a grocery store, movie rental store, pharmacy, bank, and restaurant.",
 			"Word Count": 16,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وكان الكثير للعملاء من محل بقالة، مخزن تأجير الفيلم، والصيدلة، والبنوك، ومطعم.",
 			"Egyptian Arabic Audio": "eca-2170-3.mp3",
 			"Standard Arabic Audio": "msa-2170-3.mp3"
 		},
@@ -36,7 +36,7 @@
 			"English": "Kevin considered his outdoor seat the perfect place for one of his favorite activities�people watching.",
 			"Word Count": 15,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "اعتبر كيفن مقعده في الهواء الطلق المكان المثالي لأحد أنشطته المفضلة�أشخاص يشاهدون.",
 			"Egyptian Arabic Audio": "eca-2170-4.mp3",
 			"Standard Arabic Audio": "msa-2170-4.mp3"
 		}

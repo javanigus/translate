@@ -9,7 +9,7 @@
 			"English": "Andy's uncle is a farmer.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أندي عمه مزارع.",
 			"Egyptian Arabic Audio": "eca-0354-1.mp3",
 			"Standard Arabic Audio": "msa-0354-1.mp3"
 		},
@@ -18,7 +18,7 @@
 			"English": "Andy goes to the farm.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يذهب أندي إلى المزرعة.",
 			"Egyptian Arabic Audio": "eca-0354-2.mp3",
 			"Standard Arabic Audio": "msa-0354-2.mp3"
 		},
@@ -27,7 +27,7 @@
 			"English": "He milks the cow.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انه حليب البقرة.",
 			"Egyptian Arabic Audio": "eca-0354-3.mp3",
 			"Standard Arabic Audio": "msa-0354-3.mp3"
 		},
@@ -36,7 +36,7 @@
 			"English": "He feeds the pig.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يغذي الخنزير.",
 			"Egyptian Arabic Audio": "eca-0354-4.mp3",
 			"Standard Arabic Audio": "msa-0354-4.mp3"
 		},
@@ -45,7 +45,7 @@
 			"English": "It is always hungry.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هو دائما جائع.",
 			"Egyptian Arabic Audio": "eca-0354-5.mp3",
 			"Standard Arabic Audio": "msa-0354-5.mp3"
 		},
@@ -54,7 +54,7 @@
 			"English": "He collects the eggs.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انه يجمع البيض.",
 			"Egyptian Arabic Audio": "eca-0354-6.mp3",
 			"Standard Arabic Audio": "msa-0354-6.mp3"
 		},
@@ -63,7 +63,7 @@
 			"English": "The chickens lay many eggs.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "الدجاج يضع العديد من البيض.",
 			"Egyptian Arabic Audio": "eca-0354-7.mp3",
 			"Standard Arabic Audio": "msa-0354-7.mp3"
 		},
@@ -72,7 +72,7 @@
 			"English": "He finishes his three jobs.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انه ينهي ثلاث وظائف.",
 			"Egyptian Arabic Audio": "eca-0354-8.mp3",
 			"Standard Arabic Audio": "msa-0354-8.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "He says goodbye to his uncle.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يقول وده لعمه.",
 			"Egyptian Arabic Audio": "eca-0354-9.mp3",
 			"Standard Arabic Audio": "msa-0354-9.mp3"
 		},
@@ -90,7 +90,7 @@
 			"English": "His uncle thanks him.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "عمه يشكره.",
 			"Egyptian Arabic Audio": "eca-0354-10.mp3",
 			"Standard Arabic Audio": "msa-0354-10.mp3"
 		},
@@ -99,7 +99,7 @@
 			"English": "He gives Andy two dozen eggs.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انه يعطي اندي اثنين من البيض.",
 			"Egyptian Arabic Audio": "eca-0354-11.mp3",
 			"Standard Arabic Audio": "msa-0354-11.mp3"
 		}

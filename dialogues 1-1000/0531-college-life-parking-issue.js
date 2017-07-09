@@ -11,7 +11,7 @@
 			"English": "Do you have a car on campus?",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هل لديك سيارة في الحرم الجامعي؟",
 			"Egyptian Arabic Audio": "eca-0531-1.mp3",
 			"Standard Arabic Audio": "msa-0531-1.mp3"
 		},
@@ -21,7 +21,7 @@
 			"English": "No, because it's hard to find parking here.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لا، لأنه من الصعب العثور على وقوف السيارات هنا.",
 			"Egyptian Arabic Audio": "eca-0531-2.mp3",
 			"Standard Arabic Audio": "msa-0531-2.mp3"
 		},
@@ -31,7 +31,7 @@
 			"English": "How do you get to places then?",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كيف تصل إلى الأماكن بعد ذلك؟",
 			"Egyptian Arabic Audio": "eca-0531-3.mp3",
 			"Standard Arabic Audio": "msa-0531-3.mp3"
 		},
@@ -41,7 +41,7 @@
 			"English": "I walk or take the bus.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أمشي أو أخذ الحافلة.",
 			"Egyptian Arabic Audio": "eca-0531-4.mp3",
 			"Standard Arabic Audio": "msa-0531-4.mp3"
 		},
@@ -51,7 +51,7 @@
 			"English": "That's crazy! I could never do that.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هذا جنون! لا يمكنني القيام بذلك أبدا.",
 			"Egyptian Arabic Audio": "eca-0531-5.mp3",
 			"Standard Arabic Audio": "msa-0531-5.mp3"
 		},
@@ -61,7 +61,7 @@
 			"English": "You should. It's great for the environment.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يجب. انه لشيء رائع للبيئة.",
 			"Egyptian Arabic Audio": "eca-0531-6.mp3",
 			"Standard Arabic Audio": "msa-0531-6.mp3"
 		},
@@ -71,7 +71,7 @@
 			"English": "That's true. What do you do for fun then?",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هذا صحيح. ماذا تفعل للمتعة بعد ذلك؟",
 			"Egyptian Arabic Audio": "eca-0531-7.mp3",
 			"Standard Arabic Audio": "msa-0531-7.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "There's a lot of stuff to do around campus.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هناك الكثير من الاشياء للقيام بها في جميع أنحاء الحرم الجامعي.",
 			"Egyptian Arabic Audio": "eca-0531-8.mp3",
 			"Standard Arabic Audio": "msa-0531-8.mp3"
 		},
@@ -91,7 +91,7 @@
 			"English": "I never realized.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لم أكن أدرك.",
 			"Egyptian Arabic Audio": "eca-0531-9.mp3",
 			"Standard Arabic Audio": "msa-0531-9.mp3"
 		},
@@ -101,7 +101,7 @@
 			"English": "You should do some exploring.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يجب عليك القيام ببعض الاستكشاف.",
 			"Egyptian Arabic Audio": "eca-0531-10.mp3",
 			"Standard Arabic Audio": "msa-0531-10.mp3"
 		},
@@ -111,7 +111,7 @@
 			"English": "You convinced me. I won't bring my car this semester.",
 			"Word Count": 10,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "اقنعتني. لن أحضر سيارتي هذا الفصل الدراسي.",
 			"Egyptian Arabic Audio": "eca-0531-11.mp3",
 			"Standard Arabic Audio": "msa-0531-11.mp3"
 		},
@@ -121,7 +121,7 @@
 			"English": "We can walk to places together now!",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يمكننا المشي إلى أماكن معا الآن!",
 			"Egyptian Arabic Audio": "eca-0531-12.mp3",
 			"Standard Arabic Audio": "msa-0531-12.mp3"
 		}

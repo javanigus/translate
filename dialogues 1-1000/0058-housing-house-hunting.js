@@ -11,7 +11,7 @@
 			"English": "This is the perfect house for us!",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هذا هو المنزل المثالي بالنسبة لنا!",
 			"Egyptian Arabic Audio": "eca-0058-1.mp3",
 			"Standard Arabic Audio": "msa-0058-1.mp3"
 		},
@@ -21,7 +21,7 @@
 			"English": "It has all the bedrooms we need!",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لديها كل غرف النوم التي نحتاجها!",
 			"Egyptian Arabic Audio": "eca-0058-2.mp3",
 			"Standard Arabic Audio": "msa-0058-2.mp3"
 		},
@@ -31,7 +31,7 @@
 			"English": "Each bedroom even has a bathroom!",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كل غرفة نوم حتى حمام!",
 			"Egyptian Arabic Audio": "eca-0058-3.mp3",
 			"Standard Arabic Audio": "msa-0058-3.mp3"
 		},
@@ -41,7 +41,7 @@
 			"English": "The backyard is huge!",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "الفناء الخلفي ضخمة!",
 			"Egyptian Arabic Audio": "eca-0058-4.mp3",
 			"Standard Arabic Audio": "msa-0058-4.mp3"
 		},
@@ -51,7 +51,7 @@
 			"English": "And we finally have a pool!",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ولدينا أخيرا بركة!",
 			"Egyptian Arabic Audio": "eca-0058-5.mp3",
 			"Standard Arabic Audio": "msa-0058-5.mp3"
 		},
@@ -61,7 +61,7 @@
 			"English": "What's the price for this house?",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ما هو ثمن هذا البيت؟",
 			"Egyptian Arabic Audio": "eca-0058-6.mp3",
 			"Standard Arabic Audio": "msa-0058-6.mp3"
 		},
@@ -71,7 +71,7 @@
 			"English": "I didn't expect it to be so high.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لم أكن أتوقع أن تكون عالية جدا.",
 			"Egyptian Arabic Audio": "eca-0058-7.mp3",
 			"Standard Arabic Audio": "msa-0058-7.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "This house is hideous!",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هذا البيت هو البشعة!",
 			"Egyptian Arabic Audio": "eca-0058-8.mp3",
 			"Standard Arabic Audio": "msa-0058-8.mp3"
 		},
@@ -91,7 +91,7 @@
 			"English": "I agree! We should look for a different house.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنا أتفق! يجب أن نبحث عن منزل مختلف.",
 			"Egyptian Arabic Audio": "eca-0058-9.mp3",
 			"Standard Arabic Audio": "msa-0058-9.mp3"
 		},
@@ -101,7 +101,7 @@
 			"English": "A house like this wouldn't be so bad.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "منزل مثل هذا لن يكون سيئا للغاية.",
 			"Egyptian Arabic Audio": "eca-0058-10.mp3",
 			"Standard Arabic Audio": "msa-0058-10.mp3"
 		},
@@ -111,7 +111,7 @@
 			"English": "As long as the price tag doesn't make it hideous.",
 			"Word Count": 10,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "طالما أن ثمن لا يجعل من البشعة.",
 			"Egyptian Arabic Audio": "eca-0058-11.mp3",
 			"Standard Arabic Audio": "msa-0058-11.mp3"
 		},
@@ -121,7 +121,7 @@
 			"English": "Let's check the price first next time.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "دعونا التحقق من السعر أولا في المرة القادمة.",
 			"Egyptian Arabic Audio": "eca-0058-12.mp3",
 			"Standard Arabic Audio": "msa-0058-12.mp3"
 		}

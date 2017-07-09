@@ -9,7 +9,7 @@
 			"English": "She has a dog.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لديها كلب.",
 			"Egyptian Arabic Audio": "eca-0345-1.mp3",
 			"Standard Arabic Audio": "msa-0345-1.mp3"
 		},
@@ -18,7 +18,7 @@
 			"English": "Her dog is a boxer.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كلبها هو الملاكم.",
 			"Egyptian Arabic Audio": "eca-0345-2.mp3",
 			"Standard Arabic Audio": "msa-0345-2.mp3"
 		},
@@ -27,7 +27,7 @@
 			"English": "It is a male.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وهو ذكر.",
 			"Egyptian Arabic Audio": "eca-0345-3.mp3",
 			"Standard Arabic Audio": "msa-0345-3.mp3"
 		},
@@ -36,7 +36,7 @@
 			"English": "His name is Duke.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "اسمه هو دوق.",
 			"Egyptian Arabic Audio": "eca-0345-4.mp3",
 			"Standard Arabic Audio": "msa-0345-4.mp3"
 		},
@@ -45,7 +45,7 @@
 			"English": "He is five years old.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وهو يبلغ من العمر خمس سنوات.",
 			"Egyptian Arabic Audio": "eca-0345-5.mp3",
 			"Standard Arabic Audio": "msa-0345-5.mp3"
 		},
@@ -54,7 +54,7 @@
 			"English": "He is brown all over.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هو البني في جميع أنحاء.",
 			"Egyptian Arabic Audio": "eca-0345-6.mp3",
 			"Standard Arabic Audio": "msa-0345-6.mp3"
 		},
@@ -63,7 +63,7 @@
 			"English": "He has a short tail.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لديه ذيل قصير.",
 			"Egyptian Arabic Audio": "eca-0345-7.mp3",
 			"Standard Arabic Audio": "msa-0345-7.mp3"
 		},
@@ -72,7 +72,7 @@
 			"English": "He weighs about 50 pounds.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ويزن حوالي 50 جنيها.",
 			"Egyptian Arabic Audio": "eca-0345-8.mp3",
 			"Standard Arabic Audio": "msa-0345-8.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "He snores when he sleeps.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انه الشخير عندما ينام.",
 			"Egyptian Arabic Audio": "eca-0345-9.mp3",
 			"Standard Arabic Audio": "msa-0345-9.mp3"
 		},
@@ -90,7 +90,7 @@
 			"English": "She feeds him twice a day.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "تغذيه مرتين في اليوم.",
 			"Egyptian Arabic Audio": "eca-0345-10.mp3",
 			"Standard Arabic Audio": "msa-0345-10.mp3"
 		},
@@ -99,7 +99,7 @@
 			"English": "She feeds him breakfast.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انها تغذي له وجبة الإفطار.",
 			"Egyptian Arabic Audio": "eca-0345-11.mp3",
 			"Standard Arabic Audio": "msa-0345-11.mp3"
 		},
@@ -108,7 +108,7 @@
 			"English": "She feeds him dinner.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انها تغذي له العشاء.",
 			"Egyptian Arabic Audio": "eca-0345-12.mp3",
 			"Standard Arabic Audio": "msa-0345-12.mp3"
 		}

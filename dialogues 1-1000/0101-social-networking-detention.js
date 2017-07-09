@@ -11,7 +11,7 @@
 			"English": "Are you ready to go home?",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هل أنت مستعد للعودة إلى ديارهم؟",
 			"Egyptian Arabic Audio": "eca-0101-1.mp3",
 			"Standard Arabic Audio": "msa-0101-1.mp3"
 		},
@@ -21,7 +21,7 @@
 			"English": "I can't go home yet.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لا أستطيع العودة إلى ديارهم بعد.",
 			"Egyptian Arabic Audio": "eca-0101-2.mp3",
 			"Standard Arabic Audio": "msa-0101-2.mp3"
 		},
@@ -31,7 +31,7 @@
 			"English": "Why? Do you have club activities?",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لماذا ا؟ هل لديك أنشطة النادي؟",
 			"Egyptian Arabic Audio": "eca-0101-3.mp3",
 			"Standard Arabic Audio": "msa-0101-3.mp3"
 		},
@@ -41,7 +41,7 @@
 			"English": "No, I have detention.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لا، لدي الاحتجاز.",
 			"Egyptian Arabic Audio": "eca-0101-4.mp3",
 			"Standard Arabic Audio": "msa-0101-4.mp3"
 		},
@@ -51,7 +51,7 @@
 			"English": "Why did you have detention?",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لماذا كان لديك اعتقال؟",
 			"Egyptian Arabic Audio": "eca-0101-5.mp3",
 			"Standard Arabic Audio": "msa-0101-5.mp3"
 		},
@@ -61,7 +61,7 @@
 			"English": "Because I did not turn in the homework.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لأنني لم تتحول في الواجبات المنزلية.",
 			"Egyptian Arabic Audio": "eca-0101-6.mp3",
 			"Standard Arabic Audio": "msa-0101-6.mp3"
 		},
@@ -71,7 +71,7 @@
 			"English": "Weren't you home sick yesterday?",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لم تكن أنت مريض المنزل أمس؟",
 			"Egyptian Arabic Audio": "eca-0101-7.mp3",
 			"Standard Arabic Audio": "msa-0101-7.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "Yes I was very sick.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "نعم كنت مريضا جدا.",
 			"Egyptian Arabic Audio": "eca-0101-8.mp3",
 			"Standard Arabic Audio": "msa-0101-8.mp3"
 		},
@@ -91,7 +91,7 @@
 			"English": "Then the teacher should understand.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ثم يجب على المعلم فهم.",
 			"Egyptian Arabic Audio": "eca-0101-9.mp3",
 			"Standard Arabic Audio": "msa-0101-9.mp3"
 		},
@@ -101,7 +101,7 @@
 			"English": "He saw pictures of my party on Facebook.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "رأى صورا لحزب بلدي في الفيسبوك.",
 			"Egyptian Arabic Audio": "eca-0101-10.mp3",
 			"Standard Arabic Audio": "msa-0101-10.mp3"
 		},
@@ -111,7 +111,7 @@
 			"English": "If you're not sick you shouldn't stay home.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "إذا كنت لا مريضا يجب أن لا البقاء في المنزل.",
 			"Egyptian Arabic Audio": "eca-0101-11.mp3",
 			"Standard Arabic Audio": "msa-0101-11.mp3"
 		},
@@ -121,7 +121,7 @@
 			"English": "I think I'll just unfriend him.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "اعتقد انني سوف نفريند له.",
 			"Egyptian Arabic Audio": "eca-0101-12.mp3",
 			"Standard Arabic Audio": "msa-0101-12.mp3"
 		}

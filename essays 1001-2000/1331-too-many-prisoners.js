@@ -9,7 +9,7 @@
 			"English": "Prisons today have too many prisoners.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "السجون لديها اليوم الكثير من السجناء.",
 			"Egyptian Arabic Audio": "eca-1331-1.mp3",
 			"Standard Arabic Audio": "msa-1331-1.mp3"
 		},
@@ -18,7 +18,7 @@
 			"English": "The prisoners sleep in bunk beds.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ينام السجناء في أسرة بطابقين.",
 			"Egyptian Arabic Audio": "eca-1331-2.mp3",
 			"Standard Arabic Audio": "msa-1331-2.mp3"
 		},
@@ -27,7 +27,7 @@
 			"English": "They sleep in triple bunk beds.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ينامون في أسرة بطابقين ثلاثية.",
 			"Egyptian Arabic Audio": "eca-1331-3.mp3",
 			"Standard Arabic Audio": "msa-1331-3.mp3"
 		},
@@ -36,7 +36,7 @@
 			"English": "Triple bunk beds are for three prisoners.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أسرة ثلاثية بطابقين لثلاثة سجناء.",
 			"Egyptian Arabic Audio": "eca-1331-4.mp3",
 			"Standard Arabic Audio": "msa-1331-4.mp3"
 		},
@@ -45,7 +45,7 @@
 			"English": "One prisoner sleeps in the bottom bunk bed.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ينام أحد السجناء في السرير السفلي.",
 			"Egyptian Arabic Audio": "eca-1331-5.mp3",
 			"Standard Arabic Audio": "msa-1331-5.mp3"
 		},
@@ -54,7 +54,7 @@
 			"English": "Another prisoner sleeps in the middle bunk bed.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وهناك سجين آخر ينام في سرير بطابقين.",
 			"Egyptian Arabic Audio": "eca-1331-6.mp3",
 			"Standard Arabic Audio": "msa-1331-6.mp3"
 		},
@@ -63,7 +63,7 @@
 			"English": "Another prisoner sleeps in the top bunk bed.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وينام سجين آخر في السرير العلوي.",
 			"Egyptian Arabic Audio": "eca-1331-7.mp3",
 			"Standard Arabic Audio": "msa-1331-7.mp3"
 		},
@@ -72,7 +72,7 @@
 			"English": "They sleep on top of one another.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ينامون فوق بعضها البعض.",
 			"Egyptian Arabic Audio": "eca-1331-8.mp3",
 			"Standard Arabic Audio": "msa-1331-8.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "They sleep beneath one another.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ينامون تحت بعضهم البعض.",
 			"Egyptian Arabic Audio": "eca-1331-9.mp3",
 			"Standard Arabic Audio": "msa-1331-9.mp3"
 		},
@@ -90,7 +90,7 @@
 			"English": "Prisoners complain about the triple bunk beds.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "السجناء يشكون من سرير بطابقين ثلاثي.",
 			"Egyptian Arabic Audio": "eca-1331-10.mp3",
 			"Standard Arabic Audio": "msa-1331-10.mp3"
 		},
@@ -99,7 +99,7 @@
 			"English": "They don't like the triple bunk beds.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنها لا تحب سرير بطابقين الثلاثي.",
 			"Egyptian Arabic Audio": "eca-1331-11.mp3",
 			"Standard Arabic Audio": "msa-1331-11.mp3"
 		},
@@ -108,7 +108,7 @@
 			"English": "Prisons didn't use to have bunk beds.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لم تستخدم السجون لسرير بطابقين.",
 			"Egyptian Arabic Audio": "eca-1331-12.mp3",
 			"Standard Arabic Audio": "msa-1331-12.mp3"
 		},
@@ -117,7 +117,7 @@
 			"English": "Prisons didn't use to have any beds.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لم تستخدم السجون أي أسرة.",
 			"Egyptian Arabic Audio": "eca-1331-13.mp3",
 			"Standard Arabic Audio": "msa-1331-13.mp3"
 		},
@@ -126,7 +126,7 @@
 			"English": "Prisoners used to sleep on a cold floor.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وكان السجناء ينامون في الطابق البارد.",
 			"Egyptian Arabic Audio": "eca-1331-14.mp3",
 			"Standard Arabic Audio": "msa-1331-14.mp3"
 		},
@@ -135,7 +135,7 @@
 			"English": "Prisoners today get three meals a day.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ويحصل السجناء اليوم على ثلاث وجبات يوميا.",
 			"Egyptian Arabic Audio": "eca-1331-15.mp3",
 			"Standard Arabic Audio": "msa-1331-15.mp3"
 		},
@@ -144,7 +144,7 @@
 			"English": "They get three hot meals.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يحصلون على ثلاث وجبات ساخنة.",
 			"Egyptian Arabic Audio": "eca-1331-16.mp3",
 			"Standard Arabic Audio": "msa-1331-16.mp3"
 		},
@@ -153,7 +153,7 @@
 			"English": "Prisoners used to get one meal a day.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "السجناء يستخدمون للحصول على وجبة واحدة يوميا.",
 			"Egyptian Arabic Audio": "eca-1331-17.mp3",
 			"Standard Arabic Audio": "msa-1331-17.mp3"
 		},
@@ -162,7 +162,7 @@
 			"English": "They used to get one cold meal.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كانوا يستخدمون للحصول على وجبة باردة واحدة.",
 			"Egyptian Arabic Audio": "eca-1331-18.mp3",
 			"Standard Arabic Audio": "msa-1331-18.mp3"
 		}

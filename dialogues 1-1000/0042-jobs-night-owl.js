@@ -11,7 +11,7 @@
 			"English": "You are late to work again!",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كنت في وقت متأخر للعمل مرة أخرى!",
 			"Egyptian Arabic Audio": "eca-0042-1.mp3",
 			"Standard Arabic Audio": "msa-0042-1.mp3"
 		},
@@ -21,7 +21,7 @@
 			"English": "I'm very sorry.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انا اسف جدا.",
 			"Egyptian Arabic Audio": "eca-0042-2.mp3",
 			"Standard Arabic Audio": "msa-0042-2.mp3"
 		},
@@ -31,7 +31,7 @@
 			"English": "How do you manage to make it late every day?",
 			"Word Count": 10,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كيف يمكنك إدارة لجعله في وقت متأخر كل يوم؟",
 			"Egyptian Arabic Audio": "eca-0042-3.mp3",
 			"Standard Arabic Audio": "msa-0042-3.mp3"
 		},
@@ -41,7 +41,7 @@
 			"English": "I don't mean to be so late.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لا أقصد أن أكون متأخرا جدا.",
 			"Egyptian Arabic Audio": "eca-0042-4.mp3",
 			"Standard Arabic Audio": "msa-0042-4.mp3"
 		},
@@ -51,7 +51,7 @@
 			"English": "You look very tired.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "تبدو متعبا جدا.",
 			"Egyptian Arabic Audio": "eca-0042-5.mp3",
 			"Standard Arabic Audio": "msa-0042-5.mp3"
 		},
@@ -61,7 +61,7 @@
 			"English": "I didn't get enough sleep.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لم أحصل على قسط كاف من النوم.",
 			"Egyptian Arabic Audio": "eca-0042-6.mp3",
 			"Standard Arabic Audio": "msa-0042-6.mp3"
 		},
@@ -71,7 +71,7 @@
 			"English": "If you sleep earlier, you'll rise earlier.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "إذا كنت تنام في وقت سابق، عليك أن ترتفع في وقت سابق.",
 			"Egyptian Arabic Audio": "eca-0042-7.mp3",
 			"Standard Arabic Audio": "msa-0042-7.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "I can't sleep that early.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لا أستطيع النوم في وقت مبكر.",
 			"Egyptian Arabic Audio": "eca-0042-8.mp3",
 			"Standard Arabic Audio": "msa-0042-8.mp3"
 		},
@@ -91,7 +91,7 @@
 			"English": "Why? Are you a night owl?",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لماذا ا؟ هل انت بومة الليل؟",
 			"Egyptian Arabic Audio": "eca-0042-9.mp3",
 			"Standard Arabic Audio": "msa-0042-9.mp3"
 		},
@@ -101,7 +101,7 @@
 			"English": "No, I'm just very busy with housework.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لا، أنا مشغول جدا بالأعمال المنزلية.",
 			"Egyptian Arabic Audio": "eca-0042-10.mp3",
 			"Standard Arabic Audio": "msa-0042-10.mp3"
 		},
@@ -111,7 +111,7 @@
 			"English": "Well, set your alarm and wake up on time.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "حسنا، ضبط المنبه والاستيقاظ في الوقت المحدد.",
 			"Egyptian Arabic Audio": "eca-0042-11.mp3",
 			"Standard Arabic Audio": "msa-0042-11.mp3"
 		},
@@ -121,7 +121,7 @@
 			"English": "I won't be late again, I promise.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لن أكون متأخرا مرة أخرى، أعدك.",
 			"Egyptian Arabic Audio": "eca-0042-12.mp3",
 			"Standard Arabic Audio": "msa-0042-12.mp3"
 		}

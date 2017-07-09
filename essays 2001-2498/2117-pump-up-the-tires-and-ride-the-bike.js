@@ -9,7 +9,7 @@
 			"English": "The bike was now ready to ride.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وكانت الدراجة الآن على استعداد لركوب.",
 			"Egyptian Arabic Audio": "eca-2117-1.mp3",
 			"Standard Arabic Audio": "msa-2117-1.mp3"
 		},
@@ -18,7 +18,7 @@
 			"English": "Owen, however, felt a little tired.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ومع ذلك، شعر أوين بالتعب قليلا.",
 			"Egyptian Arabic Audio": "eca-2117-2.mp3",
 			"Standard Arabic Audio": "msa-2117-2.mp3"
 		},
@@ -27,7 +27,7 @@
 			"English": "Plus, he was hungry.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "بالإضافة إلى أنه كان جائعا.",
 			"Egyptian Arabic Audio": "eca-2117-3.mp3",
 			"Standard Arabic Audio": "msa-2117-3.mp3"
 		},
@@ -36,7 +36,7 @@
 			"English": "In fact, it looked like it was getting too dark for a long ride.",
 			"Word Count": 14,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "في الواقع، بدا وكأنه كان الحصول على مظلمة جدا لرحلة طويلة.",
 			"Egyptian Arabic Audio": "eca-2117-4.mp3",
 			"Standard Arabic Audio": "msa-2117-4.mp3"
 		},
@@ -45,7 +45,7 @@
 			"English": "There's always tomorrow, he thought as he opened the refrigerator door.",
 			"Word Count": 11,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هناك دائما غدا، وقال انه يعتقد انه فتح باب الثلاجة.",
 			"Egyptian Arabic Audio": "eca-2117-5.mp3",
 			"Standard Arabic Audio": "msa-2117-5.mp3"
 		},
@@ -54,7 +54,7 @@
 			"English": "The chilled air felt good.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "شعر الهواء المبرد جيدة.",
 			"Egyptian Arabic Audio": "eca-2117-6.mp3",
 			"Standard Arabic Audio": "msa-2117-6.mp3"
 		}

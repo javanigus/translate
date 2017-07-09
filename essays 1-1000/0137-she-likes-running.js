@@ -9,7 +9,7 @@
 			"English": "She puts her running shoes on.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وقالت انها يضع لها الاحذية جرا.",
 			"Egyptian Arabic Audio": "eca-0137-1.mp3",
 			"Standard Arabic Audio": "msa-0137-1.mp3"
 		},
@@ -18,7 +18,7 @@
 			"English": "She leaves her apartment.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "تركت شقتها.",
 			"Egyptian Arabic Audio": "eca-0137-2.mp3",
 			"Standard Arabic Audio": "msa-0137-2.mp3"
 		},
@@ -27,7 +27,7 @@
 			"English": "She runs to her school.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وهي تدير إلى مدرستها.",
 			"Egyptian Arabic Audio": "eca-0137-3.mp3",
 			"Standard Arabic Audio": "msa-0137-3.mp3"
 		},
@@ -36,7 +36,7 @@
 			"English": "She likes to look at other houses.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "تحب أن تنظر إلى منازل أخرى.",
 			"Egyptian Arabic Audio": "eca-0137-4.mp3",
 			"Standard Arabic Audio": "msa-0137-4.mp3"
 		},
@@ -45,7 +45,7 @@
 			"English": "She likes the feeling of the wind on her face.",
 			"Word Count": 10,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "إنها تحب شعور الريح على وجهها.",
 			"Egyptian Arabic Audio": "eca-0137-5.mp3",
 			"Standard Arabic Audio": "msa-0137-5.mp3"
 		},
@@ -54,7 +54,7 @@
 			"English": "She gets to the school.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انها تحصل على المدرسة.",
 			"Egyptian Arabic Audio": "eca-0137-6.mp3",
 			"Standard Arabic Audio": "msa-0137-6.mp3"
 		},
@@ -63,7 +63,7 @@
 			"English": "She sees her teacher.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ترى معلمها.",
 			"Egyptian Arabic Audio": "eca-0137-7.mp3",
 			"Standard Arabic Audio": "msa-0137-7.mp3"
 		},
@@ -72,7 +72,7 @@
 			"English": "She does not like that teacher.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انها لا تحب هذا المعلم.",
 			"Egyptian Arabic Audio": "eca-0137-8.mp3",
 			"Standard Arabic Audio": "msa-0137-8.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "She runs back home.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "تدير المنزل.",
 			"Egyptian Arabic Audio": "eca-0137-9.mp3",
 			"Standard Arabic Audio": "msa-0137-9.mp3"
 		}

@@ -9,7 +9,7 @@
 			"English": "She liked to feed popcorn to the pigeons.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كانت تحب أن تغذي الفشار إلى الحمام.",
 			"Egyptian Arabic Audio": "eca-0447-1.mp3",
 			"Standard Arabic Audio": "msa-0447-1.mp3"
 		},
@@ -18,7 +18,7 @@
 			"English": "The pigeons liked to eat her popcorn.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "الحمام أحب أن يأكل الفشار لها.",
 			"Egyptian Arabic Audio": "eca-0447-2.mp3",
 			"Standard Arabic Audio": "msa-0447-2.mp3"
 		},
@@ -27,7 +27,7 @@
 			"English": "She put popcorn in her hand.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وضعت الفشار في يدها.",
 			"Egyptian Arabic Audio": "eca-0447-3.mp3",
 			"Standard Arabic Audio": "msa-0447-3.mp3"
 		},
@@ -36,7 +36,7 @@
 			"English": "A pigeon ate the popcorn in her hand.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "حمامة أكلت الفشار في يدها.",
 			"Egyptian Arabic Audio": "eca-0447-4.mp3",
 			"Standard Arabic Audio": "msa-0447-4.mp3"
 		},
@@ -45,7 +45,7 @@
 			"English": "She put popcorn on her shoulder.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وضعت الفشار على كتفها.",
 			"Egyptian Arabic Audio": "eca-0447-5.mp3",
 			"Standard Arabic Audio": "msa-0447-5.mp3"
 		},
@@ -54,7 +54,7 @@
 			"English": "A pigeon ate the popcorn on her shoulder.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أكل الحمام، ال التعريف، الفشار، عن، رايتها، تقع على عاتقه.",
 			"Egyptian Arabic Audio": "eca-0447-6.mp3",
 			"Standard Arabic Audio": "msa-0447-6.mp3"
 		},
@@ -63,7 +63,7 @@
 			"English": "She put popcorn in her hair.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وضعت الفشار في شعرها.",
 			"Egyptian Arabic Audio": "eca-0447-7.mp3",
 			"Standard Arabic Audio": "msa-0447-7.mp3"
 		},
@@ -72,7 +72,7 @@
 			"English": "A pigeon ate the popcorn in her hair.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "حمامة أكلت الفشار في شعرها.",
 			"Egyptian Arabic Audio": "eca-0447-8.mp3",
 			"Standard Arabic Audio": "msa-0447-8.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "She sat down on a bench.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "جلست على مقعد.",
 			"Egyptian Arabic Audio": "eca-0447-9.mp3",
 			"Standard Arabic Audio": "msa-0447-9.mp3"
 		},
@@ -90,7 +90,7 @@
 			"English": "It was a wooden bench in the park.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كان مقعد خشبي في الحديقة.",
 			"Egyptian Arabic Audio": "eca-0447-10.mp3",
 			"Standard Arabic Audio": "msa-0447-10.mp3"
 		},
@@ -99,7 +99,7 @@
 			"English": "She put popcorn all over the bench.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وضعت الفشار في جميع أنحاء مقاعد البدلاء.",
 			"Egyptian Arabic Audio": "eca-0447-11.mp3",
 			"Standard Arabic Audio": "msa-0447-11.mp3"
 		},
@@ -108,7 +108,7 @@
 			"English": "She put popcorn all over her clothes.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وضعت الفشار في جميع أنحاء ملابسها.",
 			"Egyptian Arabic Audio": "eca-0447-12.mp3",
 			"Standard Arabic Audio": "msa-0447-12.mp3"
 		},
@@ -117,7 +117,7 @@
 			"English": "She put popcorn on her head.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وضعت الفشار على رأسها.",
 			"Egyptian Arabic Audio": "eca-0447-13.mp3",
 			"Standard Arabic Audio": "msa-0447-13.mp3"
 		},
@@ -126,7 +126,7 @@
 			"English": "She put popcorn on her lap.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وضعت الفشار على حضنها.",
 			"Egyptian Arabic Audio": "eca-0447-14.mp3",
 			"Standard Arabic Audio": "msa-0447-14.mp3"
 		},
@@ -135,7 +135,7 @@
 			"English": "Many pigeons landed on the bench.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "سقط العديد من الحمام على مقاعد البدلاء.",
 			"Egyptian Arabic Audio": "eca-0447-15.mp3",
 			"Standard Arabic Audio": "msa-0447-15.mp3"
 		},
@@ -144,7 +144,7 @@
 			"English": "Many pigeons landed on her.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هبطت العديد من الحمام على بلدها.",
 			"Egyptian Arabic Audio": "eca-0447-16.mp3",
 			"Standard Arabic Audio": "msa-0447-16.mp3"
 		},
@@ -153,7 +153,7 @@
 			"English": "Nobody could see her.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لا أحد يستطيع أن يراها.",
 			"Egyptian Arabic Audio": "eca-0447-17.mp3",
 			"Standard Arabic Audio": "msa-0447-17.mp3"
 		},
@@ -162,7 +162,7 @@
 			"English": "Nobody could see the bench.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لا أحد يستطيع أن يرى مقاعد البدلاء.",
 			"Egyptian Arabic Audio": "eca-0447-18.mp3",
 			"Standard Arabic Audio": "msa-0447-18.mp3"
 		}

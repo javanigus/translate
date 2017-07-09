@@ -9,7 +9,7 @@
 			"English": "He was homeless.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كان بلا مأوى.",
 			"Egyptian Arabic Audio": "eca-1267-1.mp3",
 			"Standard Arabic Audio": "msa-1267-1.mp3"
 		},
@@ -18,7 +18,7 @@
 			"English": "He was cold.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كان البرد.",
 			"Egyptian Arabic Audio": "eca-1267-2.mp3",
 			"Standard Arabic Audio": "msa-1267-2.mp3"
 		},
@@ -27,7 +27,7 @@
 			"English": "He was shivering.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كان يرتجف.",
 			"Egyptian Arabic Audio": "eca-1267-3.mp3",
 			"Standard Arabic Audio": "msa-1267-3.mp3"
 		},
@@ -36,7 +36,7 @@
 			"English": "He was in the park.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كان في الحديقة.",
 			"Egyptian Arabic Audio": "eca-1267-4.mp3",
 			"Standard Arabic Audio": "msa-1267-4.mp3"
 		},
@@ -45,7 +45,7 @@
 			"English": "He was sitting on a bench.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كان يجلس على مقاعد البدلاء.",
 			"Egyptian Arabic Audio": "eca-1267-5.mp3",
 			"Standard Arabic Audio": "msa-1267-5.mp3"
 		},
@@ -54,7 +54,7 @@
 			"English": "A sign was next to him.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وكانت علامة بجانبه.",
 			"Egyptian Arabic Audio": "eca-1267-6.mp3",
 			"Standard Arabic Audio": "msa-1267-6.mp3"
 		},
@@ -63,7 +63,7 @@
 			"English": "The sign said, \"Please hire me.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وقال علامة &quot;يرجى استئجار لي.",
 			"Egyptian Arabic Audio": "eca-1267-7.mp3",
 			"Standard Arabic Audio": "msa-1267-7.mp3"
 		},
@@ -72,7 +72,7 @@
 			"English": "I am homeless.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنا بلا مأوى.",
 			"Egyptian Arabic Audio": "eca-1267-8.mp3",
 			"Standard Arabic Audio": "msa-1267-8.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "\" People walked by.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "&quot;مشى الناس.",
 			"Egyptian Arabic Audio": "eca-1267-9.mp3",
 			"Standard Arabic Audio": "msa-1267-9.mp3"
 		},
@@ -90,7 +90,7 @@
 			"English": "They looked at him.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "نظروا إليه.",
 			"Egyptian Arabic Audio": "eca-1267-10.mp3",
 			"Standard Arabic Audio": "msa-1267-10.mp3"
 		},
@@ -99,7 +99,7 @@
 			"English": "He looked dirty.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "بدا قذرة.",
 			"Egyptian Arabic Audio": "eca-1267-11.mp3",
 			"Standard Arabic Audio": "msa-1267-11.mp3"
 		},
@@ -108,7 +108,7 @@
 			"English": "He looked old.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وقال انه يتطلع القديم.",
 			"Egyptian Arabic Audio": "eca-1267-12.mp3",
 			"Standard Arabic Audio": "msa-1267-12.mp3"
 		},
@@ -117,7 +117,7 @@
 			"English": "How could this man work? He was too old to work.",
 			"Word Count": 11,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كيف يمكن لهذا الرجل العمل؟ كان قديم جدا للعمل.",
 			"Egyptian Arabic Audio": "eca-1267-13.mp3",
 			"Standard Arabic Audio": "msa-1267-13.mp3"
 		},
@@ -126,7 +126,7 @@
 			"English": "He was too dirty to work.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كان قذرة جدا للعمل.",
 			"Egyptian Arabic Audio": "eca-1267-14.mp3",
 			"Standard Arabic Audio": "msa-1267-14.mp3"
 		},
@@ -135,7 +135,7 @@
 			"English": "He needed a bath.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كان في حاجة إلى حمام.",
 			"Egyptian Arabic Audio": "eca-1267-15.mp3",
 			"Standard Arabic Audio": "msa-1267-15.mp3"
 		},
@@ -144,7 +144,7 @@
 			"English": "He needed some food.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كان يحتاج إلى بعض الطعام.",
 			"Egyptian Arabic Audio": "eca-1267-16.mp3",
 			"Standard Arabic Audio": "msa-1267-16.mp3"
 		},
@@ -153,7 +153,7 @@
 			"English": "One lady stopped.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "توقفت سيدة واحدة.",
 			"Egyptian Arabic Audio": "eca-1267-17.mp3",
 			"Standard Arabic Audio": "msa-1267-17.mp3"
 		},
@@ -162,7 +162,7 @@
 			"English": "She sat down next to him.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "جلست بجانبه.",
 			"Egyptian Arabic Audio": "eca-1267-18.mp3",
 			"Standard Arabic Audio": "msa-1267-18.mp3"
 		},
@@ -171,7 +171,7 @@
 			"English": "She said she belonged to a church.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وقالت إنها تنتمي إلى كنيسة.",
 			"Egyptian Arabic Audio": "eca-1267-19.mp3",
 			"Standard Arabic Audio": "msa-1267-19.mp3"
 		},
@@ -180,7 +180,7 @@
 			"English": "She said to come with her.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وقالت إنها تأتي معها.",
 			"Egyptian Arabic Audio": "eca-1267-20.mp3",
 			"Standard Arabic Audio": "msa-1267-20.mp3"
 		},
@@ -189,7 +189,7 @@
 			"English": "They both got up.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كلاهما على ما يصل.",
 			"Egyptian Arabic Audio": "eca-1267-21.mp3",
 			"Standard Arabic Audio": "msa-1267-21.mp3"
 		},
@@ -198,7 +198,7 @@
 			"English": "He walked with her to the church.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "مشى معها إلى الكنيسة.",
 			"Egyptian Arabic Audio": "eca-1267-22.mp3",
 			"Standard Arabic Audio": "msa-1267-22.mp3"
 		},
@@ -207,7 +207,7 @@
 			"English": "The church was warm.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كانت الكنيسة دافئة.",
 			"Egyptian Arabic Audio": "eca-1267-23.mp3",
 			"Standard Arabic Audio": "msa-1267-23.mp3"
 		},
@@ -216,7 +216,7 @@
 			"English": "He smelled hot food.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كان رائحة الطعام الساخن.",
 			"Egyptian Arabic Audio": "eca-1267-24.mp3",
 			"Standard Arabic Audio": "msa-1267-24.mp3"
 		},
@@ -225,7 +225,7 @@
 			"English": "She said, \"Our church will help you.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وقالت: &quot;كنيستنا سوف تساعدك.",
 			"Egyptian Arabic Audio": "eca-1267-25.mp3",
 			"Standard Arabic Audio": "msa-1267-25.mp3"
 		},
@@ -234,7 +234,7 @@
 			"English": "\".",
 			"Word Count": 1,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "&quot;.",
 			"Egyptian Arabic Audio": "eca-1267-26.mp3",
 			"Standard Arabic Audio": "msa-1267-26.mp3"
 		}

@@ -11,7 +11,7 @@
 			"English": "What are you doing?",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ماذا تفعل؟",
 			"Egyptian Arabic Audio": "eca-0385-1.mp3",
 			"Standard Arabic Audio": "msa-0385-1.mp3"
 		},
@@ -21,7 +21,7 @@
 			"English": "I'm going to change the light bulb. It burnt out.",
 			"Word Count": 10,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنا ذاهب لتغيير المصباح الكهربائي. أحرقت بها.",
 			"Egyptian Arabic Audio": "eca-0385-2.mp3",
 			"Standard Arabic Audio": "msa-0385-2.mp3"
 		},
@@ -31,7 +31,7 @@
 			"English": "What are you standing on?",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ماذا تقف على؟",
 			"Egyptian Arabic Audio": "eca-0385-3.mp3",
 			"Standard Arabic Audio": "msa-0385-3.mp3"
 		},
@@ -41,7 +41,7 @@
 			"English": "A couple of dictionaries and some textbooks.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "اثنين من القواميس وبعض الكتب المدرسية.",
 			"Egyptian Arabic Audio": "eca-0385-4.mp3",
 			"Standard Arabic Audio": "msa-0385-4.mp3"
 		},
@@ -51,7 +51,7 @@
 			"English": "Are you crazy?",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هل أنت مجنون؟",
 			"Egyptian Arabic Audio": "eca-0385-5.mp3",
 			"Standard Arabic Audio": "msa-0385-5.mp3"
 		},
@@ -61,7 +61,7 @@
 			"English": "What's the matter?",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ما الأمر؟",
 			"Egyptian Arabic Audio": "eca-0385-6.mp3",
 			"Standard Arabic Audio": "msa-0385-6.mp3"
 		},
@@ -71,7 +71,7 @@
 			"English": "Those books will slip and you'll fall.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "تلك الكتب سوف تنزلق وستقع.",
 			"Egyptian Arabic Audio": "eca-0385-7.mp3",
 			"Standard Arabic Audio": "msa-0385-7.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "It's only a couple of feet.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انها مجرد بضعة أقدام.",
 			"Egyptian Arabic Audio": "eca-0385-8.mp3",
 			"Standard Arabic Audio": "msa-0385-8.mp3"
 		},
@@ -91,7 +91,7 @@
 			"English": "What if you fall while you're holding the light bulb, and it breaks and pieces go into your eyes?",
 			"Word Count": 19,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ماذا لو كنت تقع في حين كنت عقد المصباح الكهربائي، وأنه يكسر وقطع تدخل في عينيك؟",
 			"Egyptian Arabic Audio": "eca-0385-9.mp3",
 			"Standard Arabic Audio": "msa-0385-9.mp3"
 		},
@@ -101,7 +101,7 @@
 			"English": "I never thought about that.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لم أفكر أبدا في ذلك.",
 			"Egyptian Arabic Audio": "eca-0385-10.mp3",
 			"Standard Arabic Audio": "msa-0385-10.mp3"
 		},
@@ -111,7 +111,7 @@
 			"English": "You'd be blind for the rest of your life!",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كنت أعمى لبقية حياتك!",
 			"Egyptian Arabic Audio": "eca-0385-11.mp3",
 			"Standard Arabic Audio": "msa-0385-11.mp3"
 		},
@@ -121,7 +121,7 @@
 			"English": "I'll get the stepladder.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "سأحصل على ستيبلادر.",
 			"Egyptian Arabic Audio": "eca-0385-12.mp3",
 			"Standard Arabic Audio": "msa-0385-12.mp3"
 		}

@@ -11,7 +11,7 @@
 			"English": "I'm upset with my mom.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنا مستاء مع أمي.",
 			"Egyptian Arabic Audio": "eca-0247-1.mp3",
 			"Standard Arabic Audio": "msa-0247-1.mp3"
 		},
@@ -21,7 +21,7 @@
 			"English": "Why is that?",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لماذا هذا؟",
 			"Egyptian Arabic Audio": "eca-0247-2.mp3",
 			"Standard Arabic Audio": "msa-0247-2.mp3"
 		},
@@ -31,7 +31,7 @@
 			"English": "I warned her about her new boyfriend. She didn't listen to me.",
 			"Word Count": 12,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "حذرت لها عن صديقها الجديد. لم تستمع إلي.",
 			"Egyptian Arabic Audio": "eca-0247-3.mp3",
 			"Standard Arabic Audio": "msa-0247-3.mp3"
 		},
@@ -41,7 +41,7 @@
 			"English": "What happened?",
 			"Word Count": 2,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ماذا حدث؟",
 			"Egyptian Arabic Audio": "eca-0247-4.mp3",
 			"Standard Arabic Audio": "msa-0247-4.mp3"
 		},
@@ -51,7 +51,7 @@
 			"English": "I gave her $1,000 for her birthday. I told her to spend it on herself.",
 			"Word Count": 15,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أعطيتها 1000 دولار لعيد ميلادها. قلت لها أن تنفقها على نفسها.",
 			"Egyptian Arabic Audio": "eca-0247-5.mp3",
 			"Standard Arabic Audio": "msa-0247-5.mp3"
 		},
@@ -61,7 +61,7 @@
 			"English": "That was very nice of you.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كان هذا لطفا منك.",
 			"Egyptian Arabic Audio": "eca-0247-6.mp3",
 			"Standard Arabic Audio": "msa-0247-6.mp3"
 		},
@@ -71,7 +71,7 @@
 			"English": "I found out that she gave it to her new boyfriend.",
 			"Word Count": 11,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "اكتشفت أنها أعطتها لصديقها الجديد.",
 			"Egyptian Arabic Audio": "eca-0247-7.mp3",
 			"Standard Arabic Audio": "msa-0247-7.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "Why did she do that?",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لماذا فعلت ذلك؟",
 			"Egyptian Arabic Audio": "eca-0247-8.mp3",
 			"Standard Arabic Audio": "msa-0247-8.mp3"
 		},
@@ -91,7 +91,7 @@
 			"English": "He said he would buy her a nice ring.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وقال انه سيشتري لها حلقة لطيفة.",
 			"Egyptian Arabic Audio": "eca-0247-9.mp3",
 			"Standard Arabic Audio": "msa-0247-9.mp3"
 		},
@@ -101,7 +101,7 @@
 			"English": "What's wrong with that?",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ما الخطأ فى ذلك؟",
 			"Egyptian Arabic Audio": "eca-0247-10.mp3",
 			"Standard Arabic Audio": "msa-0247-10.mp3"
 		},
@@ -111,7 +111,7 @@
 			"English": "He went to Las Vegas. He lost it all gambling.",
 			"Word Count": 10,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ذهب إلى لاس فيغاس. خسر كل المقامرة.",
 			"Egyptian Arabic Audio": "eca-0247-11.mp3",
 			"Standard Arabic Audio": "msa-0247-11.mp3"
 		},
@@ -121,7 +121,7 @@
 			"English": "I hope your mom broke up with him.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "آمل أمك اندلعت معه.",
 			"Egyptian Arabic Audio": "eca-0247-12.mp3",
 			"Standard Arabic Audio": "msa-0247-12.mp3"
 		}

@@ -9,7 +9,7 @@
 			"English": "But Jimi Hendrix was less even-tempered.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ولكن جيمي هندريكس كان أقل خفف.",
 			"Egyptian Arabic Audio": "eca-1924-1.mp3",
 			"Standard Arabic Audio": "msa-1924-1.mp3"
 		},
@@ -18,7 +18,7 @@
 			"English": "\"Common sense would tell anybody that you don't set fires in a wooded area when the wind is blowing like crazy.",
 			"Word Count": 21,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "&quot;من المنطق السليم أن يخبر أحدا بأنك لا تضع حرائق في منطقة مشجرة عندما تهب الرياح مثل مجنون.",
 			"Egyptian Arabic Audio": "eca-1924-2.mp3",
 			"Standard Arabic Audio": "msa-1924-2.mp3"
 		},
@@ -27,7 +27,7 @@
 			"English": "Any idiot would know that.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أي أحمق أن نعرف ذلك.",
 			"Egyptian Arabic Audio": "eca-1924-3.mp3",
 			"Standard Arabic Audio": "msa-1924-3.mp3"
 		},
@@ -36,7 +36,7 @@
 			"English": "As far as I'm concerned, these bastards ought to be burned at the stake.",
 			"Word Count": 14,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "بقدر ما أنا قلق، هذه الأوباش يجب أن تحرق على المحك.",
 			"Egyptian Arabic Audio": "eca-1924-4.mp3",
 			"Standard Arabic Audio": "msa-1924-4.mp3"
 		},
@@ -45,7 +45,7 @@
 			"English": "And I'd grab me a front-row seat.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وأنتظرني مقعدا في الصف الأمامي.",
 			"Egyptian Arabic Audio": "eca-1924-5.mp3",
 			"Standard Arabic Audio": "msa-1924-5.mp3"
 		},
@@ -54,7 +54,7 @@
 			"English": "\".",
 			"Word Count": 1,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "&quot;.",
 			"Egyptian Arabic Audio": "eca-1924-6.mp3",
 			"Standard Arabic Audio": "msa-1924-6.mp3"
 		}

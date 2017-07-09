@@ -11,7 +11,7 @@
 			"English": "Are you planning on voting?",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هل تخططون للتصويت؟",
 			"Egyptian Arabic Audio": "eca-1466-1.mp3",
 			"Standard Arabic Audio": "msa-1466-1.mp3"
 		},
@@ -21,7 +21,7 @@
 			"English": "Yes. What about you?",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "نعم فعلا. ماذا عنك؟",
 			"Egyptian Arabic Audio": "eca-1466-2.mp3",
 			"Standard Arabic Audio": "msa-1466-2.mp3"
 		},
@@ -31,7 +31,7 @@
 			"English": "Yes, but this will be my first time voting.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "نعم، لكن هذا سيكون أول تصويت لي.",
 			"Egyptian Arabic Audio": "eca-1466-3.mp3",
 			"Standard Arabic Audio": "msa-1466-3.mp3"
 		},
@@ -41,7 +41,7 @@
 			"English": "Really?",
 			"Word Count": 1,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هل حقا؟",
 			"Egyptian Arabic Audio": "eca-1466-4.mp3",
 			"Standard Arabic Audio": "msa-1466-4.mp3"
 		},
@@ -51,7 +51,7 @@
 			"English": "Yes, and I have no idea how to do it.",
 			"Word Count": 10,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "نعم، وليس لدي أي فكرة عن كيفية القيام بذلك.",
 			"Egyptian Arabic Audio": "eca-1466-5.mp3",
 			"Standard Arabic Audio": "msa-1466-5.mp3"
 		},
@@ -61,7 +61,7 @@
 			"English": "Voting is simple.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "التصويت بسيط.",
 			"Egyptian Arabic Audio": "eca-1466-6.mp3",
 			"Standard Arabic Audio": "msa-1466-6.mp3"
 		},
@@ -71,7 +71,7 @@
 			"English": "I don't know any of the laws they're trying to pass.",
 			"Word Count": 11,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لا أعرف أي من القوانين التي يحاولون تمريرها.",
 			"Egyptian Arabic Audio": "eca-1466-7.mp3",
 			"Standard Arabic Audio": "msa-1466-7.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "That's okay. They describe everything on the ballot.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "حسنا. وهي تصف كل شيء في الاقتراع.",
 			"Egyptian Arabic Audio": "eca-1466-8.mp3",
 			"Standard Arabic Audio": "msa-1466-8.mp3"
 		},
@@ -91,7 +91,7 @@
 			"English": "I didn't know that.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لم أكن أعرف ذلك.",
 			"Egyptian Arabic Audio": "eca-1466-9.mp3",
 			"Standard Arabic Audio": "msa-1466-9.mp3"
 		},
@@ -101,7 +101,7 @@
 			"English": "Don't worry. You'll be fine.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لا تقلق. عليك أن تكون على ما يرام.",
 			"Egyptian Arabic Audio": "eca-1466-10.mp3",
 			"Standard Arabic Audio": "msa-1466-10.mp3"
 		},
@@ -111,7 +111,7 @@
 			"English": "That's good to know.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "من الجيد أن تعرف.",
 			"Egyptian Arabic Audio": "eca-1466-11.mp3",
 			"Standard Arabic Audio": "msa-1466-11.mp3"
 		},
@@ -121,7 +121,7 @@
 			"English": "Congratulations on your first voting day.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "تهانينا في يوم التصويت الأول.",
 			"Egyptian Arabic Audio": "eca-1466-12.mp3",
 			"Standard Arabic Audio": "msa-1466-12.mp3"
 		},
@@ -131,7 +131,7 @@
 			"English": "Are you going to vote?",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنت ذاهب للتصويت؟",
 			"Egyptian Arabic Audio": "eca-1466-13.mp3",
 			"Standard Arabic Audio": "msa-1466-13.mp3"
 		},
@@ -141,7 +141,7 @@
 			"English": "I am. Are you?",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انا. أنت؟",
 			"Egyptian Arabic Audio": "eca-1466-14.mp3",
 			"Standard Arabic Audio": "msa-1466-14.mp3"
 		},
@@ -151,7 +151,7 @@
 			"English": "Yes, and for the first time.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "نعم، ولأول مرة.",
 			"Egyptian Arabic Audio": "eca-1466-15.mp3",
 			"Standard Arabic Audio": "msa-1466-15.mp3"
 		},
@@ -161,7 +161,7 @@
 			"English": "Is that right?",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هل هذا صحيح؟",
 			"Egyptian Arabic Audio": "eca-1466-16.mp3",
 			"Standard Arabic Audio": "msa-1466-16.mp3"
 		},
@@ -171,7 +171,7 @@
 			"English": "I don't know how to vote.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنا لا أعرف كيفية التصويت.",
 			"Egyptian Arabic Audio": "eca-1466-17.mp3",
 			"Standard Arabic Audio": "msa-1466-17.mp3"
 		},
@@ -181,7 +181,7 @@
 			"English": "Voting isn't difficult.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "التصويت ليس صعبا.",
 			"Egyptian Arabic Audio": "eca-1466-18.mp3",
 			"Standard Arabic Audio": "msa-1466-18.mp3"
 		},
@@ -191,7 +191,7 @@
 			"English": "I'm not sure what laws are being voted on.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لست متأكدا من القوانين التي يتم التصويت عليها.",
 			"Egyptian Arabic Audio": "eca-1466-19.mp3",
 			"Standard Arabic Audio": "msa-1466-19.mp3"
 		},
@@ -201,7 +201,7 @@
 			"English": "They tell you everything on the ballot.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يقولون لك كل شيء في الاقتراع.",
 			"Egyptian Arabic Audio": "eca-1466-20.mp3",
 			"Standard Arabic Audio": "msa-1466-20.mp3"
 		},
@@ -211,7 +211,7 @@
 			"English": "They do?",
 			"Word Count": 2,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "إنهم يفعلون؟",
 			"Egyptian Arabic Audio": "eca-1466-21.mp3",
 			"Standard Arabic Audio": "msa-1466-21.mp3"
 		},
@@ -221,7 +221,7 @@
 			"English": "You'll be okay.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ستكون بخير.",
 			"Egyptian Arabic Audio": "eca-1466-22.mp3",
 			"Standard Arabic Audio": "msa-1466-22.mp3"
 		},
@@ -231,7 +231,7 @@
 			"English": "Thanks for telling me.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "شكرا لإخباري.",
 			"Egyptian Arabic Audio": "eca-1466-23.mp3",
 			"Standard Arabic Audio": "msa-1466-23.mp3"
 		},
@@ -241,7 +241,7 @@
 			"English": "You should be excited about your first vote.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يجب أن تكون متحمسا للتصويت الأول.",
 			"Egyptian Arabic Audio": "eca-1466-24.mp3",
 			"Standard Arabic Audio": "msa-1466-24.mp3"
 		},
@@ -251,7 +251,7 @@
 			"English": "Will you be voting this year?",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "سوف تصوت هذا العام؟",
 			"Egyptian Arabic Audio": "eca-1466-25.mp3",
 			"Standard Arabic Audio": "msa-1466-25.mp3"
 		},
@@ -261,7 +261,7 @@
 			"English": "Of course! Will you?",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "بالتاكيد! سوف تفعل؟",
 			"Egyptian Arabic Audio": "eca-1466-26.mp3",
 			"Standard Arabic Audio": "msa-1466-26.mp3"
 		},
@@ -271,7 +271,7 @@
 			"English": "This is going to be my first time voting.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "سيكون هذا أول تصويت لي.",
 			"Egyptian Arabic Audio": "eca-1466-27.mp3",
 			"Standard Arabic Audio": "msa-1466-27.mp3"
 		},
@@ -281,7 +281,7 @@
 			"English": "Are you serious?",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هل أنت جاد؟",
 			"Egyptian Arabic Audio": "eca-1466-28.mp3",
 			"Standard Arabic Audio": "msa-1466-28.mp3"
 		},
@@ -291,7 +291,7 @@
 			"English": "I'm not sure what I'm doing.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لست متأكدا مما أفعله.",
 			"Egyptian Arabic Audio": "eca-1466-29.mp3",
 			"Standard Arabic Audio": "msa-1466-29.mp3"
 		},
@@ -301,7 +301,7 @@
 			"English": "Voting is easy.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "التصويت سهل.",
 			"Egyptian Arabic Audio": "eca-1466-30.mp3",
 			"Standard Arabic Audio": "msa-1466-30.mp3"
 		},
@@ -311,7 +311,7 @@
 			"English": "I don't know anything about the bills or laws they're trying to pass.",
 			"Word Count": 13,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنا لا أعرف أي شيء عن مشاريع القوانين أو القوانين التي تحاول تمرير.",
 			"Egyptian Arabic Audio": "eca-1466-31.mp3",
 			"Standard Arabic Audio": "msa-1466-31.mp3"
 		},
@@ -321,7 +321,7 @@
 			"English": "The ballot gives you all that information.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "الاقتراع يمنحك كل تلك المعلومات.",
 			"Egyptian Arabic Audio": "eca-1466-32.mp3",
 			"Standard Arabic Audio": "msa-1466-32.mp3"
 		},
@@ -331,7 +331,7 @@
 			"English": "Nobody told me that before.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لا أحد قال لي ذلك من قبل.",
 			"Egyptian Arabic Audio": "eca-1466-33.mp3",
 			"Standard Arabic Audio": "msa-1466-33.mp3"
 		},
@@ -341,7 +341,7 @@
 			"English": "You have nothing to worry about.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لديك ما يدعو للقلق.",
 			"Egyptian Arabic Audio": "eca-1466-34.mp3",
 			"Standard Arabic Audio": "msa-1466-34.mp3"
 		},
@@ -351,7 +351,7 @@
 			"English": "I'm so glad you told me that.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنا سعيد جدا قلت لي ذلك.",
 			"Egyptian Arabic Audio": "eca-1466-35.mp3",
 			"Standard Arabic Audio": "msa-1466-35.mp3"
 		},
@@ -361,7 +361,7 @@
 			"English": "Good luck on your first election.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "حظا سعيدا في انتخابكم الأول.",
 			"Egyptian Arabic Audio": "eca-1466-36.mp3",
 			"Standard Arabic Audio": "msa-1466-36.mp3"
 		}

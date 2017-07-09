@@ -11,7 +11,7 @@
 			"English": "Before you take your written test, we need to take your picture.",
 			"Word Count": 12,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "قبل أن تأخذ اختبار مكتوب، ونحن بحاجة لالتقاط صورتك.",
 			"Egyptian Arabic Audio": "eca-0628-1.mp3",
 			"Standard Arabic Audio": "msa-0628-1.mp3"
 		},
@@ -21,7 +21,7 @@
 			"English": "Okay, where do I go?",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "حسنا، أين أذهب؟",
 			"Egyptian Arabic Audio": "eca-0628-2.mp3",
 			"Standard Arabic Audio": "msa-0628-2.mp3"
 		},
@@ -31,7 +31,7 @@
 			"English": "I can take the photo. Stand behind the red line, please.",
 			"Word Count": 11,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يمكنني التقاط الصورة. الوقوف وراء الخط الأحمر، من فضلك.",
 			"Egyptian Arabic Audio": "eca-0628-3.mp3",
 			"Standard Arabic Audio": "msa-0628-3.mp3"
 		},
@@ -41,7 +41,7 @@
 			"English": "Where do I go to take the test?",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أين أذهب لإجراء الاختبار؟",
 			"Egyptian Arabic Audio": "eca-0628-4.mp3",
 			"Standard Arabic Audio": "msa-0628-4.mp3"
 		},
@@ -51,7 +51,7 @@
 			"English": "Go on the other side of the wall, and pick a stall.",
 			"Word Count": 12,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "الذهاب على الجانب الآخر من الجدار، واختيار كشك.",
 			"Egyptian Arabic Audio": "eca-0628-5.mp3",
 			"Standard Arabic Audio": "msa-0628-5.mp3"
 		},
@@ -61,7 +61,7 @@
 			"English": "Sounds good. May I have a pencil?",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يبدو جيدا. هل لدي قلم رصاص؟",
 			"Egyptian Arabic Audio": "eca-0628-6.mp3",
 			"Standard Arabic Audio": "msa-0628-6.mp3"
 		},
@@ -71,7 +71,7 @@
 			"English": "Sure, the pencils are at the front desk.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "بالتأكيد، أقلام الرصاص هي في مكتب الاستقبال.",
 			"Egyptian Arabic Audio": "eca-0628-7.mp3",
 			"Standard Arabic Audio": "msa-0628-7.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "Where do I obtain the test?",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أين يمكنني الحصول على الاختبار؟",
 			"Egyptian Arabic Audio": "eca-0628-8.mp3",
 			"Standard Arabic Audio": "msa-0628-8.mp3"
 		},
@@ -91,7 +91,7 @@
 			"English": "They will give you your test. Remember, eyes on your own test.",
 			"Word Count": 12,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وسوف تعطيك الاختبار. تذكر، عيون على الاختبار الخاص بك.",
 			"Egyptian Arabic Audio": "eca-0628-9.mp3",
 			"Standard Arabic Audio": "msa-0628-9.mp3"
 		},
@@ -101,7 +101,7 @@
 			"English": "Of course. This reminds me of school.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "بالتاكيد. وهذا يذكرني بالمدرسة.",
 			"Egyptian Arabic Audio": "eca-0628-10.mp3",
 			"Standard Arabic Audio": "msa-0628-10.mp3"
 		},
@@ -111,7 +111,7 @@
 			"English": "Yeah, we get that a lot.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "نعم، نحصل على الكثير.",
 			"Egyptian Arabic Audio": "eca-0628-11.mp3",
 			"Standard Arabic Audio": "msa-0628-11.mp3"
 		},
@@ -121,7 +121,7 @@
 			"English": "Will they let me know if I passed the test or not?",
 			"Word Count": 12,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هل سيخبروني إذا اجتزت الاختبار أم لا؟",
 			"Egyptian Arabic Audio": "eca-0628-12.mp3",
 			"Standard Arabic Audio": "msa-0628-12.mp3"
 		},
@@ -131,7 +131,7 @@
 			"English": "Yes, they will let you know after you finish.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "نعم، وسوف تتيح لك معرفة بعد الانتهاء.",
 			"Egyptian Arabic Audio": "eca-0628-13.mp3",
 			"Standard Arabic Audio": "msa-0628-13.mp3"
 		}

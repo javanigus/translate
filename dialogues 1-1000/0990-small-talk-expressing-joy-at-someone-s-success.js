@@ -11,7 +11,7 @@
 			"English": "Did you hear the good news?",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هل سمعت الخبر السار؟",
 			"Egyptian Arabic Audio": "eca-0990-1.mp3",
 			"Standard Arabic Audio": "msa-0990-1.mp3"
 		},
@@ -21,7 +21,7 @@
 			"English": "No, I haven't.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لا، لم أفعل ذلك.",
 			"Egyptian Arabic Audio": "eca-0990-2.mp3",
 			"Standard Arabic Audio": "msa-0990-2.mp3"
 		},
@@ -31,7 +31,7 @@
 			"English": "I got a promotion at my job.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "حصلت على ترقية في وظيفتي.",
 			"Egyptian Arabic Audio": "eca-0990-3.mp3",
 			"Standard Arabic Audio": "msa-0990-3.mp3"
 		},
@@ -41,7 +41,7 @@
 			"English": "Did you really?",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هل حقا؟",
 			"Egyptian Arabic Audio": "eca-0990-4.mp3",
 			"Standard Arabic Audio": "msa-0990-4.mp3"
 		},
@@ -51,7 +51,7 @@
 			"English": "Seriously, I am so excited.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "على محمل الجد، أنا متحمس جدا.",
 			"Egyptian Arabic Audio": "eca-0990-5.mp3",
 			"Standard Arabic Audio": "msa-0990-5.mp3"
 		},
@@ -61,7 +61,7 @@
 			"English": "Well, congratulations.",
 			"Word Count": 2,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "حسنا، تهانينا.",
 			"Egyptian Arabic Audio": "eca-0990-6.mp3",
 			"Standard Arabic Audio": "msa-0990-6.mp3"
 		},
@@ -71,7 +71,7 @@
 			"English": "Thank you.",
 			"Word Count": 2,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "شكرا.",
 			"Egyptian Arabic Audio": "eca-0990-7.mp3",
 			"Standard Arabic Audio": "msa-0990-7.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "I'm so happy for you.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنا سعيد جدا لك.",
 			"Egyptian Arabic Audio": "eca-0990-8.mp3",
 			"Standard Arabic Audio": "msa-0990-8.mp3"
 		},
@@ -91,7 +91,7 @@
 			"English": "Really?",
 			"Word Count": 1,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هل حقا؟",
 			"Egyptian Arabic Audio": "eca-0990-9.mp3",
 			"Standard Arabic Audio": "msa-0990-9.mp3"
 		},
@@ -101,7 +101,7 @@
 			"English": "Yes. You really deserved this.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "نعم فعلا. كنت حقا يستحق هذا.",
 			"Egyptian Arabic Audio": "eca-0990-10.mp3",
 			"Standard Arabic Audio": "msa-0990-10.mp3"
 		},
@@ -111,7 +111,7 @@
 			"English": "You think so?",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كنت تعتقد ذلك؟",
 			"Egyptian Arabic Audio": "eca-0990-11.mp3",
 			"Standard Arabic Audio": "msa-0990-11.mp3"
 		},
@@ -121,7 +121,7 @@
 			"English": "Yes. Good for you.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "نعم فعلا. أمر طيب لك.",
 			"Egyptian Arabic Audio": "eca-0990-12.mp3",
 			"Standard Arabic Audio": "msa-0990-12.mp3"
 		},
@@ -131,7 +131,7 @@
 			"English": "Have you heard my good news?",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هل سمعت خبرتي السارة؟",
 			"Egyptian Arabic Audio": "eca-0990-13.mp3",
 			"Standard Arabic Audio": "msa-0990-13.mp3"
 		},
@@ -141,7 +141,7 @@
 			"English": "You haven't told me anything yet.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لم تخبرني شيئا بعد.",
 			"Egyptian Arabic Audio": "eca-0990-14.mp3",
 			"Standard Arabic Audio": "msa-0990-14.mp3"
 		},
@@ -151,7 +151,7 @@
 			"English": "I got a promotion at work earlier this week.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "حصلت على ترقية في العمل في وقت سابق من هذا الأسبوع.",
 			"Egyptian Arabic Audio": "eca-0990-15.mp3",
 			"Standard Arabic Audio": "msa-0990-15.mp3"
 		},
@@ -161,7 +161,7 @@
 			"English": "Is that right?",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هل هذا صحيح؟",
 			"Egyptian Arabic Audio": "eca-0990-16.mp3",
 			"Standard Arabic Audio": "msa-0990-16.mp3"
 		},
@@ -171,7 +171,7 @@
 			"English": "It's the truth. I am really happy.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "إنها الحقيقة. انا حقا سعيد.",
 			"Egyptian Arabic Audio": "eca-0990-17.mp3",
 			"Standard Arabic Audio": "msa-0990-17.mp3"
 		},
@@ -181,7 +181,7 @@
 			"English": "Congratulations on your promotion.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "التهاني على تعزيز الخاص بك.",
 			"Egyptian Arabic Audio": "eca-0990-18.mp3",
 			"Standard Arabic Audio": "msa-0990-18.mp3"
 		},
@@ -191,7 +191,7 @@
 			"English": "Thank you very much.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "شكرا جزيلا.",
 			"Egyptian Arabic Audio": "eca-0990-19.mp3",
 			"Standard Arabic Audio": "msa-0990-19.mp3"
 		},
@@ -201,7 +201,7 @@
 			"English": "I am really excited for you.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنا متحمس حقا بالنسبة لك.",
 			"Egyptian Arabic Audio": "eca-0990-20.mp3",
 			"Standard Arabic Audio": "msa-0990-20.mp3"
 		},
@@ -211,7 +211,7 @@
 			"English": "Are you really?",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هل أنت حقا؟",
 			"Egyptian Arabic Audio": "eca-0990-21.mp3",
 			"Standard Arabic Audio": "msa-0990-21.mp3"
 		},
@@ -221,7 +221,7 @@
 			"English": "I'm serious. You deserved this promotion.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنا جادة. لقد استحقت هذا العرض الترويجي.",
 			"Egyptian Arabic Audio": "eca-0990-22.mp3",
 			"Standard Arabic Audio": "msa-0990-22.mp3"
 		},
@@ -231,7 +231,7 @@
 			"English": "Is that what you really think?",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هل هذا ما تعتقده حقا؟",
 			"Egyptian Arabic Audio": "eca-0990-23.mp3",
 			"Standard Arabic Audio": "msa-0990-23.mp3"
 		},
@@ -241,7 +241,7 @@
 			"English": "Yes, I do.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أجل أقبل.",
 			"Egyptian Arabic Audio": "eca-0990-24.mp3",
 			"Standard Arabic Audio": "msa-0990-24.mp3"
 		},
@@ -251,7 +251,7 @@
 			"English": "I haven't told you what happened yet, have I?",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لم أخبرك بما حدث بعد، هل أنا؟",
 			"Egyptian Arabic Audio": "eca-0990-25.mp3",
 			"Standard Arabic Audio": "msa-0990-25.mp3"
 		},
@@ -261,7 +261,7 @@
 			"English": "I haven't heard anything.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لم أسمع أي شيء.",
 			"Egyptian Arabic Audio": "eca-0990-26.mp3",
 			"Standard Arabic Audio": "msa-0990-26.mp3"
 		},
@@ -271,7 +271,7 @@
 			"English": "My boss offered me a promotion, and I took it.",
 			"Word Count": 10,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "قدم لي رئيسه ترقية، وأخذت ذلك.",
 			"Egyptian Arabic Audio": "eca-0990-27.mp3",
 			"Standard Arabic Audio": "msa-0990-27.mp3"
 		},
@@ -281,7 +281,7 @@
 			"English": "Are you serious?",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هل أنت جاد؟",
 			"Egyptian Arabic Audio": "eca-0990-28.mp3",
 			"Standard Arabic Audio": "msa-0990-28.mp3"
 		},
@@ -291,7 +291,7 @@
 			"English": "Yes, I am really excited.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "نعم، أنا متحمس حقا.",
 			"Egyptian Arabic Audio": "eca-0990-29.mp3",
 			"Standard Arabic Audio": "msa-0990-29.mp3"
 		},
@@ -301,7 +301,7 @@
 			"English": "That's great. Congratulations.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ذلك رائع. تهانينا.",
 			"Egyptian Arabic Audio": "eca-0990-30.mp3",
 			"Standard Arabic Audio": "msa-0990-30.mp3"
 		},
@@ -311,7 +311,7 @@
 			"English": "I appreciate that.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وأنا أقدر ذلك.",
 			"Egyptian Arabic Audio": "eca-0990-31.mp3",
 			"Standard Arabic Audio": "msa-0990-31.mp3"
 		},
@@ -321,7 +321,7 @@
 			"English": "You have no idea how happy I am for you.",
 			"Word Count": 10,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ليس لديك أي فكرة عن مدى سروري أنا بالنسبة لك.",
 			"Egyptian Arabic Audio": "eca-0990-32.mp3",
 			"Standard Arabic Audio": "msa-0990-32.mp3"
 		},
@@ -331,7 +331,7 @@
 			"English": "For real?",
 			"Word Count": 2,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "بصدق؟",
 			"Egyptian Arabic Audio": "eca-0990-33.mp3",
 			"Standard Arabic Audio": "msa-0990-33.mp3"
 		},
@@ -341,7 +341,7 @@
 			"English": "I believe you were the best choice for that promotion. I really do.",
 			"Word Count": 13,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وأعتقد أنك كنت أفضل خيار لهذا الترويج. أنا حقا.",
 			"Egyptian Arabic Audio": "eca-0990-34.mp3",
 			"Standard Arabic Audio": "msa-0990-34.mp3"
 		}

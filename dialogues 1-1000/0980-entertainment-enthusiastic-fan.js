@@ -11,7 +11,7 @@
 			"English": "I've run out of money for my iTunes!",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لقد نفد المال لبلدي اي تيونز!",
 			"Egyptian Arabic Audio": "eca-0980-1.mp3",
 			"Standard Arabic Audio": "msa-0980-1.mp3"
 		},
@@ -21,7 +21,7 @@
 			"English": "You used it all up already?",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كنت تستخدم كل شيء بالفعل؟",
 			"Egyptian Arabic Audio": "eca-0980-2.mp3",
 			"Standard Arabic Audio": "msa-0980-2.mp3"
 		},
@@ -31,7 +31,7 @@
 			"English": "I bought my favorite artists' albums today.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "اشتريت ألبومات الفنانين المفضلين اليوم.",
 			"Egyptian Arabic Audio": "eca-0980-3.mp3",
 			"Standard Arabic Audio": "msa-0980-3.mp3"
 		},
@@ -41,7 +41,7 @@
 			"English": "You must really like their music.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يجب حقا أحب الموسيقى الخاصة بهم.",
 			"Egyptian Arabic Audio": "eca-0980-4.mp3",
 			"Standard Arabic Audio": "msa-0980-4.mp3"
 		},
@@ -51,7 +51,7 @@
 			"English": "I do! There is no other like it.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنا افعل! ليس هناك مثل ذلك.",
 			"Egyptian Arabic Audio": "eca-0980-5.mp3",
 			"Standard Arabic Audio": "msa-0980-5.mp3"
 		},
@@ -61,7 +61,7 @@
 			"English": "Have you ever watched a live concert?",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هل سبق لك أن شاهدت حفلة موسيقية حية؟",
 			"Egyptian Arabic Audio": "eca-0980-6.mp3",
 			"Standard Arabic Audio": "msa-0980-6.mp3"
 		},
@@ -71,7 +71,7 @@
 			"English": "No, but I hope to, someday!",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لا، ولكن آمل أن، يوما ما!",
 			"Egyptian Arabic Audio": "eca-0980-7.mp3",
 			"Standard Arabic Audio": "msa-0980-7.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "Until then, maybe you should refill your iTunes card.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "حتى ذلك الحين، ربما يجب إعادة ملء بطاقة اي تيونز الخاصة بك.",
 			"Egyptian Arabic Audio": "eca-0980-8.mp3",
 			"Standard Arabic Audio": "msa-0980-8.mp3"
 		},
@@ -91,7 +91,7 @@
 			"English": "I think I'll just use it all up again.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أعتقد أنني سوف تستخدم كل شيء مرة أخرى.",
 			"Egyptian Arabic Audio": "eca-0980-9.mp3",
 			"Standard Arabic Audio": "msa-0980-9.mp3"
 		},
@@ -101,7 +101,7 @@
 			"English": "Then maybe you have all you need for now.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ثم ربما لديك كل ما تحتاجه الآن.",
 			"Egyptian Arabic Audio": "eca-0980-10.mp3",
 			"Standard Arabic Audio": "msa-0980-10.mp3"
 		},
@@ -111,7 +111,7 @@
 			"English": "I'm going to look up her concerts on YouTube!",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "سأبحث عن حفلاتها الموسيقية على يوتوب!",
 			"Egyptian Arabic Audio": "eca-0980-11.mp3",
 			"Standard Arabic Audio": "msa-0980-11.mp3"
 		},
@@ -121,7 +121,7 @@
 			"English": "That's a better idea!",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هذه فكرة أفضل!",
 			"Egyptian Arabic Audio": "eca-0980-12.mp3",
 			"Standard Arabic Audio": "msa-0980-12.mp3"
 		}

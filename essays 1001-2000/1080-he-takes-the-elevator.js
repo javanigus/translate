@@ -9,7 +9,7 @@
 			"English": "He walks to the elevator.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يمشي إلى المصعد.",
 			"Egyptian Arabic Audio": "eca-1080-1.mp3",
 			"Standard Arabic Audio": "msa-1080-1.mp3"
 		},
@@ -18,7 +18,7 @@
 			"English": "He pushes the Down button.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انه يدفع زر أسفل.",
 			"Egyptian Arabic Audio": "eca-1080-2.mp3",
 			"Standard Arabic Audio": "msa-1080-2.mp3"
 		},
@@ -27,7 +27,7 @@
 			"English": "He hears the elevator bell.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يسمع جرس المصعد.",
 			"Egyptian Arabic Audio": "eca-1080-3.mp3",
 			"Standard Arabic Audio": "msa-1080-3.mp3"
 		},
@@ -36,7 +36,7 @@
 			"English": "The elevator doors open.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أبواب المصعد مفتوحة.",
 			"Egyptian Arabic Audio": "eca-1080-4.mp3",
 			"Standard Arabic Audio": "msa-1080-4.mp3"
 		},
@@ -45,7 +45,7 @@
 			"English": "Someone walks out.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "شخص يمشي بها.",
 			"Egyptian Arabic Audio": "eca-1080-5.mp3",
 			"Standard Arabic Audio": "msa-1080-5.mp3"
 		},
@@ -54,7 +54,7 @@
 			"English": "The elevator doors close.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "إغلاق أبواب المصعد.",
 			"Egyptian Arabic Audio": "eca-1080-6.mp3",
 			"Standard Arabic Audio": "msa-1080-6.mp3"
 		},
@@ -63,7 +63,7 @@
 			"English": "The bell rings again.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "الجرس يرن مرة أخرى.",
 			"Egyptian Arabic Audio": "eca-1080-7.mp3",
 			"Standard Arabic Audio": "msa-1080-7.mp3"
 		},
@@ -72,7 +72,7 @@
 			"English": "The doors open.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "الأبواب مفتوحة.",
 			"Egyptian Arabic Audio": "eca-1080-8.mp3",
 			"Standard Arabic Audio": "msa-1080-8.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "He gets in.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يحصل في.",
 			"Egyptian Arabic Audio": "eca-1080-9.mp3",
 			"Standard Arabic Audio": "msa-1080-9.mp3"
 		},
@@ -90,7 +90,7 @@
 			"English": "The elevator goes down.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "المصعد ينخفض.",
 			"Egyptian Arabic Audio": "eca-1080-10.mp3",
 			"Standard Arabic Audio": "msa-1080-10.mp3"
 		},
@@ -99,7 +99,7 @@
 			"English": "It goes down seven floors.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ينخفض ​​سبعة طوابق.",
 			"Egyptian Arabic Audio": "eca-1080-11.mp3",
 			"Standard Arabic Audio": "msa-1080-11.mp3"
 		},
@@ -108,7 +108,7 @@
 			"English": "The doors open.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "الأبواب مفتوحة.",
 			"Egyptian Arabic Audio": "eca-1080-12.mp3",
 			"Standard Arabic Audio": "msa-1080-12.mp3"
 		},
@@ -117,7 +117,7 @@
 			"English": "He walks out.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يمشي.",
 			"Egyptian Arabic Audio": "eca-1080-13.mp3",
 			"Standard Arabic Audio": "msa-1080-13.mp3"
 		}

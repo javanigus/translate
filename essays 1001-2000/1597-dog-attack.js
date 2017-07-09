@@ -9,7 +9,7 @@
 			"English": "They were at the north end of Central Park.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كانوا في الطرف الشمالي من سنترال بارك.",
 			"Egyptian Arabic Audio": "eca-1597-1.mp3",
 			"Standard Arabic Audio": "msa-1597-1.mp3"
 		},
@@ -18,7 +18,7 @@
 			"English": "It was a hot afternoon.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كان بعد ظهر اليوم.",
 			"Egyptian Arabic Audio": "eca-1597-2.mp3",
 			"Standard Arabic Audio": "msa-1597-2.mp3"
 		},
@@ -27,7 +27,7 @@
 			"English": "They were walking near a small lake.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كانوا يسيرون بالقرب من بحيرة صغيرة.",
 			"Egyptian Arabic Audio": "eca-1597-3.mp3",
 			"Standard Arabic Audio": "msa-1597-3.mp3"
 		},
@@ -36,7 +36,7 @@
 			"English": "Some people were fishing.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وكان بعض الناس الصيد.",
 			"Egyptian Arabic Audio": "eca-1597-4.mp3",
 			"Standard Arabic Audio": "msa-1597-4.mp3"
 		},
@@ -45,7 +45,7 @@
 			"English": "James saw a brown pit bull.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "رأى جيمس حفرة البني الثور.",
 			"Egyptian Arabic Audio": "eca-1597-5.mp3",
 			"Standard Arabic Audio": "msa-1597-5.mp3"
 		},
@@ -54,7 +54,7 @@
 			"English": "He hated pit bulls.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كان يكره حفرة الثيران.",
 			"Egyptian Arabic Audio": "eca-1597-6.mp3",
 			"Standard Arabic Audio": "msa-1597-6.mp3"
 		},
@@ -63,7 +63,7 @@
 			"English": "They were dangerous dogs.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كانوا الكلاب الخطرة.",
 			"Egyptian Arabic Audio": "eca-1597-7.mp3",
 			"Standard Arabic Audio": "msa-1597-7.mp3"
 		},
@@ -72,7 +72,7 @@
 			"English": "They could turn on anyone, even their owner, in a second.",
 			"Word Count": 11,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يمكن أن تتحول على أي شخص، حتى صاحبها، في الثانية.",
 			"Egyptian Arabic Audio": "eca-1597-8.mp3",
 			"Standard Arabic Audio": "msa-1597-8.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "The dog was running loose.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كان الكلب يعمل فضفاضة.",
 			"Egyptian Arabic Audio": "eca-1597-9.mp3",
 			"Standard Arabic Audio": "msa-1597-9.mp3"
 		},
@@ -90,7 +90,7 @@
 			"English": "He couldn't believe it.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لم يستطع أن أصدق ذلك.",
 			"Egyptian Arabic Audio": "eca-1597-10.mp3",
 			"Standard Arabic Audio": "msa-1597-10.mp3"
 		},
@@ -99,7 +99,7 @@
 			"English": "Dogs in Central Park are supposed to be leashed.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "الكلاب في سنترال بارك من المفترض أن تكون مقيدة.",
 			"Egyptian Arabic Audio": "eca-1597-11.mp3",
 			"Standard Arabic Audio": "msa-1597-11.mp3"
 		},
@@ -108,7 +108,7 @@
 			"English": "James grabbed Rhonda's hand.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أمسك جيمس يد روندا.",
 			"Egyptian Arabic Audio": "eca-1597-12.mp3",
 			"Standard Arabic Audio": "msa-1597-12.mp3"
 		},
@@ -117,7 +117,7 @@
 			"English": "He didn't say anything about the dog.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لم يقل أي شيء عن الكلب.",
 			"Egyptian Arabic Audio": "eca-1597-13.mp3",
 			"Standard Arabic Audio": "msa-1597-13.mp3"
 		},
@@ -126,7 +126,7 @@
 			"English": "He watched it carefully as they walked past it.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "شاهده بعناية كما مشى في الماضي.",
 			"Egyptian Arabic Audio": "eca-1597-14.mp3",
 			"Standard Arabic Audio": "msa-1597-14.mp3"
 		},
@@ -135,7 +135,7 @@
 			"English": "Then James saw the owner of the dog.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ثم رأى جيمس مالك الكلب.",
 			"Egyptian Arabic Audio": "eca-1597-15.mp3",
 			"Standard Arabic Audio": "msa-1597-15.mp3"
 		},
@@ -144,7 +144,7 @@
 			"English": "He was a big fat man wearing shorts and no shirt.",
 			"Word Count": 11,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كان رجل كبير الدهون يرتدي سراويل ولا قميص.",
 			"Egyptian Arabic Audio": "eca-1597-16.mp3",
 			"Standard Arabic Audio": "msa-1597-16.mp3"
 		},
@@ -153,7 +153,7 @@
 			"English": "He was eating a sandwich.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كان يأكل شطيرة.",
 			"Egyptian Arabic Audio": "eca-1597-17.mp3",
 			"Standard Arabic Audio": "msa-1597-17.mp3"
 		},
@@ -162,7 +162,7 @@
 			"English": "Three pit bulls were leashed to a railing next to him.",
 			"Word Count": 11,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وقيدت ثلاثة ثيران حفرة إلى درابزين بجانبه.",
 			"Egyptian Arabic Audio": "eca-1597-18.mp3",
 			"Standard Arabic Audio": "msa-1597-18.mp3"
 		},
@@ -171,7 +171,7 @@
 			"English": "The man did not seem to know or care that one of his dogs was running around.",
 			"Word Count": 17,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "الرجل لا يبدو أن يعرف أو يهتم أن أحد الكلاب كان يركض.",
 			"Egyptian Arabic Audio": "eca-1597-19.mp3",
 			"Standard Arabic Audio": "msa-1597-19.mp3"
 		},
@@ -180,7 +180,7 @@
 			"English": "He was enjoying his sandwich.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كان يتمتع شطيرة له.",
 			"Egyptian Arabic Audio": "eca-1597-20.mp3",
 			"Standard Arabic Audio": "msa-1597-20.mp3"
 		},
@@ -189,7 +189,7 @@
 			"English": "They walked by the man.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "مشى الرجل.",
 			"Egyptian Arabic Audio": "eca-1597-21.mp3",
 			"Standard Arabic Audio": "msa-1597-21.mp3"
 		}

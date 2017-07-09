@@ -9,7 +9,7 @@
 			"English": "I drive my car.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنا أقود سيارتي.",
 			"Egyptian Arabic Audio": "eca-0556-1.mp3",
 			"Standard Arabic Audio": "msa-0556-1.mp3"
 		},
@@ -18,7 +18,7 @@
 			"English": "It suddenly stops.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يتوقف فجأة.",
 			"Egyptian Arabic Audio": "eca-0556-2.mp3",
 			"Standard Arabic Audio": "msa-0556-2.mp3"
 		},
@@ -27,7 +27,7 @@
 			"English": "I go outside to see what is wrong.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أذهب خارج لمعرفة ما هو الخطأ.",
 			"Egyptian Arabic Audio": "eca-0556-3.mp3",
 			"Standard Arabic Audio": "msa-0556-3.mp3"
 		},
@@ -36,7 +36,7 @@
 			"English": "It's a flat tire! I need to call a tow truck service, but I do not have my phone with me.",
 			"Word Count": 21,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انها الإطارات المسطحة! أنا بحاجة إلى استدعاء خدمة سحب الشاحنة، ولكن ليس لدي هاتفي معي.",
 			"Egyptian Arabic Audio": "eca-0556-4.mp3",
 			"Standard Arabic Audio": "msa-0556-4.mp3"
 		},
@@ -45,7 +45,7 @@
 			"English": "I see another car coming.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أرى سيارة أخرى قادمة.",
 			"Egyptian Arabic Audio": "eca-0556-5.mp3",
 			"Standard Arabic Audio": "msa-0556-5.mp3"
 		},
@@ -54,7 +54,7 @@
 			"English": "I ask the driver if I could borrow his phone.",
 			"Word Count": 10,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أطلب من السائق أن استعير هاتفه.",
 			"Egyptian Arabic Audio": "eca-0556-6.mp3",
 			"Standard Arabic Audio": "msa-0556-6.mp3"
 		},
@@ -63,7 +63,7 @@
 			"English": "He says, \"Of course.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يقول: &quot;بالطبع.",
 			"Egyptian Arabic Audio": "eca-0556-7.mp3",
 			"Standard Arabic Audio": "msa-0556-7.mp3"
 		},
@@ -72,7 +72,7 @@
 			"English": "\" What a nice person.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "&quot;ما هو شخص لطيف.",
 			"Egyptian Arabic Audio": "eca-0556-8.mp3",
 			"Standard Arabic Audio": "msa-0556-8.mp3"
 		}

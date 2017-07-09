@@ -9,7 +9,7 @@
 			"English": "She fills up a bowl with water.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انها تملأ وعاء مع الماء.",
 			"Egyptian Arabic Audio": "eca-0153-1.mp3",
 			"Standard Arabic Audio": "msa-0153-1.mp3"
 		},
@@ -18,7 +18,7 @@
 			"English": "She pumps some liquid face wash onto her hand.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "تضخ بعض غسل الوجه السائل على يدها.",
 			"Egyptian Arabic Audio": "eca-0153-2.mp3",
 			"Standard Arabic Audio": "msa-0153-2.mp3"
 		},
@@ -27,7 +27,7 @@
 			"English": "She closes her eyes.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "إنها تغلق عينيها.",
 			"Egyptian Arabic Audio": "eca-0153-3.mp3",
 			"Standard Arabic Audio": "msa-0153-3.mp3"
 		},
@@ -36,7 +36,7 @@
 			"English": "She rubs the face wash all over her face.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انها التدليك غسل الوجه في جميع أنحاء وجهها.",
 			"Egyptian Arabic Audio": "eca-0153-4.mp3",
 			"Standard Arabic Audio": "msa-0153-4.mp3"
 		},
@@ -45,7 +45,7 @@
 			"English": "She puts her hands in the bowl of water.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "إنها تضع يديها في وعاء الماء.",
 			"Egyptian Arabic Audio": "eca-0153-5.mp3",
 			"Standard Arabic Audio": "msa-0153-5.mp3"
 		},
@@ -54,7 +54,7 @@
 			"English": "She splashes the water on her face.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انها تبقع الماء على وجهها.",
 			"Egyptian Arabic Audio": "eca-0153-6.mp3",
 			"Standard Arabic Audio": "msa-0153-6.mp3"
 		},
@@ -63,7 +63,7 @@
 			"English": "She does this until the water is all gone.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انها تفعل ذلك حتى الماء ذهب كل شيء.",
 			"Egyptian Arabic Audio": "eca-0153-7.mp3",
 			"Standard Arabic Audio": "msa-0153-7.mp3"
 		},
@@ -72,7 +72,7 @@
 			"English": "She dries her face with a towel.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "تجف وجهها بمنشفة.",
 			"Egyptian Arabic Audio": "eca-0153-8.mp3",
 			"Standard Arabic Audio": "msa-0153-8.mp3"
 		}

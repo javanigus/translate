@@ -11,7 +11,7 @@
 			"English": "I need to buy a bus pass.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنا بحاجة لشراء تذكرة الحافلة.",
 			"Egyptian Arabic Audio": "eca-1140-2.mp3",
 			"Standard Arabic Audio": "msa-1140-2.mp3"
 		},
@@ -21,7 +21,7 @@
 			"English": "What kind of bus pass would you like to buy?",
 			"Word Count": 10,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أي نوع من الحافلات تمر تريد شراء؟",
 			"Egyptian Arabic Audio": "eca-1140-3.mp3",
 			"Standard Arabic Audio": "msa-1140-3.mp3"
 		},
@@ -31,7 +31,7 @@
 			"English": "What are the different kinds?",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ما هي أنواع مختلفة؟",
 			"Egyptian Arabic Audio": "eca-1140-4.mp3",
 			"Standard Arabic Audio": "msa-1140-4.mp3"
 		},
@@ -41,7 +41,7 @@
 			"English": "You can get a day, weekly, monthly, or student pass.",
 			"Word Count": 10,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يمكنك الحصول على يوم، أسبوعيا، شهريا، أو تمرير الطالب.",
 			"Egyptian Arabic Audio": "eca-1140-5.mp3",
 			"Standard Arabic Audio": "msa-1140-5.mp3"
 		},
@@ -51,7 +51,7 @@
 			"English": "Could I get a student pass, please?",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هل يمكنني الحصول على تمريرة الطالب، من فضلك؟",
 			"Egyptian Arabic Audio": "eca-1140-6.mp3",
 			"Standard Arabic Audio": "msa-1140-6.mp3"
 		},
@@ -61,7 +61,7 @@
 			"English": "Sure, can I see your student ID?",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "بالتأكيد، هل يمكنني رؤية معرف الطالب؟",
 			"Egyptian Arabic Audio": "eca-1140-7.mp3",
 			"Standard Arabic Audio": "msa-1140-7.mp3"
 		},
@@ -71,7 +71,7 @@
 			"English": "Sure, here it is.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "طبعا هاهو.",
 			"Egyptian Arabic Audio": "eca-1140-8.mp3",
 			"Standard Arabic Audio": "msa-1140-8.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "Very good.",
 			"Word Count": 2,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "جيد جدا.",
 			"Egyptian Arabic Audio": "eca-1140-9.mp3",
 			"Standard Arabic Audio": "msa-1140-9.mp3"
 		},
@@ -91,7 +91,7 @@
 			"English": "How much for the pass?",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كم لتمرير؟",
 			"Egyptian Arabic Audio": "eca-1140-10.mp3",
 			"Standard Arabic Audio": "msa-1140-10.mp3"
 		},
@@ -101,7 +101,7 @@
 			"English": "It's free, but the monthly sticker is $24.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انها حرة، ولكن ملصقا الشهري هو 24 $.",
 			"Egyptian Arabic Audio": "eca-1140-11.mp3",
 			"Standard Arabic Audio": "msa-1140-11.mp3"
 		},
@@ -111,7 +111,7 @@
 			"English": "I'll take it.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنا أعتبر.",
 			"Egyptian Arabic Audio": "eca-1140-12.mp3",
 			"Standard Arabic Audio": "msa-1140-12.mp3"
 		},
@@ -121,7 +121,7 @@
 			"English": "Thank you for your purchase.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "شكرا لك على الشراء.",
 			"Egyptian Arabic Audio": "eca-1140-13.mp3",
 			"Standard Arabic Audio": "msa-1140-13.mp3"
 		},
@@ -131,7 +131,7 @@
 			"English": "I would like to get a bus pass.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أود الحصول على تذكرة الحافلة.",
 			"Egyptian Arabic Audio": "eca-1140-15.mp3",
 			"Standard Arabic Audio": "msa-1140-15.mp3"
 		},
@@ -141,7 +141,7 @@
 			"English": "Do you know what kind of pass you want?",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هل تعرف أي نوع من تمرير تريد؟",
 			"Egyptian Arabic Audio": "eca-1140-16.mp3",
 			"Standard Arabic Audio": "msa-1140-16.mp3"
 		},
@@ -151,7 +151,7 @@
 			"English": "Can you tell me my options?",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هل يمكن أن تخبرني عن خياراتي؟",
 			"Egyptian Arabic Audio": "eca-1140-17.mp3",
 			"Standard Arabic Audio": "msa-1140-17.mp3"
 		},
@@ -161,7 +161,7 @@
 			"English": "There are passes for a day, month, and week, and there are student passes.",
 			"Word Count": 14,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هناك ممرات ليوم، شهر، وأسبوع، وهناك تمريرات الطالب.",
 			"Egyptian Arabic Audio": "eca-1140-18.mp3",
 			"Standard Arabic Audio": "msa-1140-18.mp3"
 		},
@@ -171,7 +171,7 @@
 			"English": "I would like the student pass.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أود أن يمر الطالب.",
 			"Egyptian Arabic Audio": "eca-1140-19.mp3",
 			"Standard Arabic Audio": "msa-1140-19.mp3"
 		},
@@ -181,7 +181,7 @@
 			"English": "Let me see your student ID.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "دعني أرى معرف الطالب.",
 			"Egyptian Arabic Audio": "eca-1140-20.mp3",
 			"Standard Arabic Audio": "msa-1140-20.mp3"
 		},
@@ -191,7 +191,7 @@
 			"English": "Here you go.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ها أنت ذا.",
 			"Egyptian Arabic Audio": "eca-1140-21.mp3",
 			"Standard Arabic Audio": "msa-1140-21.mp3"
 		},
@@ -201,7 +201,7 @@
 			"English": "Thank you very much.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "شكرا جزيلا.",
 			"Egyptian Arabic Audio": "eca-1140-22.mp3",
 			"Standard Arabic Audio": "msa-1140-22.mp3"
 		},
@@ -211,7 +211,7 @@
 			"English": "How much will it be for the pass?",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كم سيكون لتمرير؟",
 			"Egyptian Arabic Audio": "eca-1140-23.mp3",
 			"Standard Arabic Audio": "msa-1140-23.mp3"
 		},
@@ -221,7 +221,7 @@
 			"English": "The monthly sticker is $24, but the actual pass is free.",
 			"Word Count": 11,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ملصقا الشهري هو 24 $، ولكن تمرير الفعلي هو حر.",
 			"Egyptian Arabic Audio": "eca-1140-24.mp3",
 			"Standard Arabic Audio": "msa-1140-24.mp3"
 		},
@@ -231,7 +231,7 @@
 			"English": "That'll be fine.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لا بأس بذلك.",
 			"Egyptian Arabic Audio": "eca-1140-25.mp3",
 			"Standard Arabic Audio": "msa-1140-25.mp3"
 		},
@@ -241,7 +241,7 @@
 			"English": "We appreciate your business.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "نحن نقدر عملك.",
 			"Egyptian Arabic Audio": "eca-1140-26.mp3",
 			"Standard Arabic Audio": "msa-1140-26.mp3"
 		},
@@ -251,7 +251,7 @@
 			"English": "Could I buy a bus pass today?",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هل يمكنني شراء تذكرة باص اليوم؟",
 			"Egyptian Arabic Audio": "eca-1140-28.mp3",
 			"Standard Arabic Audio": "msa-1140-28.mp3"
 		},
@@ -261,7 +261,7 @@
 			"English": "Which bus pass would you like to purchase?",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ما هي الحافلة التي تريد شراءها؟",
 			"Egyptian Arabic Audio": "eca-1140-29.mp3",
 			"Standard Arabic Audio": "msa-1140-29.mp3"
 		},
@@ -271,7 +271,7 @@
 			"English": "What kinds of passes are there?",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ما هي أنواع التمريرات هناك؟",
 			"Egyptian Arabic Audio": "eca-1140-30.mp3",
 			"Standard Arabic Audio": "msa-1140-30.mp3"
 		},
@@ -281,7 +281,7 @@
 			"English": "There are day passes, weekly passes, monthly passes, and student passes.",
 			"Word Count": 11,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هناك تمريرات اليوم، ويمر الأسبوعية، ويمر الشهرية، وتمريرات الطالب.",
 			"Egyptian Arabic Audio": "eca-1140-31.mp3",
 			"Standard Arabic Audio": "msa-1140-31.mp3"
 		},
@@ -291,7 +291,7 @@
 			"English": "Let me get a student pass.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "اسمحوا لي الحصول على تمرير الطالب.",
 			"Egyptian Arabic Audio": "eca-1140-32.mp3",
 			"Standard Arabic Audio": "msa-1140-32.mp3"
 		},
@@ -301,7 +301,7 @@
 			"English": "Could I see your student ID, please?",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هل يمكن أن أرى معرف الطالب الخاص بك، من فضلك؟",
 			"Egyptian Arabic Audio": "eca-1140-33.mp3",
 			"Standard Arabic Audio": "msa-1140-33.mp3"
 		},
@@ -311,7 +311,7 @@
 			"English": "No problem, here you go.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لا مشكلة، وهنا تذهب.",
 			"Egyptian Arabic Audio": "eca-1140-34.mp3",
 			"Standard Arabic Audio": "msa-1140-34.mp3"
 		},
@@ -321,7 +321,7 @@
 			"English": "Thanks.",
 			"Word Count": 1,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "شكر.",
 			"Egyptian Arabic Audio": "eca-1140-35.mp3",
 			"Standard Arabic Audio": "msa-1140-35.mp3"
 		},
@@ -331,7 +331,7 @@
 			"English": "How much does this pass cost?",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كم تبلغ تكلفة هذه التكلفة؟",
 			"Egyptian Arabic Audio": "eca-1140-36.mp3",
 			"Standard Arabic Audio": "msa-1140-36.mp3"
 		},
@@ -341,7 +341,7 @@
 			"English": "The pass is free; the monthly sticker costs $24.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "تمريرة مجانية. وتكلفة ملصقا الشهري 24 $.",
 			"Egyptian Arabic Audio": "eca-1140-37.mp3",
 			"Standard Arabic Audio": "msa-1140-37.mp3"
 		},
@@ -351,7 +351,7 @@
 			"English": "That's fine then.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هذا ما يرام بعد ذلك.",
 			"Egyptian Arabic Audio": "eca-1140-38.mp3",
 			"Standard Arabic Audio": "msa-1140-38.mp3"
 		},
@@ -361,7 +361,7 @@
 			"English": "I hope you enjoy your pass.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "آمل أن تستمتع بتمريرة الخاص بك.",
 			"Egyptian Arabic Audio": "eca-1140-39.mp3",
 			"Standard Arabic Audio": "msa-1140-39.mp3"
 		}

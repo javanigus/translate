@@ -11,7 +11,7 @@
 			"English": "Do you like baseball?",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هل تحب البيسبول؟",
 			"Egyptian Arabic Audio": "eca-0189-1.mp3",
 			"Standard Arabic Audio": "msa-0189-1.mp3"
 		},
@@ -21,7 +21,7 @@
 			"English": "I've never watched a game.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لم أشاهد أبدا لعبة.",
 			"Egyptian Arabic Audio": "eca-0189-2.mp3",
 			"Standard Arabic Audio": "msa-0189-2.mp3"
 		},
@@ -31,7 +31,7 @@
 			"English": "You've never even seen it on television?",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كنت أبدا حتى رأيت ذلك على شاشة التلفزيون؟",
 			"Egyptian Arabic Audio": "eca-0189-3.mp3",
 			"Standard Arabic Audio": "msa-0189-3.mp3"
 		},
@@ -41,7 +41,7 @@
 			"English": "I don't own a television set.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنا لا أملك جهاز تلفزيون.",
 			"Egyptian Arabic Audio": "eca-0189-4.mp3",
 			"Standard Arabic Audio": "msa-0189-4.mp3"
 		},
@@ -51,7 +51,7 @@
 			"English": "We should go watch a game one day.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يجب أن نذهب مشاهدة لعبة يوم واحد.",
 			"Egyptian Arabic Audio": "eca-0189-5.mp3",
 			"Standard Arabic Audio": "msa-0189-5.mp3"
 		},
@@ -61,7 +61,7 @@
 			"English": "Where can we watch a baseball game?",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أين يمكننا مشاهدة لعبة البيسبول؟",
 			"Egyptian Arabic Audio": "eca-0189-6.mp3",
 			"Standard Arabic Audio": "msa-0189-6.mp3"
 		},
@@ -71,7 +71,7 @@
 			"English": "In a baseball stadium.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "في ملعب البيسبول.",
 			"Egyptian Arabic Audio": "eca-0189-7.mp3",
 			"Standard Arabic Audio": "msa-0189-7.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "There are entire stadiums just for playing baseball?",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هناك ملاعب كاملة فقط للعب البيسبول؟",
 			"Egyptian Arabic Audio": "eca-0189-8.mp3",
 			"Standard Arabic Audio": "msa-0189-8.mp3"
 		},
@@ -91,7 +91,7 @@
 			"English": "Yes! They even wrote a song about it.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "نعم فعلا! حتى أنهم كتبوا أغنية عن ذلك.",
 			"Egyptian Arabic Audio": "eca-0189-9.mp3",
 			"Standard Arabic Audio": "msa-0189-9.mp3"
 		},
@@ -101,7 +101,7 @@
 			"English": "I never knew it was such a popular sport!",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لم أكن أعرف أنه كان مثل هذه الرياضة الشعبية!",
 			"Egyptian Arabic Audio": "eca-0189-10.mp3",
 			"Standard Arabic Audio": "msa-0189-10.mp3"
 		},
@@ -111,7 +111,7 @@
 			"English": "Do you want to go play catch in the park?",
 			"Word Count": 10,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هل تريد أن تذهب اللعب الصيد في الحديقة؟",
 			"Egyptian Arabic Audio": "eca-0189-11.mp3",
 			"Standard Arabic Audio": "msa-0189-11.mp3"
 		},
@@ -121,7 +121,7 @@
 			"English": "Sounds good to me!",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يبدو أمرا جيدا لي!",
 			"Egyptian Arabic Audio": "eca-0189-12.mp3",
 			"Standard Arabic Audio": "msa-0189-12.mp3"
 		}

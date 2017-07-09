@@ -11,7 +11,7 @@
 			"English": "Do you think you can identify the man you saw robbing the woman outside the bank?",
 			"Word Count": 16,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هل تعتقد أنك يمكن أن تحدد الرجل الذي رأيت سرقة المرأة خارج البنك؟",
 			"Egyptian Arabic Audio": "eca-0784-1.mp3",
 			"Standard Arabic Audio": "msa-0784-1.mp3"
 		},
@@ -21,7 +21,7 @@
 			"English": "I think I remember what he looked like.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أعتقد أنني أتذكر ما بدا.",
 			"Egyptian Arabic Audio": "eca-0784-2.mp3",
 			"Standard Arabic Audio": "msa-0784-2.mp3"
 		},
@@ -31,7 +31,7 @@
 			"English": "Please take a look at the six men lined up.",
 			"Word Count": 10,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يرجى إلقاء نظرة على الرجال الستة اصطف.",
 			"Egyptian Arabic Audio": "eca-0784-3.mp3",
 			"Standard Arabic Audio": "msa-0784-3.mp3"
 		},
@@ -41,7 +41,7 @@
 			"English": "Can they see me?",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هل يمكن أن يراني؟",
 			"Egyptian Arabic Audio": "eca-0784-4.mp3",
 			"Standard Arabic Audio": "msa-0784-4.mp3"
 		},
@@ -51,7 +51,7 @@
 			"English": "No, they cannot see you. This is one-way glass.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لا، لا يمكنهم رؤيتك. هذا هو الزجاج في اتجاه واحد.",
 			"Egyptian Arabic Audio": "eca-0784-5.mp3",
 			"Standard Arabic Audio": "msa-0784-5.mp3"
 		},
@@ -61,7 +61,7 @@
 			"English": "I see the man who robbed the lady outside the bank.",
 			"Word Count": 11,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أرى الرجل الذي سلب سيدة خارج البنك.",
 			"Egyptian Arabic Audio": "eca-0784-6.mp3",
 			"Standard Arabic Audio": "msa-0784-6.mp3"
 		},
@@ -71,7 +71,7 @@
 			"English": "Can you tell us which one he is?",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هل يمكن أن تخبرنا أي واحد هو؟",
 			"Egyptian Arabic Audio": "eca-0784-7.mp3",
 			"Standard Arabic Audio": "msa-0784-7.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "It's number three for sure.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انها رقم ثلاثة بالتأكيد.",
 			"Egyptian Arabic Audio": "eca-0784-8.mp3",
 			"Standard Arabic Audio": "msa-0784-8.mp3"
 		},
@@ -91,7 +91,7 @@
 			"English": "Number three, please step forward.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "رقم ثلاثة، يرجى خطوة إلى الأمام.",
 			"Egyptian Arabic Audio": "eca-0784-9.mp3",
 			"Standard Arabic Audio": "msa-0784-9.mp3"
 		},
@@ -101,7 +101,7 @@
 			"English": "That's him. You're sure he can't see me?",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انه هو. أنت متأكد من أنه لا يمكن أن يراني؟",
 			"Egyptian Arabic Audio": "eca-0784-10.mp3",
 			"Standard Arabic Audio": "msa-0784-10.mp3"
 		},
@@ -111,7 +111,7 @@
 			"English": "He can't see you. Thanks for your help today.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لا يستطيع رؤيتك. شكرا لمساعدتكم اليوم.",
 			"Egyptian Arabic Audio": "eca-0784-11.mp3",
 			"Standard Arabic Audio": "msa-0784-11.mp3"
 		},
@@ -121,7 +121,7 @@
 			"English": "Please don't let him rob anyone else.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "من فضلك لا تدع له سلب أي شخص آخر.",
 			"Egyptian Arabic Audio": "eca-0784-12.mp3",
 			"Standard Arabic Audio": "msa-0784-12.mp3"
 		}

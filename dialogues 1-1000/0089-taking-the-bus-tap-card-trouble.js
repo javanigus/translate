@@ -11,7 +11,7 @@
 			"English": "My tap card isn't working!",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "بلدي بطاقة الصنبور لا يعمل!",
 			"Egyptian Arabic Audio": "eca-0089-1.mp3",
 			"Standard Arabic Audio": "msa-0089-1.mp3"
 		},
@@ -21,7 +21,7 @@
 			"English": "Why not? Try it again.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لما لا؟ حاول مرة أخرى.",
 			"Egyptian Arabic Audio": "eca-0089-2.mp3",
 			"Standard Arabic Audio": "msa-0089-2.mp3"
 		},
@@ -31,7 +31,7 @@
 			"English": "It's still not accepting the fare.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انها لا تزال لا تقبل الأجرة.",
 			"Egyptian Arabic Audio": "eca-0089-3.mp3",
 			"Standard Arabic Audio": "msa-0089-3.mp3"
 		},
@@ -41,7 +41,7 @@
 			"English": "Is the magnetic strip broken?",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هو الشريط المغناطيسي مكسورة؟",
 			"Egyptian Arabic Audio": "eca-0089-4.mp3",
 			"Standard Arabic Audio": "msa-0089-4.mp3"
 		},
@@ -51,7 +51,7 @@
 			"English": "No, I just used it at the station.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لا، أنا فقط استخدامه في المحطة.",
 			"Egyptian Arabic Audio": "eca-0089-5.mp3",
 			"Standard Arabic Audio": "msa-0089-5.mp3"
 		},
@@ -61,7 +61,7 @@
 			"English": "Did it run out of credit?",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هل نفدت من الائتمان؟",
 			"Egyptian Arabic Audio": "eca-0089-6.mp3",
 			"Standard Arabic Audio": "msa-0089-6.mp3"
 		},
@@ -71,7 +71,7 @@
 			"English": "No, I just refilled it yesterday.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لا، أنا فقط تعبئته أمس.",
 			"Egyptian Arabic Audio": "eca-0089-7.mp3",
 			"Standard Arabic Audio": "msa-0089-7.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "Did you tap it upside-down?",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هل الاستفادة منه رأسا على عقب؟",
 			"Egyptian Arabic Audio": "eca-0089-8.mp3",
 			"Standard Arabic Audio": "msa-0089-8.mp3"
 		},
@@ -91,7 +91,7 @@
 			"English": "I tried flipping it several times.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "حاولت التقليب عدة مرات.",
 			"Egyptian Arabic Audio": "eca-0089-9.mp3",
 			"Standard Arabic Audio": "msa-0089-9.mp3"
 		},
@@ -101,7 +101,7 @@
 			"English": "Look, you're using a metro card.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انظروا، كنت تستخدم بطاقة المترو.",
 			"Egyptian Arabic Audio": "eca-0089-10.mp3",
 			"Standard Arabic Audio": "msa-0089-10.mp3"
 		},
@@ -111,7 +111,7 @@
 			"English": "What's the problem with that?",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ما هي المشكلة مع ذلك؟",
 			"Egyptian Arabic Audio": "eca-0089-11.mp3",
 			"Standard Arabic Audio": "msa-0089-11.mp3"
 		},
@@ -121,7 +121,7 @@
 			"English": "This is the Montebello bus line!",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هذا هو خط الحافلات مونتيبيلو!",
 			"Egyptian Arabic Audio": "eca-0089-12.mp3",
 			"Standard Arabic Audio": "msa-0089-12.mp3"
 		}

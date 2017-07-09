@@ -11,7 +11,7 @@
 			"English": "I like living here.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وأنا أحب العيش هنا.",
 			"Egyptian Arabic Audio": "eca-0241-1.mp3",
 			"Standard Arabic Audio": "msa-0241-1.mp3"
 		},
@@ -21,7 +21,7 @@
 			"English": "I agree. Pasadena is a nice city.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنا أتفق. باسادينا هي مدينة جميلة.",
 			"Egyptian Arabic Audio": "eca-0241-2.mp3",
 			"Standard Arabic Audio": "msa-0241-2.mp3"
 		},
@@ -31,7 +31,7 @@
 			"English": "It's not too big.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انها ليست كبيرة جدا.",
 			"Egyptian Arabic Audio": "eca-0241-3.mp3",
 			"Standard Arabic Audio": "msa-0241-3.mp3"
 		},
@@ -41,7 +41,7 @@
 			"English": "And it's not too small.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وانها ليست صغيرة جدا.",
 			"Egyptian Arabic Audio": "eca-0241-4.mp3",
 			"Standard Arabic Audio": "msa-0241-4.mp3"
 		},
@@ -51,7 +51,7 @@
 			"English": "It has great weather all year long.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ان الطقس جيد طوال العام.",
 			"Egyptian Arabic Audio": "eca-0241-5.mp3",
 			"Standard Arabic Audio": "msa-0241-5.mp3"
 		},
@@ -61,7 +61,7 @@
 			"English": "It has the Rose Parade.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لديه موكب روز.",
 			"Egyptian Arabic Audio": "eca-0241-6.mp3",
 			"Standard Arabic Audio": "msa-0241-6.mp3"
 		},
@@ -71,7 +71,7 @@
 			"English": "It has beautiful houses.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لديها منازل جميلة.",
 			"Egyptian Arabic Audio": "eca-0241-7.mp3",
 			"Standard Arabic Audio": "msa-0241-7.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "It has wonderful restaurants.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لديها مطاعم رائعة.",
 			"Egyptian Arabic Audio": "eca-0241-8.mp3",
 			"Standard Arabic Audio": "msa-0241-8.mp3"
 		},
@@ -91,7 +91,7 @@
 			"English": "It has great schools.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لديها مدارس كبيرة.",
 			"Egyptian Arabic Audio": "eca-0241-9.mp3",
 			"Standard Arabic Audio": "msa-0241-9.mp3"
 		},
@@ -101,7 +101,7 @@
 			"English": "It's close to the mountains.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وهو قريب من الجبال.",
 			"Egyptian Arabic Audio": "eca-0241-10.mp3",
 			"Standard Arabic Audio": "msa-0241-10.mp3"
 		},
@@ -111,7 +111,7 @@
 			"English": "The people are friendly.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "الشعب ودية.",
 			"Egyptian Arabic Audio": "eca-0241-11.mp3",
 			"Standard Arabic Audio": "msa-0241-11.mp3"
 		},
@@ -121,7 +121,7 @@
 			"English": "I'm not ever going to leave.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنا لن أترك أي وقت مضى.",
 			"Egyptian Arabic Audio": "eca-0241-12.mp3",
 			"Standard Arabic Audio": "msa-0241-12.mp3"
 		}

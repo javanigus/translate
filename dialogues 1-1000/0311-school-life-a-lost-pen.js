@@ -11,7 +11,7 @@
 			"English": "I lost my new pen.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لقد فقدت القلم الجديد.",
 			"Egyptian Arabic Audio": "eca-0311-1.mp3",
 			"Standard Arabic Audio": "msa-0311-1.mp3"
 		},
@@ -21,7 +21,7 @@
 			"English": "Where did you lose it?",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أين فقدت ذلك؟",
 			"Egyptian Arabic Audio": "eca-0311-2.mp3",
 			"Standard Arabic Audio": "msa-0311-2.mp3"
 		},
@@ -31,7 +31,7 @@
 			"English": "I don't know.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انا لا اعرف.",
 			"Egyptian Arabic Audio": "eca-0311-3.mp3",
 			"Standard Arabic Audio": "msa-0311-3.mp3"
 		},
@@ -41,7 +41,7 @@
 			"English": "When did you lose it?",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "متى فقدته؟",
 			"Egyptian Arabic Audio": "eca-0311-4.mp3",
 			"Standard Arabic Audio": "msa-0311-4.mp3"
 		},
@@ -51,7 +51,7 @@
 			"English": "I think I lost it today. I used it yesterday.",
 			"Word Count": 10,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أعتقد أنني فقدت ذلك اليوم. اعتدت عليه أمس.",
 			"Egyptian Arabic Audio": "eca-0311-5.mp3",
 			"Standard Arabic Audio": "msa-0311-5.mp3"
 		},
@@ -61,7 +61,7 @@
 			"English": "Did you check all your pockets?",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هل تحققت من جميع جيوبك؟",
 			"Egyptian Arabic Audio": "eca-0311-6.mp3",
 			"Standard Arabic Audio": "msa-0311-6.mp3"
 		},
@@ -71,7 +71,7 @@
 			"English": "I checked all my pockets.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "راجعت كل جيوبي.",
 			"Egyptian Arabic Audio": "eca-0311-7.mp3",
 			"Standard Arabic Audio": "msa-0311-7.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "Did you look in your desk?",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هل نظرت في مكتبك؟",
 			"Egyptian Arabic Audio": "eca-0311-8.mp3",
 			"Standard Arabic Audio": "msa-0311-8.mp3"
 		},
@@ -91,7 +91,7 @@
 			"English": "Yes. It isn't there, either.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "نعم فعلا. انها ليست هناك، سواء.",
 			"Egyptian Arabic Audio": "eca-0311-9.mp3",
 			"Standard Arabic Audio": "msa-0311-9.mp3"
 		},
@@ -101,7 +101,7 @@
 			"English": "It's probably around somewhere.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ربما في مكان ما.",
 			"Egyptian Arabic Audio": "eca-0311-10.mp3",
 			"Standard Arabic Audio": "msa-0311-10.mp3"
 		},
@@ -111,7 +111,7 @@
 			"English": "Oh, well, it only cost me a dollar.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أوه، حسنا، فإنه يكلفني فقط الدولار.",
 			"Egyptian Arabic Audio": "eca-0311-11.mp3",
 			"Standard Arabic Audio": "msa-0311-11.mp3"
 		},
@@ -121,7 +121,7 @@
 			"English": "Only a dollar? Don't even look for it.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "فقط الدولار؟ لا حتى البحث عنه.",
 			"Egyptian Arabic Audio": "eca-0311-12.mp3",
 			"Standard Arabic Audio": "msa-0311-12.mp3"
 		}

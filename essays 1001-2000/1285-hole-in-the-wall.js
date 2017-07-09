@@ -9,7 +9,7 @@
 			"English": "The bathroom wall had a nail in it.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كان جدار الحمام مسمار في ذلك.",
 			"Egyptian Arabic Audio": "eca-1285-1.mp3",
 			"Standard Arabic Audio": "msa-1285-1.mp3"
 		},
@@ -18,7 +18,7 @@
 			"English": "He pulled the nail out of the wall.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انه سحب الظفر من الجدار.",
 			"Egyptian Arabic Audio": "eca-1285-2.mp3",
 			"Standard Arabic Audio": "msa-1285-2.mp3"
 		},
@@ -27,7 +27,7 @@
 			"English": "It was a big nail.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كان مسمار كبير.",
 			"Egyptian Arabic Audio": "eca-1285-3.mp3",
 			"Standard Arabic Audio": "msa-1285-3.mp3"
 		},
@@ -36,7 +36,7 @@
 			"English": "When he pulled the nail out, a hole was in the wall.",
 			"Word Count": 12,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "عندما سحبت الظفر، كان حفرة في الجدار.",
 			"Egyptian Arabic Audio": "eca-1285-4.mp3",
 			"Standard Arabic Audio": "msa-1285-4.mp3"
 		},
@@ -45,7 +45,7 @@
 			"English": "It was a big hole.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كان حفرة كبيرة.",
 			"Egyptian Arabic Audio": "eca-1285-5.mp3",
 			"Standard Arabic Audio": "msa-1285-5.mp3"
 		},
@@ -54,7 +54,7 @@
 			"English": "He wanted to repair the hole.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أراد إصلاح الحفرة.",
 			"Egyptian Arabic Audio": "eca-1285-6.mp3",
 			"Standard Arabic Audio": "msa-1285-6.mp3"
 		},
@@ -63,7 +63,7 @@
 			"English": "He went to Wal-Mart.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ذهب إلى وول مارت.",
 			"Egyptian Arabic Audio": "eca-1285-7.mp3",
 			"Standard Arabic Audio": "msa-1285-7.mp3"
 		},
@@ -72,7 +72,7 @@
 			"English": "Wal-Mart has everything for sale.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وول مارت لديه كل شيء للبيع.",
 			"Egyptian Arabic Audio": "eca-1285-8.mp3",
 			"Standard Arabic Audio": "msa-1285-8.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "Wal-Mart is a very popular store.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وول مارت هو متجر شعبية جدا.",
 			"Egyptian Arabic Audio": "eca-1285-9.mp3",
 			"Standard Arabic Audio": "msa-1285-9.mp3"
 		},
@@ -90,7 +90,7 @@
 			"English": "He asked a clerk, \"How can I fix a nail hole in my bathroom wall?\" The clerk said it was very simple.",
 			"Word Count": 22,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "سأل كاتب، &quot;كيف يمكنني إصلاح ثقب مسمار في جدار الحمام بلدي؟&quot; وقال كاتب انها بسيطة جدا.",
 			"Egyptian Arabic Audio": "eca-1285-10.mp3",
 			"Standard Arabic Audio": "msa-1285-10.mp3"
 		},
@@ -99,7 +99,7 @@
 			"English": "A nail hole was easy to fix.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كان ثقب مسمار سهلة لإصلاح.",
 			"Egyptian Arabic Audio": "eca-1285-11.mp3",
 			"Standard Arabic Audio": "msa-1285-11.mp3"
 		},
@@ -108,7 +108,7 @@
 			"English": "\"Just buy this tube of Nail Hole Filler.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "&quot;مجرد شراء هذا أنبوب من مسمار حفرة حشو.",
 			"Egyptian Arabic Audio": "eca-1285-12.mp3",
 			"Standard Arabic Audio": "msa-1285-12.mp3"
 		},
@@ -117,7 +117,7 @@
 			"English": "Then squeeze it into the hole,\" the clerk said.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ثم ضغط عليه في الحفرة &quot;، وقال كاتب.",
 			"Egyptian Arabic Audio": "eca-1285-13.mp3",
 			"Standard Arabic Audio": "msa-1285-13.mp3"
 		},
@@ -126,7 +126,7 @@
 			"English": "He took the filler home.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أخذ منزل حشو.",
 			"Egyptian Arabic Audio": "eca-1285-14.mp3",
 			"Standard Arabic Audio": "msa-1285-14.mp3"
 		},
@@ -135,7 +135,7 @@
 			"English": "He squeezed it into the hole.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ضغط عليه في الحفرة.",
 			"Egyptian Arabic Audio": "eca-1285-15.mp3",
 			"Standard Arabic Audio": "msa-1285-15.mp3"
 		},
@@ -144,7 +144,7 @@
 			"English": "He let the filler dry overnight.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ترك الحشو جاف بين عشية وضحاها.",
 			"Egyptian Arabic Audio": "eca-1285-16.mp3",
 			"Standard Arabic Audio": "msa-1285-16.mp3"
 		},
@@ -153,7 +153,7 @@
 			"English": "The next day, there was no hole!.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "في اليوم التالي، لم يكن هناك حفرة !.",
 			"Egyptian Arabic Audio": "eca-1285-17.mp3",
 			"Standard Arabic Audio": "msa-1285-17.mp3"
 		}

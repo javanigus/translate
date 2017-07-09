@@ -9,7 +9,7 @@
 			"English": "The old man drove to Burger-Burger.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "قاد الرجل العجوز إلى برجر برغر.",
 			"Egyptian Arabic Audio": "eca-1433-1.mp3",
 			"Standard Arabic Audio": "msa-1433-1.mp3"
 		},
@@ -18,7 +18,7 @@
 			"English": "He was 82 years old.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كان يبلغ من العمر 82 عاما.",
 			"Egyptian Arabic Audio": "eca-1433-2.mp3",
 			"Standard Arabic Audio": "msa-1433-2.mp3"
 		},
@@ -27,7 +27,7 @@
 			"English": "It was late at night.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كان الوقت متاخرا في الليل.",
 			"Egyptian Arabic Audio": "eca-1433-3.mp3",
 			"Standard Arabic Audio": "msa-1433-3.mp3"
 		},
@@ -36,7 +36,7 @@
 			"English": "It was 11:30 p.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كان 11:30 ص.",
 			"Egyptian Arabic Audio": "eca-1433-4.mp3",
 			"Standard Arabic Audio": "msa-1433-4.mp3"
 		},
@@ -45,7 +45,7 @@
 			"English": "m.",
 			"Word Count": 1,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "م.",
 			"Egyptian Arabic Audio": "eca-1433-5.mp3",
 			"Standard Arabic Audio": "msa-1433-5.mp3"
 		},
@@ -54,7 +54,7 @@
 			"English": "He was hungry.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كان جائعا.",
 			"Egyptian Arabic Audio": "eca-1433-6.mp3",
 			"Standard Arabic Audio": "msa-1433-6.mp3"
 		},
@@ -63,7 +63,7 @@
 			"English": "He wanted something to eat.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أراد شيئا لتناول الطعام.",
 			"Egyptian Arabic Audio": "eca-1433-7.mp3",
 			"Standard Arabic Audio": "msa-1433-7.mp3"
 		},
@@ -72,7 +72,7 @@
 			"English": "He went to the drive-through.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ذهب إلى محرك الأقراص من خلال.",
 			"Egyptian Arabic Audio": "eca-1433-8.mp3",
 			"Standard Arabic Audio": "msa-1433-8.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "He ordered a Double Double Burger-Burger.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أمر مزدوج مزدوج برغر برجر.",
 			"Egyptian Arabic Audio": "eca-1433-9.mp3",
 			"Standard Arabic Audio": "msa-1433-9.mp3"
 		},
@@ -90,7 +90,7 @@
 			"English": "He ordered large fries.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أمر بطاطا مقلية كبيرة.",
 			"Egyptian Arabic Audio": "eca-1433-10.mp3",
 			"Standard Arabic Audio": "msa-1433-10.mp3"
 		},
@@ -99,7 +99,7 @@
 			"English": "He ordered a large coffee.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أمر قهوة كبيرة.",
 			"Egyptian Arabic Audio": "eca-1433-11.mp3",
 			"Standard Arabic Audio": "msa-1433-11.mp3"
 		},
@@ -108,7 +108,7 @@
 			"English": "He drove his car forward.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "قاد سيارته إلى الأمام.",
 			"Egyptian Arabic Audio": "eca-1433-12.mp3",
 			"Standard Arabic Audio": "msa-1433-12.mp3"
 		},
@@ -117,7 +117,7 @@
 			"English": "He gave the clerk $6.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أعطى كاتب $ 6.",
 			"Egyptian Arabic Audio": "eca-1433-13.mp3",
 			"Standard Arabic Audio": "msa-1433-13.mp3"
 		},
@@ -126,7 +126,7 @@
 			"English": "He waited.",
 			"Word Count": 2,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لقد انتظر.",
 			"Egyptian Arabic Audio": "eca-1433-14.mp3",
 			"Standard Arabic Audio": "msa-1433-14.mp3"
 		},
@@ -135,7 +135,7 @@
 			"English": "She gave him his Double Double Burger-Burger.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أعطته مزدوجة مزدوجة برجر برغر.",
 			"Egyptian Arabic Audio": "eca-1433-15.mp3",
 			"Standard Arabic Audio": "msa-1433-15.mp3"
 		},
@@ -144,7 +144,7 @@
 			"English": "It smelled good.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انها رائحة جيدة.",
 			"Egyptian Arabic Audio": "eca-1433-16.mp3",
 			"Standard Arabic Audio": "msa-1433-16.mp3"
 		},
@@ -153,7 +153,7 @@
 			"English": "He couldn't wait to eat it.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وقال انه لا يمكن الانتظار لتناول الطعام.",
 			"Egyptian Arabic Audio": "eca-1433-17.mp3",
 			"Standard Arabic Audio": "msa-1433-17.mp3"
 		},
@@ -162,7 +162,7 @@
 			"English": "She gave him his large fries.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أعطته له بطاطس كبيرة.",
 			"Egyptian Arabic Audio": "eca-1433-18.mp3",
 			"Standard Arabic Audio": "msa-1433-18.mp3"
 		},
@@ -171,7 +171,7 @@
 			"English": "They smelled good.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنها رائحة جيدة.",
 			"Egyptian Arabic Audio": "eca-1433-19.mp3",
 			"Standard Arabic Audio": "msa-1433-19.mp3"
 		},
@@ -180,7 +180,7 @@
 			"English": "He couldn't wait to eat them.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وقال انه لا يمكن الانتظار لتناول الطعام لهم.",
 			"Egyptian Arabic Audio": "eca-1433-20.mp3",
 			"Standard Arabic Audio": "msa-1433-20.mp3"
 		},
@@ -189,7 +189,7 @@
 			"English": "She gave him his large cup of coffee.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أعطته كوب كبير من القهوة.",
 			"Egyptian Arabic Audio": "eca-1433-21.mp3",
 			"Standard Arabic Audio": "msa-1433-21.mp3"
 		},
@@ -198,7 +198,7 @@
 			"English": "He couldn't wait to drink it.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لم يستطع الانتظار لشربه.",
 			"Egyptian Arabic Audio": "eca-1433-22.mp3",
 			"Standard Arabic Audio": "msa-1433-22.mp3"
 		},
@@ -207,7 +207,7 @@
 			"English": "But the top wasn't on tight.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ولكن الجزء العلوي لم يكن على ضيق.",
 			"Egyptian Arabic Audio": "eca-1433-23.mp3",
 			"Standard Arabic Audio": "msa-1433-23.mp3"
 		},
@@ -216,7 +216,7 @@
 			"English": "The hot coffee spilled.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "القهوة الساخنة المسكوب.",
 			"Egyptian Arabic Audio": "eca-1433-24.mp3",
 			"Standard Arabic Audio": "msa-1433-24.mp3"
 		},
@@ -225,7 +225,7 @@
 			"English": "It spilled into his lap.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انسكب في حضنه.",
 			"Egyptian Arabic Audio": "eca-1433-25.mp3",
 			"Standard Arabic Audio": "msa-1433-25.mp3"
 		},
@@ -234,7 +234,7 @@
 			"English": "\"Ouch!\" he yelled.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "&quot;أوتش!&quot; صرخ.",
 			"Egyptian Arabic Audio": "eca-1433-26.mp3",
 			"Standard Arabic Audio": "msa-1433-26.mp3"
 		},
@@ -243,7 +243,7 @@
 			"English": "\"Give me some ice!\" She gave him a large cup of ice.",
 			"Word Count": 12,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "&quot;أعطني بعض الجليد!&quot; أعطته كوب كبير من الثلج.",
 			"Egyptian Arabic Audio": "eca-1433-27.mp3",
 			"Standard Arabic Audio": "msa-1433-27.mp3"
 		},
@@ -252,7 +252,7 @@
 			"English": "He poured it into his lap.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "سكب في حضنه.",
 			"Egyptian Arabic Audio": "eca-1433-28.mp3",
 			"Standard Arabic Audio": "msa-1433-28.mp3"
 		},
@@ -261,7 +261,7 @@
 			"English": "\"Ah,\" he said, \"that feels better.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "&quot;آه&quot;، وقال، &quot;أن يشعر على نحو أفضل.",
 			"Egyptian Arabic Audio": "eca-1433-29.mp3",
 			"Standard Arabic Audio": "msa-1433-29.mp3"
 		},
@@ -270,7 +270,7 @@
 			"English": "\".",
 			"Word Count": 1,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "&quot;.",
 			"Egyptian Arabic Audio": "eca-1433-30.mp3",
 			"Standard Arabic Audio": "msa-1433-30.mp3"
 		}

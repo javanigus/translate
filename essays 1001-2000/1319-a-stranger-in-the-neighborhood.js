@@ -9,7 +9,7 @@
 			"English": "She looked at the man.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "نظرت إلى الرجل.",
 			"Egyptian Arabic Audio": "eca-1319-1.mp3",
 			"Standard Arabic Audio": "msa-1319-1.mp3"
 		},
@@ -18,7 +18,7 @@
 			"English": "He was walking on the sidewalk.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كان يسير على الرصيف.",
 			"Egyptian Arabic Audio": "eca-1319-2.mp3",
 			"Standard Arabic Audio": "msa-1319-2.mp3"
 		},
@@ -27,7 +27,7 @@
 			"English": "She did not know this man.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لم تكن تعرف هذا الرجل.",
 			"Egyptian Arabic Audio": "eca-1319-3.mp3",
 			"Standard Arabic Audio": "msa-1319-3.mp3"
 		},
@@ -36,7 +36,7 @@
 			"English": "He was a stranger.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كان غريبا.",
 			"Egyptian Arabic Audio": "eca-1319-4.mp3",
 			"Standard Arabic Audio": "msa-1319-4.mp3"
 		},
@@ -45,7 +45,7 @@
 			"English": "She did not trust this man.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لم تثق بهذا الرجل.",
 			"Egyptian Arabic Audio": "eca-1319-5.mp3",
 			"Standard Arabic Audio": "msa-1319-5.mp3"
 		},
@@ -54,7 +54,7 @@
 			"English": "He did not live in this neighborhood.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لم يكن يعيش في هذا الحي.",
 			"Egyptian Arabic Audio": "eca-1319-6.mp3",
 			"Standard Arabic Audio": "msa-1319-6.mp3"
 		},
@@ -63,7 +63,7 @@
 			"English": "She was driving her car slowly.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كانت تقود سيارتها ببطء.",
 			"Egyptian Arabic Audio": "eca-1319-7.mp3",
 			"Standard Arabic Audio": "msa-1319-7.mp3"
 		},
@@ -72,7 +72,7 @@
 			"English": "She was almost home.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كانت تقريبا المنزل.",
 			"Egyptian Arabic Audio": "eca-1319-8.mp3",
 			"Standard Arabic Audio": "msa-1319-8.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "She drove past the man.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وقالت انها قاد الماضي الرجل.",
 			"Egyptian Arabic Audio": "eca-1319-9.mp3",
 			"Standard Arabic Audio": "msa-1319-9.mp3"
 		},
@@ -90,7 +90,7 @@
 			"English": "She watched him in her rear-view mirror.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "شاهدته في مرآة الرؤية الخلفية.",
 			"Egyptian Arabic Audio": "eca-1319-10.mp3",
 			"Standard Arabic Audio": "msa-1319-10.mp3"
 		},
@@ -99,7 +99,7 @@
 			"English": "He stopped walking on the sidewalk.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "توقف عن المشي على الرصيف.",
 			"Egyptian Arabic Audio": "eca-1319-11.mp3",
 			"Standard Arabic Audio": "msa-1319-11.mp3"
 		},
@@ -108,7 +108,7 @@
 			"English": "He walked up her neighbor's driveway.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "مشى درب جارها.",
 			"Egyptian Arabic Audio": "eca-1319-12.mp3",
 			"Standard Arabic Audio": "msa-1319-12.mp3"
 		},
@@ -117,7 +117,7 @@
 			"English": "A car was in the driveway.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وكانت السيارة في درب.",
 			"Egyptian Arabic Audio": "eca-1319-13.mp3",
 			"Standard Arabic Audio": "msa-1319-13.mp3"
 		},
@@ -126,7 +126,7 @@
 			"English": "He walked up to the driver's door.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "سار إلى باب السائق.",
 			"Egyptian Arabic Audio": "eca-1319-14.mp3",
 			"Standard Arabic Audio": "msa-1319-14.mp3"
 		},
@@ -135,7 +135,7 @@
 			"English": "He stopped.",
 			"Word Count": 2,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "توقف.",
 			"Egyptian Arabic Audio": "eca-1319-15.mp3",
 			"Standard Arabic Audio": "msa-1319-15.mp3"
 		},
@@ -144,7 +144,7 @@
 			"English": "Then he walked back to the sidewalk.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ثم عاد إلى الرصيف.",
 			"Egyptian Arabic Audio": "eca-1319-16.mp3",
 			"Standard Arabic Audio": "msa-1319-16.mp3"
 		},
@@ -153,7 +153,7 @@
 			"English": "What was he doing, she wondered.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ماذا كان يفعل، وتساءلت.",
 			"Egyptian Arabic Audio": "eca-1319-17.mp3",
 			"Standard Arabic Audio": "msa-1319-17.mp3"
 		},
@@ -162,7 +162,7 @@
 			"English": "Then she realized what he was doing.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ثم أدركت ما كان يفعله.",
 			"Egyptian Arabic Audio": "eca-1319-18.mp3",
 			"Standard Arabic Audio": "msa-1319-18.mp3"
 		},
@@ -171,7 +171,7 @@
 			"English": "He was testing the driver's door.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كان يختبر باب السائق.",
 			"Egyptian Arabic Audio": "eca-1319-19.mp3",
 			"Standard Arabic Audio": "msa-1319-19.mp3"
 		},
@@ -180,7 +180,7 @@
 			"English": "He was testing it to see if it was locked.",
 			"Word Count": 10,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كان يختبره لمعرفة ما إذا كان مؤمنا.",
 			"Egyptian Arabic Audio": "eca-1319-20.mp3",
 			"Standard Arabic Audio": "msa-1319-20.mp3"
 		},
@@ -189,7 +189,7 @@
 			"English": "She called the police.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "اتصلت بالشرطة.",
 			"Egyptian Arabic Audio": "eca-1319-21.mp3",
 			"Standard Arabic Audio": "msa-1319-21.mp3"
 		}

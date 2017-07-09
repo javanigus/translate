@@ -11,7 +11,7 @@
 			"English": "I'm so bad at picking out gifts for my husband.",
 			"Word Count": 10,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنا سيئة للغاية في اختيار الهدايا لزوجي.",
 			"Egyptian Arabic Audio": "eca-0860-1.mp3",
 			"Standard Arabic Audio": "msa-0860-1.mp3"
 		},
@@ -21,7 +21,7 @@
 			"English": "The eternal question of what to get for the man who has everything.",
 			"Word Count": 13,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "السؤال الأبدي لما يحصل على الرجل الذي لديه كل شيء.",
 			"Egyptian Arabic Audio": "eca-0860-2.mp3",
 			"Standard Arabic Audio": "msa-0860-2.mp3"
 		},
@@ -31,7 +31,7 @@
 			"English": "What do you suggest?",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ماذا تقترح؟",
 			"Egyptian Arabic Audio": "eca-0860-3.mp3",
 			"Standard Arabic Audio": "msa-0860-3.mp3"
 		},
@@ -41,7 +41,7 @@
 			"English": "Well, is your husband into sports?",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "حسنا، هل زوجك في الرياضة؟",
 			"Egyptian Arabic Audio": "eca-0860-4.mp3",
 			"Standard Arabic Audio": "msa-0860-4.mp3"
 		},
@@ -51,7 +51,7 @@
 			"English": "He is a huge fan of both soccer and American football.",
 			"Word Count": 11,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وهو معجب كبير لكرة القدم وكرة القدم الأمريكية.",
 			"Egyptian Arabic Audio": "eca-0860-5.mp3",
 			"Standard Arabic Audio": "msa-0860-5.mp3"
 		},
@@ -61,7 +61,7 @@
 			"English": "Well, the football season is about to start. How about a jersey from his favorite team?",
 			"Word Count": 16,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "حسنا، موسم كرة القدم على وشك أن تبدأ. ماذا عن جيرسي من فريقه المفضل؟",
 			"Egyptian Arabic Audio": "eca-0860-6.mp3",
 			"Standard Arabic Audio": "msa-0860-6.mp3"
 		},
@@ -71,7 +71,7 @@
 			"English": "That's actually a great idea.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هذا في الواقع فكرة عظيمة.",
 			"Egyptian Arabic Audio": "eca-0860-7.mp3",
 			"Standard Arabic Audio": "msa-0860-7.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "Just tell me what size he is.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "قل لي ما هو حجمه.",
 			"Egyptian Arabic Audio": "eca-0860-8.mp3",
 			"Standard Arabic Audio": "msa-0860-8.mp3"
 		},
@@ -91,7 +91,7 @@
 			"English": "He's really tall but slim.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انه طويل القامة ولكن ضئيلة جدا.",
 			"Egyptian Arabic Audio": "eca-0860-9.mp3",
 			"Standard Arabic Audio": "msa-0860-9.mp3"
 		},
@@ -101,7 +101,7 @@
 			"English": "How about a large then?",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ماذا عن كبير ثم؟",
 			"Egyptian Arabic Audio": "eca-0860-10.mp3",
 			"Standard Arabic Audio": "msa-0860-10.mp3"
 		},
@@ -111,7 +111,7 @@
 			"English": "If it doesn't fit, can I return it?",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "إذا كان لا يصلح، يمكنني إعادته؟",
 			"Egyptian Arabic Audio": "eca-0860-11.mp3",
 			"Standard Arabic Audio": "msa-0860-11.mp3"
 		},
@@ -121,7 +121,7 @@
 			"English": "I'll include a gift receipt so he can return it, too.",
 			"Word Count": 11,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنا سوف تشمل إيصال هدية حتى يتمكن من إعادته أيضا.",
 			"Egyptian Arabic Audio": "eca-0860-12.mp3",
 			"Standard Arabic Audio": "msa-0860-12.mp3"
 		}

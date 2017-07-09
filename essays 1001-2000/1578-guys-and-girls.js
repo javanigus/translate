@@ -9,7 +9,7 @@
 			"English": "Gus and Bob were talking.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كان جوس وبوب يتحدثان.",
 			"Egyptian Arabic Audio": "eca-1578-1.mp3",
 			"Standard Arabic Audio": "msa-1578-1.mp3"
 		},
@@ -18,7 +18,7 @@
 			"English": "They were talking about girls.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كانوا يتحدثون عن الفتيات.",
 			"Egyptian Arabic Audio": "eca-1578-2.mp3",
 			"Standard Arabic Audio": "msa-1578-2.mp3"
 		},
@@ -27,7 +27,7 @@
 			"English": "They were talking about how hard it is to pick up girls.",
 			"Word Count": 12,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كانوا يتحدثون عن مدى صعوبة التقاط الفتيات.",
 			"Egyptian Arabic Audio": "eca-1578-3.mp3",
 			"Standard Arabic Audio": "msa-1578-3.mp3"
 		},
@@ -36,7 +36,7 @@
 			"English": "What do girls want? They were confused.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ماذا تريد الفتيات؟ كانت الخلط بينهما.",
 			"Egyptian Arabic Audio": "eca-1578-4.mp3",
 			"Standard Arabic Audio": "msa-1578-4.mp3"
 		},
@@ -45,7 +45,7 @@
 			"English": "Jerry walked by.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "جيري مشى.",
 			"Egyptian Arabic Audio": "eca-1578-5.mp3",
 			"Standard Arabic Audio": "msa-1578-5.mp3"
 		},
@@ -54,7 +54,7 @@
 			"English": "He joined the conversation.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انضم إلى المحادثة.",
 			"Egyptian Arabic Audio": "eca-1578-6.mp3",
 			"Standard Arabic Audio": "msa-1578-6.mp3"
 		},
@@ -63,7 +63,7 @@
 			"English": "He told them what girls want.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وقال لهم ما تريد الفتيات.",
 			"Egyptian Arabic Audio": "eca-1578-7.mp3",
 			"Standard Arabic Audio": "msa-1578-7.mp3"
 		},
@@ -72,7 +72,7 @@
 			"English": "They want a guy with confidence.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انهم يريدون رجل مع الثقة.",
 			"Egyptian Arabic Audio": "eca-1578-8.mp3",
 			"Standard Arabic Audio": "msa-1578-8.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "They want a guy with money.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انهم يريدون رجل مع المال.",
 			"Egyptian Arabic Audio": "eca-1578-9.mp3",
 			"Standard Arabic Audio": "msa-1578-9.mp3"
 		},
@@ -90,7 +90,7 @@
 			"English": "They want a guy with a nice car.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انهم يريدون رجل مع سيارة لطيفة.",
 			"Egyptian Arabic Audio": "eca-1578-10.mp3",
 			"Standard Arabic Audio": "msa-1578-10.mp3"
 		},
@@ -99,7 +99,7 @@
 			"English": "They want a fun guy.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انهم يريدون متعة الرجل.",
 			"Egyptian Arabic Audio": "eca-1578-11.mp3",
 			"Standard Arabic Audio": "msa-1578-11.mp3"
 		},
@@ -108,7 +108,7 @@
 			"English": "\"It's like that song,\" he said.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وقال &quot;انها مثل تلك الاغنية&quot;.",
 			"Egyptian Arabic Audio": "eca-1578-12.mp3",
 			"Standard Arabic Audio": "msa-1578-12.mp3"
 		},
@@ -117,7 +117,7 @@
 			"English": "\"Girls just want to have fun.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "&quot;الفتيات يريدون فقط الحصول على المتعة.",
 			"Egyptian Arabic Audio": "eca-1578-13.mp3",
 			"Standard Arabic Audio": "msa-1578-13.mp3"
 		},
@@ -126,7 +126,7 @@
 			"English": "And you two are no fun.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وأنت اثنين لا متعة.",
 			"Egyptian Arabic Audio": "eca-1578-14.mp3",
 			"Standard Arabic Audio": "msa-1578-14.mp3"
 		},
@@ -135,7 +135,7 @@
 			"English": "\" Jerry left.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "&quot;جيري اليسار.",
 			"Egyptian Arabic Audio": "eca-1578-15.mp3",
 			"Standard Arabic Audio": "msa-1578-15.mp3"
 		},
@@ -144,7 +144,7 @@
 			"English": "\"Maybe Jerry's right,\" said Gus.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وقال جوس: &quot;ربما حق جيري&quot;.",
 			"Egyptian Arabic Audio": "eca-1578-16.mp3",
 			"Standard Arabic Audio": "msa-1578-16.mp3"
 		},
@@ -153,7 +153,7 @@
 			"English": "Bob said Jerry was wrong.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وقال بوب ان جيري كان مخطئا.",
 			"Egyptian Arabic Audio": "eca-1578-17.mp3",
 			"Standard Arabic Audio": "msa-1578-17.mp3"
 		},
@@ -162,7 +162,7 @@
 			"English": "Yes, girls want a guy with confidence, money, and a nice car.",
 			"Word Count": 12,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "نعم، الفتيات تريد رجل مع الثقة، والمال، وسيارة جميلة.",
 			"Egyptian Arabic Audio": "eca-1578-18.mp3",
 			"Standard Arabic Audio": "msa-1578-18.mp3"
 		},
@@ -171,7 +171,7 @@
 			"English": "Yes, they want a fun guy.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "نعم، يريدون متعة الرجل.",
 			"Egyptian Arabic Audio": "eca-1578-19.mp3",
 			"Standard Arabic Audio": "msa-1578-19.mp3"
 		},
@@ -180,7 +180,7 @@
 			"English": "But, Bob said, girls also want a nice guy.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ولكن، وقال بوب، الفتيات تريد أيضا رجل لطيف.",
 			"Egyptian Arabic Audio": "eca-1578-20.mp3",
 			"Standard Arabic Audio": "msa-1578-20.mp3"
 		},
@@ -189,7 +189,7 @@
 			"English": "And they were both nice guys.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وكانوا على حد سواء لطيفة الرجال.",
 			"Egyptian Arabic Audio": "eca-1578-21.mp3",
 			"Standard Arabic Audio": "msa-1578-21.mp3"
 		},
@@ -198,7 +198,7 @@
 			"English": "\"So, what do we do?\" asked Gus.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "&quot;إذن ماذا نفعل؟&quot; سأل غوس.",
 			"Egyptian Arabic Audio": "eca-1578-22.mp3",
 			"Standard Arabic Audio": "msa-1578-22.mp3"
 		},
@@ -207,7 +207,7 @@
 			"English": "\"We do what nice guys do best,\" said Bob.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "&quot;نحن نفعل ما الرجال لطيفة تفعل أفضل&quot;، وقال بوب.",
 			"Egyptian Arabic Audio": "eca-1578-23.mp3",
 			"Standard Arabic Audio": "msa-1578-23.mp3"
 		},
@@ -216,7 +216,7 @@
 			"English": "\"We wait.",
 			"Word Count": 2,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "&quot;ننتظر.",
 			"Egyptian Arabic Audio": "eca-1578-24.mp3",
 			"Standard Arabic Audio": "msa-1578-24.mp3"
 		},
@@ -225,7 +225,7 @@
 			"English": "We hope.",
 			"Word Count": 2,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "إننا نأمل.",
 			"Egyptian Arabic Audio": "eca-1578-25.mp3",
 			"Standard Arabic Audio": "msa-1578-25.mp3"
 		},
@@ -234,7 +234,7 @@
 			"English": "\".",
 			"Word Count": 1,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "&quot;.",
 			"Egyptian Arabic Audio": "eca-1578-26.mp3",
 			"Standard Arabic Audio": "msa-1578-26.mp3"
 		}

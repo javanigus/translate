@@ -9,7 +9,7 @@
 			"English": "Doug then asked Mike for some Coca-Cola.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ثم سأل دوغ مايك لبعض كوكا كولا.",
 			"Egyptian Arabic Audio": "eca-1773-1.mp3",
 			"Standard Arabic Audio": "msa-1773-1.mp3"
 		},
@@ -18,7 +18,7 @@
 			"English": "\"That I'm allowed to have in the house,\" Mike said to Doug.",
 			"Word Count": 12,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يقول مايك ل دوغ: &quot;هذا ما سمح لي به في المنزل&quot;.",
 			"Egyptian Arabic Audio": "eca-1773-2.mp3",
 			"Standard Arabic Audio": "msa-1773-2.mp3"
 		},
@@ -27,7 +27,7 @@
 			"English": "Mike went to the kitchen and grabbed a few soda cans for him and Doug.",
 			"Word Count": 15,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ذهب مايك إلى المطبخ وأمسك بعض علب الصودا له و دوغ.",
 			"Egyptian Arabic Audio": "eca-1773-3.mp3",
 			"Standard Arabic Audio": "msa-1773-3.mp3"
 		},
@@ -36,7 +36,7 @@
 			"English": "He came into the living room and sat with Doug.",
 			"Word Count": 10,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "جاء إلى غرفة المعيشة وجلس مع دوغ.",
 			"Egyptian Arabic Audio": "eca-1773-4.mp3",
 			"Standard Arabic Audio": "msa-1773-4.mp3"
 		},
@@ -45,7 +45,7 @@
 			"English": "He opened the coke can and took a drink from the cold can.",
 			"Word Count": 13,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "فتح فحم الكوك ويمكن أخذ شراب من البرد يمكن.",
 			"Egyptian Arabic Audio": "eca-1773-5.mp3",
 			"Standard Arabic Audio": "msa-1773-5.mp3"
 		}

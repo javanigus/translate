@@ -11,7 +11,7 @@
 			"English": "Where are you going?",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "إلى أين تذهب؟",
 			"Egyptian Arabic Audio": "eca-0174-1.mp3",
 			"Standard Arabic Audio": "msa-0174-1.mp3"
 		},
@@ -21,7 +21,7 @@
 			"English": "I'm going to buy some flowers for Valentine's Day.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنا ذاهب لشراء بعض الزهور لعيد الحب.",
 			"Egyptian Arabic Audio": "eca-0174-2.mp3",
 			"Standard Arabic Audio": "msa-0174-2.mp3"
 		},
@@ -31,7 +31,7 @@
 			"English": "Who are the flowers for?",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "من هي الزهور ل؟",
 			"Egyptian Arabic Audio": "eca-0174-3.mp3",
 			"Standard Arabic Audio": "msa-0174-3.mp3"
 		},
@@ -41,7 +41,7 @@
 			"English": "My mom, my sister, and my girlfriend.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أمي، أختي، وصديقتي.",
 			"Egyptian Arabic Audio": "eca-0174-4.mp3",
 			"Standard Arabic Audio": "msa-0174-4.mp3"
 		},
@@ -51,7 +51,7 @@
 			"English": "Wow, you are very thoughtful.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "نجاح باهر، كنت مدروس جدا.",
 			"Egyptian Arabic Audio": "eca-0174-5.mp3",
 			"Standard Arabic Audio": "msa-0174-5.mp3"
 		},
@@ -61,7 +61,7 @@
 			"English": "I don't really know which flowers to buy, though.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنا لا أعرف حقا أي الزهور لشراء، على الرغم من.",
 			"Egyptian Arabic Audio": "eca-0174-6.mp3",
 			"Standard Arabic Audio": "msa-0174-6.mp3"
 		},
@@ -71,7 +71,7 @@
 			"English": "Well, for your girlfriend, something romantic.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "حسنا، لصديقتك، شيء رومانسية.",
 			"Egyptian Arabic Audio": "eca-0174-7.mp3",
 			"Standard Arabic Audio": "msa-0174-7.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "Red roses, of course.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "الورود الحمراء، بطبيعة الحال.",
 			"Egyptian Arabic Audio": "eca-0174-8.mp3",
 			"Standard Arabic Audio": "msa-0174-8.mp3"
 		},
@@ -91,7 +91,7 @@
 			"English": "For your mother, something that smells nice.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لأمك، شيء رائحة لطيفة.",
 			"Egyptian Arabic Audio": "eca-0174-9.mp3",
 			"Standard Arabic Audio": "msa-0174-9.mp3"
 		},
@@ -101,7 +101,7 @@
 			"English": "Carnations! She loves carnations.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "القرنفل! تحب القرنفل.",
 			"Egyptian Arabic Audio": "eca-0174-10.mp3",
 			"Standard Arabic Audio": "msa-0174-10.mp3"
 		},
@@ -111,7 +111,7 @@
 			"English": "And for your sister?",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ولأختك؟",
 			"Egyptian Arabic Audio": "eca-0174-11.mp3",
 			"Standard Arabic Audio": "msa-0174-11.mp3"
 		},
@@ -121,7 +121,7 @@
 			"English": "I'll buy her some pink roses. Thanks for your help!",
 			"Word Count": 10,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "سأشتري لها بعض الورود الوردية. شكرا لمساعدتك!",
 			"Egyptian Arabic Audio": "eca-0174-12.mp3",
 			"Standard Arabic Audio": "msa-0174-12.mp3"
 		}

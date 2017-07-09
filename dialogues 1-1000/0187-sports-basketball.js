@@ -11,7 +11,7 @@
 			"English": "You sure are buying a lot of stuff!",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كنت متأكدا من شراء الكثير من الاشياء!",
 			"Egyptian Arabic Audio": "eca-0187-1.mp3",
 			"Standard Arabic Audio": "msa-0187-1.mp3"
 		},
@@ -21,7 +21,7 @@
 			"English": "It's all the equipment I need for basketball.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انها كل المعدات التي أحتاجها لكرة السلة.",
 			"Egyptian Arabic Audio": "eca-0187-2.mp3",
 			"Standard Arabic Audio": "msa-0187-2.mp3"
 		},
@@ -31,7 +31,7 @@
 			"English": "What do you need besides a ball and a hoop?",
 			"Word Count": 10,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ماذا تحتاج إلى جانب الكرة وطارة؟",
 			"Egyptian Arabic Audio": "eca-0187-3.mp3",
 			"Standard Arabic Audio": "msa-0187-3.mp3"
 		},
@@ -41,7 +41,7 @@
 			"English": "All good players have a good pair of shoes.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "جميع اللاعبين جيدة لديها زوج جيد من الأحذية.",
 			"Egyptian Arabic Audio": "eca-0187-4.mp3",
 			"Standard Arabic Audio": "msa-0187-4.mp3"
 		},
@@ -51,7 +51,7 @@
 			"English": "That makes three things.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وهذا يجعل ثلاثة أشياء.",
 			"Egyptian Arabic Audio": "eca-0187-5.mp3",
 			"Standard Arabic Audio": "msa-0187-5.mp3"
 		},
@@ -61,7 +61,7 @@
 			"English": "You should also wear comfortable clothes when you play.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يجب عليك أيضا ارتداء ملابس مريحة عند اللعب.",
 			"Egyptian Arabic Audio": "eca-0187-6.mp3",
 			"Standard Arabic Audio": "msa-0187-6.mp3"
 		},
@@ -71,7 +71,7 @@
 			"English": "What about all that candy you're buying?",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ماذا عن كل الحلوى التي تشتريها؟",
 			"Egyptian Arabic Audio": "eca-0187-7.mp3",
 			"Standard Arabic Audio": "msa-0187-7.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "A player has to stay energized!",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لاعب لديه للبقاء تنشيط!",
 			"Egyptian Arabic Audio": "eca-0187-8.mp3",
 			"Standard Arabic Audio": "msa-0187-8.mp3"
 		},
@@ -91,7 +91,7 @@
 			"English": "I don't think it's good to run on sugar.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنا لا أعتقد أنه من الجيد أن تعمل على السكر.",
 			"Egyptian Arabic Audio": "eca-0187-9.mp3",
 			"Standard Arabic Audio": "msa-0187-9.mp3"
 		},
@@ -101,7 +101,7 @@
 			"English": "Then I'll eat it while I'm watching the basketball game.",
 			"Word Count": 10,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ثم أنا سوف أكله وأنا أشاهد لعبة كرة السلة.",
 			"Egyptian Arabic Audio": "eca-0187-10.mp3",
 			"Standard Arabic Audio": "msa-0187-10.mp3"
 		},
@@ -111,7 +111,7 @@
 			"English": "Are you watching it on television?",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هل تشاهده على شاشة التلفزيون؟",
 			"Egyptian Arabic Audio": "eca-0187-11.mp3",
 			"Standard Arabic Audio": "msa-0187-11.mp3"
 		},
@@ -121,7 +121,7 @@
 			"English": "Yes. There's a big game on Sunday.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "نعم فعلا. هناك لعبة كبيرة يوم الأحد.",
 			"Egyptian Arabic Audio": "eca-0187-12.mp3",
 			"Standard Arabic Audio": "msa-0187-12.mp3"
 		}

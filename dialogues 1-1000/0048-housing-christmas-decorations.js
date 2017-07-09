@@ -11,7 +11,7 @@
 			"English": "You sure bought a lot of Christmas lights!",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كنت متأكدا اشترى الكثير من أضواء عيد الميلاد!",
 			"Egyptian Arabic Audio": "eca-0048-1.mp3",
 			"Standard Arabic Audio": "msa-0048-1.mp3"
 		},
@@ -21,7 +21,7 @@
 			"English": "I want the house to be shining this Christmas!",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أريد أن يكون المنزل مشرقة هذا عيد الميلاد!",
 			"Egyptian Arabic Audio": "eca-0048-2.mp3",
 			"Standard Arabic Audio": "msa-0048-2.mp3"
 		},
@@ -31,7 +31,7 @@
 			"English": "Do all of the houses on the block decorate?",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هل كل من المنازل على كتلة تزيين؟",
 			"Egyptian Arabic Audio": "eca-0048-3.mp3",
 			"Standard Arabic Audio": "msa-0048-3.mp3"
 		},
@@ -41,7 +41,7 @@
 			"English": "Yes, they do! It is quite beautiful.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "نعم، يفعلون! أنها جميلة جدا.",
 			"Egyptian Arabic Audio": "eca-0048-4.mp3",
 			"Standard Arabic Audio": "msa-0048-4.mp3"
 		},
@@ -51,7 +51,7 @@
 			"English": "I can't wait to see it when it's done!",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لا أستطيع الانتظار لرؤيتها عندما يتم ذلك!",
 			"Egyptian Arabic Audio": "eca-0048-5.mp3",
 			"Standard Arabic Audio": "msa-0048-5.mp3"
 		},
@@ -61,7 +61,7 @@
 			"English": "A parade marches by every year so people can see them.",
 			"Word Count": 11,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "مسيرة موكب كل عام حتى يتمكن الناس من رؤيتها.",
 			"Egyptian Arabic Audio": "eca-0048-6.mp3",
 			"Standard Arabic Audio": "msa-0048-6.mp3"
 		},
@@ -71,7 +71,7 @@
 			"English": "What are you doing on the roof?",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ماذا تفعل على السطح؟",
 			"Egyptian Arabic Audio": "eca-0048-7.mp3",
 			"Standard Arabic Audio": "msa-0048-7.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "I'm going to make it look like it snowed up here!",
 			"Word Count": 11,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنا ذاهب لجعلها تبدو وكأنها تساقطت هنا!",
 			"Egyptian Arabic Audio": "eca-0048-8.mp3",
 			"Standard Arabic Audio": "msa-0048-8.mp3"
 		},
@@ -91,7 +91,7 @@
 			"English": "Are you using Christmas lights and cotton?",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هل تستخدم أضواء عيد الميلاد والقطن؟",
 			"Egyptian Arabic Audio": "eca-0048-9.mp3",
 			"Standard Arabic Audio": "msa-0048-9.mp3"
 		},
@@ -101,7 +101,7 @@
 			"English": "That's right. I'll install a Santa Claus, too.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "صحيح. سوف تثبيت سانتا كلوز، أيضا.",
 			"Egyptian Arabic Audio": "eca-0048-10.mp3",
 			"Standard Arabic Audio": "msa-0048-10.mp3"
 		},
@@ -111,7 +111,7 @@
 			"English": "You sure are full of Christmas spirit!",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنت متأكد من أن مليئة روح عيد الميلاد!",
 			"Egyptian Arabic Audio": "eca-0048-11.mp3",
 			"Standard Arabic Audio": "msa-0048-11.mp3"
 		},
@@ -121,7 +121,7 @@
 			"English": "Of course! It only comes once a year!",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "بالتاكيد! ويأتي مرة واحدة فقط في السنة!",
 			"Egyptian Arabic Audio": "eca-0048-12.mp3",
 			"Standard Arabic Audio": "msa-0048-12.mp3"
 		}

@@ -11,7 +11,7 @@
 			"English": "What classes have you taken so far?",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ما هي الفئات التي اتخذتموها حتى الآن؟",
 			"Egyptian Arabic Audio": "eca-1047-1.mp3",
 			"Standard Arabic Audio": "msa-1047-1.mp3"
 		},
@@ -21,7 +21,7 @@
 			"English": "I've been working on my GE classes.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لقد كنت أعمل على فصول غي.",
 			"Egyptian Arabic Audio": "eca-1047-2.mp3",
 			"Standard Arabic Audio": "msa-1047-2.mp3"
 		},
@@ -31,7 +31,7 @@
 			"English": "Is that all?",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هل هذا كل شيء؟",
 			"Egyptian Arabic Audio": "eca-1047-3.mp3",
 			"Standard Arabic Audio": "msa-1047-3.mp3"
 		},
@@ -41,7 +41,7 @@
 			"English": "That's it for right now.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هذا كل شيء في الوقت الحالي.",
 			"Egyptian Arabic Audio": "eca-1047-4.mp3",
 			"Standard Arabic Audio": "msa-1047-4.mp3"
 		},
@@ -51,7 +51,7 @@
 			"English": "What about your other classes?",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ماذا عن الطبقات الأخرى؟",
 			"Egyptian Arabic Audio": "eca-1047-5.mp3",
 			"Standard Arabic Audio": "msa-1047-5.mp3"
 		},
@@ -61,7 +61,7 @@
 			"English": "I'm working towards transferring schools.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنا أعمل على نقل المدارس.",
 			"Egyptian Arabic Audio": "eca-1047-6.mp3",
 			"Standard Arabic Audio": "msa-1047-6.mp3"
 		},
@@ -71,7 +71,7 @@
 			"English": "Which classes have you finished already?",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ما هي الفئات التي انتهيت منها بالفعل؟",
 			"Egyptian Arabic Audio": "eca-1047-7.mp3",
 			"Standard Arabic Audio": "msa-1047-7.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "I've finished all my English and math classes.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لقد أنهيت جميع دروس اللغة الإنجليزية والرياضيات.",
 			"Egyptian Arabic Audio": "eca-1047-8.mp3",
 			"Standard Arabic Audio": "msa-1047-8.mp3"
 		},
@@ -91,7 +91,7 @@
 			"English": "How many classes do you have left for your GE?",
 			"Word Count": 10,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كم عدد الطبقات التي تركتها ل غي الخاص بك؟",
 			"Egyptian Arabic Audio": "eca-1047-9.mp3",
 			"Standard Arabic Audio": "msa-1047-9.mp3"
 		},
@@ -101,7 +101,7 @@
 			"English": "Only three.",
 			"Word Count": 2,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "فقط ثلاثة.",
 			"Egyptian Arabic Audio": "eca-1047-10.mp3",
 			"Standard Arabic Audio": "msa-1047-10.mp3"
 		},
@@ -111,7 +111,7 @@
 			"English": "That's amazing.",
 			"Word Count": 2,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هذا رائع.",
 			"Egyptian Arabic Audio": "eca-1047-11.mp3",
 			"Standard Arabic Audio": "msa-1047-11.mp3"
 		},
@@ -121,7 +121,7 @@
 			"English": "I'm almost ready to transfer.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنا تقريبا على استعداد لنقل.",
 			"Egyptian Arabic Audio": "eca-1047-12.mp3",
 			"Standard Arabic Audio": "msa-1047-12.mp3"
 		},
@@ -131,7 +131,7 @@
 			"English": "Which classes have you completed?",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ما هي الفئات التي أكملتها؟",
 			"Egyptian Arabic Audio": "eca-1047-14.mp3",
 			"Standard Arabic Audio": "msa-1047-14.mp3"
 		},
@@ -141,7 +141,7 @@
 			"English": "I have been taking classes for my General Education.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لقد أخذت دروسا في التعليم العام.",
 			"Egyptian Arabic Audio": "eca-1047-15.mp3",
 			"Standard Arabic Audio": "msa-1047-15.mp3"
 		},
@@ -151,7 +151,7 @@
 			"English": "Those are the only classes?",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "تلك هي الطبقات الوحيدة؟",
 			"Egyptian Arabic Audio": "eca-1047-16.mp3",
 			"Standard Arabic Audio": "msa-1047-16.mp3"
 		},
@@ -161,7 +161,7 @@
 			"English": "That's all I need to take right now.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هذا كل ما أحتاج إلى اتخاذه الآن.",
 			"Egyptian Arabic Audio": "eca-1047-17.mp3",
 			"Standard Arabic Audio": "msa-1047-17.mp3"
 		},
@@ -171,7 +171,7 @@
 			"English": "Why don't you take any other classes?",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لماذا لا تأخذ أي فئات أخرى؟",
 			"Egyptian Arabic Audio": "eca-1047-18.mp3",
 			"Standard Arabic Audio": "msa-1047-18.mp3"
 		},
@@ -181,7 +181,7 @@
 			"English": "I'm just working on transferring right now.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنا مجرد العمل على نقل الآن.",
 			"Egyptian Arabic Audio": "eca-1047-19.mp3",
 			"Standard Arabic Audio": "msa-1047-19.mp3"
 		},
@@ -191,7 +191,7 @@
 			"English": "What classes are you done with?",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ما هي الفئات التي قمت بها؟",
 			"Egyptian Arabic Audio": "eca-1047-20.mp3",
 			"Standard Arabic Audio": "msa-1047-20.mp3"
 		},
@@ -201,7 +201,7 @@
 			"English": "I'm done with all my math and English classes.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنا فعلت مع كل ما عندي الرياضيات والطبقات الإنجليزية.",
 			"Egyptian Arabic Audio": "eca-1047-21.mp3",
 			"Standard Arabic Audio": "msa-1047-21.mp3"
 		},
@@ -211,7 +211,7 @@
 			"English": "How many more classes do you need to finish for your GE?",
 			"Word Count": 12,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كم عدد الطبقات التي تحتاج إلى الانتهاء ل غي الخاص بك؟",
 			"Egyptian Arabic Audio": "eca-1047-22.mp3",
 			"Standard Arabic Audio": "msa-1047-22.mp3"
 		},
@@ -221,7 +221,7 @@
 			"English": "I have three more.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لدي ثلاثة آخرين.",
 			"Egyptian Arabic Audio": "eca-1047-23.mp3",
 			"Standard Arabic Audio": "msa-1047-23.mp3"
 		},
@@ -231,7 +231,7 @@
 			"English": "That's great!",
 			"Word Count": 2,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ذلك رائع!",
 			"Egyptian Arabic Audio": "eca-1047-24.mp3",
 			"Standard Arabic Audio": "msa-1047-24.mp3"
 		},
@@ -241,7 +241,7 @@
 			"English": "I just need three more classes, and I can transfer.",
 			"Word Count": 10,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنا فقط بحاجة إلى ثلاث فئات أخرى، ويمكنني أن نقل.",
 			"Egyptian Arabic Audio": "eca-1047-25.mp3",
 			"Standard Arabic Audio": "msa-1047-25.mp3"
 		},
@@ -251,7 +251,7 @@
 			"English": "What classes have you been taking?",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ما هي الفئات التي كنت تأخذها؟",
 			"Egyptian Arabic Audio": "eca-1047-26.mp3",
 			"Standard Arabic Audio": "msa-1047-26.mp3"
 		},
@@ -261,7 +261,7 @@
 			"English": "I've been taking my GE classes.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لقد كنت أخذ بلدي غي الطبقات.",
 			"Egyptian Arabic Audio": "eca-1047-27.mp3",
 			"Standard Arabic Audio": "msa-1047-27.mp3"
 		},
@@ -271,7 +271,7 @@
 			"English": "That's it?",
 			"Word Count": 2,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هذا هو؟",
 			"Egyptian Arabic Audio": "eca-1047-28.mp3",
 			"Standard Arabic Audio": "msa-1047-28.mp3"
 		},
@@ -281,7 +281,7 @@
 			"English": "That's all that I need right now.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هذا كل ما أحتاجه الآن.",
 			"Egyptian Arabic Audio": "eca-1047-29.mp3",
 			"Standard Arabic Audio": "msa-1047-29.mp3"
 		},
@@ -291,7 +291,7 @@
 			"English": "Why haven't you been taking any other classes?",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لماذا لم تكن تأخذ أي فئات أخرى؟",
 			"Egyptian Arabic Audio": "eca-1047-30.mp3",
 			"Standard Arabic Audio": "msa-1047-30.mp3"
 		},
@@ -301,7 +301,7 @@
 			"English": "I'm taking classes so that I can transfer soon.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنا أخذ الدروس حتى أستطيع أن نقل قريبا.",
 			"Egyptian Arabic Audio": "eca-1047-31.mp3",
 			"Standard Arabic Audio": "msa-1047-31.mp3"
 		},
@@ -311,7 +311,7 @@
 			"English": "What classes have you taken so far?",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ما هي الفئات التي اتخذتموها حتى الآن؟",
 			"Egyptian Arabic Audio": "eca-1047-32.mp3",
 			"Standard Arabic Audio": "msa-1047-32.mp3"
 		},
@@ -321,7 +321,7 @@
 			"English": "I don't need to take any more English or math classes.",
 			"Word Count": 11,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنا لست بحاجة إلى اتخاذ أي أكثر الإنجليزية أو الرياضيات الطبقات.",
 			"Egyptian Arabic Audio": "eca-1047-33.mp3",
 			"Standard Arabic Audio": "msa-1047-33.mp3"
 		},
@@ -331,7 +331,7 @@
 			"English": "How many GE classes do you have left?",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "كم عدد دروس غي التي تركتها؟",
 			"Egyptian Arabic Audio": "eca-1047-34.mp3",
 			"Standard Arabic Audio": "msa-1047-34.mp3"
 		},
@@ -341,7 +341,7 @@
 			"English": "I have about three left.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لدي حوالي ثلاثة يسار.",
 			"Egyptian Arabic Audio": "eca-1047-35.mp3",
 			"Standard Arabic Audio": "msa-1047-35.mp3"
 		},
@@ -351,7 +351,7 @@
 			"English": "Good job!",
 			"Word Count": 2,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "عمل جيد!",
 			"Egyptian Arabic Audio": "eca-1047-36.mp3",
 			"Standard Arabic Audio": "msa-1047-36.mp3"
 		},
@@ -361,7 +361,7 @@
 			"English": "Yeah. I'm just about ready to transfer.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "بلى. أنا فقط على استعداد لنقل.",
 			"Egyptian Arabic Audio": "eca-1047-37.mp3",
 			"Standard Arabic Audio": "msa-1047-37.mp3"
 		}

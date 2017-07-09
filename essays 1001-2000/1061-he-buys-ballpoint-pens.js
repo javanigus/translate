@@ -9,7 +9,7 @@
 			"English": "The door to the store is open.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "باب المتجر مفتوح.",
 			"Egyptian Arabic Audio": "eca-1061-1.mp3",
 			"Standard Arabic Audio": "msa-1061-1.mp3"
 		},
@@ -18,7 +18,7 @@
 			"English": "He walks in.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يمشي في.",
 			"Egyptian Arabic Audio": "eca-1061-2.mp3",
 			"Standard Arabic Audio": "msa-1061-2.mp3"
 		},
@@ -27,7 +27,7 @@
 			"English": "He looks around.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انه ينظر حولها.",
 			"Egyptian Arabic Audio": "eca-1061-3.mp3",
 			"Standard Arabic Audio": "msa-1061-3.mp3"
 		},
@@ -36,7 +36,7 @@
 			"English": "He wants to buy a pen.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يريد شراء قلم.",
 			"Egyptian Arabic Audio": "eca-1061-4.mp3",
 			"Standard Arabic Audio": "msa-1061-4.mp3"
 		},
@@ -45,7 +45,7 @@
 			"English": "He walks to the back of the store.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "يمشي إلى الجزء الخلفي من المخزن.",
 			"Egyptian Arabic Audio": "eca-1061-5.mp3",
 			"Standard Arabic Audio": "msa-1061-5.mp3"
 		},
@@ -54,7 +54,7 @@
 			"English": "He sees pens and pencils.",
 			"Word Count": 5,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وهو يرى الأقلام وأقلام الرصاص.",
 			"Egyptian Arabic Audio": "eca-1061-6.mp3",
 			"Standard Arabic Audio": "msa-1061-6.mp3"
 		},
@@ -63,7 +63,7 @@
 			"English": "He sees a package of ballpoint pens.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "وهو يرى مجموعة من أقلام الحبر.",
 			"Egyptian Arabic Audio": "eca-1061-7.mp3",
 			"Standard Arabic Audio": "msa-1061-7.mp3"
 		},
@@ -72,7 +72,7 @@
 			"English": "They have black ink.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لديهم الحبر الأسود.",
 			"Egyptian Arabic Audio": "eca-1061-8.mp3",
 			"Standard Arabic Audio": "msa-1061-8.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "He grabs a package.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "انه الاستيلاء على حزمة.",
 			"Egyptian Arabic Audio": "eca-1061-9.mp3",
 			"Standard Arabic Audio": "msa-1061-9.mp3"
 		},
@@ -90,7 +90,7 @@
 			"English": "He takes it to the cashier.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ويأخذها إلى أمين الصندوق.",
 			"Egyptian Arabic Audio": "eca-1061-10.mp3",
 			"Standard Arabic Audio": "msa-1061-10.mp3"
 		}

@@ -11,7 +11,7 @@
 			"English": "I eat the same thing every day.",
 			"Word Count": 7,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أكل نفس الشيء كل يوم.",
 			"Egyptian Arabic Audio": "eca-0413-1.mp3",
 			"Standard Arabic Audio": "msa-0413-1.mp3"
 		},
@@ -21,7 +21,7 @@
 			"English": "You're kidding.",
 			"Word Count": 2,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أنت تمزح.",
 			"Egyptian Arabic Audio": "eca-0413-2.mp3",
 			"Standard Arabic Audio": "msa-0413-2.mp3"
 		},
@@ -31,7 +31,7 @@
 			"English": "No, I'm serious.",
 			"Word Count": 3,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لا أنا جاد.",
 			"Egyptian Arabic Audio": "eca-0413-3.mp3",
 			"Standard Arabic Audio": "msa-0413-3.mp3"
 		},
@@ -41,7 +41,7 @@
 			"English": "Doesn't that get old?",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ألا تحصل على القديم؟",
 			"Egyptian Arabic Audio": "eca-0413-4.mp3",
 			"Standard Arabic Audio": "msa-0413-4.mp3"
 		},
@@ -51,7 +51,7 @@
 			"English": "No, because I'm eating food that I like.",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لا، لأنني أكل الطعام الذي أحب.",
 			"Egyptian Arabic Audio": "eca-0413-5.mp3",
 			"Standard Arabic Audio": "msa-0413-5.mp3"
 		},
@@ -61,7 +61,7 @@
 			"English": "But the same thing day after day gets old.",
 			"Word Count": 9,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ولكن الشيء نفسه يوما بعد يوم يحصل القديم.",
 			"Egyptian Arabic Audio": "eca-0413-6.mp3",
 			"Standard Arabic Audio": "msa-0413-6.mp3"
 		},
@@ -71,7 +71,7 @@
 			"English": "Well, I guess if it ever does get old, I'll change to something different.",
 			"Word Count": 14,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "حسنا، أعتقد إذا كان أي وقت مضى لا يحصل على القديم، وأنا سوف تتغير إلى شيء مختلف.",
 			"Egyptian Arabic Audio": "eca-0413-7.mp3",
 			"Standard Arabic Audio": "msa-0413-7.mp3"
 		},
@@ -81,7 +81,7 @@
 			"English": "Do you eat fruits and vegetables every day?",
 			"Word Count": 8,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "هل تأكل الفواكه والخضروات كل يوم؟",
 			"Egyptian Arabic Audio": "eca-0413-8.mp3",
 			"Standard Arabic Audio": "msa-0413-8.mp3"
 		},
@@ -91,7 +91,7 @@
 			"English": "No, I hate vegetables.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "لا، أنا أكره الخضراوات.",
 			"Egyptian Arabic Audio": "eca-0413-9.mp3",
 			"Standard Arabic Audio": "msa-0413-9.mp3"
 		},
@@ -101,7 +101,7 @@
 			"English": "But you eat fruits.",
 			"Word Count": 4,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "ولكن كنت تأكل الفواكه.",
 			"Egyptian Arabic Audio": "eca-0413-10.mp3",
 			"Standard Arabic Audio": "msa-0413-10.mp3"
 		},
@@ -111,7 +111,7 @@
 			"English": "I eat two apples, one banana, and one orange every day.",
 			"Word Count": 11,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "أكل اثنين من التفاح والموز واحد، والبرتقالي واحد كل يوم.",
 			"Egyptian Arabic Audio": "eca-0413-11.mp3",
 			"Standard Arabic Audio": "msa-0413-11.mp3"
 		},
@@ -121,7 +121,7 @@
 			"English": "Well, there's nothing wrong with that.",
 			"Word Count": 6,
 			"Egyptian Arabic": "",
-			"Standard Arabic": "",
+			"Standard Arabic": "حسنا، ليس هناك شيء خاطئ في ذلك.",
 			"Egyptian Arabic Audio": "eca-0413-12.mp3",
 			"Standard Arabic Audio": "msa-0413-12.mp3"
 		}
